@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -457,6 +457,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -464,6 +465,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -471,6 +473,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -478,6 +481,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -485,6 +489,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -492,6 +497,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -499,6 +505,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -506,6 +513,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -820,6 +828,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -987,6 +996,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -994,6 +1004,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1001,6 +1012,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1008,6 +1020,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1015,6 +1028,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1022,6 +1036,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1029,6 +1044,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -1172,6 +1188,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1179,6 +1196,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1186,6 +1204,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1193,6 +1212,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1200,6 +1220,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1207,6 +1228,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1214,6 +1236,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -1484,6 +1507,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1491,6 +1515,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1498,6 +1523,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1505,6 +1531,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1512,6 +1539,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1519,6 +1547,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1526,6 +1555,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -1668,6 +1698,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1675,6 +1706,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1682,6 +1714,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1689,6 +1722,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1696,6 +1730,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1703,6 +1738,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1710,6 +1746,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -1766,10 +1803,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹87/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -1805,6 +1842,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -1819,6 +1857,7 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:damaged",
    "hair:all",
@@ -1976,6 +2015,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1983,6 +2023,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1990,6 +2031,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1997,6 +2039,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2004,6 +2047,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2011,6 +2055,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2018,6 +2063,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2166,6 +2212,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2173,6 +2220,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2180,6 +2228,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2187,6 +2236,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2194,6 +2244,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2201,6 +2252,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2208,6 +2260,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2352,6 +2405,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2359,6 +2413,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2366,6 +2421,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2373,6 +2429,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2380,6 +2437,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2387,6 +2445,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2394,6 +2453,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2543,6 +2603,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2550,6 +2611,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2557,6 +2619,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2564,6 +2627,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2571,6 +2635,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2578,6 +2643,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2585,6 +2651,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2728,6 +2795,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2735,6 +2803,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2742,6 +2811,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2749,6 +2819,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2756,6 +2827,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2763,6 +2835,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2770,6 +2843,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2912,6 +2986,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2919,6 +2994,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2926,6 +3002,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2933,6 +3010,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2940,6 +3018,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2947,6 +3026,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2954,6 +3034,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3048,6 +3129,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
@@ -3098,6 +3180,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3105,6 +3188,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3112,6 +3196,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3119,6 +3204,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3126,6 +3212,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3133,6 +3220,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3140,6 +3228,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3283,6 +3372,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3290,6 +3380,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3297,6 +3388,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3304,6 +3396,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3311,6 +3404,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3318,6 +3412,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3325,6 +3420,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3468,6 +3564,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3475,6 +3572,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3482,6 +3580,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3489,6 +3588,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3496,6 +3596,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3503,6 +3604,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3510,6 +3612,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3568,7 +3671,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹133/100ml",
    "format": "Spray",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
+   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Sea salt, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -3608,6 +3711,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:keratin",
    "ing:hydrolysed-protein",
    "ing:dimethicone-silicones",
@@ -3653,6 +3757,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3660,6 +3765,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3667,6 +3773,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3674,6 +3781,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3681,6 +3789,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3688,6 +3797,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3695,6 +3805,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3838,6 +3949,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3845,6 +3957,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3852,6 +3965,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3859,6 +3973,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3866,6 +3981,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3873,6 +3989,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3880,6 +3997,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4027,6 +4145,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4034,6 +4153,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4041,6 +4161,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4048,6 +4169,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4055,6 +4177,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4062,6 +4185,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4069,6 +4193,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4211,6 +4336,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4218,6 +4344,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4225,6 +4352,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4232,6 +4360,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4239,6 +4368,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4246,6 +4376,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4253,6 +4384,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4347,6 +4479,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -4398,6 +4531,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4405,6 +4539,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4412,6 +4547,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4419,6 +4555,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4426,6 +4563,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4433,6 +4571,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4440,6 +4579,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4586,6 +4726,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4593,6 +4734,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4600,6 +4742,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4607,6 +4750,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4614,6 +4758,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4621,6 +4766,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4628,6 +4774,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4776,6 +4923,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4783,6 +4931,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4790,6 +4939,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4797,6 +4947,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4804,6 +4955,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4811,6 +4963,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4818,6 +4971,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4963,6 +5117,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4970,6 +5125,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -4977,6 +5133,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4984,6 +5141,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4991,6 +5149,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4998,6 +5157,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5005,6 +5165,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5148,6 +5309,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5155,6 +5317,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5162,6 +5325,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5169,6 +5333,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5176,6 +5341,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5183,6 +5349,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5190,6 +5357,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5331,6 +5499,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5338,6 +5507,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5345,6 +5515,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5352,6 +5523,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5359,6 +5531,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5366,6 +5539,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5373,6 +5547,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5519,6 +5694,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5526,6 +5702,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5533,6 +5710,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5540,6 +5718,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5547,6 +5726,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5554,6 +5734,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5561,6 +5742,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5703,6 +5885,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5710,6 +5893,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5717,6 +5901,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5724,6 +5909,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5731,6 +5917,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5738,6 +5925,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5745,6 +5933,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5890,6 +6079,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5897,6 +6087,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5904,6 +6095,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5911,6 +6103,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5918,6 +6111,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5925,6 +6119,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -5932,6 +6127,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6077,6 +6273,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6084,6 +6281,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6091,6 +6289,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6098,6 +6297,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6105,6 +6305,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6112,6 +6313,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6119,6 +6321,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6264,6 +6467,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6271,6 +6475,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6278,6 +6483,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6285,6 +6491,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6292,6 +6499,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6299,6 +6507,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6306,6 +6515,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6450,6 +6660,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6457,6 +6668,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6464,6 +6676,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6471,6 +6684,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6478,6 +6692,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6485,6 +6700,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6492,6 +6708,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -11295,7 +11512,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Aloe vera, Argan oil, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -11335,6 +11552,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -16451,7 +16669,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Vitamin E, Gold, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Hold (styling), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Straight hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -16496,6 +16714,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:hold",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:curly",
    "hair:straight",
@@ -16637,10 +16856,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
      "name": "butyrospermum parkii butter",
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -16648,6 +16876,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -16655,6 +16884,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -18465,6 +18695,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -18472,6 +18703,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -18479,6 +18711,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -18486,6 +18719,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -18493,6 +18727,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -18500,6 +18735,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -18507,6 +18743,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -19011,6 +19248,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19018,6 +19256,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19025,6 +19264,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -19032,6 +19272,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -19399,7 +19640,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray Hair Volume, Texture, Heat Protectant, Hold - Styling Hair Styler Hair Spra…",
   "price": 195,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹195/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -19420,7 +19661,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹195/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -19454,6 +19695,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:volume",
    "concern:heat-protection",
    "concern:hold",
@@ -19507,7 +19749,7 @@ const HAIRPRODUCTS = [
   "model": "Texturizing Sea Salt Spray | Heat Protectant | Keratin & Aloe Vera extract | Hair Spray",
   "price": 626,
   "capacityLine": "200 ml",
-  "materialLine": "Aloe vera + Keratin",
+  "materialLine": "Aloe vera + Sea salt + Keratin",
   "featureLine": "Spray · ₹313/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -19526,7 +19768,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹313/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aloe vera, Keratin (named on listing)",
+   "keyIngredients": "Aloe vera, Sea salt, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
@@ -19561,6 +19803,7 @@ const HAIRPRODUCTS = [
    "format:hair-spray",
    "format:texture-spray",
    "ing:aloe-vera",
+   "ing:sea-salt",
    "ing:keratin",
    "concern:dryness",
    "concern:heat-protection",
@@ -19616,7 +19859,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray Hair Volume, Texture, Heat Protectant, Hold - Styling Hair Spray Hair Spray",
   "price": 150,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹150/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -19635,7 +19878,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹150/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -19669,6 +19912,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:volume",
    "concern:heat-protection",
    "concern:hold",
@@ -19723,7 +19967,7 @@ const HAIRPRODUCTS = [
   "model": "Beach Waves Sea Salt Spray Adds Volume| Texturizer & Heat Protectant | 100 ml Hair Spray",
   "price": 162,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹162/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -19742,7 +19986,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹162/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Volume / body, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
@@ -19776,6 +20020,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:volume",
    "concern:heat-protection",
    "concern:hold",
@@ -19832,7 +20077,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray Hair Volume, Texture, Heat Protectant, Hold - Styling Hair Spray",
   "price": 113,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹113/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -19851,7 +20096,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹113/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -19885,6 +20130,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:volume",
    "concern:heat-protection",
    "concern:hold",
@@ -20272,7 +20518,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray (100ml) Hair Volume, Texture, Heat Protectant, Hold - Styling Hair Spray",
   "price": 286,
   "capacityLine": "100 ml",
-  "materialLine": "Ginseng + Bhringraj",
+  "materialLine": "Ginseng + Sea salt + Bhringraj",
   "featureLine": "Spray · ₹286/100ml",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dasher official website (dasher.co.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -20291,7 +20537,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹286/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Ginseng, Bhringraj (named on listing)",
+   "keyIngredients": "Ginseng, Sea salt, Bhringraj (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -20329,6 +20575,7 @@ const HAIRPRODUCTS = [
    "format:hair-spray",
    "format:texture-spray",
    "ing:ginseng",
+   "ing:sea-salt",
    "ing:bhringraj",
    "concern:damage-repair",
    "concern:volume",
@@ -20363,13 +20610,22 @@ const HAIRPRODUCTS = [
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.7,
-   "recognised": 0.81,
+   "recognised": 0.88,
    "actives": [
+    {
+     "name": "sea salt",
+     "grade": "C",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
     {
      "name": "eclipta prostrata extract",
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -20402,7 +20658,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Styling Spray- Italian Quality Heat Protection Spray For Hair | Hair Volume Hair Spra…",
   "price": 328,
   "capacityLine": "10 g",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹3280/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -20422,7 +20678,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹3280/100g",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Thinning / density, Volume / body, Heat protection, Hold (styling), Matte finish, Restylable / no flakes (seller claim — not clinical proof)",
@@ -20459,6 +20715,7 @@ const HAIRPRODUCTS = [
    "format:wax",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:thinning",
    "concern:volume",
    "concern:heat-protection",
@@ -20538,7 +20795,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -20573,6 +20830,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -20648,7 +20906,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -20685,6 +20943,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -21008,6 +21267,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -21392,7 +21652,7 @@ const HAIRPRODUCTS = [
   "model": "sea salt hair Texturizing Hair Spray For men,,Volume & Heat protection Hair Mist",
   "price": 149,
   "capacityLine": "120 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹124/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -21411,7 +21671,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹124/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
@@ -21445,6 +21705,8 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
+   "ing:sea-salt",
    "concern:shine",
    "concern:volume",
    "concern:heat-protection",
@@ -21478,7 +21740,7 @@ const HAIRPRODUCTS = [
    "inciUnverified": "sea salt",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": 0,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -22282,7 +22544,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -22317,6 +22579,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -22588,6 +22851,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22595,6 +22859,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22602,6 +22867,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22609,6 +22875,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -22616,6 +22883,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -22748,6 +23016,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22755,6 +23024,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22762,6 +23032,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -22769,6 +23040,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22776,6 +23048,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -22783,6 +23056,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22790,6 +23064,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -22930,6 +23205,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22937,6 +23213,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22944,6 +23221,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -22951,6 +23229,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22958,6 +23237,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -22965,6 +23245,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -22972,6 +23253,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -23114,6 +23396,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23121,6 +23404,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23128,6 +23412,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23135,6 +23420,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23142,6 +23428,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23149,6 +23436,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23156,6 +23444,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -23298,6 +23587,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23305,6 +23595,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23312,6 +23603,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23319,6 +23611,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23326,6 +23619,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23333,6 +23627,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23340,6 +23635,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -23480,6 +23776,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23487,6 +23784,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23494,6 +23792,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23501,6 +23800,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23508,6 +23808,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23515,6 +23816,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23522,6 +23824,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -23664,6 +23967,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23671,6 +23975,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23678,6 +23983,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23685,6 +23991,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23692,6 +23999,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23699,6 +24007,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23706,6 +24015,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -23764,7 +24074,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹144/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Rosemary, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
+   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Volume / body, Heat protection (seller claim — not clinical proof)",
@@ -23804,6 +24114,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -23851,6 +24162,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23858,6 +24170,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23865,6 +24178,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23872,6 +24186,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23879,6 +24194,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23886,6 +24202,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -23893,6 +24210,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -30182,7 +30500,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹136/100ml",
    "format": "Spray",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Aloe vera, Argan oil, Rosemary (named on listing)",
+   "keyIngredients": "Rice water, Aloe vera, Argan oil, Sea salt, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Smoothing / straightening, Volume / body, Heat protection (seller claim — not clinical proof)",
@@ -30220,6 +30538,7 @@ const HAIRPRODUCTS = [
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "concern:hair-growth",
    "concern:smoothing",
@@ -31988,7 +32307,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Vitamin E, Argan oil, Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -32032,6 +32351,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "hair:all",
    "free:vegan",
@@ -32318,7 +32638,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Glycerin, Redensyl, Onion, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Heat protection, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Curly hair, Fine / thin hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -32361,6 +32681,7 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:humidity",
    "hair:dry",
    "hair:oily",
    "hair:curly",
@@ -34047,6 +34368,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:vitamin-b5-panthenol",
    "ing:panthenol",
    "concern:heat-protection",
@@ -34793,10 +35115,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹173/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Caffeine, Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Caffeine, Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Heat protection, Hold (styling), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Wavy hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -34828,10 +35150,12 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:caffeine",
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -34843,6 +35167,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:hold",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:wavy",
    "hair:damaged",
@@ -35021,10 +35346,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹173/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Gold, Rosemary, Keratin, Biotin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Gold, Sea salt, Rosemary, Keratin, Biotin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Scalp health, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Scalp health, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Wavy hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -35060,6 +35385,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
    "ing:gold",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -35076,6 +35402,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:scalp-health",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:wavy",
    "hair:damaged",
@@ -35401,6 +35728,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:argan-oil",
    "concern:dryness",
    "concern:heat-protection",
@@ -35685,10 +36013,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹87/100ml",
    "format": "Spray",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Hold (styling), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -35724,6 +36052,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -35738,6 +36067,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:hold",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:damaged",
    "hair:all",
@@ -35924,7 +36254,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Damage repair, Shine / gloss, Heat protection, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -35959,6 +36289,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:shine",
    "concern:heat-protection",
+   "concern:odour",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -36115,6 +36446,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36122,6 +36454,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36129,6 +36462,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36136,6 +36470,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36143,6 +36478,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36150,6 +36486,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36157,6 +36494,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -36215,7 +36553,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹150/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Rosemary, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
+   "keyIngredients": "Aloe vera, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Dimethicone / silicones, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Smoothing / straightening, Volume / body, Heat protection (seller claim — not clinical proof)",
@@ -36255,6 +36593,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -36303,6 +36642,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36310,6 +36650,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36317,6 +36658,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36324,6 +36666,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36331,6 +36674,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36338,6 +36682,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36345,6 +36690,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -36439,6 +36785,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -36491,6 +36838,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36498,6 +36846,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36505,6 +36854,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36512,6 +36862,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36519,6 +36870,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36526,6 +36878,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36533,6 +36886,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -36678,6 +37032,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36685,6 +37040,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36692,6 +37048,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36699,6 +37056,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36706,6 +37064,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36713,6 +37072,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36720,6 +37080,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -36863,6 +37224,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36870,6 +37232,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36877,6 +37240,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36884,6 +37248,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36891,6 +37256,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36898,6 +37264,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36905,6 +37272,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -36964,7 +37332,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Aloe vera, Argan oil, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -37002,6 +37370,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -38687,6 +39056,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -38742,6 +39112,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -38749,6 +39120,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -38756,6 +39128,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38763,6 +39136,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -38770,6 +39144,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38777,6 +39152,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -38784,6 +39160,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38908,10 +39285,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
      "name": "butyrospermum parkii butter",
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -38919,6 +39305,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -38926,6 +39313,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -38960,7 +39348,7 @@ const HAIRPRODUCTS = [
   "model": "100% Plant based Natural Heat Protection Spray with EXTRA SHINE Hair Spray",
   "price": 458,
   "capacityLine": "200 ml",
-  "materialLine": "Vitamin E + Argan oil",
+  "materialLine": "Vitamin E + Argan oil + Chamomile",
   "featureLine": "Spray · ₹229/100ml",
   "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Ktein official website (ktein.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -38979,7 +39367,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹229/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin E, Argan oil (named on listing)",
+   "keyIngredients": "Vitamin E, Argan oil, Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
@@ -39017,6 +39405,7 @@ const HAIRPRODUCTS = [
    "format:hair-spray",
    "ing:vitamin-e",
    "ing:argan-oil",
+   "ing:chamomile",
    "concern:damage-repair",
    "concern:smoothing",
    "concern:shine",
@@ -39055,10 +39444,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
      "name": "butyrospermum parkii butter",
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -39066,6 +39464,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -39073,6 +39472,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -39242,7 +39642,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -39279,6 +39679,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -39887,6 +40288,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -39894,6 +40296,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -39901,6 +40304,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39908,6 +40312,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -39915,6 +40320,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39922,6 +40328,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -39929,6 +40336,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40074,6 +40482,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40081,6 +40490,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40088,6 +40498,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40095,6 +40506,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40102,6 +40514,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40109,6 +40522,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40116,6 +40530,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40260,6 +40675,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40267,6 +40683,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40274,6 +40691,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40281,6 +40699,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40288,6 +40707,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40295,6 +40715,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40302,6 +40723,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40567,6 +40989,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40574,6 +40997,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40581,6 +41005,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40588,6 +41013,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40595,6 +41021,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40602,6 +41029,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40609,6 +41037,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40753,6 +41182,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40760,6 +41190,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40767,6 +41198,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40774,6 +41206,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40781,6 +41214,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40788,6 +41222,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40795,6 +41230,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40941,6 +41377,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40948,6 +41385,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40955,6 +41393,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40962,6 +41401,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40969,6 +41409,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40976,6 +41417,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -40983,6 +41425,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41132,6 +41575,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41139,6 +41583,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41146,6 +41591,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41153,6 +41599,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -41160,6 +41607,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41167,6 +41615,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41174,6 +41623,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41318,6 +41768,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41325,6 +41776,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41332,6 +41784,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41339,6 +41792,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -41346,6 +41800,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41353,6 +41808,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41360,6 +41816,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41419,7 +41876,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Smoothing / straightening, Heat protection, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -41454,6 +41911,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:odour",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -41611,6 +42069,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41618,6 +42077,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41625,6 +42085,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41632,6 +42093,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -41639,6 +42101,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41646,6 +42109,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41653,6 +42117,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41797,6 +42262,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41804,6 +42270,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41811,6 +42278,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41818,6 +42286,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -41825,6 +42294,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41832,6 +42302,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41839,6 +42310,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41983,6 +42455,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41990,6 +42463,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -41997,6 +42471,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42004,6 +42479,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42011,6 +42487,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42018,6 +42495,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42025,6 +42503,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -42168,6 +42647,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42175,6 +42655,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42182,6 +42663,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42189,6 +42671,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42196,6 +42679,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42203,6 +42687,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42210,6 +42695,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -42353,6 +42839,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42360,6 +42847,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42367,6 +42855,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42374,6 +42863,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42381,6 +42871,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42388,6 +42879,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42395,6 +42887,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -42538,6 +43031,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42545,6 +43039,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42552,6 +43047,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42559,6 +43055,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42566,6 +43063,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42573,6 +43071,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42580,6 +43079,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -42722,6 +43222,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42729,6 +43230,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42736,6 +43238,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42743,6 +43246,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42750,6 +43254,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42757,6 +43262,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42764,6 +43270,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -42912,6 +43419,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42919,6 +43427,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42926,6 +43435,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42933,6 +43443,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42940,6 +43451,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -42947,6 +43459,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -42954,6 +43467,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -43127,7 +43641,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -43158,6 +43672,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
@@ -43169,6 +43684,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -43332,6 +43848,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -43339,6 +43856,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -43346,6 +43864,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -43353,6 +43872,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -43360,6 +43880,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -43367,6 +43888,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -43374,6 +43896,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -44841,6 +45364,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -44895,6 +45419,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -44902,6 +45427,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -44909,6 +45435,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44916,6 +45443,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -44923,6 +45451,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44930,6 +45459,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -44937,6 +45467,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -45649,10 +46180,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹163/100ml",
    "format": "Spray",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Heat protection, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Wavy hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -45687,6 +46218,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -45699,6 +46231,7 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:wavy",
    "hair:damaged",
@@ -45866,6 +46399,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -45873,6 +46407,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -45880,6 +46415,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45887,6 +46423,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -45894,6 +46431,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45901,6 +46439,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -45908,6 +46447,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -45967,7 +46507,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Colloidal oatmeal, Vitamin B5 / panthenol, Glycerin, Rosemary, Keratin, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Heat protection, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -46010,6 +46550,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:odour",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -46627,6 +47168,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46634,6 +47176,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46641,6 +47184,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46648,6 +47192,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46655,6 +47200,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46662,6 +47208,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46669,6 +47216,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -46926,6 +47474,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46933,6 +47482,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46940,6 +47490,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46947,6 +47498,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46954,6 +47506,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46961,6 +47514,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46968,6 +47522,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -47112,6 +47667,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47119,6 +47675,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47126,6 +47683,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47133,6 +47691,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47140,6 +47699,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47147,6 +47707,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47154,6 +47715,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -47301,6 +47863,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47308,6 +47871,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47315,6 +47879,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47322,6 +47887,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47329,6 +47895,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47336,6 +47903,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47343,6 +47911,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -47487,6 +48056,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47494,6 +48064,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47501,6 +48072,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47508,6 +48080,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47515,6 +48088,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47522,6 +48096,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47529,6 +48104,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -47673,6 +48249,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47680,6 +48257,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47687,6 +48265,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47694,6 +48273,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47701,6 +48281,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47708,6 +48289,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47715,6 +48297,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -47858,6 +48441,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47865,6 +48449,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47872,6 +48457,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47879,6 +48465,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47886,6 +48473,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47893,6 +48481,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47900,6 +48489,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -48042,6 +48632,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48049,6 +48640,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48056,6 +48648,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48063,6 +48656,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48070,6 +48664,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48077,6 +48672,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48084,6 +48680,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -48225,6 +48822,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48232,6 +48830,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48239,6 +48838,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48246,6 +48846,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48253,6 +48854,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48260,6 +48862,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48267,6 +48870,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -48414,6 +49018,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48421,6 +49026,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48428,6 +49034,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48435,6 +49042,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48442,6 +49050,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48449,6 +49058,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48456,6 +49066,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -49200,7 +49811,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin B5 / panthenol, Argan oil, Milk, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -49241,7 +49852,6 @@ const HAIRPRODUCTS = [
    "ing:panthenol",
    "concern:frizz",
    "concern:damage-repair",
-   "concern:dryness",
    "concern:smoothing",
    "concern:shine",
    "concern:curl-definition",
@@ -53972,10 +54582,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹173/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Biotin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Biotin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Scalp health, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Scalp health, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Wavy hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -54010,6 +54620,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -54026,6 +54637,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:scalp-health",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:wavy",
    "hair:damaged",
@@ -54966,6 +55578,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -54973,6 +55586,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -54980,6 +55594,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54987,6 +55602,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -54994,6 +55610,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55001,6 +55618,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -55008,6 +55626,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -55152,6 +55771,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -55159,6 +55779,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -55166,6 +55787,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55173,6 +55795,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -55180,6 +55803,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55187,6 +55811,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -55194,6 +55819,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -56071,6 +56697,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -57036,6 +57663,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57043,6 +57671,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57050,6 +57679,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57057,6 +57687,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57064,6 +57695,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57071,6 +57703,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57078,6 +57711,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -57224,6 +57858,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57231,6 +57866,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57238,6 +57874,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57245,6 +57882,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57252,6 +57890,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57259,6 +57898,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57266,6 +57906,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -57408,6 +58049,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57415,6 +58057,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57422,6 +58065,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57429,6 +58073,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57436,6 +58081,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57443,6 +58089,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57450,6 +58097,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -57593,6 +58241,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57600,6 +58249,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57607,6 +58257,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57614,6 +58265,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57621,6 +58273,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57628,6 +58281,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57635,6 +58289,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -57723,6 +58378,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "concern:oily-scalp",
@@ -57836,6 +58492,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -57947,6 +58604,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:damage-repair",
@@ -58368,7 +59026,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -58403,6 +59061,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -64671,6 +65330,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:rosemary",
@@ -65053,6 +65713,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65060,6 +65721,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65067,6 +65729,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -65074,6 +65737,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -65081,6 +65745,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -65088,6 +65753,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65095,6 +65761,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -65467,6 +66134,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65474,6 +66142,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65481,6 +66150,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -65488,6 +66158,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -65495,6 +66166,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -65502,6 +66174,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -65509,6 +66182,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -68403,10 +69077,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹87/100ml",
    "format": "Spray",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Argan oil, Sea salt, Rosemary, Keratin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Hold (styling), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -68442,6 +69116,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:keratin",
    "ing:hydrolysed-protein",
@@ -68456,6 +69131,7 @@ const HAIRPRODUCTS = [
    "concern:heat-protection",
    "concern:hold",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:damaged",
    "hair:all",
@@ -68857,7 +69533,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Vitamin E, Keratin, Panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for men",
@@ -68896,6 +69572,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "free:paraben",
    "aud:men",
    "rating:4.0",
@@ -69285,6 +69962,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -69292,6 +69970,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -69299,6 +69978,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -69306,6 +69986,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -69313,6 +69994,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -69320,6 +70002,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -69327,6 +70010,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -69619,7 +70303,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Aloe vera, Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening, Heat protection, Hold (styling) (seller claim — not clinical proof)",
+   "hairConcern": "Smoothing / straightening, Heat protection, Hold (styling), Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -69656,6 +70340,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:heat-protection",
    "concern:hold",
+   "concern:detangling",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -70626,7 +71311,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Aloe vera, Argan oil, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -70664,6 +71349,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -70878,6 +71564,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -72177,7 +72864,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -72213,6 +72900,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "free:paraben",
    "aud:unisex",
    "size:large",
@@ -72391,7 +73079,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -72431,6 +73119,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:heat-protection",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "free:paraben",
@@ -72811,7 +73500,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Collagen, Argan oil, Coconut, Castor oil, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Thinning / density, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Thinning / density, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, Thick / coarse hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -72856,6 +73545,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -73368,6 +74059,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
@@ -73504,10 +74196,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
      "name": "butyrospermum parkii butter",
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -73515,6 +74216,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -73522,6 +74224,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -74126,6 +74829,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:frizz",
    "concern:damage-repair",
    "concern:smoothing",
@@ -74180,7 +74884,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray (100ml) Hair Volume, Texture, Heat Protectant, Hold - Styling Hair Spray",
   "price": 149,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -74200,7 +74904,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹149/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Volume / body, Heat protection, Hold (styling) (seller claim — not clinical proof)",
@@ -74230,6 +74934,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "format:hair-spray",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:volume",
    "concern:heat-protection",
    "concern:hold",
@@ -74533,6 +75238,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "spf:30",
    "ing:hyaluronic-acid",
    "ing:keratin",
@@ -74741,6 +75447,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:keratin",
    "concern:damage-repair",
    "concern:smoothing",
@@ -76480,7 +77187,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -76510,6 +77217,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:dryness",
    "concern:heat-protection",
+   "concern:detangling",
    "free:paraben",
    "aud:unisex",
    "size:standard",
@@ -76583,7 +77291,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -76613,6 +77321,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -77101,7 +77810,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -77131,6 +77840,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "concern:frizz",
    "concern:heat-protection",
+   "concern:detangling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -77502,7 +78212,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Ceramides (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -77533,6 +78243,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:damaged",
    "aud:unisex",
    "size:large",
@@ -78121,7 +78832,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -78152,6 +78863,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:humidity",
    "hair:all",
    "aud:unisex",
    "rating:3.5",
@@ -78351,6 +79063,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:vitamin-e",
    "ing:argan-oil",
    "ing:keratin",
@@ -78458,6 +79171,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:vitamin-e",
    "ing:keratin",
    "ing:panthenol",
@@ -78846,7 +79560,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -78887,6 +79601,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:dry",
    "hair:damaged",
    "free:paraben",
@@ -79088,6 +79804,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:mist",
    "format:heat-protectant",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:smoothing",
    "concern:heat-protection",
@@ -79506,6 +80223,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:almond",
    "ing:argan-oil",
    "ing:keratin",
@@ -79922,6 +80640,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "concern:frizz",
    "concern:damage-repair",
@@ -80181,7 +80900,7 @@ const HAIRPRODUCTS = [
   "model": "Sea Salt Spray (100ml) | Hair Styling | Texturizing | Matte Finish | Hair Volume | Beach W…",
   "price": 399,
   "capacityLine": "100 ml",
-  "materialLine": "Keratin",
+  "materialLine": "Sea salt + Keratin",
   "featureLine": "Spray · ₹399/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -80200,7 +80919,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹399/100ml",
    "format": "Spray",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Keratin (named on listing)",
+   "keyIngredients": "Sea salt, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Smoothing / straightening, Volume / body, Heat protection, Matte finish (seller claim — not clinical proof)",
@@ -80229,6 +80948,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "format:texture-spray",
+   "ing:sea-salt",
    "ing:keratin",
    "concern:oily-scalp",
    "concern:frizz",
@@ -80413,7 +81133,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil, Marula oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -80445,6 +81165,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -80906,7 +81627,7 @@ const HAIRPRODUCTS = [
   "model": "NEW LAVANILLA SEA SALT SPRAY FOR HAIR | NATURAL VOLUMER & SPFT TEXTURE. HEAT PROTECTION HA…",
   "price": 169,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Spray · ₹169/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -80926,7 +81647,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹169/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Heat protection (seller claim — not clinical proof)",
@@ -80955,6 +81676,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "format:texture-spray",
+   "ing:sea-salt",
    "concern:heat-protection",
    "aud:unisex",
    "size:standard",
@@ -81121,7 +81843,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Argan oil, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -81153,6 +81875,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:dryness",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "aud:unisex",
    "size:large",
@@ -82364,7 +83087,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Hydrolysed protein, Amino acids (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -82405,6 +83128,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -82580,7 +83304,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Shine / gloss, Heat protection, Hold (styling) (seller claim — not clinical proof)",
+   "hairConcern": "Shine / gloss, Heat protection, Hold (styling), Humidity resistant (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -82610,6 +83334,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:hold",
+   "concern:humidity",
    "hair:all",
    "free:vegan",
    "aud:unisex",
@@ -83562,6 +84287,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -83569,6 +84295,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -84492,7 +85219,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Volume / body, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -84517,6 +85244,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:mist",
    "concern:volume",
+   "concern:humidity",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -84650,10 +85378,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
      "name": "butyrospermum parkii butter",
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -84661,6 +85398,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -84668,6 +85406,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -85058,6 +85797,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:heat-protection",
    "aud:unisex",
    "size:large",
@@ -85333,7 +86073,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -85364,6 +86104,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:leave-in",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -85373,6 +86114,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:dry",
    "hair:damaged",
    "free:paraben",
@@ -86048,7 +86791,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -86078,6 +86821,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:humidity",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -86357,7 +87101,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Ceramides, Honey (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -86388,6 +87132,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "aud:unisex",
@@ -87355,7 +88100,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Water spray with mint - Heat Protection Spray For Hair regrowth, Rosemary Hair Mi…",
   "price": 179,
   "capacityLine": "100 ml",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Spray · ₹179/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -87374,7 +88119,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹179/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Frizz control, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
@@ -87402,7 +88147,9 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:hair-growth",
    "concern:frizz",
    "concern:smoothing",
@@ -88525,7 +89272,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hyaluronic acid (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Washes out easily (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Washes out easily, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -88567,6 +89314,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:wash-out",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -88857,7 +89606,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection, Odour / fragrance / freshness, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -88888,6 +89637,8 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:heat-protection",
+   "concern:odour",
+   "concern:detangling",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -89068,7 +89819,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin B5 / panthenol, Keratin, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Damage repair, Dryness / hydration, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -89105,6 +89856,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "aud:unisex",
@@ -90646,6 +91398,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "concern:frizz",
    "concern:damage-repair",
@@ -91153,6 +91906,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:frizz",
    "concern:damage-repair",
    "concern:smoothing",
@@ -91427,7 +92181,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Vitamin E, Argan oil, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Colour protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Colour protection, Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -91462,6 +92216,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:colour-protect",
    "concern:restyle",
+   "concern:detangling",
    "free:paraben",
    "aud:unisex",
    "size:travel",
@@ -92450,7 +93205,7 @@ const HAIRPRODUCTS = [
   "model": "100% Plant Based Hair Heat Protection Spray with EXTRA SHINE, Chamomile, Argan and Vitamin…",
   "price": 267,
   "capacityLine": "100 ml",
-  "materialLine": "Vitamin E + Argan oil",
+  "materialLine": "Vitamin E + Argan oil + Chamomile",
   "featureLine": "Spray · ₹267/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -92469,7 +93224,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹267/100ml",
    "format": "Spray",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin E, Argan oil (named on listing)",
+   "keyIngredients": "Vitamin E, Argan oil, Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Shine / gloss, Heat protection (seller claim — not clinical proof)",
@@ -92499,6 +93254,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "ing:vitamin-e",
    "ing:argan-oil",
+   "ing:chamomile",
    "concern:shine",
    "concern:heat-protection",
    "aud:unisex",
@@ -93086,7 +93842,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection, Hold (styling), Matte finish, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Heat protection, Hold (styling), Matte finish, Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -93124,6 +93880,7 @@ const HAIRPRODUCTS = [
    "concern:hold",
    "concern:matte-finish",
    "concern:restyle",
+   "concern:humidity",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -93471,6 +94228,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -93478,6 +94236,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -93485,6 +94244,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -93492,6 +94252,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -93499,6 +94260,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -93506,6 +94268,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -93513,6 +94276,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -93520,6 +94284,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -93527,6 +94292,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -93619,6 +94385,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:serum",
    "format:heat-protectant",
+   "format:keratin-treatment",
    "ing:vitamin-e",
    "ing:keratin",
    "concern:frizz",
@@ -93697,7 +94464,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Collagen, Argan oil, Coconut, Castor oil, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Thinning / density, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Thinning / density, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, Thick / coarse hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -93744,6 +94511,8 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -94808,6 +95577,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -94815,6 +95585,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -94822,6 +95593,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -94829,6 +95601,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -94836,6 +95609,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -94843,6 +95617,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -94850,6 +95625,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -94857,6 +95633,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -94933,7 +95710,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -94964,6 +95741,7 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:colour-protect",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "hair:all",
    "free:sulfate",
@@ -95236,7 +96014,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hyaluronic acid, Keratin, Biotin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Colour protection, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Colour protection, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -95275,6 +96053,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:colour-protect",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:damaged",
    "hair:all",
    "free:paraben",
@@ -95375,6 +96155,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:serum",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:rosemary",
    "concern:frizz",
@@ -96482,7 +97263,7 @@ const HAIRPRODUCTS = [
   "model": "Argan Oil heat protect & Conditioning Mist|No Sulfates,Paraben|100ml",
   "price": 320,
   "capacityLine": "100 ml",
-  "materialLine": "Argan oil",
+  "materialLine": "Argan oil + Lavender",
   "featureLine": "Spray · ₹320/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -96501,7 +97282,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹320/100ml",
    "format": "Spray",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Argan oil (named on listing)",
+   "keyIngredients": "Argan oil, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
@@ -96536,6 +97317,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "ing:argan-oil",
+   "ing:lavender",
    "concern:frizz",
    "concern:smoothing",
    "concern:heat-protection",
@@ -97731,7 +98513,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Amla, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Heat protection, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -97761,6 +98543,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "concern:frizz",
    "concern:heat-protection",
+   "concern:humidity",
    "hair:all",
    "aud:unisex",
    "size:standard",
@@ -98065,6 +98848,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:rosemary",
    "concern:hair-growth",
@@ -98280,6 +99064,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:heat-protectant",
+   "format:keratin-treatment",
    "ing:almond",
    "ing:argan-oil",
    "ing:jojoba",
@@ -99398,7 +100183,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Almond, Vitamin E, Argan oil (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Colour protection, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Colour protection, Heat protection, Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -99443,6 +100228,7 @@ const HAIRPRODUCTS = [
    "concern:colour-protect",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:detangling",
    "hair:curly",
    "free:sulfate",
    "aud:unisex",
@@ -99649,6 +100435,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "concern:frizz",
    "concern:shine",
    "concern:heat-protection",
@@ -99925,7 +100712,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -99955,6 +100742,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "aud:women",
    "size:standard",
@@ -100885,6 +101673,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:dimethicone-silicones",
    "concern:frizz",
    "concern:damage-repair",
@@ -101066,7 +101855,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Argan oil, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -101104,6 +101893,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:dry",
    "aud:unisex",
    "size:standard",
@@ -102348,6 +103138,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:hair-perfume",
    "concern:damage-repair",
    "concern:heat-protection",
    "aud:women",
@@ -102421,7 +103212,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Niacinamide, Aloe vera, Vitamin E, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -102464,6 +103255,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:curly",
    "hair:wavy",
    "hair:damaged",
@@ -102530,7 +103322,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.5,
+   "ingredients": 3.6,
    "skin": 4.6,
    "trust": 5.5,
    "experience": 3.5
@@ -102614,6 +103406,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -102621,6 +103414,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -102628,7 +103422,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -103827,7 +104630,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -103858,6 +104661,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:leave-in",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -103867,6 +104671,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:heat-protection",
+   "concern:detangling",
+   "concern:humidity",
    "hair:dry",
    "hair:damaged",
    "free:paraben",
@@ -104068,6 +104874,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:mist",
    "format:heat-protectant",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "concern:frizz",
    "concern:damage-repair",
@@ -104122,7 +104929,7 @@ const HAIRPRODUCTS = [
   "model": "Aromas Rosemary Water Spray with Lavender & Argan For Sun & Heat Protection, Hair Growth, …",
   "price": 199,
   "capacityLine": "100 ml",
-  "materialLine": "Argan oil + Rosemary",
+  "materialLine": "Argan oil + Lavender + Rosemary",
   "featureLine": "Spray · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -104141,7 +104948,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹199/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Rosemary (named on listing)",
+   "keyIngredients": "Argan oil, Lavender, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Frizz control, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
@@ -104170,6 +104977,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:heat-protectant",
    "ing:argan-oil",
+   "ing:lavender",
    "ing:rosemary",
    "concern:hair-growth",
    "concern:frizz",
@@ -104455,7 +105263,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil, Sea buckthorn, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -104497,6 +105305,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -104992,7 +105801,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Heat protection, Restylable / no flakes, Absorbs oil / between washes, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Textured / afro hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -105030,6 +105839,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:heat-protection",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:textured",
@@ -106009,7 +106820,7 @@ const HAIRPRODUCTS = [
   "model": "Professional Mineral Rich Mud Hair Serum with Dead Sea Mud, Argan Oil & Shea Butter | for …",
   "price": 1610,
   "capacityLine": "120 ml",
-  "materialLine": "Shea butter + Argan oil",
+  "materialLine": "Shea butter + Argan oil + Sea salt",
   "featureLine": "Butter · ₹1342/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -106029,7 +106840,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1342/100ml",
    "format": "Butter",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Shea butter, Argan oil (named on listing)",
+   "keyIngredients": "Shea butter, Argan oil, Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
@@ -106061,6 +106872,7 @@ const HAIRPRODUCTS = [
    "format:heat-protectant",
    "ing:shea-butter",
    "ing:argan-oil",
+   "ing:sea-salt",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -106304,6 +107116,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -106311,6 +107124,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -106318,6 +107132,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -106325,6 +107140,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -106332,6 +107148,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -106339,6 +107156,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -106346,6 +107164,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -106353,6 +107172,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -106935,7 +107755,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -106963,6 +107783,7 @@ const HAIRPRODUCTS = [
    "ing:coconut",
    "concern:frizz",
    "concern:heat-protection",
+   "concern:detangling",
    "aud:unisex",
    "size:large",
    "rating:4.5",

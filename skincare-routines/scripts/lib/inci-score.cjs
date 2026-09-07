@@ -20,7 +20,7 @@ const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'sh
   'bodyscrub', 'intimatewash', 'hairremoval', 'scalpscrub']);
 const FACE = new Set(['facewash', 'toner', 'essence', 'vitaminc', 'niacinamide', 'retinol', 'exfoliator', 'salicylic',
   'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation',
-  'acnespot', 'facemist', 'barriercream', 'peptideserum', 'azelaic', 'sheetmask']);
+  'acnespot', 'facemist', 'barriercream', 'peptideserum', 'azelaic', 'sheetmask', 'calmserum']);
 const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff', 'intimatewash', 'beard']);
 const UVA_FILTERS = new Set(['zinc oxide', 'butyl methoxydibenzoylmethane', 'avobenzone', 'bis-ethylhexyloxyphenol methoxyphenyl triazine',
   'methylene bis-benzotriazolyl tetramethylbutylphenol', 'diethylamino hydroxybenzoyl hexyl benzoate', 'terephthalylidene dicamphor sulfonic acid',
@@ -47,7 +47,8 @@ function firstMarker(known) {
   return known.findIndex((k) => k && ONE_PERCENT_MARKERS.includes(k));
 }
 
-// → { score 0–10, actives: [{name, grade, position, core}], support: [names], notes }
+// → { score 0–10, actives: [{name, grade, position, core, trace}], support: [names], notes }; `trace` = declared
+//   below the first 1%-marker (preservative / fragrance), i.e. present at under ~1%
 function formulaScore(category, known) {
   const marker = firstMarker(known);
   const actives = [];
@@ -65,7 +66,7 @@ function formulaScore(category, known) {
       const isCore = a.roles.has(role);
       const pts = GRADE_PTS[a.grade] * w;
       if (isCore) core += pts; else other += pts * 0.35;
-      actives.push({ name: k, grade: a.grade, position: i + 1, core: isCore, src: a.src });
+      actives.push({ name: k, grade: a.grade, position: i + 1, core: isCore, trace: marker >= 0 && i > marker, src: a.src });
     }
     if (WASH.has(category) && MILD_SURFACTANTS.includes(k)) { core += 1.2 * w; support.add(k); }
     if (HYDRATION.has(category) && HUMECTANTS.has(k) && !table.has(k)) { core += 0.8 * w; }

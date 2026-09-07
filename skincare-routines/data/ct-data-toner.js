@@ -1,6 +1,1636 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
+ {
+  "id": "eqqualberry-itm2211bfbd53808",
+  "brand": "EqqualBerry",
+  "model": "Illuminating Vitamin Toner – Brightening Formula with …",
+  "price": 1398,
+  "capacityLine": "40 g (pack of 2)",
+  "materialLine": "vitamin C + cucumber",
+  "featureLine": "Toner · Paraben-free · ₹3495/100g",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "20 g × 2 pack",
+   "pricePer100": "₹3495/100g",
+   "format": "Toner",
+   "keyIngredients": "vitamin C, cucumber (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/vitamin-illuminating-toner",
+   "inciMatchedName": "Vitamin illuminating Toner (name match 100%)",
+   "inciList": "Malpighia Glabra (Acerola) Fruit Water, Dipropylene Glycol, Glycereth-26, Niacinamide, 1,2-Hexanediol, Aqua/Water/Eau, Glycerin, Pentylene Glycol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Coptis Japonica Root Extract, Xylose, Chitosan, Rubus Fruticosus (Blackberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Betaine, Methyl Gluceth-20, Polyglyceryl-10 Laurate, Propanediol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Adenosine, Butylene Glycol, Panthenol, Tranexamic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Polyglutamic Acid, Tocopherol, Hydrogenated Lecithin, Cholesterol, Bisabolol, Bromelain, Ascorbic Acid, Dipotassium Phosphate, 3-O-Ethyl Ascorbic Acid, Acetyl Glutamine, Ascorbyl Glucoside, Ceramide NP, Cellulose Gum",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); glycerin (#7 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence); hyaluronic acid (#20 on list, moderate evidence); hydrolyzed hyaluronic acid (#21 on list, moderate evidence); panthenol (#31 on list, moderate evidence); beta-glucan (#33 on list, moderate evidence); bisabolol (#39 on list, moderate evidence); ascorbic acid (#41 on list, strong evidence); 3-o-ethyl ascorbic acid (#43 on list, moderate evidence); ascorbyl glucoside (#45 on list, moderate evidence); ceramide np (#46 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/t/y/150-illuminating-vitamin-toner-brightening-formula-with-vitamin-original-imahme5wdyzwystx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/p/b/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2hqy3x7rf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/s/s/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2zbwxfyna.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/l/p/150-illuminating-vitamin-toner-brightening-formula-with-vitamin-original-imahme5wadc3kjnb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/n/6/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2eyngrxxa.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/eqqualberry-illuminating-vitamin-toner-brightening-formula-c-men-women/p/itm2211bfbd53808",
+  "buyStore": "Flipkart",
+  "title": "EqqualBerry Illuminating Vitamin Toner – Brightening Formula with …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:toner",
+   "format:pack",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:cucumber",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:pores",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/vitamin-illuminating-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Vitamin illuminating Toner",
+   "inciMatchScore": 1,
+   "inciText": "Malpighia Glabra (Acerola) Fruit Water, Dipropylene Glycol, Glycereth-26, Niacinamide, 1,2-Hexanediol, Aqua/Water/Eau, Glycerin, Pentylene Glycol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Coptis Japonica Root Extract, Xylose, Chitosan, Rubus Fruticosus (Blackberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Betaine, Methyl Gluceth-20, Polyglyceryl-10 Laurate, Propanediol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Adenosine, Butylene Glycol, Panthenol, Tranexamic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Polyglutamic Acid, Tocopherol, Hydrogenated Lecithin, Cholesterol, Bisabolol, Bromelain, Ascorbic Acid, Dipotassium Phosphate, 3-O-Ethyl Ascorbic Acid, Acetyl Glutamine, Ascorbyl Glucoside, Ceramide NP, Cellulose Gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 41,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 43,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 45,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "propanediol",
+    "butylene glycol",
+    "panthenol",
+    "cholesterol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "eqqualberry-itm963d5d6a62250",
+  "brand": "EqqualBerry",
+  "model": "Vitamin Illuminating Toner 150ml Men & Women (150 ml)",
+  "price": 1398,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "vitamin C + salicylic acid (BHA) + vitamin E",
+  "featureLine": "Toner · Paraben-free · ₹466/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹466/100ml",
+   "format": "Toner",
+   "keyIngredients": "vitamin C, salicylic acid (BHA), vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/vitamin-illuminating-toner",
+   "inciMatchedName": "Vitamin illuminating Toner (name match 98%)",
+   "listingIngredientLine": "Vitamin C – Brightens skin and reduces dullness, Niacinamide 3% – Evens skin tone and minimizes pores, Gentle Exfoliating Agents – Remove dead skin cells for smoother texture, Hydrating Ingredients (e.g., Glycerin, Aloe Vera) – Restore moisture and prep skin for serums, Antioxidants – Protect skin f (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Malpighia Glabra (Acerola) Fruit Water, Dipropylene Glycol, Glycereth-26, Niacinamide, 1,2-Hexanediol, Aqua/Water/Eau, Glycerin, Pentylene Glycol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Coptis Japonica Root Extract, Xylose, Chitosan, Rubus Fruticosus (Blackberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Betaine, Methyl Gluceth-20, Polyglyceryl-10 Laurate, Propanediol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Adenosine, Butylene Glycol, Panthenol, Tranexamic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Polyglutamic Acid, Tocopherol, Hydrogenated Lecithin, Cholesterol, Bisabolol, Bromelain, Ascorbic Acid, Dipotassium Phosphate, 3-O-Ethyl Ascorbic Acid, Acetyl Glutamine, Ascorbyl Glucoside, Ceramide NP, Cellulose Gum",
+   "evidenceActives": "niacinamide (#4 on list, strong evidence); glycerin (#7 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence); hyaluronic acid (#20 on list, moderate evidence); hydrolyzed hyaluronic acid (#21 on list, moderate evidence); panthenol (#31 on list, moderate evidence); beta-glucan (#33 on list, moderate evidence); bisabolol (#39 on list, moderate evidence); ascorbic acid (#41 on list, strong evidence); 3-o-ethyl ascorbic acid (#43 on list, moderate evidence); ascorbyl glucoside (#45 on list, moderate evidence); ceramide np (#46 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/g/a/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2kgxnzged.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/s/s/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2zbwxfyna.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/n/6/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2eyngrxxa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/q/j/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2pq5tmvqu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/p/b/150-vitamin-illuminating-toner-150ml-eqqualberry-original-imahmaw2hqy3x7rf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/eqqualberry-vitamin-illuminating-toner-150ml-men-women/p/itm963d5d6a62250",
+  "buyStore": "Flipkart",
+  "title": "EqqualBerry Vitamin Illuminating Toner 150ml Men & Women (150 ml)",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:pack",
+   "format:capsule",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:vitamin-e",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "EqqualBerry official website (eqqualberryglobal.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://eqqualberryglobal.com/products/vitamin-illuminating-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Vitamin illuminating Toner",
+   "inciMatchScore": 0.98,
+   "inciText": "Malpighia Glabra (Acerola) Fruit Water, Dipropylene Glycol, Glycereth-26, Niacinamide, 1,2-Hexanediol, Aqua/Water/Eau, Glycerin, Pentylene Glycol, Chondrus Crispus Extract, Saccharum Officinarum (Sugarcane) Extract, Sodium Hyaluronate, Coptis Japonica Root Extract, Xylose, Chitosan, Rubus Fruticosus (Blackberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Betaine, Methyl Gluceth-20, Polyglyceryl-10 Laurate, Propanediol, Ethylhexylglycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tromethamine, Adenosine, Butylene Glycol, Panthenol, Tranexamic Acid, Beta-Glucan, Sodium Hyaluronate Crosspolymer, Polyglutamic Acid, Tocopherol, Hydrogenated Lecithin, Cholesterol, Bisabolol, Bromelain, Ascorbic Acid, Dipotassium Phosphate, 3-O-Ethyl Ascorbic Acid, Acetyl Glutamine, Ascorbyl Glucoside, Ceramide NP, Cellulose Gum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tranexamic acid",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "tranexamic"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 41,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 43,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 45,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin",
+    "sodium hyaluronate",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "propanediol",
+    "butylene glycol",
+    "panthenol",
+    "cholesterol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm56e9ff71fd8b2",
+  "brand": "Anua",
+  "model": "HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide",
+  "featureLine": "Toner · Paraben-free · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/y/8/280-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-original-imahpf6v5xenp5aj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/m/j/280-heartleaf-77-soothing-toner-250ml-niacinamide-10-txa-4-serum-original-imahpf73z6ut9hvf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/l/t/250-heartleaf-77-calming-purifing-soothing-toner-anua-original-imaha24f4mw9xzdj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-men-women/p/itm56e9ff71fd8b2",
+  "buyStore": "Flipkart",
+  "title": "ANUA HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:heartleaf",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm5c5a002eda5a6",
+  "brand": "Anua",
+  "model": "rice 70+ ceramide glow milky toner 250 ml + rice 7 + ceramid …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + hyaluronic acid + ceramides",
+  "featureLine": "Toner · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, hyaluronic acid, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Ceramides, Niacinamide, Hyaluronic Acid, Panthenol, Humectants, Skin-Conditioning Ingredients.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/v/h/300-rice-70-ceramides-glow-milky-toner-250-ml-rice-7-ceramides-original-imahp8j7yqyhgmhz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-7-hydrating-barrier-serum-50/p/itm5c5a002eda5a6",
+  "buyStore": "Flipkart",
+  "title": "ANUA rice 70+ ceramide glow milky toner 250 ml + rice 7 + ceramid …",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:patch",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "aud:kids",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Ceramides, Niacinamide, Hyaluronic Acid, Panthenol, Humectants, Skin-Conditioning Ingredients.",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.71,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm6341a403b3959",
+  "brand": "Anua",
+  "model": "rice 70+ ceramide glow milky toner 250 ml + azelaic acid 10+ hyaluron redness soothing ser…",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + ceramides + rice water",
+  "featureLine": "Toner · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, ceramides, rice water, green tea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Niacinamide, Green Tea/Green Plant Extracts, Hydrating Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/s/s/280-rice-70-ceramide-milky-toner-250ml-azelaic-acid-serum-30ml-original-imahp8jzg4uhffmg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-azelaic-acid-10-hyaluron-redness-soothing-serum-30-280/p/itm6341a403b3959",
+  "buyStore": "Flipkart",
+  "title": "ANUA rice 70+ ceramide glow milky toner 250 ml + azelaic acid 10+ hyaluron redness soothing serum 30 ml = 280 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:green-tea",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Niacinamide, Green Tea/Green Plant Extracts, Hydrating Ingredients",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itmc90b87542ff28",
+  "brand": "Anua",
+  "model": "HEARTLEAF 77+ HYALURON TONER 250ML+ RICE + 7+ CERAMIDES SERU …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Toner · Paraben-free · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Toner",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/y/2/300-heartleaf-77-hyaluron-toner-250ml-rice-7-ceramides-serum-original-imahpf9gyjka9xxr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/8/a/280-heartleaf-77-hyaluron-toner-250ml-peach-70-niacin-serum-30-original-imahpf8scdvsrgvp.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/s/h/280-heartleaf-77-hyaluron-toner-250ml-niacinamide-10-txa-4-serum-original-imahpfaqkqsktfwy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-hyaluron-toner-250ml-rice-7-ceramides-serum-50ml-300ml-men-women/p/itmc90b87542ff28",
+  "buyStore": "Flipkart",
+  "title": "ANUA HEARTLEAF 77+ HYALURON TONER 250ML+ RICE + 7+ CERAMIDES SERU …",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "format:pack",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:heartleaf",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm2e99e9952dafd",
+  "brand": "Anua",
+  "model": "Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "hyaluronic acid + ceramides + rice water",
+  "featureLine": "Toner · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Toner",
+   "keyIngredients": "hyaluronic acid, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, PDRN (Polydeoxyribonucleotide), Hyaluronic Acid, Hydrating & Skin-Conditioning Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/u/s/280-rice-70-milky-toner-250ml-pdrn-hyaluron-serum-30ml-anua-original-imahp8k7cnd2xfrt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-100-pdrn-hayaluron/p/itm2e99e9952dafd",
+  "buyStore": "Flipkart",
+  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ 100 PDRN + HAYALURON …",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:patch",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "skin:all",
+   "aud:kids",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, PDRN (Polydeoxyribonucleotide), Hyaluronic Acid, Hydrating & Skin-Conditioning Ingredients",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm39b4c69677382",
+  "brand": "Anua",
+  "model": "RICE 70+ CERAMIDE GLOW MILKY TONER 250 ml + heartleaf + succ …",
+  "price": 919,
+  "capacityLine": "250 ml",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Sunscreen · ₹368/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹368/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Ceramides, Hydrating Agents, Skin-Conditioning Ingredients, Cleansing Oils, Emollients, and Gentle Cleansing Agents",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/m/1/400-rice-70-ceramides-milky-toner-250ml-succinic-acid-peel-150ml-original-imahpp9vgwhgkgyg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-heartleaf-succinic-acid-moisture-cleansing-foam150-400/p/itm39b4c69677382",
+  "buyStore": "Flipkart",
+  "title": "ANUA RICE 70+ CERAMIDE GLOW MILKY TONER 250 ml + heartleaf + succ …",
+  "tags": [
+   "scope:unstated",
+   "format:foam",
+   "format:toner",
+   "format:oil",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:heartleaf",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Ceramides, Hydrating Agents, Skin-Conditioning Ingredients, Cleansing Oils, Emollients, and Gentle Cleansing Agents",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.43,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm05d1f3dd1d274",
+  "brand": "Anua",
+  "model": "RICE 70+ CERAMIDE GLOW MILKY TONER 250 ml + hyaluronic acid …",
+  "price": 919,
+  "capacityLine": "250 ml",
+  "materialLine": "hyaluronic acid + ceramides + rice water",
+  "featureLine": "Sunscreen · ₹368/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹368/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Ceramides, Hydrating Agents, Skin-Conditioning Ingredients, Cleansing Oils, Emollients, and Gentle Cleansing Agents",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/4/a/400-rice-70-ceramides-milky-toner-250ml-hyaluronic-acid-8-original-imahpp9xvrpse8cx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-hyaluronic-acid-8-panthenol-foaming-cleanser-150-400/p/itm05d1f3dd1d274",
+  "buyStore": "Flipkart",
+  "title": "ANUA RICE 70+ CERAMIDE GLOW MILKY TONER 250 ml + hyaluronic acid …",
+  "tags": [
+   "scope:unstated",
+   "format:foam",
+   "format:toner",
+   "format:oil",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Ceramides, Hydrating Agents, Skin-Conditioning Ingredients, Cleansing Oils, Emollients, and Gentle Cleansing Agents",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.43,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itmadfb6328d51d9",
+  "brand": "Anua",
+  "model": "rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + hyaluronic acid + ceramides",
+  "featureLine": "Wash / cleanser · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "niacinamide, hyaluronic acid, ceramides, tranexamic acid, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: : Rice Extract, Niacinamide, Tranexamic Acid, Hyaluronic Acid, Glycerin, Skin-Conditioning Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/g/d/280-rice-70-ceramides-milky-toner-250ml-niacinamide-10-txa-4-original-imahp8jzvwgdypbw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramide-glow-milky-toner-250-ml-niacinamide-10-txa-4-serum-30-280/p/itmadfb6328d51d9",
+  "buyStore": "Flipkart",
+  "title": "ANUA rice 70+ ceramide glow milky toner 250 ml + Niacinamide 10%+ …",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:tranexamic-acid",
+   "ing:rice-water",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:cooling",
+   "aud:kids",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": ": Rice Extract, Niacinamide, Tranexamic Acid, Hyaluronic Acid, Glycerin, Skin-Conditioning Ingredients",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.83,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itmb75f0f710034d",
+  "brand": "Anua",
+  "model": "Rice 70+ ceramides milky toner 250 ml+ PEACH NIACIN SERUM 70 …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + ceramides + rice water",
+  "featureLine": "Wash / cleanser · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "niacinamide, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/u/0/280-70-ceramides-milky-toner-250ml-peach-niacin-serum-30ml-anua-original-imahp8hrzgg4tpaz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-peach-niacin-serum-70-30-ml/p/itmb75f0f710034d",
+  "buyStore": "Flipkart",
+  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ PEACH NIACIN SERUM 70 …",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itme577320b0f160",
+  "brand": "Anua",
+  "model": "Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA …",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + ceramides + rice water",
+  "featureLine": "Wash / cleanser · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "niacinamide, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/y/8/280-rice-70-ceramides-milky-toner-250-ml-niacinamide-10-txa-4-original-imahp8m5w5z6v8sz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-niacinamide-10-txa-serum-30-ml-280/p/itme577320b0f160",
+  "buyStore": "Flipkart",
+  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ Niacinamide 10%+ TXA …",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
  {
   "id": "be-itmcc82fa8eec2fa",
   "brand": "BE",
@@ -104,120 +1734,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 14,693 ratings"
-  }
- },
- {
-  "id": "beauty-itm0ef8f0e472e66",
-  "brand": "Beauty",
-  "model": "Relay London Coraki Tea Tree Micellar Water & Toner Men & …",
-  "price": 554,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "vitamin C + centella/cica + tea tree",
-  "featureLine": "Micellar water · Paraben-free · ₹139/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹139/100ml",
-   "format": "Micellar water",
-   "keyIngredients": "vitamin C, centella/cica, tea tree (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Castor Oil, Mint, Vitamin-C, Aloevera Extract, Tea Tree Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/6/h/200-coraki-tea-tree-micellar-water-toner-beauty-relay-london-original-imahd2vfbgrbea2c.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/1/d/200-coraki-tea-tree-micellar-water-toner-beauty-relay-london-original-imahd2vf3bbfdzz8.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/o/3/200-coraki-tea-tree-micellar-water-toner-beauty-relay-london-original-imahd2vfcex2rgvt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/8/q/200-coraki-tea-tree-micellar-water-toner-beauty-relay-london-original-imahd2vfv7zszgus.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/a/l/200-coraki-tea-tree-micellar-water-toner-beauty-relay-london-original-imahd2vfnpq7gvct.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/beauty-relay-london-coraki-tea-tree-micellar-water-toner-men-women/p/itm0ef8f0e472e66",
-  "buyStore": "Flipkart",
-  "title": "Beauty Relay London Coraki Tea Tree Micellar Water & Toner Men & …",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:pack",
-   "format:wash",
-   "format:micellar",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:centella-cica",
-   "ing:tea-tree",
-   "ing:probiotics",
-   "ing:pearl",
-   "claim:pores",
-   "claim:soothing",
-   "skin:all",
-   "free:paraben",
-   "free:alcohol",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Castor Oil, Mint, Vitamin-C, Aloevera Extract, Tea Tree Oil",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.6,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -579,7 +2095,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Sprivil Healthcare Pvt. Ltd., L1/4, Addl MIDC, Satara, 415004 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 53,906 ratings"
+   "buyerEvidence": "4.4★ from 53,906 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/i/r/150-3-niacinamide-rice-water-alcohol-free-toner-tightens-pores-original-imahqgzu5hznpard.jpeg?q=90",
@@ -601,6 +2118,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -635,6 +2155,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -642,6 +2163,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -649,6 +2171,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "oat"
     }
    ],
@@ -714,7 +2237,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence); camellia sinensis leaf extract (#7 on list, moderate evidence); centella asiatica extract (#8 on list, moderate evidence); allantoin (#10 on list, limited evidence); panthenol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 749 ratings"
+   "buyerEvidence": "4.4★ from 749 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/7/2/q/150-bright-even-skin-tone-alcohol-free-toner-with-3-niacinamide-original-imahgh32hkj36dyq.jpeg?q=90",
@@ -741,6 +2265,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -775,6 +2301,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -782,6 +2309,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -789,6 +2317,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -796,6 +2325,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -803,6 +2333,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -810,6 +2341,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -992,6 +2524,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:normal",
    "skin:all",
    "free:paraben",
@@ -1101,6 +2634,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "claim:brightening",
    "claim:korean",
+   "claim:makeup",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -1290,7 +2824,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); panthenol (#10 on list, moderate evidence); sodium hyaluronate (#12 on list, moderate evidence); hydrolyzed hyaluronic acid (#15 on list, moderate evidence); hyaluronic acid (#16 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 469 ratings"
+   "buyerEvidence": "4.3★ from 469 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/8/i/5/150-2-salicylic-bha-hydrating-toner-removes-blackheads-original-imah8749qh9gyyfz.jpeg?q=90",
@@ -1315,6 +2850,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -1349,6 +2886,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -1356,6 +2894,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -1363,6 +2902,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -1370,6 +2910,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -1377,6 +2918,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -1384,6 +2926,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -1508,6 +3051,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1515,6 +3059,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -1522,6 +3067,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -1529,6 +3075,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -1536,6 +3083,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -1543,6 +3091,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -1550,6 +3099,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -1557,6 +3107,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -1766,6 +3317,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -1880,6 +3432,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:combination",
    "skin:normal",
    "free:paraben",
@@ -1932,7 +3485,7 @@ const CTPRODUCTS = [
  {
   "id": "pilgrim-itm993b6b9e1379c",
   "brand": "Pilgrim",
-  "model": "White Lotus Face Mist & Toner for Hydration & Pore Tighte …",
+  "model": "White Lotus Face Mist & Toner for Hydration & Pore Tightening Men & Women",
   "price": 201,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -1959,7 +3512,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (18,027 ratings, Flipkart)",
@@ -1982,7 +3535,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pilgrim-white-lotus-face-mist-toner-hydration-pore-tightening-men-women/p/itm993b6b9e1379c",
   "buyStore": "Flipkart",
-  "title": "Pilgrim White Lotus Face Mist & Toner for Hydration & Pore Tighte …",
+  "title": "Pilgrim White Lotus Face Mist & Toner for Hydration & Pore Tightening Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -1990,7 +3543,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
-   "aud:unisex",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
@@ -2001,7 +3554,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -2098,6 +3651,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -2147,7 +3701,7 @@ const CTPRODUCTS = [
  {
   "id": "vitro-itm4a33d7f313bd2",
   "brand": "Vitro",
-  "model": "Naturals Rose Water spray for face Women (600 ml)",
+  "model": "Naturals Rose Water spray for face Women",
   "price": 564,
   "capacityLine": "600 ml",
   "materialLine": "rose",
@@ -2197,7 +3751,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/vitro-naturals-rose-water-spray-face-women/p/itm4a33d7f313bd2",
   "buyStore": "Flipkart",
-  "title": "Vitro Naturals Rose Water spray for face Women (600 ml)",
+  "title": "Vitro Naturals Rose Water spray for face Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -2207,6 +3761,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2324,6 +3879,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2365,6 +3921,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2372,6 +3929,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -2379,6 +3937,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "teaTree"
     },
     {
@@ -2386,6 +3945,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -2393,6 +3953,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -2400,6 +3961,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -2407,6 +3969,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -2414,6 +3977,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 33,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -2516,6 +4080,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:pores",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -2661,6 +4226,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -2668,6 +4234,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2675,6 +4242,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2682,6 +4250,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -2689,6 +4258,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -2696,6 +4266,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -2703,6 +4274,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -2710,6 +4282,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     }
    ],
@@ -2800,6 +4373,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -3442,6 +5016,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -3553,6 +5128,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -3605,7 +5181,7 @@ const CTPRODUCTS = [
  {
   "id": "mdz-itm359a1e996f042",
   "brand": "MDZ",
-  "model": "Revitalizing Korean Rose Water Skin Toner Face Mist 100ml Men …",
+  "model": "CHITAAKSH Revitalizing Korean Rose Water Skin Toner Face Mist 100ml Men & Women",
   "price": 90,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -3653,7 +5229,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cjq-revitalizing-korean-rose-water-skin-toner-face-mist-100ml-men-women/p/itm359a1e996f042",
   "buyStore": "Flipkart",
-  "title": "MDZ Revitalizing Korean Rose Water Skin Toner Face Mist 100ml Men …",
+  "title": "CHITAAKSH Revitalizing Korean Rose Water Skin Toner Face Mist 100ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -3663,6 +5239,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -3833,11 +5410,11 @@ const CTPRODUCTS = [
  {
   "id": "pilgrim-itmd1d8bd4775856",
   "brand": "Pilgrim",
-  "model": "Alcohol Free Red Vine Face Toner, Face Mist Spray For Ant …",
+  "model": "Alcohol Free Red Vine Face Toner, Face Mist Spray For Anti Ageing, Glowing Skin, Dry, Oily…",
   "price": 255,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free · ₹255/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 6,528 ratings"
@@ -3852,15 +5429,15 @@ const CTPRODUCTS = [
    "experience": 8.2
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "100 ml",
+   "pricePer100": "₹255/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (6,528 ratings, Flipkart)",
@@ -3883,13 +5460,17 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pilgrim-alcohol-free-red-vine-face-toner-mist-spray-anti-ageing-glowing-skin-dry-oily-men-women-100ml-women/p/itmd1d8bd4775856",
   "buyStore": "Flipkart",
-  "title": "Pilgrim Alcohol Free Red Vine Face Toner, Face Mist Spray For Ant …",
+  "title": "Pilgrim Alcohol Free Red Vine Face Toner, Face Mist Spray For Anti Ageing, Glowing Skin, Dry, Oily Skin, Men & Women,100ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
    "format:mist",
+   "claim:brightening",
+   "claim:anti-aging",
+   "skin:oily",
    "free:alcohol",
-   "aud:unisex",
+   "aud:women",
+   "size:standard",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -3900,7 +5481,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -4150,6 +5731,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -4157,6 +5739,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4164,6 +5747,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -4171,6 +5755,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -4254,7 +5839,8 @@ const CTPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
    "declaredManufacturer": "Sprivil Healthcare Pvt. Ltd., L1/4, Addl MIDC, Satara, 415004 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 3,527 ratings"
+   "buyerEvidence": "4.3★ from 3,527 ratings",
+   "concernBasis": "Dark spots — 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/c/i/100-1-5-vitamin-c-toner-with-mandarin-for-glowing-skin-improves-enriched-transparent-original-imahfbkha7mqgpna.png?q=90",
@@ -4275,6 +5861,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:secondary"
   ],
@@ -4308,6 +5896,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -4315,7 +5904,16 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -4387,7 +5985,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); 3-o-ethyl ascorbic acid (#3 on list, moderate evidence); glycerin (#13 on list, strong evidence); allantoin (#15 on list, limited evidence); panthenol (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 2,678 ratings"
+   "buyerEvidence": "4.3★ from 2,678 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/a/o/-original-imahq95jcped7ddm.jpeg?q=90",
@@ -4414,6 +6013,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -4447,6 +6049,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4454,6 +6057,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -4461,6 +6065,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -4468,6 +6073,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -4475,6 +6081,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -4482,6 +6089,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -4556,7 +6164,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "V COSMETIC CRAFTERS PVT. LTD, 12-29, Gundlapochampally(V), Medchal(M), Medchal-Malakajgiri(Dist), Telangana-501401, Mfg. Lic. No: 03/MDL/TS/2024/C/G/L Ph: 8121712626 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 3,563 ratings"
+   "buyerEvidence": "4.2★ from 3,563 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/u/e/x/200-niacinamide-3-hyaluronic-acid-1-pore-minimizing-toner-with-original-imah8jb5pmngzvsy.jpeg?q=90",
@@ -4571,7 +6180,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -4582,6 +6190,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -4615,6 +6225,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4622,6 +6233,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4629,6 +6241,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -4636,6 +6249,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -4826,6 +6440,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "free:paraben",
@@ -4937,6 +6552,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -5048,6 +6664,7 @@ const CTPRODUCTS = [
    "ing:tomato",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:all",
@@ -5683,6 +7300,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -5911,6 +7529,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -6032,6 +7651,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -6372,6 +7992,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -6590,6 +8211,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:brightening",
    "claim:no-white-cast",
    "skin:all",
@@ -6747,117 +8369,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 274 ratings"
-  }
- },
- {
-  "id": "plum-itmc4cb8f8bac05f",
-  "brand": "Plum",
-  "model": "3% Niacinamide & Rice Water Alcohol-Free Toner Duo + Niacina …",
-  "price": 336,
-  "capacityLine": "15 g",
-  "materialLine": "niacinamide + rice water",
-  "featureLine": "Sunscreen · Paraben-free · ₹2240/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 881 ratings"
-  ],
-  "cons": [
-   "Only 2 ingredients named — formula unscored"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
-   "experience": 7
-  },
-  "fullSpec": {
-   "quantity": "15 g",
-   "pricePer100": "₹2240/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "niacinamide, rice water (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (881 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Niacinamide, Rice Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 881 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/j/y/315-3-niacinamide-rice-water-alcohol-free-toner-duo-niacinamide-original-imahavwbeqtpdhxs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/k/y/3-niacinamide-rice-water-alcohol-free-toner-150-ml-2-niacinamide-original-imah6xd7zdgq8ptd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/y/r/150-3-niacinamide-rice-water-alcohol-free-toner-tightens-pores-original-imagzh98ysdf7wth.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/y/t/300-3-niacinamide-rice-water-alcohol-free-toner-tightens-pores-original-imah3t4njq86hz24.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/3/0/-original-imahef8yzezgazmw.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/plum-3-niacinamide-rice-water-alcohol-free-toner-duo-sunscreen-15g-men-women/p/itmc4cb8f8bac05f",
-  "buyStore": "Flipkart",
-  "title": "Plum 3% Niacinamide & Rice Water Alcohol-Free Toner Duo + Niacina …",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:pack",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "free:paraben",
-   "free:alcohol",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Rice Water",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pureplay Skin Sciences",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://plumgoodness.com/"
-   },
-   "buyers": "4.3★ from 881 ratings"
   }
  },
  {
@@ -7179,11 +8690,11 @@ const CTPRODUCTS = [
  {
   "id": "personal-itmbe0f17d9cacb3",
   "brand": "Personal",
-  "model": "TOUCH SKINCARE Aquarize Toner + Mist Normal, Oily, Dry, …",
+  "model": "TOUCH SKINCARE Aquarize Toner + Mist Normal, Oily, Dry, Sensitive Skin | 100ml Men & Women",
   "price": 453,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner",
+  "featureLine": "Toner · ₹453/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.4★ from 37 ratings"
@@ -7199,15 +8710,15 @@ const CTPRODUCTS = [
    "experience": 5.4
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "100 ml",
+   "pricePer100": "₹453/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (37 ratings, Flipkart)",
@@ -7230,13 +8741,16 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/personal-touch-skincare-aquarize-toner-mist-normal-oily-dry-sensitive-skin-100ml-men-women/p/itmbe0f17d9cacb3",
   "buyStore": "Flipkart",
-  "title": "PERSONAL TOUCH SKINCARE Aquarize Toner + Mist Normal, Oily, Dry, …",
+  "title": "PERSONAL TOUCH SKINCARE Aquarize Toner + Mist Normal, Oily, Dry, Sensitive Skin | 100ml Men & Women",
   "tags": [
    "scope:unstated",
    "format:toner",
    "format:mist",
    "skin:oily",
-   "aud:unisex",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
@@ -7247,7 +8761,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -7282,7 +8796,7 @@ const CTPRODUCTS = [
  {
   "id": "luster-cosmetics-itm8932d14fc5bab",
   "brand": "Luster Cosmetics",
-  "model": "Vitamin-C Face Mist Skin Toner Men & Women (115 …",
+  "model": "Vitamin-C Face Mist Skin Toner Men & Women",
   "price": 122,
   "capacityLine": "115 ml",
   "materialLine": "Key ingredients not stated",
@@ -7330,7 +8844,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/luster-cosmetics-vitamin-c-face-mist-skin-toner-men-women/p/itm8932d14fc5bab",
   "buyStore": "Flipkart",
-  "title": "Luster Cosmetics Vitamin-C Face Mist Skin Toner Men & Women (115 …",
+  "title": "Luster Cosmetics Vitamin-C Face Mist Skin Toner Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -7455,6 +8969,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -7876,7 +9391,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Isothiazolinone preservative (MI/MCI): methylisothiazolinone (−2)",
    "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
    "declaredManufacturer": "RSH Global Private Limited, Plot No 74,DIC Industrial Area.Baddi 173205 ( H.P) (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 11,043 ratings"
+   "buyerEvidence": "4.1★ from 11,043 ratings",
+   "concernBasis": "Acne — zinc pca #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/l/s/-original-imah7ga2z9xumkrk.jpeg?q=90",
@@ -7896,6 +9412,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:secondary"
   ],
@@ -7929,6 +9446,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7936,6 +9454,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -7943,6 +9462,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -7950,6 +9470,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -7957,6 +9478,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -7964,6 +9486,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -7971,6 +9494,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -7978,6 +9502,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -7985,6 +9510,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -8129,6 +9655,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -8136,6 +9663,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -8545,6 +10073,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -8657,6 +10186,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -8768,6 +10298,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -9311,6 +10842,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9431,6 +10963,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9948,7 +11481,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "AGLEY Toner for Clear, Glowing Skin – All Skin Types Women (100 g …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -9957,6 +11490,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:korean",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -10062,6 +11596,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:vitamin-c",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -10485,6 +12020,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:tomato",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -11036,6 +12572,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -11474,6 +13011,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -11695,6 +13233,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -12029,6 +13568,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:normal",
@@ -12445,7 +13985,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, butylphenyl methylpropional, linalool, citronellol (−2); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Piramal Pharma (Consumer Products) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Pontika Aerotech Limited, Village Johron, PO - Puruwala, Nahan Road, Paonta Sahib, Dist. Sirmour (HP) - 173001 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 2,848 ratings"
+   "buyerEvidence": "4.1★ from 2,848 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/u/3/u/-original-imaha8be46ujpzrw.jpeg?q=90",
@@ -12467,6 +14008,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:pharma-maker"
   ],
@@ -12500,6 +14044,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -12507,6 +14052,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -12514,6 +14060,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -12521,6 +14068,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -12882,6 +14430,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -13077,6 +14626,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -13395,6 +14945,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -13845,6 +15396,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -14184,6 +15736,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -14275,7 +15829,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); aloe barbadensis leaf extract (#24 on list, moderate evidence); panthenol (#27 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 1,088 ratings"
+   "buyerEvidence": "4.1★ from 1,088 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #24 on INCI, panthenol #27 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/z/q/110-glycolic-acid-retexturize-and-glow-toner-for-men-women-110-original-imahheuk9wmwwz2h.jpeg?q=90",
@@ -14299,16 +15854,19 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
    "ing:witch-hazel",
+   "ing:sugar",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -14343,6 +15901,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -14350,6 +15909,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -14357,6 +15917,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -14364,6 +15925,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -14371,6 +15933,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -14378,7 +15941,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -14506,7 +16078,7 @@ const CTPRODUCTS = [
  {
   "id": "pilgrim-itm95b39829ef683",
   "brand": "Pilgrim",
-  "model": "White Lotus Natural Face Mist & Toner with Camellia & Wit …",
+  "model": "White Lotus Natural Face Mist & Toner with Camellia & Witch Hazel| Korean Beauty Formulati…",
   "price": 180,
   "capacityLine": "100 ml",
   "materialLine": "witch hazel",
@@ -14555,7 +16127,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pilgrim-white-lotus-natural-face-mist-toner-camellia-witch-hazel-korean-beauty-formulation-for-better-hydration-paraben-phthalate-free-100-ml-men-women/p/itm95b39829ef683",
   "buyStore": "Flipkart",
-  "title": "Pilgrim White Lotus Natural Face Mist & Toner with Camellia & Wit …",
+  "title": "Pilgrim White Lotus Natural Face Mist & Toner with Camellia & Witch Hazel| Korean Beauty Formulation|For better Hydration| Paraben & Phthalate Free|100 ml Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -14709,6 +16281,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14716,6 +16289,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -14723,6 +16297,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -14730,6 +16305,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -15036,6 +16612,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -15148,6 +16725,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -15259,6 +16837,8 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -15475,6 +17055,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -15524,7 +17105,7 @@ const CTPRODUCTS = [
  {
   "id": "inthera-itm4df9fb2dfcea1",
   "brand": "inthera",
-  "model": "Rose Water Hydrating Face Mist Spray for Fresh Glowing Sk …",
+  "model": "Rose Water Hydrating Face Mist Spray for Fresh Glowing Skin Daily Men & Women",
   "price": 171,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + rose",
@@ -15573,7 +17154,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/inthera-rose-water-hydrating-face-mist-spray-fresh-glowing-skin-daily-men-women/p/itm4df9fb2dfcea1",
   "buyStore": "Flipkart",
-  "title": "inthera Rose Water Hydrating Face Mist Spray for Fresh Glowing Sk …",
+  "title": "inthera Rose Water Hydrating Face Mist Spray for Fresh Glowing Skin Daily Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -15588,6 +17169,8 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -15809,6 +17392,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -16447,6 +18031,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -16556,6 +18141,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -17008,6 +18594,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17117,6 +18704,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17227,6 +18815,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17336,6 +18925,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17451,6 +19041,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17564,6 +19155,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17676,6 +19268,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17789,6 +19382,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17904,6 +19498,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18018,6 +19613,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18131,6 +19727,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18241,6 +19838,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18356,6 +19954,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18472,6 +20071,8 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18583,6 +20184,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18697,6 +20299,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -18810,6 +20413,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -19022,6 +20626,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -19351,6 +20956,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -19688,122 +21294,6 @@ const CTPRODUCTS = [
    "free:vegan",
    "aud:women",
    "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "hasthkar-itm441926c2a44bd",
-  "brand": "HASTHKAR",
-  "model": "Premium Rose Water Toner and Cleanser for Men & Women Sa …",
-  "price": 202,
-  "capacityLine": "200 ml",
-  "materialLine": "niacinamide + PHA + rose",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹101/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹101/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "niacinamide, PHA, rose (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/m/y/200-premium-rose-water-toner-and-cleanser-for-men-women-safe-for-original-imagmvccdq5k2zdm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/a/t/100-rice-water-milky-toner-for-deep-nourish-skin-glow-a24-original-imahhwtzqvygwu4n.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/d/s/-original-imahpjw7wufsuaqx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/2/c/l/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaherua4bhgbads.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/v/y/50-niacid-with-oraxylin-a-face-serum-for-acne-marks-oil-control-original-imah6gzedfyquqhj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/hasthkar-premium-rose-water-toner-cleanser-men-women-safe-all-skin-types/p/itm441926c2a44bd",
-  "buyStore": "Flipkart",
-  "title": "HASTHKAR Premium Rose Water Toner and Cleanser for Men & Women Sa …",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:mist",
-   "format:oil",
-   "format:pack",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:pha",
-   "ing:rose",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "free:paraben",
-   "free:alcohol",
-   "free:vegan",
-   "aud:women",
-   "size:large",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -20434,6 +21924,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -20885,6 +22376,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "rating:4.0",
    "store:flipkart",
@@ -20994,6 +22486,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21112,6 +22605,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -21227,6 +22721,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21453,6 +22948,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21565,6 +23061,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -21679,6 +23176,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21793,6 +23291,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21913,6 +23412,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -21966,7 +23466,7 @@ const CTPRODUCTS = [
  {
   "id": "razeliz-itm314900afc9203",
   "brand": "RAZELIZ",
-  "model": "Rose Water Facial Mist Spray for Hydrating Refreshing Soo …",
+  "model": "Rose Water Facial Mist Spray for Hydrating Refreshing Soothing Skin Care Men & Women",
   "price": 198,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + PHA + rose",
@@ -22015,7 +23515,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/razeliz-rose-water-facial-mist-spray-hydrating-refreshing-soothing-skin-care-men-women/p/itm314900afc9203",
   "buyStore": "Flipkart",
-  "title": "RAZELIZ Rose Water Facial Mist Spray for Hydrating Refreshing Soo …",
+  "title": "RAZELIZ Rose Water Facial Mist Spray for Hydrating Refreshing Soothing Skin Care Men & Women",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -22035,6 +23535,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -22144,6 +23645,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -22568,6 +24070,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -22677,6 +24180,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:soothing",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -22787,6 +24291,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -23004,6 +24509,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -23115,6 +24621,8 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -23225,6 +24733,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -23338,6 +24847,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:no-white-cast",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -23456,6 +24966,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -23569,6 +25080,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -23682,6 +25194,8 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -23904,6 +25418,7 @@ const CTPRODUCTS = [
    "claim:no-white-cast",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24013,6 +25528,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -24342,6 +25858,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -24454,6 +25971,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -24564,6 +26082,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -24676,6 +26195,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24794,6 +26314,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -24908,6 +26429,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -25023,6 +26545,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -25135,6 +26658,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -25356,6 +26880,7 @@ const CTPRODUCTS = [
    "format:pack",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -25466,6 +26991,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -25575,6 +27101,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -26226,6 +27753,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -26482,7 +28010,7 @@ const CTPRODUCTS = [
  {
   "id": "nat-habit-itm924d21838ff7d",
   "brand": "Nat Habit",
-  "model": "Pure Gulab Jal Rose Water Toner Face-Mist Astringent Pu …",
+  "model": "Pure Gulab Jal Rose Water Toner Face-Mist Astringent Pure&Fresh Steam-Distilled Men & Wome…",
   "price": 215,
   "capacityLine": "200 ml",
   "materialLine": "rose",
@@ -26531,7 +28059,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nat-habit-pure-gulab-jal-rose-water-toner-face-mist-astringent-pure-fresh-steam-distilled-men-women/p/itm924d21838ff7d",
   "buyStore": "Flipkart",
-  "title": "Nat Habit Pure Gulab Jal Rose Water Toner Face-Mist Astringent Pu …",
+  "title": "Nat Habit Pure Gulab Jal Rose Water Toner Face-Mist Astringent Pure&Fresh Steam-Distilled Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -27180,6 +28708,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -27289,6 +28818,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -27657,7 +29187,7 @@ const CTPRODUCTS = [
  {
   "id": "meglow-itm40c242bac36bd",
   "brand": "meglow",
-  "model": "Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin f …",
+  "model": "Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin for Men & Women Men & Women",
   "price": 189,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
@@ -27683,7 +29213,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (1,213 ratings, Flipkart)",
@@ -27706,14 +29236,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/meglow-rose-water-toner-mist-spray-gulab-jal-glowing-skin-men-women/p/itm40c242bac36bd",
   "buyStore": "Flipkart",
-  "title": "meglow Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin f …",
+  "title": "meglow Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin for Men & Women Men & Women",
   "tags": [
    "scope:unstated",
    "format:toner",
    "format:mist",
    "ing:rose",
    "claim:brightening",
-   "aud:unisex",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -27724,7 +29254,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -27816,6 +29346,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -28358,6 +29889,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:large",
@@ -28578,6 +30110,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -28690,6 +30223,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -28801,6 +30335,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:rose",
    "claim:pores",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -29253,6 +30788,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -29302,11 +30838,11 @@ const CTPRODUCTS = [
  {
   "id": "sukin-itmd89490fd350f7",
   "brand": "Sukin",
-  "model": "GREEN TEA HYDRATING MIST TONER Men & Women (125 ml)",
+  "model": "GREEN TEA HYDRATING MIST TONER Men & Women",
   "price": 1829,
-  "capacityLine": "250 ml (pack of 2)",
+  "capacityLine": "250 g (pack of 2)",
   "materialLine": "niacinamide + PHA + green tea",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹732/100ml",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹732/100g",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "aloe barbadensis leaf juice high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
@@ -29323,8 +30859,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "125 ml × 2 pack",
-   "pricePer100": "₹732/100ml",
+   "quantity": "125 g × 2 pack",
+   "pricePer100": "₹732/100g",
    "format": "Scrub / exfoliant",
    "keyIngredients": "niacinamide, PHA, green tea, rose (per listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -29342,7 +30878,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#2 on list, moderate evidence); glycerin (#3 on list, strong evidence); camellia sinensis leaf extract (#5 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/r/v/125-green-tea-hydrating-mist-toner-sukin-original-imahkrbtmhk6aawr.jpeg?q=90",
@@ -29353,7 +30890,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sukin-green-tea-hydrating-mist-toner-men-women/p/itmd89490fd350f7",
   "buyStore": "Flipkart",
-  "title": "Sukin GREEN TEA HYDRATING MIST TONER Men & Women (125 ml)",
+  "title": "Sukin GREEN TEA HYDRATING MIST TONER Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -29372,6 +30909,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -29380,6 +30918,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -29412,6 +30951,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -29419,6 +30959,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29426,6 +30967,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -29433,6 +30975,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -29537,6 +31080,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:soothing",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "aud:women",
@@ -29569,6 +31113,126 @@ const CTPRODUCTS = [
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "arika-india-itmb26c1a7f1c346",
+  "brand": "ARIKA INDIA",
+  "model": "Natural Green Tea Hydra Detox Refreshing Face Mist Antioxidant Skin Toner Men & Women",
+  "price": 170,
+  "capacityLine": "250 g (pack of 2)",
+  "materialLine": "vitamin C + niacinamide + green tea",
+  "featureLine": "Toner · Paraben-free · ₹68/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "125 g × 2 pack",
+   "pricePer100": "₹68/100g",
+   "format": "Toner",
+   "keyIngredients": "vitamin C, niacinamide, green tea, rose (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Green Tea",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/p/u/200-natural-green-tea-hydra-detox-refreshing-face-mist-original-imahf8d4ffdk8rvf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/c/x/200-natural-green-tea-hydra-detox-refreshing-face-toner-mist-original-imahf4a7u6rd9bxy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/w/9/200-natural-green-tea-hydra-detox-refreshing-face-mist-original-imahf8d4ghgsa5dj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/n/a/200-natural-green-tea-hydra-detox-refreshing-face-mist-original-imahf8d4xmygahzu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/d/s/-original-imahpjw7wufsuaqx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/arika-india-natural-green-tea-hydra-detox-refreshing-face-mist-antioxidant-skin-toner-men-women/p/itmb26c1a7f1c346",
+  "buyStore": "Flipkart",
+  "title": "ARIKA INDIA Natural Green Tea Hydra Detox Refreshing Face Mist Antioxidant Skin Toner Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:green-tea",
+   "ing:rose",
+   "ing:glycerin",
+   "ing:tomato",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "free:ph-balanced",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Green Tea",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -29651,6 +31315,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:paraben",
@@ -30079,6 +31744,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -30195,6 +31861,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -30300,6 +31967,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "ing:green-tea",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -30742,6 +32410,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:alcohol",
@@ -30945,7 +32614,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#2 on list, moderate evidence); allantoin (#11 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 226 ratings"
+   "buyerEvidence": "4.3★ from 226 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/m/y/100-skin-toner-green-tea-100ml-jovees-original-imah5wyy2m4squrh.jpeg?q=90",
@@ -30976,6 +32646,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -31008,6 +32679,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -31015,6 +32687,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -31211,6 +32884,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:soothing",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -31445,6 +33120,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -31497,7 +33173,7 @@ const CTPRODUCTS = [
  {
   "id": "laflency-itm5c39d43ad7107",
   "brand": "laflency",
-  "model": "reen Tea Toner | Oily Skin, Open Pores & Dull Skin Care …",
+  "model": "reen Tea Toner | Oily Skin, Open Pores & Dull Skin Care | Face Mist Unisex Men & Women",
   "price": 135,
   "capacityLine": "120 ml",
   "materialLine": "ceramides + rice water + green tea",
@@ -31546,7 +33222,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/laflency-reen-tea-toner-oily-skin-open-pores-dull-skin-care-face-mist-unisex-men-women/p/itm5c39d43ad7107",
   "buyStore": "Flipkart",
-  "title": "laflency reen Tea Toner | Oily Skin, Open Pores & Dull Skin Care …",
+  "title": "laflency reen Tea Toner | Oily Skin, Open Pores & Dull Skin Care | Face Mist Unisex Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -31562,6 +33238,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -31679,6 +33356,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -31841,7 +33519,7 @@ const CTPRODUCTS = [
  {
   "id": "laflency-itmccb4b9702f4d2",
   "brand": "laflency",
-  "model": "Green Tea Toner | Hydrating & Anti Acne Face Mist | Pore …",
+  "model": "Green Tea Toner | Hydrating & Anti Acne Face Mist | Pore Tightening | 120 ml Men & Women",
   "price": 140,
   "capacityLine": "120 ml",
   "materialLine": "niacinamide + rice water + green tea",
@@ -31890,7 +33568,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/laflency-green-tea-toner-hydrating-anti-acne-face-mist-pore-tightening-120-ml-men-women/p/itmccb4b9702f4d2",
   "buyStore": "Flipkart",
-  "title": "laflency Green Tea Toner | Hydrating & Anti Acne Face Mist | Pore …",
+  "title": "laflency Green Tea Toner | Hydrating & Anti Acne Face Mist | Pore Tightening | 120 ml Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -31908,6 +33586,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -32026,6 +33705,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -32078,7 +33758,7 @@ const CTPRODUCTS = [
  {
   "id": "laflency-itmdf2afd2d77e9c",
   "brand": "laflency",
-  "model": "Green Tea Toner 120ml | Hydrating Face Mist | Anti Acne …",
+  "model": "Green Tea Toner 120ml | Hydrating Face Mist | Anti Acne & Pore Tightening Spray Men & Wome…",
   "price": 176,
   "capacityLine": "120 ml",
   "materialLine": "niacinamide + rice water + green tea",
@@ -32127,7 +33807,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/laflency-green-tea-toner-120ml-hydrating-face-mist-anti-acne-pore-tightening-spray-men-women/p/itmdf2afd2d77e9c",
   "buyStore": "Flipkart",
-  "title": "laflency Green Tea Toner 120ml | Hydrating Face Mist | Anti Acne …",
+  "title": "laflency Green Tea Toner 120ml | Hydrating Face Mist | Anti Acne & Pore Tightening Spray Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -32144,6 +33824,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -32489,6 +34170,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -32606,6 +34288,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -33264,7 +34947,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, butylphenyl methylpropional, linalool, citronellol (−2); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Piramal Pharma (Consumer Products) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Pontika Aerotech Limited, Village Johron, PO - Puruwala, Nahan Road, Paonta Sahib, Dist. Sirmour (HP) - 173001 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 969 ratings"
+   "buyerEvidence": "4.3★ from 969 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/m/u/-enriched-transparent-original-imah28qxjxmuqrzx.png?q=90",
@@ -33287,6 +34971,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:pharma-maker"
   ],
@@ -33320,6 +35007,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -33327,6 +35015,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -33334,6 +35023,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -33341,6 +35031,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -33454,6 +35145,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -33503,7 +35195,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itmf370b0ae04cae",
   "brand": "Bon Austin",
-  "model": "Green Tea & Rose Face Mist & Toner for Hydrating Skin …",
+  "model": "Green Tea & Rose Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "price": 293,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + rice water + green tea",
@@ -33552,7 +35244,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-rose-face-mist-toner-hydrating-skin-100ml-pack-2-men-women/p/itmf370b0ae04cae",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Green Tea & Rose Face Mist & Toner for Hydrating Skin …",
+  "title": "Bon Austin Green Tea & Rose Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -33621,7 +35313,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itma5994b821a1aa",
   "brand": "Bon Austin",
-  "model": "Green Tea Toner Refreshing Face Mist & Toner for Hydra …",
+  "model": "Green Tea Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack 1 Men & Women",
   "price": 152,
   "capacityLine": "100 ml",
   "materialLine": "green tea + rose",
@@ -33670,7 +35362,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-toner-refreshing-face-mist-hydrating-skin-100ml-pack-1-men-women/p/itma5994b821a1aa",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Green Tea Toner Refreshing Face Mist & Toner for Hydra …",
+  "title": "Bon Austin Green Tea Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack 1 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -33681,6 +35373,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -33731,7 +35424,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itm3f082f510b107",
   "brand": "Bon Austin",
-  "model": "Neem & Vitamin C Face Mist & Toner for Hydrating Skin …",
+  "model": "Neem & Vitamin C Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "price": 293,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "vitamin C + niacinamide + salicylic acid (BHA)",
@@ -33780,7 +35473,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-vitamin-c-face-mist-toner-hydrating-skin-100ml-pack-2-men-women/p/itm3f082f510b107",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Neem & Vitamin C Face Mist & Toner for Hydrating Skin …",
+  "title": "Bon Austin Neem & Vitamin C Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -33797,6 +35490,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -33848,7 +35542,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itm7a0ed21d492f4",
   "brand": "Bon Austin",
-  "model": "Cucumber & Green Tea Face Mist & Toner for Hydrating S …",
+  "model": "Cucumber & Green Tea Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "price": 300,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + rice water + green tea",
@@ -33897,7 +35591,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-cucumber-green-tea-face-mist-toner-hydrating-skin-100ml-pack-2-men-women/p/itm7a0ed21d492f4",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Cucumber & Green Tea Face Mist & Toner for Hydrating S …",
+  "title": "Bon Austin Cucumber & Green Tea Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -33964,11 +35658,11 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itm71970aa90fcaf",
   "brand": "Bon Austin",
-  "model": "Cucumber & Honey Face Mist & Toner for Hydrating Skin …",
+  "model": "Green Tea & Honey Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "price": 293,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "rose + honey + cucumber",
-  "featureLine": "Toner · Paraben-free · ₹73/100ml",
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "green tea + rose + honey",
+  "featureLine": "Toner · Paraben-free · ₹147/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -33983,10 +35677,10 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹73/100ml",
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹147/100ml",
    "format": "Toner",
-   "keyIngredients": "rose, honey, cucumber (per listing)",
+   "keyIngredients": "green tea, rose, honey, cucumber (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -34013,22 +35707,24 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-honey-face-mist-toner-hydrating-skin-100ml-pack-2-men-women/p/itm71970aa90fcaf",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Cucumber & Honey Face Mist & Toner for Hydrating Skin …",
+  "title": "Bon Austin Green Tea & Honey Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
    "format:mist",
    "format:pack",
    "format:kit",
+   "ing:green-tea",
    "ing:rose",
    "ing:honey",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
    "aud:women",
-   "size:xl",
+   "size:large",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -34074,7 +35770,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itmf2c4b2cab6b80",
   "brand": "Bon Austin",
-  "model": "Neem Toner Refreshing Face Mist & Toner for Hydrating …",
+  "model": "Neem Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 3 Men & Women",
   "price": 150,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "rice water + rose + neem",
@@ -34123,7 +35819,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-cucumber-green-tea-neem-face-mist-toner-100ml-pack-3-men-women/p/itmf2c4b2cab6b80",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Neem Toner Refreshing Face Mist & Toner for Hydrating …",
+  "title": "Bon Austin Neem Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 3 Men & Women",
   "tags": [
    "scope:both",
    "format:lotion",
@@ -34136,6 +35832,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:neem",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -34186,11 +35883,11 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itm20e0a95c0a4b2",
   "brand": "Bon Austin",
-  "model": "Cucumber, Honey & Vitamin C Face Mist & Toner For Wome …",
+  "model": "Green Tea, Honey & Vitamin C Face Mist & Toner For Women (100ml) Pack of 3 Men & Women",
   "price": 382,
-  "capacityLine": "900 ml (pack of 3)",
-  "materialLine": "vitamin C + rice water + rose",
-  "featureLine": "Toner · Paraben-free · ₹42/100ml",
+  "capacityLine": "300 ml (pack of 3)",
+  "materialLine": "vitamin C + rice water + green tea",
+  "featureLine": "Toner · Paraben-free · ₹127/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -34205,10 +35902,10 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "300 ml × 3 pack",
-   "pricePer100": "₹42/100ml",
+   "quantity": "100 ml × 3 pack",
+   "pricePer100": "₹127/100ml",
    "format": "Toner",
-   "keyIngredients": "vitamin C, rice water, rose, honey, cucumber (per listing)",
+   "keyIngredients": "vitamin C, rice water, green tea, rose, honey, cucumber (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -34235,7 +35932,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-honey-vitamin-c-face-mist-toner-women-100ml-pack-3-men/p/itm20e0a95c0a4b2",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Cucumber, Honey & Vitamin C Face Mist & Toner For Wome …",
+  "title": "Bon Austin Green Tea, Honey & Vitamin C Face Mist & Toner For Women (100ml) Pack of 3 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -34244,11 +35941,13 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:vitamin-c",
    "ing:rice-water",
+   "ing:green-tea",
    "ing:rose",
    "ing:honey",
    "ing:cucumber",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -34299,7 +35998,7 @@ const CTPRODUCTS = [
  {
   "id": "bon-austin-itm7523b8ca85a24",
   "brand": "Bon Austin",
-  "model": "Green Tea Toner Refreshing Face Mist & Toner for Hydra …",
+  "model": "Green Tea Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack 3 Men & Women",
   "price": 152,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + green tea",
@@ -34348,7 +36047,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bon-austin-green-tea-toner-refreshing-face-mist-hydrating-skin-100ml-pack-3-men-women/p/itm7523b8ca85a24",
   "buyStore": "Flipkart",
-  "title": "Bon Austin Green Tea Toner Refreshing Face Mist & Toner for Hydra …",
+  "title": "Bon Austin Green Tea Toner Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack 3 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -34363,6 +36062,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:neem",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -34483,6 +36183,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -34598,6 +36299,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -34938,6 +36640,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -35154,6 +36857,7 @@ const CTPRODUCTS = [
    "ing:mugwort",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -35263,6 +36967,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -35484,6 +37189,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -35597,6 +37304,8 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:hydrating",
    "claim:soothing",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -35607,6 +37316,119 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "nightblue-naturals-itmc392a51bfcf32",
+  "brand": "NightBlue Naturals",
+  "model": "Neem Aloevera Anti Agieng Wrinkles Acne Pimples Pores Moisturizing Toner Mist Men & Women",
+  "price": 223,
+  "capacityLine": "100 g",
+  "materialLine": "aloe vera + neem",
+  "featureLine": "Toner · Paraben-free · ₹223/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹223/100g",
+   "format": "Toner",
+   "keyIngredients": "aloe vera, neem (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/i/r/360-neem-aloevera-anti-agieng-wrinkles-acne-pimples-pores-original-imah2z5yv8npzzbz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/r/5/50-moisturizing-anti-fungal-cream-for-treating-athlete-s-foot-original-imah79hepfhchq7y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/9/x/240-0-gulab-jal-rose-water-120ml-pack-of-2-herbal-face-toner-for-original-imahmyrjsytxfhha.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/o/d/200-vitamin-c-skin-toner-for-pore-tightening-and-normal-oily-original-imagzgngzmaqnhxt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/j/6/3/120-rice-brightening-toner-for-skin-brightening-120ml-st-mege-original-imahzzkvkqghvswz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nightblue-naturals-neem-aloevera-anti-agieng-wrinkles-acne-pimples-pores-moisturizing-toner-mist-men-women/p/itmc392a51bfcf32",
+  "buyStore": "Flipkart",
+  "title": "NightBlue Naturals Neem Aloevera Anti Agieng Wrinkles Acne Pimples Pores Moisturizing Toner Mist Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "format:kit",
+   "ing:neem",
+   "ing:gold",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": true,
    "natural": true,
    "derm": false,
@@ -35706,6 +37528,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:green-tea",
    "ing:cucumber",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:barrier",
    "skin:sensitive",
@@ -35821,6 +37644,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -36149,6 +37973,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -36371,6 +38196,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -36479,6 +38305,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -36582,13 +38409,13 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -36696,6 +38523,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -36808,6 +38636,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -36918,6 +38747,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37026,6 +38856,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37135,6 +38966,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -37244,6 +39076,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37354,6 +39187,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37570,6 +39404,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37681,6 +39516,7 @@ const CTPRODUCTS = [
    "ing:mugwort",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37789,6 +39625,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -37838,7 +39675,7 @@ const CTPRODUCTS = [
  {
   "id": "donnara-organics-itm5d62f3240fd43",
   "brand": "DONNARA organics",
-  "model": "Green Tea Refreshing Face Mist & Toner for Hydra …",
+  "model": "Green Tea Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "price": 286,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "green tea + rose",
@@ -37887,7 +39724,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/donnara-organics-green-tea-refreshing-face-mist-toner-hydrating-skin-100ml-pack-2-men-women/p/itm5d62f3240fd43",
   "buyStore": "Flipkart",
-  "title": "DONNARA organics Green Tea Refreshing Face Mist & Toner for Hydra …",
+  "title": "DONNARA organics Green Tea Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -37900,6 +39737,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -37950,11 +39788,11 @@ const CTPRODUCTS = [
  {
   "id": "donnara-organics-itmc61e77c12f265",
   "brand": "DONNARA organics",
-  "model": "Cucumber, Green Tea & Neem Mist & Toner for Hydr …",
+  "model": "Cucumber, Green Tea & Neem Mist & Toner for Hydrating Skin (100ml) Combo of 3 Men & Women",
   "price": 382,
-  "capacityLine": "80 g (pack of 2)",
+  "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + rice water + green tea",
-  "featureLine": "Toner · Paraben-free · ₹478/100g",
+  "featureLine": "Toner · Paraben-free · ₹191/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -37969,8 +39807,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "40 g × 2 pack",
-   "pricePer100": "₹478/100g",
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹191/100ml",
    "format": "Toner",
    "keyIngredients": "niacinamide, rice water, green tea, rose, cucumber, neem (per listing)",
    "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
@@ -37999,7 +39837,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/donnara-organics-cucumber-green-tea-neem-mist-toner-hydrating-skin-100ml-combo-3-men-women/p/itmc61e77c12f265",
   "buyStore": "Flipkart",
-  "title": "DONNARA organics Cucumber, Green Tea & Neem Mist & Toner for Hydr …",
+  "title": "DONNARA organics Cucumber, Green Tea & Neem Mist & Toner for Hydrating Skin (100ml) Combo of 3 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -38015,12 +39853,13 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
    "aud:women",
-   "size:standard",
+   "size:large",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -38066,7 +39905,7 @@ const CTPRODUCTS = [
  {
   "id": "donnara-organics-itmf02b47f6b5e55",
   "brand": "DONNARA organics",
-  "model": "Green Tea & Rose Face Mist & Toner for Hydrating …",
+  "model": "Green Tea & Rose Face Mist & Toner for Hydrating Skin (100ml) Combo of 2 Men & Women",
   "price": 286,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + rice water + green tea",
@@ -38115,7 +39954,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/donnara-organics-green-tea-rose-face-mist-toner-hydrating-skin-100ml-combo-2-men-women/p/itmf02b47f6b5e55",
   "buyStore": "Flipkart",
-  "title": "DONNARA organics Green Tea & Rose Face Mist & Toner for Hydrating …",
+  "title": "DONNARA organics Green Tea & Rose Face Mist & Toner for Hydrating Skin (100ml) Combo of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -38181,11 +40020,11 @@ const CTPRODUCTS = [
  {
   "id": "donnara-organics-itm872e3bd50a5ad",
   "brand": "DONNARA organics",
-  "model": "Green Tea Refreshing Face Mist & Toner for Hydra …",
+  "model": "Green Tea Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 1 Men & Women",
   "price": 133,
-  "capacityLine": "100 g",
+  "capacityLine": "100 ml",
   "materialLine": "rice water + green tea + rose",
-  "featureLine": "Toner · Paraben-free · ₹133/100g",
+  "featureLine": "Toner · Paraben-free · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38200,8 +40039,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹133/100g",
+   "quantity": "100 ml",
+   "pricePer100": "₹133/100ml",
    "format": "Toner",
    "keyIngredients": "rice water, green tea, rose (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38230,7 +40069,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/donnara-organics-green-tea-refreshing-face-mist-toner-hydrating-skin-100ml-pack-1-men-women/p/itm872e3bd50a5ad",
   "buyStore": "Flipkart",
-  "title": "DONNARA organics Green Tea Refreshing Face Mist & Toner for Hydra …",
+  "title": "DONNARA organics Green Tea Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 1 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -38244,6 +40083,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -38294,11 +40134,11 @@ const CTPRODUCTS = [
  {
   "id": "donnara-organics-itmd98e464806260",
   "brand": "DONNARA organics",
-  "model": "Green Tea & Neem Face Mist & Toner for Hydrating …",
+  "model": "Green Tea & Neem Face Mist & Toner for Hydrating Skin (100ml) Combo of 2 Men & Women",
   "price": 308,
-  "capacityLine": "120 g (pack of 2)",
+  "capacityLine": "200 ml (pack of 2)",
   "materialLine": "green tea + neem + vitamin E",
-  "featureLine": "Toner · Paraben-free · ₹257/100g",
+  "featureLine": "Toner · Paraben-free · ₹154/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -38313,8 +40153,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "60 g × 2 pack",
-   "pricePer100": "₹257/100g",
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹154/100ml",
    "format": "Toner",
    "keyIngredients": "green tea, neem, vitamin E (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -38343,7 +40183,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/donnara-organics-green-tea-neem-face-mist-toner-hydrating-skin-100ml-combo-2-men-women/p/itmd98e464806260",
   "buyStore": "Flipkart",
-  "title": "DONNARA organics Green Tea & Neem Face Mist & Toner for Hydrating …",
+  "title": "DONNARA organics Green Tea & Neem Face Mist & Toner for Hydrating Skin (100ml) Combo of 2 Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -38361,7 +40201,7 @@ const CTPRODUCTS = [
    "free:paraben",
    "free:vegan",
    "aud:women",
-   "size:standard",
+   "size:large",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -38821,6 +40661,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -39042,6 +40884,7 @@ const CTPRODUCTS = [
    "format:powder",
    "ing:vitamin-c",
    "ing:green-tea",
+   "ing:chamomile",
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
@@ -39149,7 +40992,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "zoomique Matcha Green Tea Face Toner with Chamomile & Ylang-Ylang …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -39161,6 +41004,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:rose",
    "ing:calamine",
+   "ing:chamomile",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -39276,6 +41120,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -39388,6 +41233,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -39652,7 +41498,7 @@ const CTPRODUCTS = [
  {
   "id": "yuvy-itmf9deab12108e4",
   "brand": "YUVY",
-  "model": "Green Tea Skin Toner | Oil Free Hydrating Facial Mist Men & …",
+  "model": "Green Tea Skin Toner | Oil Free Hydrating Facial Mist Men & Women",
   "price": 146,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "glycolic acid + rice water + green tea",
@@ -39701,7 +41547,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yuvy-green-tea-skin-toner-oil-free-hydrating-facial-mist-men-women/p/itmf9deab12108e4",
   "buyStore": "Flipkart",
-  "title": "YUVY Green Tea Skin Toner | Oil Free Hydrating Facial Mist Men & …",
+  "title": "YUVY Green Tea Skin Toner | Oil Free Hydrating Facial Mist Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -39917,7 +41763,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); centella asiatica extract (#9 on list, moderate evidence); camellia sinensis leaf extract (#12 on list, moderate evidence); allantoin (#17 on list, limited evidence); panthenol (#19 on list, moderate evidence); sodium hyaluronate (#20 on list, moderate evidence); bisabolol (#21 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 287 ratings"
+   "buyerEvidence": "4.5★ from 287 ratings",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #13 on INCI; Irritation — aloe barbadensis leaf juice #3 on INCI, centella asiatica extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/0/e/2/100-the-calm-soothing-toner-cica-bisabolol-from-centella-original-imagge4zzgtm7evc.jpeg?q=90",
@@ -39934,6 +41781,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:pack",
    "ing:centella-cica",
+   "ing:chamomile",
    "claim:soothing",
    "skin:sensitive",
    "skin:all",
@@ -39944,6 +41792,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -39978,6 +41828,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -39985,6 +41836,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -39992,6 +41844,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -39999,6 +41852,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -40006,6 +41860,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -40013,6 +41868,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -40020,6 +41876,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -40027,6 +41884,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -40034,6 +41892,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -40215,7 +42074,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, butylphenyl methylpropional, linalool, citronellol (−2); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Piramal Pharma (Consumer Products) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Lacto Cosmetics (vapi) Pvt Ltd, A-2/2120, 3rd Phase, G I D Cvapi 396195, Gujrat. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 2,563 ratings"
+   "buyerEvidence": "4.2★ from 2,563 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/2/u/t/-original-imah28qxsbazrrye.jpeg?q=90",
@@ -40238,6 +42098,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:pharma-maker"
   ],
@@ -40271,6 +42134,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -40278,6 +42142,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40285,6 +42150,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -40292,6 +42158,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -40403,6 +42270,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -40512,6 +42381,7 @@ const CTPRODUCTS = [
    "ing:saffron",
    "ing:jojoba",
    "ing:milk",
+   "ing:chamomile",
    "claim:pores",
    "claim:hydrating",
    "skin:all",
@@ -40616,6 +42486,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:rose",
    "claim:brightening",
+   "claim:scars",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -40720,6 +42591,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -40914,7 +42787,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#7 on list, strong evidence); glycolic acid (#8 on list, strong evidence); lactic acid (#10 on list, strong evidence); hyaluronic acid (#11 on list, moderate evidence); panthenol (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 14 ratings"
+   "buyerEvidence": "4.7★ from 14 ratings",
+   "concernBasis": "Dark spots — kojic acid #9 on INCI; Irritation — panthenol #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/a/d/-original-imahqy4fyyqq5chh.jpeg?q=90",
@@ -40945,6 +42819,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -40978,6 +42854,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40985,6 +42862,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -40992,6 +42870,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -40999,6 +42878,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -41006,6 +42886,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -41013,6 +42894,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -41020,6 +42902,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -41027,6 +42910,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -41049,9 +42933,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-itme9b1a02f1acc4",
-  "brand": "Park",
-  "model": "DANIEL - For Toner, Cleanser, Nourishing & Refreshing Purpos …",
+  "id": "park-daniel-itme9b1a02f1acc4",
+  "brand": "Park Daniel",
+  "model": "For Toner, Cleanser, Nourishing & Refreshing Purpos …",
   "price": 55,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -41108,6 +42992,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -41213,6 +43098,8 @@ const CTPRODUCTS = [
    "format:pack",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -41430,6 +43317,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -41521,7 +43409,8 @@ const CTPRODUCTS = [
    "evidenceActives": "salicylic acid (#4 on list, strong evidence); aloe barbadensis leaf extract (#5 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #4 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/o/y/100-salicylic-acid-toner-with-2-salicylic-green-tea-for-oil-acne-original-imahpsfh6gacgcfp.jpeg?q=90",
@@ -41550,12 +43439,15 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -41589,6 +43481,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -41596,6 +43489,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -41787,6 +43681,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -42113,12 +44008,12 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:green-tea",
    "claim:pores",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -42171,7 +44066,7 @@ const CTPRODUCTS = [
  {
   "id": "mensport-itm9a90eda869bcc",
   "brand": "Mensport",
-  "model": "Vitamin C Refreshing Face Mist & Toner for Hydrating Ski …",
+  "model": "Vitamin C Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 3 Men & Women",
   "price": 382,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + niacinamide + rice water",
@@ -42220,7 +44115,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mensport-vitamin-c-refreshing-face-mist-toner-hydrating-skin-100ml-pack-3-men-women/p/itm9a90eda869bcc",
   "buyStore": "Flipkart",
-  "title": "Mensport Vitamin C Refreshing Face Mist & Toner for Hydrating Ski …",
+  "title": "Mensport Vitamin C Refreshing Face Mist & Toner for Hydrating Skin (100ml) Pack of 3 Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -42238,6 +44133,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -42289,7 +44185,7 @@ const CTPRODUCTS = [
  {
   "id": "aurvix-itm4682e0df8a439",
   "brand": "Aurvix",
-  "model": "Face Mist & Toner Mini | Hydrating, Anti-Ageing & Pore Tig …",
+  "model": "Face Mist & Toner Mini | Hydrating, Anti-Ageing & Pore Tightening Men & Women Men & Women",
   "price": 144,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + aloe vera + rose",
@@ -42338,7 +44234,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/aurvix-face-mist-toner-mini-hydrating-anti-ageing-pore-tightening-men-women/p/itm4682e0df8a439",
   "buyStore": "Flipkart",
-  "title": "Aurvix Face Mist & Toner Mini | Hydrating, Anti-Ageing & Pore Tig …",
+  "title": "Aurvix Face Mist & Toner Mini | Hydrating, Anti-Ageing & Pore Tightening Men & Women Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -42464,6 +44360,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -42515,7 +44412,7 @@ const CTPRODUCTS = [
  {
   "id": "wildflower-essentials-itmf19dfbe63af07",
   "brand": "Wildflower essentials",
-  "model": "Lemon Hydrosol Skin Mist Toner For Anti Agi …",
+  "model": "Lemon Hydrosol Skin Toner For Acne & Pigmentation For Face Toner Men & Women",
   "price": 140,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -42563,7 +44460,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wildflower-essentials-lemon-hydrosol-skin-mist-toner-anti-aging-reduce-dark-spots-face-men-women/p/itmf19dfbe63af07",
   "buyStore": "Flipkart",
-  "title": "Wildflower essentials Lemon Hydrosol Skin Mist Toner For Anti Agi …",
+  "title": "Wildflower essentials Lemon Hydrosol Skin Toner For Acne & Pigmentation For Face Toner Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -42578,6 +44475,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -42690,12 +44588,14 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "ing:cucumber",
    "ing:witch-hazel",
+   "ing:lavender",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
    "claim:pores",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:oily",
    "skin:sensitive",
    "skin:all",
@@ -43044,6 +44944,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:xl",
@@ -43365,7 +45266,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:pha",
    "ing:rice-water",
@@ -43378,6 +45278,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -43420,6 +45321,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -43427,6 +45329,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -43434,6 +45337,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -43441,6 +45345,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     }
    ],
@@ -43527,6 +45432,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -43753,6 +45659,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -43866,6 +45773,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -43975,6 +45883,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:all",
@@ -44088,6 +45997,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -44200,6 +46110,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -44318,6 +46229,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -44428,6 +46340,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -44539,6 +46452,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:sensitive",
    "free:paraben",
    "free:sensitive-safe",
@@ -44589,7 +46503,7 @@ const CTPRODUCTS = [
  {
   "id": "komyo-itmf3474b6cf6e60",
   "brand": "Komyo",
-  "model": "Wellness Rice Water & Green Tea Revitalizing Toner, Hydrati …",
+  "model": "Wellness Rice Water & Green Tea Revitalizing Toner, Hydrating Facial Mist for Oily Skin Me…",
   "price": 395,
   "capacityLine": "100 ml",
   "materialLine": "PHA + rice water + green tea",
@@ -44638,7 +46552,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/komyo-wellness-rice-water-green-tea-revitalizing-toner-hydrating-facial-mist-oily-skin-men-women/p/itmf3474b6cf6e60",
   "buyStore": "Flipkart",
-  "title": "Komyo Wellness Rice Water & Green Tea Revitalizing Toner, Hydrati …",
+  "title": "Komyo Wellness Rice Water & Green Tea Revitalizing Toner, Hydrating Facial Mist for Oily Skin Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -44654,6 +46568,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "free:paraben",
@@ -44852,7 +46767,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#7 on list, strong evidence); hyaluronic acid (#13 on list, moderate evidence); centella asiatica extract (#16 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, glycyrrhiza glabra root extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/s/d/100-hydrating-toner-for-face-alcohol-free-moisturizing-original-imahna7ztpvhpuyj.jpeg?q=90",
@@ -44875,6 +46791,9 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "claim:cooling",
    "skin:dry",
    "skin:sensitive",
    "free:paraben",
@@ -44885,6 +46804,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -44917,6 +46838,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -44924,6 +46846,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -44931,6 +46854,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -44938,6 +46862,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -44945,6 +46870,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -45047,6 +46973,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -45278,6 +47205,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -45497,6 +47425,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -45613,6 +47542,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -45727,6 +47658,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -45816,7 +47748,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#3 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence); panthenol (#8 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 2,664 ratings"
+   "buyerEvidence": "4.5★ from 2,664 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — aloe barbadensis leaf extract #4 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/d/m/100-derma-rice-water-4-niacinamide-glowing-skin-toner-for-normal-enriched-transparent-original-imahe24hddezxqj5.png?q=90",
@@ -45838,6 +47771,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -45845,6 +47779,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -45879,6 +47816,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -45886,6 +47824,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -45893,6 +47832,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -45978,6 +47918,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -46200,6 +48141,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -46249,11 +48191,11 @@ const CTPRODUCTS = [
  {
   "id": "maria-itm4953060a684d4",
   "brand": "Maria",
-  "model": "Ross Facial Hydrating Pore Tightening Refreshing Toner Mist …",
+  "model": "Ross Facial Hydrating Pore Tightening Refreshing Toner Mist 50ml Men & Women",
   "price": 491,
-  "capacityLine": "100 ml",
+  "capacityLine": "50 ml",
   "materialLine": "rose",
-  "featureLine": "Toner · Paraben-free · ₹491/100ml",
+  "featureLine": "Toner · Paraben-free · ₹982/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -46268,8 +48210,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹491/100ml",
+   "quantity": "50 ml",
+   "pricePer100": "₹982/100ml",
    "format": "Toner",
    "keyIngredients": "rose (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -46298,7 +48240,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/maria-ross-facial-hydrating-pore-tightening-refreshing-toner-mist-50ml-men-women/p/itm4953060a684d4",
   "buyStore": "Flipkart",
-  "title": "Maria Ross Facial Hydrating Pore Tightening Refreshing Toner Mist …",
+  "title": "Maria Ross Facial Hydrating Pore Tightening Refreshing Toner Mist 50ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -46308,10 +48250,11 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
-   "size:standard",
+   "size:travel",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -46534,6 +48477,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -46651,6 +48595,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -47105,6 +49050,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -47442,6 +49388,7 @@ const CTPRODUCTS = [
    "claim:no-white-cast",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -47555,6 +49502,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -48240,6 +50188,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
+   "claim:makeup",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -48575,6 +50525,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -48801,6 +50752,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:hydrating",
    "claim:korean",
+   "claim:makeup",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -48992,7 +50944,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); ceramide np (#13 on list, moderate evidence); sodium hyaluronate (#43 on list, moderate evidence); allantoin (#44 on list, limited evidence); panthenol (#47 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 213 ratings"
+   "buyerEvidence": "4.4★ from 213 ratings",
+   "concernBasis": "Aging — copper tripeptide-1 #12 on INCI; Irritation — ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/4/t/100-cerasense-milky-toner-with-ceramides-peptides-for-barrier-original-imahg6xz58tgnera.jpeg?q=90",
@@ -49017,6 +50970,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -49051,6 +51006,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -49058,6 +51014,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -49065,6 +51022,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -49072,6 +51030,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -49079,6 +51038,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -49086,6 +51046,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -49093,6 +51054,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -49100,6 +51062,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 37,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -49107,6 +51070,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 42,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -49114,6 +51078,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 43,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -49121,6 +51086,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 44,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -49128,7 +51094,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 47,
      "core": true,
+     "trace": true,
      "src": "panthenol"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
     }
    ],
    "support": [
@@ -49257,7 +51232,7 @@ const CTPRODUCTS = [
  {
   "id": "pilgrim-itm2b9f8aee11fd6",
   "brand": "Pilgrim",
-  "model": "Mini White Lotus Natural Face Mist & Toner Men & Women (3 …",
+  "model": "Mini White Lotus Natural Face Mist & Toner Men & Women",
   "price": 140,
   "capacityLine": "30 ml",
   "materialLine": "witch hazel",
@@ -49306,7 +51281,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/pilgrim-mini-white-lotus-natural-face-mist-toner-men-women/p/itm2b9f8aee11fd6",
   "buyStore": "Flipkart",
-  "title": "Pilgrim Mini White Lotus Natural Face Mist & Toner Men & Women (3 …",
+  "title": "Pilgrim Mini White Lotus Natural Face Mist & Toner Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -49318,6 +51293,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -49864,6 +51840,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "ing:rose",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -50042,7 +52019,7 @@ const CTPRODUCTS = [
  {
   "id": "meglow-itmeb1572d72f1b7",
   "brand": "meglow",
-  "model": "Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin f …",
+  "model": "Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin for Men & Women Men & Women",
   "price": 189,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
@@ -50068,7 +52045,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (1,213 ratings, Flipkart)",
@@ -50091,14 +52068,14 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/meglow-rose-water-toner-mist-spray-gulab-jal-glowing-skin-men-women/p/itmeb1572d72f1b7",
   "buyStore": "Flipkart",
-  "title": "meglow Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin f …",
+  "title": "meglow Rose Water Toner Mist Spray | Gulab Jal for Glowing Skin for Men & Women Men & Women",
   "tags": [
    "scope:unstated",
    "format:toner",
    "format:mist",
    "ing:rose",
    "claim:brightening",
-   "aud:unisex",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
@@ -50109,7 +52086,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -50396,7 +52373,8 @@ const CTPRODUCTS = [
    "evidenceActives": "oryza sativa extract (#2 on list, limited evidence); glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); aloe barbadensis leaf extract (#5 on list, moderate evidence); sodium hyaluronate (#6 on list, moderate evidence); allantoin (#8 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 139 ratings"
+   "buyerEvidence": "3.9★ from 139 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/y/w/100-hydrating-brightening-facial-toner-with-natural-rice-extract-original-imahqk79zg2svrhb.jpeg?q=90",
@@ -50423,6 +52401,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -50456,6 +52437,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -50463,6 +52445,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -50470,6 +52453,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -50477,6 +52461,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -50484,6 +52469,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -50491,6 +52477,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -50991,6 +52978,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -51036,117 +53024,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.5★ from 91 ratings"
-  }
- },
- {
-  "id": "wildflower-itmcf162216348fd",
-  "brand": "Wildflower",
-  "model": "essentials Witch Hazel Toner & Cleanser Suitable For S …",
-  "price": 140,
-  "capacityLine": "100 ml",
-  "materialLine": "witch hazel",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹140/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 8 ratings"
-  ],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹140/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "witch hazel (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (8 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 100% Pure Witch Hazel Floral Water",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 8 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/r/3/s/100-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imags9u2pymjfugq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/f/i/7/100-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imags38npegx6xgz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/m/4/l/100-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imags38n6svmvpzm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/s/b/t/100-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imags38npagvhxht.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/b/n/p/100-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imags38zmmkchgnc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/wildflower-essentials-witch-hazel-toner-cleanser-suitable-sensitive-oily-skin-men-women/p/itmcf162216348fd",
-  "buyStore": "Flipkart",
-  "title": "Wildflower essentials Witch Hazel Toner & Cleanser Suitable For S …",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:mist",
-   "format:pack",
-   "format:wash",
-   "ing:witch-hazel",
-   "claim:no-white-cast",
-   "skin:oily",
-   "skin:sensitive",
-   "free:paraben",
-   "free:vegan",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "100% Pure Witch Hazel Floral Water",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 8 ratings"
   }
  },
  {
@@ -51215,6 +53092,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -51334,6 +53212,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -51663,6 +53542,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -51770,6 +53650,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:vitamin-c",
    "ing:pearl",
+   "ing:calendula",
    "claim:acne",
    "skin:oily",
    "skin:acne-prone",
@@ -51879,6 +53760,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:rose",
+   "ing:lavender",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -51995,6 +53877,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -52115,6 +53998,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -52593,6 +54477,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -52777,7 +54662,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:cucumber",
    "claim:pores",
@@ -53000,6 +54884,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -53114,6 +54999,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:oil-control",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -53227,6 +55113,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "free:paraben",
@@ -53343,6 +55230,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -53457,6 +55346,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -53572,6 +55463,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -53683,6 +55576,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:normal",
@@ -53800,6 +55694,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:normal",
    "free:paraben",
@@ -54150,6 +56045,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:xl",
@@ -54212,7 +56108,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
+   "ingredients": 2.3,
    "skin": 7,
    "trust": 5.5,
    "experience": 6.7
@@ -54259,6 +56155,7 @@ const CTPRODUCTS = [
    "format:pack",
    "ing:niacinamide",
    "ing:pha",
+   "ing:sea-salt",
    "skin:oily",
    "skin:sensitive",
    "free:paraben",
@@ -54296,7 +56193,16 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": 0.7,
    "recognised": 0.88,
-   "actives": [],
+   "actives": [
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -54714,6 +56620,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -54829,6 +56736,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -55164,10 +57072,10 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:neem",
    "claim:acne",
    "claim:pores",
+   "claim:scars",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -55279,6 +57187,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -55492,6 +57401,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "rating:none",
@@ -55601,6 +57511,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -55832,6 +57743,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:lightweight",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -56165,6 +58077,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -56427,6 +58340,114 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "wildflower-essentials-itmdcf57092b8943",
+  "brand": "Wildflower essentials",
+  "model": "100% Pure Lemon Face Mist Spray Soothing Deep Cleansing, Refreshing Toner Men & Women",
+  "price": 126,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹420/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹420/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.3/5 (3 ratings, Flipkart)",
+   "madeIn": "India",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 100% Pure & Nature Lemon Floral Water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 3 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/v/a/n/30-100-pure-lemon-face-mist-deep-cleansing-hydrating-toner-for-original-imagzbjc4dzpsghf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/l/3/p/30-100-pure-lemon-face-mist-deep-cleansing-hydrating-toner-for-original-imagzbjchfx4fznh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/8/w/0/30-100-pure-lemon-face-mist-deep-cleansing-hydrating-toner-for-original-imagzbjcrztcjbfg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/i/l/w/30-100-pure-lemon-face-mist-deep-cleansing-hydrating-toner-for-original-imagzbjcyn7gphev.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/cleanser/w/c/a/30-100-pure-lemon-face-mist-deep-cleansing-hydrating-toner-for-original-imagzbjcswc9wbup.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wildflower-essentials-100-pure-lemon-face-mist-spray-soothing-deep-cleansing-refreshing-toner-men-women/p/itmdcf57092b8943",
+  "buyStore": "Flipkart",
+  "title": "Wildflower essentials 100% Pure Lemon Face Mist Spray Soothing Deep Cleansing, Refreshing Toner Men & Women",
+  "tags": [
+   "scope:both",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "format:wash",
+   "ing:lemon",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:cooling",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "100% Pure & Nature Lemon Floral Water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 3 ratings"
+  }
+ },
+ {
   "id": "joy-itmfdcce6b02133b",
   "brand": "Joy",
   "model": "Revivify Pink Rose Toner, Refreshing & Hydrating with Hazel & …",
@@ -56485,6 +58506,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -56598,6 +58620,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -56793,7 +58816,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf extract (#3 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-toner/l/f/g/100-cucumber-toner-for-face-pore-tightening-cooling-toner-for-original-imahhyg8gegztv5k.jpeg?q=90",
@@ -56824,6 +58848,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -56831,6 +58856,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -56863,6 +58889,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -56870,6 +58897,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -56877,6 +58905,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -56884,6 +58913,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -56987,6 +59017,7 @@ const CTPRODUCTS = [
    "claim:tinted",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -57037,7 +59068,7 @@ const CTPRODUCTS = [
  {
   "id": "quat-itm13de30ddbf588",
   "brand": "Quat",
-  "model": "Vitamin C Face Toner Spray for Glowing Skin | Hydrating Mist …",
+  "model": "Vitamin C Face Toner Spray for Glowing Skin | Hydrating Mist for All Skin Men & Women",
   "price": 161,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + niacinamide + rice water",
@@ -57086,7 +59117,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/quat-vitamin-c-face-toner-spray-glowing-skin-hydrating-mist-all-men-women/p/itm13de30ddbf588",
   "buyStore": "Flipkart",
-  "title": "QUAT Vitamin C Face Toner Spray for Glowing Skin | Hydrating Mist …",
+  "title": "QUAT Vitamin C Face Toner Spray for Glowing Skin | Hydrating Mist for All Skin Men & Women",
   "tags": [
    "scope:both",
    "format:gel",
@@ -57109,6 +59140,9 @@ const CTPRODUCTS = [
    "claim:tinted",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
+   "claim:scars",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -57222,6 +59256,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:pearl",
    "claim:whitening-claim",
+   "claim:intimate-hygiene",
    "skin:oily",
    "skin:dry",
    "skin:normal",
@@ -57493,7 +59528,7 @@ const CTPRODUCTS = [
  {
   "id": "wildflower-itm419d89c5ee3be",
   "brand": "Wildflower",
-  "model": "essentials Lemon & Vitamin C Rich Skin Mist Toner For …",
+  "model": "essentials Lemon & Vitamin C Rich Skin Mist Toner For Open Pore Tightening/Reduce Dark Spo…",
   "price": 163,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C",
@@ -57541,7 +59576,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wildflower-essentials-lemon-vitamin-c-rich-skin-mist-toner-open-pore-tightening-reduce-dark-spot-men-women/p/itm419d89c5ee3be",
   "buyStore": "Flipkart",
-  "title": "Wildflower essentials Lemon & Vitamin C Rich Skin Mist Toner For …",
+  "title": "Wildflower essentials Lemon & Vitamin C Rich Skin Mist Toner For Open Pore Tightening/Reduce Dark Spot Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -57557,6 +59592,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -57707,11 +59743,11 @@ const CTPRODUCTS = [
  {
   "id": "nat-habit-itmbcf078a29a88c",
   "brand": "Nat Habit",
-  "model": "Mogra Jal (Mogra Water) | Toner, Face-Mist, Astringent, …",
+  "model": "Mogra Jal (Mogra Water) | Toner, Face-Mist, Astringent, Body-Spray | Oil-Control, Acne-Con…",
   "price": 215,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner",
+  "featureLine": "Toner · ₹215/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.5★ from 153 ratings"
@@ -57726,15 +59762,15 @@ const CTPRODUCTS = [
    "experience": 6.6
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "100 ml",
+   "pricePer100": "₹215/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (153 ratings, Flipkart)",
@@ -57757,14 +59793,19 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nat-habit-mogra-jal-mogra-water-toner-face-mist-astringent-body-spray-oil-control-acne-control-hydration-face-ctm-ayurvedic-pure-fresh-made-steam-distilled-100ml-single-pack-men-women/p/itmbcf078a29a88c",
   "buyStore": "Flipkart",
-  "title": "Nat Habit Mogra Jal (Mogra Water) | Toner, Face-Mist, Astringent, …",
+  "title": "Nat Habit Mogra Jal (Mogra Water) | Toner, Face-Mist, Astringent, Body-Spray | Oil-Control, Acne-Control, Hydration, Face CTM | Ayurvedic, Pure & Fresh Made, Steam-Distilled, 100ml (Single Pack) Men & Women",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:toner",
    "format:mist",
+   "format:pack",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
-   "aud:unisex",
+   "aud:women",
+   "size:standard",
    "rating:4.5",
    "store:flipkart",
    "inci:partial"
@@ -57775,7 +59816,7 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -57810,7 +59851,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-morepen-itme288642ef10a6",
   "brand": "Dr. Morepen",
-  "model": "Rosewater Toner | Hydrating Rose Water Spray Mist | F …",
+  "model": "Rosewater Toner | Hydrating Rose Water Spray Mist | Facial Toner for All Skins Men & Women",
   "price": 130,
   "capacityLine": "200 ml",
   "materialLine": "rose",
@@ -57858,7 +59899,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-morepen-rosewater-toner-hydrating-rose-water-spray-mist-facial-all-skins-men-women/p/itme288642ef10a6",
   "buyStore": "Flipkart",
-  "title": "Dr. Morepen Rosewater Toner | Hydrating Rose Water Spray Mist | F …",
+  "title": "Dr. Morepen Rosewater Toner | Hydrating Rose Water Spray Mist | Facial Toner for All Skins Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -57872,6 +59913,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -57921,7 +59963,7 @@ const CTPRODUCTS = [
  {
   "id": "babyorgano-itmaf0c2ba0b7104",
   "brand": "BabyOrgano",
-  "model": "100% Pure Rose Water/Gulab Jal Steam Distilled Kanauj …",
+  "model": "100% Pure Rose Water/Gulab Jal Steam Distilled Kanauj Roses Skin Toner Face Mist Men & Wom…",
   "price": 340,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
@@ -57949,7 +59991,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (104 ratings, Flipkart)",
@@ -57972,11 +60014,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/babyorgano-100-pure-rose-water-gulab-jal-steam-distilled-kanauj-roses-skin-toner-face-mist-men-women/p/itmaf0c2ba0b7104",
   "buyStore": "Flipkart",
-  "title": "BabyOrgano 100% Pure Rose Water/Gulab Jal Steam Distilled Kanauj …",
+  "title": "BabyOrgano 100% Pure Rose Water/Gulab Jal Steam Distilled Kanauj Roses Skin Toner Face Mist Men & Women",
   "tags": [
-   "scope:unstated",
+   "scope:face",
+   "format:toner",
+   "format:mist",
    "ing:rose",
-   "aud:unisex",
+   "aud:women",
    "rating:4.5",
    "store:flipkart",
    "inci:partial"
@@ -57987,7 +60031,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -58136,7 +60180,7 @@ const CTPRODUCTS = [
  {
   "id": "aravi-itm661df6e991ab8",
   "brand": "Aravi",
-  "model": "Organic 100% Pure & Natural Rose Water Steam Distilled Face …",
+  "model": "Organic 100% Pure & Natural Rose Water Steam Distilled Face Spray Toner For Skin & Hair Me…",
   "price": 227,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
@@ -58164,7 +60208,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (114 ratings, Flipkart)",
@@ -58187,11 +60231,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/aravi-organic-100-pure-natural-rose-water-steam-distilled-face-spray-toner-skin-hair-men-women/p/itm661df6e991ab8",
   "buyStore": "Flipkart",
-  "title": "Aravi Organic 100% Pure & Natural Rose Water Steam Distilled Face …",
+  "title": "Aravi Organic 100% Pure & Natural Rose Water Steam Distilled Face Spray Toner For Skin & Hair Men & Women",
   "tags": [
    "scope:face",
+   "format:toner",
+   "format:mist",
    "ing:rose",
-   "aud:unisex",
+   "aud:women",
    "rating:4.5",
    "store:flipkart",
    "inci:partial"
@@ -58202,7 +60248,7 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -58237,7 +60283,7 @@ const CTPRODUCTS = [
  {
   "id": "nestona-itm38da95791bec2",
   "brand": "nestona",
-  "model": "Premium Rose Water spray | Gulab Jal Spray | Toner Men & …",
+  "model": "Premium Rose Water spray | Gulab Jal Spray | Toner Men & Women",
   "price": 110,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -58285,7 +60331,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/nestona-premium-rose-water-spray-gulab-jal-toner-men-women/p/itm38da95791bec2",
   "buyStore": "Flipkart",
-  "title": "nestona Premium Rose Water spray | Gulab Jal Spray | Toner Men & …",
+  "title": "nestona Premium Rose Water spray | Gulab Jal Spray | Toner Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -58300,6 +60346,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "free:toxin-free",
@@ -58418,6 +60465,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -58569,7 +60617,7 @@ const CTPRODUCTS = [
  {
   "id": "blue-itmd8ff43adb9b20",
   "brand": "BLUE",
-  "model": "CHIP Gulab Glow Mist Premium Rose Water Toner Men & Women (5 …",
+  "model": "CHIP Gulab Glow Mist Premium Rose Water Toner Men & Women",
   "price": 200,
   "capacityLine": "1000 ml (pack of 2)",
   "materialLine": "niacinamide + PHA + rice water",
@@ -58618,7 +60666,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/blue-chip-gulab-glow-mist-premium-rose-water-toner-men-women/p/itmd8ff43adb9b20",
   "buyStore": "Flipkart",
-  "title": "BLUE CHIP Gulab Glow Mist Premium Rose Water Toner Men & Women (5 …",
+  "title": "BLUE CHIP Gulab Glow Mist Premium Rose Water Toner Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -58745,6 +60793,7 @@ const CTPRODUCTS = [
    "ing:licorice",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -58856,6 +60905,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:large",
@@ -59182,7 +61232,9 @@ const CTPRODUCTS = [
    "format:oil",
    "format:pack",
    "ing:rice-water",
+   "ing:chamomile",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "aud:women",
@@ -59509,6 +61561,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -59598,7 +61651,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#8 on list, strong evidence); aloe barbadensis leaf extract (#9 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 25 ratings"
+   "buyerEvidence": "4.6★ from 25 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/s/u/150-japanese-rice-milk-toner-2-niacinamide-rice-sake-vegan-original-imahgnvwhpjeqmzq.jpeg?q=90",
@@ -59621,6 +61675,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "skin:sensitive",
    "free:paraben",
    "free:vegan",
@@ -59629,6 +61684,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -59662,6 +61720,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -59669,6 +61728,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -59676,6 +61736,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -59683,6 +61744,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -59690,6 +61752,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -59777,6 +61840,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -59926,6 +61990,132 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "wildflower-essentials-itm275fc2ad3401d",
+  "brand": "Wildflower essentials",
+  "model": "Witch Hazel Face Mist Spray Soothing Cleansing Refreshing Skin Brightening Toner",
+  "price": 800,
+  "capacityLine": "50 g",
+  "materialLine": "aloe vera + cucumber + kumkumadi",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹1600/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1600/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "aloe vera, cucumber, kumkumadi, witch hazel (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Combination Skin, Dry Skin, Oily Skin, Normal Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "India",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: 100% Pure & Nature Witch Hazel Floral Water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/q/i/2/30-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imagzwrknmzfbnfc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/f/8/i/30-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imagzwrkvggjvqpf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/w/j/v/30-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imagzwrkqygunf5g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/1/b/30-witch-hazel-face-mist-spray-soothing-cleansing-refreshing-original-imagzwt4haszyxzh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/6/f/n/30-100-pure-witch-hazel-face-mist-cleansing-refreshing-skin-original-imagzwrkykakgnzf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wildflower-essentials-witch-hazel-face-mist-spray-soothing-cleansing-refreshing-skin-brightening-toner/p/itm275fc2ad3401d",
+  "buyStore": "Flipkart",
+  "title": "Wildflower essentials Witch Hazel Face Mist Spray Soothing Cleansing Refreshing Skin Brightening Toner",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:toner",
+   "format:mist",
+   "format:wash",
+   "ing:cucumber",
+   "ing:kumkumadi",
+   "ing:witch-hazel",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "100% Pure & Nature Witch Hazel Floral Water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "dickinson-s-itm9e76d6a5a367e",
   "brand": "Dickinson's",
   "model": "Original Witch Hazel Pore Perfecting Toner Men & Wome …",
@@ -59992,6 +62182,123 @@ const CTPRODUCTS = [
    "claim:pores",
    "skin:all",
    "free:paraben",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "thayers-itmd30dc282e2b58",
+  "brand": "Thayers",
+  "model": "Natural Remedies Alcohol-Free Rose Petal Witch Hazel Facial Mist Toner Men & Women",
+  "price": 2185,
+  "capacityLine": "474 ml (pack of 2)",
+  "materialLine": "vitamin C + rice water + rose",
+  "featureLine": "Toner · Paraben-free · ₹461/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "237 ml × 2 pack",
+   "pricePer100": "₹461/100ml",
+   "format": "Toner",
+   "keyIngredients": "vitamin C, rice water, rose, witch hazel (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/i/g/237-natural-remedies-alcohol-free-rose-petal-witch-hazel-facial-original-imahegyfupngbecm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/0/l/237-natural-remedies-alcohol-free-rose-petal-witch-hazel-facial-original-imahegyfg8bpwxpz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/w/i/237-natural-remedies-alcohol-free-rose-petal-witch-hazel-facial-original-imahegyfx6fsjnuk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/7/x/d/237-natural-remedies-alcohol-free-rose-petal-witch-hazel-facial-original-imahegyf7chwvdzf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/2/c/l/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaherua4bhgbads.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/thayers-natural-remedies-alcohol-free-rose-petal-witch-hazel-facial-mist-toner-men-women/p/itmd30dc282e2b58",
+  "buyStore": "Flipkart",
+  "title": "Thayers Natural Remedies Alcohol-Free Rose Petal Witch Hazel Facial Mist Toner Men & Women",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:toner",
+   "format:mist",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:rice-water",
+   "ing:rose",
+   "ing:witch-hazel",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:korean",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -60143,7 +62450,7 @@ const CTPRODUCTS = [
  {
   "id": "thayers-itm780b179fea8e2",
   "brand": "Thayers",
-  "model": "Facial Mist Witch Hazel Toner Alcohol-Free, Unscented Men …",
+  "model": "Facial Mist Witch Hazel Toner Alcohol-Free, Unscented Men",
   "price": 2225,
   "capacityLine": "237 ml",
   "materialLine": "caffeine + aloe vera + rose",
@@ -60192,7 +62499,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/thayers-facial-mist-witch-hazel-toner-alcohol-free-unscented-men/p/itm780b179fea8e2",
   "buyStore": "Flipkart",
-  "title": "Thayers Facial Mist Witch Hazel Toner Alcohol-Free, Unscented Men …",
+  "title": "Thayers Facial Mist Witch Hazel Toner Alcohol-Free, Unscented Men",
   "tags": [
    "scope:face",
    "format:toner",
@@ -60258,7 +62565,7 @@ const CTPRODUCTS = [
  {
   "id": "thayers-itme720855774202",
   "brand": "Thayers",
-  "model": "Alcohol-Free Witch Hazel Facial Mist Toner with Aloe Vera …",
+  "model": "Alcohol-Free Witch Hazel Facial Mist Toner with Aloe Vera Unscented 8 Oz Women",
   "price": 2453,
   "capacityLine": "237 ml",
   "materialLine": "aloe vera + witch hazel",
@@ -60307,7 +62614,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/thayers-alcohol-free-witch-hazel-facial-mist-toner-aloe-vera-unscented-8-oz-women/p/itme720855774202",
   "buyStore": "Flipkart",
-  "title": "Thayers Alcohol-Free Witch Hazel Facial Mist Toner with Aloe Vera …",
+  "title": "Thayers Alcohol-Free Witch Hazel Facial Mist Toner with Aloe Vera Unscented 8 Oz Women",
   "tags": [
    "scope:both",
    "format:gel",
@@ -60425,6 +62732,9 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -60535,6 +62845,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -60644,6 +62955,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -60870,6 +63182,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -60923,7 +63236,7 @@ const CTPRODUCTS = [
  {
   "id": "fraileno-itm7c39fff8376d0",
   "brand": "FRAILENO",
-  "model": "witch hazel toner for women-Facial Mist Toner with Aloe …",
+  "model": "witch hazel toner for women-Facial Mist Toner with Aloe Vera Men & Women",
   "price": 122,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + rose + witch hazel",
@@ -60972,7 +63285,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/fraileno-witch-hazel-toner-women-facial-mist-aloe-vera-men-women/p/itm7c39fff8376d0",
   "buyStore": "Flipkart",
-  "title": "FRAILENO witch hazel toner for women-Facial Mist Toner with Aloe …",
+  "title": "FRAILENO witch hazel toner for women-Facial Mist Toner with Aloe Vera Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -61097,6 +63410,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -61311,6 +63625,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -61535,6 +63851,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -61650,6 +63967,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:sensitive",
    "free:paraben",
@@ -61866,6 +64185,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
@@ -61975,6 +64295,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -62087,6 +64408,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -62200,6 +64522,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -62418,6 +64741,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -62641,6 +64965,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -62751,118 +65076,10 @@ const CTPRODUCTS = [
    "ing:lemon",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sheny-soft-itmf7841eb4e83a5",
-  "brand": "sheny soft",
-  "model": "Rose Water Skin Toner & Cleanser Refreshing fragrance …",
-  "price": 135,
-  "capacityLine": "100 ml",
-  "materialLine": "rose",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹135/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹135/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/z/2/d/100-rose-water-skin-toner-cleanser-refreshing-fragrance-sheny-original-imahzme3hw5k6szg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/j/9/100-rose-water-skin-toner-cleanser-refreshing-fragrance-sheny-original-imahzme32s5swxgg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/z/j/100-facial-tonic-rose-mist-refreshing-face-toner-for-hydration-original-imahzk3uqhbwjcrs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/5/x/100-refreshing-face-toner-for-hydration-and-soothening-facial-original-imahzk49nnskdgtp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/h/t/100-rose-water-skin-toner-cleanser-refreshing-fragrance-sheny-original-imahzme3myckxqcn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sheny-soft-rose-water-skin-toner-cleanser-refreshing-fragrance-men-women/p/itmf7841eb4e83a5",
-  "buyStore": "Flipkart",
-  "title": "sheny soft Rose Water Skin Toner & Cleanser Refreshing fragrance …",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:whitening-claim",
-   "skin:all",
-   "free:paraben",
-   "free:oil-free",
-   "aud:women",
-   "size:standard",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -63016,114 +65233,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "melofin-itm5e2a1ef96897d",
-  "brand": "Melofin",
-  "model": "Astringent Refreshing Skin Toner & Cleanser Men & Women ( …",
-  "price": 170,
-  "capacityLine": "500 ml",
-  "materialLine": "niacinamide + rose",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹34/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹34/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "niacinamide, rose (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Astringent 500 ml | Refreshing Skin Toner & Cleanser",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/j/8/500-astringent-refreshing-skin-toner-cleanser-melofin-original-imahnhhyyygnhrvg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/y/k/g/500-astringent-refreshing-skin-toner-cleanser-melofin-original-imahnhhyrgfkby9n.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/f/q/500-astringent-refreshing-skin-toner-cleanser-melofin-original-imahnhhygwmwverq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/w/b/500-astringent-refreshing-skin-toner-cleanser-melofin-original-imahnhhy5z3zqdbx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/x/n/500-astringent-refreshing-skin-toner-cleanser-melofin-original-imahnhhynbse8qzc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/melofin-astringent-refreshing-skin-toner-cleanser-men-women/p/itm5e2a1ef96897d",
-  "buyStore": "Flipkart",
-  "title": "Melofin Astringent Refreshing Skin Toner & Cleanser Men & Women ( …",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:toner",
-   "format:pack",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:rose",
-   "free:paraben",
-   "free:alcohol",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Astringent 500 ml | Refreshing Skin Toner & Cleanser",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "nudist-itm78bad1a8db0fa",
   "brand": "nudist",
   "model": "Rose Water & Witch Hazel Astringent | Refreshing Toner | 1 …",
@@ -63184,6 +65293,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:derm",
@@ -63302,6 +65412,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -63403,7 +65514,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "FRAILENO Alcohol-Free Rose Toner for Face with Witch Hazel Men & …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -63415,6 +65526,8 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
+   "claim:makeup",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -63524,6 +65637,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -63753,6 +65867,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -64080,6 +66195,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "free:paraben",
@@ -64191,6 +66307,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:brightening",
    "claim:whitening-claim",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -64307,6 +66424,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -64526,6 +66644,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -64638,6 +66757,8 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -64753,6 +66874,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -65643,6 +67765,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:pores",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -65765,6 +67888,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -65866,7 +67990,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "Viah pH Balancing Toner for Acne, Oil Control & Pore Appearance H …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:serum",
    "format:toner",
@@ -65882,6 +68006,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -65994,6 +68119,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -66097,7 +68223,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "Ourcares Premium Rose Water Face Toner | Steam-Distilled + Cucumb …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:toner",
    "format:mist",
    "format:oil",
@@ -66112,6 +68238,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -66445,6 +68572,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -66556,6 +68684,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
+   "claim:makeup",
    "skin:acne-prone",
    "skin:all",
    "free:paraben",
@@ -66667,6 +68796,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -67422,6 +69552,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
@@ -67519,7 +69650,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "zoomique Ginseng Essence Water (100ml) | Korean Toner to Nourish, …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:essence",
    "format:toner",
@@ -67536,6 +69667,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -67648,6 +69780,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -67873,6 +70006,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -67987,6 +70121,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -68097,6 +70232,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -68211,6 +70347,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -68326,6 +70463,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -68550,6 +70688,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -68878,6 +71017,7 @@ const CTPRODUCTS = [
    "ing:turmeric",
    "ing:cocoa-butter",
    "ing:witch-hazel",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -69106,6 +71246,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "ing:vitamin-e",
    "ing:glycerin",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -69316,7 +71457,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "G-LADOO ENTERPRISE Nourishing Rice Extract Facial Toner for Hydra …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:oil",
@@ -69325,6 +71466,7 @@ const CTPRODUCTS = [
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
+   "claim:intimate-hygiene",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -69435,6 +71577,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -69534,7 +71677,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "G-LADOO ENTERPRISE Brightening Rice Extract Toner Hydrating Facia …",
   "tags": [
-   "scope:unstated",
+   "scope:body",
    "format:cream",
    "format:toner",
    "format:oil",
@@ -69542,6 +71685,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
+   "claim:intimate-hygiene",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -69652,6 +71796,8 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -69751,13 +71897,14 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "G-LADOO ENTERPRISE Rice Extract Toner for Women Brightening, Hydr …",
   "tags": [
-   "scope:unstated",
+   "scope:body",
    "format:cream",
    "format:toner",
    "format:oil",
    "format:wash",
    "ing:rice-water",
    "claim:brightening",
+   "claim:intimate-hygiene",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -69868,6 +72015,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -70087,6 +72235,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -70120,119 +72269,6 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "heha-wax-itm8425f4c63093b",
-  "brand": "Heha Wax",
-  "model": "Rice Toner & Serum Combo for Glowing Skin, 130 ml, Men & …",
-  "price": 157,
-  "capacityLine": "130 ml",
-  "materialLine": "vitamin C + PHA + rice water",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹121/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "130 ml",
-   "pricePer100": "₹121/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "vitamin C, PHA, rice water (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rice Extract / Rice Water Extract Aqua (Purified Water) Glycerin Niacinamide Hyaluronic Acid Butylene Glycol Allantoin Sodium Hyaluronate Preservatives (Phenoxyethanol, Ethylhexylglycerin) Fragrance",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/k/z/130-rice-toner-serum-combo-for-glowing-skin-130-ml-men-women-original-imahzhx6yfeheynv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/r/k/z/130-rice-toner-serum-combo-for-glowing-skin-130-ml-men-women-original-imahzhx6eckzyzzy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/l/j/130-rice-toner-serum-combo-for-glowing-skin-130-ml-men-women-original-imahzhx6uy37rbkj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/c/8/130-rice-toner-serum-combo-for-glowing-skin-130-ml-men-women-original-imahzhx6mhgzwmrj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/1/h/d/130-rice-toner-serum-combo-for-glowing-skin-130-ml-men-women-original-imahzhx6zyfzzdcg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/heha-wax-rice-toner-serum-combo-glowing-skin-130-ml-men-women/p/itm8425f4c63093b",
-  "buyStore": "Flipkart",
-  "title": "Heha Wax Rice Toner & Serum Combo for Glowing Skin, 130 ml, Men & …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:pha",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rice Extract / Rice Water Extract Aqua (Purified Water) Glycerin Niacinamide Hyaluronic Acid Butylene Glycol Allantoin Sodium Hyaluronate Preservatives (Phenoxyethanol, Ethylhexylglycerin) Fragrance",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -70451,471 +72487,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "shroff-itm22f4f96d1e8a7",
-  "brand": "Shroff",
-  "model": "Skin Care Combo Vitamin C Serum 20%, Facewash, Toner, Crea …",
-  "price": 287,
-  "capacityLine": "330 ml",
-  "materialLine": "vitamin C + niacinamide + salicylic acid (BHA)",
-  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹87/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No water phase or preservative declared — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "330 ml",
-   "pricePer100": "₹87/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, salicylic acid (BHA), lactic acid, hyaluronic acid, kojic acid, green tea, aloe vera, licorice, vitamin E, zinc (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, SPF 50",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (37 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Vitamin C (Ascorbic Acid), Hyaluronic Acid, Niacinamide, Salicylic Acid, Aloe Vera Extract, Glycerin, Kojic Acid, Green Tea Extract, Vitamin E, Lactic Acid, Citric Acid, Zinc PCA, Chamomile Extract, Licorice Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 37 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/r/o/d/skin-care-combo-vitamin-c-serum-20-facewash-toner-cream-original-imahmrzchcfgkmed.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/t/u/m/combo-kit-for-daily-use-vitamin-c-skincare-set-with-spf-50-original-imahmrjf9pfvh6tc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/o/s/daily-care-vitamin-c-skincare-combo-kit-facewash-toner-serum-original-imahmrhfda6ahrjd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/u/b/4/combo-kit-for-daily-use-vitamin-c-skincare-set-with-spf-50-original-imahmrjftfjxqw9r.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/g/9/daily-care-vitamin-c-skincare-combo-kit-facewash-toner-serum-original-imahmrhfhvfakdy3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/shroff-skin-care-combo-vitamin-c-serum-20-facewash-toner-cream-sunscreen-spf-50-glowing-daily-routine-kit/p/itm22f4f96d1e8a7",
-  "buyStore": "Flipkart",
-  "title": "Shroff Skin Care Combo Vitamin C Serum 20%, Facewash, Toner, Crea …",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "format:kit",
-   "spf:50",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:lactic-acid",
-   "ing:hyaluronic-acid",
-   "ing:kojic-acid",
-   "ing:green-tea",
-   "ing:aloe-vera",
-   "ing:licorice",
-   "ing:vitamin-e",
-   "ing:zinc",
-   "ing:glycerin",
-   "claim:brightening",
-   "claim:ayurvedic",
-   "claim:spf-claim",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C (Ascorbic Acid), Hyaluronic Acid, Niacinamide, Salicylic Acid, Aloe Vera Extract, Glycerin, Kojic Acid, Green Tea Extract, Vitamin E, Lactic Acid, Citric Acid, Zinc PCA, Chamomile Extract, Licorice Extract",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 37 ratings"
-  }
- },
- {
-  "id": "shroff-itm2c692a0d1a603",
-  "brand": "Shroff",
-  "model": "Vitamin C Complete Skincare Combo – Face Wash, Toner, Seru …",
-  "price": 289,
-  "capacityLine": "330 ml",
-  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
-  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹88/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No water phase or preservative declared — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 5.5
-  },
-  "fullSpec": {
-   "quantity": "330 ml",
-   "pricePer100": "₹88/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, green tea, aloe vera, shea butter (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4/5 (334 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Vitamin C, Hyaluronic Acid, Niacinamide, Aloe Vera, Argan Oil, Green Tea Extract, Shea Butter",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 334 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/v/x/h/vitamin-c-complete-skincare-combo-face-wash-toner-serum-cream-original-imahhnjyawtbgbzk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/z/1/n/50-0-sunscreen-spf-50-uv-protection-cream-for-all-skin-types-original-imahhy9vm4cfhtck.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/g/q/h/30-vitamin-c-face-serum-for-glowing-skin-vitamin-c-serum-1-original-imahyg7t9zwzzrtd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/q/c/vitamin-c-face-serum-withvitaminc-face-wash-for-skinwhitening-original-imah4ygzm9nfkua2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/h/o/100-vitamin-c-toner-for-women-and-men-face-toner-for-women-original-imahfh47wa4gxxwr.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/shroff-vitamin-c-complete-skincare-combo-face-wash-toner-serum-cream-sunscreen-spf-50-brightening/p/itm2c692a0d1a603",
-  "buyStore": "Flipkart",
-  "title": "Shroff Vitamin C Complete Skincare Combo – Face Wash, Toner, Seru …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:balm",
-   "format:pack",
-   "format:patch",
-   "format:wash",
-   "format:kit",
-   "spf:50",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:green-tea",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:argan-oil",
-   "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Vitamin C, Hyaluronic Acid, Niacinamide, Aloe Vera, Argan Oil, Green Tea Extract, Shea Butter",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 334 ratings"
-  }
- },
- {
-  "id": "ayumcure-itm508c40963a1b8",
-  "brand": "Ayumcure",
-  "model": "Vitamin C Serum & Toner Combo with Niacinamide, Vitamin …",
-  "price": 773,
-  "capacityLine": "230 ml",
-  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
-  "featureLine": "Toner · ₹336/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "230 ml",
-   "pricePer100": "₹336/100ml",
-   "format": "Toner",
-   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.9/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 7 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/n/q/vitamin-c-serum-toner-combo-with-niacinamide-vitamin-e-original-imahkbwz36m8rtn9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/r/7/vitamin-c-serum-toner-combo-with-niacinamide-vitamin-e-original-imahkbwzvgcsqngj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/k/6/vitamin-c-serum-toner-combo-with-niacinamide-vitamin-e-original-imahkbwzxpzxkmc2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/r/7/vitamin-c-serum-toner-combo-with-niacinamide-vitamin-e-original-imahkbwzufzcez8e.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/v/k/vitamin-c-serum-toner-combo-with-niacinamide-vitamin-e-original-imahkbwzr2ffugc2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/ayumcure-vitamin-c-serum-toner-combo-niacinamide-e-hyaluronic-acid/p/itm508c40963a1b8",
-  "buyStore": "Flipkart",
-  "title": "Ayumcure Vitamin C Serum & Toner Combo with Niacinamide, Vitamin …",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:toner",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:vitamin-e",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 7 ratings"
-  }
- },
- {
-  "id": "anua-itm56e9ff71fd8b2",
-  "brand": "Anua",
-  "model": "HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML …",
-  "price": 849,
-  "capacityLine": "250 ml",
-  "materialLine": "niacinamide",
-  "featureLine": "Toner · Paraben-free · ₹340/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹340/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/y/8/280-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-original-imahpf6v5xenp5aj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/m/j/280-heartleaf-77-soothing-toner-250ml-niacinamide-10-txa-4-serum-original-imahpf73z6ut9hvf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/n/i/50-dark-knuckles-brightening-serum-luminous-complexion-annma-original-imahg6u6zshksyq5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-men-women/p/itm56e9ff71fd8b2",
-  "buyStore": "Flipkart",
-  "title": "ANUA HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML …",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "format:pack",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:heartleaf",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "qerinkle-itm03bd40917f6ca",
   "brand": "QERINKLE",
   "model": "6X Peptide Skin Booster Toner Serum Niacinamide & Hyalur …",
@@ -71029,7 +72600,7 @@ const CTPRODUCTS = [
  {
   "id": "anua-itmcd02d0367aff3",
   "brand": "Anua",
-  "model": "Heartleaf 77% Soothing Toner 250ml+ Azelic acid 10+ Hyaluron …",
+  "model": "Heartleaf 77% Soothing Toner 250ml+ Azelic acid 10+ Hyaluron serum 30ml Men & Women",
   "price": 849,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
@@ -71079,7 +72650,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-serum-30ml-men-women/p/itmcd02d0367aff3",
   "buyStore": "Flipkart",
-  "title": "ANUA Heartleaf 77% Soothing Toner 250ml+ Azelic acid 10+ Hyaluron …",
+  "title": "ANUA Heartleaf 77% Soothing Toner 250ml+ Azelic acid 10+ Hyaluron serum 30ml Men & Women",
   "tags": [
    "scope:both",
    "format:serum",
@@ -71393,7 +72964,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); glycolic acid (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/x/l/100-rice-pdrn-toner-pads-with-glycolic-acid-niacinamide-for-original-imahqptfwrwhgzsm.jpeg?q=90",
@@ -71422,6 +72994,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -71454,6 +73028,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -71461,6 +73036,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71468,6 +73044,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -71561,7 +73138,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#2 on list, moderate evidence); glycerin (#3 on list, strong evidence); sodium hyaluronate (#21 on list, moderate evidence); camellia sinensis leaf extract (#23 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 255 ratings"
+   "buyerEvidence": "4.5★ from 255 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/a/s/100-oil-clear-clarifying-toner-bha-aha-from-willowbark-bilberry-original-imagge55zyt8xdgf.jpeg?q=90",
@@ -71584,12 +73162,14 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -71624,6 +73204,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -71631,6 +73212,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71638,6 +73220,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -71645,6 +73228,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     }
    ],
@@ -71735,6 +73319,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:dry",
    "aud:women",
    "size:standard",
@@ -71952,6 +73537,7 @@ const CTPRODUCTS = [
    "format:toner",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -71997,6 +73583,504 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 4 ratings"
+  }
+ },
+ {
+  "id": "purito-b0cst12nyj",
+  "brand": "PURITO",
+  "model": "Seoul Wonder Releaf Centella Toner Unscented Korean Centella, for Sensitive Skin, Soothing…",
+  "price": 1837,
+  "capacityLine": "200 ml",
+  "materialLine": "centella/cica",
+  "featureLine": "Toner · ₹919/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); sodium hyaluronate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹919/100ml",
+   "format": "Toner",
+   "keyIngredients": "centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-toner-unscented",
+   "inciMatchedName": "Wonder Releaf Centella Toner Unscented (name match 100%)",
+   "inciList": "Water, Butylene Glycol, Pentylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Centella Asiatica Extract(6,000ppm), Sodium Hyaluronate, Panthenol, Madecassoside, Asiaticoside, Madecassic Acid, Asiatic Acid, Trehalose, Carbomer, Allantoin, Arginine, Ethylhexylglycerin, Disodium EDTA, Portulaca Oleracea Extract",
+   "evidenceActives": "centella asiatica extract (#6 on list, moderate evidence); sodium hyaluronate (#7 on list, moderate evidence); panthenol (#8 on list, moderate evidence); madecassoside (#9 on list, moderate evidence); asiaticoside (#10 on list, moderate evidence); allantoin (#15 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #6 on INCI, panthenol #8 on INCI, madecassoside #9 on INCI, asiaticoside #10 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51c1gHRgBwL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51mUb+57xKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617h0wSpmKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61a2W1afVdL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61koOLZSejL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CST12NYJ",
+  "buyStore": "Amazon",
+  "title": "PURITO Seoul Wonder Releaf Centella Toner Unscented Korean Centella, for Sensitive Skin, Soothing, Facial Toner for face, K-Beauty, 200ml 6.76 fl.oz",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:oil",
+   "ing:centella-cica",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:korean",
+   "claim:cooling",
+   "skin:sensitive",
+   "free:fragrance",
+   "free:derm",
+   "free:hypoallergenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-toner-unscented",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Wonder Releaf Centella Toner Unscented",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Pentylene Glycol, Dipropylene Glycol, 1,2-Hexanediol, Centella Asiatica Extract(6,000ppm), Sodium Hyaluronate, Panthenol, Madecassoside, Asiaticoside, Madecassic Acid, Asiatic Acid, Trehalose, Carbomer, Allantoin, Arginine, Ethylhexylglycerin, Disodium EDTA, Portulaca Oleracea Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "sodium hyaluronate",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "celimax-b0bzkzg68t",
+  "brand": "celimax",
+  "model": "The Real Noni Moisture Balancing Toner 150Ml",
+  "price": 2239,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹1493/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "allantoin high on the INCI list (limited evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.5,
+   "skin": 6.7,
+   "trust": 5.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹1493/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://www.celimax.com/au/product/3414167b-f709-4daf-9897-d08a8455928a",
+   "inciMatchedName": "The Real Noni Moisture Balancing Toner 150ml (name match 100%)",
+   "inciList": "Water, Butylene Glycol, 1,2-Hexanediol, Hydroxyethyl Urea, Morinda Citrifolia Fruit Extract, Propanediol, Chlorphenesin, C12-14 Alketh-12, Glycine, Betaine, Serine, Glutamic Acid, Allantoin, Disodium EDTA, Aspartic Acid, Melia Azadirachta Leaf Extract, Leucine, Alanine, Lysine, Rosmarinus Officinalis (Rosemary) Leaf Oil, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Melia Azadirachta Flower Extract, Histidine, Theobroma Cacao (Cocoa) Seed Extract, Cysteine, Methionine, Dextrin, Caprylic/Capric Triglyceride, Morinda Citrifolia Seed Oil\\ \\ Noni Extract, HYDROVANCE\"}]}]",
+   "evidenceActives": "allantoin (#12 on list, limited evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51b8bie3+sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51lZwyWUlXL._SL1098_.jpg",
+   "https://m.media-amazon.com/images/I/61czy6BH2SL._SL1112_.jpg",
+   "https://m.media-amazon.com/images/I/61zQmv8gGiL._SL1312_.jpg",
+   "https://m.media-amazon.com/images/I/5138BE0BfhL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BZKZG68T",
+  "buyStore": "Amazon",
+  "title": "CELIMAX The Real Noni Moisture Balancing Toner 150Ml",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "celimax official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.celimax.com/au/product/3414167b-f709-4daf-9897-d08a8455928a",
+   "inciSourceRegion": "AU",
+   "inciMatchedTitle": "The Real Noni Moisture Balancing Toner 150ml",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, 1,2-Hexanediol, Hydroxyethyl Urea, Morinda Citrifolia Fruit Extract, Propanediol, Chlorphenesin, C12-14 Alketh-12, Glycine, Betaine, Serine, Glutamic Acid, Allantoin, Disodium EDTA, Aspartic Acid, Melia Azadirachta Leaf Extract, Leucine, Alanine, Lysine, Rosmarinus Officinalis (Rosemary) Leaf Oil, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Melia Azadirachta Flower Extract, Histidine, Theobroma Cacao (Cocoa) Seed Extract, Cysteine, Methionine, Dextrin, Caprylic/Capric Triglyceride, Morinda Citrifolia Seed Oil\\ \\ Noni Extract, HYDROVANCE\"}]}]",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.89,
+   "actives": [
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosmarinus officinalis leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "skin1004-b0btrwbvth",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Probio‑Cica Essence Toner | Nourishing Calming Toner, 210 ml",
+  "price": 1781,
+  "capacityLine": "210 ml",
+  "materialLine": "hyaluronic acid + ceramides + centella/cica",
+  "featureLine": "Toner · ₹848/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "210 ml",
+   "pricePer100": "₹848/100ml",
+   "format": "Toner",
+   "keyIngredients": "hyaluronic acid, ceramides, centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Centella Asiatica Extract, Water, Butylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Lactobacillus/Centella Asiatica Extract Ferment Filtrate, Polyglyceryl-10 Laurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trehalose, Panthenol, Ethylhexylglycerin, Sodium Citrate, Xanthan Gum, Tromethamine, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Sodium Phytate, Citric Acid, Hydrogenated Lecithin, Polyglyceryl-10 Myristate, Ceramide NP, Sodium Hyaluronate Crosspolymer, Sucrose Distearate, Madecassic Acid, Asiaticoside, Hydrolyzed Glycosaminoglycans, Lauric Acid, Asiatic Acid, Phytosterols, Sodium Hyaluronate, Betaine, Hydroxystearic Acid, Benzyl Glycol, Hydrolyzed Hyaluronic Acid, Macadamia Ternifolia Seed Oil, Hyaluronic Acid, Raspberry Ketone, Phytosphingosine",
+   "evidenceActives": "centella asiatica extract (#1 on list, moderate evidence); glycerin (#4 on list, strong evidence); panthenol (#11 on list, moderate evidence); ceramide np (#22 on list, moderate evidence); asiaticoside (#26 on list, moderate evidence); sodium hyaluronate (#31 on list, moderate evidence); hydrolyzed hyaluronic acid (#35 on list, moderate evidence); hyaluronic acid (#37 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #1 on INCI, panthenol #11 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ZbhNN3BwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BTRWBVTH",
+  "buyStore": "Amazon",
+  "title": "SKIN1004 Madagascar Centella Probio‑Cica Essence Toner | Nourishing Calming Toner, 210 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cooling",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Centella Asiatica Extract, Water, Butylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Lactobacillus/Centella Asiatica Extract Ferment Filtrate, Polyglyceryl-10 Laurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trehalose, Panthenol, Ethylhexylglycerin, Sodium Citrate, Xanthan Gum, Tromethamine, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Sodium Phytate, Citric Acid, Hydrogenated Lecithin, Polyglyceryl-10 Myristate, Ceramide NP, Sodium Hyaluronate Crosspolymer, Sucrose Distearate, Madecassic Acid, Asiaticoside, Hydrolyzed Glycosaminoglycans, Lauric Acid, Asiatic Acid, Phytosterols, Sodium Hyaluronate, Betaine, Hydroxystearic Acid, Benzyl Glycol, Hydrolyzed Hyaluronic Acid, Macadamia Ternifolia Seed Oil, Hyaluronic Acid, Raspberry Ketone, Phytosphingosine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "panthenol",
+    "ceramide np",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -72208,105 +74292,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "just-herbs-b0c5m21nz7",
-  "brand": "Just Herbs",
-  "model": "Sapta Jal Ayurvedic Toner + Micellar Water for Skin Nourishing, Cleansing, Makeup Remover …",
-  "price": 336,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Micellar water · ₹336/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹336/100ml",
-   "format": "Micellar water",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61kvSvpLXIL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5M21NZ7",
-  "buyStore": "Amazon",
-  "title": "Just Herbs Sapta Jal Ayurvedic Toner + Micellar Water for Skin Nourishing, Cleansing, Makeup Remover for Women Suitable All Skin Types 100 ml",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:wash",
-   "format:micellar",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
   "id": "st-ives-b09vcdcrlx",
   "brand": "St. Ives",
   "model": "Rosy Glow Rose Micellar Water with 100% Natural Extracts, 3-In-1 Cleanser, Toner & Makeup …",
@@ -72361,6 +74346,7 @@ const CTPRODUCTS = [
    "format:micellar",
    "ing:rose",
    "claim:brightening",
+   "claim:makeup",
    "skin:all",
    "free:oil-free",
    "aud:unisex",
@@ -72463,6 +74449,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:micellar",
    "claim:soothing",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -72506,106 +74493,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "care-b07sg73v98",
-  "brand": "Care",
-  "model": "Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Clea…",
-  "price": 5300,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Micellar water · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Micellar water",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71K1vuc+y6L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07SG73V98",
-  "buyStore": "Amazon",
-  "title": "Care - Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Cleansing Water with Hyaluronic Acid, Glycerin, and Willow Bark Extract, Rinse-Free Face Cleanser, 8 fl oz",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:wash",
-   "format:micellar",
-   "ing:hyaluronic-acid",
-   "ing:glycerin",
-   "free:paraben",
-   "free:alcohol",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -72709,210 +74596,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "beautyrelay-b09bzcmgvh",
-  "brand": "BEAUTYRELAY",
-  "model": "LONDON Micellar Cleansing Water & Toner - With Aloe Vera & Ext, Peppermint Oil, Probiotic …",
-  "price": 999,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "aloe vera",
-  "featureLine": "Micellar water · ₹250/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹250/100ml",
-   "format": "Micellar water",
-   "keyIngredients": "aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/519oRbBcQqL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09BZCMGVH",
-  "buyStore": "Amazon",
-  "title": "BEAUTYRELAY LONDON Micellar Cleansing Water & Toner - With Aloe Vera & Ext, Peppermint Oil, Probiotic Micellar water, Removes Makeup And Impurities, Soft And Glowing Skin, blend natural, 200ml, pack of 2",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "format:micellar",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:probiotics",
-   "claim:brightening",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "just-herbs-b0dz2xpzqv",
-  "brand": "Just Herbs",
-  "model": "Sapta Jal Ayurvedic Toner + Micellar Water for Skin Nourishing, Cleansing, Makeup Remover …",
-  "price": 672,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Micellar water · ₹336/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹336/100ml",
-   "format": "Micellar water",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51pVrZQU8jL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DZ2XPZQV",
-  "buyStore": "Amazon",
-  "title": "Just Herbs Sapta Jal Ayurvedic Toner + Micellar Water for Skin Nourishing, Cleansing, Makeup Remover for Women Suitable All Skin Types 100 ml (Pack of 2)",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:wash",
-   "format:micellar",
-   "format:kit",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "iba-b0dqkw9w2q",
   "brand": "Iba",
   "model": "Pure Rose Water, 105 Ml (Pack of 2) Soothe - N - Clean Micellar Water With Soothing Chamom…",
@@ -72966,8 +74649,10 @@ const CTPRODUCTS = [
    "format:micellar",
    "format:kit",
    "ing:rose",
+   "ing:chamomile",
    "claim:oil-control",
    "claim:soothing",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:unisex",
@@ -73068,6 +74753,7 @@ const CTPRODUCTS = [
    "format:wash",
    "format:micellar",
    "ing:rose",
+   "claim:makeup",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -73266,6 +74952,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:korean",
+   "claim:cooling",
    "free:alcohol",
    "aud:women",
    "size:standard",
@@ -73458,7 +75145,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41mdtQALV8L._AC_UL320_.jpg"
@@ -73479,6 +75167,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -73513,6 +75204,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -73520,6 +75212,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -73527,6 +75220,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "oat"
     }
    ],
@@ -73588,7 +75282,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI; Irritation — avena sativa kernel extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41BNihr3HwL._SL1001_.jpg",
@@ -73625,6 +75320,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -73659,6 +75357,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -73666,6 +75365,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -73673,6 +75373,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "oat"
     }
    ],
@@ -73994,6 +75695,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74001,6 +75703,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74008,6 +75711,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -74282,7 +75986,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); hyaluronic acid (#6 on list, moderate evidence); panthenol (#7 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51L9DiD82vL._AC_UL320_.jpg"
@@ -74307,6 +76012,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -74339,6 +76045,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74346,6 +76053,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74353,6 +76061,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -74360,6 +76069,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -74592,6 +76302,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -74599,6 +76310,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74606,6 +76318,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -74613,6 +76326,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -75207,6 +76921,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "format:kit",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -75508,6 +77223,7 @@ const CTPRODUCTS = [
    "ing:tea-tree",
    "claim:acne",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:alcohol",
@@ -75616,6 +77332,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:soothing",
+   "claim:scars",
    "skin:oily",
    "skin:sensitive",
    "skin:acne-prone",
@@ -75657,6 +77374,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -75664,6 +77382,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -75671,6 +77390,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -75678,6 +77398,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -76174,6 +77895,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -76273,6 +77995,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -76463,7 +78186,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence); camellia sinensis leaf extract (#7 on list, moderate evidence); centella asiatica extract (#8 on list, moderate evidence); allantoin (#10 on list, limited evidence); panthenol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bNDs7Y3LL._AC_UL320_.jpg"
@@ -76483,6 +78207,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -76517,6 +78243,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -76524,6 +78251,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -76531,6 +78259,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -76538,6 +78267,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -76545,6 +78275,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -76552,6 +78283,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -77025,7 +78757,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#7 on list, moderate evidence); allantoin (#10 on list, limited evidence); ceramide np (#17 on list, moderate evidence); hyaluronic acid (#27 on list, moderate evidence); hydrolyzed hyaluronic acid (#28 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41nyMJ5GlSL._AC_UL320_.jpg"
@@ -77047,6 +78780,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance",
@@ -77082,6 +78816,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -77089,6 +78824,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -77096,6 +78832,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -77103,6 +78840,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -77110,6 +78848,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -77117,6 +78856,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -77124,6 +78864,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -77818,6 +79559,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "aud:unisex",
    "size:standard",
@@ -78114,6 +79856,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -78504,7 +80247,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); ceramide np (#13 on list, moderate evidence); sodium hyaluronate (#43 on list, moderate evidence); allantoin (#44 on list, limited evidence); panthenol (#47 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Aging — copper tripeptide-1 #12 on INCI; Irritation — ceramide np #13 on INCI, ceramide ap #14 on INCI, ceramide eop #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41cD2uACGYL._AC_UL320_.jpg"
@@ -78526,6 +80270,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -78560,6 +80306,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -78567,6 +80314,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -78574,6 +80322,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -78581,6 +80330,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -78588,6 +80338,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -78595,6 +80346,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -78602,6 +80354,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -78609,6 +80362,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 37,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -78616,6 +80370,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 42,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -78623,6 +80378,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 43,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -78630,6 +80386,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 44,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -78637,7 +80394,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 47,
      "core": true,
+     "trace": true,
      "src": "panthenol"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 50,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
     }
    ],
    "support": [
@@ -79268,108 +81034,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "little-b0gxx1rhkd",
-  "brand": "Little",
-  "model": "Extra Rice Berry Toner and Face Serum Combo for Glowing Skin | Pore Tightening Toner + 10%…",
-  "price": 737,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C + rice water",
-  "featureLine": "Toner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Toner",
-   "keyIngredients": "vitamin C, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TKG0g+asL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXX1RHKD",
-  "buyStore": "Amazon",
-  "title": "Little Extra Rice Berry Toner and Face Serum Combo for Glowing Skin | Pore Tightening Toner + 10% Vitamin C Face Serum | Brightening, Dark Spots & Uneven Skin Tone Care | Easy 2-Step Skincare Routine",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:pores",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "real-b0dgmr5dwd",
   "brand": "Real",
   "model": "& Pure Certified Rose Water Face Spray Mist (100ml) | 100% Natural Gulab Jal for Face Tone…",
@@ -79424,6 +81088,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:fragrance",
    "aud:unisex",
    "size:standard",
@@ -79920,7 +81585,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#4 on list, moderate evidence); allantoin (#5 on list, limited evidence); sodium hyaluronate (#9 on list, moderate evidence); glycolic acid (#10 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: hexyl cinnamal, limonene (−1); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51G5uISW+XL._AC_UL320_.jpg"
@@ -79941,6 +81607,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -79974,6 +81641,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -79981,6 +81649,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -79988,6 +81657,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -79995,6 +81665,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -80002,6 +81673,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -80009,6 +81681,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -80016,6 +81689,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80331,6 +82005,7 @@ const CTPRODUCTS = [
    "ing:alpha-arbutin",
    "ing:licorice",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -80633,6 +82308,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -80731,6 +82407,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:kit",
+   "ing:lavender",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -81236,6 +82913,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -81634,6 +83312,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "free:toxin-free",
    "aud:unisex",
@@ -81931,6 +83610,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
+   "ing:lavender",
    "claim:pores",
    "claim:hydrating",
    "skin:oily",
@@ -82241,6 +83921,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -82455,6 +84136,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -83202,12 +84884,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 1 ingredient named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.9
   },
   "fullSpec": {
@@ -83224,9 +84906,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Pure Steam Distillation of Rose Petals. Rose & Water",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Naturohabit Pvt Ltd (Nat Habit) — Indian D2C brand with its own product company",
@@ -83251,7 +84933,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -83260,23 +84942,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Pure Steam Distillation of Rose Petals. Rose & Water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -84241,6 +85923,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:rice-water",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -84450,6 +86133,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:lemon",
+   "ing:lavender",
    "claim:acne",
    "skin:combination",
    "aud:kids",
@@ -85569,6 +87253,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -85974,6 +87659,7 @@ const CTPRODUCTS = [
    "ing:saffron",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:sulfate",
    "aud:women",
    "size:standard",
@@ -86163,7 +87849,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); 3-o-ethyl ascorbic acid (#3 on list, moderate evidence); glycerin (#13 on list, strong evidence); allantoin (#15 on list, limited evidence); panthenol (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, 3-o-ethyl ascorbic acid #3 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6195+UtVHdL._AC_UL320_.jpg"
@@ -86184,6 +87871,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -86217,6 +87907,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -86224,6 +87915,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -86231,6 +87923,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -86238,6 +87931,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -86245,6 +87939,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -86252,6 +87947,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -86543,7 +88239,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -86647,6 +88342,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "free:sulfate",
    "free:vegan",
@@ -86848,6 +88544,8 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "free:toxin-free",
@@ -86950,6 +88648,7 @@ const CTPRODUCTS = [
    "format:oil",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "free:alcohol",
@@ -87364,6 +89063,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -87564,6 +89264,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:sensitive",
    "free:fragrance",
    "free:alcohol",
@@ -87668,9 +89369,11 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:coconut",
+   "ing:lavender",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:makeup",
    "aud:women",
    "size:standard",
    "rating:4.0",
@@ -87771,6 +89474,7 @@ const CTPRODUCTS = [
    "ing:turmeric",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -87909,6 +89613,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -87916,6 +89621,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -87923,6 +89629,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -87930,6 +89637,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -88305,6 +90013,7 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -88404,6 +90113,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -88503,6 +90213,7 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -88900,6 +90611,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -89413,6 +91125,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -89918,6 +91631,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:unisex",
    "size:standard",
@@ -90017,8 +91731,10 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:pack",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -90539,6 +92255,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -90955,6 +92672,8 @@ const CTPRODUCTS = [
    "format:pack",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
    "free:paraben",
    "free:alcohol",
    "aud:unisex",
@@ -91057,6 +92776,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -91175,110 +92895,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hg1nbcxj",
-  "brand": "Unbranded",
-  "model": "Face Toner 100ml & Face Serum 30ml Combo | Niacinamide 10%, Centella Asiatica & Hyaluronic…",
-  "price": 653,
-  "capacityLine": "100 ml",
-  "materialLine": "niacinamide + hyaluronic acid + centella/cica",
-  "featureLine": "Toner · ₹653/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹653/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, hyaluronic acid, centella/cica (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/716XL1AYWYL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG1NBCXJ",
-  "buyStore": "Amazon",
-  "title": "Face Toner 100ml & Face Serum 30ml Combo | Niacinamide 10%, Centella Asiatica & Hyaluronic Acid | Hydrating, Soothing & Skin Smoothing Care | Daily Skincare for Men & Women | All Skin Types",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "claim:hydrating",
-   "claim:soothing",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -91859,6 +93475,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:low",
@@ -92657,6 +94274,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:fragrance",
    "free:alcohol",
    "aud:unisex",
@@ -92857,6 +94475,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:rose",
    "ing:witch-hazel",
+   "ing:chamomile",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -92963,6 +94582,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -93365,6 +94985,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:brightening",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:low",
@@ -93464,6 +95085,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "free:alcohol",
    "free:vegan",
    "aud:unisex",
@@ -93560,10 +95182,10 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:aloe-vera",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:unisex",
    "size:xl",
@@ -93768,6 +95390,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -93969,6 +95592,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -94266,6 +95890,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -94467,6 +96092,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:rose",
    "claim:brightening",
+   "claim:odour",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -94574,6 +96200,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "aud:unisex",
@@ -94786,6 +96413,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -94987,6 +96615,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:rose",
+   "claim:makeup",
    "free:fragrance",
    "aud:women",
    "size:travel",
@@ -95192,6 +96821,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -95248,13 +96878,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 2.9
   },
   "fullSpec": {
@@ -95271,9 +96901,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Rose Petal extract-: Indulge in the timeless allure of pure rose extract, a beauty elixir crafted from the delicate and fresh petals of Rose, Nature’s most enchanting flower. It delicately balance your skin’s essence, it transforms each drop into a symphony of hydration leaving your complexion radiant and refreshed",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -95293,11 +96923,12 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -95306,23 +96937,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Rose Petal extract-: Indulge in the timeless allure of pure rose extract, a beauty elixir crafted from the delicate and fresh petals of Rose, Nature’s most enchanting flower. It delicately balance your skin’s essence, it transforms each drop into a symphony of hydration leaving your complexion radiant and refreshed",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.33,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -95392,6 +97023,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "aud:unisex",
@@ -95595,6 +97227,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -96092,6 +97725,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -96192,6 +97826,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:pores",
    "claim:ayurvedic",
+   "claim:makeup",
    "free:toxin-free",
    "aud:unisex",
    "size:large",
@@ -96588,6 +98223,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -96694,6 +98330,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -96898,6 +98536,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:3.5",
@@ -97202,6 +98841,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -97347,107 +98987,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sri-b07phzdptw",
-  "brand": "Sri",
-  "model": "Sri TATTVA shuddhta ka naam Gulab Jal Spray, 100ml (Pack of 4) - Pure Rose Water Mist for …",
-  "price": 320,
-  "capacityLine": "400 ml (pack of 4)",
-  "materialLine": "rose",
-  "featureLine": "Wash / cleanser · ₹80/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 4 pack",
-   "pricePer100": "₹80/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61kHS950r9L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07PHZDPTW",
-  "buyStore": "Amazon",
-  "title": "Sri Sri TATTVA shuddhta ka naam Gulab Jal Spray, 100ml (Pack of 4) - Pure Rose Water Mist for Hydrated, Glowing Skin - Premium Toner & Cleanser for Soft, Smooth Skin",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:brightening",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "aravi-b0c9t4748t",
   "brand": "Aravi",
   "model": "Organic Pure & Natural Rose Water Steam Distilled Face Spray Toner For Skin, Face & Hair -…",
@@ -97501,6 +99040,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -97701,6 +99241,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -97799,6 +99340,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:rose",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -97900,6 +99442,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:pores",
    "claim:exfoliating",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -97998,6 +99541,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "free:alcohol",
    "free:toxin-free",
    "aud:unisex",
@@ -98207,6 +99751,7 @@ const CTPRODUCTS = [
    "ing:honey",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -98508,6 +100053,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:large",
@@ -98706,6 +100252,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "size:standard",
@@ -99306,6 +100853,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "free:toxin-free",
    "aud:unisex",
@@ -99505,6 +101053,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "aud:women",
    "size:large",
@@ -99604,6 +101153,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -99704,6 +101254,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "free:ph-balanced",
    "aud:unisex",
@@ -99905,6 +101456,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -100203,6 +101755,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -100402,6 +101955,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:rose",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -100507,6 +102061,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -100813,6 +102368,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -100913,6 +102469,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -101420,6 +102977,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -101522,6 +103080,8 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:soothing",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:ph-balanced",
    "aud:unisex",
@@ -101623,6 +103183,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:kit",
    "ing:rose",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -101925,6 +103486,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -102127,6 +103689,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -102230,6 +103793,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -102332,6 +103896,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:rose",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -102531,6 +104096,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:rose",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -102630,6 +104196,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "rating:none",
@@ -102729,6 +104296,7 @@ const CTPRODUCTS = [
    "format:mist",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -102928,6 +104496,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -103029,6 +104598,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:ph-balanced",
@@ -103131,6 +104701,8 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -103430,6 +105002,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -103632,6 +105205,7 @@ const CTPRODUCTS = [
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:4.5",
@@ -104133,6 +105707,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:rose",
    "claim:brightening",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -104234,6 +105809,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -104334,6 +105910,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -104638,6 +106215,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:rose",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -104835,6 +106413,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:toxin-free",
@@ -105329,6 +106908,8 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "ing:rose",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -105429,6 +107010,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:sensitive",
    "free:fragrance",
    "free:alcohol",
@@ -105727,6 +107309,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -105827,6 +107410,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -106025,6 +107609,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "free:alcohol",
    "aud:women",
@@ -106126,6 +107711,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -106226,6 +107812,8 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -106325,6 +107913,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:kit",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -106525,6 +108114,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:alcohol",
    "free:ph-balanced",
    "aud:unisex",
@@ -106871,209 +108461,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "blooming-b0hftdwh4c",
-  "brand": "Blooming",
-  "model": "Beauty SeaBuckthorn + Rose Water Face Moisturiser & Anti-Ageing Toner, Hydrating & Nourish…",
-  "price": 299,
-  "capacityLine": "120 ml",
-  "materialLine": "rose",
-  "featureLine": "Toner · Alcohol-free · ₹249/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹249/100ml",
-   "format": "Toner",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71KpHbrP4FL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HFTDWH4C",
-  "buyStore": "Amazon",
-  "title": "Blooming Beauty SeaBuckthorn + Rose Water Face Moisturiser & Anti-Ageing Toner, Hydrating & Nourishing Facial Toner for Daily Skincare, Natural Purifier, Alcohol Free, 120 ml",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "ing:rose",
-   "ing:sea-buckthorn",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "free:alcohol",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "keysoul-b0h5wzkgxg",
-  "brand": "KeySoul",
-  "model": "Glow Up Rose Delight Cleanser & Toner Spray 100ml | Rose Water Face Mist for Hydration & R…",
-  "price": 199,
-  "capacityLine": "100 ml",
-  "materialLine": "rose",
-  "featureLine": "Wash / cleanser · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/516u-VJytoL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5WZKGXG",
-  "buyStore": "Amazon",
-  "title": "KeySoul Glow Up Rose Delight Cleanser & Toner Spray 100ml | Rose Water Face Mist for Hydration & Refreshing Skin | Facial Toner for All Skin Types | Daily Skin Care Spray",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:rose",
-   "claim:brightening",
-   "claim:hydrating",
-   "skin:all",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0gtn29jd1",
   "brand": "Unbranded",
   "model": "Rose Water 1000 ml (White) | Refreshing Skin Care Liquid",
@@ -107125,6 +108512,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -107524,6 +108912,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -107981,9 +109370,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b0gddhq31c",
-  "brand": "Park",
-  "model": "Daniel Pure & Natural Green Tea Skin Toner for Men & Women (100 ml) | Refreshing Face Tone…",
+  "id": "park-daniel-b0gddhq31c",
+  "brand": "Park Daniel",
+  "model": "Pure & Natural Green Tea Skin Toner for Men & Women (100 ml) | Refreshing Face Toner | Oil…",
   "price": 150,
   "capacityLine": "100 ml",
   "materialLine": "green tea",
@@ -108035,6 +109424,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -109268,6 +110658,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -109466,7 +110857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:green-tea",
    "claim:anti-aging",
    "claim:acne",
@@ -109666,6 +111056,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:green-tea",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -110783,6 +112174,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:green-tea",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -111289,9 +112681,11 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:green-tea",
    "ing:aloe-vera",
+   "ing:chamomile",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -111587,6 +112981,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:green-tea",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -111683,6 +113078,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -112095,6 +113491,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -112305,6 +113702,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -112406,6 +113804,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:large",
@@ -112452,9 +113851,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b099nhvfc6",
-  "brand": "Park",
-  "model": "Daniel Pure & Natural Green Tea Skin Toner for Men & Women | Refreshing & Hydrating Face T…",
+  "id": "park-daniel-b099nhvfc6",
+  "brand": "Park Daniel",
+  "model": "Pure & Natural Green Tea Skin Toner for Men & Women | Refreshing & Hydrating Face Toner fo…",
   "price": 243,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "green tea",
@@ -112506,6 +113905,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:green-tea",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -112606,6 +114006,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -112705,6 +114106,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -113107,6 +114509,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:xl",
@@ -113205,7 +114608,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:rice-water",
    "ing:green-tea",
    "claim:pores",
@@ -113310,6 +114712,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:green-tea",
+   "ing:chamomile",
    "claim:brightening",
    "claim:pores",
    "claim:soothing",
@@ -114072,23 +115475,25 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0b3g7571x",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Tea-Trica Purifying Toner, 210ml – Acne Care & Soothing Hydration Facial Toner wi…",
+  "id": "skin1004-b0b3g7571x",
+  "brand": "Skin1004",
+  "model": "Tea-Trica Purifying Toner, 210ml – Acne Care & Soothing Hydration Facial Toner with Tea Tr…",
   "price": 1700,
   "capacityLine": "210 ml",
   "materialLine": "centella/cica + tea tree",
   "featureLine": "Toner · ₹810/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); melaleuca alternifolia leaf oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.9,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -114105,13 +115510,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://skin1004.com/products/tea-trica-purifying-toner",
+   "inciMatchedName": "Tea-Trica Purifying Toner (name match 100%)",
+   "inciList": "Water, Melaleuca Alternifolia (Tea Tree) Leaf Water, Butylene Glycol, Propanediol, Methyl Gluceth-20, 1,2-Hexanediol, Hydroxyacetophenone, Carbomer, Centella Asiatica Extract(1,000ppm), Polyglyceryl-10 Laurate, Tromethamine, Pentylene Glycol, Ethylhexylglycerin, Caprylyl Glycol, Chamaecyparis Obtusa Water, Citric Acid, Disodium EDTA, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Citrate, Pinus Palustris Leaf Extract, Salicylic Acid, Castanea Crenata (Chestnut) Shell Extract, Lavandula Angustifolia (Lavender) Flower Extract",
+   "evidenceActives": "centella asiatica extract (#9 on list, moderate evidence); melaleuca alternifolia leaf oil (#18 on list, moderate evidence); salicylic acid (#21 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61O-0qqtPIL._AC_UL320_.jpg"
@@ -114135,7 +115543,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -114144,27 +115554,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skin1004.com/products/tea-trica-purifying-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Tea-Trica Purifying Toner",
+   "inciMatchScore": 1,
+   "inciText": "Water, Melaleuca Alternifolia (Tea Tree) Leaf Water, Butylene Glycol, Propanediol, Methyl Gluceth-20, 1,2-Hexanediol, Hydroxyacetophenone, Carbomer, Centella Asiatica Extract(1,000ppm), Polyglyceryl-10 Laurate, Tromethamine, Pentylene Glycol, Ethylhexylglycerin, Caprylyl Glycol, Chamaecyparis Obtusa Water, Citric Acid, Disodium EDTA, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Sodium Citrate, Pinus Palustris Leaf Extract, Salicylic Acid, Castanea Crenata (Chestnut) Shell Extract, Lavandula Angustifolia (Lavender) Flower Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "teaTree"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "melaleuca alternifolia leaf oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -114437,6 +115893,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -114941,6 +116398,8 @@ const CTPRODUCTS = [
    "format:toner",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -115189,9 +116648,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b099njdsbj",
-  "brand": "Park",
-  "model": "Daniel Pure & Natural Green Tea Skin Toner for Men & Women | Refreshing & Hydrating Face T…",
+  "id": "park-daniel-b099njdsbj",
+  "brand": "Park Daniel",
+  "model": "Pure & Natural Green Tea Skin Toner for Men & Women | Refreshing & Hydrating Face Toner fo…",
   "price": 312,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea",
@@ -115243,6 +116702,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:green-tea",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -115343,6 +116803,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:acne",
    "claim:pores",
+   "claim:stretch-marks",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -115440,6 +116901,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:green-tea",
+   "ing:chamomile",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -115548,6 +117010,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:brightening",
    "claim:pores",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -116168,6 +117631,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:xl",
@@ -116671,6 +118135,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:lightweight",
+   "claim:cooling",
    "free:vegan",
    "aud:unisex",
    "size:large",
@@ -116717,9 +118182,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b09b5518rj",
-  "brand": "Park",
-  "model": "Daniel Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refreshing & Hydr…",
+  "id": "park-daniel-b09b5518rj",
+  "brand": "Park Daniel",
+  "model": "Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refreshing & Hydrating S…",
   "price": 243,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "green tea + honey",
@@ -116772,6 +118237,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:honey",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -116817,9 +118283,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b09b4zbnw3",
-  "brand": "Park",
-  "model": "Daniel Vitamin C & Green Tea Skin Toner Combo Pack Of 2 Bottles Of 100ml (200ml)",
+  "id": "park-daniel-b09b4zbnw3",
+  "brand": "Park Daniel",
+  "model": "Vitamin C & Green Tea Skin Toner Combo Pack Of 2 Bottles Of 100ml (200ml)",
   "price": 243,
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "vitamin C + green tea",
@@ -117585,6 +119051,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:spf-claim",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -117837,111 +119304,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "cleanser-b0b4417nry",
-  "brand": "Cleanser",
-  "model": "Toner And Moisturiser Pack of 2 | Neem Tea-Tree | Lemon Green Tea | Shea Butter Vitamin E …",
-  "price": 599,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "green tea + neem + shea butter",
-  "featureLine": "Wash / cleanser",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
-   "keyIngredients": "green tea, neem, shea butter, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Z554B2F4L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B4417NRY",
-  "buyStore": "Amazon",
-  "title": "Cleanser Toner And Moisturiser Pack of 2 | Neem Tea-Tree | Lemon Green Tea | Shea Butter Vitamin E | All Skin Type",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:balm",
-   "format:wash",
-   "format:kit",
-   "ing:green-tea",
-   "ing:neem",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:lemon",
-   "claim:hydrating",
-   "skin:all",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0dh4vjnxb",
   "brand": "Unbranded",
   "model": "Green Tea, Neem & Vitamin C Hydrating Face Toner For Glowing Skin | Pure & Natural Face To…",
@@ -118103,6 +119465,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -118150,9 +119513,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b09b566235",
-  "brand": "Park",
-  "model": "Daniel Cucumber, Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refresh…",
+  "id": "park-daniel-b09b566235",
+  "brand": "Park Daniel",
+  "model": "Cucumber, Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refreshing & H…",
   "price": 312,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + honey + cucumber",
@@ -118206,6 +119569,7 @@ const CTPRODUCTS = [
    "ing:honey",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -118514,6 +119878,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -118561,9 +119926,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-b09b55bjdj",
-  "brand": "Park",
-  "model": "Daniel Vitamin C, Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refres…",
+  "id": "park-daniel-b09b55bjdj",
+  "brand": "Park Daniel",
+  "model": "Vitamin C, Honey & Green Tea Skin Toner Combo | 100% Natural Face Toners for Refreshing & …",
   "price": 312,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + honey",
@@ -118617,6 +119982,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:honey",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -118719,6 +120085,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -118925,6 +120292,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -119453,6 +120821,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -120869,6 +122238,8 @@ const CTPRODUCTS = [
    "format:toner",
    "format:wash",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -121700,6 +123071,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:4.0",
@@ -122418,6 +123790,8 @@ const CTPRODUCTS = [
    "format:wash",
    "format:kit",
    "ing:green-tea",
+   "ing:chamomile",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -123347,6 +124721,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "ing:aloe-vera",
    "ing:cucumber",
+   "ing:chamomile",
    "claim:soothing",
    "skin:sensitive",
    "free:non-comedogenic",
@@ -124370,7 +125745,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); panthenol (#10 on list, moderate evidence); sodium hyaluronate (#12 on list, moderate evidence); hydrolyzed hyaluronic acid (#15 on list, moderate evidence); hyaluronic acid (#16 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61V+z+Ec0NL._AC_UL320_.jpg"
@@ -124391,6 +125767,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -124425,6 +125803,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -124432,6 +125811,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -124439,6 +125819,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -124446,6 +125827,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -124453,6 +125835,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -124460,6 +125843,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -124831,7 +126215,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); salicylic acid (#10 on list, strong evidence); hyaluronic acid (#20 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51k23hhkUCL._AC_UL320_.jpg"
@@ -124852,6 +126237,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -124886,6 +126274,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -124893,6 +126282,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -124900,6 +126290,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -124907,6 +126298,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -124914,6 +126306,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -124921,6 +126314,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -125929,6 +127323,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:licorice",
+   "ing:chamomile",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
@@ -126258,6 +127653,8 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:scars",
+   "claim:cooling",
    "skin:sensitive",
    "skin:acne-prone",
    "skin:all",
@@ -126511,23 +127908,25 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b093k2kphd",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Madagascar Centella Hyalu-Cica Brightening Toner | Hyaluronic Acid CICA Niacinami…",
+  "id": "skin1004-b093k2kphd",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Hyalu-Cica Brightening Toner | Hyaluronic Acid CICA Niacinamide | Hydr…",
   "price": 1538,
   "capacityLine": "210 ml",
   "materialLine": "niacinamide + hyaluronic acid + centella/cica",
   "featureLine": "Toner · ₹732/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -126544,13 +127943,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-hyalu-cica-brightening-toner",
+   "inciMatchedName": "Hyalu-Cica Brightening Toner (name match 100%)",
+   "inciList": "Centella Asiatica Leaf Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Niacinamide, Water, Betaine, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Hibiscus Esculentus Fruit Extract, Polyglyceryl-10 Oleate, Xylitol, Polyglyceryl-10 Myristate, Polyglyceryl-6 Dioleate, Pyrus Communis (Pear) Fruit Extract, Pentylene Glycol, Polyglyceryl-4 Laurate, Ethylhexylglycerin, Rosa Damascena Flower Water, Adenosine, Iris Florentina Root Extract, Cucumis Melo (Melon) Fruit Extract, Hedera Helix (Ivy) Leaf/Stem Extract, Sodium Phytate, Methylpropanediol, Xanthan Gum, Citric Acid, Artemisia Princeps Leaf Extract, Caprylic/Capric Triglyceride, Polyglutamic Acid, Hydrogenated Lecithin, Ceramide NP, Capryloyl Salicylic Acid",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#5 on list, strong evidence); hyaluronic acid (#8 on list, moderate evidence); hydrolyzed hyaluronic acid (#9 on list, moderate evidence); sodium hyaluronate (#10 on list, moderate evidence); ceramide np (#33 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zuWNT6r2S._AC_UL320_.jpg"
@@ -126566,11 +127968,16 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -126579,25 +127986,98 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-hyalu-cica-brightening-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Hyalu-Cica Brightening Toner",
+   "inciMatchScore": 1,
+   "inciText": "Centella Asiatica Leaf Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Niacinamide, Water, Betaine, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Hibiscus Esculentus Fruit Extract, Polyglyceryl-10 Oleate, Xylitol, Polyglyceryl-10 Myristate, Polyglyceryl-6 Dioleate, Pyrus Communis (Pear) Fruit Extract, Pentylene Glycol, Polyglyceryl-4 Laurate, Ethylhexylglycerin, Rosa Damascena Flower Water, Adenosine, Iris Florentina Root Extract, Cucumis Melo (Melon) Fruit Extract, Hedera Helix (Ivy) Leaf/Stem Extract, Sodium Phytate, Methylpropanediol, Xanthan Gum, Citric Acid, Artemisia Princeps Leaf Extract, Caprylic/Capric Triglyceride, Polyglutamic Acid, Hydrogenated Lecithin, Ceramide NP, Capryloyl Salicylic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 33,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "niacinamide",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -126961,6 +128441,7 @@ const CTPRODUCTS = [
    "format:mist",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -127063,6 +128544,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -127164,13 +128646,15 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:green-tea",
    "ing:centella-cica",
    "ing:aloe-vera",
    "ing:witch-hazel",
+   "ing:chamomile",
+   "ing:lavender",
+   "ing:calendula",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -127181,6 +128665,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:long-lasting",
+   "claim:cooling",
+   "claim:makeup",
    "skin:sensitive",
    "skin:acne-prone",
    "skin:all",
@@ -127286,6 +128772,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -127389,6 +128876,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:coconut",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -127799,6 +129287,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "skin:sensitive",
    "skin:all",
@@ -128004,6 +129493,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -128300,6 +129790,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:niacinamide",
    "ing:coconut",
+   "ing:magnesium",
    "claim:hydrating",
    "skin:all",
    "aud:unisex",
@@ -128606,6 +130097,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -128706,6 +130198,8 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
    "aud:women",
    "size:standard",
    "rating:4.5",
@@ -129104,6 +130598,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:wash",
+   "ing:lavender",
    "claim:pores",
    "claim:hydrating",
    "skin:all",
@@ -129305,6 +130800,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:rice-water",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -129708,6 +131204,7 @@ const CTPRODUCTS = [
    "format:mist",
    "format:pack",
    "claim:hydrating",
+   "claim:makeup",
    "skin:oily",
    "aud:unisex",
    "size:travel",
@@ -129910,6 +131407,7 @@ const CTPRODUCTS = [
    "format:mist",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:4.5",
@@ -130108,6 +131606,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -130210,6 +131709,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -131147,6 +132647,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -131300,16 +132801,18 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹820/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -131326,13 +132829,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 100%)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AeF0suKmL._AC_UL320_.jpg"
@@ -131349,7 +132855,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -131358,25 +132867,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 1,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -131495,23 +133068,25 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b09jb71319",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Madagascar Centella Toning Toner | Daily Skin Care Solution for Sensitive Acne-Pr…",
+  "id": "skin1004-b09jb71319",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Toning Toner | Daily Skin Care Solution for Sensitive Acne-Prone Skin,…",
   "price": 1279,
   "capacityLine": "210 ml",
   "materialLine": "centella/cica",
   "featureLine": "Toner · ₹609/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.8,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -131528,13 +133103,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-toning-toner",
+   "inciMatchedName": "Centella Toning Toner (name match 100%)",
+   "inciList": "Water, Dipropylene Glycol, Centella Asiatica Extract, 1,2-Hexanediol, Niacinamide, Sodium Citrate, Gluconolactone, Ethylhexylglycerin, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Betaine, Hyaluronic Acid, Carbomer, Tromethamine",
+   "evidenceActives": "centella asiatica extract (#3 on list, moderate evidence); niacinamide (#5 on list, strong evidence); gluconolactone (#7 on list, moderate evidence); hyaluronic acid (#13 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — centella asiatica extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LHvB5auAL._AC_UL320_.jpg"
@@ -131553,7 +133131,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -131562,25 +133145,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-toning-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Centella Toning Toner",
+   "inciMatchScore": 1,
+   "inciText": "Water, Dipropylene Glycol, Centella Asiatica Extract, 1,2-Hexanediol, Niacinamide, Sodium Citrate, Gluconolactone, Ethylhexylglycerin, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Betaine, Hyaluronic Acid, Carbomer, Tromethamine",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -131858,6 +133493,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -131960,6 +133596,7 @@ const CTPRODUCTS = [
    "format:balm",
    "format:pack",
    "format:kit",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:unisex",
@@ -132163,6 +133800,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -132977,6 +134615,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
+   "ing:lavender",
    "claim:pores",
    "claim:hydrating",
    "skin:oily",
@@ -133378,6 +135017,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:alcohol",
@@ -133583,8 +135223,10 @@ const CTPRODUCTS = [
    "format:toner",
    "format:oil",
    "ing:almond",
+   "ing:calendula",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:normal",
    "free:paraben",
@@ -133734,23 +135376,25 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0b1jpzymn",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Madagascar Centella Poremizing Clear Toner | Oil Control & Pore Minimizer, 210 ml",
+  "id": "skin1004-b0b1jpzymn",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Poremizing Clear Toner | Oil Control & Pore Minimizer, 210 ml",
   "price": 1359,
   "capacityLine": "210 ml",
   "materialLine": "centella/cica",
   "featureLine": "Toner · ₹647/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); centella asiatica extract high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -133767,13 +135411,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://skin1004.com/products/poremizing-clear-toner",
+   "inciMatchedName": "Poremizing Clear Toner (name match 98%)",
+   "inciList": "Water, Propanediol, 1,2-Hexanediol, Glycerin, Centella Asiatica Extract, Hydroxyacetophenone, Betaine, Mineral Salts, Panthenol, Ethylhexylglycerin, Sodium Polyacryloyldimethyl Taurate, Disodium EDTA, Butylene Glycol, Salix Alba (Willow) Bark Extract, Castanea Crenata (Chestnut) Shell Extract, Lavandula Angustifolia (Lavender) Flower Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Allantoin, Citric Acid, Capryloyl Salicylic Acid, Gluconolactone, Sodium Citrate, Salicylic Acid, Glycolic Acid",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); centella asiatica extract (#5 on list, moderate evidence); panthenol (#9 on list, moderate evidence); hyaluronic acid (#17 on list, moderate evidence); hydrolyzed hyaluronic acid (#18 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence); allantoin (#20 on list, limited evidence); gluconolactone (#23 on list, moderate evidence); salicylic acid (#25 on list, strong evidence); glycolic acid (#26 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #5 on INCI, panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XCCwfWujL._AC_UL320_.jpg"
@@ -133791,7 +135438,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -133800,25 +135450,122 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skin1004.com/products/poremizing-clear-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Poremizing Clear Toner",
+   "inciMatchScore": 0.98,
+   "inciText": "Water, Propanediol, 1,2-Hexanediol, Glycerin, Centella Asiatica Extract, Hydroxyacetophenone, Betaine, Mineral Salts, Panthenol, Ethylhexylglycerin, Sodium Polyacryloyldimethyl Taurate, Disodium EDTA, Butylene Glycol, Salix Alba (Willow) Bark Extract, Castanea Crenata (Chestnut) Shell Extract, Lavandula Angustifolia (Lavender) Flower Extract, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Allantoin, Citric Acid, Capryloyl Salicylic Acid, Gluconolactone, Sodium Citrate, Salicylic Acid, Glycolic Acid",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "panthenol",
+    "butylene glycol",
+    "hyaluronic acid",
+    "hydrolyzed hyaluronic acid",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -133888,6 +135635,7 @@ const CTPRODUCTS = [
    "ing:glycerin",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -134295,7 +136043,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:tea-tree",
    "claim:acne",
    "claim:pores",
@@ -134704,9 +136451,9 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:alcohol",
@@ -134911,6 +136658,7 @@ const CTPRODUCTS = [
    "format:toner",
    "format:oil",
    "ing:vitamin-c",
+   "ing:calendula",
    "claim:acne",
    "claim:pores",
    "claim:soothing",
@@ -135125,6 +136873,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "aud:unisex",
@@ -135421,7 +137170,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); aloe barbadensis leaf extract (#24 on list, moderate evidence); panthenol (#27 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #24 on INCI, panthenol #27 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61X4xjREYoL._AC_UL320_.jpg"
@@ -135441,6 +137191,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -135475,6 +137226,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -135482,6 +137234,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -135489,6 +137242,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -135496,6 +137250,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -135503,6 +137258,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -135510,7 +137266,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -135786,6 +137551,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
+   "ing:lavender",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -135889,6 +137655,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -135985,12 +137752,12 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:aloe-vera",
    "ing:neem",
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -136297,7 +138064,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:turmeric",
    "ing:glycerin",
    "claim:brightening",
@@ -136309,6 +138075,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:normal",
@@ -136514,10 +138281,10 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:aloe-vera",
    "ing:neem",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -136827,6 +138594,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:large",
@@ -136916,7 +138684,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); panthenol (#5 on list, moderate evidence); niacinamide (#6 on list, strong evidence); beta-glucan (#9 on list, moderate evidence); allantoin (#11 on list, limited evidence); glycolic acid (#12 on list, strong evidence); sodium hyaluronate (#14 on list, moderate evidence); zinc pca (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: hexyl cinnamal, limonene (−1)",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI, zinc pca #15 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — panthenol #5 on INCI, beta-glucan #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dYTP4EQnL._AC_UL320_.jpg"
@@ -136939,6 +138708,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -136972,6 +138744,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -136979,6 +138752,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -136986,6 +138760,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -136993,6 +138768,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -137000,6 +138776,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -137007,6 +138784,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -137014,6 +138792,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -137021,6 +138800,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -137028,6 +138808,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -137035,6 +138816,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -137042,6 +138824,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -137049,6 +138832,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -137248,6 +139032,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:acne-prone",
@@ -137865,6 +139650,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:long-lasting",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:vegan",
@@ -137967,6 +139753,7 @@ const CTPRODUCTS = [
    "ing:tea-tree",
    "claim:brightening",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:large",
@@ -138375,6 +140162,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "aud:women",
    "size:standard",
@@ -139305,6 +141093,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:pores",
    "claim:soothing",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -139408,6 +141197,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "aud:unisex",
@@ -139709,7 +141499,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "claim:acne",
@@ -139964,216 +141753,6 @@ const CTPRODUCTS = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "pilgrim-b0hcdp99j2",
-  "brand": "Pilgrim",
-  "model": "Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Australian Tea Tree Light …",
-  "price": 346,
-  "capacityLine": "80 g",
-  "materialLine": "hyaluronic acid + centella/cica + tea tree",
-  "featureLine": "Toner · ₹433/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 g",
-   "pricePer100": "₹433/100g",
-   "format": "Toner",
-   "keyIngredients": "hyaluronic acid, centella/cica, tea tree (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Lz0ejxZ-L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDP99J2",
-  "buyStore": "Amazon",
-  "title": "PILGRIM Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Australian Tea Tree Light Gel moisturizer for face for oily & acne prone skin with Hyaluronic acid & CICA 80 gm",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:toner",
-   "format:mist",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "ing:tea-tree",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:korean",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "pilgrim-b0hcdvlx4t",
-  "brand": "Pilgrim",
-  "model": "Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti …",
-  "price": 364,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid + tea tree + aloe vera",
-  "featureLine": "Toner · Alcohol-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Toner",
-   "keyIngredients": "hyaluronic acid, tea tree, aloe vera (per listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41UcpfZMeyL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDVLX4T",
-  "buyStore": "Amazon",
-  "title": "Pilgrim Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti Agein & Australian Tea Tree Light Gel moisturizer for face for oily & acne prone skin with Hyaluronic",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:toner",
-   "format:mist",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "claim:acne",
-   "claim:hydrating",
-   "skin:oily",
-   "skin:acne-prone",
-   "free:alcohol",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
    },
    "buyers": "No buyer ratings yet"
   }
@@ -141011,8 +142590,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-pky-b08q6wz6j1",
-  "brand": "[PKY]",
+  "id": "pky-b08q6wz6j1",
+  "brand": "PKY",
   "model": "Pyunkang YUL Calming Deep Moisture Toner Instantly Soothes Sensitive Skin, Pore and Sebum …",
   "price": 1163,
   "capacityLine": "150 ml",
@@ -141057,7 +142636,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B08Q6WZ6J1",
   "buyStore": "Amazon",
-  "title": "[PKY] Pyunkang YUL Calming Deep Moisture Toner Instantly Soothes Sensitive Skin, Pore and Sebum Care with AHA, PHA, Non-comedogenic, Vegan, Korean Skincare (150ml)",
+  "title": "PKY Pyunkang YUL Calming Deep Moisture Toner Instantly Soothes Sensitive Skin, Pore and Sebum Care with AHA, PHA, Non-comedogenic, Vegan, Korean Skincare (150ml)",
   "tags": [
    "scope:unstated",
    "format:toner",
@@ -141771,6 +143350,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:witch-hazel",
    "claim:soothing",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:large",
@@ -141965,6 +143545,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "ing:witch-hazel",
+   "ing:lavender",
    "free:alcohol",
    "aud:unisex",
    "rating:4.5",
@@ -142372,6 +143953,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:witch-hazel",
    "claim:soothing",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "rating:4.5",
@@ -142954,7 +144536,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); aloe barbadensis leaf extract (#24 on list, moderate evidence); panthenol (#27 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #24 on INCI, panthenol #27 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fDUDbRZsL._AC_UL320_.jpg"
@@ -142974,6 +144557,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -143008,6 +144592,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -143015,6 +144600,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -143022,6 +144608,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -143029,6 +144616,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -143036,6 +144624,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -143043,7 +144632,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -143617,9 +145215,11 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:rose",
    "ing:witch-hazel",
+   "ing:alum",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -144343,6 +145943,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:aloe-vera",
    "ing:witch-hazel",
+   "ing:lavender",
    "free:alcohol",
    "aud:unisex",
    "rating:4.5",
@@ -144648,6 +146249,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -145359,6 +146961,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -145462,6 +147065,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -146177,6 +147781,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -146796,6 +148401,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:pores",
    "claim:oil-control",
+   "claim:makeup",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -146885,7 +148491,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); niacinamide (#5 on list, strong evidence); allantoin (#24 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61N9GjFmhBL._AC_UL320_.jpg"
@@ -146904,6 +148511,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -146938,6 +148547,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -146945,6 +148555,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -146952,6 +148563,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -146959,6 +148571,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -147656,6 +149269,7 @@ const CTPRODUCTS = [
    "ing:peptides",
    "ing:collagen",
    "ing:witch-hazel",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:pores",
    "free:vegan",
@@ -147758,6 +149372,7 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:rose",
    "ing:witch-hazel",
+   "ing:chamomile",
    "claim:brightening",
    "claim:ayurvedic",
    "aud:women",
@@ -147861,6 +149476,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:witch-hazel",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -147961,6 +149577,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:vegan",
@@ -148591,12 +150208,15 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "ing:glycerin",
    "ing:milk",
+   "ing:sugar",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:ph-balanced",
@@ -148805,6 +150425,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -148907,6 +150528,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -149011,6 +150633,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:witch-hazel",
    "claim:oil-control",
+   "claim:makeup",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -149113,6 +150736,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:witch-hazel",
    "claim:oil-control",
+   "claim:makeup",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -149215,6 +150839,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:witch-hazel",
    "claim:oil-control",
+   "claim:makeup",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -149419,6 +151044,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:witch-hazel",
    "claim:oil-control",
+   "claim:makeup",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -149521,6 +151147,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -149625,6 +151252,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -149931,6 +151559,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:brightening",
    "claim:pores",
+   "claim:cooling",
    "free:paraben",
    "free:silicone",
    "aud:unisex",
@@ -150035,6 +151664,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150139,6 +151769,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150243,6 +151874,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150350,6 +151982,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -150452,6 +152085,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150556,6 +152190,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150658,6 +152293,7 @@ const CTPRODUCTS = [
    "ing:witch-hazel",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "aud:women",
@@ -150761,7 +152397,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:vitamin-c",
@@ -150774,6 +152409,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:oily",
    "skin:dry",
    "skin:sensitive",
@@ -150987,112 +152623,6 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "skin:dry",
    "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sadhev-b0hg4mlxzy",
-  "brand": "Sadhev",
-  "model": "Day Care Duo for Dehydrated Skin, Pigmentation & Sun Damage | Rose Water Toner (150ml) wit…",
-  "price": 1888,
-  "capacityLine": "150 ml",
-  "materialLine": "rose + zinc",
-  "featureLine": "Sunscreen · SPF 50 · ₹1259/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹1259/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "rose, zinc (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714npZqioeL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG4MLXZY",
-  "buyStore": "Amazon",
-  "title": "Sadhev Day Care Duo for Dehydrated Skin, Pigmentation & Sun Damage | Rose Water Toner (150ml) with Centifolia Roses, Hydrates Skin | Sunscreen Gel SPF50 PA+++ (50ml) with Zinc Oxide & Liquorice",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:toner",
-   "spf:50",
-   "pa:+++",
-   "sun:mineral",
-   "ing:rose",
-   "ing:licorice",
-   "ing:zinc",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
    "rating:none",
    "store:amazon",
    "inci:none"
@@ -151394,6 +152924,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:standard",
@@ -151691,6 +153222,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:vitamin-c",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -151797,6 +153329,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:alcohol",
@@ -152099,6 +153632,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:toner",
    "ing:vitamin-c",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -152295,6 +153829,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -152395,9 +153930,12 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
+   "format:aerosol",
    "claim:acne",
    "claim:barrier",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:derm",
@@ -152807,6 +154345,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "free:vegan",
    "aud:unisex",
@@ -152904,6 +154443,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "ing:rosehip",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "skin:dry",
@@ -153213,6 +154753,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -153256,106 +154797,6 @@ const CTPRODUCTS = [
     "url": "https://khadinatural.com/"
    },
    "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "hyphen-b0gzl7frb7",
-  "brand": "Hyphen",
-  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
-  "price": 972,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + ceramides",
-  "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1944/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
-  "buyStore": "Amazon",
-  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:collagen",
-   "claim:brightening",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.letshyphen.com/"
-   },
-   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -153561,105 +155002,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-essence-b0cmd4z7ly",
-  "brand": "Nature's Essence",
-  "model": "CTM Combo - The Ultimate Skincare Trio, Cleansing Milk - Toner - Moisturiser, 300ml",
-  "price": 179,
-  "capacityLine": "300 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹60/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹60/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61x4DCBJAWL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CMD4Z7LY",
-  "buyStore": "Amazon",
-  "title": "Nature's Essence CTM Combo - The Ultimate Skincare Trio, Cleansing Milk - Toner - Moisturiser, 300ml",
-  "tags": [
-   "scope:unstated",
-   "format:essence",
-   "format:toner",
-   "format:wash",
-   "format:kit",
-   "ing:milk",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Nature's Essence",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.naturesessence.in/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0g4wqf1cb",
   "brand": "Unbranded",
   "model": "Sandalwood Powder 18 gm & Rose Water 500 ml Combo Pack | Edible Gulab Jal for Face, Hair &…",
@@ -153857,8 +155199,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-pky-b0cq8dwsh8",
-  "brand": "[PKY]",
+  "id": "pky-b0cq8dwsh8",
+  "brand": "PKY",
   "model": "Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Cent…",
   "price": 1313,
   "capacityLine": "140 ml",
@@ -153903,7 +155245,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B0CQ8DWSH8",
   "buyStore": "Amazon",
-  "title": "[PKY] Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Centella & Ceramide, Soothes, Smooths, and Moisturizes, Korean Skincare 70 Pads (140ml)",
+  "title": "PKY Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Centella & Ceramide, Soothes, Smooths, and Moisturizes, Korean Skincare 70 Pads (140ml)",
   "tags": [
    "scope:unstated",
    "format:essence",
@@ -155337,7 +156679,6 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -155347,6 +156688,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -156481,6 +157823,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "ing:rice-water",
    "claim:brightening",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -156594,112 +157937,6 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "moody-b0hdtm1q35",
-  "brand": "Moody",
-  "model": "Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating F…",
-  "price": 444,
-  "capacityLine": "50 ml",
-  "materialLine": "hyaluronic acid + rice water",
-  "featureLine": "Sunscreen · SPF 50 · ₹888/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹888/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "hyaluronic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51OEmUjcxrL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDTM1Q35",
-  "buyStore": "Amazon",
-  "title": "Moody Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating Face Mist & Essence Toner 110ml | Hyaluronic Acid, Vitamin B5 & Rice Water | 72H Hydration",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:toner",
-   "format:mist",
-   "spf:50",
-   "pa:++++",
-   "ing:hyaluronic-acid",
-   "ing:rice-water",
-   "ing:vitamin-b5-panthenol",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -157413,6 +158650,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -159597,9 +160835,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-qq-b0gy9bgpsz",
-  "brand": "[QQ",
-  "model": "Show Beauty of Korian] Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner f…",
+  "id": "qq-b0gy9bgpsz",
+  "brand": "QQ",
+  "model": "Show Beauty of Korian Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner fo…",
   "price": 1515,
   "capacityLine": "150 ml",
   "materialLine": "salicylic acid (BHA)",
@@ -159644,7 +160882,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B0GY9BGPSZ",
   "buyStore": "Amazon",
-  "title": "[QQ Show Beauty of Korian] Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Exfoliation, Smooth Texture & Balanced Skin (Green Plum Refreshing Toner)",
+  "title": "QQ Show Beauty of Korian Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Exfoliation, Smooth Texture & Balanced Skin (Green Plum Refreshing Toner)",
   "tags": [
    "scope:face",
    "format:toner",
@@ -159652,6 +160890,7 @@ const CTPRODUCTS = [
    "ing:aha",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -159694,106 +160933,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "m-u-b0cj378n2t",
-  "brand": "M&U",
-  "model": "2% Salicylic Acid face Toner & serum For All Skin Type | Reduce Acne, Blackheads & clear p…",
-  "price": 265,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + green tea",
-  "featureLine": "Toner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Toner",
-   "keyIngredients": "salicylic acid (BHA), green tea (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61AhhzZDZZL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CJ378N2T",
-  "buyStore": "Amazon",
-  "title": "M&U 2% Salicylic Acid face Toner & serum For All Skin Type | Reduce Acne, Blackheads & clear pores | with Alovera & green tea extract",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "ing:salicylic-acid-bha",
-   "ing:green-tea",
-   "claim:acne",
-   "claim:pores",
-   "skin:all",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -160367,6 +161506,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "ing:saffron",
    "ing:rose",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-circles",
    "aud:unisex",
@@ -160575,6 +161715,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -160682,6 +161824,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "aud:women",
@@ -160897,6 +162040,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:kp",
    "claim:dry-skin-relief",
+   "claim:odour",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -161554,6 +162698,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -162003,6 +163148,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -162233,6 +163379,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:scars",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -162346,6 +163494,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:cucumber",
    "ing:mineral-oil",
+   "ing:lavender",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -162357,6 +163506,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -162456,7 +163606,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "Seoul Ceuticals Exfoliating & Cleansing Toner , Men & Women (120 …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:wash",
@@ -162473,6 +163623,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:intimate-hygiene",
    "skin:oily",
    "free:paraben",
    "aud:women",
@@ -162772,7 +163923,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#3 on list, moderate evidence); glycolic acid (#5 on list, strong evidence); lactic acid (#6 on list, strong evidence); glycerin (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/z/z/20-dark-underarm-skin-whitening-cream-for-lighten-and-brighten-original-imaghxwcdnph7xw2.jpeg?q=90",
@@ -162806,6 +163958,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -162840,6 +163993,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -162847,6 +164001,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -162854,6 +164009,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -162861,6 +164017,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -163195,6 +164352,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -163202,6 +164360,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -163209,6 +164368,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -163216,6 +164376,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -163223,6 +164384,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -163230,6 +164392,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -163237,6 +164400,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -163458,7 +164622,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "zoomique White Seed Brightening Face toner for Dark Spots, Dullne …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -163471,6 +164635,8 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:intimate-hygiene",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -164240,7 +165406,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); alpha-arbutin (#3 on list, moderate evidence); ascorbic acid (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — alpha-arbutin #3 on INCI, ascorbic acid #5 on INCI; Aging — ascorbic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/u/p/50-intimate-v-skin-brightening-cream-navata-original-imahhqpzyxt3pymh.jpeg?q=90"
@@ -164265,6 +165432,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -164273,6 +165441,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full"
   ],
   "filters": {
@@ -164305,6 +165475,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -164312,6 +165483,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -164319,6 +165491,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -164326,6 +165499,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -164746,6 +165920,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -164904,7 +166080,7 @@ const CTPRODUCTS = [
  {
   "id": "woke-beauty-itmec24ce7b06d3e",
   "brand": "Woke Beauty",
-  "model": "Face Mist & Toner, Glowing & Hydrated Skin, Minimizes …",
+  "model": "Face Mist & Toner, Glowing & Hydrated Skin, Minimizes Pores, Preps Skin for Glow Men & Wom…",
   "price": 322,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "salicylic acid (BHA) + glycolic acid + rose",
@@ -164950,7 +166126,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/woke-beauty-face-mist-toner-glowing-hydrated-skin-minimizes-pores-preps-skin-glow-men-women/p/itmec24ce7b06d3e",
   "buyStore": "Flipkart",
-  "title": "Woke Beauty Face Mist & Toner, Glowing & Hydrated Skin, Minimizes …",
+  "title": "Woke Beauty Face Mist & Toner, Glowing & Hydrated Skin, Minimizes Pores, Preps Skin for Glow Men & Women",
   "tags": [
    "scope:face",
    "format:serum",
@@ -164969,6 +166145,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -165186,6 +166363,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -165292,6 +166470,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -165444,118 +166623,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "saturn-by-ghc-itm2dbd3d2f8139c",
-  "brand": "saturn by ghc",
-  "model": "Foaming Face Wash (120ml), Face Toner (150ml) for O …",
-  "price": 409,
-  "capacityLine": "120 ml",
-  "materialLine": "vitamin C + niacinamide + alpha arbutin",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹341/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹341/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "vitamin C, niacinamide, alpha arbutin (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (393 ratings, Flipkart)",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 393 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/r/l/foaming-face-wash-120ml-face-toner-150ml-for-oily-skin-alpha-original-imagzkyxzjzvygph.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/k/z/foaming-face-wash-120ml-face-toner-150ml-for-oily-skin-alpha-original-imagzkyxkzkbgfhb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/u/j/foaming-face-wash-120ml-face-toner-150ml-for-oily-skin-alpha-original-imagzkyxhxhdt3yt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/z/p/y/foaming-face-wash-120ml-face-toner-150ml-for-oily-skin-alpha-original-imagzkyxqkagkczn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/4/h/e/radiance-cleanse-protect-combo-face-wash-100g-sunscreen-50g-2-original-imah4ndmarj8ses7.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/saturn-ghc-foaming-face-wash-120ml-toner-150ml-oily-skin-alpha-arbutin-serum-30ml-vitamin-c-niacinamide/p/itm2dbd3d2f8139c",
-  "buyStore": "Flipkart",
-  "title": "saturn by ghc Foaming Face Wash (120ml), Face Toner (150ml) for O …",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:serum",
-   "format:toner",
-   "format:mist",
-   "format:pack",
-   "format:pads",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:alpha-arbutin",
-   "skin:oily",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:standard",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 393 ratings"
   }
  },
  {
@@ -165723,9 +166790,11 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:lavender",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:derm",
    "aud:women",
@@ -165923,7 +166992,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); glycolic acid (#3 on list, strong evidence); gluconolactone (#5 on list, moderate evidence); niacinamide (#6 on list, strong evidence); aloe barbadensis leaf juice (#7 on list, moderate evidence); panthenol (#8 on list, moderate evidence); allantoin (#11 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, glycyrrhiza glabra root extract #10 on INCI; Irritation — aloe barbadensis leaf juice #7 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/n/3/200-10-glycolic-acid-resurfacing-face-toner-for-pigmentation-original-imahntehzy3mmpxg.jpeg?q=90",
@@ -165957,6 +167027,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:alcohol",
@@ -165965,6 +167036,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -165998,6 +167072,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -166005,6 +167080,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -166012,6 +167088,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -166019,6 +167096,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -166026,6 +167104,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -166033,6 +167112,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -166040,6 +167120,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -166047,6 +167128,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -166054,6 +167136,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -166140,6 +167223,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -166706,6 +167790,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -166824,6 +167909,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -167286,6 +168372,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -167341,16 +168428,18 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹219/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 4.9
   },
   "fullSpec": {
@@ -167367,13 +168456,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (75 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciMatchedName": "Peach 77 Niacin Essence Toner (name match 100%)",
+   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); galactomyces ferment filtrate (#18 on list, limited evidence); alpha-arbutin (#19 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence); panthenol (#37 on list, moderate evidence); ceramide np (#39 on list, moderate evidence); allantoin (#40 on list, limited evidence); betaine salicylate (#45 on list, moderate evidence); ascorbic acid (#46 on list, strong evidence); ascorbyl glucoside (#47 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 75 ratings"
+   "buyerEvidence": "4.1★ from 75 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, alpha-arbutin #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90",
@@ -167399,7 +168492,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -167408,27 +168504,167 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Peach 77 Niacin Essence Toner",
+   "inciMatchScore": 1,
+   "inciText": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "galactomyces ferment filtrate",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 45,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 47,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "propanediol",
+    "squalane",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -168265,6 +169501,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -168543,7 +169780,7 @@ const CTPRODUCTS = [
  {
   "id": "indoze-itm048987e6cd694",
   "brand": "indoze",
-  "model": "Rose Water Spray For Face - Original, Hydrating Spray for …",
+  "model": "Rose Water Spray For Face - Original, Hydrating Spray for All Skin Types Men & Women",
   "price": 200,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + rose",
@@ -168592,7 +169829,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/indoze-rose-water-spray-face-original-hydrating-all-skin-types-men-women/p/itm048987e6cd694",
   "buyStore": "Flipkart",
-  "title": "indoze Rose Water Spray For Face - Original, Hydrating Spray for …",
+  "title": "indoze Rose Water Spray For Face - Original, Hydrating Spray for All Skin Types Men & Women",
   "tags": [
    "scope:both",
    "format:cream",
@@ -168607,6 +169844,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:barrier",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -168938,6 +170176,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -169027,7 +170266,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 16 ratings"
+   "buyerEvidence": "4.3★ from 16 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #3 on INCI; Aging — ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/9/p/100-korean-face-toner-dry-skin-hyaluronic-acid-hydrating-pores-original-imahjfj7vpkv4zbs.jpeg?q=90",
@@ -169058,6 +170298,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -169065,6 +170306,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -169098,6 +170341,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -169105,6 +170349,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -169112,6 +170357,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -169202,6 +170448,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -169414,7 +170661,8 @@ const CTPRODUCTS = [
    "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); glycerin (#9 on list, strong evidence); panthenol (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 13 ratings"
+   "buyerEvidence": "4.9★ from 13 ratings",
+   "concernBasis": "Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/v/d/n/-original-imahqy4afnkrr4td.jpeg?q=90",
@@ -169444,6 +170692,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -169477,6 +170726,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -169484,6 +170734,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -169491,6 +170742,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -169498,6 +170750,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -169505,6 +170758,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -169706,6 +170960,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -169931,6 +171186,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:alcohol",
@@ -170366,7 +171622,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "claim:brightening",
@@ -170538,110 +171793,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "anua-itm4e82a68af0ee9",
-  "brand": "Anua",
-  "model": "heartleaf 77% soothing toner 250 ml + peach 70% niacin serum …",
-  "price": 849,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner · Paraben-free · ₹340/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹340/100ml",
-   "format": "Toner",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Heartleaf (Houttuynia Cordata) Extract, Niacinamide, Hyaluronic Acid, Glycerin, Botanical Extracts, Skin-Conditioning Ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/s/a/m/77-soothing-toner-250ml-peach-70-niacin-serum-30-ml-280-ml-86476-original-imahq6tvedegtkkt.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-soothing-toner-250-ml-peach-70-niacin-serum-30-280-men-women/p/itm4e82a68af0ee9",
-  "buyStore": "Flipkart",
-  "title": "ANUA heartleaf 77% soothing toner 250 ml + peach 70% niacin serum …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "ing:heartleaf",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Heartleaf (Houttuynia Cordata) Extract, Niacinamide, Hyaluronic Acid, Glycerin, Botanical Extracts, Skin-Conditioning Ingredients.",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.83,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "zobha-itmd1240a2db5ffd",
   "brand": "Zobha",
   "model": "Pore Tightening Face Toner for Oily & Acne-Prone Skin – Alc …",
@@ -170709,6 +171860,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:paraben",
@@ -170833,6 +171985,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -170997,18 +172150,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹261/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 5★ from 7 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 6.3
   },
   "fullSpec": {
@@ -171025,13 +172179,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "5/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 100%)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 7 ratings"
+   "buyerEvidence": "5★ from 7 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/q/e/250-heartleaf-77-soothing-toner-250m-anua-original-imahb75zrwx5pjqs.jpeg?q=90",
@@ -171054,7 +172211,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -171063,25 +172223,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 1,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -171323,17 +172547,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹245/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -171350,13 +172576,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 90%)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/b/i/250-heartleaf-77-soothing-toner-anua-original-imahgg8er2rgxgnw.jpeg?q=90",
@@ -171381,7 +172610,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -171390,25 +172622,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 0.9,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -172014,6 +173310,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -172703,7 +174000,7 @@ const CTPRODUCTS = [
  {
   "id": "botanical-beauty-itmca8dc2cb89f32",
   "brand": "Botanical Beauty",
-  "model": "Steam Distilled Rosewater Toner – Hydrating Mist …",
+  "model": "Steam Distilled Rosewater Toner – Hydrating Mist with Pure Organic Rose Hydrosol Men & Wom…",
   "price": 270,
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + rose",
@@ -172752,7 +174049,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/botanical-beauty-steam-distilled-rosewater-toner-hydrating-mist-pure-organic-rose-hydrosol-men-women/p/itmca8dc2cb89f32",
   "buyStore": "Flipkart",
-  "title": "Botanical Beauty Steam Distilled Rosewater Toner – Hydrating Mist …",
+  "title": "Botanical Beauty Steam Distilled Rosewater Toner – Hydrating Mist with Pure Organic Rose Hydrosol Men & Women",
   "tags": [
    "scope:both",
    "format:toner",
@@ -172766,6 +174063,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -173263,18 +174561,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹267/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 41 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5.5
   },
   "fullSpec": {
@@ -173291,13 +174590,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (41 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 94%)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 41 ratings"
+   "buyerEvidence": "4.4★ from 41 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/z/t/250-heartleaf-77-soothing-toner-calming-skin-refreshing-original-imagyjax3vm86zgr.jpeg?q=90",
@@ -173316,13 +174618,17 @@ const CTPRODUCTS = [
    "format:pack",
    "ing:heartleaf",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -173331,25 +174637,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 0.94,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -173689,117 +175059,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "kinjpa-itm4426ad160b418",
-  "brand": "KINJPA",
-  "model": "Assur Purifying Cleanser + Toner with Tea Oil & Rose Water …",
-  "price": 257,
-  "capacityLine": "250 ml",
-  "materialLine": "rose",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹103/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹103/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/r/a/250-assur-purifying-cleanser-toner-with-tea-oil-rose-water-for-original-imahhrgp5bzppjaz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/2/y/250-purifying-cleanser-toner-enriched-with-tea-seed-oil-rose-original-imah5aybzzgz36rp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/3/9/l/500-assur-purifying-cleanser-toner-with-tea-oil-rose-water-250ml-original-imahgykyvxjshprp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/e/w/300-almond-vitamin-e-lightweight-non-sticky-daily-use-regolith-original-imahhdhxyg8sgshq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/u/t/7/500-astringent-lotion-with-aloe-vera-ayur-herbals-original-imahyvhwvnubfcqz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kinjpa-assur-purifying-cleanser-toner-tea-oil-rose-water-for-normal-skin-men-women/p/itm4426ad160b418",
-  "buyStore": "Flipkart",
-  "title": "KINJPA Assur Purifying Cleanser + Toner with Tea Oil & Rose Water …",
-  "tags": [
-   "scope:face",
-   "format:lotion",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "skin:normal",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "she-itma5bef6e985296",
   "brand": "She",
   "model": "Derma Rice Water Face Toner for Clear and Hydrated Skin (Resu …",
@@ -174059,7 +175318,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -174171,7 +175429,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "Flora fusion Rose Face Toner Natural & Refreshing Toner for Glowi …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:pack",
@@ -174179,6 +175437,9 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:korean",
+   "claim:stretch-marks",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -174291,6 +175552,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -174511,6 +175773,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -174621,6 +175884,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -174733,6 +175997,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -174843,6 +176108,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -174962,6 +176228,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -175077,6 +176344,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -175189,6 +176457,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:calamine",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -175307,6 +176576,7 @@ const CTPRODUCTS = [
    "claim:no-white-cast",
    "claim:tinted",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -175357,7 +176627,7 @@ const CTPRODUCTS = [
  {
   "id": "quat-itmcf2138857c356",
   "brand": "Quat",
-  "model": "Rose Water Toner for Face – Pure Hydrating Mist for Glowing …",
+  "model": "Rose Water Toner for Face – Pure Hydrating Mist for Glowing Skin Men & Women",
   "price": 154,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + rice water + rose",
@@ -175406,7 +176676,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/quat-rose-water-toner-face-pure-hydrating-mist-glowing-skin-men-women/p/itmcf2138857c356",
   "buyStore": "Flipkart",
-  "title": "QUAT Rose Water Toner for Face – Pure Hydrating Mist for Glowing …",
+  "title": "QUAT Rose Water Toner for Face – Pure Hydrating Mist for Glowing Skin Men & Women",
   "tags": [
    "scope:both",
    "format:gel",
@@ -175430,6 +176700,8 @@ const CTPRODUCTS = [
    "claim:no-white-cast",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -175746,7 +177018,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "KAIASHA Refreshing Face Toner for Soft and Glowing Skin Men & Wom …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -175755,6 +177027,8 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:whitening-claim",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -175875,6 +177149,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -175986,6 +177261,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:large",
@@ -176095,6 +177371,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -176318,6 +177595,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -176430,6 +177708,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -176650,6 +177929,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -176866,6 +178146,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -176978,6 +178259,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -177035,17 +178317,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹175/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -177062,13 +178346,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 88%)",
+   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/t/1/250-heartleaf-77-soothing-toner-anua-original-imahgg8ehx59wyn8.jpeg?q=90",
@@ -177095,7 +178383,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -177104,25 +178395,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 0.88,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -177200,6 +178555,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -177310,6 +178666,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -177420,6 +178777,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -177464,6 +178822,114 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "nightblue-naturals-itmd09fac15761a8",
+  "brand": "NightBlue Naturals",
+  "model": "Papaya Anti Agieng Skin Glow Brightening Pores Moisturizing Toner Mist Men & Women",
+  "price": 132,
+  "capacityLine": "240 ml",
+  "materialLine": "papaya",
+  "featureLine": "Toner · Paraben-free · ₹55/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4
+  },
+  "fullSpec": {
+   "quantity": "240 ml",
+   "pricePer100": "₹55/100ml",
+   "format": "Toner",
+   "keyIngredients": "papaya (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (17 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 17 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/q/n/240-papaya-anti-agieng-skin-glow-brightening-pores-moisturizing-original-imahk448jwseettz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/5/d/120-papaya-anti-agieng-skin-glow-brightening-pores-moisturizing-original-imahk43ccckmkev5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/p/b/120-papaya-anti-agieng-skin-glow-brightening-pores-moisturizing-original-imahk43cme7rzz4z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/c/o/120-papaya-anti-agieng-skin-glow-brightening-pores-moisturizing-original-imahk43c69ynseus.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/g/e/-original-imagwfbgxfzhhgdh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nightblue-naturals-papaya-anti-agieng-skin-glow-brightening-pores-moisturizing-toner-mist-men-women/p/itmd09fac15761a8",
+  "buyStore": "Flipkart",
+  "title": "NightBlue Naturals Papaya Anti Agieng Skin Glow Brightening Pores Moisturizing Toner Mist Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 17 ratings"
   }
  },
  {
@@ -177754,6 +179220,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -177980,6 +179447,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -178284,7 +179752,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf extract (#8 on list, moderate evidence); niacinamide (#9 on list, strong evidence); hyaluronic acid (#10 on list, moderate evidence); allantoin (#15 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fregrance (−1.5); EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 34 ratings"
+   "buyerEvidence": "4.5★ from 34 ratings",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/m/m/100-aqua-restoration-tonic-mist-rose-water-licorice-root-aloe-original-imah29ke3thhdbfn.jpeg?q=90",
@@ -178322,6 +179791,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -178354,6 +179826,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -178361,6 +179834,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -178368,6 +179842,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -178375,6 +179850,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -178382,6 +179858,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -178389,6 +179866,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -178396,6 +179874,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -178403,6 +179882,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -178410,6 +179890,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -178514,6 +179995,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -178622,8 +180104,10 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:rose",
    "ing:witch-hazel",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -178730,6 +180214,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -179095,6 +180580,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -179102,6 +180588,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -179109,6 +180596,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -179116,6 +180604,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -179138,7 +180627,7 @@ const CTPRODUCTS = [
  {
   "id": "xyst-itm3e37837c74336",
   "brand": "Xyst",
-  "model": "Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores …",
+  "model": "Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores Men & Women",
   "price": 148,
   "capacityLine": "80 g (pack of 2)",
   "materialLine": "niacinamide + rose",
@@ -179187,7 +180676,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/xyst-alcohol-free-face-mist-toner-balances-ph-tightens-pores-men-women/p/itm3e37837c74336",
   "buyStore": "Flipkart",
-  "title": "XYST Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores …",
+  "title": "XYST Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -179200,6 +180689,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -179526,6 +181016,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -179576,43 +181067,44 @@ const CTPRODUCTS = [
  {
   "id": "xyst-itmf616b9f03bec0",
   "brand": "Xyst",
-  "model": "Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores …",
+  "model": "Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores - 100ml Men & Women",
   "price": 148,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner · Alcohol-free",
+  "featureLine": "Toner · Alcohol-free · ₹148/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 3 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 3.1
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "100 ml",
+   "pricePer100": "₹148/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4/5 (6 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Niacinamide, Rose Hydrosol, Aquaxyl",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Aelius parallel Holdings Pvt Ltd Plot No GP-55, Sector-18, HSIIDC, Gurgaon, Haryana 122015 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4★ from 6 ratings"
   },
   "images": [
@@ -179624,17 +181116,18 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/xyst-alcohol-free-face-mist-toner-balances-ph-tightens-pores-100ml-men-women/p/itmf616b9f03bec0",
   "buyStore": "Flipkart",
-  "title": "XYST Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores …",
+  "title": "XYST Alcohol-Free Face Mist Toner - Balances pH & Tightens Pores - 100ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
    "format:mist",
    "claim:pores",
    "free:alcohol",
-   "aud:unisex",
+   "aud:women",
+   "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -179642,24 +181135,24 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
-   "inci": "none",
+   "women": true,
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Niacinamide, Rose Hydrosol, Aquaxyl",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.67,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -179830,7 +181323,8 @@ const CTPRODUCTS = [
    "evidenceActives": "alpha-arbutin (#3 on list, moderate evidence); glycerin (#9 on list, strong evidence); hyaluronic acid (#10 on list, moderate evidence); panthenol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 1 ratings"
+   "buyerEvidence": "5★ from 1 ratings",
+   "concernBasis": "Dark spots — alpha-arbutin #3 on INCI, ethyl ascorbic acid #4 on INCI; Aging — ethyl ascorbic acid #4 on INCI; Irritation — panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/p/e/-original-imahqy4atxjjqkff.jpeg?q=90",
@@ -179859,6 +181353,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -179892,6 +181389,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -179899,6 +181397,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -179906,6 +181405,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -179913,6 +181413,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -179920,6 +181421,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -179927,6 +181429,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -179934,6 +181437,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -180236,10 +181740,12 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:cucumber",
    "ing:neem",
+   "ing:lavender",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -180357,6 +181863,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -180471,6 +181978,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -180916,6 +182424,8 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -181088,18 +182598,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹320/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
    "Well-reviewed: 4.7★ from 3 ratings"
   ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -181116,13 +182627,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciMatchedName": "Peach 77 Niacin Essence Toner (name match 100%)",
+   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); galactomyces ferment filtrate (#18 on list, limited evidence); alpha-arbutin (#19 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence); panthenol (#37 on list, moderate evidence); ceramide np (#39 on list, moderate evidence); allantoin (#40 on list, limited evidence); betaine salicylate (#45 on list, moderate evidence); ascorbic acid (#46 on list, strong evidence); ascorbyl glucoside (#47 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, alpha-arbutin #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/a/r/250-peach-77-niacin-essence-toner-for-men-and-woman-anua-original-imahjrjx3gp4fh6n.jpeg?q=90",
@@ -181145,7 +182660,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -181154,27 +182672,167 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Peach 77 Niacin Essence Toner",
+   "inciMatchScore": 1,
+   "inciText": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "galactomyces ferment filtrate",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 45,
+     "core": true,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 47,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "propanediol",
+    "squalane",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -181254,6 +182912,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -181308,16 +182968,18 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹106/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); panthenol high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.4
   },
   "fullSpec": {
@@ -181334,13 +182996,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (18 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciMatchedName": "Heartleaf 77 Soothing Toner (name match 100%)",
+   "inciList": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); sodium hyaluronate (#18 on list, moderate evidence); hydrolyzed hyaluronic acid (#20 on list, moderate evidence); sodium acetylated hyaluronate (#21 on list, moderate evidence); hyaluronic acid (#22 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 18 ratings"
+   "buyerEvidence": "3.9★ from 18 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/o/0/250-heartleaf-77-soothing-toner-for-anua-original-imahf6uxzadygpza.jpeg?q=90",
@@ -181368,7 +183033,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -181377,25 +183045,89 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/heartleaf-77-soothing-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Heartleaf 77 Soothing Toner",
+   "inciMatchScore": 1,
+   "inciText": "Houttuynia Cordata Flower/Leaf/Stem Water, Water, 1,2-Hexanediol, Glycerin, Betaine, Butylene Glycol, Isopentyldiol, Panthenol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium EDTA, Tromethamine, Centella Asiatica Extract, Arctium Lappa Root Extract, Phellinus Linteus Extract, Portulaca Oleracea Extract, Chamomilla Recutita (Matricaria) Flower Extract, Vitex Agnus-Castus Extract, Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Hydrolyzed Hyaluronic Acid, Sodium Acetylated Hyaluronate, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "panthenol",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -181479,6 +183211,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -181527,9 +183260,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "park-itm363c130ab8a0d",
-  "brand": "Park",
-  "model": "DANIEL Deep Cleansing Neem Face Toner for Pure and Fresh Ski …",
+  "id": "park-daniel-itm363c130ab8a0d",
+  "brand": "Park Daniel",
+  "model": "Deep Cleansing Neem Face Toner for Pure and Fresh Ski …",
   "price": 352,
   "capacityLine": "100 ml",
   "materialLine": "neem",
@@ -181700,6 +183433,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:lightweight",
+   "claim:odour",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -181928,6 +183663,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:large",
@@ -182244,6 +183980,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -182455,6 +184192,7 @@ const CTPRODUCTS = [
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:acne",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -182564,6 +184302,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -182997,6 +184736,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -183226,6 +184966,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -183829,110 +185570,6 @@ const CTPRODUCTS = [
     "url": "https://marico.com/india/brands"
    },
    "buyers": "4.2★ from 1,366 ratings"
-  }
- },
- {
-  "id": "plum-itma6430c0a9c985",
-  "brand": "Plum",
-  "model": "Niacinamide & Rice Water Moisturizer & Toner Duo + Brighteni …",
-  "price": 679,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "niacinamide + rice water",
-  "featureLine": "Sunscreen",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 325 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 6.7
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "keyIngredients": "niacinamide, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (325 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 325 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/h/t/z/niacinamide-rice-water-moisturizer-toner-duo-free-brightening-original-imahfczyrjy4wxny.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/9/j/165-3-niacinamide-rice-water-toner-vanilla-vibes-refreshing-original-imahcshyggvr8dfz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/t/7/l/165-3-niacinamide-rice-water-toner-vanilla-vibes-refreshing-original-imahcshybcedpcum.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/e/c/niacinamide-rice-water-moisturizer-toner-duo-free-brightening-original-imahfczycvfbnppv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/4/c/r/2-niacinamide-rice-water-gel-cream-moisturizer-50g-sunscreen-spf-original-imahfbgzd8mztyrk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/plum-niacinamide-rice-water-moisturizer-toner-duo-brightening-sunscreen/p/itma6430c0a9c985",
-  "buyStore": "Flipkart",
-  "title": "Plum Niacinamide & Rice Water Moisturizer & Toner Duo + Brighteni …",
-  "tags": [
-   "scope:unstated",
-   "format:toner",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:hydrating",
-   "aud:women",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pureplay Skin Sciences",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://plumgoodness.com/"
-   },
-   "buyers": "4.4★ from 325 ratings"
   }
  },
  {
@@ -184772,6 +186409,7 @@ const CTPRODUCTS = [
    "format:pads",
    "format:wash",
    "claim:brightening",
+   "claim:makeup",
    "free:vegan",
    "aud:women",
    "rating:none",
@@ -184983,6 +186621,7 @@ const CTPRODUCTS = [
    "format:wash",
    "claim:brightening",
    "claim:pores",
+   "claim:makeup",
    "free:vegan",
    "aud:women",
    "rating:none",
@@ -185089,6 +186728,7 @@ const CTPRODUCTS = [
    "format:wash",
    "claim:brightening",
    "claim:oil-control",
+   "claim:cooling",
    "free:vegan",
    "aud:women",
    "rating:none",
@@ -185409,6 +187049,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:makeup",
    "free:vegan",
    "aud:women",
    "rating:none",
@@ -185653,111 +187294,6 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itmb75f0f710034d",
-  "brand": "Anua",
-  "model": "Rice 70+ ceramides milky toner 250 ml+ PEACH NIACIN SERUM 70 …",
-  "price": 849,
-  "capacityLine": "250 ml",
-  "materialLine": "niacinamide + ceramides + rice water",
-  "featureLine": "Wash / cleanser · ₹340/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹340/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "niacinamide, ceramides, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/u/0/280-70-ceramides-milky-toner-250ml-peach-niacin-serum-30ml-anua-original-imahp8hrzgg4tpaz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-rice-70-ceramides-milky-toner-250-ml-peach-niacin-serum-70-30-ml/p/itmb75f0f710034d",
-  "buyStore": "Flipkart",
-  "title": "ANUA Rice 70+ ceramides milky toner 250 ml+ PEACH NIACIN SERUM 70 …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:hydrating",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rice Extract, Niacinamide, Hydrating Ingredients, Skin-Nourishing Ingredients.",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -186113,7 +187649,7 @@ const CTPRODUCTS = [
  {
   "id": "divah-s-itma187afeff0024",
   "brand": "Divah’s",
-  "model": "Glow Mist Korean Rice Face Toner | Niacinamide & Vitamin …",
+  "model": "Glow Mist Korean Rice Face Toner | Niacinamide & Vitamin E | Men & Women 100ml Men & Women",
   "price": 400,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + rice water + vitamin E",
@@ -186163,12 +187699,11 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/divahs-glow-mist-korean-rice-face-toner-niacinamide-vitamin-e-men-women-100ml/p/itma187afeff0024",
   "buyStore": "Flipkart",
-  "title": "Divah’s Glow Mist Korean Rice Face Toner | Niacinamide & Vitamin …",
+  "title": "Divah’s Glow Mist Korean Rice Face Toner | Niacinamide & Vitamin E | Men & Women 100ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -186266,7 +187801,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); allantoin (#6 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/n/x/t/100-korean-rice-toner-for-face-deep-hydration-skin-brightening-original-imahzf56bgvx2yxa.jpeg?q=90",
@@ -186291,6 +187827,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -186298,6 +187835,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -186330,6 +187869,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -186337,6 +187877,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -186344,6 +187885,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -186351,6 +187893,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -186449,6 +187992,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -186667,6 +188211,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -187111,6 +188656,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187223,6 +188769,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187336,6 +188883,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187452,6 +189000,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187566,6 +189115,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187686,6 +189236,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -187737,7 +189288,7 @@ const CTPRODUCTS = [
  {
   "id": "sneira-itmff75991f8e89c",
   "brand": "SNEIRA",
-  "model": "HydroBalance Toner Mist For Pore Tightening Glowing Skin K …",
+  "model": "HydroBalance Toner Mist For Pore Tightening Glowing Skin Korean Beauty Men Women Men & Wom…",
   "price": 1186,
   "capacityLine": "60 g",
   "materialLine": "rice water + rose + vitamin E",
@@ -187786,7 +189337,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sneira-hydrobalance-toner-mist-pore-tightening-glowing-skin-korean-beauty-men-women/p/itmff75991f8e89c",
   "buyStore": "Flipkart",
-  "title": "SNEIRA HydroBalance Toner Mist For Pore Tightening Glowing Skin K …",
+  "title": "SNEIRA HydroBalance Toner Mist For Pore Tightening Glowing Skin Korean Beauty Men Women Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -187916,6 +189467,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -188027,6 +189579,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -188254,6 +189807,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -188305,7 +189859,7 @@ const CTPRODUCTS = [
  {
   "id": "bfw-itm24023dc711b1a",
   "brand": "BFW",
-  "model": "Pure Korean Rose Water Face Mist Toner 100ml All Skin Type Me …",
+  "model": "cjq Pure Korean Rose Water Face Mist Toner 100ml All Skin Type Men & Women",
   "price": 143,
   "capacityLine": "100 ml",
   "materialLine": "rice water + rose",
@@ -188354,7 +189908,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/cjq-pure-korean-rose-water-face-mist-toner-100ml-all-skin-type-men-women/p/itm24023dc711b1a",
   "buyStore": "Flipkart",
-  "title": "BFW Pure Korean Rose Water Face Mist Toner 100ml All Skin Type Me …",
+  "title": "cjq Pure Korean Rose Water Face Mist Toner 100ml All Skin Type Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -188366,6 +189920,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -188610,6 +190165,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -189051,6 +190607,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -189271,6 +190828,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -189381,6 +190939,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -189613,6 +191172,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -189724,6 +191284,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -189834,6 +191396,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -190073,6 +191636,8 @@ const CTPRODUCTS = [
    "claim:no-white-cast",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -190184,6 +191749,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -190634,7 +192200,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#1 on list, strong evidence); glycerin (#5 on list, strong evidence); panthenol (#7 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #1 on INCI; Dark spots — niacinamide #1 on INCI; Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/j/y/200-khadi-rice-water-alcohol-free-toner-pack-of-2-tightens-pores-original-imahna88wakw5kty.jpeg?q=90",
@@ -190664,6 +192231,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -190672,6 +192240,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -190705,6 +192276,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -190712,6 +192284,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -190719,6 +192292,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -191033,6 +192607,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -191262,6 +192837,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:alcohol",
@@ -191382,6 +192958,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -191499,6 +193076,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:oil-free",
@@ -191609,6 +193187,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -191727,6 +193306,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -193300,6 +194880,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:rose",
    "ing:cucumber",
+   "ing:alum",
    "claim:ayurvedic",
    "skin:all",
    "free:paraben",
@@ -193419,6 +195000,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -193764,6 +195346,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -193979,7 +195562,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "EORA Rice Toner for Brightening & Anti-Aging | Niacinamide + Hyal …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:toner",
    "format:mist",
@@ -193995,6 +195578,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:oil-control",
    "claim:lightweight",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -194277,7 +195861,7 @@ const CTPRODUCTS = [
  {
   "id": "broklay-london-itmd3245b0c863c3",
   "brand": "BROKLAY LONDON",
-  "model": "Beauty White Lotus Refreshing Face Mist & Toner 10 …",
+  "model": "Beauty White Lotus Refreshing Face Mist & Toner 100ml Men & Women",
   "price": 209,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + PHA + rose",
@@ -194326,7 +195910,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/broklay-london-beauty-white-lotus-refreshing-face-mist-toner-100ml-men-women/p/itmd3245b0c863c3",
   "buyStore": "Flipkart",
-  "title": "BROKLAY LONDON Beauty White Lotus Refreshing Face Mist & Toner 10 …",
+  "title": "BROKLAY LONDON Beauty White Lotus Refreshing Face Mist & Toner 100ml Men & Women",
   "tags": [
    "scope:face",
    "format:toner",
@@ -194345,6 +195929,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -194570,6 +196155,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -194678,6 +196264,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "ing:centella-cica",
    "ing:rose",
+   "ing:chamomile",
    "claim:soothing",
    "claim:exfoliating",
    "free:paraben",
@@ -194728,7 +196315,7 @@ const CTPRODUCTS = [
  {
   "id": "from-itm9d4d8865df554",
   "brand": "from",
-  "model": "negative Cica Extract Niacinamide & Hyaluronic Acid Toner Mi …",
+  "model": "negative Cica Extract Niacinamide & Hyaluronic Acid Toner Mist Men & Women",
   "price": 350,
   "capacityLine": "600 ml (pack of 3)",
   "materialLine": "niacinamide + PHA + hyaluronic acid",
@@ -194766,6 +196353,7 @@ const CTPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "BO International, 884 Udyog Vihar, Phase 5, Gurugram, Haryana 122016 (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
@@ -194777,7 +196365,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/negative-cica-extract-niacinamide-hyaluronic-acid-toner-mist-men-women/p/itm9d4d8865df554",
   "buyStore": "Flipkart",
-  "title": "from negative Cica Extract Niacinamide & Hyaluronic Acid Toner Mi …",
+  "title": "from negative Cica Extract Niacinamide & Hyaluronic Acid Toner Mist Men & Women",
   "tags": [
    "scope:face",
    "format:gel",
@@ -194952,6 +196540,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -194959,6 +196548,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -194966,6 +196556,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -194973,6 +196564,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -194980,6 +196572,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -194987,6 +196580,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -195097,6 +196691,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -195218,6 +196813,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "free:vegan",
@@ -195449,6 +197045,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -195679,6 +197277,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -195797,6 +197396,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:no-white-cast",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -196017,6 +197617,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -197549,7 +199150,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -197669,6 +199269,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:scars",
    "skin:all",
    "free:alcohol",
    "aud:unisex",
@@ -197775,6 +199376,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "aud:women",
    "size:large",
@@ -197880,6 +199482,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -197975,7 +199578,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -197989,6 +199591,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:scars",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:normal",
@@ -198100,6 +199704,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:overnight",
+   "claim:cooling",
    "skin:all",
    "free:non-comedogenic",
    "aud:women",
@@ -198418,12 +200024,14 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:cucumber",
    "ing:licorice",
+   "ing:chamomile",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:makeup",
    "skin:oily",
    "aud:women",
    "size:large",
@@ -198520,7 +200128,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:aha",
    "ing:vitamin-e",
@@ -198528,6 +200135,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -198639,6 +200247,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "aud:women",
    "size:large",
@@ -198945,6 +200554,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -199052,6 +200662,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:4.0",
@@ -199157,6 +200768,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -199261,6 +200873,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "aud:unisex",
    "size:xl",
@@ -199584,6 +201197,7 @@ const CTPRODUCTS = [
    "ing:petrolatum",
    "ing:rosehip",
    "ing:mineral-oil",
+   "ing:lanolin",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -199803,6 +201417,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "aud:women",
    "size:xl",
@@ -199846,105 +201461,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f6tjbrx6",
-  "brand": "Unbranded",
-  "model": "Glycolic Acid liquid 70% Exfoliating Cleanser and Toner, 200ml, Cosmetic Grade",
-  "price": 350,
-  "capacityLine": "200 ml",
-  "materialLine": "glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹175/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹175/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/6188aPqMdpL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F6TJBRX6",
-  "buyStore": "Amazon",
-  "title": "Glycolic Acid liquid 70% Exfoliating Cleanser and Toner, 200ml, Cosmetic Grade",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:patch",
-   "format:wash",
-   "ing:glycolic-acid",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
   }
  },
  {
@@ -200112,6 +201628,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
    "skin:oily",
    "aud:women",
    "size:large",
@@ -200208,7 +201725,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -200217,6 +201733,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -200323,6 +201840,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -200530,6 +202048,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dry-skin-relief",
+   "claim:odour",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -200633,6 +202152,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -200950,6 +202470,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:sensitive",
    "skin:acne-prone",
@@ -201064,6 +202586,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:kp",
    "claim:lightweight",
+   "claim:odour",
    "free:derm",
    "aud:unisex",
    "size:large",
@@ -201153,7 +202676,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#3 on list, moderate evidence); glycolic acid (#5 on list, strong evidence); lactic acid (#6 on list, strong evidence); glycerin (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AapcgnboL._AC_UL320_.jpg"
@@ -201164,7 +202688,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:mandelic-acid",
    "claim:dark-spots",
@@ -201175,6 +202698,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -201209,6 +202733,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -201216,6 +202741,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -201223,6 +202749,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -201230,6 +202757,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -201411,10 +202939,12 @@ const CTPRODUCTS = [
    "ing:collagen",
    "ing:aloe-vera",
    "ing:lemon",
+   "ing:sugar",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -201730,6 +203260,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "skin:sensitive",
    "skin:all",
    "free:vegan",
@@ -201837,6 +203368,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:pores",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -201955,6 +203487,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:odour",
    "free:vegan",
    "free:ph-balanced",
    "aud:unisex",
@@ -202262,7 +203795,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -202272,6 +203804,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:scars",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -202436,16 +203970,18 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "niacinamide + glycolic acid + kojic acid",
   "featureLine": "Scrub / exfoliant · ₹1200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycolic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Essential oil / volatile sensitiser: lavandula angustifolia oil, citrus aurantium bergamia fruit oil",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.6,
+   "skin": 6.3,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -202462,13 +203998,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://medicube.us/products/kojic-acid-turmeric-toner",
+   "inciMatchedName": "Kojic Acid Turmeric Toner (name match 94%)",
+   "inciList": "Water, Niacinamide, Glycolic Acid, 1,2-Hexanediol, Sodium Hydroxide, C12-14 Alketh-12, Curcuma Longa (Turmeric) Root Extract, Ethylhexylglycerin, Gardenia Florida Fruit Extract, Adenosine, Dextrin, Kojic Acid, Monascus Extract, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Allantoin, Panthenol, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Magnolia Officinalis Bark Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Ceramide NP, Hydroxypropyltrimonium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); glycolic acid (#3 on list, strong evidence); allantoin (#15 on list, limited evidence); panthenol (#16 on list, moderate evidence); glycerin (#17 on list, strong evidence); sodium hyaluronate (#22 on list, moderate evidence); ceramide np (#23 on list, moderate evidence); sodium acetylated hyaluronate (#25 on list, moderate evidence); hydrolyzed hyaluronic acid (#26 on list, moderate evidence); hyaluronic acid (#27 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: lavandula angustifolia oil, citrus aurantium bergamia fruit oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RghkAR71L._AC_UL320_.jpg"
@@ -202486,11 +204025,15 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -202499,27 +204042,152 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "medicube official website (medicube.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://medicube.us/products/kojic-acid-turmeric-toner",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Kojic Acid Turmeric Toner",
+   "inciMatchScore": 0.94,
+   "inciText": "Water, Niacinamide, Glycolic Acid, 1,2-Hexanediol, Sodium Hydroxide, C12-14 Alketh-12, Curcuma Longa (Turmeric) Root Extract, Ethylhexylglycerin, Gardenia Florida Fruit Extract, Adenosine, Dextrin, Kojic Acid, Monascus Extract, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Allantoin, Panthenol, Glycerin, Butylene Glycol, Caprylic/Capric Triglyceride, Magnolia Officinalis Bark Extract, Hydrogenated Lecithin, Sodium Hyaluronate, Ceramide NP, Hydroxypropyltrimonium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Potassium Hyaluronate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "panthenol",
+    "glycerin",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "ceramide np",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "lavandula angustifolia oil",
+      "citrus aurantium bergamia fruit oil"
+     ],
+     "penalty": 1,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -202693,6 +204361,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -202791,6 +204460,7 @@ const CTPRODUCTS = [
    "ing:glycolic-acid",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:low",
@@ -202984,7 +204654,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycolic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); niacinamide (#5 on list, strong evidence); allantoin (#24 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-ExDF4VnL._AC_UL320_.jpg"
@@ -202995,7 +204666,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:witch-hazel",
@@ -203007,6 +204677,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -203019,6 +204690,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -203053,6 +204726,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -203060,6 +204734,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -203067,6 +204742,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -203074,6 +204750,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -203312,108 +204989,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0dgtbvzt7",
-  "brand": "Unbranded",
-  "model": "70% Glycolic Acid and 88% Lactic Acid combo for Making DIY Skin Care - Toner, Soap, Serum …",
-  "price": 372,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "glycolic acid + lactic acid",
-  "featureLine": "Scrub / exfoliant · ₹186/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹186/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid, lactic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61pPivE4qqL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DGTBVZT7",
-  "buyStore": "Amazon",
-  "title": "70% Glycolic Acid and 88% Lactic Acid combo for Making DIY Skin Care - Toner, Soap, Serum (Cosmetic-Grade Solutions)100ml Each (Pack of 2)",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:peel",
-   "format:bar",
-   "format:wash",
-   "format:kit",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0gdg5f88x",
   "brand": "Unbranded",
   "model": "Rice Water Face Toner with Glycolic Acid & Vitamin C for Dewy Skin, Hydration, Pore Refini…",
@@ -203475,6 +205050,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -203628,106 +205204,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "minimalist-b0h1mq2rn9",
-  "brand": "Minimalist",
-  "model": "Underarm Care Duo | Glycolic Acid Toner + Nonapeptide Roll On | Daily Underarm Care & Fres…",
-  "price": 767,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "glycolic acid + peptides",
-  "featureLine": "Toner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Toner",
-   "keyIngredients": "glycolic acid, peptides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61UKvsbSDAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1MQ2RN9",
-  "buyStore": "Amazon",
-  "title": "Minimalist Underarm Care Duo | Glycolic Acid Toner + Nonapeptide Roll On | Daily Underarm Care & Freshness Routine | For Women & Men",
-  "tags": [
-   "scope:body",
-   "format:toner",
-   "format:roll-on",
-   "ing:glycolic-acid",
-   "ing:peptides",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "glamveda-b0hh3ydylc",
   "brand": "Glamveda",
   "model": "Rice PDRN Toner Pads with Glycolic Acid & Niacinamide | Exfoliating Facial Pads for Smooth…",
@@ -203786,6 +205262,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:glycerin",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -203887,7 +205364,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -203899,6 +205375,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -204010,6 +205487,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -204172,107 +205650,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "minimalist-b0h1mn7rkn",
-  "brand": "Minimalist",
-  "model": "Body Cleansing & Exfoliation Duo | Salicylic Acid Body Wash + Glycolic Acid Toner | Daily …",
-  "price": 724,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + glycolic acid",
-  "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61AYIIdwKML._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1MN7RKN",
-  "buyStore": "Amazon",
-  "title": "Minimalist Body Cleansing & Exfoliation Duo | Salicylic Acid Body Wash + Glycolic Acid Toner | Daily Body Care for Smooth & Refreshed Skin | For Women & Men",
-  "tags": [
-   "scope:body",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "beoman-b0c6b4zndd",
   "brand": "Beoman",
   "model": "2 in 1 detan toner+serum 5% niacinamide 2% lactic acid 2% glycolic acid hydrates skin|brig…",
@@ -204376,333 +205753,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0cjq95ry5",
-  "brand": "Unbranded",
-  "model": "Deep Clean Face Wash + Deep Cleansing & Hydrating Face Toner| With Glycolic Acid, Hyaluron…",
-  "price": 719,
-  "capacityLine": "100 ml",
-  "materialLine": "niacinamide + glycolic acid + hyaluronic acid",
-  "featureLine": "Wash / cleanser · ₹719/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹719/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "niacinamide, glycolic acid, hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51fY0dN6gsL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CJQ95RY5",
-  "buyStore": "Amazon",
-  "title": "Deep Clean Face Wash + Deep Cleansing & Hydrating Face Toner| With Glycolic Acid, Hyaluronic Acid & Vitamin-B5 + Niacinamide| For glowing, hydrated skin -100mL + 100 mL",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:glycolic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "skin:all",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vinr-b0fyy5ngg8",
-  "brand": "VINR",
-  "model": "Glycolic Acid Face Toner + Vitamin C Face Wash + Vitamin C Moisturizer | Dullness Reductio…",
-  "price": 999,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C + glycolic acid",
-  "featureLine": "Scrub / exfoliant · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "vitamin C, glycolic acid (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/618nr--XjPL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FYY5NGG8",
-  "buyStore": "Amazon",
-  "title": "VINR Glycolic Acid Face Toner + Vitamin C Face Wash + Vitamin C Moisturizer | Dullness Reduction, Even Tone & Smooth Skin | Brightening & Glow Skincare Combo | For Men & Women",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:dry-skin-relief",
-   "skin:oily",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "free:non-comedogenic",
-   "free:sensitive-safe",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fg7ddrj1",
-  "brand": "Unbranded",
-  "model": "Skin Brightening Kit with Glycolic Acid Toner, Vitamin C Serum, Moisturiser, 3-Step Skinca…",
-  "price": 999,
-  "capacityLine": "150 ml",
-  "materialLine": "vitamin C + salicylic acid (BHA) + glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹666/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹666/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "vitamin C, salicylic acid (BHA), glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71dsE5IZmrL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FG7DDRJ1",
-  "buyStore": "Amazon",
-  "title": "Skin Brightening Kit with Glycolic Acid Toner, Vitamin C Serum, Moisturiser, 3-Step Skincare Routine",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:toner",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "free:derm",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0fv8sp23k",
   "brand": "Unbranded",
   "model": "Rice Water Face Toner 100ml | Korean Skincare for Glass Skin | With Vitamin C, Glycolic Ac…",
@@ -204764,6 +205814,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:ph-balanced",
@@ -204913,441 +205964,6 @@ const CTPRODUCTS = [
     "url": "https://plumgoodness.com/"
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "pilgrim-b0hcdxzzym",
-  "brand": "Pilgrim",
-  "model": "Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Korean 1.5% Salicylic(Bha)…",
-  "price": 640,
-  "capacityLine": "100 ml",
-  "materialLine": "salicylic acid (BHA) + glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹640/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹640/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41aYNXa2H2L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDXZZYM",
-  "buyStore": "Amazon",
-  "title": "PILGRIM Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Korean 1.5% Salicylic(Bha) & 2% Glycolic Acid(Aha) Foaming Face Wash For Oily & Acne-Prone Skin",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:aha",
-   "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "claim:korean",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "pilgrim-b0hcdqdxs2",
-  "brand": "Pilgrim",
-  "model": "Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti …",
-  "price": 654,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + glycolic acid + aloe vera",
-  "featureLine": "Wash / cleanser · Alcohol-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid, aloe vera (per listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/5138nG5zm2L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDQDXS2",
-  "buyStore": "Amazon",
-  "title": "Pilgrim Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti Agein & Korean 1.5% Salicylic(Bha) & 2% Glycolic Acid(Aha) Foaming Face Wash For Oily & Acne-Prone Ski",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:aha",
-   "ing:aloe-vera",
-   "claim:acne",
-   "claim:korean",
-   "skin:oily",
-   "skin:acne-prone",
-   "free:alcohol",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0cjs3v2wv",
-  "brand": "Unbranded",
-  "model": "Deep Clean Face Wash+Deep Cleansing & Hydrating Face Toner+Anti-Wrinkle & Brightening Face…",
-  "price": 1118,
-  "capacityLine": "100 ml",
-  "materialLine": "vitamin C + niacinamide + glycolic acid",
-  "featureLine": "Wash / cleanser · ₹1118/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹1118/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "vitamin C, niacinamide, glycolic acid, hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Pc5Ooc4cL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CJS3V2WV",
-  "buyStore": "Amazon",
-  "title": "Deep Clean Face Wash+Deep Cleansing & Hydrating Face Toner+Anti-Wrinkle & Brightening Face Serum | With Glycolic Acid, Hyaluronic Acid, Vit.-B5 & Vit.-C + Niacinamide| 100mL+100mL+30mL",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:wash",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:glycolic-acid",
-   "ing:hyaluronic-acid",
-   "ing:collagen",
-   "ing:vitamin-b5-panthenol",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0cjs3bx4z",
-  "brand": "Unbranded",
-  "model": "Deep Clean Face Wash+Deep Cleansing & Hydrating Face Toner+Hydrating & Revitalizing face M…",
-  "price": 1118,
-  "capacityLine": "50 g",
-  "materialLine": "niacinamide + glycolic acid + hyaluronic acid",
-  "featureLine": "Wash / cleanser · ₹2236/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹2236/100g",
-   "format": "Wash / cleanser",
-   "keyIngredients": "niacinamide, glycolic acid, hyaluronic acid, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61P7OzFDBML._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CJS3BX4Z",
-  "buyStore": "Amazon",
-  "title": "Deep Clean Face Wash+Deep Cleansing & Hydrating Face Toner+Hydrating & Revitalizing face Moisturizer | With Glycolic Acid, Hyaluronic Acid, Vit.-B5 & Vit.-E + Niacinamide| 100mL+100 mL+50g",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:glycolic-acid",
-   "ing:hyaluronic-acid",
-   "ing:vitamin-e",
-   "ing:vitamin-b5-panthenol",
-   "claim:brightening",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:dry-skin-relief",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -205619,6 +206235,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:sensitive",
    "free:sensitive-safe",
    "aud:unisex",
@@ -205724,114 +206341,6 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:exfoliating",
    "skin:all",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "seoulskin-b0h8nn257c",
-  "brand": "Seoulskin",
-  "model": "Kojic Acid Skin Lightening Cream + Zero Pore Toner Pads Combo | Kojic Acid, Niacinamide & …",
-  "price": 749,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "niacinamide + salicylic acid (BHA) + kojic acid",
-  "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "niacinamide, salicylic acid (BHA), kojic acid, alpha arbutin (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/510Qed+xYmL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H8NN257C",
-  "buyStore": "Amazon",
-  "title": "Seoulskin Kojic Acid Skin Lightening Cream + Zero Pore Toner Pads Combo | Kojic Acid, Niacinamide & Alpha Arbutin Moisturizer | AHA BHA Exfoliating Toner Pads | For Pigmentation, Dark Spots, Blackhead",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:toner",
-   "format:pads",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "ing:kojic-acid",
-   "ing:alpha-arbutin",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -207156,6 +207665,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -207264,6 +207774,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -207471,6 +207982,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -207674,7 +208186,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:aha",
    "ing:pha",
    "claim:brightening",
@@ -208083,7 +208594,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence); camellia sinensis leaf extract (#7 on list, moderate evidence); centella asiatica extract (#8 on list, moderate evidence); allantoin (#10 on list, limited evidence); panthenol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41L356vdLgL._AC_UL320_.jpg"
@@ -208103,6 +208615,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -208137,6 +208651,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -208144,6 +208659,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -208151,6 +208667,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -208158,6 +208675,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -208165,6 +208683,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -208172,6 +208691,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -208289,107 +208809,6 @@ const CTPRODUCTS = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "pilgrim-b0hcdqvqr8",
-  "brand": "Pilgrim",
-  "model": "Korean 2% Alpha Arbutin & 3% Vitamin C Brightening Face Serum (Mini - 5 ml) for glowing sk…",
-  "price": 349,
-  "capacityLine": "5 ml",
-  "materialLine": "vitamin C + alpha arbutin",
-  "featureLine": "Toner · ₹6980/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "5 ml",
-   "pricePer100": "₹6980/100ml",
-   "format": "Toner",
-   "keyIngredients": "vitamin C, alpha arbutin (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41ET7nFrQ2L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDQVQR8",
-  "buyStore": "Amazon",
-  "title": "Pilgrim Korean 2% Alpha Arbutin & 3% Vitamin C Brightening Face Serum (Mini - 5 ml) for glowing skin & Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:mist",
-   "ing:vitamin-c",
-   "ing:alpha-arbutin",
-   "claim:brightening",
-   "claim:korean",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
    },
    "buyers": "No buyer ratings yet"
   }
@@ -208655,6 +209074,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:unisex",
    "size:standard",
@@ -209060,6 +209480,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:unisex",
    "size:standard",
@@ -209705,6 +210126,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -209712,6 +210134,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -209719,6 +210142,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -209726,6 +210150,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -209733,6 +210158,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -209810,6 +210236,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:odour",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -211042,6 +211469,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:odour",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -211293,117 +211721,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "acnestar-b0h4zt7ttr",
-  "brand": "Acnestar",
-  "model": "Anti-Acne Kit, Skincare Routine Kit for Unisex, Salicylic acid + Glycolic acid in Face Was…",
-  "price": 999,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA) + glycolic acid",
-  "featureLine": "Wash / cleanser",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Mankind Pharma (listed) (dermatology / pharma maker)"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Wash / cleanser",
-   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51EGabaHtkL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61adkiFZKoL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61u3S2pF71L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61UniiMWKYL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61vYGxJmFjL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4ZT7TTR",
-  "buyStore": "Amazon",
-  "title": "Acnestar Anti-Acne Kit, Skincare Routine Kit for Unisex, Salicylic acid + Glycolic acid in Face Wash, Azelaid acid Toner pads, and Hydrocolloid Pimple patch, Suitable for sensitive acne prone skin.",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:pads",
-   "format:patch",
-   "format:wash",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "claim:acne",
-   "claim:pores",
-   "claim:soothing",
-   "skin:sensitive",
-   "skin:acne-prone",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Mankind Pharma (listed)",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.mankindpharma.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "sereko-b0dy4z986p",
   "brand": "SEREKO",
   "model": "Vitamin C Clarifying Face Toner with Niacinamide, Refreshing Spray Mist with Glycolic Acid…",
@@ -211468,6 +211785,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:oily",
    "skin:sensitive",
    "skin:acne-prone",
@@ -211572,7 +211891,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:glycolic-acid",
    "claim:acne",
@@ -211677,7 +211995,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:glycolic-acid",
    "claim:acne",
@@ -211782,7 +212099,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:glycolic-acid",
    "claim:acne",
@@ -211887,7 +212203,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:glycolic-acid",
    "claim:acne",
@@ -212115,6 +212430,7 @@ const CTPRODUCTS = [
    "ing:licorice",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
+   "ing:chamomile",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -212228,6 +212544,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:derm",
    "aud:unisex",
@@ -212334,12 +212651,14 @@ const CTPRODUCTS = [
    "ing:licorice",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
+   "ing:copper-peptide",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:acne-prone",
@@ -212386,115 +212705,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "seasoul-b0dx259xs3",
-  "brand": "SeaSoul",
-  "model": "Deadsea Brightening Skin Combo - Pha Face Toner, Aha Foam Cleanser and Skin Clearifying Se…",
-  "price": 1328,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "niacinamide + glycolic acid + PHA",
-  "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "niacinamide, glycolic acid, PHA (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51tzevO3+XL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DX259XS3",
-  "buyStore": "Amazon",
-  "title": "SeaSoul Deadsea Brightening Skin Combo - Pha Face Toner, Aha Foam Cleanser and Skin Clearifying Serum | With Niacinamide, Glycolic Acid & Azelaic Acid | 3-Step Skincare Routine Kit SEA SOUL",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:pads",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:glycolic-acid",
-   "ing:aha",
-   "ing:pha",
-   "ing:azelaic-acid",
-   "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -212549,7 +212759,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -212561,6 +212770,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
+   "claim:makeup",
    "skin:all",
    "free:silicone",
    "free:ph-balanced",
@@ -212665,6 +212876,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:alcohol",
    "free:derm",
@@ -212779,6 +212991,8 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:korean",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -212889,6 +213103,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -213113,6 +213328,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -213214,7 +213430,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
@@ -213228,6 +213443,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -213330,7 +213546,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -213346,6 +213561,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:scars",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -213662,7 +213878,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#3 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, sodium ascorbyl phosphate #8 on INCI; Aging — adenosine #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yvnw-cxQL._AC_UL320_.jpg"
@@ -213683,6 +213900,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:vegan",
@@ -213691,6 +213909,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -213725,6 +213946,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -213732,6 +213954,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -213739,6 +213962,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -213746,6 +213970,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -213753,6 +213978,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -213841,6 +214067,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:scars",
    "free:vegan",
    "free:ph-balanced",
    "aud:women",
@@ -214155,6 +214382,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:travel",
@@ -214257,6 +214485,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "ing:rose",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -214266,6 +214495,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -214314,23 +214544,25 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b09c27vxls",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Centella Tone Brightening Boosting Toner | Mild Exfoliating Toner with Niacinamid…",
+  "id": "skin1004-b09c27vxls",
+  "brand": "Skin1004",
+  "model": "Centella Tone Brightening Boosting Toner | Mild Exfoliating Toner with Niacinamide & Madec…",
   "price": 1444,
   "capacityLine": "210 ml",
   "materialLine": "niacinamide + centella/cica",
   "featureLine": "Scrub / exfoliant · ₹688/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -214347,13 +214579,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-tone-brightening-boosting-toner",
+   "inciMatchedName": "Tone Brightening Boosting Toner (name match 100%)",
+   "inciList": "Water, 1,2-Hexanediol, Niacinamide, Pentylene Glycol, Butylene Glycol, Glycerin, Propanediol, Centella Asiatica Extract, Xanthan Gum, Panthenol, Allantoin, Betaine, Ethylhexylglycerin, Xylitylglucoside, Anhydroxylitol, Disodium EDTA, Xylitol, Madecassoside, Glucose, Carica Papaya (Papaya) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Prunus Mume Fruit Extract, Vitis Vinifera (Grape) Fruit Extract, 3-O-Ethyl Ascorbic Acid, Caprylic/Capric Triglyceride",
+   "evidenceActives": "niacinamide (#3 on list, strong evidence); glycerin (#6 on list, strong evidence); centella asiatica extract (#8 on list, moderate evidence); panthenol (#10 on list, moderate evidence); allantoin (#11 on list, limited evidence); madecassoside (#18 on list, moderate evidence); 3-o-ethyl ascorbic acid (#24 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — centella asiatica extract #8 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HmiPV+vxL._AC_UL320_.jpg"
@@ -214376,7 +214611,12 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -214385,25 +214625,88 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Skin1004 official website (skin1004.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skin1004.com/products/skin1004-madagascar-centella-tone-brightening-boosting-toner",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Tone Brightening Boosting Toner",
+   "inciMatchScore": 1,
+   "inciText": "Water, 1,2-Hexanediol, Niacinamide, Pentylene Glycol, Butylene Glycol, Glycerin, Propanediol, Centella Asiatica Extract, Xanthan Gum, Panthenol, Allantoin, Betaine, Ethylhexylglycerin, Xylitylglucoside, Anhydroxylitol, Disodium EDTA, Xylitol, Madecassoside, Glucose, Carica Papaya (Papaya) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Prunus Mume Fruit Extract, Vitis Vinifera (Grape) Fruit Extract, 3-O-Ethyl Ascorbic Acid, Caprylic/Capric Triglyceride",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 24,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "panthenol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -214581,6 +214884,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:ph-balanced",
    "aud:unisex",
@@ -214678,7 +214982,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:vitamin-c",
    "ing:watermelon",
    "claim:brightening",
@@ -214688,6 +214991,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
+   "claim:makeup",
    "skin:sensitive",
    "free:alcohol",
    "free:sensitive-safe",
@@ -214797,6 +215102,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "free:alcohol",
    "aud:unisex",
    "size:travel",
@@ -214886,7 +215192,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); oryza sativa extract (#4 on list, limited evidence); camellia sinensis leaf extract (#7 on list, moderate evidence); centella asiatica extract (#8 on list, moderate evidence); allantoin (#10 on list, limited evidence); panthenol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41L356vdLgL._AC_UL320_.jpg"
@@ -214908,6 +215215,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:sensitive",
    "skin:all",
@@ -214918,6 +215226,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -214952,6 +215262,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -214959,6 +215270,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -214966,6 +215278,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -214973,6 +215286,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -214980,6 +215294,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -214987,6 +215302,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -215059,6 +215375,8 @@ const CTPRODUCTS = [
    "format:toner",
    "ing:niacinamide",
    "ing:pha",
+   "ing:magnesium",
+   "ing:sea-salt",
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
@@ -215066,6 +215384,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -215492,6 +215811,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:scars",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -215594,6 +215914,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
+   "claim:makeup",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -215810,6 +216132,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -216072,104 +216395,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "minimalist-b0h1mxh871",
-  "brand": "Minimalist",
-  "model": "Freshness & Skin Care Duo | Nonapeptide Roll On + PHA 3% Biotic Toner | Daily Underarm & S…",
-  "price": 665,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "PHA + peptides",
-  "featureLine": "Toner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Toner",
-   "keyIngredients": "PHA, peptides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61oSKX+z3ZL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1MXH871",
-  "buyStore": "Amazon",
-  "title": "Minimalist Freshness & Skin Care Duo | Nonapeptide Roll On + PHA 3% Biotic Toner | Daily Underarm & Skin Care Routine | For Women & Men",
-  "tags": [
-   "scope:body",
-   "format:toner",
-   "format:roll-on",
-   "ing:pha",
-   "ing:peptides",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "dry-b0f7m1gpfl",
   "brand": "Dry",
   "model": "Skin, Gamechangers Skincare Routine Kit for Unisex | Alpha Lipoic Cleanser, Hyaluronic Ser…",
@@ -216343,6 +216568,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:broad-spectrum",
    "claim:spf-claim",
+   "claim:cooling",
    "skin:mature",
    "aud:unisex",
    "rating:3.5",
@@ -216353,126 +216579,6 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "saturn-b09r1tyfxk",
-  "brand": "Saturn",
-  "model": "by GHC Skin Care Combo 5% Vitamin C Serum and Face Toner (150 ml) | Powered With Retinol &…",
-  "price": 341,
-  "capacityLine": "750 ml (pack of 5)",
-  "materialLine": "vitamin C + niacinamide + retinol",
-  "featureLine": "Toner · Paraben-free · ₹45/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 5 pack",
-   "pricePer100": "₹45/100ml",
-   "format": "Toner",
-   "keyIngredients": "vitamin C, niacinamide, retinol, PHA, hyaluronic acid, turmeric, clay/mud (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/514wy+hRoXL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09R1TYFXK",
-  "buyStore": "Amazon",
-  "title": "Saturn by GHC Skin Care Combo 5% Vitamin C Serum and Face Toner (150 ml) | Powered With Retinol & PHA for Skin Glow Pore Tightening & Reduces Dark Spots | SLS-Free | Paraben Free | 100% Vegan | Suitable for all Skin Types",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:balm",
-   "format:clay-mask",
-   "format:pads",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "ing:pha",
-   "ing:hyaluronic-acid",
-   "ing:turmeric",
-   "ing:clay",
-   "ing:cocoa-butter",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:oily",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "free:vegan",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
    "derm": false,
    "men": false,
    "women": false,
@@ -216725,120 +216831,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "saturn-b09x5bmkr9",
-  "brand": "Saturn",
-  "model": "by GHC Gloww Skin Serum (30 ml), Face Toner (150 ml) 2% Salsylic Acid & Foaming Face Wash …",
-  "price": 699,
-  "capacityLine": "90 ml (pack of 3)",
-  "materialLine": "vitamin C + retinol + PHA",
-  "featureLine": "Wash / cleanser · ₹777/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 3 pack",
-   "pricePer100": "₹777/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "vitamin C, retinol, PHA, hyaluronic acid, aloe vera, rose, witch hazel (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ZXEVH+-uL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09X5BMKR9",
-  "buyStore": "Amazon",
-  "title": "Saturn by GHC Gloww Skin Serum (30 ml), Face Toner (150 ml) 2% Salsylic Acid & Foaming Face Wash With Built-In Face Brush (120 ml), Powered With Retinol, PHA & Aloe Vera for Pore Tightens & Acne-Prone Skin Tone - (Combo Pack of 3)",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:retinol",
-   "ing:pha",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:rose",
-   "ing:witch-hazel",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
   "id": "seasoul-b0dvpnnxqy",
   "brand": "SeaSoul",
   "model": "Dead Sea Dry Skin Care Combo - Pack of 4 | Cleanser, Toner, Moisturizer & Serum with AHA, …",
@@ -216891,12 +216883,12 @@ const CTPRODUCTS = [
    "format:foam",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
    "ing:aha",
    "ing:pha",
+   "ing:sea-salt",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -217111,6 +217103,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -217219,6 +217212,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:aha",
    "ing:pha",
+   "ing:sea-salt",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -217242,130 +217236,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "saturn-b0d174k1vn",
-  "brand": "Saturn",
-  "model": "by ghc Skin Care Kit, Foaming face Wash (120ml) Face Toner (150ml) Anti Ageing Serum (30ml…",
-  "price": 359,
-  "capacityLine": "120 ml",
-  "materialLine": "vitamin C + niacinamide + PHA",
-  "featureLine": "Wash / cleanser · ₹299/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹299/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "vitamin C, niacinamide, PHA, hyaluronic acid, tea tree, aloe vera, turmeric, rose, clay/mud (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71rDey24NXL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D174K1VN",
-  "buyStore": "Amazon",
-  "title": "saturn by ghc Skin Care Kit, Foaming face Wash (120ml) Face Toner (150ml) Anti Ageing Serum (30ml), Helps to Control Wrinkles and Dark Spots (3 Items in the set)",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "format:balm",
-   "format:clay-mask",
-   "format:peel",
-   "format:bar",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:pha",
-   "ing:hyaluronic-acid",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "ing:turmeric",
-   "ing:rose",
-   "ing:clay",
-   "ing:cocoa-butter",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:oily",
-   "skin:acne-prone",
-   "free:sulfate",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -217501,23 +217371,23 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-beauty-b0bbr3cyb8",
-  "brand": "[Beauty",
-  "model": "of Joseon] Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Ex…",
+  "id": "beauty-of-joseon-b0bbr3cyb8",
+  "brand": "Beauty of Joseon",
+  "model": "Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Exfoliation, …",
   "price": 1350,
   "capacityLine": "150 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid",
   "featureLine": "Scrub / exfoliant · ₹900/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); glycolic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
   ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7.7,
+   "skin": 9,
+   "trust": 7,
    "experience": 3.8
   },
   "fullSpec": {
@@ -217534,20 +217404,23 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/green-plum-refreshing-toner-aha-bha",
+   "inciMatchedName": "Green Plum Refreshing Toner : AHA + BHA (name match 100%)",
+   "inciList": "Water, Prunus Mume Fruit Water, Dipropylene Glycol, Glycerin, Glycolic Acid, Butylene Glycol, Tromethamine, 1,2-Hexanediol, Hydroxyacetophenone, Salicylic Acid, Ethylhexylglycerin, Vigna Radiata Seed Extract, Disodium EDTA, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Corallina Officinalis Extract, C12-14 Pareth-12, Xanthan Gum, Octyldodeceth-16",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iwxL4i-tL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0BBR3CYB8",
   "buyStore": "Amazon",
-  "title": "[Beauty of Joseon] Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Exfoliation, Smooth Texture & Balanced Skin",
+  "title": "Beauty of Joseon Green Plum Refreshing Toner AHA + BHA (150ml) – Korean Face Toner for Gentle Exfoliation, Smooth Texture & Balanced Skin",
   "tags": [
    "scope:face",
    "format:essence",
@@ -217562,11 +217435,15 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -217575,33 +217452,69 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/green-plum-refreshing-toner-aha-bha",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Green Plum Refreshing Toner : AHA + BHA",
+   "inciMatchScore": 1,
+   "inciText": "Water, Prunus Mume Fruit Water, Dipropylene Glycol, Glycerin, Glycolic Acid, Butylene Glycol, Tromethamine, 1,2-Hexanediol, Hydroxyacetophenone, Salicylic Acid, Ethylhexylglycerin, Vigna Radiata Seed Extract, Disodium EDTA, Melia Azadirachta Leaf Extract, Melia Azadirachta Flower Extract, Coccinia Indica Fruit Extract, Ocimum Sanctum Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Aloe Barbadensis Flower Extract, Solanum Melongena (Eggplant) Fruit Extract, Corallina Officinalis Extract, C12-14 Pareth-12, Xanthan Gum, Octyldodeceth-16",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
+    "parent": "Govan (Beauty of Joseon)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://beautyofjoseon.com/"
    },
    "buyers": "4.6★ from 0 ratings"
   }
@@ -218081,6 +217994,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -218437,108 +218351,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0hg1v7pjn",
-  "brand": "Unbranded",
-  "model": "Face Toner 100ml & Moisturizer 50ml Combo | Hydrates, Refreshes & Nourishes Skin | Helps I…",
-  "price": 602,
-  "capacityLine": "100 ml",
-  "materialLine": "niacinamide + hyaluronic acid",
-  "featureLine": "Toner · ₹602/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹602/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71mxVgITIQL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG1V7PJN",
-  "buyStore": "Amazon",
-  "title": "Face Toner 100ml & Moisturizer 50ml Combo | Hydrates, Refreshes & Nourishes Skin | Helps Improve Radiance, Smoothness & Skin Comfort | Niacinamide 10% & Hyaluronic Acid | Men & Women | All Skin Types",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "complete-b0hgf3fz89",
   "brand": "Complete",
   "model": "Face Care | Pore Cleansing Face Wash 100ml, Nourishing Moisturizer 50ml & Skin Hydrating T…",
@@ -218847,108 +218659,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hfs2pjrs",
-  "brand": "Unbranded",
-  "model": "52 Sundaze SPF 50 PA++++ Sun Mists Duo | Rose Water & Rice Water Sunscreen Spray for Face …",
-  "price": 991,
-  "capacityLine": "100 ml",
-  "materialLine": "rice water + rose",
-  "featureLine": "Sunscreen · SPF 50 · ₹991/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹991/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "rice water, rose (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "SPF 50",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51jUpxO7kmL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HFS2PJRS",
-  "buyStore": "Amazon",
-  "title": "52 Sundaze SPF 50 PA++++ Sun Mists Duo | Rose Water & Rice Water Sunscreen Spray for Face | No White Cast, Ultra-Fine Mist | For Men & Women |100 ml x 2",
-  "tags": [
-   "scope:face",
-   "format:mist",
-   "spf:50",
-   "pa:++++",
-   "ing:rice-water",
-   "ing:rose",
-   "claim:no-white-cast",
-   "claim:spf-claim",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -220946,7 +220656,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "ing:milk",
@@ -221052,7 +220761,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#3 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uNfrohI+L._AC_UL320_.jpg"
@@ -221074,6 +220784,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -221108,6 +220820,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     }
    ],

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -114,6 +114,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -794,6 +795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -801,6 +803,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -808,6 +811,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -815,6 +819,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -822,6 +827,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -829,6 +835,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -836,6 +843,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -7281,6 +7289,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -7288,6 +7297,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -7295,6 +7305,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7302,6 +7313,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -15582,7 +15594,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 41 ratings"
+   "buyerEvidence": "4.3★ from 41 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/l/u/j/50-6-aha-bha-underarm-roll-on-reduces-pigmentation-odour-original-imahzj2yyhxubh7j.jpeg?q=90",
@@ -15610,6 +15623,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -15643,6 +15657,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -15650,6 +15665,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -15657,6 +15673,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15664,6 +15681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -15671,6 +15689,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -15678,6 +15697,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -15685,6 +15705,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -18138,7 +18159,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 11,755 ratings"
+   "buyerEvidence": "4.4★ from 11,755 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/p/a/50-4-aha-bha-underarm-roll-on-reduces-pigmentation-odour-aqua-original-imahkz35bfmvwhgt.jpeg?q=90",
@@ -18164,6 +18186,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -18197,6 +18220,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -18204,6 +18228,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -18211,6 +18236,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -18218,6 +18244,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -18225,6 +18252,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -18232,6 +18260,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -18239,6 +18268,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -18769,6 +18799,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -18776,6 +18807,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -19526,6 +19558,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -19997,19 +20030,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹488/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: geraniol, benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.5,
-   "skin": 7.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -20027,13 +20057,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
-   "inciMatchedName": "nivea pearl and beauty deodorant spray 89042560017620213 (name match 90%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
-   "evidenceActives": "aluminum chlorohydrate (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: geraniol, benzyl alcohol (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -20057,8 +20085,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -20066,64 +20093,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deodorant spray 89042560017620213",
-   "inciMatchScore": 0.9,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.76,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 13,
-     "core": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "geraniol",
-      "benzyl alcohol"
-     ],
-     "penalty": 1,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -20551,6 +20541,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -22077,7 +22068,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 13,626 ratings"
+   "buyerEvidence": "4.4★ from 13,626 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/b/o/u/50-4-aha-bha-underarm-roll-on-lactic-acid-salicylic-acid-original-imahkz2xvauhzhzj.jpeg?q=90",
@@ -22105,6 +22097,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -22138,6 +22131,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -22145,6 +22139,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -22152,6 +22147,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22159,6 +22155,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -22166,6 +22163,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -22173,6 +22171,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -22180,6 +22179,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -23382,7 +23382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 2,538 ratings"
+   "buyerEvidence": "4.4★ from 2,538 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/w/o/q/50-6-aha-bha-underarm-roll-on-reduces-pigmentation-odour-flora-1-original-imahkz33gyfamn4t.jpeg?q=90",
@@ -23409,6 +23410,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -23442,6 +23444,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -23449,6 +23452,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -23456,6 +23460,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23463,6 +23468,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -23470,6 +23476,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -23477,6 +23484,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -23484,6 +23492,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -23598,6 +23607,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -23686,7 +23696,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 4,179 ratings"
+   "buyerEvidence": "4.4★ from 4,179 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/d/9/p/100-natural-deodorant-roll-on-for-women-floral-sunset-2-original-imahg9j6gsphgnye.jpeg?q=90",
@@ -23708,6 +23719,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -23740,6 +23753,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -23747,6 +23761,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -25828,6 +25843,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -25968,6 +25984,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -27761,6 +27778,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -28118,6 +28136,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -34451,6 +34470,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -35747,6 +35767,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -35898,7 +35919,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-itma19c485372af0",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Beau Elegant Deodorant Spray - For Women",
   "price": 333,
   "capacityLine": "200 ml",
@@ -36003,7 +36024,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-itmfgzm4udtzchvt",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Vanity Femme Essence Deodorant Spray - For Women",
   "price": 408,
   "capacityLine": "249 ml",
@@ -36520,6 +36541,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -36527,6 +36549,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -36872,6 +36895,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -37434,6 +37458,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -37441,6 +37466,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -38312,6 +38338,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -38319,6 +38346,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -39196,6 +39224,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -39761,6 +39790,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -39915,6 +39945,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -39922,6 +39953,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -40272,6 +40304,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -40279,6 +40312,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -40423,6 +40457,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -40430,6 +40465,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -40779,6 +40815,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -40786,6 +40823,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -40924,6 +40962,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -41174,6 +41213,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -41530,6 +41570,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -41786,6 +41827,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -41940,6 +41982,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -41947,6 +41990,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -42406,6 +42450,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -42413,6 +42458,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -42662,6 +42708,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -43748,6 +43795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -43899,6 +43947,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -43906,6 +43955,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -44149,6 +44199,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -44156,6 +44207,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -44295,6 +44347,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -44971,6 +45024,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -45372,7 +45426,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 70 ratings"
+   "buyerEvidence": "4.3★ from 70 ratings",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/r/h/7/300-derma-control-defend-deo-spray-0-alcohol-pure-hyaluron-original-imahgetye8hdbavy.jpeg?q=90",
@@ -45395,6 +45450,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -45427,6 +45484,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -45434,6 +45492,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -45441,6 +45500,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -45448,6 +45508,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -45455,6 +45516,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -45462,6 +45524,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -45907,6 +45970,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -46520,7 +46584,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "declaredManufacturer": "Nivea India Pvt Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 104 ratings"
+   "buyerEvidence": "4★ from 104 ratings",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/j/h/150-derma-control-defend-0-alcohol-pure-hyaluron-provitb5-original-imahgygysgzhdr6r.jpeg?q=90",
@@ -46543,6 +46608,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -46575,6 +46642,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -46582,6 +46650,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -46589,6 +46658,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -46596,6 +46666,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -46603,6 +46674,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -46610,6 +46682,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -47263,6 +47336,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -47270,6 +47344,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -50433,6 +50508,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -52703,6 +52779,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -52710,6 +52787,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -62509,7 +62587,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 6,685 ratings"
+   "buyerEvidence": "4.2★ from 6,685 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/n/c/c/50-glow-revive-underarm-roll-on-deodorant-for-women-controls-original-imahhu36dzx87tyj.jpeg?q=90",
@@ -62531,6 +62610,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -62563,6 +62644,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -62570,6 +62652,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -63424,6 +63507,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -63431,6 +63515,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -64032,7 +64117,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 99 ratings"
+   "buyerEvidence": "4.4★ from 99 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/y/t/e/75-6-aha-bha-underarm-roll-on-reduces-pigmentation-odour-flora-1-original-imahkz3fcegyyreg.jpeg?q=90",
@@ -64059,6 +64145,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -64092,6 +64179,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -64099,6 +64187,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -64106,6 +64195,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -64113,6 +64203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -64120,6 +64211,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -64127,6 +64219,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -64134,6 +64227,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -64196,7 +64290,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/c/p/75-6-aha-bha-underarm-roll-on-reduces-pigmentation-odour-aqua-original-imahzn3qezzdcf56.jpeg?q=90",
@@ -64223,6 +64318,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -64256,6 +64352,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -64263,6 +64360,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -64270,6 +64368,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -64277,6 +64376,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -64284,6 +64384,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -64291,6 +64392,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -64298,6 +64400,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -64362,7 +64465,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 58,239 ratings"
+   "buyerEvidence": "4.3★ from 58,239 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/l/0/h/-original-imahk4a2h3nexauz.jpeg?q=90",
@@ -64386,6 +64490,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -64418,6 +64524,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -64425,6 +64532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -64862,6 +64970,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -64869,6 +64978,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -64993,6 +65103,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -65000,6 +65111,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -65007,6 +65119,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -65014,6 +65127,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -65021,6 +65135,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -65028,6 +65143,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -65035,6 +65151,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -65415,7 +65532,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 5,320 ratings"
+   "buyerEvidence": "4.3★ from 5,320 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/t/5/50-fresh-blossom-natural-underarms-deodorant-roll-on-no-alcohol-original-imahhgq3zphmnhbk.jpeg?q=90",
@@ -65439,6 +65557,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -65471,6 +65591,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -65478,6 +65599,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -65551,7 +65673,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "N.G. Electro Products Pvt. Ltd., Unit Ii, Plot No.- 36, Himuda Industrial Area, Phase-Iv, Bhatolikala, Baddi, Dist: Solan,(H.P) 173205. Mfg. Lic. No.: Him/Cos/18/266 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 65,154 ratings"
+   "buyerEvidence": "4.4★ from 65,154 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/o/j/o/50-4-aha-bha-underarm-roll-on-reduces-pigmentation-odour-flora-original-imahkz38ctx2zruy.jpeg?q=90",
@@ -65573,6 +65696,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -65606,6 +65730,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -65613,6 +65738,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -65620,6 +65746,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -65627,6 +65754,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -65634,6 +65762,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -65641,6 +65770,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -65648,6 +65778,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -65711,7 +65842,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 3,476 ratings"
+   "buyerEvidence": "4.4★ from 3,476 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/x/w/z/50-4-aha-bha-underarm-roll-on-reduces-pigmentation-odour-honey-original-imahewymbdgs92av.jpeg?q=90",
@@ -65738,6 +65870,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -65771,6 +65904,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -65778,6 +65912,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -65785,6 +65920,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -65792,6 +65928,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -65799,6 +65936,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -65806,6 +65944,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -65813,6 +65952,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -67483,6 +67623,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -67490,6 +67631,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -67571,7 +67713,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 18,249 ratings"
+   "buyerEvidence": "4.2★ from 18,249 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/d/c/4/100-sweet-summer-natural-underarms-deodorant-roll-on-no-alcohol-original-imahg9j6ngzxywyx.jpeg?q=90",
@@ -67595,6 +67738,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -67627,6 +67772,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -67634,6 +67780,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -68029,7 +68176,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 483 ratings"
+   "buyerEvidence": "4.4★ from 483 ratings",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI, glycyrrhiza glabra root extract #12 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/5/t/r/100-derma-control-defend-roll-on-0-alcohol-pure-hyaluron-provit-original-imahgetmj3fkyhfu.jpeg?q=90",
@@ -68051,6 +68199,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -68083,6 +68233,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -68090,6 +68241,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -68097,6 +68249,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -68104,6 +68257,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -68111,6 +68265,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -68118,6 +68273,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -68125,6 +68281,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -68132,6 +68289,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -68783,6 +68941,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -68878,7 +69037,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Janki Herbal Pvt. Ltd. Plot No.69, 70, 71, Govindji Industrial Estate - 1, Makna - Valan Road, Valan, Dist: Surat, Gujarat - 394525. Mfg. Lic. No. Gc/1804 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 3,012 ratings"
+   "buyerEvidence": "4.1★ from 3,012 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI, salicylic acid #8 on INCI; Dark spots — niacinamide #4 on INCI, kojic acid #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/z/6/h/100-under-arm-roll-on-5-aha-2-kojic-acid-control-body-odour-original-imahmhepbzavmcrg.jpeg?q=90",
@@ -68901,6 +69061,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -68934,6 +69096,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -68941,6 +69104,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -68948,6 +69112,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -68955,6 +69120,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -68962,6 +69128,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -68969,6 +69136,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -69137,7 +69305,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 344 ratings"
+   "buyerEvidence": "4.3★ from 344 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/t/b/v/75-4-aha-bha-underarm-roll-on-fragrance-free-reduces-odour-original-imahkz3fngxysp9z.jpeg?q=90",
@@ -69164,6 +69333,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -69197,6 +69367,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -69204,6 +69375,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -69211,6 +69383,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -69218,6 +69391,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -69225,6 +69399,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -69232,6 +69407,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -69239,6 +69415,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -69266,19 +69443,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹151/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 7.9,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -69296,13 +69470,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciMatchedName": "nivea protect and care deo roll on 40059002531180213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#3 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, benzyl alcohol, limonene, alpha-isomethyl ionone (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -69329,8 +69501,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -69338,83 +69509,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deo roll on 40059002531180213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "citric acid",
-     "grade": "C",
-     "position": 12,
-     "core": false,
-     "src": "aha"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -70288,18 +70403,16 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + AHA + Pearl",
   "featureLine": "Roll-on · ₹227/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -70317,13 +70430,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 90%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -70355,8 +70466,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -70364,52 +70474,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.9,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -71046,18 +71131,16 @@ const NXPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Salicylic acid (BHA) + AHA + Pearl",
   "featureLine": "Roll-on · ₹453/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -71075,13 +71158,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 90%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -71109,8 +71190,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -71118,52 +71198,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.9,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -73217,17 +73272,16 @@ const NXPRODUCTS = [
   "capacityLine": "40 ml",
   "materialLine": "Salicylic acid (BHA) + AHA",
   "featureLine": "Roll-on · ₹1090/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
    "experience": 6.5
   },
   "fullSpec": {
@@ -73245,13 +73299,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,115 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
-   "inciSourceUrl": "https://thriveco.in/products/thriveco-underarm-lightening-roll-on-mimosa-fresh-40ml-pack-of-2",
-   "inciMatchedName": "ThriveCo Underarm Lightening Roll on - Mimosa Fresh, 40ml Pack of 2 (name match 100%)",
-   "inciList": "AQUA, LACTIC ACID, TRIETHANOLAMINE, NIACINAMIDE, PROPANEDIOL, TRANEXAMIC",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 1,115 ratings"
   },
@@ -73284,9 +73336,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -73294,43 +73344,25 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://thriveco.in/products/thriveco-underarm-lightening-roll-on-mimosa-fresh-40ml-pack-of-2",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "ThriveCo Underarm Lightening Roll on - Mimosa Fresh, 40ml Pack of 2",
-   "inciMatchScore": 1,
-   "inciText": "AQUA, LACTIC ACID, TRIETHANOLAMINE, NIACINAMIDE, PROPANEDIOL, TRANEXAMIC",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "src": "aha"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 4,
-     "core": false,
-     "src": "niacinamide"
-    }
-   ],
-   "support": [
-    "niacinamide",
-    "propanediol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -73544,6 +73576,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -75484,17 +75517,16 @@ const NXPRODUCTS = [
   "capacityLine": "80 ml",
   "materialLine": "Salicylic acid (BHA) + AHA",
   "featureLine": "Roll-on · Paraben-free · ₹468/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ThriveCo official website (thriveco.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.2,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
    "experience": 6.6
   },
   "fullSpec": {
@@ -75512,13 +75544,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.1/5 (1,402 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
-   "inciSourceUrl": "https://thriveco.in/products/thriveco-underarm-lightening-roll-on-mimosa-fresh-40ml-pack-of-2",
-   "inciMatchedName": "ThriveCo Underarm Lightening Roll on - Mimosa Fresh, 40ml Pack of 2 (name match 100%)",
-   "inciList": "AQUA, LACTIC ACID, TRIETHANOLAMINE, NIACINAMIDE, PROPANEDIOL, TRANEXAMIC",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 1,402 ratings"
   },
@@ -75546,9 +75576,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:none"
   ],
   "filters": {
    "freefrom": true,
@@ -75556,43 +75584,25 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "ThriveCo official website (thriveco.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://thriveco.in/products/thriveco-underarm-lightening-roll-on-mimosa-fresh-40ml-pack-of-2",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "ThriveCo Underarm Lightening Roll on - Mimosa Fresh, 40ml Pack of 2",
-   "inciMatchScore": 1,
-   "inciText": "AQUA, LACTIC ACID, TRIETHANOLAMINE, NIACINAMIDE, PROPANEDIOL, TRANEXAMIC",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "src": "aha"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 4,
-     "core": false,
-     "src": "niacinamide"
-    }
-   ],
-   "support": [
-    "niacinamide",
-    "propanediol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -91580,7 +91590,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-itmf3v9rs9s5pnbs",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Blue Homme Deodorant Spray - For Men",
   "price": 339,
   "capacityLine": "200 ml",
@@ -95201,6 +95211,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -95767,6 +95778,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -109107,6 +109119,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -109801,17 +109814,16 @@ const NXPRODUCTS = [
   "capacityLine": "600 ml (pack of 4)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹122/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.4,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -109829,13 +109841,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciMatchedName": "nivea protect and care deodorant spray 89042560018540213 (name match 83%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, geraniol, benzyl alcohol, alpha-isomethyl ionone, citral (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -109863,8 +109873,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -109872,62 +109881,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deodorant spray 89042560018540213",
-   "inciMatchScore": 0.83,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -111526,6 +111500,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -111533,6 +111508,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -111774,6 +111750,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -112033,6 +112010,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -112398,6 +112376,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -112755,6 +112734,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -112906,6 +112886,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -113372,6 +113353,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -113729,6 +113711,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -113880,6 +113863,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -114129,6 +114113,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -114279,6 +114264,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -114531,6 +114517,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -114782,6 +114769,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -115463,6 +115451,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -116994,6 +116983,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -117460,6 +117450,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -126874,6 +126865,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -126881,6 +126873,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -127235,6 +127228,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -128657,6 +128651,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -128664,6 +128659,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -129013,6 +129009,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -129020,6 +129017,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -129369,6 +129367,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -129376,6 +129375,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -129622,6 +129622,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -129629,6 +129630,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -131140,6 +131142,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -131147,6 +131150,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -132455,6 +132459,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -132462,6 +132467,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -132605,6 +132611,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -132612,6 +132619,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -132754,6 +132762,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -132761,6 +132770,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -134612,7 +134622,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 125 ratings"
+   "buyerEvidence": "4.1★ from 125 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/n/q/x/50-petal-breeze-natural-underarm-deodorant-roll-on-no-alcohol-or-original-imahnjgnyjdwthgp.jpeg?q=90",
@@ -134636,6 +134647,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -134668,6 +134681,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -134675,6 +134689,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -138114,7 +138129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 6,597 ratings"
+   "buyerEvidence": "4.5★ from 6,597 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/3/n/g/75-4-aha-bha-underarm-roll-on-flora-fragrance-reduces-odour-original-imahkz3fgxgs833u.jpeg?q=90",
@@ -138141,6 +138157,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -138174,6 +138191,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -138181,6 +138199,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -138188,6 +138207,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -138195,6 +138215,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -138202,6 +138223,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -138209,6 +138231,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -138216,6 +138239,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -139631,7 +139655,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Mcnroe Consumer Products Pvt Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 254 ratings"
+   "buyerEvidence": "4.1★ from 254 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/v/c/150-active-lifestyle-roll-on-pack-of-3-3-deodorant-roll-on-original-imahdfwacqcjgemh.jpeg?q=90",
@@ -139651,6 +139676,9 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -139683,6 +139711,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -139690,6 +139719,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -139697,6 +139727,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -139704,6 +139735,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -139711,6 +139743,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -142847,7 +142880,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 16 ratings"
+   "buyerEvidence": "4.5★ from 16 ratings",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI, glycyrrhiza glabra root extract #12 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/5/n/n/25-derma-control-defend-underarm-deo-roll-on-for-women-1-original-imahm93wv5vvwzf2.jpeg?q=90",
@@ -142870,6 +142904,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -142902,6 +142938,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -142909,6 +142946,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -142916,6 +142954,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -142923,6 +142962,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -142930,6 +142970,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -142937,6 +142978,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -142944,6 +142986,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -142951,6 +142994,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -160972,6 +161016,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -160979,6 +161024,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -168597,6 +168643,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -168747,6 +168794,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -168805,19 +168853,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Sandalwood + Pearl",
   "featureLine": "Roll-on · ₹151/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 7.9,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -168835,13 +168880,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciMatchedName": "nivea protect and care deo roll on 40059002531180213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#3 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, benzyl alcohol, limonene, alpha-isomethyl ionone (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -168873,8 +168916,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -168882,83 +168924,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deo roll on 40059002531180213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "citric acid",
-     "grade": "C",
-     "position": 12,
-     "core": false,
-     "src": "aha"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -169190,18 +169176,16 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Salicylic acid (BHA) + AHA + Pearl",
   "featureLine": "Roll-on · ₹227/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -169219,13 +169203,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 90%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -169254,8 +169236,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -169263,52 +169244,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.9,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -169644,19 +169600,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹151/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 7.9,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -169674,13 +169627,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciMatchedName": "nivea protect and care deo roll on 40059002531180213 (name match 85%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#3 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, benzyl alcohol, limonene, alpha-isomethyl ionone (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -169705,8 +169656,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -169714,83 +169664,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-protect-and-care-deo-roll-on-40059002531180213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deo roll on 40059002531180213",
-   "inciMatchScore": 0.85,
-   "inciText": "Aqua, Aluminum Chlorohydrate, Glycerin, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Perfume, Panthenol, Octyldodecanol, Persea Gratissima Oil, Pantolactone, Citric Acid, Trisodium EDTA, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, BHT",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "panthenol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "citric acid",
-     "grade": "C",
-     "position": 12,
-     "core": false,
-     "src": "aha"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -170214,6 +170108,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -170272,18 +170167,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹151/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -170301,13 +170194,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 94%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -170337,8 +170228,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -170346,52 +170236,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.94,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -170410,18 +170275,16 @@ const NXPRODUCTS = [
   "capacityLine": "45 g",
   "materialLine": "Pearl + Sea salt",
   "featureLine": "Roll-on · ₹1511/100g",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -170439,13 +170302,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 90%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -170474,8 +170335,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -170483,52 +170343,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.9,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -170653,18 +170488,16 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Pearl",
   "featureLine": "Roll-on · ₹227/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -170682,13 +170515,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 94%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -170714,8 +170545,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -170723,52 +170553,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.94,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -170787,18 +170592,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Rose + Pearl",
   "featureLine": "Roll-on · Alcohol-free · ₹151/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "EU-declared fragrance allergen: benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.3,
-   "skin": 9.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -170816,13 +170619,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciMatchedName": "nivea pearl and beauty deo roll on 40059002945170213 (name match 94%)",
-   "inciList": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
-   "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence)",
-   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -170850,8 +170651,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": true,
@@ -170859,52 +170659,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deo-roll-on-40059002945170213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deo roll on 40059002945170213",
-   "inciMatchScore": 0.94,
-   "inciText": "Aqua, Aluminum Chlorohydrate, PPG-15 Stearyl Ether, Steareth-2, Steareth-21, Hydrolyzed Pearl, Persea Gratissima Oil, Tocopherol, Trisodium EDTA, Tetramethyl Acetyloctahydronaphthalenes, Geranyl Acetate, Benzyl Alcohol, Perfume\"}]]}] 83:T4bc",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 8,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "benzyl alcohol"
-     ],
-     "penalty": 0.5,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -172484,6 +172259,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -172491,6 +172267,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -172831,6 +172608,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -172838,6 +172616,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -173496,6 +173275,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -188447,6 +188227,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -188454,6 +188235,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -189013,6 +188795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -189998,6 +189781,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -190251,6 +190035,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -191754,6 +191539,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -192004,6 +191790,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -192011,6 +191798,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -192258,6 +192046,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -192265,6 +192054,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -192509,6 +192299,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -192516,6 +192307,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -192862,6 +192654,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -193325,6 +193118,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -193675,6 +193469,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -193821,6 +193616,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -194078,6 +193874,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -194542,6 +194339,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -194549,6 +194347,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -195003,6 +194802,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -195253,6 +195053,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -195822,6 +195623,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -197742,6 +197544,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -197749,6 +197552,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -197795,19 +197599,16 @@ const NXPRODUCTS = [
   "capacityLine": "450 ml (pack of 3)",
   "materialLine": "Pearl",
   "featureLine": "Aerosol / body spray · ₹163/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "aluminum chlorohydrate high on the INCI list (strong evidence)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: geraniol, benzyl alcohol",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.5,
-   "skin": 7.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -197825,13 +197626,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
-   "inciMatchedName": "nivea pearl and beauty deodorant spray 89042560017620213 (name match 85%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
-   "evidenceActives": "aluminum chlorohydrate (#5 on list, strong evidence)",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: geraniol, benzyl alcohol (−1)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -197857,8 +197656,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -197866,64 +197664,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-pearl-and-beauty-deodorant-spray-89042560017620213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea pearl and beauty deodorant spray 89042560017620213",
-   "inciMatchScore": 0.85,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, Perfume, Hydrolyzed Pearl, Talc, Persea Gratissima Oil, Octyldodecanol, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Dimethiconol, Geraniol, Benzyl Alcohol",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.76,
-   "actives": [
-    {
-     "name": "aluminum chlorohydrate",
-     "grade": "A",
-     "position": 5,
-     "core": true,
-     "src": "fdaAntiperspirant"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 13,
-     "core": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "geraniol",
-      "benzyl alcohol"
-     ],
-     "penalty": 1,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -198243,6 +198004,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -198250,6 +198012,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -198593,6 +198356,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -198846,6 +198610,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -199408,6 +199173,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -199415,6 +199181,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -200064,6 +199831,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -200620,6 +200388,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -201289,6 +201058,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -201742,6 +201512,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -201891,6 +201662,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -202250,6 +202022,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -203560,17 +203333,16 @@ const NXPRODUCTS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Aerosol / body spray · ₹244/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 3.4,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -203588,13 +203360,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciMatchedName": "nivea protect and care deodorant spray 89042560018540213 (name match 83%)",
-   "inciList": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, geraniol, benzyl alcohol, alpha-isomethyl ionone, citral (−2)",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Beiersdorf — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -203620,8 +203390,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -203629,62 +203398,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea--protect-and-care-deodorant-spray-89042560018540213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea protect and care deodorant spray 89042560018540213",
-   "inciMatchScore": 0.83,
-   "inciText": "Butane, Isobutane, Propane, Cyclomethicone, Isopropyl Palmitate, Perfume, Ethylhexylglycerin, Butyloctanoic Acid, Methyl Phenylbutanol, Octyldodecanol, Persea Gratissima Oil, Dimethicone, Dimethiconol, Limonene, Linalool, Citronellol, Geraniol, Benzyl Alcohol, Alpha-Isomethyl Ionone, Citral",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.85,
-   "actives": [
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "dimethicone"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "citronellol",
-      "geraniol",
-      "benzyl alcohol",
-      "alpha-isomethyl ionone",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "Beiersdorf",
     "kind": "global",
@@ -204008,6 +203742,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -206076,6 +205811,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -207089,6 +206825,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -207824,7 +207561,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, limonene (−2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #6 on INCI, sodium ascorbyl phosphate #7 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/e/g/b/150-natural-glow-sensitive-deodorant-roll-on-50ml-pack-of-3-3-original-imagxefnzt2dfgcc.jpeg?q=90",
@@ -207855,6 +207593,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -207887,6 +207627,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -207894,6 +207635,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -207901,6 +207643,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -207908,6 +207651,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -207915,6 +207659,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -208491,6 +208236,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -209219,7 +208965,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, limonene (−2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 10 ratings"
+   "buyerEvidence": "3.9★ from 10 ratings",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #6 on INCI, sodium ascorbyl phosphate #7 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/5/v/d/75-natural-glow-sensitive-3-deodorant-roll-on-nivea-women-original-imah73y3nmkmtzyr.jpeg?q=90",
@@ -209243,6 +208990,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -209275,6 +209024,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -209282,6 +209032,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -209289,6 +209040,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -209296,6 +209048,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -209303,6 +209056,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -209882,6 +209636,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -209889,6 +209644,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -211908,7 +211664,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, geraniol, limonene (−2)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #6 on INCI, sodium ascorbyl phosphate #7 on INCI; Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-deodorant/g/c/o/100-natural-glow-sensitive-rollon-25ml-pack-of-4-4-deodorant-original-imahfxjy54f3phxx.jpeg?q=90",
@@ -211936,6 +211693,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -211968,6 +211727,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -211975,6 +211735,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -211982,6 +211743,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -211989,6 +211751,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -211996,6 +211759,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -213195,6 +212959,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -213603,7 +213368,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/c/0/l/50-sunscreen-roll-on-broad-spectrum-water-resistant-uva-uvb-original-imahc2ddjgn5wmpa.jpeg?q=90",
@@ -213646,6 +213412,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -213678,6 +213445,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -213685,6 +213453,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -213692,6 +213461,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -213699,6 +213469,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -213706,6 +213477,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -213999,7 +213771,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#12 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/f/a/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8c6h8hpk7b.jpeg?q=90",
@@ -214028,6 +213801,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -214061,6 +213836,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -214068,6 +213844,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -214075,6 +213852,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -214082,6 +213860,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -214089,6 +213868,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -214096,6 +213876,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -217820,6 +217601,120 @@ const NXPRODUCTS = [
    "claim:whitening-claim",
    "claim:hair-removal",
    "claim:painless",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "rosafrost-itmf08d43efbc49f",
+  "brand": "ROSAFROST",
+  "model": "Under Eye Roll on With Vitamin E- No Dark Circless Puuffiness & Wrinkles",
+  "price": 220,
+  "capacityLine": "15 g",
+  "materialLine": "Hyaluronic acid + Coffee + Vitamin E",
+  "featureLine": "Roll-on · ₹1467/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹1467/100g",
+   "format": "Roll-on",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Hyaluronic acid, Coffee, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/n/u/t/15-under-eye-roll-on-with-vitamin-e-no-dark-circles-puffiness-original-imahmmw6rn3eqwvj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/3/d/h/15-natural-eye-cream-with-vitamin-e-remove-dark-circles-puffy-original-imahmjtssz7htc93.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/o/m/j/15-natural-eye-cream-with-vitamin-e-remove-dark-circles-puffy-original-imahmjtszcdtwwfh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/o/4/s/15-natural-eye-cream-with-vitamin-e-remove-dark-circles-puffy-original-imahmjtsjkbtczqh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/7/j/j/15-eye-cream-with-vitamin-e-remove-dark-circles-puffy-eyes-and-original-imahn5rrvngxaryu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosafrost-under-eye-roll-vitamin-e-no-dark-circless-puuffiness-wrinkles/p/itmf08d43efbc49f",
+  "buyStore": "Flipkart",
+  "title": "ROSAFROST Under Eye Roll on With Vitamin E- No Dark Circless Puuffiness & Wrinkles",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:serum",
+   "format:roll-on",
+   "ing:hyaluronic-acid",
+   "ing:coffee",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:dark-circles",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -221622,7 +221517,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#2 on list, strong evidence); glycerin (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI, glycyrrhiza glabra root extract #12 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61a0OafWBHL._SL1500_.jpg",
@@ -221650,6 +221546,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -221682,6 +221580,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -221689,6 +221588,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -221696,6 +221596,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -221703,6 +221604,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -221710,6 +221612,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -221717,6 +221620,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -221724,6 +221628,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -221731,6 +221636,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -225325,6 +225231,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -225332,6 +225239,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -228573,6 +228481,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -232746,7 +232655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DbKMxhIYL._SL1500_.jpg"
@@ -232770,6 +232680,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -232802,6 +232714,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -232809,6 +232722,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -239451,6 +239365,3548 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "wild-oak-b0h5rd75zf",
+  "brand": "WILD OAK",
+  "model": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyalu…",
+  "price": 399,
+  "capacityLine": "300 g",
+  "materialLine": "Vitamin C + Hyaluronic acid + Ceramides",
+  "featureLine": "Scrub · Paraben-free · ₹133/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, linalool",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.8,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹133/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Rose, Almond, Shea butter, Avocado, Sugar (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Sucrose, Glycerin, Silica, Caprylyl Glycol, Polysorbate 20, Butyrospermum Parkii (Shea) Butter, Hydrolyzed Collagen, Ceramides, Hyaluronic Acid, Peptides, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Kojic Acid, Oenothera Biennis (Evening Primrose) Oil, Citrus Aurantium Dulcis (Orange) Oil, Ascorbic Acid (Vitamin C), Leuconostoc/Radish Root Ferment Filtrate, Macadamia Ternifolia Seed Oil, Retinyl Palmitate (Vitamin A), Phenoxyethanol, Sorbic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Benzoate, Fragrance (Parfum), Aqua (Water), Color.",
+   "evidenceActives": "glycerin (#2 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, benzyl benzoate (−2)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Dark spots — kojic acid #14 on INCI, ascorbic acid #17 on INCI; Aging — ascorbic acid #17 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71d35QCqq0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5RD75ZF",
+  "buyStore": "Amazon",
+  "title": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | Helps Removes Tan & Smooth Rough Skin | Lasting Deo Fragrance",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "format:aerosol",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:kojic-acid",
+   "ing:rose",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:avocado",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "free:paraben",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Sucrose, Glycerin, Silica, Caprylyl Glycol, Polysorbate 20, Butyrospermum Parkii (Shea) Butter, Hydrolyzed Collagen, Ceramides, Hyaluronic Acid, Peptides, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Kojic Acid, Oenothera Biennis (Evening Primrose) Oil, Citrus Aurantium Dulcis (Orange) Oil, Ascorbic Acid (Vitamin C), Leuconostoc/Radish Root Ferment Filtrate, Macadamia Ternifolia Seed Oil, Retinyl Palmitate (Vitamin A), Phenoxyethanol, Sorbic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Benzoate, Fragrance (Parfum), Aqua (Water), Color.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl salicylate",
+      "benzyl benzoate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h5f3qtwh",
+  "brand": "Unbranded",
+  "model": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben F…",
+  "price": 195,
+  "capacityLine": "30 ml",
+  "materialLine": "Lactic acid",
+  "featureLine": "Roll-on · Paraben-free · ₹650/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹650/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rNQSxaEdL._SL1042_.jpg",
+   "https://m.media-amazon.com/images/I/51FUzY1uUpL._SL1038_.jpg",
+   "https://m.media-amazon.com/images/I/51si+GjysPL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61QNpQvlqHL._SL1042_.jpg",
+   "https://m.media-amazon.com/images/I/611j8v6mIxL._SL1036_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5F3QTWH",
+  "buyStore": "Amazon",
+  "title": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben Free Foot Care Treatment for Corns Calluses Dry Rough Skin Deep Moisturizing (30 ml, Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:cream",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "free:paraben",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fexonxa-b0h1mbwfmf",
+  "brand": "FEXONXA",
+  "model": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Shea butter",
+  "featureLine": "Roll-on · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Shea butter, Vitamin E, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Wv+fVs4-L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1MBWFMF",
+  "buyStore": "Amazon",
+  "title": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet with 2% Lactic Acid, Olive Oil & Vitamin E – Moisturizing Foot Care Roll-On for Men & Women (C1)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bella-vita-luxury-b09zxg8t1m",
+  "brand": "Bella Vita Luxury",
+  "model": "Male Spray CEO Man Body Perfume 150ml | Premium No Gas Deo for Man | Long Lasting Office F…",
+  "price": 190,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹127/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹127/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: denatured ethyl alcohol,fragance,phenoxyethanol,glycerin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610EqrlYfPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81MlRPwKLkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61buLOHPRcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61bD9esjoXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61qT4-NdQeL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09ZXG8T1M",
+  "buyStore": "Amazon",
+  "title": "Bella Vita Luxury Male Spray CEO Man Body Perfume 150ml | Premium No Gas Deo for Man | Long Lasting Office Fragrance with Tonka, Agarwood & Sophisticated Masculine Notes",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "denatured ethyl alcohol,fragance,phenoxyethanol,glycerin",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Bella Vita Organic",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://bellavitaorganic.com/"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b09ds9rqr3",
+  "brand": "Nivea",
+  "model": "Deodorant Fresh Natural for Women, 150ml (Pack of 3, Spray)",
+  "price": 490,
+  "capacityLine": "450 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹109/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "EU-declared fragrance allergen: linalool, citronellol"
+  ],
+  "scores": {
+   "ingredients": 3.2,
+   "skin": 5.5,
+   "trust": 8.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 3 pack",
+   "pricePer100": "₹109/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
+   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 100%)",
+   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512dgCbFrEL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51bQuG3YZbL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61sm-x0eYeL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51EZEI4-59L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51We9Hytj6L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09DS9RQR3",
+  "buyStore": "Amazon",
+  "title": "Nivea Deodorant Fresh Natural for Women, 150ml (Pack of 3, Spray)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "claim:soothing",
+   "claim:odour",
+   "free:derm",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
+   "inciMatchScore": 1,
+   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.83,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "citronellol",
+      "benzyl alcohol",
+      "limonene",
+      "alpha-isomethyl ionone",
+      "geraniol",
+      "citral"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "al-nuaim-b0gzwnl2qp",
+  "brand": "Al-Nuaim",
+  "model": "Zam Zam Deodorant Spray, Long Lasting Fragrance, Odor Control, Quick-Drying Formula, Skin-…",
+  "price": 234,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹117/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹117/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Oil control / matte / non-greasy, Lightweight / fast-absorbing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Q-4AKKE+L.jpg",
+   "https://m.media-amazon.com/images/I/515KFaDZfTL.jpg",
+   "https://m.media-amazon.com/images/I/61HRN3MYE8L.jpg",
+   "https://m.media-amazon.com/images/I/61vHG4T24KL.jpg",
+   "https://m.media-amazon.com/images/I/51AcYy0Ad-L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZWNL2QP",
+  "buyStore": "Amazon",
+  "title": "Zam Zam Deodorant Spray, Long Lasting Fragrance, Odor Control, Quick-Drying Formula, Skin-Friendly, for Men and Women, 200ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:odour",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ugen-b0d3qnkr3q",
+  "brand": "Ugen",
+  "model": "“Premium Unisex Deodorant Spray | Long-Lasting Freshness -150ml Pack of 2(VEGAS DEODORANT,…",
+  "price": 290,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹97/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹97/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Vg5z9y92L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51WXn3HvGvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/718MOaJgi2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/718rBnh9YsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-OZtOWVJL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D3QNKR3Q",
+  "buyStore": "Amazon",
+  "title": "UGEN “Premium Unisex Deodorant Spray | Long-Lasting Freshness -150ml Pack of 2(VEGAS DEODORANT, 300 ML)",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:long-lasting",
+   "claim:odour",
+   "claim:cooling",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "pour-b0gn3kjkpb",
+  "brand": "Pour",
+  "model": "Homme Deodorant, Long Lasting Masculine Fragrance, 150 ml",
+  "price": 439,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹293/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹293/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41HBzbb76qL.jpg",
+   "https://m.media-amazon.com/images/I/41nkrF4+m+L.jpg",
+   "https://m.media-amazon.com/images/I/4154jRsdA2L.jpg",
+   "https://m.media-amazon.com/images/I/415khZ6IFAL.jpg",
+   "https://m.media-amazon.com/images/I/412CXaw45FL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GN3KJKPB",
+  "buyStore": "Amazon",
+  "title": "Pour Homme Deodorant, Long Lasting Masculine Fragrance, 150 ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "claim:odour",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "yardley-b00g4ubgvm",
+  "brand": "Yardley",
+  "model": "London English Rose Refreshing Deodorant Body Spray For Women, 150ml",
+  "price": 159,
+  "capacityLine": "150 ml",
+  "materialLine": "Rose",
+  "featureLine": "Aerosol / body spray · ₹106/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹106/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: rose",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Wipro Consumer Care & Lighting — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71uAIZF7jPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tbUIwZLCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61y8-zvE1GL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/813JXrecnnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81EfIpatxZL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00G4UBGVM",
+  "buyStore": "Amazon",
+  "title": "Yardley London English Rose Refreshing Deodorant Body Spray For Women, 150ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "ing:rose",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "rose",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Wipro Consumer Care & Lighting",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.wiproconsumercare.com/"
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "helybely-b0hhngrk71",
+  "brand": "HELYBELY",
+  "model": "Natural Phitkari Potassium Alum Stick For Underarm Odour Control 60 Gram | Natural Phitkar…",
+  "price": 539,
+  "capacityLine": "60 g",
+  "materialLine": "Alum",
+  "featureLine": "Stick · ₹898/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹898/100g",
+   "format": "Stick",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Alum (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/715ihcEK6JL._SL1402_.jpg",
+   "https://m.media-amazon.com/images/I/61mhbndc71L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/719Fqk-xBoL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/713iGXmCOsL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Nu+pYwVRL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHNGRK71",
+  "buyStore": "Amazon",
+  "title": "Natural Phitkari Potassium Alum Stick For Underarm Odour Control 60 Gram | Natural Phitkari Potassium Alum Stick For Underarm Odour Control, 60 Gm Deodorant Stick For Men And Women.",
+  "tags": [
+   "scope:body",
+   "format:stick",
+   "format:pack",
+   "ing:alum",
+   "claim:odour",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "eva-b0cmqcq8fl",
+  "brand": "EVA",
+  "model": "Splash Roll On Deo | No Alcohol No Aluminium| Chemical Free| For Fresh Underarms (Cucumber…",
+  "price": 161,
+  "capacityLine": "50 ml",
+  "materialLine": "Aloe vera + Cucumber + Aluminium salts",
+  "featureLine": "Roll-on · Alcohol-free · ₹322/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹322/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Cucumber, Aluminium salts (named on listing)",
+   "freeFrom": "Alcohol-free, Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Y9SIFtEbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/618VearklHL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61057RZcnaL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/81M2VZOqSaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rzzFsocdL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CMQCQ8FL",
+  "buyStore": "Amazon",
+  "title": "Eva Splash Roll On Deo | No Alcohol No Aluminium| Chemical Free| For Fresh Underarms (Cucumber & Tahiti Monoi Oil) | For Women (50ml)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:roll-on",
+   "format:aerosol",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "ing:aluminium-salts",
+   "claim:soothing",
+   "free:alcohol",
+   "free:toxin-free",
+   "free:aluminium",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "al-nuaim-b0gzvv5prk",
+  "brand": "Al-Nuaim",
+  "model": "Blue Lady Deodorant Spray, Long Lasting Floral Scent, Daily Freshness, Skin-Friendly, Quic…",
+  "price": 234,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹117/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹117/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Lightweight / fast-absorbing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51V16S3EouL.jpg",
+   "https://m.media-amazon.com/images/I/51atizJw42L.jpg",
+   "https://m.media-amazon.com/images/I/61DijpdE+sL.jpg",
+   "https://m.media-amazon.com/images/I/61Fsht1UQML.jpg",
+   "https://m.media-amazon.com/images/I/517xYEKYOyL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZVV5PRK",
+  "buyStore": "Amazon",
+  "title": "Blue Lady Deodorant Spray, Long Lasting Floral Scent, Daily Freshness, Skin-Friendly, Quick-Drying, for Women and Men, 200ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:odour",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "salve-b076y8v5ff",
+  "brand": "salve",
+  "model": "Sweatgo Classic Roll-On 60ml for Men & Women | Anti-Perspirant Deodorant | Helps Control E…",
+  "price": 194,
+  "capacityLine": "60 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹323/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹323/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Lightweight / fast-absorbing, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61yzrjuWrYL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61kXY9FZMCL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/618czH2TH4L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61JfluMJV7L._SL1201_.jpg",
+   "https://m.media-amazon.com/images/I/616-Syad2uL._SL1202_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B076Y8V5FF",
+  "buyStore": "Amazon",
+  "title": "Salve Sweatgo Classic Roll-On 60ml for Men & Women | Anti-Perspirant Deodorant | Helps Control Excess Sweat (Hyperhidrosis Care) | Long-Lasting Freshness",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "adbhutanand-b0h1xbvqlj",
+  "brand": "ADBHUTANAND",
+  "model": "Deodorant Roll On for Women & Men – Long Lasting Underarm Protection, Sweat Control Antipe…",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Antiperspirant / sweat control, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71U8kcIjYoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71AAIbH-q9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aN0zmog-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/619nFve02xL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Gbg8wPTEL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1XBVQLJ",
+  "buyStore": "Amazon",
+  "title": "Deodorant Roll On for Women & Men – Long Lasting Underarm Protection, Sweat Control Antiperspirant, Even Tone Underarm Mist, Fresh Deo Roll On for Daily Use",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:roll-on",
+   "format:aerosol",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:antiperspirant",
+   "claim:odour",
+   "claim:cooling",
+   "skin:all",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "carmesi-b09ks2vhtk",
+  "brand": "Carmesi",
+  "model": "Natural Underarm Roll On Deodorant for Women | 95% Natural | Prevents Body Odour | No Alco…",
+  "price": 166,
+  "capacityLine": "50 ml",
+  "materialLine": "Licorice + Coconut + Olive",
+  "featureLine": "Roll-on · Alcohol-free · ₹332/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): parfum",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.7,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹332/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Licorice, Coconut, Olive, Aluminium salts, Sugar (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Pentylene Glycol, Olive Oil, Glycereth-8 Esters, Olea Europaea (Olive) Seed Oil, Propylene Glycol, Niacinamide (Vitamin B3), Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Phenoxyethanol, Glycyrrhiza Glabra (licorice) Root Extract, Betaine, 2-Benzylheptanol, Decylene Glycol, Xylitylglucoside, Anhydroxylitol, Xylitol Hydrosoluble, Sodium Gluconate, Ethylhexylglycerin, Parfum",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615gwEHxHyL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/51Wo7-o8DKL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51pVU8A5ltL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51pTxE4wn0L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61wTJ1ZyM6L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09KS2VHTK",
+  "buyStore": "Amazon",
+  "title": "Carmesi Natural Underarm Roll On Deodorant for Women | 95% Natural | Prevents Body Odour | No Alcohol & Aluminium | Sweet Summer - Creamy Coconut & Vanilla Fragrance | 50 ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:roll-on",
+   "format:aerosol",
+   "ing:licorice",
+   "ing:coconut",
+   "ing:olive",
+   "ing:aluminium-salts",
+   "ing:sugar",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
+   "free:alcohol",
+   "free:toxin-free",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Pentylene Glycol, Olive Oil, Glycereth-8 Esters, Olea Europaea (Olive) Seed Oil, Propylene Glycol, Niacinamide (Vitamin B3), Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Phenoxyethanol, Glycyrrhiza Glabra (licorice) Root Extract, Betaine, 2-Benzylheptanol, Decylene Glycol, Xylitylglucoside, Anhydroxylitol, Xylitol Hydrosoluble, Sodium Gluconate, Ethylhexylglycerin, Parfum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.95,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b0fmxl7xtc",
+  "brand": "Rexona",
+  "model": "Shower Fresh Underarm Roll-On Deodorant for Women | 72 Hours Long-Lasting Odour Protection…",
+  "price": 156,
+  "capacityLine": "75 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹208/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "25 ml × 3 pack",
+   "pricePer100": "₹208/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ViPQ7IogL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61gh58MtZxL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61NlLN3wkKL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61kaGtYqwyL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61RWe-Qz47L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMXL7XTC",
+  "buyStore": "Amazon",
+  "title": "Rexona Shower Fresh Underarm Roll-On Deodorant for Women | 72 Hours Long-Lasting Odour Protection | 0% Alcohol, Safe on Skin | 25ML (Pack of 3)",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "claim:long-lasting",
+   "claim:odour",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b01nagmgs4",
+  "brand": "Dove",
+  "model": "Women Anti-Perspirant Deodorant Stick, 40Ml (Invisible Dry)",
+  "price": 399,
+  "capacityLine": "40 ml",
+  "materialLine": "Vitamin E",
+  "featureLine": "Stick · ₹998/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹998/100ml",
+   "format": "Stick",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, No white cast, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: cyclomethicone",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Uk6lwlesL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01NAGMGS4",
+  "buyStore": "Amazon",
+  "title": "Dove Women Anti-Perspirant Deodorant Stick, 40Ml (Invisible Dry)",
+  "tags": [
+   "scope:unstated",
+   "format:stick",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "cyclomethicone",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b00m0isbss",
+  "brand": "Nivea",
+  "model": "Men Fresh Scent Deodorant Stick- Cool Kick (150 Ml) (Pack Of 2)",
+  "price": 460,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Stick · ₹153/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹153/100ml",
+   "format": "Stick",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71uSM17ROxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81C2Vt7rXVL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00M0ISBSS",
+  "buyStore": "Amazon",
+  "title": "Nivea Men Fresh Scent Deodorant Stick- Cool Kick (150 Ml) (Pack Of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:stick",
+   "format:kit",
+   "claim:odour",
+   "aud:men",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "axe-b007e9hplc",
+  "brand": "AXE",
+  "model": "Dark Temptation Long Lasting Deodorant Bodyspray for Men 150 ml",
+  "price": 159,
+  "capacityLine": "150 ml",
+  "materialLine": "Zinc",
+  "featureLine": "Aerosol / body spray · Paraben-free · ₹106/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹106/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Zinc (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Alcohol Denat, Butane, Isobutane, Propane, Perfume, Propylene Glycol, Polyaminopropyl Biguanide Stearate, Water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-0C3vMCdL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/513ZTrJi2JL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51biECP0S+L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61C4ovvGflL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61T1ovKIXoL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B007E9HPLC",
+  "buyStore": "Amazon",
+  "title": "Axe Dark Temptation Long Lasting Deodorant Bodyspray for Men 150 ml",
+  "tags": [
+   "scope:unstated",
+   "format:aerosol",
+   "ing:zinc",
+   "claim:long-lasting",
+   "claim:odour",
+   "free:paraben",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Alcohol Denat, Butane, Isobutane, Propane, Perfume, Propylene Glycol, Polyaminopropyl Biguanide Stearate, Water",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.63,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "denver-b0cg6cqdn8",
+  "brand": "Denver",
+  "model": "Sporting Club Victor Deodorant For Men - 150ML Each, Pack of 3 | Long Lasting Deo Body Spr…",
+  "price": 449,
+  "capacityLine": "450 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹100/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 3 pack",
+   "pricePer100": "₹100/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-p+wQYGyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71tG1PzdwDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rDHRvmIiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61mPlNXwjoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61GutEDNV+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CG6CQDN8",
+  "buyStore": "Amazon",
+  "title": "Denver Sporting Club Victor Deodorant For Men - 150ML Each, Pack of 3 | Long Lasting Deo Body Spray for Men",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:men",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "yardley-b0b5f1v5xk",
+  "brand": "Yardley",
+  "model": "London Morning Dew Refreshing Body Spray Mega Pack| Lily of Valley & Frangipani Fragrance|…",
+  "price": 490,
+  "capacityLine": "450 ml (pack of 3)",
+  "materialLine": "Sandalwood + Rose",
+  "featureLine": "Aerosol / body spray · ₹109/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 3 pack",
+   "pricePer100": "₹109/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Sandalwood, Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Ethyl Alcohol, Butane, Isobutane, Propane, Perfume, PPG-20 Methyl Glucose Ether, Diethyl Phthalate, Triclosan, Alcohol (95% v/v)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Wipro Consumer Care & Lighting — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61b3Kxs8BxL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61yuRRtYCxL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61fyuVj1JPL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/611IozMwmCL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/511oNMoKL5L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B5F1V5XK",
+  "buyStore": "Amazon",
+  "title": "Yardley London Morning Dew Refreshing Body Spray Mega Pack| Lily of Valley & Frangipani Fragrance| Deodorant Body Spray For Daily Use| Deodorant For Women| 90% Naturally Derived| 150ml, Pack of 3",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:pack",
+   "format:kit",
+   "format:aerosol",
+   "ing:sandalwood",
+   "ing:rose",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Ethyl Alcohol, Butane, Isobutane, Propane, Perfume, PPG-20 Methyl Glucose Ether, Diethyl Phthalate, Triclosan, Alcohol (95% v/v)",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.67,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Wipro Consumer Care & Lighting",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.wiproconsumercare.com/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "next-care-b0h3q617sr",
+  "brand": "NEXT CARE",
+  "model": "Teens Deodorant for Girls & Women, Long Lasting Fresh Fragrance, Effective Odor Protection…",
+  "price": 208,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹139/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹139/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61eHr6ANffL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61PIklr4SWL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/61W9gKaK45L._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/71G+ng3nv8L._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/51bBEMGd43L._SL1440_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3Q617SR",
+  "buyStore": "Amazon",
+  "title": "Next Care Teens Deodorant for Girls & Women, Long Lasting Fresh Fragrance, Effective Odor Protection, Daily Wear Body Spray, 150ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:pack",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "coconess-b0744fjt4q",
+  "brand": "Coconess",
+  "model": "Natural Deodorant For Unisex, Cedar & Lime, 25G, Gel, fresh",
+  "price": 380,
+  "capacityLine": "25 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel · Aluminium-free · ₹1520/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹1520/100g",
+   "format": "Gel",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Barrier repair, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "virgin coconut oil, shea butter, beeswax, cedar essential oil, rosewood essential oil, lime essential oil, corn starch",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/618t4jj1aXL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0744FJT4Q",
+  "buyStore": "Amazon",
+  "title": "Coconess Natural Deodorant For Unisex, Cedar & Lime, 25G, Gel, fresh",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "claim:pores",
+   "claim:barrier",
+   "claim:odour",
+   "claim:cooling",
+   "free:hypoallergenic",
+   "free:aluminium",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "virgin coconut oil, shea butter, beeswax, cedar essential oil, rosewood essential oil, lime essential oil, corn starch",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "exotic-veda-b0fhdvds9r",
+  "brand": "Exotic Veda",
+  "model": "Natural Alum Crystal Roll On Deodorant for Underarms with Aloe Vera | Fragrance-Free & Alc…",
+  "price": 299,
+  "capacityLine": "80 g",
+  "materialLine": "Aloe vera + Alum",
+  "featureLine": "Roll-on · Fragrance-free · ₹374/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹374/100g",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Alum (named on listing)",
+   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Soothing / calming, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61k+DK5crBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71uP6kMdHCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81DVQ9p5FWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81HjB-R6vdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719nZZIUefL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FHDVDS9R",
+  "buyStore": "Amazon",
+  "title": "Natural Alum Crystal Roll On Deodorant for Underarms with Aloe Vera | Fragrance-Free & Alcohol-Free | Gentle on Skin, Non-Sticky, Long-Lasting Freshness | Men & Women | 80g",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:aloe-vera",
+   "ing:alum",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
+   "free:fragrance",
+   "free:alcohol",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "each-and-every-b07mgkrmbg",
+  "brand": "Each and Every",
+  "model": "Each & Every All Natural Aluminum Deodorant for Men and Women – Cruelty Vegan Deodorant wi…",
+  "price": 4504,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aluminium salts + Baking soda",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Aluminium salts, Baking soda (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Vo6M+DgdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81SNfviTtcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717Cg3jgRwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/814Vejxs0TL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81abbw53RbL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07MGKRMBG",
+  "buyStore": "Amazon",
+  "title": "Each & Every All Natural Aluminum Deodorant for Men and Women – Cruelty Vegan Deodorant with Essential Oils, Non-Toxic, Baking Soda, Cedarwood, 2.5 Oz",
+  "tags": [
+   "scope:unstated",
+   "ing:aluminium-salts",
+   "ing:baking-soda",
+   "claim:odour",
+   "free:vegan",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lineal-b09k4d4h75",
+  "brand": "Lineal",
+  "model": "Deodorant | Natural Deo-Stick for Men & Women | Aluminium-Free | For Under-Arms & Body | B…",
+  "price": 599,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Collagen + Coconut",
+  "featureLine": "Stick · Alcohol-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Stick",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Coconut (named on listing)",
+   "freeFrom": "Alcohol-free, Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Coconut Oil, Fractionated Coconut Oil, Shea Butter, Tapioca Starch, Arrowroot Powder, Natural Beeswax, Maltodextrin, Fragrance, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rXYEStVhL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61J6BqvmMNL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61BpM392qFL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61VPNnnsYIL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61y-ADbOgNL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09K4D4H75",
+  "buyStore": "Amazon",
+  "title": "Lineal Deodorant | Natural Deo-Stick for Men & Women | Aluminium-Free | For Under-Arms & Body | Bergamot and Musk",
+  "tags": [
+   "scope:body",
+   "format:stick",
+   "format:oil",
+   "format:patch",
+   "format:aerosol",
+   "ing:collagen",
+   "ing:coconut",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:odour",
+   "free:alcohol",
+   "free:aluminium",
+   "aud:women",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Coconut Oil, Fractionated Coconut Oil, Shea Butter, Tapioca Starch, Arrowroot Powder, Natural Beeswax, Maltodextrin, Fragrance, Vitamin E",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nature-masons-b0d1y3qy1c",
+  "brand": "Nature Masons",
+  "model": "Bee-ing Vanilla Deodorant Stick | Natural and Vegan Deodorant | Aluminium Free | 24 Hour P…",
+  "price": 500,
+  "capacityLine": "640 g (pack of 8)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Stick · Fragrance-free · ₹78/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "80 g × 8 pack",
+   "pricePer100": "₹78/100g",
+   "format": "Stick",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free, Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71vOJNY-MBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81AgM-B2lQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51ViYHVeWLL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/5184K2TwdvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51FXENpWSuL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D1Y3QY1C",
+  "buyStore": "Amazon",
+  "title": "Bee-ing Vanilla Deodorant Stick | Natural and Vegan Deodorant | Aluminium Free | 24 Hour Protection | Antiperspirant | Suitable for Men, Women, Teenagers, Unisex | Pack of 80 g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:stick",
+   "format:kit",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:fragrance",
+   "free:vegan",
+   "free:aluminium",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-bare-bar-b0hf4w96cd",
+  "brand": "The Bare Bar",
+  "model": "Sea Breeze & Sandalwood Oud Deodorant, Pack of 2",
+  "price": 678,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Kojic acid + Sandalwood",
+  "featureLine": "Other · Aluminium-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Combo listing — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Kojic acid, Sandalwood (named on listing)",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Sea Breeze: Caprylic/Capric Triglyceride, Tapioca Starch, Theobroma Cacao Seed Butter, Fractionated Coconut Oil, Helianthus Annuus Seed Oil, Copernicia Cerifera Wax, Butyrospermum Parkii Butter, Magnesium Hydroxide, Euphorbia Cerifera Wax, Paraffin, PPG-20 Methyl Glucose Ether, Zinc Ricinoleate, Jasminum Grandiflorum Flower Oil, Triethyl Citrate, Tocopherol Acetate, Kojic Dipalmitate, Parfum, Meth",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SrHYS-0nL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61geAjbHicL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61B1eLBOV9L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51KPy+rLkjL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61eOK9S7NdL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF4W96CD",
+  "buyStore": "Amazon",
+  "title": "The Bare Bar Sea Breeze & Sandalwood Oud Deodorant, Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:bar",
+   "format:kit",
+   "ing:kojic-acid",
+   "ing:sandalwood",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:odour",
+   "skin:sensitive",
+   "free:vegan",
+   "free:aluminium",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Sea Breeze: Caprylic/Capric Triglyceride, Tapioca Starch, Theobroma Cacao Seed Butter, Fractionated Coconut Oil, Helianthus Annuus Seed Oil, Copernicia Cerifera Wax, Butyrospermum Parkii Butter, Magnesium Hydroxide, Euphorbia Cerifera Wax, Paraffin, PPG-20 Methyl Glucose Ether, Zinc Ricinoleate, Jasminum Grandiflorum Flower Oil, Triethyl Citrate, Tocopherol Acetate, Kojic Dipalmitate, Parfum, Meth",
+   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0cbkkywz3",
+  "brand": "Dove",
+  "model": "Eventone Deodorant Roll On For Women, Antiperspirant Underarm Roll On Removes Odour, Keeps…",
+  "price": 253,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · Paraben-free · ₹253/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Seller “key ingredients” line — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹253/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Water, Aluminium Chlorohydrate, Helianthus Annuus (Sunflower) Seed Oil, Glycerine, Steareth-2, Perfume, Steareth-20, Disodium EDTA, Pentaerithrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Mica",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-SVnaVY6L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51a1OM+FoCL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51UkZQPUDgL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61Xxu23wlcL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/511uoIjUENL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CBKKYWZ3",
+  "buyStore": "Amazon",
+  "title": "Dove Eventone Deodorant Roll On For Women, Antiperspirant Underarm Roll On Removes Odour, Keeps Skin Fresh & Clean, Alcohol Free, Paraben Free, 50 ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:pack",
+   "format:roll-on",
+   "format:kit",
+   "format:aerosol",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:paraben",
+   "free:alcohol",
+   "free:derm",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Water, Aluminium Chlorohydrate, Helianthus Annuus (Sunflower) Seed Oil, Glycerine, Steareth-2, Perfume, Steareth-20, Disodium EDTA, Pentaerithrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Mica",
+   "inciNote": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "blissnatural-b0g499dl6z",
+  "brand": "BlissNatural",
+  "model": "Inknut Underarm Roll On for Women | Reduces Dark Underarms & Pigmentation | Mandelic Acid …",
+  "price": 299,
+  "capacityLine": "50 ml",
+  "materialLine": "Mandelic acid + Aloe vera",
+  "featureLine": "Roll-on · Paraben-free · ₹598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹598/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Mandelic acid, Aloe vera (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71bt3L4lA4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61V3AGuJY5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61R0TZqZaiL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61smUnpJhOL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61VoHNfia2L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G499DL6Z",
+  "buyStore": "Amazon",
+  "title": "BLISSNATURAL Inknut Underarm Roll On for Women | Reduces Dark Underarms & Pigmentation | Mandelic Acid + Aloe Vera | Controls Odour | Exfoliates Dead Skin | Paraben Free | 50ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:mandelic-acid",
+   "ing:aloe-vera",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "claim:odour",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "artisoul-b0gnz9nq2w",
+  "brand": "ARTISOUL®",
+  "model": "Underarm Sweat Vest Women Yoga Reusable for Sweating Armpit Sweatproof Shirt Black M | Hea…",
+  "price": 1174,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Water / sweat resistant, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Y1txpWkLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/618bILrEgIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61YHMJnv+wL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ZxuEDXudL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71h1fb3g-GL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GNZ9NQ2W",
+  "buyStore": "Amazon",
+  "title": "ARTISOUL® Underarm Sweat Vest Women Yoga Reusable for Sweating Armpit Sweatproof Shirt Black M | Health & Beauty | Bath & Body | Deodorants & Antiperspirants",
+  "tags": [
+   "scope:body",
+   "format:pads",
+   "claim:water-resistant",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "secret-b00txzqx3q",
+  "brand": "Secret",
+  "model": "Clinical Strength Completely Clean Invisible Solid Antiperspirant/Deodorant, Travel Size, …",
+  "price": 727,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "No white cast, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81bo6nUtpTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/819HSG6nQ9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aK9X1GEDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nNX03Ob+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71K-JHBoNVL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00TXZQX3Q",
+  "buyStore": "Amazon",
+  "title": "Secret Clinical Strength Completely Clean Invisible Solid Antiperspirant/Deodorant, Travel Size, 0.5 Oz",
+  "tags": [
+   "scope:unstated",
+   "claim:no-white-cast",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
   "id": "europe-girl-b0bvrsqswv",
   "brand": "EUROPE GIRL",
   "model": "Glow Me Makeup Fixer - 02 Ginger Glow Makeup Setting Spray | Hydrating, Sweat Control, & R…",
@@ -242251,7 +245707,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61K2wyjVBrL._SL1440_.jpg",
@@ -242285,6 +245742,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -242317,6 +245776,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -242324,6 +245784,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -248785,7 +252246,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710JksSYhyL._SL1500_.jpg",
@@ -248813,6 +252275,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -248846,6 +252309,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -248853,6 +252317,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -248860,6 +252325,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -248867,6 +252333,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -248874,6 +252341,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -248881,6 +252349,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -248888,6 +252357,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -253906,7 +257376,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aluminum chlorohydrate (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #11 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rIGTuqz7L._SL1500_.jpg",
@@ -253935,6 +257406,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -253967,6 +257440,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -253974,6 +257448,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -253981,6 +257456,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -253988,6 +257464,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -253995,6 +257472,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -254002,6 +257480,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -255933,7 +259412,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71cdcEWtZZL._SL1500_.jpg",
@@ -255965,6 +259445,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -255998,6 +259479,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -256005,6 +259487,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -256012,6 +259495,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -256019,6 +259503,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -256026,6 +259511,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -256033,6 +259519,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -256040,6 +259527,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -259930,6 +263418,2452 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "furr-b0gtlgp2nf",
+  "brand": "FURR",
+  "model": "30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Gly…",
+  "price": 299,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
+  "featureLine": "Roll-on · ₹598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹598/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Urea, Lactic Acid, Glycolic Acid, Salicylic Acid, Olive Oil, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Ke64N-wyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71awx1k4-LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lare1g33L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qHdds95zL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71n+3noCbKL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTLGP2NF",
+  "buyStore": "Amazon",
+  "title": "FURR 30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Glycolic Acid, Salicylic Acid | Repairs, Hydrates, Softens | For Sensitive Skin",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Urea, Lactic Acid, Glycolic Acid, Salicylic Acid, Olive Oil, Vitamin E",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lunaris-b0g2h64698",
+  "brand": "Lunaris",
+  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
+  "price": 199,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹398/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹398/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71+8GwFx6BL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Qvpthxd9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81VfycrnbdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ChvPROcoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wXm6AOcoL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
+  "buyStore": "Amazon",
+  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:kids",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "comytricks-b0hg149y7v",
+  "brand": "COMYTRICKS",
+  "model": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Ro…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "Tea tree + Aloe vera",
+  "featureLine": "Roll-on · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51O92dM8brL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71keVQ5GtWL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71av9bBKliL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71iosYHxxjL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/716BzAN2JdL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG149Y7V",
+  "buyStore": "Amazon",
+  "title": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & Hard Feet | Softens Corns & Calluses | Easy Roll-On Application | Daily Foot Care | 50ml (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:roll-on",
+   "format:kit",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "adbhutanand-b0fj8qfgcq",
+  "brand": "ADBHUTANAND",
+  "model": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream fo…",
+  "price": 179,
+  "capacityLine": "40 g",
+  "materialLine": "Urea + Shea butter + Vitamin E",
+  "featureLine": "Foot peel mask · ₹448/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹448/100g",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Urea, Shea butter, Vitamin E, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Odour control / freshness, Cracked heels / rough feet, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Liquid Paraffin Mineral Grease Ground Wax Ethyl Hexyl Palmitate Essence (Peach) CI 4700 Butylhydroxytoluene",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613dPLU9IlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61goHf65OKL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJ8QFGCQ",
+  "buyStore": "Amazon",
+  "title": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream for Dead Skin Removal Callus Remover | Heel Repair Stick deeply moisturizes and softens feet",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "format:peel",
+   "format:roll-on",
+   "format:foot-peel",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:odour",
+   "claim:cracked-heels",
+   "claim:overnight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Liquid Paraffin Mineral Grease Ground Wax Ethyl Hexyl Palmitate Essence (Peach) CI 4700 Butylhydroxytoluene",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "chemist-at-play-b0c6ktqxp5",
+  "brand": "Chemist at Play",
+  "model": "UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odo…",
+  "price": 359,
+  "capacityLine": "40 ml",
+  "materialLine": "Lactic acid + Mandelic acid + AHA",
+  "featureLine": "Roll-on · ₹898/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹898/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Mandelic acid, AHA, Aluminium salts (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Purified Water, Lactic Acid,Propanediol, Mandelic Acid, Phenoxyethanol,Polysorbate-80, Xanthan Gum, Allantoin,3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate,Rice (Oryza Sativa) Phytoceramides, Konjac(Amorphophallus) Phytoceramides,Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51GYrIl4YrL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/81EkjSdVcjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Oxu9hDeVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/813cnwlgiZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716icBjC2HL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C6KTQXP5",
+  "buyStore": "Amazon",
+  "title": "Chemist At Play UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odour & Fades Pigmentation | 0% Aluminium & 0% Alcohol | White Jasmine Fragrance | 40ml",
+  "tags": [
+   "scope:body",
+   "format:patch",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:mandelic-acid",
+   "ing:aha",
+   "ing:aluminium-salts",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "claim:odour",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Purified Water, Lactic Acid,Propanediol, Mandelic Acid, Phenoxyethanol,Polysorbate-80, Xanthan Gum, Allantoin,3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate,Rice (Oryza Sativa) Phytoceramides, Konjac(Amorphophallus) Phytoceramides,Phospholipids, Sphingolipids, Di-Sodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "3-o-ethyl ascorbic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "just-herbs-b0bjpnxp2d",
+  "brand": "Just Herbs",
+  "model": "Long Lasting, Refreshing Body Spray, Natural Deodorant for Women - Phthalate-Free Formula,…",
+  "price": 254,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · Paraben-free · ₹169/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹169/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41c3Ypnyq+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61uWCFKwGCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/610HYJdI6WL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61IGC7MlOLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ncapAxb0L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BJPNXP2D",
+  "buyStore": "Amazon",
+  "title": "Just Herbs Long Lasting, Refreshing Body Spray, Natural Deodorant for Women - Phthalate-Free Formula,150 ml (Floral Fiesta)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "english-blazer-b07qwbylkm",
+  "brand": "English Blazer",
+  "model": "Deodorant Spray for Men Victory, 200ml",
+  "price": 294,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹147/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹147/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/611HWjJwcFL._SL1400_.jpg",
+   "https://m.media-amazon.com/images/I/61FnCmv94qL._SL1400_.jpg",
+   "https://m.media-amazon.com/images/I/71NR6HivDKL._SL1400_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07QWBYLKM",
+  "buyStore": "Amazon",
+  "title": "English Blazer Deodorant Spray for Men Victory, 200ml",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "format:aerosol",
+   "claim:soothing",
+   "claim:odour",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hrx-b0h4w4xxq8",
+  "brand": "HRX",
+  "model": "Xtreme Deodorant Body Spray - Warm, Spicy Men's Deodorant - Body Spray for Men with Cardam…",
+  "price": 399,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹200/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61IAAj5xBtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71AxSmXIHtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91j2QJ+wAFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81dsuSfHFVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CK0nH1VmL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4W4XXQ8",
+  "buyStore": "Amazon",
+  "title": "HRX Xtreme Deodorant Body Spray - Warm, Spicy Men's Deodorant - Body Spray for Men with Cardamom, Leather, Oud Notes - 200 ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nike-b00dre4flg",
+  "brand": "Nike",
+  "model": "Urban Musk Deo Aerosol for Women, 200ml, Pack of 1",
+  "price": 326,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹163/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹163/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61KKtb+8A-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71syG045KEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61z+bgwYdML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61FXCyd2+3L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00DRE4FLG",
+  "buyStore": "Amazon",
+  "title": "Nike Urban Musk Deo Aerosol for Women, 200ml, Pack of 1",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:odour",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lady-speed-stick-b000p9gmhq",
+  "brand": "Lady Speed Stick",
+  "model": "Invisible Dry Shower Fresh Antiperspirant Deordorant Gel 2.3 Oz, For Female",
+  "price": 442,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Stick",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Stick",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "No white cast, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61WrPsBciyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61XJYcAmlUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51InGploSmL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/51HW4+olBIL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B000P9GMHQ",
+  "buyStore": "Amazon",
+  "title": "Lady Speed Stick Invisible Dry Shower Fresh Antiperspirant Deordorant Gel 2.3 Oz, For Female",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:stick",
+   "claim:no-white-cast",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "be-bodywise-b0h2fh4spy",
+  "brand": "Be Bodywise",
+  "model": "6% AHA BHA Underarm Roll On Deodorant, 50ml | 1% Mandelic, 4% Lactic, 1% Salicylic Acid | …",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA) + Lactic acid + Mandelic acid",
+  "featureLine": "Roll-on · Fragrance-free · ₹798/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 9,
+   "trust": 7,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Lactic acid, Mandelic acid, AHA (named on listing)",
+   "freeFrom": "Fragrance-free, Aluminium-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Soothing / calming, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
+   "inciMatchedName": "4 aha bha underarm roll on (name match 90%)",
+   "listingIngredientLine": "4% Lactic Acid, 1% Mandelic Acid, 2% Dermawhite (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61nXvnwuHoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61OONJZCXgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Rzu5rMr1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CZ8y4DXdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71D7HynOTOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2FH4SPY",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 6% AHA BHA Underarm Roll On Deodorant, 50ml | 1% Mandelic, 4% Lactic, 1% Salicylic Acid | Prevents Body Odour & Fades Pigmentation | Alcohol & Aluminium Free | Fragrance-free",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:mandelic-acid",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:odour",
+   "free:fragrance",
+   "free:derm",
+   "free:vegan",
+   "free:aluminium",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:acne",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "4 aha bha underarm roll on",
+   "inciMatchScore": 0.9,
+   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.83,
+   "actives": [
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "butyrospermum parkii butter",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b08qv4bhhf",
+  "brand": "Rexona",
+  "model": "Powder Dry Underarm Roll On Deodorant For Women & Rexona Shower Fresh Underarm Roll On Deo…",
+  "price": 229,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · ₹458/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹458/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DMj4z5xPL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/616V08PyeuL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51Z1OJ4yBbL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61dqMTsXGAL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61oOHeYDZPL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08QV4BHHF",
+  "buyStore": "Amazon",
+  "title": "Rexona Powder Dry Underarm Roll On Deodorant For Women & Rexona Shower Fresh Underarm Roll On Deodorant For Women, 50ml",
+  "tags": [
+   "scope:body",
+   "format:powder",
+   "format:roll-on",
+   "claim:long-lasting",
+   "claim:odour",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "just-herbs-b0c2pp4sr7",
+  "brand": "Just Herbs",
+  "model": "Roll on Deo for Men Musk Divine Refreshing Under Arm Long Lasting Deodorant - 50 ml",
+  "price": 260,
+  "capacityLine": "50 ml",
+  "materialLine": "Turmeric",
+  "featureLine": "Roll-on · ₹520/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹520/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Turmeric (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Exfoliating, Ayurvedic / herbal, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico — Established / listed Indian FMCG house",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51h+VfS4uEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71gmbN3KTKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Dud7W8tQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61FB6tbBQxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61nbzEsJQPL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C2PP4SR7",
+  "buyStore": "Amazon",
+  "title": "Just Herbs Roll on Deo for Men Musk Divine Refreshing Under Arm Long Lasting Deodorant - 50 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:aerosol",
+   "ing:turmeric",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
+   "free:vegan",
+   "aud:men",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wild-stone-b0dzvkcqx7",
+  "brand": "Wild Stone",
+  "model": "Excel Deodorant for Men, 200ml | Best Deo for Office | A Long-Lasting Body Spray for Men |…",
+  "price": 149,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹75/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹75/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/612YBbEC52L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aW6imFZML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717KFatKk3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71MjuqeCNRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71k-4Ba4rzL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DZVKCQX7",
+  "buyStore": "Amazon",
+  "title": "Wild Stone Excel Deodorant for Men, 200ml | Best Deo for Office | A Long-Lasting Body Spray for Men | Excel Body Spray with Woody Fragrance",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "armaf-b07gc54zzg",
+  "brand": "ARMAF",
+  "model": "Club De Nuit Deo 200ML | Perfume Body Spray for Long Lasting Freshness for men Ideal for D…",
+  "price": 338,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹169/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹169/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51VEROTJ53L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51PqIu-srNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61REprZL6eL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61cx+A7PHmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51pzRNCKM-L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07GC54ZZG",
+  "buyStore": "Amazon",
+  "title": "Armaf Club De Nuit Deo 200ML | Perfume Body Spray for Long Lasting Freshness for men Ideal for Daily Use (Musk)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:men",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nike-b08bk6x228",
+  "brand": "Nike",
+  "model": "Men Aromatic Addiction Deodorant Spray, 200ml | Long Lasting Freshness | Aromatic Fragranc…",
+  "price": 399,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹200/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51LWwtATT3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Gcj58s10L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61EYYTsTl8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81RTS9-0q3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71awkE+ZmBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08BK6X228",
+  "buyStore": "Amazon",
+  "title": "Nike Men Aromatic Addiction Deodorant Spray, 200ml | Long Lasting Freshness | Aromatic Fragrance Body Spray for Men | Daily Use Deodorant for Odour Protection",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:pack",
+   "format:aerosol",
+   "claim:oil-control",
+   "claim:odour",
+   "skin:all",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rustic-art-b0b37pf6ct",
+  "brand": "Rustic Art",
+  "model": "Organic Pepperine Deodorant Balm with Vitamin E | Vegan, Unisex | Free of Alcohol & Alumin…",
+  "price": 380,
+  "capacityLine": "12 g",
+  "materialLine": "Vitamin E + Aluminium salts",
+  "featureLine": "Balm · Alcohol-free · ₹3167/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "12 g",
+   "pricePer100": "₹3167/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E, Aluminium salts (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Water / sweat resistant, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51mp6Z6eaPL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/516U0g-75zL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51HSgHBGQdL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61GT9KZ8ngL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61YzuPAfrIL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B37PF6CT",
+  "buyStore": "Amazon",
+  "title": "Rustic Art Organic Pepperine Deodorant Balm with Vitamin E | Vegan, Unisex | Free of Alcohol & Aluminum | Lasts Up To 12 hours | For Women & Men | 12 g",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:vitamin-e",
+   "ing:aluminium-salts",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:odour",
+   "skin:all",
+   "free:alcohol",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "chemist-at-play-b0bds757bx",
+  "brand": "Chemist at Play",
+  "model": "UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odo…",
+  "price": 349,
+  "capacityLine": "40 ml",
+  "materialLine": "Lactic acid + Mandelic acid + AHA",
+  "featureLine": "Roll-on · ₹873/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹873/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Mandelic acid, AHA, Aluminium salts (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51bQ+i-qt-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61pZurOK1yL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/614sxll7WHL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61OjScE+J-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61oT2ZMS26L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BDS757BX",
+  "buyStore": "Amazon",
+  "title": "Chemist At Play UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odour & Fades Pigmentation | 0% Aluminium & 0% Alcohol | Peach Fragrance | 40ml",
+  "tags": [
+   "scope:body",
+   "format:patch",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:mandelic-acid",
+   "ing:aha",
+   "ing:aluminium-salts",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "claim:odour",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Chemist at Play / Bodywise",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://chemistatplay.com/"
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b0hcj6tc1g",
+  "brand": "Nivea",
+  "model": "Hijab Soft Bright & Shaveless Anti-Perspirant Roll-On for Women, 72H Protection, Vitamin C…",
+  "price": 299,
+  "capacityLine": "50 ml",
+  "materialLine": "Vitamin C + Pearl",
+  "featureLine": "Roll-on · Alcohol-free · ₹598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹598/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Pearl (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, 24h / 48h / 72h, Dry / very dry skin relief, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/511IQzu6xjL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/51gNGJVwIXL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71V3pl7eRrL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71VkAELBC9L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71fACzfECbL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCJ6TC1G",
+  "buyStore": "Amazon",
+  "title": "NIVEA Hijab Soft Bright & Shaveless Anti-Perspirant Roll-On for Women, 72H Protection, Vitamin C & Pearl Extract, 0% Alcohol, 50 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:vitamin-c",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:alcohol",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "sirona-b0bhwq9cqv",
+  "brand": "Sirona",
+  "model": "Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfol…",
+  "price": 256,
+  "capacityLine": "50 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid + Lemon",
+  "featureLine": "Roll-on · Alcohol-free · ₹512/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹512/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Lemon (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Soothing / calming, Exfoliating, 24h / 48h / 72h, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61fLkDyhWPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Zq5VNtIwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tNYrc3QbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/619kugRbN4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vZMQhGLhL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BHWQ9CQV",
+  "buyStore": "Amazon",
+  "title": "Sirona Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfoliates Underarm | Sensitive Skin | Aqua Fragrance | Alcohol Free",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:lemon",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "claim:odour",
+   "claim:cooling",
+   "skin:sensitive",
+   "free:alcohol",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Sirona Hygiene",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://thesirona.com/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "old-spice-b00nfuvtji",
+  "brand": "Old Spice",
+  "model": "Unisex Deodorant 2.25Oz Pure Sport Solid",
+  "price": 1447,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Procter & Gamble — Global FMCG or beauty group",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61J5amwWlML._SL1488_.jpg",
+   "https://m.media-amazon.com/images/I/61M4YsUHixL._SL1242_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00NFUVTJI",
+  "buyStore": "Amazon",
+  "title": "Old Spice Unisex Deodorant 2.25Oz Pure Sport Solid",
+  "tags": [
+   "scope:unstated",
+   "claim:odour",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Procter & Gamble",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://us.pg.com/brands/"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "byond-b0bn1xrxr3",
+  "brand": "Byond",
+  "model": "Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of…",
+  "price": 349,
+  "capacityLine": "240 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹145/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml × 2 pack",
+   "pricePer100": "₹145/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, 24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51wBA+-e7cL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51whsNYwhFL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61UfRzPzlsL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61hZxW8QEbL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/518y4nWQcwL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BN1XRXR3",
+  "buyStore": "Amazon",
+  "title": "Byond Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of 2 (Tao & Tito, 120ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:odour",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
   "id": "dr-algar-b0fgq5d5cl",
   "brand": "Dr. Algar",
   "model": "Dr. Algar Anti-Acne HOCL Face & Body Spray 200 ml | Hypochlorous Acid Spray for Skin Barri…",
@@ -260713,6 +266647,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -260720,6 +266655,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -260727,6 +266663,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -260734,6 +266671,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -260741,6 +266679,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -260748,6 +266687,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -260755,6 +266695,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -263759,7 +269700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IcEGcJYrL._SL1500_.jpg",
@@ -263787,6 +269729,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -263820,6 +269763,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -263827,6 +269771,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -263834,6 +269779,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -263841,6 +269787,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -263848,6 +269795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -263855,6 +269803,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -263862,6 +269811,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -277302,7 +283252,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Q91-jwnfL._SL1500_.jpg",
@@ -277326,6 +283277,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -277358,6 +283312,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -277365,6 +283320,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -277372,6 +283328,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -277379,6 +283336,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -277386,6 +283344,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -281019,6 +286978,2973 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "quiqshipp-b0grwjth6g",
+  "brand": "QUIQSHIPP",
+  "model": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oi…",
+  "price": 189,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Shea butter",
+  "featureLine": "Roll-on · ₹378/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹378/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Shea butter, Vitamin E, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Cq1yAf8OL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61RNG9zDGDL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61iToLGEg8L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51DG1qthOdL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51W6nz0Gw2L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRWJTH6G",
+  "buyStore": "Amazon",
+  "title": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oil & Vitamin E | Helps Repair and Moisturise Cracked Heels | Crack Heel Repair Roll On (foot cream)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "parisar-pharma-b0f1tynz86",
+  "brand": "PARISAR PHARMA",
+  "model": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2%…",
+  "price": 379,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹379/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹379/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Xu3fdXf9L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/616ZrObPoSL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61BguykbSsL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61lJ7ZWDbtL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61gsbn6wv9L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
+  "buyStore": "Amazon",
+  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:patch",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kidelle-co-b0h6jyzh9t",
+  "brand": "KIDELLE&CO",
+  "model": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitami…",
+  "price": 289,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹578/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹578/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Cq1yAf8OL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61RNG9zDGDL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61iToLGEg8L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51DG1qthOdL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51W6nz0Gw2L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6JYZH9T",
+  "buyStore": "Amazon",
+  "title": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitamin E, 50ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h987c31n",
+  "brand": "Unbranded",
+  "model": "Underarm Roll-On Deodorant, 5% Potassium, Brightening, Odour Control & Smooth Skin, for Me…",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51glWXqXStL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61zEByo5WEL._SL1050_.jpg",
+   "https://m.media-amazon.com/images/I/61WjK2irmAL._SL1050_.jpg",
+   "https://m.media-amazon.com/images/I/71VLSXaOz-L._SL1050_.jpg",
+   "https://m.media-amazon.com/images/I/61n-HmzqqIL._SL1050_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H987C31N",
+  "buyStore": "Amazon",
+  "title": "Underarm Roll-On Deodorant, 5% Potassium, Brightening, Odour Control & Smooth Skin, for Men & Women",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "claim:brightening",
+   "claim:odour",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "al-nuaim-b0h1j9pp2f",
+  "brand": "Al-Nuaim",
+  "model": "Ameer Al Oudh Body Spray Deodorant, Smoky Oud Fragrance, Long Lasting Freshness, for Men a…",
+  "price": 234,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹117/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹117/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Lightweight / fast-absorbing, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Hr8Cd1MOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1J9PP2F",
+  "buyStore": "Amazon",
+  "title": "Ameer Al Oudh Body Spray Deodorant, Smoky Oud Fragrance, Long Lasting Freshness, for Men and Women, 200ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:pack",
+   "format:aerosol",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lomani-b0763kfcs5",
+  "brand": "Lomani",
+  "model": "Paris Do It And El Paso Deodorant Fresh Spray For Men, 200 Ml (Pack Of 2), 2 Count",
+  "price": 648,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "Sandalwood + Lavender",
+  "featureLine": "Mist / spray · ₹162/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹162/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Sandalwood, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BCCW68fkL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/51b4IMFnbwL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/61yd7v-uXAL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/61nSAz6Il8L._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/61xhjSc2s4L._SL1440_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0763KFCS5",
+  "buyStore": "Amazon",
+  "title": "Lomani Paris Do It And El Paso Deodorant Fresh Spray For Men, 200 Ml (Pack Of 2), 2 Count",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "ing:sandalwood",
+   "ing:lavender",
+   "claim:odour",
+   "aud:men",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nike-b00dre43nq",
+  "brand": "Nike",
+  "model": "Up Or Down Silver Deodorant for Men, 200ml",
+  "price": 369,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other · ₹185/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹185/100ml",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hqYV9htNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/619phlXDwRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vB98v6ABL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51nPdDdtXaL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00DRE43NQ",
+  "buyStore": "Amazon",
+  "title": "Nike Up Or Down Silver Deodorant for Men, 200ml",
+  "tags": [
+   "scope:unstated",
+   "format:aerosol",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "jovan-b07vsbxnbp",
+  "brand": "Jovan",
+  "model": "Musk Body Spray For Men, 150ml (Pack of 2)",
+  "price": 899,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹300/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹300/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71XeEtYv5lL._SL1403_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07VSBXNBP",
+  "buyStore": "Amazon",
+  "title": "Jovan Musk Body Spray For Men, 150ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "aud:men",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hot-black-b0dpctwxcf",
+  "brand": "Hot Black",
+  "model": "BERNARD DIMITRI HOT BLACK GENTLEMEN Deodorant for Men - 200 ML | Fragrance of Woodsy Notes…",
+  "price": 296,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Serum · ₹148/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: isoeugenol, benzyl benzoate",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.1,
+   "skin": 4.6,
+   "trust": 5.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹148/100ml",
+   "format": "Serum",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Butane, propane, Denatured Ethyl Alcohol ,Iso propyl myristate, Propylene Glycol, Fragrance, Allergens present in the fragrance, Benzy| Alcohol,Isoeugenol, Benzyl Benzoate, Benzyl Cinnamate , Limonene",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: isoeugenol, benzyl benzoate, benzyl cinnamate, limonene (−2)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51UjJgXMUWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61kTIsgh2GL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71e9Tgds1VL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71UnjHmV1kL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71T7q4h7P-L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DPCTWXCF",
+  "buyStore": "Amazon",
+  "title": "BERNARD DIMITRI HOT BLACK GENTLEMEN Deodorant for Men - 200 ML | Fragrance of Woodsy Notes and Amber | Long-Lasting Freshness Smell | Deo Idle Gift For Brother, Friend and Loved Once",
+  "tags": [
+   "scope:body",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Butane, propane, Denatured Ethyl Alcohol ,Iso propyl myristate, Propylene Glycol, Fragrance, Allergens present in the fragrance, Benzy| Alcohol,Isoeugenol, Benzyl Benzoate, Benzyl Cinnamate , Limonene",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.77,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "isoeugenol",
+      "benzyl benzoate",
+      "benzyl cinnamate",
+      "limonene"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hot-black-b0fh5jklmg",
+  "brand": "Hot Black",
+  "model": "BERNARD DIMITRI HOT BLACK ICE Deodorant Spray for Men & Women, 200ML X 2PC Grapefruit & Wo…",
+  "price": 418,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹209/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹209/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/315uuKDr3PL.jpg",
+   "https://m.media-amazon.com/images/I/51h4zems63L.jpg",
+   "https://m.media-amazon.com/images/I/51PZMDKA2hL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FH5JKLMG",
+  "buyStore": "Amazon",
+  "title": "BERNARD DIMITRI HOT BLACK ICE Deodorant Spray for Men & Women, 200ML X 2PC Grapefruit & Woody Amber Fragrance, Premium Long-Lasting Fresh Scent, Ideal for Daily Use, Office, College, Parties & Outings",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "format:aerosol",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b0dk5pfhgt",
+  "brand": "Rexona",
+  "model": "Advanced Brightening Roll On Motion Activated Deodorant for Women | 72-Hour Freshness | 45…",
+  "price": 109,
+  "capacityLine": "45 ml",
+  "materialLine": "Vitamin E",
+  "featureLine": "Roll-on · Alcohol-free · ₹242/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "45 ml",
+   "pricePer100": "₹242/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51NH3rxXg7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61iYDMoQX7L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51Y57WD71mL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61D9u3kt6ZL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/611TFzl+uAL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DK5PFHGT",
+  "buyStore": "Amazon",
+  "title": "Rexona Advanced Brightening Roll On Motion Activated Deodorant for Women | 72-Hour Freshness | 45 ML",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:odour",
+   "free:alcohol",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b0fqcjk4td",
+  "brand": "Rexona",
+  "model": "Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odo…",
+  "price": 179,
+  "capacityLine": "50 ml",
+  "materialLine": "Shea butter + Glycerin",
+  "featureLine": "Roll-on · ₹358/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹358/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51RIihwL8uL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51cgh0UJDYL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51Ff5k8GNcL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61XuyUjqmuL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61jwv1Dn0bL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQCJK4TD",
+  "buyStore": "Amazon",
+  "title": "Rexona Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odour Protection| Limited Edition Pack - ICC Women’s Cricket World Cup India 2025 |50 ML",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:pack",
+   "format:roll-on",
+   "ing:shea-butter",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b07vl3gm6j",
+  "brand": "Rexona",
+  "model": "Fresh Rose Underarm Roll On Deodorant For Women, Antiperspirant With Glycerine, Removes Od…",
+  "price": 135,
+  "capacityLine": "50 ml",
+  "materialLine": "Niacinamide + Rose + Glycerin",
+  "featureLine": "Roll-on · Alcohol-free · ₹270/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹270/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Rose, Glycerin (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Barrier repair, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51iIgmmHR5L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61XnmjRZF4L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/512cUVTNBvL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61bWx2ukNpL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/611Kl6I2VxL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07VL3GM6J",
+  "buyStore": "Amazon",
+  "title": "Rexona Fresh Rose Underarm Roll On Deodorant For Women, Antiperspirant With Glycerine, Removes Odour, Keeps Skin Fresh & Clean, Alcohol Free, 50 ml",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:niacinamide",
+   "ing:rose",
+   "ing:glycerin",
+   "claim:dark-spots",
+   "claim:barrier",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:alcohol",
+   "free:derm",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "pixenza-b0gqhglyjw",
+  "brand": "PIXENZA",
+  "model": "Natural Underarm Roll on Deodorant for Women and Men, Antiperspirant Long-lasting Freshnes…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "Rose + Aluminium salts",
+  "featureLine": "Roll-on · Aluminium-free · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredient names run together with commas missing (image-to-text copy) — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose, Aluminium salts (named on listing)",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Oil control / matte / non-greasy, Soothing / calming, Lightweight / fast-absorbing, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredient names run together with commas missing (image-to-text copy) — treated as corrupt, not scored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Water, Glycerin, mineral, oil, Ethylhexyl, Palmitate, dimethicone. phenoxyethanol, butylene Glycol, Sucrose Tristearate, Carbomer. Arginine, Rosa Damascena Flower Extract. Xanthan Gum, Fragrance. cetearly slcohol, ceteareth-25, Hydroxyacetophenone",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bKHEJ4OJL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61MkOZEzUXL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61yKtIJc-3L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61IBaKiMAVL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61fUBYgxbOL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQHGLYJW",
+  "buyStore": "Amazon",
+  "title": "Natural Underarm Roll on Deodorant for Women and Men, Antiperspirant Long-lasting Freshness, Romantic Rose Fragrance, Travel Deo Underarm Deodorant Odor & Sweat Protection All Day - 50ml",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:roll-on",
+   "format:aerosol",
+   "ing:rose",
+   "ing:aluminium-salts",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "claim:cooling",
+   "skin:all",
+   "free:aluminium",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "garbled",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "garbled",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Water, Glycerin, mineral, oil, Ethylhexyl, Palmitate, dimethicone. phenoxyethanol, butylene Glycol, Sucrose Tristearate, Carbomer. Arginine, Rosa Damascena Flower Extract. Xanthan Gum, Fragrance. cetearly slcohol, ceteareth-25, Hydroxyacetophenone",
+   "inciNote": "Ingredient names run together with commas missing (image-to-text copy) — treated as corrupt, not scored",
+   "declarationConfidence": null,
+   "recognised": 0.93,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0b8zsq1qm",
+  "brand": "Dove",
+  "model": "Original Deodorant Roll On for Women, 50ml & Eventone Deodorant Roll On for Women, 50ml",
+  "price": 278,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on · Paraben-free · ₹556/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹556/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, 24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QgMVoeBDL._SL1120_.jpg",
+   "https://m.media-amazon.com/images/I/514wO57XrGL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61LMmZ6zHIL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51Ng9uHk91L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/41vHV9kbw2L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B8ZSQ1QM",
+  "buyStore": "Amazon",
+  "title": "Dove Original Deodorant Roll On for Women, 50ml & Eventone Deodorant Roll On for Women, 50ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:roll-on",
+   "format:aerosol",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:odour",
+   "free:paraben",
+   "free:derm",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wild-stone-b07yfs6jmm",
+  "brand": "Wild Stone",
+  "model": "Ultra Sensual Long Lasting Body Deodorant Spray For Men, 225Ml",
+  "price": 165,
+  "capacityLine": "225 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹73/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "225 ml",
+   "pricePer100": "₹73/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Propellant, Ethyl Alcohol, Fragrance, propylene Glycol",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51jXXO2lKPL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/611zpM02t1L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/615yHj+1lBL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/91yCIJNXgRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/41uMZtzX2nL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07YFS6JMM",
+  "buyStore": "Amazon",
+  "title": "Wild Stone Ultra Sensual Long Lasting Body Deodorant Spray For Men, 225Ml",
+  "tags": [
+   "scope:both",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:odour",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Propellant, Ethyl Alcohol, Fragrance, propylene Glycol",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nike-b0djpqtwd9",
+  "brand": "Nike",
+  "model": "Blue Bamboo 200 ml, Deodorant Man Spray, Anti-Stain Deodorant for All Skin Types, 0% Alumi…",
+  "price": 389,
+  "capacityLine": "200 ml",
+  "materialLine": "Aluminium salts",
+  "featureLine": "Mist / spray · Aluminium-free · ₹195/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹195/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Aluminium salts (named on listing)",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51npuSvo21L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61u7zep58JL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TaoEq7zRL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJPQTWD9",
+  "buyStore": "Amazon",
+  "title": "NIKE - Blue Bamboo 200 ml, Deodorant Man Spray, Anti-Stain Deodorant for All Skin Types, 0% Aluminium Salts, Long Lasting, Marine Woody Aromatic Fragrance",
+  "tags": [
+   "scope:unstated",
+   "format:mist",
+   "format:aerosol",
+   "ing:aluminium-salts",
+   "claim:anti-aging",
+   "claim:odour",
+   "claim:cooling",
+   "skin:all",
+   "free:aluminium",
+   "aud:men",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lilo-naturals-b0gx9t8vwf",
+  "brand": "Lilo Naturals",
+  "model": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Bu…",
+  "price": 380,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Rose + Clay + Almond",
+  "featureLine": "Body butter · Aluminium-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rose, Clay, Almond, Shea butter, Jojoba, Magnesium (named on listing)",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+zj9xbKYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61p3c7PhaQL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/613PAmSnL5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61JiUCqwhbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716K4NZKH3L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX9T8VWF",
+  "buyStore": "Amazon",
+  "title": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Butter, Mango Butter, Jojoba & Almond Oil | Magnesium & Kaolin Clay | Sensitive Skin Safe | For Men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:clay-mask",
+   "ing:rose",
+   "ing:clay",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:jojoba",
+   "ing:magnesium",
+   "claim:hydrating",
+   "claim:odour",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "free:aluminium",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "schmidt-s-natural-deodorant-b00b7umequ",
+  "brand": "Schmidt's Natural Deodorant",
+  "model": "Fragrance-Free, 2 Ounce",
+  "price": 2285,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aluminium salts",
+  "featureLine": "Other · Fragrance-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Aluminium salts (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SFBLlG0fL._SL1476_.jpg",
+   "https://m.media-amazon.com/images/I/71ZfpQtQ27L._SL1472_.jpg",
+   "https://m.media-amazon.com/images/I/71bXakrX27L._SL1476_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00B7UMEQU",
+  "buyStore": "Amazon",
+  "title": "Schmidt's Natural Deodorant, Fragrance-Free, 2 Ounce",
+  "tags": [
+   "scope:unstated",
+   "ing:aluminium-salts",
+   "claim:odour",
+   "free:fragrance",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0gj4cltkr",
+  "brand": "Dove",
+  "model": "Go Fresh Antiperspirant Roll On Deodorant for Women Pomegranate and Lemongrass Verbena wit…",
+  "price": 349,
+  "capacityLine": "50 ml",
+  "materialLine": "Vitamin E",
+  "featureLine": "Roll-on · ₹698/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹698/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "2.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "2.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51yRzRnVcRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61-K+FyjJEL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61xo6RlyOoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717vWa3pelL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/615AW1VHMaL._SL1285_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GJ4CLTKR",
+  "buyStore": "Amazon",
+  "title": "Dove Go Fresh Antiperspirant Roll On Deodorant for Women Pomegranate and Lemongrass Verbena with Moisturizing Cream Vitamin E 48 Hour Sweat Odour Protection 50 ml",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:roll-on",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "2.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "secret-temptation-b09phqtvwp",
+  "brand": "Secret Temptation",
+  "model": "Talc Effect and Brightening Roll-On for Women, Antiperspirant Dedorant Roll On, Pack of 2 …",
+  "price": 279,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Aluminium salts",
+  "featureLine": "Roll-on · ₹279/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹279/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aluminium salts (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Soothing / calming, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/91eGjlRYw4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71KZ3ah0G+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71dLhuSdfmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81TIDvhUP7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71dvsGUexiL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09PHQTVWP",
+  "buyStore": "Amazon",
+  "title": "Secret Temptation Talc Effect and Brightening Roll-On for Women, Antiperspirant Dedorant Roll On, Pack of 2 (50ml each)",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "format:kit",
+   "ing:aluminium-salts",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b0gznhkgdq",
+  "brand": "Nivea",
+  "model": "Extra Bright Radiant & Smooth Anti-Perspirant Roll On 50ml for Women | 8 in 1 Underarm Car…",
+  "price": 397,
+  "capacityLine": "50 ml",
+  "materialLine": "Vitamin C + AHA + Licorice",
+  "featureLine": "Roll-on · Alcohol-free · ₹794/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹794/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, AHA, Licorice, Avocado (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/510ph3GwdAL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61uQYZVWMPL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/51Cj6am79vL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61WLMBIAXIL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71e4dbwaA0L._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZNHKGDQ",
+  "buyStore": "Amazon",
+  "title": "Nivea Extra Bright Radiant & Smooth Anti-Perspirant Roll On 50ml for Women | 8 in 1 Underarm Care with Vitamin C, Superfood & AHA | 72H Sweat & Odor Protection",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:roll-on",
+   "ing:vitamin-c",
+   "ing:aha",
+   "ing:licorice",
+   "ing:avocado",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:alcohol",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "phillauri-b0h4lqc44y",
+  "brand": "Phillauri",
+  "model": "Cherry Blossom Underarm Roll On Deodorant for Women & Men – Helps Reduce Odour & Dark Unde…",
+  "price": 219,
+  "capacityLine": "50 ml",
+  "materialLine": "Rose + Cherry / acerola",
+  "featureLine": "Roll-on · ₹438/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹438/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose, Cherry / acerola (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Lightweight / fast-absorbing, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61WAh9LAWiL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ZgS0jrBPL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61KjbyN-CHL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/615mSclbyoL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/614cH16t1ZL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4LQC44Y",
+  "buyStore": "Amazon",
+  "title": "Cherry Blossom Underarm Roll On Deodorant for Women & Men – Helps Reduce Odour & Dark Underarms, Long Lasting Odor Protection & Fresh Rose Fragrance - 50 ml (Pack 3)",
+  "tags": [
+   "scope:body",
+   "format:pack",
+   "format:roll-on",
+   "ing:rose",
+   "ing:cherry-acerola",
+   "claim:lightweight",
+   "claim:odour",
+   "claim:cooling",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "crystal-essence-b001e0ya2o",
+  "brand": "Crystal Essence",
+  "model": "Crystal Body Deodorant Roll On 2.25 Oz, 2 Pack",
+  "price": 1537,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Roll-on",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71kDHA5er3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zFcWAMhWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NFKFniJmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71w3allKQML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EY73JDJtL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B001E0YA2O",
+  "buyStore": "Amazon",
+  "title": "Crystal Body Deodorant Roll On 2.25 Oz, 2 Pack",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:pack",
+   "format:roll-on",
+   "claim:soothing",
+   "claim:odour",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "procter-gamble-b00tr90vpy",
+  "brand": "Procter & Gamble",
+  "model": "Secret Clinical Strength Antiperspirant Deodorant for Women, Stress Response, 3X Stress Pr…",
+  "price": 1509,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71xbPua2+LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81q8TqbytdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71sB1b4l8gL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81fVVk+f+XL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81QL2IsrhsL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00TR90VPY",
+  "buyStore": "Amazon",
+  "title": "Secret Clinical Strength Antiperspirant Deodorant for Women, Stress Response, 3X Stress Protection, 72hr Sweat Odor Protection, PH Balancing Minerals, Clear Gel, 1.6 oz.",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "free:ph-balanced",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "byond-b09rf4n1y3",
+  "brand": "Byond",
+  "model": "Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of…",
+  "price": 349,
+  "capacityLine": "240 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Aerosol / body spray · ₹145/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "120 ml × 2 pack",
+   "pricePer100": "₹145/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, 24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SHZDfJl8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61V+4ipOvNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+SdRoBV8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/6134LS4dLGL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71y8St367jL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09RF4N1Y3",
+  "buyStore": "Amazon",
+  "title": "Byond Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of 2 (Shosha & Vela, 120ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:kit",
+   "format:aerosol",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:odour",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:men",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "degree-b001tsltqq",
+  "brand": "Degree",
+  "model": "Men Dry Protection Antiperspirant, Extreme Blast 2.7 oz, Twin Pack",
+  "price": 1353,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Antiperspirant / sweat control (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71K6bkXwNEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81RzK1+eQ2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81-VZicud0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ejpoa5sFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81H0WEHag5L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B001TSLTQQ",
+  "buyStore": "Amazon",
+  "title": "Degree Men Dry Protection Antiperspirant, Extreme Blast 2.7 oz, Twin Pack",
+  "tags": [
+   "scope:unstated",
+   "format:pack",
+   "claim:antiperspirant",
+   "aud:men",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "spa-ceylon-b0dsf1dx9v",
+  "brand": "SPA CEYLON",
+  "model": "Beach Body Spray Enchanting Women's Fragrance Mist with Essential Oil | Floral & Fruitty F…",
+  "price": 1319,
+  "capacityLine": "200 ml",
+  "materialLine": "Rose + Lemon + Lavender",
+  "featureLine": "Aerosol / body spray · ₹660/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹660/100ml",
+   "format": "Aerosol / body spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose, Lemon, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Combination skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71zo6Op0xOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/718Z-at0ttL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71try+r45oL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61aDraiqpiL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51oOpB8y4RL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DSF1DX9V",
+  "buyStore": "Amazon",
+  "title": "SPA CEYLON Beach Body Spray Enchanting Women's Fragrance Mist with Essential Oil | Floral & Fruitty Fragrance| 200ml | All-Day Scent (Lavender)",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:mist",
+   "format:oil",
+   "format:aerosol",
+   "ing:rose",
+   "ing:lemon",
+   "ing:lavender",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "skin:combination",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": true,
@@ -303862,7 +312788,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CGWb2H-fL._SL1500_.jpg",
@@ -303896,6 +312823,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -303929,6 +312857,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -303936,6 +312865,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -303943,6 +312873,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -303950,6 +312881,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -303957,6 +312889,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -303964,6 +312897,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -303971,6 +312905,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -306671,7 +315606,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-b01hnvk4ky",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Vanity Femme Essence Perfume Body Spray - 200ml (Deodorant Spray for Woman)",
   "price": 338,
   "capacityLine": "200 ml",
@@ -307285,7 +316220,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-b00jioyaq4",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Club De Nuit Body Spray for Women, 200ml",
   "price": 296,
   "capacityLine": "200 ml",
@@ -310355,6 +319290,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -313084,6 +322020,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -322707,6 +331644,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -322714,6 +331652,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -322721,6 +331660,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -329788,6 +338728,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "fdaAntiperspirant"
     },
     {
@@ -329795,6 +338736,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -333663,7 +342605,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "armaf-b017exctv8",
-  "brand": "Armaf",
+  "brand": "ARMAF",
   "model": "Opus Perfume Body Spray For Women - 200 ml, Luxury Long Lasting Fragrance for Classy, Matu…",
   "price": 330,
   "capacityLine": "200 ml",
@@ -336499,7 +345441,8 @@ const NXPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619pfr26hNL._SL1200_.jpg",
@@ -336527,6 +345470,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -336559,6 +345504,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -336566,6 +345512,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -336573,6 +345520,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -336580,6 +345528,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -336587,6 +345536,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -336594,6 +345544,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -340314,8245 +349265,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "wildoak-b0h5rd75zf",
-  "brand": "WildOak",
-  "model": "Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Ac…",
-  "price": 399,
-  "capacityLine": "300 g",
-  "materialLine": "Hyaluronic acid + Ceramides + Peptides",
-  "featureLine": "Scrub · ₹133/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹133/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71d35QCqq0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5RD75ZF",
-  "buyStore": "Amazon",
-  "title": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | Helps Removes Tan & Smooth Rough Skin | Lasting Deo Fragrance",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:aerosol",
-   "ing:hyaluronic-acid",
-   "ing:ceramides",
-   "ing:peptides",
-   "ing:collagen",
-   "ing:kojic-acid",
-   "ing:sugar",
-   "claim:de-tan",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "furr-b0gtlgp2nf",
-  "brand": "FURR",
-  "model": "30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Gly…",
-  "price": 299,
-  "capacityLine": "50 ml",
-  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
-  "featureLine": "Roll-on · ₹598/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹598/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Urea (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin, Sensitive skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Ke64N-wyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTLGP2NF",
-  "buyStore": "Amazon",
-  "title": "FURR 30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Glycolic Acid, Salicylic Acid | Repairs, Hydrates, Softens | For Sensitive Skin",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:roll-on",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:urea",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "lunaris-b0g2h64698",
-  "brand": "Lunaris",
-  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
-  "price": 199,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹398/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹398/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71+8GwFx6BL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
-  "buyStore": "Amazon",
-  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0grwjth6g",
-  "brand": "Unbranded",
-  "model": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oi…",
-  "price": 189,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹378/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹378/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Cq1yAf8OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRWJTH6G",
-  "buyStore": "Amazon",
-  "title": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oil & Vitamin E | Helps Repair and Moisturise Cracked Heels | Crack Heel Repair Roll On (foot cream)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "parisar-b0f1tynz86",
-  "brand": "Parisar",
-  "model": "Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic …",
-  "price": 379,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹379/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹379/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Xu3fdXf9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
-  "buyStore": "Amazon",
-  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "format:kit",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "feetgo-b0hg149y7v",
-  "brand": "FeetGo",
-  "model": "Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & H…",
-  "price": 249,
-  "capacityLine": "50 ml",
-  "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Roll-on · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51O92dM8brL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG149Y7V",
-  "buyStore": "Amazon",
-  "title": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & Hard Feet | Softens Corns & Calluses | Easy Roll-On Application | Daily Foot Care | 50ml (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h5f3qtwh",
-  "brand": "Unbranded",
-  "model": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben F…",
-  "price": 195,
-  "capacityLine": "30 ml",
-  "materialLine": "Lactic acid",
-  "featureLine": "Roll-on · Paraben-free · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹650/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51rNQSxaEdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5F3QTWH",
-  "buyStore": "Amazon",
-  "title": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben Free Foot Care Treatment for Corns Calluses Dry Rough Skin Deep Moisturizing (30 ml, Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:roll-on",
-   "format:kit",
-   "ing:lactic-acid",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "free:paraben",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fj8qfgcq",
-  "brand": "Unbranded",
-  "model": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream fo…",
-  "price": 179,
-  "capacityLine": "40 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask · ₹448/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹448/100g",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613dPLU9IlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ8QFGCQ",
-  "buyStore": "Amazon",
-  "title": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream for Dead Skin Removal Callus Remover | Heel Repair Stick deeply moisturizes and softens feet",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:stick",
-   "format:balm",
-   "format:peel",
-   "format:roll-on",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h1mbwfmf",
-  "brand": "Unbranded",
-  "model": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet…",
-  "price": 249,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Wv+fVs4-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1MBWFMF",
-  "buyStore": "Amazon",
-  "title": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet with 2% Lactic Acid, Olive Oil & Vitamin E – Moisturizing Foot Care Roll-On for Men & Women (C1)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h6jyzh9t",
-  "brand": "Unbranded",
-  "model": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitami…",
-  "price": 289,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹578/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹578/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Cq1yAf8OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6JYZH9T",
-  "buyStore": "Amazon",
-  "title": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitamin E, 50ml",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "bella-vita-luxury-b09zxg8t1m",
-  "brand": "Bella Vita Luxury",
-  "model": "Male Spray CEO Man Body Perfume 150ml | Premium No Gas Deo for Man | Long Lasting Office F…",
-  "price": 190,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹127/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹127/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/610EqrlYfPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09ZXG8T1M",
-  "buyStore": "Amazon",
-  "title": "Bella Vita Luxury Male Spray CEO Man Body Perfume 150ml | Premium No Gas Deo for Man | Long Lasting Office Fragrance with Tonka, Agarwood & Sophisticated Masculine Notes",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Bella Vita Organic",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://bellavitaorganic.com/"
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "nivea-b09ds9rqr3",
-  "brand": "Nivea",
-  "model": "Deodorant Fresh Natural for Women, 150ml (Pack of 3, Spray)",
-  "price": 490,
-  "capacityLine": "450 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹109/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Nivea official website (www.nivea.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Added fragrance (parfum): perfume",
-   "EU-declared fragrance allergen: linalool, citronellol"
-  ],
-  "scores": {
-   "ingredients": 3.2,
-   "skin": 5.5,
-   "trust": 8.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 3 pack",
-   "pricePer100": "₹109/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciMatchedName": "nivea fresh natural deodorant spray 40059000175430213 (name match 100%)",
-   "inciList": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); EU-declared fragrance allergen: linalool, citronellol, benzyl alcohol, limonene, alpha-isomethyl ionone, geraniol, citral (−2); Drying alcohol high in the list: alcohol denat (−1)",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/512dgCbFrEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09DS9RQR3",
-  "buyStore": "Amazon",
-  "title": "Nivea Deodorant Fresh Natural for Women, 150ml (Pack of 3, Spray)",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:kit",
-   "claim:odour",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Nivea official website (www.nivea.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.nivea.in/products/nivea-fresh-natural-deodorant-spray-40059000175430213.html",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "nivea fresh natural deodorant spray 40059000175430213",
-   "inciMatchScore": 1,
-   "inciText": "Butane, Alcohol Denat., Isobutane, Propane, Perfume, Octenidine HCl, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Persea Gratissima Oil, Octyldodecanol, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Linalool, Citronellol, Benzyl Alcohol, Limonene, Alpha-Isomethyl Ionone, Geraniol, Citral",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "src": "aha"
-    }
-   ],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "perfume"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "linalool",
-      "citronellol",
-      "benzyl alcohol",
-      "limonene",
-      "alpha-isomethyl ionone",
-      "geraniol",
-      "citral"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "alcoholDenat",
-     "label": "Drying alcohol high in the list",
-     "names": [
-      "alcohol denat"
-     ],
-     "penalty": 1,
-     "src": "alcohol"
-    }
-   ],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "chemist-at-play-b0c6ktqxp5",
-  "brand": "Chemist at Play",
-  "model": "UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odo…",
-  "price": 348,
-  "capacityLine": "40 ml",
-  "materialLine": "Lactic acid + Mandelic acid + AHA",
-  "featureLine": "Roll-on · ₹870/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹870/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Mandelic acid, AHA, Aluminium salts (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51GYrIl4YrL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C6KTQXP5",
-  "buyStore": "Amazon",
-  "title": "Chemist At Play UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odour & Fades Pigmentation | 0% Aluminium & 0% Alcohol | White Jasmine Fragrance | 40ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:mandelic-acid",
-   "ing:aha",
-   "ing:aluminium-salts",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "just-herbs-b0bjpnxp2d",
-  "brand": "Just Herbs",
-  "model": "Long Lasting, Refreshing Body Spray, Natural Deodorant for Women - Phthalate-Free Formula,…",
-  "price": 231,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹154/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹154/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41c3Ypnyq+L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BJPNXP2D",
-  "buyStore": "Amazon",
-  "title": "Just Herbs Long Lasting, Refreshing Body Spray, Natural Deodorant for Women - Phthalate-Free Formula,150 ml (Floral Fiesta)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "claim:cooling",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h987c31n",
-  "brand": "Unbranded",
-  "model": "Underarm Roll-On Deodorant, 5% Potassium, Brightening, Odour Control & Smooth Skin, for Me…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51glWXqXStL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H987C31N",
-  "buyStore": "Amazon",
-  "title": "Underarm Roll-On Deodorant, 5% Potassium, Brightening, Odour Control & Smooth Skin, for Men & Women",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "claim:brightening",
-   "claim:odour",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "zam-b0gzwnl2qp",
-  "brand": "Zam",
-  "model": "Zam Deodorant Spray, Long Lasting Fragrance, Odor Control, Quick-Drying Formula, Skin-Frie…",
-  "price": 234,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹117/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹117/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Q-4AKKE+L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZWNL2QP",
-  "buyStore": "Amazon",
-  "title": "Zam Zam Deodorant Spray, Long Lasting Fragrance, Odor Control, Quick-Drying Formula, Skin-Friendly, for Men and Women, 200ml",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "english-b07qwbylkm",
-  "brand": "English",
-  "model": "Blazer Deodorant Spray for Men Victory, 200ml",
-  "price": 294,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹147/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹147/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/611HWjJwcFL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07QWBYLKM",
-  "buyStore": "Amazon",
-  "title": "English Blazer Deodorant Spray for Men Victory, 200ml",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "ameer-b0h1j9pp2f",
-  "brand": "Ameer",
-  "model": "Al Oudh Body Spray Deodorant, Smoky Oud Fragrance, Long Lasting Freshness, for Men and Wom…",
-  "price": 234,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹117/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹117/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Hr8Cd1MOL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1J9PP2F",
-  "buyStore": "Amazon",
-  "title": "Ameer Al Oudh Body Spray Deodorant, Smoky Oud Fragrance, Long Lasting Freshness, for Men and Women, 200ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "ugen-b0d3qnkr3q",
-  "brand": "Ugen",
-  "model": "“Premium Unisex Deodorant Spray | Long-Lasting Freshness -150ml Pack of 2(VEGAS DEODORANT,…",
-  "price": 290,
-  "capacityLine": "300 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹97/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 2 pack",
-   "pricePer100": "₹97/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Vg5z9y92L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D3QNKR3Q",
-  "buyStore": "Amazon",
-  "title": "UGEN “Premium Unisex Deodorant Spray | Long-Lasting Freshness -150ml Pack of 2(VEGAS DEODORANT, 300 ML)",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "claim:odour",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "pour-b0gn3kjkpb",
-  "brand": "Pour",
-  "model": "Homme Deodorant, Long Lasting Masculine Fragrance, 150 ml",
-  "price": 439,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · ₹293/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹293/100ml",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41HBzbb76qL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN3KJKPB",
-  "buyStore": "Amazon",
-  "title": "Pour Homme Deodorant, Long Lasting Masculine Fragrance, 150 ml",
-  "tags": [
-   "scope:unstated",
-   "claim:odour",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "lomani-b0763kfcs5",
-  "brand": "Lomani",
-  "model": "Paris Do It And El Paso Deodorant Fresh Spray For Men, 200 Ml (Pack Of 2), 2 Count",
-  "price": 645,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹161/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹161/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31HCRgjvpyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0763KFCS5",
-  "buyStore": "Amazon",
-  "title": "Lomani Paris Do It And El Paso Deodorant Fresh Spray For Men, 200 Ml (Pack Of 2), 2 Count",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:kit",
-   "claim:odour",
-   "aud:men",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "nike-b00dre43nq",
-  "brand": "Nike",
-  "model": "Up Or Down Silver Deodorant for Men, 200ml",
-  "price": 369,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · ₹185/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹185/100ml",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61hqYV9htNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00DRE43NQ",
-  "buyStore": "Amazon",
-  "title": "Nike Up Or Down Silver Deodorant for Men, 200ml",
-  "tags": [
-   "scope:unstated",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "jovan-b07vsbxnbp",
-  "brand": "Jovan",
-  "model": "Musk Body Spray For Men, 150ml (Pack of 2)",
-  "price": 899,
-  "capacityLine": "300 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹300/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 2 pack",
-   "pricePer100": "₹300/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71XeEtYv5lL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07VSBXNBP",
-  "buyStore": "Amazon",
-  "title": "Jovan Musk Body Spray For Men, 150ml (Pack of 2)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "aud:men",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "bernard-b0dpctwxcf",
-  "brand": "BERNARD",
-  "model": "DIMITRI HOT BLACK GENTLEMEN Deodorant for Men - 200 ML | Fragrance of Woodsy Notes and Amb…",
-  "price": 296,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · ₹148/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹148/100ml",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51UjJgXMUWL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DPCTWXCF",
-  "buyStore": "Amazon",
-  "title": "BERNARD DIMITRI HOT BLACK GENTLEMEN Deodorant for Men - 200 ML | Fragrance of Woodsy Notes and Amber | Long-Lasting Freshness Smell | Deo Idle Gift For Brother, Friend and Loved Once",
-  "tags": [
-   "scope:unstated",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "hrx-b0h4w4xxq8",
-  "brand": "HRX",
-  "model": "Xtreme Deodorant Body Spray - Warm, Spicy Men's Deodorant - Body Spray for Men with Cardam…",
-  "price": 399,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹200/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61IAAj5xBtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4W4XXQ8",
-  "buyStore": "Amazon",
-  "title": "HRX Xtreme Deodorant Body Spray - Warm, Spicy Men's Deodorant - Body Spray for Men with Cardamom, Leather, Oud Notes - 200 ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "bernard-b0fh5jklmg",
-  "brand": "BERNARD",
-  "model": "DIMITRI HOT BLACK ICE Deodorant Spray for Men & Women, 200ML X 2PC Grapefruit & Woody Ambe…",
-  "price": 418,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹209/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹209/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/315uuKDr3PL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FH5JKLMG",
-  "buyStore": "Amazon",
-  "title": "BERNARD DIMITRI HOT BLACK ICE Deodorant Spray for Men & Women, 200ML X 2PC Grapefruit & Woody Amber Fragrance, Premium Long-Lasting Fresh Scent, Ideal for Daily Use, Office, College, Parties & Outings",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "nike-b00dre4flg",
-  "brand": "Nike",
-  "model": "Urban Musk Deo Aerosol for Women, 200ml, Pack of 1",
-  "price": 326,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹163/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹163/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61KKtb+8A-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00DRE4FLG",
-  "buyStore": "Amazon",
-  "title": "Nike Urban Musk Deo Aerosol for Women, 200ml, Pack of 1",
-  "tags": [
-   "scope:unstated",
-   "format:kit",
-   "format:aerosol",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "yardley-b00g4ubgvm",
-  "brand": "Yardley",
-  "model": "London English Rose Refreshing Deodorant Body Spray For Women, 150ml",
-  "price": 159,
-  "capacityLine": "150 ml",
-  "materialLine": "Rose",
-  "featureLine": "Aerosol / body spray · ₹106/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹106/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Wipro Consumer Care & Lighting — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71uAIZF7jPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00G4UBGVM",
-  "buyStore": "Amazon",
-  "title": "Yardley London English Rose Refreshing Deodorant Body Spray For Women, 150ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "ing:rose",
-   "claim:odour",
-   "claim:cooling",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Wipro Consumer Care & Lighting",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.wiproconsumercare.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b0dk5pfhgt",
-  "brand": "Rexona",
-  "model": "Advanced Brightening Roll On Motion Activated Deodorant for Women | 72-Hour Freshness | 45…",
-  "price": 109,
-  "capacityLine": "45 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹242/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "45 ml",
-   "pricePer100": "₹242/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51NH3rxXg7L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DK5PFHGT",
-  "buyStore": "Amazon",
-  "title": "Rexona Advanced Brightening Roll On Motion Activated Deodorant for Women | 72-Hour Freshness | 45 ML",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "claim:brightening",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b000p9gmhq",
-  "brand": "Unbranded",
-  "model": "Lady Speed Stick Invisible Dry Shower Fresh Antiperspirant Deordorant Gel 2.3 Oz, For Fema…",
-  "price": 485,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Stick",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Stick",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "No white cast, Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61WrPsBciyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B000P9GMHQ",
-  "buyStore": "Amazon",
-  "title": "Lady Speed Stick Invisible Dry Shower Fresh Antiperspirant Deordorant Gel 2.3 Oz, For Female",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:stick",
-   "claim:no-white-cast",
-   "claim:antiperspirant",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hhngrk71",
-  "brand": "Unbranded",
-  "model": "Natural Phitkari Potassium Alum Stick For Underarm Odour Control 60 Gram | Natural Phitkar…",
-  "price": 539,
-  "capacityLine": "60 g",
-  "materialLine": "Alum",
-  "featureLine": "Stick · ₹898/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 g",
-   "pricePer100": "₹898/100g",
-   "format": "Stick",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Alum (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/715ihcEK6JL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHNGRK71",
-  "buyStore": "Amazon",
-  "title": "Natural Phitkari Potassium Alum Stick For Underarm Odour Control 60 Gram | Natural Phitkari Potassium Alum Stick For Underarm Odour Control, 60 Gm Deodorant Stick For Men And Women.",
-  "tags": [
-   "scope:body",
-   "format:stick",
-   "ing:alum",
-   "claim:odour",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "eva-b0cmqcq8fl",
-  "brand": "EVA",
-  "model": "Splash Roll On Deo | No Alcohol No Aluminium| Chemical Free| For Fresh Underarms (Cucumber…",
-  "price": 149,
-  "capacityLine": "50 ml",
-  "materialLine": "Cucumber + Aluminium salts",
-  "featureLine": "Roll-on · Alcohol-free · ₹298/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹298/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Cucumber, Aluminium salts (named on listing)",
-   "freeFrom": "Alcohol-free, Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Y9SIFtEbL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CMQCQ8FL",
-  "buyStore": "Amazon",
-  "title": "Eva Splash Roll On Deo | No Alcohol No Aluminium| Chemical Free| For Fresh Underarms (Cucumber & Tahiti Monoi Oil) | For Women (50ml)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:roll-on",
-   "format:aerosol",
-   "ing:cucumber",
-   "ing:aluminium-salts",
-   "free:alcohol",
-   "free:toxin-free",
-   "free:aluminium",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gzvv5prk",
-  "brand": "Unbranded",
-  "model": "Blue Lady Deodorant Spray, Long Lasting Floral Scent, Daily Freshness, Skin-Friendly, Quic…",
-  "price": 234,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹117/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹117/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51V16S3EouL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZVV5PRK",
-  "buyStore": "Amazon",
-  "title": "Blue Lady Deodorant Spray, Long Lasting Floral Scent, Daily Freshness, Skin-Friendly, Quick-Drying, for Women and Men, 200ml",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "salve-b076y8v5ff",
-  "brand": "salve",
-  "model": "Sweatgo Classic Roll-On 60ml for Men & Women | Anti-Perspirant Deodorant | Helps Control E…",
-  "price": 194,
-  "capacityLine": "60 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹323/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹323/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61yzrjuWrYL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B076Y8V5FF",
-  "buyStore": "Amazon",
-  "title": "Salve Sweatgo Classic Roll-On 60ml for Men & Women | Anti-Perspirant Deodorant | Helps Control Excess Sweat (Hyperhidrosis Care) | Long-Lasting Freshness",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b0fqcjk4td",
-  "brand": "Rexona",
-  "model": "Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odo…",
-  "price": 164,
-  "capacityLine": "50 ml",
-  "materialLine": "Shea butter + Glycerin",
-  "featureLine": "Roll-on · ₹328/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹328/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter, Glycerin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51RIihwL8uL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FQCJK4TD",
-  "buyStore": "Amazon",
-  "title": "Rexona Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odour Protection| Limited Edition Pack - ICC Women’s Cricket World Cup India 2025 |50 ML",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "format:pack",
-   "format:roll-on",
-   "ing:shea-butter",
-   "ing:glycerin",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b07vl3gm6j",
-  "brand": "Rexona",
-  "model": "Fresh Rose Underarm Roll On Deodorant For Women, Antiperspirant With Glycerine, Removes Od…",
-  "price": 125,
-  "capacityLine": "50 ml",
-  "materialLine": "Rose + Glycerin",
-  "featureLine": "Roll-on · Alcohol-free · ₹250/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹250/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose, Glycerin (named on listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51iIgmmHR5L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07VL3GM6J",
-  "buyStore": "Amazon",
-  "title": "Rexona Fresh Rose Underarm Roll On Deodorant For Women, Antiperspirant With Glycerine, Removes Odour, Keeps Skin Fresh & Clean, Alcohol Free, 50 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:rose",
-   "ing:glycerin",
-   "claim:antiperspirant",
-   "claim:odour",
-   "free:alcohol",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h1xbvqlj",
-  "brand": "Unbranded",
-  "model": "Deodorant Roll On for Women & Men – Long Lasting Underarm Protection, Sweat Control Antipe…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71U8kcIjYoL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1XBVQLJ",
-  "buyStore": "Amazon",
-  "title": "Deodorant Roll On for Women & Men – Long Lasting Underarm Protection, Sweat Control Antiperspirant, Even Tone Underarm Mist, Fresh Deo Roll On for Daily Use",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:roll-on",
-   "format:aerosol",
-   "claim:dark-spots",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gqhglyjw",
-  "brand": "Unbranded",
-  "model": "Natural Underarm Roll on Deodorant for Women and Men, Antiperspirant Long-lasting Freshnes…",
-  "price": 249,
-  "capacityLine": "50 ml",
-  "materialLine": "Rose",
-  "featureLine": "Roll-on · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61bKHEJ4OJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GQHGLYJW",
-  "buyStore": "Amazon",
-  "title": "Natural Underarm Roll on Deodorant for Women and Men, Antiperspirant Long-lasting Freshness, Romantic Rose Fragrance, Travel Deo Underarm Deodorant Odor & Sweat Protection All Day - 50ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:aerosol",
-   "ing:rose",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "carmesi-b09ks2vhtk",
-  "brand": "Carmesi",
-  "model": "Natural Underarm Roll On Deodorant for Women | 95% Natural | Prevents Body Odour | No Alco…",
-  "price": 163,
-  "capacityLine": "50 ml",
-  "materialLine": "Coconut + Aluminium salts",
-  "featureLine": "Roll-on · Alcohol-free · ₹326/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Carmesi official website (mycarmesi.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Added fragrance (parfum): parfum",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 2.7,
-   "skin": 5.9,
-   "trust": 5.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹326/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coconut, Aluminium salts (named on listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Carmesi official website (mycarmesi.com) — product page › Ingredients",
-   "inciSourceUrl": "https://mycarmesi.com/products/carmesi-natural-deodorant-roll-on",
-   "inciMatchedName": "Carmesi Natural Deodorant Roll-on (name match 92%)",
-   "inciList": "Aqua, Pentylene Glycol, Olive Oil, Glycereth-8 Esters, Olea Europaea (Olive) Seed Oil, Propylene Glycol, Niacinamide (Vitamin B3), Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Phenoxyethanol, Glycyrrhiza Glabra (licorice) Root Extract, Betaine, 2-Benzylheptanol, Decylene Glycol, Xylitylglucoside, Anhydroxylitol, Xylitol Hydrosoluble, Sodium Gluconate, Ethylhexylglycerin, Parfum",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/615gwEHxHyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09KS2VHTK",
-  "buyStore": "Amazon",
-  "title": "Carmesi Natural Underarm Roll On Deodorant for Women | 95% Natural | Prevents Body Odour | No Alcohol & Aluminium | Sweet Summer - Creamy Coconut & Vanilla Fragrance | 50 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:coconut",
-   "ing:aluminium-salts",
-   "claim:odour",
-   "free:alcohol",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Carmesi official website (mycarmesi.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://mycarmesi.com/products/carmesi-natural-deodorant-roll-on",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Carmesi Natural Deodorant Roll-on",
-   "inciMatchScore": 0.92,
-   "inciText": "Aqua, Pentylene Glycol, Olive Oil, Glycereth-8 Esters, Olea Europaea (Olive) Seed Oil, Propylene Glycol, Niacinamide (Vitamin B3), Sodium Polyacryloydimethyl Taurate, Hydrogenated Polydecene, Trideceth-10, Phenoxyethanol, Glycyrrhiza Glabra (licorice) Root Extract, Betaine, 2-Benzylheptanol, Decylene Glycol, Xylitylglucoside, Anhydroxylitol, Xylitol Hydrosoluble, Sodium Gluconate, Ethylhexylglycerin, Parfum",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 0.95,
-   "actives": [
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 7,
-     "core": false,
-     "src": "niacinamide"
-    },
-    {
-     "name": "glycyrrhiza glabra root extract",
-     "grade": "B",
-     "position": 12,
-     "core": false,
-     "src": "pigment"
-    }
-   ],
-   "support": [
-    "niacinamide"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "parfum"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "be-bodywise-b0h2fh4spy",
-  "brand": "Be Bodywise",
-  "model": "6% AHA BHA Underarm Roll On Deodorant, 50ml | 1% Mandelic, 4% Lactic, 1% Salicylic Acid | …",
-  "price": 399,
-  "capacityLine": "50 ml",
-  "materialLine": "Salicylic acid (BHA) + Lactic acid + Mandelic acid",
-  "featureLine": "Roll-on · Fragrance-free · ₹798/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [],
-  "scores": {
-   "ingredients": 5.4,
-   "skin": 9,
-   "trust": 7,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹798/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Lactic acid, Mandelic acid, AHA (named on listing)",
-   "freeFrom": "Fragrance-free, Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
-   "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
-   "inciMatchedName": "4 aha bha underarm roll on (name match 90%)",
-   "inciList": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
-   "evidenceActives": "glycerin (#6 on list, strong evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61nXvnwuHoL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2FH4SPY",
-  "buyStore": "Amazon",
-  "title": "Be Bodywise 6% AHA BHA Underarm Roll On Deodorant, 50ml | 1% Mandelic, 4% Lactic, 1% Salicylic Acid | Prevents Body Odour & Fades Pigmentation | Alcohol & Aluminium Free | Fragrance-free",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:salicylic-acid-bha",
-   "ing:lactic-acid",
-   "ing:mandelic-acid",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:odour",
-   "free:fragrance",
-   "free:aluminium",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://bebodywise.com/product/4-aha-bha-underarm-roll-on",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "4 aha bha underarm roll on",
-   "inciMatchScore": 0.9,
-   "inciText": "Ingredient Names Aqua, Propylene Glycol, Butyrospermum Parkii (Shea) Butter, Lactic Acid, Sodium Lactate, Glycerin, Lysolecithin (and) Sclerotium Gum (and) Xanthan Gum (and) Pullulan, Mandelic Acid, Salicylic Acid, Aqua (and) Sodium Benzoate (and) Potassium Sorbate, Polysorbate 20, Alpha Arbutin, Tocopheryl Acetate, Silica, Perfume. Formulated Without Alcohol, Aluminium, Paraben, Silicone, Harmful Chemicals, Soda, Mineral, Phthalate, Petroleum, Sulfate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.9,
-   "recognised": 0.83,
-   "actives": [
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 3,
-     "core": false,
-     "src": "petrolatum"
-    },
-    {
-     "name": "lactic acid",
-     "grade": "A",
-     "position": 4,
-     "core": false,
-     "src": "aha"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 6,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "mandelic acid",
-     "grade": "B",
-     "position": 11,
-     "core": false,
-     "src": "aha"
-    },
-    {
-     "name": "salicylic acid",
-     "grade": "A",
-     "position": 12,
-     "core": false,
-     "src": "bha"
-    },
-    {
-     "name": "alpha-arbutin",
-     "grade": "B",
-     "position": 17,
-     "core": false,
-     "src": "pigment"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 18,
-     "core": false,
-     "src": "vitc"
-    }
-   ],
-   "support": [
-    "butyrospermum parkii butter",
-    "glycerin"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "dove-b0b8zsq1qm",
-  "brand": "Dove",
-  "model": "Original Deodorant Roll On for Women, 50ml & Eventone Deodorant Roll On for Women, 50ml",
-  "price": 278,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹556/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹556/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51QgMVoeBDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B8ZSQ1QM",
-  "buyStore": "Amazon",
-  "title": "Dove Original Deodorant Roll On for Women, 50ml & Eventone Deodorant Roll On for Women, 50ml",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b0fmxl7xtc",
-  "brand": "Rexona",
-  "model": "Shower Fresh Underarm Roll-On Deodorant for Women | 72 Hours Long-Lasting Odour Protection…",
-  "price": 156,
-  "capacityLine": "75 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹208/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "25 ml × 3 pack",
-   "pricePer100": "₹208/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ViPQ7IogL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FMXL7XTC",
-  "buyStore": "Amazon",
-  "title": "Rexona Shower Fresh Underarm Roll-On Deodorant for Women | 72 Hours Long-Lasting Odour Protection | 0% Alcohol, Safe on Skin | 25ML (Pack of 3)",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "claim:long-lasting",
-   "claim:odour",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b08qv4bhhf",
-  "brand": "Rexona",
-  "model": "Powder Dry Underarm Roll On Deodorant For Women & Rexona Shower Fresh Underarm Roll On Deo…",
-  "price": 225,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹450/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹450/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DMj4z5xPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08QV4BHHF",
-  "buyStore": "Amazon",
-  "title": "Rexona Powder Dry Underarm Roll On Deodorant For Women & Rexona Shower Fresh Underarm Roll On Deodorant For Women, 50ml",
-  "tags": [
-   "scope:body",
-   "format:powder",
-   "format:roll-on",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "just-herbs-b0c2pp4sr7",
-  "brand": "Just Herbs",
-  "model": "Roll on Deo for Men Musk Divine Refreshing Under Arm Long Lasting Deodorant - 50 ml",
-  "price": 254,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹508/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹508/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51h+VfS4uEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C2PP4SR7",
-  "buyStore": "Amazon",
-  "title": "Just Herbs Roll on Deo for Men Musk Divine Refreshing Under Arm Long Lasting Deodorant - 50 ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:aerosol",
-   "claim:odour",
-   "claim:cooling",
-   "aud:men",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "dove-b01nagmgs4",
-  "brand": "Dove",
-  "model": "Women Anti-Perspirant Deodorant Stick, 40Ml (Invisible Dry)",
-  "price": 399,
-  "capacityLine": "40 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Stick · ₹998/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹998/100ml",
-   "format": "Stick",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "No white cast, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Uk6lwlesL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01NAGMGS4",
-  "buyStore": "Amazon",
-  "title": "Dove Women Anti-Perspirant Deodorant Stick, 40Ml (Invisible Dry)",
-  "tags": [
-   "scope:unstated",
-   "format:stick",
-   "claim:no-white-cast",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "nivea-b00m0isbss",
-  "brand": "Nivea",
-  "model": "Men Fresh Scent Deodorant Stick- Cool Kick (150 Ml) (Pack Of 2)",
-  "price": 460,
-  "capacityLine": "300 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Stick · ₹153/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 2 pack",
-   "pricePer100": "₹153/100ml",
-   "format": "Stick",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71uSM17ROxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00M0ISBSS",
-  "buyStore": "Amazon",
-  "title": "Nivea Men Fresh Scent Deodorant Stick- Cool Kick (150 Ml) (Pack Of 2)",
-  "tags": [
-   "scope:unstated",
-   "format:stick",
-   "format:kit",
-   "claim:odour",
-   "aud:men",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "axe-b007e9hplc",
-  "brand": "AXE",
-  "model": "Dark Temptation Long Lasting Deodorant Bodyspray for Men 150 ml",
-  "price": 159,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹106/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹106/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51-0C3vMCdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B007E9HPLC",
-  "buyStore": "Amazon",
-  "title": "Axe Dark Temptation Long Lasting Deodorant Bodyspray for Men 150 ml",
-  "tags": [
-   "scope:unstated",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "wild-stone-b0dzvkcqx7",
-  "brand": "Wild Stone",
-  "model": "Excel Deodorant for Men, 200ml | Best Deo for Office | A Long-Lasting Body Spray for Men |…",
-  "price": 149,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹75/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹75/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/612YBbEC52L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DZVKCQX7",
-  "buyStore": "Amazon",
-  "title": "Wild Stone Excel Deodorant for Men, 200ml | Best Deo for Office | A Long-Lasting Body Spray for Men | Excel Body Spray with Woody Fragrance",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "wild-stone-b07yfs6jmm",
-  "brand": "Wild Stone",
-  "model": "Ultra Sensual Long Lasting Body Deodorant Spray For Men, 225Ml",
-  "price": 165,
-  "capacityLine": "225 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹73/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "225 ml",
-   "pricePer100": "₹73/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51jXXO2lKPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07YFS6JMM",
-  "buyStore": "Amazon",
-  "title": "Wild Stone Ultra Sensual Long Lasting Body Deodorant Spray For Men, 225Ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "denver-b0cg6cqdn8",
-  "brand": "Denver",
-  "model": "Sporting Club Victor Deodorant For Men - 150ML Each, Pack of 3 | Long Lasting Deo Body Spr…",
-  "price": 449,
-  "capacityLine": "450 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 3 pack",
-   "pricePer100": "₹100/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61-p+wQYGyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CG6CQDN8",
-  "buyStore": "Amazon",
-  "title": "Denver Sporting Club Victor Deodorant For Men - 150ML Each, Pack of 3 | Long Lasting Deo Body Spray for Men",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "armaf-b07gc54zzg",
-  "brand": "Armaf",
-  "model": "Club De Nuit Deo 200ML | Perfume Body Spray for Long Lasting Freshness for men Ideal for D…",
-  "price": 338,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹169/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹169/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51VEROTJ53L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07GC54ZZG",
-  "buyStore": "Amazon",
-  "title": "Armaf Club De Nuit Deo 200ML | Perfume Body Spray for Long Lasting Freshness for men Ideal for Daily Use (Musk)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "nike-b0djpqtwd9",
-  "brand": "Nike",
-  "model": "Blue Bamboo 200 ml, Deodorant Man Spray, Anti-Stain Deodorant for All Skin Types, 0% Alumi…",
-  "price": 389,
-  "capacityLine": "200 ml",
-  "materialLine": "Aluminium salts",
-  "featureLine": "Mist / spray · ₹195/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹195/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aluminium salts (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51npuSvo21L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DJPQTWD9",
-  "buyStore": "Amazon",
-  "title": "NIKE - Blue Bamboo 200 ml, Deodorant Man Spray, Anti-Stain Deodorant for All Skin Types, 0% Aluminium Salts, Long Lasting, Marine Woody Aromatic Fragrance",
-  "tags": [
-   "scope:unstated",
-   "format:mist",
-   "ing:aluminium-salts",
-   "claim:odour",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "nike-b08bk6x228",
-  "brand": "Nike",
-  "model": "Men Aromatic Addiction Deodorant Spray, 200ml | Long Lasting Freshness | Aromatic Fragranc…",
-  "price": 399,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹200/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51LWwtATT3L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08BK6X228",
-  "buyStore": "Amazon",
-  "title": "Nike Men Aromatic Addiction Deodorant Spray, 200ml | Long Lasting Freshness | Aromatic Fragrance Body Spray for Men | Daily Use Deodorant for Odour Protection",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "yardley-b0b5f1v5xk",
-  "brand": "Yardley",
-  "model": "London Morning Dew Refreshing Body Spray Mega Pack| Lily of Valley & Frangipani Fragrance|…",
-  "price": 499,
-  "capacityLine": "450 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹111/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 3 pack",
-   "pricePer100": "₹111/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Wipro Consumer Care & Lighting — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61b3Kxs8BxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B5F1V5XK",
-  "buyStore": "Amazon",
-  "title": "Yardley London Morning Dew Refreshing Body Spray Mega Pack| Lily of Valley & Frangipani Fragrance| Deodorant Body Spray For Daily Use| Deodorant For Women| 90% Naturally Derived| 150ml, Pack of 3",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:pack",
-   "format:kit",
-   "format:aerosol",
-   "claim:odour",
-   "claim:cooling",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Wipro Consumer Care & Lighting",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.wiproconsumercare.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "next-b0h3q617sr",
-  "brand": "Next",
-  "model": "Care Teens Deodorant for Girls & Women, Long Lasting Fresh Fragrance, Effective Odor Prote…",
-  "price": 220,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹147/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹147/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61eHr6ANffL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3Q617SR",
-  "buyStore": "Amazon",
-  "title": "Next Care Teens Deodorant for Girls & Women, Long Lasting Fresh Fragrance, Effective Odor Protection, Daily Wear Body Spray, 150ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:aerosol",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "coconess-b0744fjt4q",
-  "brand": "Coconess",
-  "model": "Natural Deodorant For Unisex, Cedar & Lime, 25G, Gel, fresh",
-  "price": 380,
-  "capacityLine": "25 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Gel · ₹1520/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "25 g",
-   "pricePer100": "₹1520/100g",
-   "format": "Gel",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/618t4jj1aXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0744FJT4Q",
-  "buyStore": "Amazon",
-  "title": "Coconess Natural Deodorant For Unisex, Cedar & Lime, 25G, Gel, fresh",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fhdvds9r",
-  "brand": "Unbranded",
-  "model": "Natural Alum Crystal Roll On Deodorant for Underarms with Aloe Vera | Fragrance-Free & Alc…",
-  "price": 299,
-  "capacityLine": "80 g",
-  "materialLine": "Aloe vera + Alum",
-  "featureLine": "Roll-on · Fragrance-free · ₹374/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "80 g",
-   "pricePer100": "₹374/100g",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Alum (named on listing)",
-   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61k+DK5crBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FHDVDS9R",
-  "buyStore": "Amazon",
-  "title": "Natural Alum Crystal Roll On Deodorant for Underarms with Aloe Vera | Fragrance-Free & Alcohol-Free | Gentle on Skin, Non-Sticky, Long-Lasting Freshness | Men & Women | 80g",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:aloe-vera",
-   "ing:alum",
-   "claim:oil-control",
-   "claim:odour",
-   "free:fragrance",
-   "free:alcohol",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0b37pf6ct",
-  "brand": "Unbranded",
-  "model": "Rustic Art Organic Pepperine Deodorant Balm with Vitamin E | Vegan, Unisex | Free of Alcoh…",
-  "price": 380,
-  "capacityLine": "12 g",
-  "materialLine": "Vitamin E + Aluminium salts",
-  "featureLine": "Balm · ₹3167/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "12 g",
-   "pricePer100": "₹3167/100g",
-   "format": "Balm",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin E, Aluminium salts (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51mp6Z6eaPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B37PF6CT",
-  "buyStore": "Amazon",
-  "title": "Rustic Art Organic Pepperine Deodorant Balm with Vitamin E | Vegan, Unisex | Free of Alcohol & Aluminum | Lasts Up To 12 hours | For Women & Men | 12 g",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "ing:vitamin-e",
-   "ing:aluminium-salts",
-   "claim:odour",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gx9t8vwf",
-  "brand": "Unbranded",
-  "model": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Bu…",
-  "price": 380,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Clay + Almond + Shea butter",
-  "featureLine": "Body butter · Aluminium-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Clay, Almond, Shea butter, Jojoba, Magnesium (named on listing)",
-   "freeFrom": "Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+zj9xbKYL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX9T8VWF",
-  "buyStore": "Amazon",
-  "title": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Butter, Mango Butter, Jojoba & Almond Oil | Magnesium & Kaolin Clay | Sensitive Skin Safe | For Men & Women",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:clay-mask",
-   "ing:clay",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:jojoba",
-   "ing:magnesium",
-   "claim:odour",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "free:aluminium",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "schmidt-s-b00b7umequ",
-  "brand": "schmidt's",
-  "model": "Natural Deodorant, Fragrance-Free, 2 Ounce",
-  "price": 2285,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61SFBLlG0fL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00B7UMEQU",
-  "buyStore": "Amazon",
-  "title": "Schmidt's Natural Deodorant, Fragrance-Free, 2 Ounce",
-  "tags": [
-   "scope:unstated",
-   "claim:odour",
-   "free:fragrance",
-   "aud:unisex",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "each-b07mgkrmbg",
-  "brand": "Each",
-  "model": "& Every All Natural Aluminum Deodorant for Men and Women – Cruelty Vegan Deodorant with Es…",
-  "price": 4504,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aluminium salts + Baking soda",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aluminium salts, Baking soda (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Vo6M+DgdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07MGKRMBG",
-  "buyStore": "Amazon",
-  "title": "Each & Every All Natural Aluminum Deodorant for Men and Women – Cruelty Vegan Deodorant with Essential Oils, Non-Toxic, Baking Soda, Cedarwood, 2.5 Oz",
-  "tags": [
-   "scope:unstated",
-   "ing:aluminium-salts",
-   "ing:baking-soda",
-   "claim:odour",
-   "free:vegan",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "lineal-b09k4d4h75",
-  "brand": "Lineal",
-  "model": "Deodorant | Natural Deo-Stick for Men & Women | Aluminium-Free | For Under-Arms & Body | B…",
-  "price": 599,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Stick · Aluminium-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Stick",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51rXYEStVhL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09K4D4H75",
-  "buyStore": "Amazon",
-  "title": "Lineal Deodorant | Natural Deo-Stick for Men & Women | Aluminium-Free | For Under-Arms & Body | Bergamot and Musk",
-  "tags": [
-   "scope:body",
-   "format:stick",
-   "format:aerosol",
-   "claim:odour",
-   "free:aluminium",
-   "aud:women",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "bee-ing-b0d1y3qy1c",
-  "brand": "Bee-ing",
-  "model": "Vanilla Deodorant Stick | Natural and Vegan Deodorant | Aluminium Free | 24 Hour Protectio…",
-  "price": 500,
-  "capacityLine": "640 g (pack of 8)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Stick · Aluminium-free · ₹78/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 g × 8 pack",
-   "pricePer100": "₹78/100g",
-   "format": "Stick",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71vOJNY-MBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D1Y3QY1C",
-  "buyStore": "Amazon",
-  "title": "Bee-ing Vanilla Deodorant Stick | Natural and Vegan Deodorant | Aluminium Free | 24 Hour Protection | Antiperspirant | Suitable for Men, Women, Teenagers, Unisex | Pack of 80 g",
-  "tags": [
-   "scope:unstated",
-   "format:stick",
-   "format:kit",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "free:vegan",
-   "free:aluminium",
-   "aud:women",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hf4w96cd",
-  "brand": "Unbranded",
-  "model": "The Bare Bar Sea Breeze & Sandalwood Oud Deodorant, Pack of 2",
-  "price": 678,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sandalwood",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Sandalwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61SrHYS-0nL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HF4W96CD",
-  "buyStore": "Amazon",
-  "title": "The Bare Bar Sea Breeze & Sandalwood Oud Deodorant, Pack of 2",
-  "tags": [
-   "scope:unstated",
-   "format:bar",
-   "format:kit",
-   "ing:sandalwood",
-   "claim:odour",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chemist-at-play-b0bds757bx",
-  "brand": "Chemist at Play",
-  "model": "UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odo…",
-  "price": 347,
-  "capacityLine": "40 ml",
-  "materialLine": "Lactic acid + Mandelic acid + AHA",
-  "featureLine": "Roll-on · ₹868/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹868/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Mandelic acid, AHA, Aluminium salts (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51bQ+i-qt-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BDS757BX",
-  "buyStore": "Amazon",
-  "title": "Chemist At Play UnderArm Roll On Deodorant with 5% AHA, Lactic Acid & 1% Mandelic Acid | Prevents Body Odour & Fades Pigmentation | 0% Aluminium & 0% Alcohol | Peach Fragrance | 40ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:mandelic-acid",
-   "ing:aha",
-   "ing:aluminium-salts",
-   "claim:dark-spots",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "nivea-b0hcj6tc1g",
-  "brand": "Nivea",
-  "model": "Hijab Soft Bright & Shaveless Anti-Perspirant Roll-On for Women, 72H Protection, Vitamin C…",
-  "price": 299,
-  "capacityLine": "50 ml",
-  "materialLine": "Vitamin C + Pearl",
-  "featureLine": "Roll-on · ₹598/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹598/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin C, Pearl (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/511IQzu6xjL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCJ6TC1G",
-  "buyStore": "Amazon",
-  "title": "NIVEA Hijab Soft Bright & Shaveless Anti-Perspirant Roll-On for Women, 72H Protection, Vitamin C & Pearl Extract, 0% Alcohol, 50 ml",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "ing:vitamin-c",
-   "ing:pearl",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dove-b0gj4cltkr",
-  "brand": "Dove",
-  "model": "Go Fresh Antiperspirant Roll On Deodorant for Women Pomegranate and Lemongrass Verbena wit…",
-  "price": 351,
-  "capacityLine": "50 ml",
-  "materialLine": "Vitamin E",
-  "featureLine": "Roll-on · ₹702/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹702/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "2.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "2.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51yRzRnVcRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJ4CLTKR",
-  "buyStore": "Amazon",
-  "title": "Dove Go Fresh Antiperspirant Roll On Deodorant for Women Pomegranate and Lemongrass Verbena with Moisturizing Cream Vitamin E 48 Hour Sweat Odour Protection 50 ml",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:roll-on",
-   "ing:vitamin-e",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "2.5★ from 0 ratings"
-  }
- },
- {
-  "id": "secret-temptation-b09phqtvwp",
-  "brand": "Secret Temptation",
-  "model": "Talc Effect and Brightening Roll-On for Women, Antiperspirant Dedorant Roll On, Pack of 2 …",
-  "price": 279,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · ₹279/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹279/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/91eGjlRYw4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09PHQTVWP",
-  "buyStore": "Amazon",
-  "title": "Secret Temptation Talc Effect and Brightening Roll-On for Women, Antiperspirant Dedorant Roll On, Pack of 2 (50ml each)",
-  "tags": [
-   "scope:unstated",
-   "format:roll-on",
-   "format:kit",
-   "claim:brightening",
-   "claim:antiperspirant",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "nivea-b0gznhkgdq",
-  "brand": "Nivea",
-  "model": "Extra Bright Radiant & Smooth Anti-Perspirant Roll On 50ml for Women | 8 in 1 Underarm Car…",
-  "price": 397,
-  "capacityLine": "50 ml",
-  "materialLine": "Vitamin C + AHA",
-  "featureLine": "Roll-on · ₹794/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹794/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C, AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/510ph3GwdAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZNHKGDQ",
-  "buyStore": "Amazon",
-  "title": "Nivea Extra Bright Radiant & Smooth Anti-Perspirant Roll On 50ml for Women | 8 in 1 Underarm Care with Vitamin C, Superfood & AHA | 72H Sweat & Odor Protection",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:vitamin-c",
-   "ing:aha",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dove-b0cbkkywz3",
-  "brand": "Dove",
-  "model": "Eventone Deodorant Roll On For Women, Antiperspirant Underarm Roll On Removes Odour, Keeps…",
-  "price": 253,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · Paraben-free · ₹253/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹253/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51BvjYfhyaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CBKKYWZ3",
-  "buyStore": "Amazon",
-  "title": "Dove Eventone Deodorant Roll On For Women, Antiperspirant Underarm Roll On Removes Odour, Keeps Skin Fresh & Clean, Alcohol Free, Paraben Free, 50 ml (Pack of 2)",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "claim:dark-spots",
-   "claim:antiperspirant",
-   "claim:odour",
-   "free:paraben",
-   "free:alcohol",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "blissnatural-b0g499dl6z",
-  "brand": "BlissNatural",
-  "model": "Inknut Underarm Roll On for Women | Reduces Dark Underarms & Pigmentation | Mandelic Acid …",
-  "price": 299,
-  "capacityLine": "50 ml",
-  "materialLine": "Mandelic acid + Aloe vera",
-  "featureLine": "Roll-on · Paraben-free · ₹598/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹598/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Mandelic acid, Aloe vera (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71bt3L4lA4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G499DL6Z",
-  "buyStore": "Amazon",
-  "title": "BLISSNATURAL Inknut Underarm Roll On for Women | Reduces Dark Underarms & Pigmentation | Mandelic Acid + Aloe Vera | Controls Odour | Exfoliates Dead Skin | Paraben Free | 50ml",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "ing:mandelic-acid",
-   "ing:aloe-vera",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:odour",
-   "free:paraben",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "cherry-b0h4lqc44y",
-  "brand": "Cherry",
-  "model": "Blossom Underarm Roll On Deodorant for Women & Men – Helps Reduce Odour & Dark Underarms, …",
-  "price": 219,
-  "capacityLine": "50 ml",
-  "materialLine": "Rose + Cherry / acerola",
-  "featureLine": "Roll-on · ₹438/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹438/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose, Cherry / acerola (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61WAh9LAWiL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4LQC44Y",
-  "buyStore": "Amazon",
-  "title": "Cherry Blossom Underarm Roll On Deodorant for Women & Men – Helps Reduce Odour & Dark Underarms, Long Lasting Odor Protection & Fresh Rose Fragrance - 50 ml (Pack 3)",
-  "tags": [
-   "scope:body",
-   "format:pack",
-   "format:roll-on",
-   "ing:rose",
-   "ing:cherry-acerola",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sirona-b0bhwq9cqv",
-  "brand": "Sirona",
-  "model": "Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfol…",
-  "price": 256,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · Alcohol-free · ₹512/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹512/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61fLkDyhWPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BHWQ9CQV",
-  "buyStore": "Amazon",
-  "title": "Sirona Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfoliates Underarm | Sensitive Skin | Aqua Fragrance | Alcohol Free",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "claim:brightening",
-   "claim:exfoliating",
-   "claim:odour",
-   "skin:sensitive",
-   "free:alcohol",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Sirona Hygiene",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://thesirona.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "artisoul-b0gnz9nq2w",
-  "brand": "ARTISOUL®",
-  "model": "Underarm Sweat Vest Women Yoga Reusable for Sweating Armpit Sweatproof Shirt Black M | Hea…",
-  "price": 1174,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Water / sweat resistant, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Y1txpWkLL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GNZ9NQ2W",
-  "buyStore": "Amazon",
-  "title": "ARTISOUL® Underarm Sweat Vest Women Yoga Reusable for Sweating Armpit Sweatproof Shirt Black M | Health & Beauty | Bath & Body | Deodorants & Antiperspirants",
-  "tags": [
-   "scope:body",
-   "claim:water-resistant",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b001e0ya2o",
-  "brand": "Unbranded",
-  "model": "Crystal Body Deodorant Roll On 2.25 Oz, 2 Pack",
-  "price": 1617,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71kDHA5er3L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B001E0YA2O",
-  "buyStore": "Amazon",
-  "title": "Crystal Body Deodorant Roll On 2.25 Oz, 2 Pack",
-  "tags": [
-   "scope:body",
-   "format:pack",
-   "format:roll-on",
-   "claim:odour",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "secret-b00tr90vpy",
-  "brand": "Secret",
-  "model": "Clinical Strength Antiperspirant Deodorant for Women, Stress Response, 3X Stress Protectio…",
-  "price": 1509,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Gel",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Gel",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71xbPua2+LL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00TR90VPY",
-  "buyStore": "Amazon",
-  "title": "Secret Clinical Strength Antiperspirant Deodorant for Women, Stress Response, 3X Stress Protection, 72hr Sweat Odor Protection, PH Balancing Minerals, Clear Gel, 1.6 oz.",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "free:ph-balanced",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "old-spice-b00nfuvtji",
-  "brand": "Old Spice",
-  "model": "Unisex Deodorant 2.25Oz Pure Sport Solid",
-  "price": 1299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61J5amwWlML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00NFUVTJI",
-  "buyStore": "Amazon",
-  "title": "Old Spice Unisex Deodorant 2.25Oz Pure Sport Solid",
-  "tags": [
-   "scope:unstated",
-   "claim:odour",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Procter & Gamble",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://us.pg.com/brands/"
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "secret-b00txzqx3q",
-  "brand": "Secret",
-  "model": "Clinical Strength Completely Clean Invisible Solid Antiperspirant/Deodorant, Travel Size, …",
-  "price": 731,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "No white cast, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81bo6nUtpTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00TXZQX3Q",
-  "buyStore": "Amazon",
-  "title": "Secret Clinical Strength Completely Clean Invisible Solid Antiperspirant/Deodorant, Travel Size, 0.5 Oz",
-  "tags": [
-   "scope:unstated",
-   "claim:no-white-cast",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "byond-b0bn1xrxr3",
-  "brand": "Byond",
-  "model": "Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of…",
-  "price": 349,
-  "capacityLine": "240 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹145/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "120 ml × 2 pack",
-   "pricePer100": "₹145/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51wBA+-e7cL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BN1XRXR3",
-  "buyStore": "Amazon",
-  "title": "Byond Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of 2 (Tao & Tito, 120ml)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "claim:long-lasting",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "byond-b09rf4n1y3",
-  "brand": "Byond",
-  "model": "Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of…",
-  "price": 349,
-  "capacityLine": "240 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Aerosol / body spray · ₹145/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "120 ml × 2 pack",
-   "pricePer100": "₹145/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61SHZDfJl8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09RF4N1Y3",
-  "buyStore": "Amazon",
-  "title": "Byond Club House No Gas Deodorant, Perfume Body Spray, Long Lasting Deo for Men 24 Hour, Pack of 2 (Shosha & Vela, 120ml)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:kit",
-   "format:aerosol",
-   "claim:long-lasting",
-   "claim:odour",
-   "aud:men",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "degree-b001tsltqq",
-  "brand": "Degree",
-  "model": "Men Dry Protection Antiperspirant, Extreme Blast 2.7 oz, Twin Pack",
-  "price": 1336,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.6★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71K6bkXwNEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B001TSLTQQ",
-  "buyStore": "Amazon",
-  "title": "Degree Men Dry Protection Antiperspirant, Extreme Blast 2.7 oz, Twin Pack",
-  "tags": [
-   "scope:unstated",
-   "format:pack",
-   "claim:antiperspirant",
-   "aud:men",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dsf1dx9v",
-  "brand": "Unbranded",
-  "model": "SPA CEYLON Beach Body Spray Enchanting Women's Fragrance Mist with Essential Oil | Floral …",
-  "price": 1319,
-  "capacityLine": "200 ml",
-  "materialLine": "Lavender",
-  "featureLine": "Aerosol / body spray · ₹660/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹660/100ml",
-   "format": "Aerosol / body spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71zo6Op0xOL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSF1DX9V",
-  "buyStore": "Amazon",
-  "title": "SPA CEYLON Beach Body Spray Enchanting Women's Fragrance Mist with Essential Oil | Floral & Fruitty Fragrance| 200ml | All-Day Scent (Lavender)",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:oil",
-   "format:aerosol",
-   "ing:lavender",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

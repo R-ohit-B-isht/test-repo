@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -3055,6 +3055,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4891,6 +4892,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4898,6 +4900,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5132,6 +5135,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5139,6 +5143,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5146,6 +5151,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -5153,6 +5159,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5160,6 +5167,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5391,6 +5399,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5398,6 +5407,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5405,6 +5415,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -5412,6 +5423,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5419,6 +5431,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5543,6 +5556,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5550,6 +5564,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5557,6 +5572,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -5564,6 +5580,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5571,6 +5588,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5697,6 +5715,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5704,6 +5723,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5711,6 +5731,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -5718,6 +5739,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5725,6 +5747,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5848,6 +5871,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5855,6 +5879,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5862,6 +5887,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -5869,6 +5895,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5876,6 +5903,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6007,6 +6035,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6014,6 +6043,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6021,6 +6051,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -6028,6 +6059,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6035,6 +6067,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6160,6 +6193,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6167,6 +6201,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6174,6 +6209,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -6181,6 +6217,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6188,6 +6225,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6637,6 +6675,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6644,6 +6683,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6651,6 +6691,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -6658,6 +6699,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6665,6 +6707,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -7006,6 +7049,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -7013,6 +7057,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -7020,6 +7065,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -9028,6 +9074,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -9035,6 +9082,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -9042,6 +9090,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -9049,6 +9098,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -9056,6 +9106,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -9511,6 +9562,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -10306,6 +10358,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -10313,6 +10366,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -10439,6 +10493,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -10446,6 +10501,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -12428,6 +12484,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -12435,6 +12492,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -12442,6 +12500,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -12449,6 +12508,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -13567,16 +13627,15 @@ const NXPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Almond",
   "featureLine": "Beard oil · ₹797/100ml",
-  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (The Man Company official website (www.themancompany.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "prunus amygdalus dulcis oil high on the INCI list (limited evidence); argania spinosa kernel oil high on the INCI list (limited evidence)",
-   "No fragrance / flagged irritant on the INCI list"
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
   ],
-  "cons": [],
   "scores": {
-   "ingredients": 3.8,
-   "skin": 10,
-   "trust": 8,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
    "experience": 6.3
   },
   "fullSpec": {
@@ -13594,14 +13653,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.8/5 (73,295 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
-   "inciSourceUrl": "https://www.themancompany.com/products/beard-oil-almond-thyme-50ml",
-   "inciMatchedName": "Beard Oil | Almond & Thyme 50ml (name match 87%)",
-   "listingIngredientLine": "Thyme, Geranium, Almond Oil, Rosemary, Argan Oil, Hazelnut Oil, Jojoba Oil, Lemon (as printed on the Flipkart listing — incomplete, not scored)",
-   "inciList": "Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hazelnut Oil, Argania Spinosa Kernel Oil, Simmondsia Chinensis (Jojoba) Oil, Tocopheryl Acetate, Thyme Essential Oil, Rosemary Essential Oil, Lemon Essential Oil, Geranium Essential Oil, BHT",
-   "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, limited evidence); argania spinosa kernel oil (#3 on list, limited evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Thyme, Geranium, Almond Oil, Rosemary, Argan Oil, Hazelnut Oil, Jojoba Oil, Lemon",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Emami — Established / listed Indian FMCG house",
    "declaredManufacturer": "GOODNESS OF NATURE 128/230, H-Block, Kidwai Nagar, Kanpur- 208011, Uttar Pradesh, India (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "3.8★ from 73,295 ratings"
@@ -13627,9 +13683,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "freefrom": false,
@@ -13637,39 +13691,24 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.themancompany.com/products/beard-oil-almond-thyme-50ml",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Beard Oil | Almond & Thyme 50ml",
-   "inciMatchScore": 0.87,
-   "inciText": "Prunus Amygdalus Dulcis (Sweet Almond) Oil, Hazelnut Oil, Argania Spinosa Kernel Oil, Simmondsia Chinensis (Jojoba) Oil, Tocopheryl Acetate, Thyme Essential Oil, Rosemary Essential Oil, Lemon Essential Oil, Geranium Essential Oil, BHT",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "prunus amygdalus dulcis oil",
-     "grade": "C",
-     "position": 1,
-     "core": true,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "argania spinosa kernel oil",
-     "grade": "C",
-     "position": 3,
-     "core": true,
-     "src": "hairCosmetics"
-    }
-   ],
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Thyme, Geranium, Almond Oil, Rosemary, Argan Oil, Hazelnut Oil, Jojoba Oil, Lemon",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -15072,6 +15111,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15079,6 +15119,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15086,6 +15127,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -15558,6 +15600,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -15565,6 +15608,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -15572,6 +15616,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15579,6 +15624,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15586,6 +15632,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -15593,6 +15640,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15600,6 +15648,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -16062,6 +16111,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -16069,6 +16119,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -16076,6 +16127,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -16083,6 +16135,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -16090,6 +16143,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -17756,116 +17810,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "phillauri-itm634c679feda92",
-  "brand": "Phillauri",
-  "model": "Beard Oil and Softener Cream Pack for Daily Groomed Beard Appearance",
-  "price": 198,
-  "capacityLine": "80 ml",
-  "materialLine": "Shea butter + Vitamin E",
-  "featureLine": "Beard oil · ₹248/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹248/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Shea butter, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea Butter, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/m/n/beard-oil-and-softener-cream-pack-for-daily-groomed-beard-original-imahh27wdkhg7sug.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/4/h/w/beard-care-combo-beard-oil-and-softener-cream-for-smooth-original-imahky58t4u9wkes.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/5/q/w/beard-care-combo-beard-oil-and-softener-cream-for-smooth-original-imahky58xvvnzpfk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/i/q/1/beard-care-combo-beard-oil-and-softener-cream-for-smooth-original-imahky58s4dnhasg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/r/s/x/beardinator-basics-beard-growth-oil-50ml-beard-activator-derma-original-imags7r9538bj4hj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-beard-oil-softener-cream-pack-daily-groomed-appearance/p/itm634c679feda92",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Beard Oil and Softener Cream Pack for Daily Groomed Beard Appearance",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:beard-oil",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "free:vegan",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea Butter, Vitamin E",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "dr-treben-itmeca19b30ccfdd",
   "brand": "Dr.Treben",
   "model": "Beard Oil for Growing Beard Faster with Almond & Thyme, 100% Natural Hair Oil",
@@ -18091,6 +18035,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -18098,6 +18043,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -19154,6 +19100,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19161,6 +19108,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -19168,6 +19116,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -19667,121 +19616,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "smartdrops-itma8673411d241a",
-  "brand": "smartdrops",
-  "model": "Beard Oil and Butter Cream | Long Lasting Soft Cream | Mustache Styling",
-  "price": 200,
-  "capacityLine": "500 g (pack of 5)",
-  "materialLine": "Almond + Shea butter + Argan oil",
-  "featureLine": "Beard oil · SPF 50 · ₹40/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g × 5 pack",
-   "pricePer100": "₹40/100g",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Almond, Shea butter, Argan oil, Jojoba (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Smoothing / straightening, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Almond Oil, Jojoba Seeds, Shea Butter, Argan oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/t/a/beard-oil-and-butter-cream-long-lasting-soft-cream-mustache-original-imahj2d32zf26gqn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/z/i/beard-oil-and-butter-cream-combo-beard-and-mustache-softner-original-imahj2cvrvgqntgm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/m/x/beard-oil-and-butter-cream-combo-beard-and-mustache-softner-original-imahj2cv3bzbgwyn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/b/f/beard-oil-and-butter-cream-combo-beard-and-mustache-softner-original-imahj2cvvvs8mgpm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/l/0/beard-oil-and-butter-cream-combo-beard-and-mustache-softner-original-imahj2cvzxb2fucy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/smartdrops-beard-oil-butter-cream-long-lasting-soft-mustache-styling/p/itma8673411d241a",
-  "buyStore": "Flipkart",
-  "title": "smartdrops Beard Oil and Butter Cream | Long Lasting Soft Cream | Mustache Styling",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:wash",
-   "format:kit",
-   "format:texture-spray",
-   "format:beard-oil",
-   "format:beard-balm",
-   "spf:50",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:argan-oil",
-   "ing:jojoba",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:beard-growth",
-   "aud:men",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Almond Oil, Jojoba Seeds, Shea Butter, Argan oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "venvo-itm8d6c814c979a6",
   "brand": "venvo",
   "model": "Beard Wash & Hair Oil – Moisturizing Care for Soft & Strong Beard",
@@ -20238,6 +20072,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -20245,6 +20080,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -20252,6 +20088,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -20259,6 +20096,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -21987,120 +21825,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "smartdrops-itmd334e9394a2d4",
-  "brand": "smartdrops",
-  "model": "Beard Wash Beard Oil & Beard Softener Cream Complete Beard Grooming Routine Set",
-  "price": 233,
-  "capacityLine": "380 ml (pack of 2)",
-  "materialLine": "Vitamin C + Rice water",
-  "featureLine": "Beard oil · SPF 50 · ₹61/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "190 ml × 2 pack",
-   "pricePer100": "₹61/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Vitamin C, Rice water (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Shine / gloss, Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/a/w/c/beard-care-routine-kit-for-men-with-beard-wash-oil-and-softener-original-imahkr8j7dhuzzgq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/q/4/o/beard-care-routine-kit-for-men-with-beard-wash-oil-and-softener-original-imahkr8jt2snpbe6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/d/2/x/beard-care-routine-kit-for-men-with-beard-wash-oil-and-softener-original-imahkr8jnaqzjhtg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/i/5/r/beard-care-routine-kit-for-men-with-beard-wash-oil-and-softener-original-imahkr8jmts9gqzp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/a/0/5/beard-care-routine-kit-for-men-with-beard-wash-oil-and-softener-original-imahkr8jeapkpnhx.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/smartdrops-beard-wash-oil-softener-cream-complete-grooming-routine-set/p/itmd334e9394a2d4",
-  "buyStore": "Flipkart",
-  "title": "smartdrops Beard Wash Beard Oil & Beard Softener Cream Complete Beard Grooming Routine Set",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:serum",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-wash",
-   "format:beard-balm",
-   "spf:50+",
-   "ing:vitamin-c",
-   "ing:rice-water",
-   "concern:hair-growth",
-   "concern:shine",
-   "concern:beard-itch",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "beardo-itmfg7tdjzyzyssf",
   "brand": "Beardo",
   "model": "Beard Oil & Beard Wash |Soft Smooth Beard | Nourishment Cleanses",
@@ -23417,6 +23141,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23424,6 +23149,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -23431,6 +23157,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23438,6 +23165,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23445,6 +23173,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -23452,6 +23181,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -24265,6 +23995,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -24272,6 +24003,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -24279,6 +24011,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -24286,6 +24019,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -24293,6 +24027,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -24440,6 +24175,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -24447,6 +24183,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -27890,122 +27627,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "phillauri-itm251f27b36d096",
-  "brand": "Phillauri",
-  "model": "Beard Oil for faster Beard Growth Dryness & Itching Beard Cream For Men Hair Oil",
-  "price": 169,
-  "capacityLine": "90 ml",
-  "materialLine": "Aloe vera + Shea butter + Vitamin E",
-  "featureLine": "Beard oil · ₹188/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 18 ratings"
-  ],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "90 ml",
-   "pricePer100": "₹188/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Aloe vera, Shea butter, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (18 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea Butter, Aloe Vera, Vitamin E, Olive Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 18 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/m/x/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7nwnf5cg6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/t/i/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg79hpqsyat.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/c/d/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7fqmfrzxa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/v/e/h/90-long-lasting-nourishment-shine-beard-cream-for-long-beard-man-original-imahgfhzmhmhv5wa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/9/w/r/30-beard-oil-for-smooths-texture-protects-from-elements-pack-of-original-imah5z65varr97tr.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-beard-oil-faster-growth-dryness-itching-cream-men-hair/p/itm251f27b36d096",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Beard Oil for faster Beard Growth Dryness & Itching Beard Cream For Men Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:olive",
-   "concern:scalp-itch",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "hair:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea Butter, Aloe Vera, Vitamin E, Olive Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 18 ratings"
-  }
- },
- {
   "id": "smartdrops-itm20c1d2296b7e7",
   "brand": "smartdrops",
   "model": "Beard Cream Reverse Premature Greying with Highly Potent Cream Hair Cream Hair Cream",
@@ -28460,6 +28081,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28467,6 +28089,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28474,6 +28097,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28481,6 +28105,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -28609,6 +28234,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -28617,119 +28243,6 @@ const NXPRODUCTS = [
     "sodium hyaluronate",
     "glycerin"
    ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itm4f39f802409ad",
-  "brand": "Phillauri",
-  "model": "Faster Beard Growth Hair Oil & Cream Best Beard Cream & Oil For Men Hair Oil",
-  "price": 169,
-  "capacityLine": "90 ml",
-  "materialLine": "Aloe vera + Shea butter + Vitamin E",
-  "featureLine": "Beard balm / softener · ₹188/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 3 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "90 ml",
-   "pricePer100": "₹188/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Aloe vera, Shea butter, Vitamin E, Jojoba (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea Butter, Aloe Vera, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/5/n/z/90-faster-beard-growth-hair-oil-cream-best-beard-cream-oil-for-original-imahg2g9twvcw8hg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/m/x/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7nwnf5cg6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/t/i/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg79hpqsyat.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/c/d/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7fqmfrzxa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/5/f/r/90-beard-mustache-growth-oil-for-men-smooth-and-nourished-beard-original-imahgfnwbag8txjs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-faster-beard-growth-hair-oil-cream-best-men/p/itm4f39f802409ad",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Faster Beard Growth Hair Oil & Cream Best Beard Cream & Oil For Men Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:jojoba",
-   "concern:hair-growth",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "hair:all",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea Butter, Aloe Vera, Vitamin E",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -31843,6 +31356,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -31850,6 +31364,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -31857,6 +31372,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -31864,6 +31380,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -31871,6 +31388,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -31878,6 +31396,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     },
     {
@@ -31885,6 +31404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     }
    ],
@@ -32363,6 +31883,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32370,6 +31891,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32377,6 +31899,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32384,6 +31907,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32391,6 +31915,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -32398,6 +31923,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -32749,6 +32275,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32756,6 +32283,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32763,6 +32291,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -32770,6 +32299,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32777,6 +32307,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -34883,6 +34414,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -34890,6 +34422,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -34897,6 +34430,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -34904,6 +34438,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -34911,6 +34446,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -35149,6 +34685,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -35156,6 +34693,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -35163,6 +34701,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -35170,6 +34709,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -35177,6 +34717,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -37439,6 +36980,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -37446,6 +36988,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -37453,6 +36996,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -37460,6 +37004,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38346,6 +37891,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38353,6 +37899,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38360,6 +37907,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -38367,6 +37915,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38374,6 +37923,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38501,6 +38051,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38508,6 +38059,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38515,6 +38067,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -38522,6 +38075,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38529,6 +38083,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38654,6 +38209,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38661,6 +38217,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38668,6 +38225,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -38675,6 +38233,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38682,6 +38241,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38807,6 +38367,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38814,6 +38375,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38821,6 +38383,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -38828,6 +38391,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38835,6 +38399,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -38968,6 +38533,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38975,6 +38541,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38982,6 +38549,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -38989,6 +38557,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38996,6 +38565,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39121,6 +38691,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39128,6 +38699,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39135,6 +38707,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39142,6 +38715,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39149,6 +38723,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39274,6 +38849,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39281,6 +38857,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39288,6 +38865,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39295,6 +38873,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39302,6 +38881,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39434,6 +39014,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39441,6 +39022,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39448,6 +39030,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39455,6 +39038,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39462,6 +39046,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39593,6 +39178,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39600,6 +39186,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39607,6 +39194,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39614,6 +39202,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39621,6 +39210,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39753,6 +39343,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39760,6 +39351,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39767,6 +39359,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39774,6 +39367,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39781,6 +39375,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -39912,6 +39507,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39919,6 +39515,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39926,6 +39523,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -39933,6 +39531,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -39940,6 +39539,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40065,6 +39665,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40072,6 +39673,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40079,6 +39681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -40086,6 +39689,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40093,6 +39697,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40216,6 +39821,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40223,6 +39829,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40230,6 +39837,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -40237,6 +39845,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40244,6 +39853,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40369,6 +39979,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40376,6 +39987,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40383,6 +39995,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -40390,6 +40003,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40397,6 +40011,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -40765,6 +40380,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40772,6 +40388,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40779,6 +40396,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -40786,6 +40404,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -40793,6 +40412,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41030,6 +40650,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41037,6 +40658,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41044,6 +40666,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -41051,6 +40674,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41058,6 +40682,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41189,6 +40814,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41196,6 +40822,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41203,6 +40830,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -41210,6 +40838,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41217,6 +40846,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -41461,6 +41091,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41468,6 +41099,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41475,6 +41107,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -41482,6 +41115,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -41489,6 +41123,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -44277,6 +43912,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -44284,6 +43920,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -44291,6 +43928,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44298,6 +43936,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -44305,6 +43944,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -44772,6 +44412,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44779,6 +44420,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44786,6 +44428,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -44793,6 +44436,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -44800,6 +44444,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -45043,6 +44688,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45050,6 +44696,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45057,6 +44704,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -45064,6 +44712,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45071,6 +44720,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -45622,6 +45272,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "sawPalmetto"
     },
     {
@@ -45629,6 +45280,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45636,6 +45288,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45643,6 +45296,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45650,6 +45304,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -45657,6 +45312,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     }
    ],
@@ -46023,7 +45679,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "organic-alligator-itm30fa7764a60a5",
-  "brand": "ORGANIC ALLIGATOR",
+  "brand": "Organic Alligator",
   "model": "exclusive beard oil / SLS and paraben free Hair Oil",
   "price": 285,
   "capacityLine": "270 g (pack of 3)",
@@ -46137,6 +45793,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46144,6 +45801,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46151,6 +45809,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -46710,6 +46369,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -46717,6 +46377,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46724,6 +46385,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46731,6 +46393,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -46738,6 +46401,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46745,6 +46409,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -46870,7 +46535,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "organic-alligator-itm60ba1a1215daf",
-  "brand": "ORGANIC ALLIGATOR",
+  "brand": "Organic Alligator",
   "model": "premium beard growth oil for perfect kept beard/ SLS and paraben free Hair Oil",
   "price": 167,
   "capacityLine": "30 g",
@@ -46984,6 +46649,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46991,6 +46657,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -46998,6 +46665,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -47225,6 +46893,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47232,6 +46901,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -48775,7 +48445,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "organic-alligator-itm48eb5062994d6",
-  "brand": "ORGANIC ALLIGATOR",
+  "brand": "Organic Alligator",
   "model": "premium beard oil for optimum growth Hair Oil",
   "price": 255,
   "capacityLine": "270 g (pack of 3)",
@@ -50530,6 +50200,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -50537,6 +50208,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -50544,6 +50216,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -50551,6 +50224,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -50675,6 +50349,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -50682,6 +50357,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -50689,6 +50365,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -50696,6 +50373,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -51474,6 +51152,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -51481,6 +51160,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -51488,6 +51168,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -51495,6 +51176,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -51502,6 +51184,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -51628,6 +51311,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -51635,6 +51319,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -51642,6 +51327,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -51649,6 +51335,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -51656,6 +51343,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -52019,6 +51707,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -52026,6 +51715,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -52033,6 +51723,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -53014,6 +52705,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -53021,6 +52713,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -53028,6 +52721,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -53035,6 +52729,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -53042,6 +52737,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -53049,6 +52745,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -54161,6 +53858,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54168,6 +53866,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54175,6 +53874,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54182,6 +53882,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -55041,6 +54742,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55048,6 +54750,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -55055,6 +54758,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -55604,6 +55308,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55611,6 +55316,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -55618,6 +55324,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -55625,6 +55332,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -56627,120 +56335,6 @@ const NXPRODUCTS = [
    "inciText": null,
    "inciUnverified": "Herbal oil, Avocado Oil, Almond oil, Coconut oil, Jojoba oil, Eucalyptus oil, Hemp oil, Argan oil",
    "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vanura-itm233af9d308fac",
-  "brand": "VANURA",
-  "model": "Beard Oil for Men Beard Softener, Conditioner & Grooming Care Hair Oil",
-  "price": 148,
-  "capacityLine": "30 ml",
-  "materialLine": "Almond + Jojoba + Olive",
-  "featureLine": "Beard oil · ₹493/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹493/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Almond, Jojoba, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Thinning / density, Dryness / hydration, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Thick / coarse hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: ALMOND OIL, JOJOBA OIL, COCOUNT OIL, OLIVE OIL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/c/s/1/30-beard-oil-for-men-intensive-beard-growth-and-hair-care-original-imahzhjrzebhczg7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/v/j/m/30-men-beard-hair-growth-oil-for-growth-thicker-looking-no-original-imahnqy7wctsbbjg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/u/v/d/30-men-beard-hair-growth-oil-for-growth-thicker-looking-no-original-imahnqy7emzgvnvh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/j/x/0/30-beard-growth-oil-for-strong-and-healthy-beard-growth-hair-oil-original-imahnqynapc5hahr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/a/r/m/30-the-best-beard-oil-for-men-who-want-to-look-their-best-for-original-imagtbn7gajcmmyv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vanura-beard-oil-men-softener-conditioner-grooming-care-hair/p/itm233af9d308fac",
-  "buyStore": "Flipkart",
-  "title": "VANURA Beard Oil for Men Beard Softener, Conditioner & Grooming Care Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:conditioner",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:almond",
-   "ing:jojoba",
-   "ing:olive",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "hair:thick",
-   "hair:all",
-   "free:vegan",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "ALMOND OIL, JOJOBA OIL, COCOUNT OIL, OLIVE OIL",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -59031,6 +58625,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59038,6 +58633,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59045,6 +58641,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -59052,6 +58649,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -59178,7 +58776,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "organic-alligator-itm63d71699fb7c1",
-  "brand": "ORGANIC ALLIGATOR",
+  "brand": "Organic Alligator",
   "model": "Premium beard oil for optimum growth / scientifically proven Hair Oil",
   "price": 167,
   "capacityLine": "30 ml",
@@ -59287,6 +58885,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59294,6 +58893,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59301,6 +58901,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -59429,6 +59030,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59436,6 +59038,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -59775,6 +59378,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59782,6 +59386,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -61646,6 +61251,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -61653,6 +61259,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -62869,6 +62476,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -62876,6 +62484,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -62883,6 +62492,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -63441,6 +63051,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -63448,6 +63059,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -64444,6 +64056,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -64451,6 +64064,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -67242,7 +66856,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "organic-alligator-itm4f01e413d8119",
-  "brand": "ORGANIC ALLIGATOR",
+  "brand": "Organic Alligator",
   "model": "Exclusive beard oil for best growth, shine and nourishment 90 ml Hair Oil",
   "price": 276,
   "capacityLine": "90 ml",
@@ -67351,6 +66965,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67358,6 +66973,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67365,6 +66981,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -76976,113 +76593,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "beardo-itm063c066ff5525",
-  "brand": "Beardo",
-  "model": "Godfather Body Wash, Perfume 50ml, Solid Perfume, Beard Wash & Beard Oil Perfume - 390 ml …",
-  "price": 184,
-  "capacityLine": "50 ml",
-  "materialLine": "Lemon + Peppermint / menthol + Vetiver",
-  "featureLine": "Beard oil · ₹368/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹368/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Lemon, Peppermint / menthol, Vetiver, Musk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Odour / fragrance / freshness (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/perfume/t/f/d/-original-imahpamnwwd5xjjm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/perfume/s/6/6/390-godfather-body-wash-perfume-50ml-solid-perfume-beard-wash-original-imahp42tbpwbr8q9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/f/c/z/200-godfather-body-wash-silicone-scrubber-for-men-set-of-2-1-original-imahzw8ekwyq2vyy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/perfume/p/n/r/390-godfather-body-wash-perfume-50ml-solid-perfume-beard-wash-original-imahp42tqzhhum2h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/j/b/3/250-detan-bodywash-100ml-detan-face-wash-100ml-godfather-perfume-original-imahmbyff9gxmjxr.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/beardo-godfather-body-wash-perfume-50ml-solid-perfume-beard-wash-oil-390-ml/p/itm063c066ff5525",
-  "buyStore": "Flipkart",
-  "title": "BEARDO Godfather Body Wash, Perfume 50ml, Solid Perfume, Beard Wash & Beard Oil Perfume - 390 ml Online In India | Flipkart.com",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:beard-oil",
-   "format:beard-wash",
-   "ing:lemon",
-   "ing:peppermint-menthol",
-   "ing:vetiver",
-   "ing:musk",
-   "concern:odour",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "beardo-itmbb245f277d0e4",
   "brand": "Beardo",
   "model": "Godfather Perfume For Men | Long Lasting Fragrance | Aromatic Eau de Parfum (50 ml) & Bear…",
@@ -77187,121 +76697,6 @@ const NXPRODUCTS = [
     "label": "Established / listed Indian FMCG house",
     "pts": 6,
     "url": "https://marico.com/india/brands"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mancode-itma56feaaa2e097",
-  "brand": "Mancode",
-  "model": "BEARD OIL PATCHOULI, 60ml + TEA TREE OIL CONTROL SOAP, 125gm",
-  "price": 199,
-  "capacityLine": "250 g (pack of 2)",
-  "materialLine": "Tea tree + Charcoal + Coconut",
-  "featureLine": "Beard oil · ₹80/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "125 g × 2 pack",
-   "pricePer100": "₹80/100g",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Charcoal, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/ko1smfk0/combo-kit/c/i/a/beard-oil-patchouli-60ml-tea-tree-oil-control-soap-125gm-mnc92-original-imag2hegarf7ngfu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kuyf8nk0/combo-kit/x/8/y/beard-wash-conditioner-200ml-and-beard-balm-50gm-makes-beard-original-imag7ypxycvrjft9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kuzuoi80/combo-kit/s/n/g/activated-charcoal-teeth-whitening-powder-whitens-teeth-prevent-original-imag7znjkqx3d2e5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/r/s/x/beardinator-basics-beard-growth-oil-50ml-beard-activator-derma-original-imags7r9538bj4hj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/ki96c280-0/combo-kit/6/i/s/mens-grooming-essentials-beard-wash-and-conditioner-200ml-beard-original-imafy35dgqxqrfff.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mancode-beard-oil-patchouli-60ml-tea-tree-control-soap-125gm/p/itma56feaaa2e097",
-  "buyStore": "Flipkart",
-  "title": "MANCODE BEARD OIL PATCHOULI, 60ml + TEA TREE OIL CONTROL SOAP, 125gm",
-  "tags": [
-   "area:beard",
-   "format:gel",
-   "format:foam",
-   "format:oil",
-   "format:balm",
-   "format:powder",
-   "format:wash",
-   "format:roll-on",
-   "format:kit",
-   "format:conditioner",
-   "format:beard-oil",
-   "format:beard-wash",
-   "format:beard-balm",
-   "ing:tea-tree",
-   "ing:charcoal",
-   "ing:coconut",
-   "concern:beard-growth",
-   "aud:men",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
    },
    "buyers": "No buyer ratings yet"
   }
@@ -77755,115 +77150,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "fasczo-itm16380ff0f2f15",
-  "brand": "Fasczo",
-  "model": "Men Mustache & Beard Oil / To Added Shine & Frizz Free Hair / Men Hair Serum",
-  "price": 283,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹943/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹943/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Premature greying (claim), Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/p/6/f/30-men-mustache-beard-oil-to-added-shine-frizz-free-hair-men-original-imah3zxfqerkkg5g.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/s/o/f/30-men-mustache-beard-oil-serum-for-dry-grey-beard-hair-oil-for-original-imah3zvppj9yudga.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/m/3/m/30-men-mustache-beard-oil-serum-for-dry-grey-beard-hair-oil-for-original-imah3zvpgugcq6yf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/w/g/c/30-men-mustache-and-beard-oil-serum-for-dry-grey-beard-hair-oil-original-imahcysafqhcehhw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/z/c/8/30-men-beard-growth-oil-serum-to-added-shine-frizz-free-hair-men-original-imahcysb73m5cbqh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/zpitol-men-mustache-beard-oil-added-shine-frizz-free-hair-serum/p/itm16380ff0f2f15",
-  "buyStore": "Flipkart",
-  "title": "Fasczo Men Mustache & Beard Oil / To Added Shine & Frizz Free Hair / Men Hair Serum",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:shine",
-   "concern:greying",
-   "concern:beard-growth",
-   "hair:dry",
-   "hair:all",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "speczo-itmab3aabb2634e2",
   "brand": "speczo",
   "model": "Powerfull Beard Growth oil- For Faster & Patchy Beard Growth Hair Oil",
@@ -77930,118 +77216,6 @@ const NXPRODUCTS = [
    "hair:all",
    "aud:men",
    "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "fasczo-itm263f7178ecb7b",
-  "brand": "Fasczo",
-  "model": "Men Mustache And Beard Oil / To Added Shine & Frizz Free Hair / Beard Serum",
-  "price": 283,
-  "capacityLine": "30 ml",
-  "materialLine": "Redensyl",
-  "featureLine": "Beard oil · ₹943/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹943/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Redensyl (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Thinning / density, Frizz control, Dryness / hydration, Shine / gloss, Premature greying (claim), Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/s/o/f/30-men-mustache-beard-oil-serum-for-dry-grey-beard-hair-oil-for-original-imah3zvppj9yudga.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/m/3/m/30-men-mustache-beard-oil-serum-for-dry-grey-beard-hair-oil-for-original-imah3zvpgugcq6yf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/g/q/1/30-beard-growth-serum-for-men-nourishes-strengthens-uneven-original-imahh4rvuadvhj6z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/z/r/t/30-beard-serum-for-men-boosts-growth-density-non-patchy-formula-original-imahfhtazgfvqmpa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/a/p/g/hair-lotion-30-aen-bo-30-aenique-original-imahpfy6swqgzydq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/ibfen-men-mustache-beard-oil-added-shine-frizz-free-hair-serum/p/itm263f7178ecb7b",
-  "buyStore": "Flipkart",
-  "title": "Fasczo Men Mustache And Beard Oil / To Added Shine & Frizz Free Hair / Beard Serum",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:redensyl",
-   "concern:thinning",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:shine",
-   "concern:greying",
-   "concern:beard-growth",
-   "hair:dry",
-   "hair:all",
-   "aud:men",
-   "size:travel",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -79365,116 +78539,6 @@ const NXPRODUCTS = [
    "hair:all",
    "aud:men",
    "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "fasczo-itm62dffff308f61",
-  "brand": "Fasczo",
-  "model": "Men Beard Growth Oil / Serum To Added Shine & Rich Glossy Shiny / Men Hair Oil",
-  "price": 283,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹943/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹943/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Volume / body, Premature greying (claim), Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/t/n/i/30-men-beard-growth-oil-reflects-shine-to-hair-growth-serum-original-imah3zxe3wjt6uav.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/g/q/1/30-beard-growth-serum-for-men-nourishes-strengthens-uneven-original-imahh4rvuadvhj6z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/3/a/2/30-man-beard-growth-oil-serum-for-dry-frizz-grey-beard-hair-oil-original-imahcysa8wchxy5y.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/a/p/g/hair-lotion-30-aen-bo-30-aenique-original-imahpfy6swqgzydq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/z/c/8/30-men-beard-growth-oil-serum-to-added-shine-frizz-free-hair-men-original-imahcysb73m5cbqh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/inlazer-men-beard-growth-oil-reflects-shine-hair-serum-moustache-gel/p/itm62dffff308f61",
-  "buyStore": "Flipkart",
-  "title": "Fasczo Men Beard Growth Oil / Serum To Added Shine & Rich Glossy Shiny / Men Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:shine",
-   "concern:volume",
-   "concern:greying",
-   "concern:beard-growth",
-   "hair:dry",
-   "hair:all",
-   "aud:men",
-   "size:travel",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -87436,6 +86500,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -87443,6 +86508,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -87450,6 +86516,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -87457,6 +86524,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -87464,6 +86532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -87471,6 +86540,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -87478,6 +86548,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     },
     {
@@ -87485,6 +86556,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "onion"
     }
    ],
@@ -87720,6 +86792,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -87727,6 +86800,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -87734,6 +86808,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -87741,6 +86816,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     }
    ],
@@ -89064,6 +88140,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -89071,6 +88148,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89078,6 +88156,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -89085,6 +88164,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89092,6 +88172,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     },
     {
@@ -89099,6 +88180,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89106,6 +88188,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     }
    ],
@@ -89896,6 +88979,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89903,6 +88987,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89910,6 +88995,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89917,6 +89003,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89924,6 +89011,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89931,6 +89019,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -89938,6 +89027,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -90075,6 +89165,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -90834,6 +89925,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -90841,6 +89933,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90848,6 +89941,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90855,6 +89949,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -91401,6 +90496,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -91408,6 +90504,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -91415,6 +90512,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -91422,6 +90520,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -93495,6 +92594,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93502,6 +92602,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -93844,6 +92945,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93851,6 +92953,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93858,6 +92961,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -93865,6 +92969,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93872,6 +92977,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -98095,6 +97201,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -98102,6 +97209,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -103981,6 +103089,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -103988,6 +103097,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -104232,6 +103342,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -104239,6 +103350,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -104591,6 +103703,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -104598,6 +103711,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -104737,6 +103851,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -104744,6 +103859,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -105108,6 +104224,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -105591,234 +104708,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "vaa-u-itmcae711b810aed",
-  "brand": "VAA-U",
-  "model": "Rosemary Hair Shampoo (200ml), Rosemary Hair Conditioner (200ml) & Beard Oil with Rosemary…",
-  "price": 472,
-  "capacityLine": "200 ml",
-  "materialLine": "Tea tree + Rosemary",
-  "featureLine": "Beard oil · Paraben-free · ₹236/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Combo listing — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹236/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Rosemary (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Hair growth (claim), Damage repair, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rosemary Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Rosemary Essential Oil, Rosemary Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl , Behenamidopropyl Dimethylamine, Rosemary Essential Oil, Beard Oil - Almond Oi",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/1/s/x/rosemary-hair-shampoo-200ml-rosemary-hair-conditioner-200ml-original-imahpzghmyzmvhdg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/m/z/z/30-beard-oil-with-almond-and-rosemary-faster-fuller-beard-growth-original-imahk5hxdxch4h8d.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/0/n/rosemary-hair-serum-30ml-rosemary-hair-spray-200ml-with-tea-tree-original-imahzza2ygfeg7fg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/9/b/5/tea-tree-hair-serum-30ml-rosemary-advanced-hair-growth-serum-original-imahza6hg7uygv22.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/1/q/rosemary-hair-serum-30ml-rosemary-hair-spray-100ml-with-aloe-original-imahzhhegwrxyc2z.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vaa-u-rosemary-hair-shampoo-200ml-conditioner-200ml-beard-oil-30ml/p/itmcae711b810aed",
-  "buyStore": "Flipkart",
-  "title": "VAA-U Rosemary Hair Shampoo (200ml), Rosemary Hair Conditioner (200ml) & Beard Oil with Rosemary (30ml)",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:mist",
-   "format:oil",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:hair-spray",
-   "format:beard-oil",
-   "ing:tea-tree",
-   "ing:rosemary",
-   "concern:scalp-itch",
-   "concern:hair-growth",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:scalp-health",
-   "hair:damaged",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rosemary Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Rosemary Essential Oil, Rosemary Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl , Behenamidopropyl Dimethylamine, Rosemary Essential Oil, Beard Oil - Almond Oi",
-   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "declarationConfidence": null,
-   "recognised": 0.93,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "all-man-itmf1f9c24642518",
-  "brand": "ALL MAN",
-  "model": "Beard Pro Shampoo & Conditioner Remove Dirt Oil Deep Hydration Wheat Amino Acids",
-  "price": 293,
-  "capacityLine": "100 ml",
-  "materialLine": "Amino acids",
-  "featureLine": "Oil · ₹293/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 5★ from 3 ratings"
-  ],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 5.8
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹293/100ml",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Amino acids (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Betaine",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/2/m/t/100-beard-pro-shampoo-conditioner-remove-dirt-oil-deep-hydration-original-imah7qzspruzsd5k.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/i/x/1/100-beard-pro-shampoo-conditioner-remove-dirt-oil-deep-hydration-original-imah7qzsvqrsfpx6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/i/3/y/100-beard-pro-shampoo-conditioner-remove-dirt-oil-deep-hydration-original-imah7qzsayzq9f6k.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/t/7/a/100-beard-pro-shampoo-conditioner-remove-dirt-oil-deep-hydration-original-imah7qzsdw8efxhh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/l/y/j/210-khadi-beard-wash-conditioner-beard-softener-and-cleanses-original-imahegusfchqpxgz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/all-man-beard-pro-shampoo-conditioner-remove-dirt-oil-deep-hydration-wheat-amino-acids/p/itmf1f9c24642518",
-  "buyStore": "Flipkart",
-  "title": "ALL MAN Beard Pro Shampoo & Conditioner Remove Dirt Oil Deep Hydration Wheat Amino Acids",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:shampoo",
-   "format:conditioner",
-   "ing:amino-acids",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:dryness",
-   "concern:smoothing",
-   "hair:all",
-   "free:vegan",
-   "aud:men",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Betaine",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 3 ratings"
-  }
- },
- {
   "id": "to-man-itmd8c13dbb8956f",
   "brand": "TO-MAN",
   "model": "Volumizing & Ultra Hydrating Beard Conditioner (Leave on Spray)",
@@ -106254,6 +105143,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -106261,6 +105151,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -106505,6 +105396,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -106512,6 +105404,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -107089,6 +105982,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -107096,6 +105990,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -107112,232 +106007,6 @@ const NXPRODUCTS = [
      "src": "acdsFragrance"
     }
    ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vaa-u-itm8922aa5b6e990",
-  "brand": "VAA-U",
-  "model": "Rosemary Hair Shampoo (200ml), Rosemary Hair Conditioner (200ml) & Rosemary Beard Spray fo…",
-  "price": 486,
-  "capacityLine": "200 ml",
-  "materialLine": "Neem + Rosemary",
-  "featureLine": "Mist / spray · Paraben-free · ₹243/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹243/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Beard",
-   "keyIngredients": "Neem, Rosemary (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/q/a/7/rosemary-hair-shampoo-200ml-rosemary-hair-conditioner-200ml-original-imahpq9gyzppsxvd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/m/2/l/100-rosemary-beard-spray-for-beard-growth-and-nourishment-with-original-imahkuhhvg3d7e5h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/2/q/scalp-massager-neem-wood-pocket-comb-derma-roller-0-5mm-for-hair-original-imahkvhdjxaeyqf9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/w/c/neem-wood-pocket-comb-neem-wood-comb-with-handle-and-scalp-original-imahkmpkhdcprvgz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/o/j/tea-tree-shampoo-100ml-tea-tree-conditioner-100ml-with-face-original-imahpczfatujpdtz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vaa-u-rosemary-hair-shampoo-200ml-conditioner-200ml-beard-spray-growth-100ml/p/itm8922aa5b6e990",
-  "buyStore": "Flipkart",
-  "title": "VAA-U Rosemary Hair Shampoo (200ml), Rosemary Hair Conditioner (200ml) & Rosemary Beard Spray for Beard Growth (100ml)",
-  "tags": [
-   "area:beard",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "ing:neem",
-   "ing:rosemary",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:beard-growth",
-   "hair:damaged",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vaa-u-itmf030e6d37d119",
-  "brand": "VAA-U",
-  "model": "Rosemary Hair Shampoo (100ml), Rosemary Hair Conditioner (100ml) & Beard Oil with Rosemary…",
-  "price": 410,
-  "capacityLine": "100 ml",
-  "materialLine": "Rosemary",
-  "featureLine": "Beard oil · Paraben-free · ₹410/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Combo listing — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹410/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Rosemary (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Hair growth (claim), Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rosemary Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Rosemary Essential Oil, Rosemary Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl , Behenamidopropyl Dimethylamine, Rosemary Essential Oil, Beard Oil - Almond Oi",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/y/a/rosemary-hair-shampoo-100ml-rosemary-hair-conditioner-100ml-original-imahp76mdjgwgqzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/m/z/z/30-beard-oil-with-almond-and-rosemary-faster-fuller-beard-growth-original-imahk5hxdxch4h8d.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/2/q/scalp-massager-neem-wood-pocket-comb-derma-roller-0-5mm-for-hair-original-imahkvhdjxaeyqf9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/y/v/scalp-massager-neem-wood-dual-tooth-long-comb-and-derma-roller-0-original-imahkvh9rpm8zyvk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/i/h/scalp-massager-with-derma-roller-for-men-women-0-5mm-2-smdr1-vaa-original-imahkh4yxhkcgbxc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vaa-u-rosemary-hair-shampoo-100ml-conditioner-100ml-beard-oil-30ml/p/itmf030e6d37d119",
-  "buyStore": "Flipkart",
-  "title": "VAA-U Rosemary Hair Shampoo (100ml), Rosemary Hair Conditioner (100ml) & Beard Oil with Rosemary (30ml)",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:mist",
-   "format:oil",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "ing:rosemary",
-   "concern:scalp-itch",
-   "concern:hair-growth",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:damaged",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rosemary Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Rosemary Essential Oil, Rosemary Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl , Behenamidopropyl Dimethylamine, Rosemary Essential Oil, Beard Oil - Almond Oi",
-   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "declarationConfidence": null,
-   "recognised": 0.93,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -107566,6 +106235,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -107573,6 +106243,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -107828,115 +106499,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "vaa-u-itm69ffc514e9976",
-  "brand": "VAA-U",
-  "model": "Tea Tree Shampoo (100ml), Tea Tree Conditioner (100ml) with Beard Oil with Rosemary (30ml)",
-  "price": 410,
-  "capacityLine": "100 ml",
-  "materialLine": "Tea tree + Rosemary",
-  "featureLine": "Beard oil · ₹410/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Combo listing — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹410/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: • Tea Tree Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Tea Tree Essential Oil, • Tea Tree Hair Growth Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl Alcohol, Behenamidopropyl Dimethylamine, Tea Tree Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/m/z/z/30-beard-oil-with-almond-and-rosemary-faster-fuller-beard-growth-original-imahk5hxdxch4h8d.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/c/g/neem-wood-pocket-comb-neem-wood-dual-tooth-long-comb-and-scalp-original-imahkmzwfkwpa5nq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/2/q/scalp-massager-neem-wood-pocket-comb-derma-roller-0-5mm-for-hair-original-imahkvhdjxaeyqf9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/b/b/tea-tree-shampoo-100ml-tea-tree-conditioner-100ml-with-rosemary-original-imahpgy3nj2psq3q.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/y/v/scalp-massager-neem-wood-dual-tooth-long-comb-and-derma-roller-0-original-imahkvh9rpm8zyvk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vaa-u-tea-tree-shampoo-100ml-conditioner-100ml-beard-oil-rosemary-30ml/p/itm69ffc514e9976",
-  "buyStore": "Flipkart",
-  "title": "VAA-U Tea Tree Shampoo (100ml), Tea Tree Conditioner (100ml) with Beard Oil with Rosemary (30ml)",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "ing:tea-tree",
-   "ing:rosemary",
-   "concern:dryness",
-   "free:vegan",
-   "aud:kids",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "• Tea Tree Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Tea Tree Essential Oil, • Tea Tree Hair Growth Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl Alcohol, Behenamidopropyl Dimethylamine, Tea Tree Essential Oil",
-   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "declarationConfidence": null,
-   "recognised": 0.93,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "da-marien-professionals-itm89fb417e7f2a4",
   "brand": "Da_marien professionals",
   "model": "Beard Softener for Men | Deep Nourishing Beard Conditioner & Softener For Men's|",
@@ -108048,6 +106610,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -108055,6 +106618,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -108292,6 +106856,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -108299,6 +106864,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -108306,6 +106872,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -108527,111 +107094,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vaa-u-itm91c4cafe4e8dc",
-  "brand": "VAA-U",
-  "model": "Tea Tree Shampoo (200ml), Tea Tree Conditioner (200ml) with Beard Oil with Rosemary (30ml)",
-  "price": 536,
-  "capacityLine": "200 ml",
-  "materialLine": "Tea tree + Rosemary",
-  "featureLine": "Beard oil · ₹268/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Combo listing — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹268/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: • Tea Tree Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Tea Tree Essential Oil, • Tea Tree Hair Growth Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl Alcohol, Behenamidopropyl Dimethylamine, Tea Tree Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/m/z/z/30-beard-oil-with-almond-and-rosemary-faster-fuller-beard-growth-original-imahk5hxdxch4h8d.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vaa-u-tea-tree-shampoo-200ml-conditioner-200ml-beard-oil-rosemary-30ml/p/itm91c4cafe4e8dc",
-  "buyStore": "Flipkart",
-  "title": "VAA-U Tea Tree Shampoo (200ml), Tea Tree Conditioner (200ml) with Beard Oil with Rosemary (30ml)",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "ing:tea-tree",
-   "ing:rosemary",
-   "concern:dryness",
-   "free:vegan",
-   "aud:kids",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "• Tea Tree Shampoo: Aqua, Glycerin, Cocamidopropyl Betaine, Sodium Lauryl Ether Sulfate, CMEA, Polyquaternium 7, EDTA, Phenoxyethanol, Tea Tree Essential Oil, • Tea Tree Hair Growth Conditioner: Aqua, Glycerin, Hydrogenated Castor Oil, Lactic Acid, Coco Caprylate/Caprate, Polyquaternium-7, Phenoxyethanol, BTMS, Coconut Alkane, Behenyl Alcohol, Behenamidopropyl Dimethylamine, Tea Tree Essential Oil",
-   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "declarationConfidence": null,
-   "recognised": 0.93,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -109086,6 +107548,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109093,6 +107556,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109100,6 +107564,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109107,6 +107572,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -109114,6 +107580,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -109249,6 +107716,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -109256,6 +107724,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109263,6 +107732,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -109270,6 +107740,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109277,6 +107748,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -109284,6 +107756,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -110543,6 +109016,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -110550,6 +109024,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110557,6 +109032,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110564,6 +109040,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110571,6 +109048,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110578,6 +109056,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -110585,6 +109064,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -110723,6 +109203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -110730,6 +109211,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110737,6 +109219,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110744,6 +109227,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110751,6 +109235,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -110758,6 +109243,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -110765,6 +109251,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -110892,116 +109379,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 324 ratings"
-  }
- },
- {
-  "id": "ibfen-itm224591e0397f0",
-  "brand": "IBFEN",
-  "model": "Man Beard Growth Oil - Serum To Added Shine & Rich Glossy Shiny - Man Hair Oil",
-  "price": 283,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹943/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹943/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Volume / body, Premature greying (claim), Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/j/w/u/30-man-beard-growth-oil-serum-to-added-shine-rich-glossy-shiny-original-imahbynqjrhfvvgk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/c/b/c/beard-gel-30-man-beard-growth-oil-for-nourishing-beard-hair-original-imahbcg9mnyztjav.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/e/y/i/beard-gel-30-men-mustache-and-beard-oil-to-added-shine-rich-original-imahbcgamgm9hjkh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/g/q/1/30-beard-growth-serum-for-men-nourishes-strengthens-uneven-original-imahh4rvuadvhj6z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/3/a/2/30-man-beard-growth-oil-serum-for-dry-frizz-grey-beard-hair-oil-original-imahcysa8wchxy5y.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/ibfen-man-beard-growth-oil-serum-added-shine-rich-glossy-shiny-hair/p/itm224591e0397f0",
-  "buyStore": "Flipkart",
-  "title": "IBFEN Man Beard Growth Oil - Serum To Added Shine & Rich Glossy Shiny - Man Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:shine",
-   "concern:volume",
-   "concern:greying",
-   "concern:beard-growth",
-   "hair:dry",
-   "hair:all",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -115163,6 +113540,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -115170,6 +113548,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115177,6 +113556,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115184,6 +113564,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115191,6 +113572,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115198,6 +113580,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -115205,6 +113588,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -115581,6 +113965,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -115588,6 +113973,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115595,6 +113981,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -115602,6 +113989,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115609,6 +113997,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115616,6 +114005,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -115745,6 +114135,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -115752,6 +114143,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115759,6 +114151,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -115766,6 +114159,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115773,6 +114167,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -115780,6 +114175,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -117983,6 +116379,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -117990,6 +116387,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -117997,6 +116395,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -118004,6 +116403,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -118011,6 +116411,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -118362,6 +116763,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -118369,6 +116771,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -118376,6 +116779,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -118383,6 +116787,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -121403,6 +119808,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -121410,6 +119816,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -121417,6 +119824,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -121424,6 +119832,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -121431,6 +119840,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121438,6 +119848,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -122407,6 +120818,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -122414,6 +120826,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -122421,6 +120834,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -122428,6 +120842,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -122564,6 +120979,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -122571,6 +120987,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -122578,6 +120995,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -122585,6 +121003,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -122945,131 +121364,6 @@ const NXPRODUCTS = [
    "recognised": 1,
    "actives": [],
    "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "venvo-itmfa7676fd6c227",
-  "brand": "venvo",
-  "model": "Beard Cleanser with Aloe + Tea Tree & Hair Oil – Smooth Beard Formula",
-  "price": 113,
-  "capacityLine": "100 ml",
-  "materialLine": "Tea tree + Aloe vera + Glycerin",
-  "featureLine": "Beard wash · ₹113/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 3.2,
-   "skin": 7,
-   "trust": 5.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹113/100ml",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Aloe vera, Glycerin, Rosemary, Onion, Batana oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Aqua (Purified Water),Sodium Lauroyl Methyl Isethionate (Gentle Cleanser),Aloe Vera Leaf Extract (Soothing & Hydrating),Natural Fragrance (Ocean Fresh Scent),Citric Acid (pH Balance),Phenoxyethanol & Ethylhexylglycerin (Mild Preservatives)",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/h/h/s/100-beard-cleanser-with-aloe-tea-tree-hair-oil-smooth-beard-original-imahg2ckxxkegvmy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/l/h/z/100-sea-hydration-beard-wash-beard-wash-for-beard-smoothening-original-imahfyfb3k5cgzcg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/i/c/o/100-sea-hydration-beard-wash-beard-wash-for-beard-growth-boost-original-imahfyfbbedw32u9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/t/3/x/100-sea-hydration-beard-wash-beard-wash-for-beard-smoothening-original-imahfyfb9k5cfwhy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/a/m/r/100-rosemary-growth-support-shampoo-hair-growth-hair-fall-original-imahzhyqnbfjfpkn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/venvo-beard-cleanser-aloe-tea-tree-hair-oil-smooth-formula/p/itmfa7676fd6c227",
-  "buyStore": "Flipkart",
-  "title": "venvo Beard Cleanser with Aloe + Tea Tree & Hair Oil – Smooth Beard Formula",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:shampoo",
-   "format:beard-wash",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "ing:glycerin",
-   "ing:rosemary",
-   "ing:onion",
-   "ing:batana-oil",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:colour-protect",
-   "hair:dry",
-   "hair:damaged",
-   "hair:all",
-   "free:ph-balanced",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": "Aqua (Purified Water),Sodium Lauroyl Methyl Isethionate (Gentle Cleanser),Aloe Vera Leaf Extract (Soothing & Hydrating),Natural Fragrance (Ocean Fresh Scent),Citric Acid (pH Balance),Phenoxyethanol & Ethylhexylglycerin (Mild Preservatives)",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [],
-   "support": [
-    "sodium lauroyl methyl isethionate"
-   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -124678,6 +122972,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -125241,6 +123536,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -125248,6 +123544,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -125255,6 +123552,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -125262,6 +123560,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -125269,6 +123568,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -125276,6 +123576,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -130409,154 +128710,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "seelora-itm63a3d91fee10d",
-  "brand": "seelora",
-  "model": "BeardGro Oil-In-Serum Stronger & Thicker Beard Hair Oil (50 ml) Hair Oil",
-  "price": 113,
-  "capacityLine": "50 ml",
-  "materialLine": "Aloe vera + Neem + Almond",
-  "featureLine": "Serum · Paraben-free · ₹226/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "prunus amygdalus dulcis oil high on the INCI list (limited evidence); ricinus communis seed oil high on the INCI list (limited evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 2.7,
-   "skin": 7,
-   "trust": 5.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹226/100ml",
-   "format": "Serum",
-   "appliesTo": "Beard",
-   "keyIngredients": "Aloe vera, Neem, Almond, Argan oil, Jojoba, Coconut, Watermelon, Avocado, Olive, Castor oil (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Oily hair / scalp, Curly hair, Damaged hair, Fine / thin hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "8 Natural Oils - Argan Oil, Almond Oil, Avocado Oil, Castor Oil, Acai Berry Oil, Olive Oil, Gooseberry Oil, Watermelon Seed Oil",
-   "evidenceActives": "prunus amygdalus dulcis oil (#2 on list, limited evidence); ricinus communis seed oil (#4 on list, limited evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/v/0/p/50-beardgro-oil-in-serum-stronger-thicker-beard-hair-oil-50-ml-original-imahz2zydwdjfvff.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/l/t/z/50-beardgro-oil-in-serum-stronger-thicker-beard-hair-oil-50-ml-original-imahkmwx3fbf7wyf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/o/x/b/100-beard-growth-serum-with-redensyl-made-for-patchy-and-uneven-original-imahgem3rsb3ashd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/c/e/y/100-beard-growth-serum-with-redensyl-made-for-patchy-and-uneven-original-imahgem3mqd9632q.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-hair-oil/q/b/v/50-beard-growth-oil-for-smooth-shiny-black-hair-ingredients-hair-original-imahz2dw5ffujzum.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/seelora-beardgro-oil-in-serum-stronger-thicker-beard-hair-oil-50-ml/p/itm63a3d91fee10d",
-  "buyStore": "Flipkart",
-  "title": "seelora BeardGro Oil-In-Serum Stronger & Thicker Beard Hair Oil (50 ml) Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "ing:aloe-vera",
-   "ing:neem",
-   "ing:almond",
-   "ing:argan-oil",
-   "ing:jojoba",
-   "ing:coconut",
-   "ing:watermelon",
-   "ing:avocado",
-   "ing:olive",
-   "ing:castor-oil",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "hair:dry",
-   "hair:oily",
-   "hair:curly",
-   "hair:damaged",
-   "hair:fine",
-   "hair:all",
-   "free:paraben",
-   "free:toxin-free",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": "8 Natural Oils - Argan Oil, Almond Oil, Avocado Oil, Castor Oil, Acai Berry Oil, Olive Oil, Gooseberry Oil, Watermelon Seed Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "prunus amygdalus dulcis oil",
-     "grade": "C",
-     "position": 2,
-     "core": true,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "ricinus communis seed oil",
-     "grade": "C",
-     "position": 4,
-     "core": true,
-     "src": "hairCosmetics"
-    }
-   ],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "simratsieko-itma53242e6d7158",
   "brand": "SimratsiekO",
   "model": "Natural Beard Hair Fixer|Hair Oil for Thicker & Longer Beard Uneven Patchy Beard Hair Loti…",
@@ -131913,6 +130066,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -131920,6 +130074,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -132154,6 +130309,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -132161,6 +130317,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -132390,120 +130547,6 @@ const NXPRODUCTS = [
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itm1a3a1d353a322",
-  "brand": "Phillauri",
-  "model": "Men's Beard Oil & Beard Softener cream Mustache Softner cream For Men Hair Oil",
-  "price": 159,
-  "capacityLine": "90 ml",
-  "materialLine": "Aloe vera + Shea butter + Vitamin E",
-  "featureLine": "Beard oil · ₹177/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "90 ml",
-   "pricePer100": "₹177/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Aloe vera, Shea butter, Vitamin E, Jojoba, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Dryness / hydration, Shine / gloss, Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Shea Butter, Aloe Vera, Vitamin E, Olive Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/f/c/0/90-men-s-beard-oil-beard-softener-cream-mustache-softner-cream-original-imahg2p5ztwehkka.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/m/x/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7nwnf5cg6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/t/i/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg79hpqsyat.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/j/v/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7z4gz5d5z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/5/f/r/90-beard-mustache-growth-oil-for-men-smooth-and-nourished-beard-original-imahgfnwbag8txjs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-men-s-beard-oil-softener-cream-mustache-softner-men-hair/p/itm1a3a1d353a322",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Men's Beard Oil & Beard Softener cream Mustache Softner cream For Men Hair Oil",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:jojoba",
-   "ing:olive",
-   "concern:hair-growth",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-itch",
-   "hair:all",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Shea Butter, Aloe Vera, Vitamin E, Olive Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -132835,117 +130878,6 @@ const NXPRODUCTS = [
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itm2ede4fb8e954f",
-  "brand": "Phillauri",
-  "model": "Stimulate Hair Growth Beard Oil Condition and Nourish Beard Cream For Men",
-  "price": 178,
-  "capacityLine": "500 g (pack of 5)",
-  "materialLine": "Vitamin E",
-  "featureLine": "Beard oil · ₹36/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g × 5 pack",
-   "pricePer100": "₹36/100g",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/h/f/t/stimulate-hair-growth-beard-oil-condition-and-nourish-beard-original-imahg2qfwygjqy5g.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/m/x/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7nwnf5cg6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/t/i/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg79hpqsyat.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/j/v/softens-moisturizes-beard-cream-for-men-thick-and-long-beard-original-imahgfg7z4gz5d5z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/v/e/h/90-long-lasting-nourishment-shine-beard-cream-for-long-beard-man-original-imahgfhzmhmhv5wa.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-stimulate-hair-growth-beard-oil-condition-nourish-cream-men/p/itm2ede4fb8e954f",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Stimulate Hair Growth Beard Oil Condition and Nourish Beard Cream For Men",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:foam",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-balm",
-   "ing:vitamin-e",
-   "concern:hair-growth",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "aud:men",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -133626,6 +131558,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -133633,6 +131566,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -134863,6 +132797,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -134870,6 +132805,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -135216,6 +133152,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135223,6 +133160,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -135664,6 +133602,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135671,6 +133610,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -135678,6 +133618,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135685,6 +133626,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -135692,6 +133634,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -136465,6 +134408,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -136472,6 +134416,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136479,6 +134424,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -136486,6 +134432,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -137813,6 +135760,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -138600,6 +136548,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -140588,6 +138537,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -140595,6 +138545,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -140602,6 +138553,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -140609,6 +138561,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -140616,6 +138569,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -140623,6 +138577,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -140630,6 +138585,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -146284,6 +144240,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -146291,6 +144248,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -146298,6 +144256,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -146305,6 +144264,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -146312,6 +144272,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -146319,6 +144280,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -146326,6 +144288,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -149255,6 +147218,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -149588,6 +147552,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "sawPalmetto"
     },
     {
@@ -149595,6 +147560,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -149602,6 +147568,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -149609,6 +147576,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -149616,6 +147584,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -149623,6 +147592,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "teaTreeDandruff"
     }
    ],
@@ -150523,6 +148493,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -150530,6 +148501,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -150537,6 +148509,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -150544,6 +148517,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -150551,6 +148525,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -152437,6 +150412,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -152444,6 +150420,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -152451,6 +150428,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -152458,6 +150436,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -152465,6 +150444,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -153344,6 +151324,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -153351,6 +151332,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -153358,6 +151340,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -153365,6 +151348,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -153372,6 +151356,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -157286,6 +155271,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -157293,6 +155279,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -157300,6 +155287,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -157424,6 +155412,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -157431,6 +155420,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -157438,6 +155428,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -157979,6 +155970,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -157986,6 +155978,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -163601,101 +161594,147 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "la-beardex-itmaaf65447bb3c9",
-  "brand": "LA'BEARDEX",
-  "model": "Biotin Infused Beard Growth Shampoo & Cleanser for Thicker, Fuller Beard Hair",
-  "price": 248,
-  "capacityLine": "100 ml",
-  "materialLine": "Biotin",
-  "featureLine": "Wash / cleanser · ₹248/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "id": "azmira-itme30929feb85b6",
+  "brand": "AZMIRA",
+  "model": "Beard Anti-Dandruff Serum",
+  "price": 367,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Hyaluronic acid",
+  "featureLine": "Serum · Paraben-free · ₹734/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "EU-declared fragrance allergen: benzyl alcohol",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.4,
+   "skin": 6.7,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹248/100ml",
-   "format": "Wash / cleanser",
+   "quantity": "50 ml",
+   "pricePer100": "₹734/100ml",
+   "format": "Serum",
    "appliesTo": "Beard",
-   "keyIngredients": "Biotin (named on listing)",
-   "freeFrom": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Hyaluronic acid, Aloe vera, Cucumber, Glycerin (named on listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Aqua, Propylene Glycol, Glycolic Acid, Salicylic Acid, Aloe Vera Extract, Sodium Hyaluronate, Cucumber Extract, Benzyl Alcohol (and) Salicylic Acid (and) Glycerin (and) Sorbic Acid (Preservative), Sodium Gluconate, Essential Oil Blend.",
+   "evidenceActives": "glycerin (#10 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/i/o/y/100-natural-beard-wash-for-men-olive-oil-infused-cleanses-original-imahqaacxgnzyfp6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/g/c/6/100-natural-beard-wash-for-men-olive-oil-infused-cleanses-original-imahqaacw4gzhvzp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/t/t/e/100-natural-beard-wash-for-men-olive-oil-infused-cleanses-original-imahqaahsvft46tg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/c/5/l/100-natural-beard-wash-for-men-olive-oil-infused-cleanses-original-imahqaacvhnh5uay.jpeg?q=90"
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/0/1/50-beard-anti-dandruff-serum-azmira-original-imahhy48s3gtgudz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/c/p/50-beard-anti-dandruff-serum-azmira-original-imahhy48wcuupsvg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/v/f/50-beard-anti-dandruff-serum-azmira-original-imahhy48puvbqakx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/a/t/50-beard-anti-dandruff-serum-azmira-original-imahhy48ywaggsrk.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/la-beardex-biotin-infused-beard-growth-shampoo-cleanser-thicker-fuller-hair/p/itmaaf65447bb3c9",
+  "buyUrl": "https://www.flipkart.com/azmira-beard-anti-dandruff-serum/p/itme30929feb85b6",
   "buyStore": "Flipkart",
-  "title": "LA'BEARDEX Biotin Infused Beard Growth Shampoo & Cleanser for Thicker, Fuller Beard Hair",
+  "title": "AZMIRA Beard Anti-Dandruff Serum",
   "tags": [
    "area:beard",
-   "format:wash",
-   "format:shampoo",
-   "ing:biotin",
+   "format:serum",
+   "format:oil",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "ing:glycerin",
    "concern:dandruff",
+   "concern:scalp-itch",
    "concern:dryness",
-   "concern:volume",
-   "concern:beard-growth",
-   "hair:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
    "aud:men",
-   "size:standard",
+   "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full"
   ],
   "filters": {
-   "freefrom": false,
-   "natural": false,
+   "freefrom": true,
+   "natural": true,
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua, Propylene Glycol, Glycolic Acid, Salicylic Acid, Aloe Vera Extract, Sodium Hyaluronate, Cucumber Extract, Benzyl Alcohol (and) Salicylic Acid (and) Glycerin (and) Sorbic Acid (Preservative), Sodium Gluconate, Essential Oil Blend.",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "dandruff"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl alcohol"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -166738,121 +164777,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "viking-revolution-b0b8ms233g",
-  "brand": "Viking Revolution",
-  "model": "Tea Tree Oil Beard Wash and Beard Conditioner For Men - Natural Beard Softener Set with Ar…",
-  "price": 4206,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Tea tree + Vitamin E + Argan oil",
-  "featureLine": "Beard wash",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Vitamin E, Argan oil, Ginseng (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Shine / gloss, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71vtLMhrAuL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/718zDmrj65L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71gW82pf4UL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71FO1ANSFLL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/7190rl2S9jL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B8MS233G",
-  "buyStore": "Amazon",
-  "title": "Viking Revolution Tea Tree Oil Beard Wash and Beard Conditioner For Men - Natural Beard Softener Set with Argan Oil, Vitamin E and Ginseng - Tea Tree Beard Shampoo and Conditioner Set (5 Oz)",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "format:beard-wash",
-   "format:beard-balm",
-   "ing:tea-tree",
-   "ing:vitamin-e",
-   "ing:argan-oil",
-   "ing:ginseng",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:men",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
   "id": "apeix-b0gmw8b8fc",
   "brand": "APEIX",
   "model": "Black Soap Shampoo Bar for Hair & Beard, Herbal Scent, Sulfate-free, Deep Cleansing Moistu…",
@@ -169071,6 +166995,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -169078,6 +167003,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -169085,6 +167011,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -171387,108 +169314,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "zeus-b01hn1a224",
-  "brand": "ZEUS",
-  "model": "Travel Beard Shampoo (2 oz) and Beard Conditioner (1.8 oz) Set for Men (Scent: Sandalwood)",
-  "price": 3817,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sandalwood",
-  "featureLine": "Beard wash",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Sandalwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51JS7i1ETXL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61T+2Zg5tPL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/613b8YuD6ML._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/614pENQwZbL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61g+N-R1UqL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01HN1A224",
-  "buyStore": "Amazon",
-  "title": "Zeus Travel Beard Shampoo (2 oz) and Beard Conditioner (1.8 oz) Set for Men (Scent: Sandalwood)",
-  "tags": [
-   "area:beard",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-wash",
-   "ing:sandalwood",
-   "aud:men",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -175974,6 +173799,1507 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "organic-alligator-b0fjyh4gnc",
+  "brand": "Organic Alligator",
+  "model": "Beard Oil, SLS and Paraben free",
+  "price": 190,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Beard oil · Paraben-free · ₹633/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹633/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81zY6ppgT+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lNer8ST-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IIZHi6MQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61n4-25HeYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710SgIA9caL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJYH4GNC",
+  "buyStore": "Amazon",
+  "title": "Beard Oil, SLS and Paraben free",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "concern:scalp-itch",
+   "concern:dryness",
+   "hair:thick",
+   "free:paraben",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0gq9w6jmf",
+  "brand": "Unbranded",
+  "model": "Beard Oil for Men 100ml | Natural Beard Growth & Nourishing Oil | Enriched with Geranium &…",
+  "price": 299,
+  "capacityLine": "100 ml",
+  "materialLine": "Tea tree",
+  "featureLine": "Beard oil · ₹299/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹299/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Tea tree (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61cc4MEkIVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51R4-AYEZfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61zeuqswR4L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Jx1ZQLGdL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/414iX03EaAL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQ9W6JMF",
+  "buyStore": "Amazon",
+  "title": "Beard Oil for Men 100ml | Natural Beard Growth & Nourishing Oil | Enriched with Geranium & Tea Tree Oil | Softens, Strengthens & Promotes Healthy Beard",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "ing:tea-tree",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "aud:men",
+   "size:standard",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dadhi-b0db841gqm",
+  "brand": "Dadhi",
+  "model": "Nourish Your Beard with Premium Beard Oil Softens, Conditions, and Tames [S_I_0120_30ml_Pc…",
+  "price": 279,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Beard oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Thinning / density, Damage repair, Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Damaged hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51NWduy1H2L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51RXwzGXurL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61WFr2TJD6L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71J8uX26O4L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61+A-CU7J2L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DB841GQM",
+  "buyStore": "Amazon",
+  "title": "Nourish Your Beard with Premium Beard Oil Softens, Conditions, and Tames [S_I_0120_30ml_Pcak of 1]",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "concern:scalp-itch",
+   "concern:thinning",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:beard-growth",
+   "hair:damaged",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "man-matters-b08w8g1j4r",
+  "brand": "Man Matters",
+  "model": "1% Salicylic Acid Oil Control Face & Beard Wash For Men| Fights Acne, & Beard Dandruff| 1%…",
+  "price": 284,
+  "capacityLine": "120 ml",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid",
+  "featureLine": "Beard wash · ₹237/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹237/100ml",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Beard itch / beardruff / softening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71rqSKNnouL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/814NFrH4PqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81WsCgC2WQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/813tW64-UJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/8159+Wy7eWL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08W8G1J4R",
+  "buyStore": "Amazon",
+  "title": "Man Matters 1% Salicylic Acid Oil Control Face & Beard Wash For Men| Fights Acne, & Beard Dandruff| 1% Glycolic Acid | Reduces Excess Oil and Exfoliates Skin Gently | 120 ml",
+  "tags": [
+   "area:beard",
+   "format:wash",
+   "format:beard-wash",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "concern:dandruff",
+   "concern:oily-scalp",
+   "concern:beard-itch",
+   "aud:men",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "beautyrelay-london-b09ftcv7cl",
+  "brand": "BEAUTYRELAY LONDON",
+  "model": "Dadhiyal Beard Butter Balm With Castor Oil (200g) & Dadhiyal Moustache Wax 25g for Strong …",
+  "price": 378,
+  "capacityLine": "200 g",
+  "materialLine": "Castor oil + Dimethicone / silicones",
+  "featureLine": "Body wax · ₹189/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹189/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Castor oil, Dimethicone / silicones (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Hold (styling), Beard itch / beardruff / softening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61orst55yzL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61im0d+k8xL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61MkGc74fQL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61WBuSC5J7L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61TbpDquWIL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09FTCV7CL",
+  "buyStore": "Amazon",
+  "title": "BEAUTYRELAY LONDON Dadhiyal Beard Butter Balm With Castor Oil (200g) & Dadhiyal Moustache Wax 25g for Strong Hold sharper look, Parabens, sulfates, silicones free (Buy 1 Get 1 Free)",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "format:wax",
+   "format:beard-balm",
+   "ing:castor-oil",
+   "ing:dimethicone-silicones",
+   "concern:dryness",
+   "concern:hold",
+   "concern:beard-itch",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tatmods-b0dwk1p6zn",
+  "brand": "Tatmods",
+  "model": "Beard Growth & Conditioning Oil | 15 Natural Oils & Vitamin E | Hydrates, Strengthens & Pr…",
+  "price": 191,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin E",
+  "featureLine": "Oil · ₹637/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹637/100ml",
+   "format": "Oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Matte finish, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Damaged hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61aTyE+kYnL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/81pScwPABPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jZKLWwKdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71QftbS4KBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DWK1P6ZN",
+  "buyStore": "Amazon",
+  "title": "Beard Growth & Conditioning Oil | 15 Natural Oils & Vitamin E | Hydrates, Strengthens & Promotes Fuller Beard – 30ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "ing:vitamin-e",
+   "concern:dandruff",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:damage-repair",
+   "concern:split-ends",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:matte-finish",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "hair:damaged",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ibeard-b0fcftrfm4",
+  "brand": "ibeard",
+  "model": "All Natural Beard Oil For Growth | Nourishes Strength |Anti-Dandruff Redensyl, Biotin, and…",
+  "price": 379,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Redensyl + Biotin",
+  "featureLine": "Beard oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Redensyl, Biotin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51R6GvBUFeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/510NsTdSkKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61PCc-y4s7L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/613tiVohL9L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61dO0J9YAkL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FCFTRFM4",
+  "buyStore": "Amazon",
+  "title": "All Natural Beard Oil For Growth | Nourishes Strength |Anti-Dandruff Redensyl, Biotin, and Saw Palmetto",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "ing:redensyl",
+   "ing:biotin",
+   "concern:dandruff",
+   "concern:scalp-itch",
+   "concern:dryness",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rishasky-b0g64sy2t6",
+  "brand": "Rishasky",
+  "model": "Smoothen Beard Softener Oil, 100% Pure & Certified Organic, Coconut Oil, Almond Oil & Oliv…",
+  "price": 229,
+  "capacityLine": "30 ml",
+  "materialLine": "Almond + Coconut + Olive",
+  "featureLine": "Beard balm / softener · ₹763/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹763/100ml",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Almond, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Shine / gloss, Beard itch / beardruff / softening, Absorbs oil / between washes, Detangling (seller claim — not clinical proof)",
+   "hairType": "Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Y7jR7ub9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+R0tU2j0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/818EtUhEpqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91lSM22swHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91mt-caLm+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G64SY2T6",
+  "buyStore": "Amazon",
+  "title": "Smoothen Beard Softener Oil, 100% Pure & Certified Organic, Coconut Oil, Almond Oil & Olive Oil, 30ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "format:beard-balm",
+   "ing:almond",
+   "ing:coconut",
+   "ing:olive",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:beard-itch",
+   "concern:oil-absorbing",
+   "concern:detangling",
+   "hair:thick",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "apeix-b0gmwjkttn",
+  "brand": "APEIX",
+  "model": "Black Soap Shampoo Bar for Hair & Beard, Herbal Scent, Sulfate-free, Deep Cleansing Moistu…",
+  "price": 349,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹698/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹698/100g",
+   "format": "Wash / cleanser",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Oily hair / scalp, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512QElpTqyL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMWJKTTN",
+  "buyStore": "Amazon",
+  "title": "Black Soap Shampoo Bar for Hair & Beard, Herbal Scent, Sulfate-free, Deep Cleansing Moisturizing, 50g, All Skin Types (2)",
+  "tags": [
+   "area:beard",
+   "format:wash",
+   "format:shampoo",
+   "format:beard-wash",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:oily",
+   "hair:all",
+   "free:toxin-free",
+   "aud:men",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "gabru-b0fy2tymjw",
+  "brand": "Gabru",
+  "model": "Beard & Mooch Original Wax for Men | 25g | Pack Of 1",
+  "price": 100,
+  "capacityLine": "25 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Body wax · ₹400/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹400/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Matte finish (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Vm7EM9qkL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61XeiPjgLwL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/6165DbfhVxL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61Jb5GBryNL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/618sP4zIVqL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FY2TYMJW",
+  "buyStore": "Amazon",
+  "title": "Gabru Beard & Mooch Original Wax for Men | 25g | Pack Of 1",
+  "tags": [
+   "area:beard",
+   "format:stick",
+   "format:kit",
+   "format:wax",
+   "format:texture-spray",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:split-ends",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:matte-finish",
+   "free:toxin-free",
+   "aud:men",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "pengirl-b0hbl7p4tj",
+  "brand": "PENGIRL",
+  "model": "Cedarwood Beard Oil Serum for Men, 15ml | Promotes Beard Growth, Reduces Dryness & Itch, A…",
+  "price": 299,
+  "capacityLine": "15 ml",
+  "materialLine": "Cedarwood",
+  "featureLine": "Beard oil · ₹1993/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1993/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Cedarwood (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51mH5gKBzFL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71InFLMpHjL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBL7P4TJ",
+  "buyStore": "Amazon",
+  "title": "Cedarwood Beard Oil Serum for Men, 15ml | Promotes Beard Growth, Reduces Dryness & Itch, Adds Natural Shine, 100% Natural & Vegan, Nourish & Strengthen",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "format:oil",
+   "format:beard-oil",
+   "format:beard-balm",
+   "ing:cedarwood",
+   "concern:scalp-itch",
+   "concern:dryness",
+   "concern:shine",
+   "concern:beard-growth",
+   "free:vegan",
+   "aud:men",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "urbanmooch-b07j2mrff4",
+  "brand": "UrbanMooch",
+  "model": "Beard Growth Serum & Hair Growth Serum 50Ml For Faster Hair Growth",
+  "price": 197,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Serum · ₹394/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹394/100ml",
+   "format": "Serum",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair growth (claim), Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61LANeJqflL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/714XDjOgRPL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61VF36URH6L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07J2MRFF4",
+  "buyStore": "Amazon",
+  "title": "UrbanMooch Beard Growth Serum & Hair Growth Serum 50Ml For Faster Hair Growth",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "concern:hair-growth",
+   "concern:shine",
+   "concern:beard-growth",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bluewell-b0gqmfxjvs",
+  "brand": "Bluewell",
+  "model": "Beard Growth Oil for Men with Anagain, Aminexil & Rosemary Extract | Beard Care Serum for …",
+  "price": 199,
+  "capacityLine": "30 ml",
+  "materialLine": "Anagain + Rosemary",
+  "featureLine": "Beard oil · ₹663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹663/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Anagain, Rosemary (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51djEKKgV6L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61SkSWoQQpL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/612KTT6jD8L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61MucGEOQwL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/615V+dYG83L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQMFXJVS",
+  "buyStore": "Amazon",
+  "title": "BLUEWELL Beard Growth Oil for Men with Anagain, Aminexil & Rosemary Extract | Beard Care Serum for Patchy Beard, Thicker Fuller Look, Reduces Frizz, Nourishes Roots and Improves Texture | 30 ml",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "format:oil",
+   "format:texture-spray",
+   "format:beard-oil",
+   "ing:anagain",
+   "ing:rosemary",
+   "concern:scalp-buildup",
+   "concern:oily-scalp",
+   "concern:thinning",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "hair:thick",
+   "aud:men",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "preveda-b07vj639r5",
+  "brand": "PreVeda",
+  "model": "� Best Beard Growth LITE Hair Oil with Rosemary & Jojoba Oil Herbal, Natural, Premium Oil …",
+  "price": 581,
+  "capacityLine": "100 ml",
+  "materialLine": "Jojoba + Rosemary",
+  "featureLine": "Oil · Fragrance-free · ₹581/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹581/100ml",
+   "format": "Oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Jojoba, Rosemary (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71T5TbV5iJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/817MPFZKTJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CLC1KW-iL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FunFbzCRL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07VJ639R5",
+  "buyStore": "Amazon",
+  "title": "PreVeda� Best Beard Growth LITE Hair Oil with Rosemary & Jojoba Oil Herbal, Natural, Premium Oil For Beard & Mustache, Pure Organic Oil | Khadi Product 100 ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:shampoo",
+   "format:beard-oil",
+   "ing:jojoba",
+   "ing:rosemary",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:beard-growth",
+   "free:fragrance",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
   "id": "man-matters-b0dsjkddnd",
   "brand": "Man Matters",
   "model": "Beardmax Growth Serum 30ml | 5% Minoxidil | Activates Beard Follicles | Solves Uneven & Pa…",
@@ -177802,112 +177128,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "all-man-b0dqhhsnpb",
-  "brand": "ALL MAN",
-  "model": "Beard Pro Shampoo & Conditioner, Remove Dirt, Oil, & Product buildup with Deep Hydration w…",
-  "price": 299,
-  "capacityLine": "100 ml",
-  "materialLine": "Amino acids",
-  "featureLine": "Oil · ₹299/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹299/100ml",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Amino acids (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614ZjX9MdOL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/611FPRjM6wL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61Niw9rBRpL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61mNuTuYTVL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/71sCOoDOyTL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQHHSNPB",
-  "buyStore": "Amazon",
-  "title": "ALL MAN Beard Pro Shampoo & Conditioner, Remove Dirt, Oil, & Product buildup with Deep Hydration with Wheat Amino Acids & Betaine | 100ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:shampoo",
-   "format:conditioner",
-   "ing:amino-acids",
-   "concern:scalp-buildup",
-   "concern:frizz",
-   "concern:dryness",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "man-code-b08jl7cm97",
   "brand": "MAN CODE",
   "model": "Mancode Beard Wash & Conditioner - 200ml | Conditions & Cleans Beard Mustache | Blended wi…",
@@ -179496,19 +178716,16 @@ const NXPRODUCTS = [
   "capacityLine": "600 ml (pack of 2)",
   "materialLine": "Charcoal",
   "featureLine": "Wash / cleanser · ₹183/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (L'Oreal Paris official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); polyquaternium-7 high on the INCI list (moderate evidence)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Added fragrance (parfum): parfum/fragrance",
-   "EU-declared fragrance allergen: limonene, linalool",
+   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.2,
-   "skin": 6.5,
-   "trust": 8.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
    "experience": 0
   },
   "fullSpec": {
@@ -179526,13 +178743,11 @@ const NXPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "L'Oreal Paris official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceUrl": "https://www.loreal-paris.co.uk/men-expert-total-clean/men-expert-total-clean-shower-gel",
-   "inciMatchedName": "men expert total clean shower gel (name match 90%)",
-   "inciList": "744794 07, Aqua/Water, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Coco-Betaine, Parfum/Fragrance, PPG-5-Ceteth-20, CI 14700/Red 4, CI 17200/Red 33, Sodium Hydroxide, Sodium Benzoate, Theobroma Cacao Extract/Cocoa Extract, Salicylic Acid, Polyquaternium-7, Limonene, Linalool, Pentylene Glycol, Mentha Piperita Extract/Peppermint Extract, Alpha-Isomethyl Ionone, Citric Acid, Citronellol, Butylene Glycol, Vitis Vinifera Seed Extract/Grape Seed Extract, Coumarin",
-   "evidenceActives": "glycerin (#3 on list, strong evidence); polyquaternium-7 (#14 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, alpha-isomethyl ionone, citronellol, coumarin (−2)",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -179561,8 +178776,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:amazon",
-   "inci:full",
-   "inci:brand-site"
+   "inci:none"
   ],
   "filters": {
    "freefrom": false,
@@ -179570,82 +178784,27 @@ const NXPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
+   "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
-   "inciSource": "L'Oreal Paris official website (www.loreal-paris.co.uk, UK site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.loreal-paris.co.uk/men-expert-total-clean/men-expert-total-clean-shower-gel",
-   "inciSourceRegion": "UK",
-   "inciMatchedTitle": "men expert total clean shower gel",
-   "inciMatchScore": 0.9,
-   "inciText": "744794 07, Aqua/Water, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Coco-Betaine, Parfum/Fragrance, PPG-5-Ceteth-20, CI 14700/Red 4, CI 17200/Red 33, Sodium Hydroxide, Sodium Benzoate, Theobroma Cacao Extract/Cocoa Extract, Salicylic Acid, Polyquaternium-7, Limonene, Linalool, Pentylene Glycol, Mentha Piperita Extract/Peppermint Extract, Alpha-Isomethyl Ionone, Citric Acid, Citronellol, Butylene Glycol, Vitis Vinifera Seed Extract/Grape Seed Extract, Coumarin",
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "sodium chloride",
-     "grade": "C",
-     "position": 4,
-     "core": false,
-     "src": "hairCleansing"
-    },
-    {
-     "name": "salicylic acid",
-     "grade": "B",
-     "position": 13,
-     "core": false,
-     "src": "dandruff"
-    },
-    {
-     "name": "polyquaternium-7",
-     "grade": "B",
-     "position": 14,
-     "core": true,
-     "src": "hairCosmetics"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butylene glycol"
-   ],
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "parfum/fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "linalool",
-      "alpha-isomethyl ionone",
-      "citronellol",
-      "coumarin"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    }
-   ],
+   "flags": [],
    "maker": {
     "parent": "L'Oréal",
     "kind": "global",
@@ -180905,109 +180064,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "shea-moisture-b07crt1t99",
-  "brand": "Shea Moisture",
-  "model": "Beard Oil & Balm Grooming Kit For Men, Organic All natural Maracuja & Shea Oils.",
-  "price": 4046,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Shea butter",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71t8uzFM0xL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81Zy-xPUKhL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71IZufX1dOL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71aEDVHxdwL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81JVoKQbujL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07CRT1T99",
-  "buyStore": "Amazon",
-  "title": "Shea Moisture Beard Oil & Balm Grooming Kit For Men, Organic All natural Maracuja & Shea Oils.",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:beard-oil",
-   "ing:shea-butter",
-   "concern:dryness",
-   "aud:men",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -186382,106 +185438,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "don-juan-b018uxqk5m",
-  "brand": "Don Juan",
-  "model": "Sailor Bay Rum Beard Oil and Conditioner Scented with Tangerine and Clove Oils, 1 Fluid Ou…",
-  "price": 4367,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61l9Jw5IALL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/715rhI8KqLL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71VoLsfBnKL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71BlsC4drJL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B018UXQK5M",
-  "buyStore": "Amazon",
-  "title": "Don Juan Sailor Bay Rum Beard Oil and Conditioner Scented with Tangerine and Clove Oils, 1 Fluid Ounce",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:emulsion",
-   "format:conditioner",
-   "format:beard-oil",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0cj7x4pyj",
   "brand": "Unbranded",
   "model": "Men 1Bottle Natural Spray Beard Oil Freshly Scent Oils Beard Conditioner",
@@ -186582,108 +185538,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "onedtq-b014t7c9hq",
-  "brand": "OneDTQ",
-  "model": "Big Forest Beard Oil - Leave In Facial Hair Conditioner & Moisturizer - 1 FL OZ",
-  "price": 3400,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/A139nstxzAL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81koWPe8J8L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/A13LL3R4WSL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71cIZWqB0IL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71pLH7PUjUL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B014T7C9HQ",
-  "buyStore": "Amazon",
-  "title": "Big Forest Beard Oil - Leave In Facial Hair Conditioner & Moisturizer - 1 FL OZ",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:conditioner",
-   "format:leave-in",
-   "format:beard-oil",
-   "concern:dryness",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -188367,6 +187221,1173 @@ const NXPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "thriveco-b0cz8vzhdx",
+  "brand": "ThriveCo",
+  "model": "Anti Grey Hair Serum | Reverse Greying Hair & Beard | Advanced Clinically Proven Grey Hair…",
+  "price": 449,
+  "capacityLine": "30 ml",
+  "materialLine": "Biotin",
+  "featureLine": "Serum · ₹1497/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1497/100ml",
+   "format": "Serum",
+   "appliesTo": "Beard",
+   "keyIngredients": "Biotin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Premature greying (claim), Restylable / no flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Lb4AalgAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61xZoLuLI-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71mjPVLVN0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71R6QMLVkIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61jhok5NqRL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CZ8VZHDX",
+  "buyStore": "Amazon",
+  "title": "ThriveCo Anti Grey Hair Serum | Reverse Greying Hair & Beard | Advanced Clinically Proven Grey Hair Treatment | Hair Prime Serum with Arcedin® + Arcolys® + Biotin | Lightweight, Non Sticky | For Men & Women | 30ml",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "ing:biotin",
+   "concern:oily-scalp",
+   "concern:greying",
+   "concern:restyle",
+   "concern:odour",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "zeina-beauty-b0g3cjf639",
+  "brand": "Zeina Beauty",
+  "model": "Natural Beard Oil, 100% Natural Formula, Premium Beard Care Treatment, 30ml Dropper Bottle…",
+  "price": 199,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Beard oil · ₹663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹663/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Nvj7tmk0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/41ndl7o4IlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51lgp9qTkJL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G3CJF639",
+  "buyStore": "Amazon",
+  "title": "Natural Beard Oil, 100% Natural Formula, Premium Beard Care Treatment, 30ml Dropper Bottle, for Beard Growth and Conditioning",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "phillauri-b0d2mz5bcp",
+  "brand": "Phillauri",
+  "model": "Softer Beard WashBeard Growth And Beard Wash Cleanse 200ml(Pack of 1)",
+  "price": 199,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Beard wash · ₹100/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Beard growth (claim), Beard itch / beardruff / softening, Odour / fragrance / freshness (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ojQQ4dfML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/710keR-E03L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61FDAGUNuzL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/614UpP2jisL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617xyxV57qL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D2MZ5BCP",
+  "buyStore": "Amazon",
+  "title": "Softer Beard WashBeard Growth And Beard Wash Cleanse 200ml(Pack of 1)",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "format:beard-wash",
+   "concern:scalp-itch",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "concern:odour",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rocky-mountain-barber-company-b07dfpx3f7",
+  "brand": "Rocky Mountain Barber Company",
+  "model": "All-in-One Body Wash for Men ââ‚¬â€œ Shampoo, Body Wash Gel, Conditioner, Face Soap & Bear…",
+  "price": 2595,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera",
+  "featureLine": "Beard wash · Paraben-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Aloe vera (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613cnTZYi3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cSuAP0sBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81hPMJ4q1VL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WV3qNJUyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710uY6pf9jL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07DFPX3F7",
+  "buyStore": "Amazon",
+  "title": "All-in-One Body Wash for Men ââ‚¬â€œ Shampoo, Body Wash Gel, Conditioner, Face Soap & Beard Wash ââ‚¬â€œ Includes Aloe Vera ââ‚¬â€œ Paraben, SLS & DEA Free - Bay Rum Scent ââ‚¬â€œ 8 oz",
+  "tags": [
+   "area:beard",
+   "format:gel",
+   "format:wash",
+   "format:shampoo",
+   "format:conditioner",
+   "format:beard-wash",
+   "ing:aloe-vera",
+   "free:paraben",
+   "aud:men",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "neem-vila-b0gxpj447p",
+  "brand": "Neem Vila",
+  "model": "Beard Softener Cream for Men | Softens, Nourishes & Provides Long-Lasting Care | Advanced …",
+  "price": 299,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Neem",
+  "featureLine": "Beard balm / softener · ₹299/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹299/100g",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Neem (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Shine / gloss, Beard growth (claim), Beard itch / beardruff / softening, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Oily hair / scalp, Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71TWMXUkJmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SkadCElUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wVwnkM-KL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71W4Goysq9L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/41CT2fOU+FL._SL1032_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXPJ447P",
+  "buyStore": "Amazon",
+  "title": "Beard Softener Cream for Men | Softens, Nourishes & Provides Long-Lasting Care | Advanced Beard Care with Essential Oils | Promotes Beard Growth, Reduces Itchiness & Adds Shine (Pack of 2, 50 gm)",
+  "tags": [
+   "area:beard",
+   "format:cream",
+   "format:kit",
+   "format:beard-balm",
+   "ing:neem",
+   "concern:dandruff",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "concern:oil-absorbing",
+   "hair:oily",
+   "hair:thick",
+   "aud:men",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ibeard-b0ddc7c5cr",
+  "brand": "ibeard",
+  "model": "Beard & Moustache Wax For Men|Beard & Mustache Styling|Long Lasting Strong Hold|Non-Sticky…",
+  "price": 279,
+  "capacityLine": "50 g",
+  "materialLine": "Almond + Vitamin E",
+  "featureLine": "Body wax · ₹558/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹558/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/813hgbH9TEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61kbXWDipgL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61c9Hp5XLbL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61OFyHgqmnL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61H6uVLNh6L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DDC7C5CR",
+  "buyStore": "Amazon",
+  "title": "Beard & Moustache Wax For Men|Beard & Mustache Styling|Long Lasting Strong Hold|Non-Sticky (Pack Of 1, 50Gm)",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:kit",
+   "format:wax",
+   "ing:almond",
+   "ing:vitamin-e",
+   "concern:dryness",
+   "concern:hold",
+   "concern:restyle",
+   "aud:men",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "livincy-b08r5ls9pz",
+  "brand": "Livincy",
+  "model": "Natural Beard Hair Growth Oil For Men, Nourishes & Strengthens Uneven Patchy Beard (30 ml)…",
+  "price": 179,
+  "capacityLine": "30 ml",
+  "materialLine": "Argan oil + Coconut + Rosemary",
+  "featureLine": "Oil · ₹597/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹597/100ml",
+   "format": "Oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Argan oil, Coconut, Rosemary (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair growth (claim), Frizz control, Dryness / hydration, Shine / gloss, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71WLSenef4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91UO4Um6IaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81zf-X4lOwL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08R5LS9PZ",
+  "buyStore": "Amazon",
+  "title": "Natural Beard Hair Growth Oil For Men, Nourishes & Strengthens Uneven Patchy Beard (30 ml) Pack Of 1",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "format:conditioner",
+   "format:beard-oil",
+   "ing:argan-oil",
+   "ing:coconut",
+   "ing:rosemary",
+   "concern:hair-growth",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:shine",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "aud:men",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "wvhc-b0dqpdpxwk",
+  "brand": "WVHC",
+  "model": "Beard Softener | beard softener for men | beard softener oil| beard serum | (Soft, Shine a…",
+  "price": 499,
+  "capacityLine": "60 ml",
+  "materialLine": "Vitamin E + Argan oil + Jojoba",
+  "featureLine": "Beard balm / softener · ₹832/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹832/100ml",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Vitamin E, Argan oil, Jojoba (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Shine / gloss, Beard itch / beardruff / softening, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41C15MfOu4L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQPDPXWK",
+  "buyStore": "Amazon",
+  "title": "Beard Softener | beard softener for men | beard softener oil| beard serum | (Soft, Shine and Growth) - 60ML",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "format:oil",
+   "format:beard-balm",
+   "ing:vitamin-e",
+   "ing:argan-oil",
+   "ing:jojoba",
+   "concern:dandruff",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:beard-itch",
+   "concern:oil-absorbing",
+   "aud:men",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0dvzj3886",
+  "brand": "Unbranded",
+  "model": "Hair & Beard Repair Shampoo Bar | Black Soap Formula to Strengthen Hair Strands, Restore S…",
+  "price": 699,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foam / mousse",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foam / mousse",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Damage repair, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/511HaG0-30L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71l5DUN+83L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Yxe7-z4RL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61D+IasFQQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vT0nPMkmL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DVZJ3886",
+  "buyStore": "Amazon",
+  "title": "Hair & Beard Repair Shampoo Bar | Black Soap Formula to Strengthen Hair Strands, Restore Shine & Repair Damage with Gentle Foaming Cleanse",
+  "tags": [
+   "area:beard",
+   "format:foam",
+   "format:shampoo",
+   "concern:damage-repair",
+   "concern:shine",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "lakmira-b0hdhrjsyg",
+  "brand": "lakmira",
+  "model": "Hair & Beard Wax | Smooth Hold Wax | Long-Lasting Style & Natural Finish | 50G",
+  "price": 399,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Body wax · ₹798/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹798/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Smoothing / straightening, Hold (styling), Matte finish (seller claim — not clinical proof)",
+   "hairType": "Textured / afro hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/519n4x-p3ML._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61RRpHm88JL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61crgM2uSqL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61uo+xapi-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61-entk9KwL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDHRJSYG",
+  "buyStore": "Amazon",
+  "title": "Hair & Beard Wax | Smooth Hold Wax | Long-Lasting Style & Natural Finish | 50G",
+  "tags": [
+   "area:beard",
+   "format:wax",
+   "format:texture-spray",
+   "format:beard-balm",
+   "concern:smoothing",
+   "concern:hold",
+   "concern:matte-finish",
+   "hair:textured",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "amazing-earth-b0dtkd1rk9",
+  "brand": "AMAzing EARTH",
+  "model": "Organic Beard and Moustache Cream, Softening and Growth-Enhancing Formula with Olive Oil P…",
+  "price": 523,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Shea butter + Olive",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Shea butter, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61vzcgwQyNL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DTKD1RK9",
+  "buyStore": "Amazon",
+  "title": "Amazing Earth Organic Beard and Moustache Cream, Softening and Growth-Enhancing Formula with Olive Oil Pack of 2",
+  "tags": [
+   "area:beard",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "format:texture-spray",
+   "ing:shea-butter",
+   "ing:olive",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:beard-growth",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
    "women": false,
    "inci": "none",
    "inciSrc": null,
@@ -192110,6 +192131,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -192117,6 +192139,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -192124,6 +192147,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -192131,6 +192155,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -197735,110 +197760,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "ivory-natural-b0f9xdmynh",
-  "brand": "Ivory Natural",
-  "model": "Grey Hair Oil & Beard Serum Oil (200ml Oil + 55ml Serum) - For Greys of the Hair & Beard |…",
-  "price": 1449,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard balm / softener · ₹725/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹725/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Premature greying (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61p+h3I7gSL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/815eRQsLc-L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61piZnZ6YSL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/616h07gLEbL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/71BL2xnlSjL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F9XDMYNH",
-  "buyStore": "Amazon",
-  "title": "Grey Hair Oil & Beard Serum Oil (200ml Oil + 55ml Serum) - For Greys of the Hair & Beard | 100% Natural and Ayush Ministry Certified",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-balm",
-   "concern:greying",
-   "free:toxin-free",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "em5-b0cs3mv69b",
   "brand": "Em5",
   "model": "'s Organic Leather Tobacco Beard Balm | Shape Style and Tame | Medium Hold and Shine | Lon…",
@@ -200217,6 +200138,1315 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "kase-grooming-b0fqp52jtw",
+  "brand": "KASE GROOMING",
+  "model": "Ultra Fix Beard Spray | Beard Fixer with a Long Lasting Finish | Strong Hold Setting Spray…",
+  "price": 649,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Hair spray",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Frizz control, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/817-eiogrBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51tiKJ9sOfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51dZ1U5jyyL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61+5+5uh7DL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQP52JTW",
+  "buyStore": "Amazon",
+  "title": "Ultra Fix Beard Spray | Beard Fixer with a Long Lasting Finish | Strong Hold Setting Spray | No Residue or Flaking | Fix for Sikhs - Pack of 2",
+  "tags": [
+   "area:beard",
+   "format:gel",
+   "format:mist",
+   "format:kit",
+   "format:hair-spray",
+   "concern:dandruff",
+   "concern:scalp-buildup",
+   "concern:frizz",
+   "concern:hold",
+   "concern:restyle",
+   "free:vegan",
+   "aud:men",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "bsd-b079hpztff",
+  "brand": "BSD",
+  "model": "Organics BeardY natural beard wash grooming liquid - 500 ml",
+  "price": 299,
+  "capacityLine": "500 ml",
+  "materialLine": "Vitamin C + Lemon",
+  "featureLine": "Beard wash · Paraben-free · ₹60/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹60/100ml",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Vitamin C, Lemon (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61YvEIXld4L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B079HPZTFF",
+  "buyStore": "Amazon",
+  "title": "BSD Organics BeardY natural beard wash grooming liquid - 500 ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:wash",
+   "format:beard-wash",
+   "ing:vitamin-c",
+   "ing:lemon",
+   "concern:dandruff",
+   "concern:dryness",
+   "free:paraben",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "beautyrelay-london-b09ftb2tzk",
+  "brand": "BEAUTYRELAY LONDON",
+  "model": "Dadhiyal Moustache Wax With Castor Oil & Dadhiyal Beard Wash for Strong Hold 25g, sharper …",
+  "price": 378,
+  "capacityLine": "25 g",
+  "materialLine": "Castor oil + Dimethicone / silicones",
+  "featureLine": "Body wax · ₹1512/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹1512/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Castor oil, Dimethicone / silicones (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Damage repair, Dryness / hydration, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TbpDquWIL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61BVgiahu9L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71-hrMlmd7L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61oGJ4u2eSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Vm0Ua-HJL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09FTB2TZK",
+  "buyStore": "Amazon",
+  "title": "BEAUTYRELAY LONDON Dadhiyal Moustache Wax With Castor Oil & Dadhiyal Beard Wash for Strong Hold 25g, sharper look, Parabens, sulfates, silicones free (Buy 1 Get 1 Free)",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "format:wax",
+   "format:beard-wash",
+   "ing:castor-oil",
+   "ing:dimethicone-silicones",
+   "concern:scalp-buildup",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:hold",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rocky-mountain-barber-company-b01m8g88e9",
+  "brand": "Rocky Mountain Barber Company",
+  "model": "Beard Balm - Sandalwood Blend - Rocky Mountain Barber - with Nutrient Rich Bees Wax",
+  "price": 2148,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Sandalwood + Shea butter + Jojoba",
+  "featureLine": "Body wax",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Sandalwood, Shea butter, Jojoba, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/819MYR2125L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/A1kR7BAgYbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Qnc-jRsAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71KgBSfnJlL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71H2lSLNwGL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01M8G88E9",
+  "buyStore": "Amazon",
+  "title": "Beard Balm - Sandalwood Blend - Rocky Mountain Barber - with Nutrient Rich Bees Wax",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:balm",
+   "format:wax",
+   "format:beard-balm",
+   "ing:sandalwood",
+   "ing:shea-butter",
+   "ing:jojoba",
+   "ing:coconut",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "beautyrelay-b09ft89544",
+  "brand": "BEAUTYRELAY",
+  "model": "LONDON Dadhiyal Beard Butter Balm & Beard Wash healthier growth, softener, lightweight, wi…",
+  "price": 444,
+  "capacityLine": "200 g",
+  "materialLine": "Dimethicone / silicones",
+  "featureLine": "Beard wash · ₹222/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹222/100g",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Dimethicone / silicones (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Damage repair, Dryness / hydration, Hold (styling), Beard itch / beardruff / softening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61im0d+k8xL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61MkGc74fQL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51QF929-ysL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61oGJ4u2eSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Vm0Ua-HJL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09FT89544",
+  "buyStore": "Amazon",
+  "title": "BEAUTYRELAY LONDON Dadhiyal Beard Butter Balm & Beard Wash healthier growth, softener, lightweight, with ultimate comfort, Parabens, sulfates, silicones free, 200g, (Buy 1 Get 1 Free)",
+  "tags": [
+   "area:beard",
+   "format:balm",
+   "format:wash",
+   "format:kit",
+   "format:beard-wash",
+   "format:beard-balm",
+   "ing:dimethicone-silicones",
+   "concern:scalp-buildup",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:hold",
+   "concern:beard-itch",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "keyush-beauty-b0h99ftltb",
+  "brand": "KEYUSH BEAUTY",
+  "model": "Premium Beard Softener Oil - 100% Pure & Organic for Beard Growth, Itch Relief, and Soften…",
+  "price": 99,
+  "capacityLine": "30 ml",
+  "materialLine": "Almond + Coconut + Olive",
+  "featureLine": "Beard balm / softener · ₹330/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹330/100ml",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Almond, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Shine / gloss, Beard growth (claim), Beard itch / beardruff / softening, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Oily hair / scalp, Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61x3ZTmD5AL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qMKcEOiEL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61nepX3oUqL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71mE30bzbiL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61h1jfJKRsL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H99FTLTB",
+  "buyStore": "Amazon",
+  "title": "Premium Beard Softener Oil - 100% Pure & Organic for Beard Growth, Itch Relief, and Softening - Enriched with Coconut, Almond & Olive Oil - 30ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-balm",
+   "ing:almond",
+   "ing:coconut",
+   "ing:olive",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:shine",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "concern:oil-absorbing",
+   "hair:oily",
+   "hair:thick",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "beardlite-b0d8bwb2dr",
+  "brand": "BearDlite",
+  "model": "Beard Nourishment Oil for Men | 30ml with Tea Tree & Argan Oil | Beard Softener & Moisturi…",
+  "price": 179,
+  "capacityLine": "30 ml",
+  "materialLine": "Tea tree + Argan oil",
+  "featureLine": "Beard balm / softener · ₹597/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹597/100ml",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Tea tree, Argan oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Damage repair, Dryness / hydration, Smoothing / straightening, Restylable / no flakes, Beard growth (claim), Beard itch / beardruff / softening, Odour / fragrance / freshness (seller claim — not clinical proof)",
+   "hairType": "Damaged hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61lRRkoujaL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71+DDT6NHiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Hx7aT3lFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711Z3Z2m-bL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71VxE3FVAZL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D8BWB2DR",
+  "buyStore": "Amazon",
+  "title": "Beard Nourishment Oil for Men | 30ml with Tea Tree & Argan Oil | Beard Softener & Moisturizer | Non-Sticky, Cooling Formula | Promotes Beard Growth & Strength | Daily Use Beard Care Oil",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:texture-spray",
+   "format:beard-oil",
+   "format:beard-balm",
+   "ing:tea-tree",
+   "ing:argan-oil",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:restyle",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "concern:odour",
+   "hair:damaged",
+   "aud:men",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-goldy-sidhu-b0dfy9qltc",
+  "brand": "THE GOLDY SIDHU",
+  "model": "Beard Wash Shampoo for Man & Women - 200 Ml (Pack of 3)",
+  "price": 1050,
+  "capacityLine": "600 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Beard wash · ₹175/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 3 pack",
+   "pricePer100": "₹175/100ml",
+   "format": "Beard wash",
+   "appliesTo": "Beard",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Straight hair, Coloured / chemically treated, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/711MEyGfEgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Tf26t0poL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51Hq0+GPELL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DFY9QLTC",
+  "buyStore": "Amazon",
+  "title": "Beard Wash Shampoo for Man & Women - 200 Ml (Pack of 3)",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "format:shampoo",
+   "format:beard-wash",
+   "concern:scalp-buildup",
+   "concern:dryness",
+   "concern:smoothing",
+   "hair:curly",
+   "hair:straight",
+   "hair:coloured",
+   "hair:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "all-man-b0dqcxb9hm",
+  "brand": "ALL MAN",
+  "model": "Fuzz Fixer Beard Styling Paste, Strong Hold Cream Wax, With Mango Butter & Milk Protein fo…",
+  "price": 449,
+  "capacityLine": "50 g",
+  "materialLine": "Milk",
+  "featureLine": "Body wax · ₹898/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹898/100g",
+   "format": "Body wax",
+   "appliesTo": "Beard",
+   "keyIngredients": "Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Dryness / hydration, Shine / gloss, Volume / body, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51nsKc+PipL._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/61e65PSYYcL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61VNANqQkgL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51ru19NAH9L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71O5TAhCFhL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQCXB9HM",
+  "buyStore": "Amazon",
+  "title": "ALL MAN Fuzz Fixer Beard Styling Paste, Strong Hold Cream Wax, With Mango Butter & Milk Protein for Strong Hair | 50g",
+  "tags": [
+   "area:beard",
+   "format:cream",
+   "format:balm",
+   "format:wax",
+   "format:paste",
+   "ing:milk",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:shine",
+   "concern:volume",
+   "concern:hold",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "glowriti-b0h7wrf1zs",
+  "brand": "Glowriti",
+  "model": "Beard Growth Serum for Men, 30 ml | Argan Oil & Cedarwood Oil, Promotes Thicker, Fuller & …",
+  "price": 395,
+  "capacityLine": "30 ml",
+  "materialLine": "Argan oil + Cedarwood",
+  "featureLine": "Serum · ₹1317/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1317/100ml",
+   "format": "Serum",
+   "appliesTo": "Beard",
+   "keyIngredients": "Argan oil, Cedarwood (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Restylable / no flakes, Beard growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81ZqFreiqXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81LkhZY7RkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ro35KHTGL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/8156Vu--98L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/613UQ8Mij+L._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H7WRF1ZS",
+  "buyStore": "Amazon",
+  "title": "Beard Growth Serum for Men, 30 ml | Argan Oil & Cedarwood Oil, Promotes Thicker, Fuller & Healthier Beard, Nourishes Beard Hair, Moisturizes Skin",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "format:oil",
+   "format:texture-spray",
+   "ing:argan-oil",
+   "ing:cedarwood",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:restyle",
+   "concern:beard-growth",
+   "concern:oil-absorbing",
+   "hair:thick",
+   "aud:men",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "park-daniel-b07v9vdgh3",
+  "brand": "Park Daniel",
+  "model": "Beard Serum For Beard Growth with Argan and Almond oil 60 ML (Pack of 3)",
+  "price": 478,
+  "capacityLine": "180 ml (pack of 3)",
+  "materialLine": "Almond + Vitamin E + Argan oil",
+  "featureLine": "Beard balm / softener · ₹266/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 ml × 3 pack",
+   "pricePer100": "₹266/100ml",
+   "format": "Beard balm / softener",
+   "appliesTo": "Beard",
+   "keyIngredients": "Almond, Vitamin E, Argan oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Volume / body, Scalp health, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71mNn6y7R8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71u2gLzYMlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rRCbWuLiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Riii4V6jL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7114DZMFB0L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07V9VDGH3",
+  "buyStore": "Amazon",
+  "title": "Park Daniel Beard Serum For Beard Growth with Argan and Almond oil 60 ML (Pack of 3)",
+  "tags": [
+   "area:beard",
+   "format:serum",
+   "format:toner",
+   "format:oil",
+   "format:kit",
+   "format:beard-balm",
+   "ing:almond",
+   "ing:vitamin-e",
+   "ing:argan-oil",
+   "concern:dandruff",
+   "concern:scalp-itch",
+   "concern:volume",
+   "concern:scalp-health",
+   "concern:beard-growth",
+   "concern:beard-itch",
+   "aud:men",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "aktivemusli-b0c72qgg7b",
+  "brand": "Aktivemusli",
+  "model": "Beard Oil for men - Daily Repair Hemp Beard Oil | Non-Sticky, Light; Hemp Seed Oil for Shi…",
+  "price": 140,
+  "capacityLine": "50 ml",
+  "materialLine": "Peptides + Zinc + Copper peptide",
+  "featureLine": "Beard oil · ₹280/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹280/100ml",
+   "format": "Beard oil",
+   "appliesTo": "Beard",
+   "keyIngredients": "Peptides, Zinc, Copper peptide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Restylable / no flakes, Beard growth (claim) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71D2apd796L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61WE3ScyODL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/614iQak0TNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51NBoHvFVDL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C72QGG7B",
+  "buyStore": "Amazon",
+  "title": "Beard Oil for men - Daily Repair Hemp Beard Oil | Non-Sticky, Light; Hemp Seed Oil for Shiny Nourished Beards | Promotes Beard Growth, 50 ml",
+  "tags": [
+   "area:beard",
+   "format:oil",
+   "format:beard-oil",
+   "ing:peptides",
+   "ing:zinc",
+   "ing:copper-peptide",
+   "concern:hair-growth",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:shine",
+   "concern:restyle",
+   "concern:beard-growth",
+   "aud:men",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -203006,114 +204236,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "striking-viking-b08cf1wf3b",
-  "brand": "Striking Viking",
-  "model": "Beard Shampoo and Beard Conditioner for Men, All-Natural Beard Wash Set Cleanse Softens & …",
-  "price": 3573,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Argan oil + Jojoba",
-  "featureLine": "Beard oil · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.6★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Argan oil, Jojoba (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.6/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61-LrUzTY8L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61XrST4-j6L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61WYU8gTMoL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61nSGGQTN2L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61M70PlU8tL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08CF1WF3B",
-  "buyStore": "Amazon",
-  "title": "Beard Shampoo and Beard Conditioner for Men, All-Natural Beard Wash Set Cleanse Softens & Conditions with Organic Argan and Jojoba Beard Oils, Sulfate & Paraben Free by Striking Viking",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "format:beard-wash",
-   "ing:argan-oil",
-   "ing:jojoba",
-   "free:paraben",
-   "aud:men",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
   "id": "rawls-b0dznvv4rx",
   "brand": "RAWLS",
   "model": "Beard Growth Combo | Beard Oil (30ml) & Beard Wash (100ml) | Enriched with Tea Tree, Cocon…",
@@ -204699,108 +205821,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "badger-b015ouxbs8",
-  "brand": "Badger",
-  "model": "Balm - Badger Beard Grooming Kit - Includes Beard Oil and Beard Balm",
-  "price": 5329,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81dLXL6cuwL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81ZR+o-svZL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71P1iZqLKJL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81mCGtdyaHL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81PWu3ygmtL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B015OUXBS8",
-  "buyStore": "Amazon",
-  "title": "Badger Balm - Badger Beard Grooming Kit - Includes Beard Oil and Beard Balm",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-balm",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
   "id": "nourish-mantra-b0cf2f249t",
   "brand": "NOURISH MANTRA",
   "model": "'s Advanced Beard Growth Oil (30ml) & Beetroot Blast Lip Balm (12g)/ Beard Growth Oil for …",
@@ -205010,6 +206030,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -205017,6 +206038,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -205024,6 +206046,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -205031,6 +206054,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -205038,6 +206062,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -205045,6 +206070,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -205052,6 +206078,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -205059,6 +206086,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -206172,125 +207200,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "fulllight-tech-b0hh4d3dwl",
-  "brand": "FULLLIGHT TECH",
-  "model": "Beard Growth Oil for Men, 30ml – Castor, Hempseed & Argan Oil Blend for Patchy Beard Fix, …",
-  "price": 299,
-  "capacityLine": "30 ml",
-  "materialLine": "Argan oil + Jojoba + Coconut",
-  "featureLine": "Beard oil · ₹997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹997/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Argan oil, Jojoba, Coconut, Hibiscus, Castor oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Beard growth (claim), Beard itch / beardruff / softening, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61OV6Mwa0eL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/61tg+oLpmOL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71cX0D4lffL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/6185EMf808L._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71K6T8bovCL._SL1254_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HH4D3DWL",
-  "buyStore": "Amazon",
-  "title": "Fulllight Tech Beard Growth Oil for Men, 30ml – Castor, Hempseed & Argan Oil Blend for Patchy Beard Fix, Softer Thicker Beard, Daily Beard Conditioner & Moisturizer",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:conditioner",
-   "format:texture-spray",
-   "format:beard-oil",
-   "ing:argan-oil",
-   "ing:jojoba",
-   "ing:coconut",
-   "ing:hibiscus",
-   "ing:castor-oil",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:oily-scalp",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:split-ends",
-   "concern:dryness",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "concern:oil-absorbing",
-   "hair:damaged",
-   "aud:men",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
   "id": "park-daniel-b07v7fylsv",
   "brand": "Park Daniel",
   "model": "Beard Serum For Beard Growth with Argan and Almond oil, Yellow, 60 ml",
@@ -207167,112 +208076,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "polished-gentleman-b01e6ci9ku",
-  "brand": "Polished Gentleman",
-  "model": "Beard Growth and Thickening Shampoo and Conditioner - Beard Care With Organic Beard Oil - …",
-  "price": 6220,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Thinning / density, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71GEaZUi53L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71TEp79EcGL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71l2MkSphDL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81qC5fEjbXL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71BFlXaM72L._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01E6CI9KU",
-  "buyStore": "Amazon",
-  "title": "Beard Growth and Thickening Shampoo and Conditioner - Beard Care With Organic Beard Oil - For Best Beard Look - For Facial Hair Growth - Beard Softener for Grooming",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "format:beard-balm",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "l-oreal-paris-b0gsjjpthd",
   "brand": "L'Oreal Paris",
   "model": "Men Expert Barber Club, Short Beard and Face Moisturiser,P2 100ml",
@@ -207375,6 +208178,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -207382,6 +208186,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -207389,6 +208194,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "dandruff"
     }
    ],
@@ -217441,106 +218247,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "skully-s-b072qly5kf",
-  "brand": "Skully's",
-  "model": "Havana Smoke Beard Oil 1 oz & Beard Balm 2 oz, Beard kit",
-  "price": 7125,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71pV85sxc8L._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/71DkA2ZHYML._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B072QLY5KF",
-  "buyStore": "Amazon",
-  "title": "Skully's Havana Smoke Beard Oil 1 oz & Beard Balm 2 oz, Beard kit",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-balm",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "satliva-b0fljqbctl",
   "brand": "Satliva",
   "model": "BeardBuddy Beard Cream | Natural Beard Grooming & Growth Cream for Men | Softens, Nourishe…",
@@ -227339,116 +228045,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "singh-legacy-b0h5ckm33s",
-  "brand": "SINGH LEGACY",
-  "model": "Daily Cleanser Beard & Hair Shampoo, with Bhringraj, Moringa Oil & Green Tea Extract, 200 …",
-  "price": 399,
-  "capacityLine": "200 ml",
-  "materialLine": "Caffeine + Green tea + Mineral oil",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹200/100ml",
-   "format": "Wash / cleanser",
-   "appliesTo": "Beard",
-   "keyIngredients": "Caffeine, Green tea, Mineral oil, Bhringraj, Moringa (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Fbs6pXtJL._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/71zKJkogbDL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/61YaMRAZ4NL._SL1254_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5CKM33S",
-  "buyStore": "Amazon",
-  "title": "Daily Cleanser Beard & Hair Shampoo, with Bhringraj, Moringa Oil & Green Tea Extract, 200 ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:shampoo",
-   "ing:caffeine",
-   "ing:green-tea",
-   "ing:mineral-oil",
-   "ing:bhringraj",
-   "ing:moringa",
-   "concern:scalp-buildup",
-   "concern:oily-scalp",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:odour",
-   "free:paraben",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
   "id": "l-oreal-paris-b0h2mrblt7",
   "brand": "L'Oreal Paris",
   "model": "Men Expert Barber Club 3-in-1 Shower Gel 1L Pump | Cedarwood Oil Body Wash for Hair, Beard…",
@@ -228618,6 +229214,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -228625,6 +229222,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -228632,6 +229230,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -228639,6 +229238,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -229196,107 +229796,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "skully-s-ctz-beard-oil-b071jvy3n3",
-  "brand": "Skully's Ctz Beard Oil",
-  "model": "Skully's Isla De Muerta Beard Oil 1 oz & Beard Balm 2 oz, Beard kit",
-  "price": 6474,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71dZp4IPWRL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/71DkA2ZHYML._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/91LFBHeLCtL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B071JVY3N3",
-  "buyStore": "Amazon",
-  "title": "Skully's Isla De Muerta Beard Oil 1 oz & Beard Balm 2 oz, Beard kit",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-balm",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -230509,111 +231008,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "zilberhaar-b07s8dg236",
-  "brand": "ZilberHaar",
-  "model": "Beard Oil ââ€žâ€“1 & Leave In Conditioner - Fragrance Free - 100% Pure Natural Organic Mor…",
-  "price": 3656,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Argan oil + Jojoba",
-  "featureLine": "Beard oil · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Argan oil, Jojoba (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/718KOWEQ71L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71szRd43zlL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/A1o+v0Xs1CL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81vU2mDEFbL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61avBFiI0QL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07S8DG236",
-  "buyStore": "Amazon",
-  "title": "ZilberHaar Beard Oil ââ€žâ€“1 & Leave In Conditioner - Fragrance Free - 100% Pure Natural Organic Moroccan Argan Oil and American Jojoba Oil For Beards and Moustaches for Natural Growth and Hydratio",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:conditioner",
-   "format:leave-in",
-   "format:beard-oil",
-   "ing:argan-oil",
-   "ing:jojoba",
-   "concern:dryness",
-   "free:fragrance",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -232125,108 +232519,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "zeus-b01hj3cc9m",
-  "brand": "ZEUS",
-  "model": "Beard Shampoo and Beard Conditioner Set for Men - (8 oz. Bottles) (Scent: Sandalwood)",
-  "price": 5457,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sandalwood",
-  "featureLine": "Beard wash",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Sandalwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51gYmfmWGKL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61VO8hPNSxL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/617M7NkCPWL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/71gRe1fBCQL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61zociIYZZL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01HJ3CC9M",
-  "buyStore": "Amazon",
-  "title": "Zeus Beard Shampoo and Beard Conditioner Set for Men - (8 oz. Bottles) (Scent: Sandalwood)",
-  "tags": [
-   "area:beard",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-wash",
-   "ing:sandalwood",
-   "aud:men",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "vibe-b0cmdd3jz6",
   "brand": "VIBE",
   "model": "Prevents Hair Fall Shampoo with Onion, Fenugreek 200ml and Natural Beard Growth Oil 50ml f…",
@@ -233408,222 +233700,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "reginald-b0hhfdssyc",
-  "brand": "Reginald",
-  "model": "Men Hermes Face & Beard Serum (30ml) + SPF 50+ PA++++ Sunscreen Pack of 3 (150g) | Hydrati…",
-  "price": 2180,
-  "capacityLine": "450 g (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard balm / softener · SPF 50 · ₹484/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 g × 3 pack",
-   "pricePer100": "₹484/100g",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/619LowdEYDL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51spWpqUikL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/518lgVh9VZL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/616cZwqYX1L._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/51WhlR7jx6L._SL1100_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHFDSSYC",
-  "buyStore": "Amazon",
-  "title": "Reginald Men Hermes Face & Beard Serum (30ml) + SPF 50+ PA++++ Sunscreen Pack of 3 (150g) | Hydrating & Nourishing Beard Care + Broad Spectrum UVA/UVB Protection",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:kit",
-   "format:beard-balm",
-   "spf:50+",
-   "pa:++++",
-   "concern:dryness",
-   "concern:restyle",
-   "free:oil-free",
-   "aud:men",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "nutrionz-organic-b0d2xps3bd",
-  "brand": "NUTRIONZ ORGANIC",
-  "model": "Vitamin C Serum and Beard Oil, 30ml Bottle | Brightening and Smoothing Skin, Healthy Beard…",
-  "price": 293,
-  "capacityLine": "30 ml",
-  "materialLine": "Vitamin C + Hyaluronic acid",
-  "featureLine": "Beard oil · ₹977/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹977/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Vitamin C, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Textured / afro hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71U-M1zGGYL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71pVHJkOm-L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71CXEH+a9UL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81lfXdHNjmL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71WLSK7IXvL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D2XPS3BD",
-  "buyStore": "Amazon",
-  "title": "Vitamin C Serum and Beard Oil, 30ml Bottle | Brightening and Smoothing Skin, Healthy Beard Growth",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:texture-spray",
-   "format:beard-oil",
-   "ing:vitamin-c",
-   "ing:hyaluronic-acid",
-   "concern:oily-scalp",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:beard-growth",
-   "hair:textured",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "inlazer-b0cdrv21lr",
   "brand": "inlazer",
   "model": "Hair & Beared Serum | Beard Hair Growth Oil For Faster Beard Growth And Thicker Looking Be…",
@@ -234719,6 +234795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -234726,6 +234803,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -234733,6 +234811,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "bhringraj"
     }
    ],
@@ -236049,3900 +236128,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "thriveco-b0cz8vzhdx",
-  "brand": "ThriveCo",
-  "model": "Anti Grey Hair Serum | Reverse Greying Hair & Beard | Advanced Clinically Proven Grey Hair…",
-  "price": 449,
-  "capacityLine": "30 ml",
-  "materialLine": "Biotin",
-  "featureLine": "Serum · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1497/100ml",
-   "format": "Serum",
-   "appliesTo": "Beard",
-   "keyIngredients": "Biotin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Premature greying (claim), Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Lb4AalgAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CZ8VZHDX",
-  "buyStore": "Amazon",
-  "title": "ThriveCo Anti Grey Hair Serum | Reverse Greying Hair & Beard | Advanced Clinically Proven Grey Hair Treatment | Hair Prime Serum with Arcedin® + Arcolys® + Biotin | Lightweight, Non Sticky | For Men & Women | 30ml",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "ing:biotin",
-   "concern:greying",
-   "concern:restyle",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fqp52jtw",
-  "brand": "Unbranded",
-  "model": "Ultra Fix Beard Spray | Beard Fixer with a Long Lasting Finish | Strong Hold Setting Spray…",
-  "price": 649,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Hair spray",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51cUBlzihQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FQP52JTW",
-  "buyStore": "Amazon",
-  "title": "Ultra Fix Beard Spray | Beard Fixer with a Long Lasting Finish | Strong Hold Setting Spray | No Residue or Flaking | Fix for Sikhs - Pack of 2",
-  "tags": [
-   "area:beard",
-   "format:mist",
-   "format:kit",
-   "format:hair-spray",
-   "concern:dandruff",
-   "concern:hold",
-   "concern:restyle",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fjyh4gnc",
-  "brand": "Unbranded",
-  "model": "Beard Oil, SLS and Paraben free",
-  "price": 190,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81zY6ppgT+L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJYH4GNC",
-  "buyStore": "Amazon",
-  "title": "Beard Oil, SLS and Paraben free",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "free:paraben",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gq9w6jmf",
-  "brand": "Unbranded",
-  "model": "Beard Oil for Men 100ml | Natural Beard Growth & Nourishing Oil | Enriched with Geranium &…",
-  "price": 299,
-  "capacityLine": "100 ml",
-  "materialLine": "Tea tree",
-  "featureLine": "Beard oil · ₹299/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹299/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61cc4MEkIVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GQ9W6JMF",
-  "buyStore": "Amazon",
-  "title": "Beard Oil for Men 100ml | Natural Beard Growth & Nourishing Oil | Enriched with Geranium & Tea Tree Oil | Softens, Strengthens & Promotes Healthy Beard",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "ing:tea-tree",
-   "concern:dryness",
-   "concern:beard-growth",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0g3cjf639",
-  "brand": "Unbranded",
-  "model": "Natural Beard Oil, 100% Natural Formula, Premium Beard Care Treatment, 30ml Dropper Bottle…",
-  "price": 199,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹663/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Nvj7tmk0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G3CJF639",
-  "buyStore": "Amazon",
-  "title": "Natural Beard Oil, 100% Natural Formula, Premium Beard Care Treatment, 30ml Dropper Bottle, for Beard Growth and Conditioning",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "concern:beard-growth",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0db841gqm",
-  "brand": "Unbranded",
-  "model": "Nourish Your Beard with Premium Beard Oil Softens, Conditions, and Tames [S_I_0120_30ml_Pc…",
-  "price": 279,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51NWduy1H2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DB841GQM",
-  "buyStore": "Amazon",
-  "title": "Nourish Your Beard with Premium Beard Oil Softens, Conditions, and Tames [S_I_0120_30ml_Pcak of 1]",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "concern:dryness",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "man-matters-b08w8g1j4r",
-  "brand": "Man Matters",
-  "model": "1% Salicylic Acid Oil Control Face & Beard Wash For Men| Fights Acne, & Beard Dandruff| 1%…",
-  "price": 284,
-  "capacityLine": "120 ml",
-  "materialLine": "Salicylic acid (BHA) + Glycolic acid",
-  "featureLine": "Beard wash · ₹237/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹237/100ml",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71rqSKNnouL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08W8G1J4R",
-  "buyStore": "Amazon",
-  "title": "Man Matters 1% Salicylic Acid Oil Control Face & Beard Wash For Men| Fights Acne, & Beard Dandruff| 1% Glycolic Acid | Reduces Excess Oil and Exfoliates Skin Gently | 120 ml",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:beard-wash",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:beard-itch",
-   "aud:men",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "softer-b0d2mz5bcp",
-  "brand": "Softer",
-  "model": "Beard WashBeard Growth And Beard Wash Cleanse 200ml(Pack of 1)",
-  "price": 199,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard wash · ₹100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹100/100ml",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ojQQ4dfML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D2MZ5BCP",
-  "buyStore": "Amazon",
-  "title": "Softer Beard WashBeard Growth And Beard Wash Cleanse 200ml(Pack of 1)",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:kit",
-   "format:beard-wash",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "bsd-b079hpztff",
-  "brand": "BSD",
-  "model": "Organics BeardY natural beard wash grooming liquid - 500 ml",
-  "price": 299,
-  "capacityLine": "500 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard wash · ₹60/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹60/100ml",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61YvEIXld4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B079HPZTFF",
-  "buyStore": "Amazon",
-  "title": "BSD Organics BeardY natural beard wash grooming liquid - 500 ml",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:beard-wash",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "beautyrelay-b09ftb2tzk",
-  "brand": "BEAUTYRELAY",
-  "model": "LONDON Dadhiyal Moustache Wax With Castor Oil & Dadhiyal Beard Wash for Strong Hold 25g, s…",
-  "price": 378,
-  "capacityLine": "25 g",
-  "materialLine": "Castor oil + Dimethicone / silicones",
-  "featureLine": "Body wax · ₹1512/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "25 g",
-   "pricePer100": "₹1512/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Castor oil, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/411guYu+YHL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FTB2TZK",
-  "buyStore": "Amazon",
-  "title": "BEAUTYRELAY LONDON Dadhiyal Moustache Wax With Castor Oil & Dadhiyal Beard Wash for Strong Hold 25g, sharper look, Parabens, sulfates, silicones free (Buy 1 Get 1 Free)",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:wash",
-   "format:wax",
-   "format:beard-wash",
-   "ing:castor-oil",
-   "ing:dimethicone-silicones",
-   "concern:hold",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "all-in-one-b07dfpx3f7",
-  "brand": "All-in-One",
-  "model": "Body Wash for Men ââ‚¬â€œ Shampoo, Body Wash Gel, Conditioner, Face Soap & Beard Wash ââ‚¬…",
-  "price": 2595,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera",
-  "featureLine": "Beard wash",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613cnTZYi3L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07DFPX3F7",
-  "buyStore": "Amazon",
-  "title": "All-in-One Body Wash for Men ââ‚¬â€œ Shampoo, Body Wash Gel, Conditioner, Face Soap & Beard Wash ââ‚¬â€œ Includes Aloe Vera ââ‚¬â€œ Paraben, SLS & DEA Free - Bay Rum Scent ââ‚¬â€œ 8 oz",
-  "tags": [
-   "area:beard",
-   "format:gel",
-   "format:wash",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-wash",
-   "ing:aloe-vera",
-   "aud:men",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b01m8g88e9",
-  "brand": "Unbranded",
-  "model": "Beard Balm - Sandalwood Blend - Rocky Mountain Barber - with Nutrient Rich Bees Wax",
-  "price": 2152,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sandalwood",
-  "featureLine": "Body wax",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Sandalwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/819MYR2125L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01M8G88E9",
-  "buyStore": "Amazon",
-  "title": "Beard Balm - Sandalwood Blend - Rocky Mountain Barber - with Nutrient Rich Bees Wax",
-  "tags": [
-   "area:beard",
-   "format:balm",
-   "format:wax",
-   "format:beard-balm",
-   "ing:sandalwood",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "beautyrelay-b09ftcv7cl",
-  "brand": "BEAUTYRELAY",
-  "model": "LONDON Dadhiyal Beard Butter Balm With Castor Oil (200g) & Dadhiyal Moustache Wax 25g for …",
-  "price": 378,
-  "capacityLine": "200 g",
-  "materialLine": "Castor oil + Dimethicone / silicones",
-  "featureLine": "Body wax · ₹189/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹189/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Castor oil, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41JYLapGNnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FTCV7CL",
-  "buyStore": "Amazon",
-  "title": "BEAUTYRELAY LONDON Dadhiyal Beard Butter Balm With Castor Oil (200g) & Dadhiyal Moustache Wax 25g for Strong Hold sharper look, Parabens, sulfates, silicones free (Buy 1 Get 1 Free)",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:balm",
-   "format:wax",
-   "format:beard-balm",
-   "ing:castor-oil",
-   "ing:dimethicone-silicones",
-   "concern:hold",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "beautyrelay-b09ft89544",
-  "brand": "BEAUTYRELAY",
-  "model": "LONDON Dadhiyal Beard Butter Balm & Beard Wash healthier growth, softener, lightweight, wi…",
-  "price": 444,
-  "capacityLine": "200 g",
-  "materialLine": "Dimethicone / silicones",
-  "featureLine": "Beard wash · ₹222/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹222/100g",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/316YqPkXHmL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FT89544",
-  "buyStore": "Amazon",
-  "title": "BEAUTYRELAY LONDON Dadhiyal Beard Butter Balm & Beard Wash healthier growth, softener, lightweight, with ultimate comfort, Parabens, sulfates, silicones free, 200g, (Buy 1 Get 1 Free)",
-  "tags": [
-   "area:beard",
-   "format:balm",
-   "format:wash",
-   "format:beard-wash",
-   "format:beard-balm",
-   "ing:dimethicone-silicones",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gxpj447p",
-  "brand": "Unbranded",
-  "model": "Beard Softener Cream for Men | Softens, Nourishes & Provides Long-Lasting Care | Advanced …",
-  "price": 299,
-  "capacityLine": "100 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard balm / softener · ₹299/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g × 2 pack",
-   "pricePer100": "₹299/100g",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Dryness / hydration, Shine / gloss, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41DfL1blpnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXPJ447P",
-  "buyStore": "Amazon",
-  "title": "Beard Softener Cream for Men | Softens, Nourishes & Provides Long-Lasting Care | Advanced Beard Care with Essential Oils | Promotes Beard Growth, Reduces Itchiness & Adds Shine (Pack of 2, 50 gm)",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:kit",
-   "format:beard-balm",
-   "concern:scalp-itch",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:men",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0ddc7c5cr",
-  "brand": "Unbranded",
-  "model": "Beard & Moustache Wax For Men|Beard & Mustache Styling|Long Lasting Strong Hold|Non-Sticky…",
-  "price": 279,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body wax · ₹558/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹558/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/813hgbH9TEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DDC7C5CR",
-  "buyStore": "Amazon",
-  "title": "Beard & Moustache Wax For Men|Beard & Mustache Styling|Long Lasting Strong Hold|Non-Sticky (Pack Of 1, 50Gm)",
-  "tags": [
-   "area:beard",
-   "format:kit",
-   "format:wax",
-   "concern:hold",
-   "concern:restyle",
-   "aud:men",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dwk1p6zn",
-  "brand": "Unbranded",
-  "model": "Beard Growth & Conditioning Oil | 15 Natural Oils & Vitamin E | Hydrates, Strengthens & Pr…",
-  "price": 191,
-  "capacityLine": "30 ml",
-  "materialLine": "Vitamin E",
-  "featureLine": "Oil · ₹637/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹637/100ml",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61aTyE+kYnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DWK1P6ZN",
-  "buyStore": "Amazon",
-  "title": "Beard Growth & Conditioning Oil | 15 Natural Oils & Vitamin E | Hydrates, Strengthens & Promotes Fuller Beard – 30ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "ing:vitamin-e",
-   "concern:dryness",
-   "concern:beard-growth",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fcftrfm4",
-  "brand": "Unbranded",
-  "model": "All Natural Beard Oil For Growth | Nourishes Strength |Anti-Dandruff Redensyl, Biotin, and…",
-  "price": 379,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Redensyl + Biotin",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Redensyl, Biotin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "2.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51R6GvBUFeL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FCFTRFM4",
-  "buyStore": "Amazon",
-  "title": "All Natural Beard Oil For Growth | Nourishes Strength |Anti-Dandruff Redensyl, Biotin, and Saw Palmetto",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "ing:redensyl",
-   "ing:biotin",
-   "concern:dandruff",
-   "concern:dryness",
-   "aud:unisex",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b08r5ls9pz",
-  "brand": "Unbranded",
-  "model": "Natural Beard Hair Growth Oil For Men, Nourishes & Strengthens Uneven Patchy Beard (30 ml)…",
-  "price": 179,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹597/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹597/100ml",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71WLSenef4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08R5LS9PZ",
-  "buyStore": "Amazon",
-  "title": "Natural Beard Hair Growth Oil For Men, Nourishes & Strengthens Uneven Patchy Beard (30 ml) Pack Of 1",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:kit",
-   "concern:hair-growth",
-   "concern:dryness",
-   "concern:beard-growth",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h99ftltb",
-  "brand": "Unbranded",
-  "model": "Premium Beard Softener Oil - 100% Pure & Organic for Beard Growth, Itch Relief, and Soften…",
-  "price": 99,
-  "capacityLine": "30 ml",
-  "materialLine": "Almond + Coconut + Olive",
-  "featureLine": "Beard balm / softener · ₹330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹330/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Almond, Coconut, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61x3ZTmD5AL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H99FTLTB",
-  "buyStore": "Amazon",
-  "title": "Premium Beard Softener Oil - 100% Pure & Organic for Beard Growth, Itch Relief, and Softening - Enriched with Coconut, Almond & Olive Oil - 30ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-balm",
-   "ing:almond",
-   "ing:coconut",
-   "ing:olive",
-   "concern:scalp-itch",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dqpdpxwk",
-  "brand": "Unbranded",
-  "model": "Beard Softener | beard softener for men | beard softener oil| beard serum | (Soft, Shine a…",
-  "price": 499,
-  "capacityLine": "60 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard balm / softener · ₹832/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹832/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Shine / gloss, Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41C15MfOu4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQPDPXWK",
-  "buyStore": "Amazon",
-  "title": "Beard Softener | beard softener for men | beard softener oil| beard serum | (Soft, Shine and Growth) - 60ML",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-balm",
-   "concern:shine",
-   "concern:beard-itch",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "smoothen-b0g64sy2t6",
-  "brand": "Smoothen",
-  "model": "Beard Softener Oil, 100% Pure & Certified Organic, Coconut Oil, Almond Oil & Olive Oil, 30…",
-  "price": 229,
-  "capacityLine": "30 ml",
-  "materialLine": "Almond + Coconut + Olive",
-  "featureLine": "Beard balm / softener · ₹763/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹763/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Almond, Coconut, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening, Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Y7jR7ub9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G64SY2T6",
-  "buyStore": "Amazon",
-  "title": "Smoothen Beard Softener Oil, 100% Pure & Certified Organic, Coconut Oil, Almond Oil & Olive Oil, 30ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-balm",
-   "ing:almond",
-   "ing:coconut",
-   "ing:olive",
-   "concern:smoothing",
-   "concern:beard-itch",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0d8bwb2dr",
-  "brand": "Unbranded",
-  "model": "Beard Nourishment Oil for Men | 30ml with Tea Tree & Argan Oil | Beard Softener & Moisturi…",
-  "price": 179,
-  "capacityLine": "30 ml",
-  "materialLine": "Tea tree + Argan oil",
-  "featureLine": "Beard balm / softener · ₹597/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹597/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Tea tree, Argan oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Restylable / no flakes, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61lRRkoujaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D8BWB2DR",
-  "buyStore": "Amazon",
-  "title": "Beard Nourishment Oil for Men | 30ml with Tea Tree & Argan Oil | Beard Softener & Moisturizer | Non-Sticky, Cooling Formula | Promotes Beard Growth & Strength | Daily Use Beard Care Oil",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-balm",
-   "ing:tea-tree",
-   "ing:argan-oil",
-   "concern:dryness",
-   "concern:restyle",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:men",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0grmlv7xm",
-  "brand": "Unbranded",
-  "model": "Beard Grooming Combo Beard Softener Cream and Beard Oil for Men Daily Beard Care Routine S…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Shine / gloss, Beard growth (claim), Beard itch / beardruff / softening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51FxLHaE0hL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRMLV7XM",
-  "buyStore": "Amazon",
-  "title": "Beard Grooming Combo Beard Softener Cream and Beard Oil for Men Daily Beard Care Routine Set |Purifying & Hydrating Skin for Oil| Shiny Patchy & Fast Beard Growth",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:kit",
-   "format:beard-oil",
-   "format:beard-balm",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "concern:beard-itch",
-   "aud:men",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dvzj3886",
-  "brand": "Unbranded",
-  "model": "Hair & Beard Repair Shampoo Bar | Black Soap Formula to Strengthen Hair Strands, Restore S…",
-  "price": 699,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foam / mousse",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foam / mousse",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/511HaG0-30L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DVZJ3886",
-  "buyStore": "Amazon",
-  "title": "Hair & Beard Repair Shampoo Bar | Black Soap Formula to Strengthen Hair Strands, Restore Shine & Repair Damage with Gentle Foaming Cleanse",
-  "tags": [
-   "area:beard",
-   "format:foam",
-   "format:shampoo",
-   "concern:damage-repair",
-   "concern:shine",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dfy9qltc",
-  "brand": "Unbranded",
-  "model": "Beard Wash Shampoo for Man & Women - 200 Ml (Pack of 3)",
-  "price": 1050,
-  "capacityLine": "600 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard wash · ₹175/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 3 pack",
-   "pricePer100": "₹175/100ml",
-   "format": "Beard wash",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/711MEyGfEgL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DFY9QLTC",
-  "buyStore": "Amazon",
-  "title": "Beard Wash Shampoo for Man & Women - 200 Ml (Pack of 3)",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "format:beard-wash",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gmwjkttn",
-  "brand": "Unbranded",
-  "model": "Black Soap Shampoo Bar for Hair & Beard, Herbal Scent, Sulfate-free, Deep Cleansing Moistu…",
-  "price": 349,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Wash / cleanser · ₹698/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹698/100g",
-   "format": "Wash / cleanser",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/512QElpTqyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GMWJKTTN",
-  "buyStore": "Amazon",
-  "title": "Black Soap Shampoo Bar for Hair & Beard, Herbal Scent, Sulfate-free, Deep Cleansing Moisturizing, 50g, All Skin Types (2)",
-  "tags": [
-   "area:beard",
-   "format:wash",
-   "format:shampoo",
-   "concern:dryness",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "braavoking-b0bqrdlpwl",
-  "brand": "BRAAVOKING",
-  "model": "MEN Combo of Beard Growth Oil Advanced for Men(50ml)+Shampoo with Active Conditioner(200ml…",
-  "price": 1258,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹2516/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹2516/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Damage repair, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51WZL-Pg75L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BQRDLPWL",
-  "buyStore": "Amazon",
-  "title": "BRAAVOKING MEN Combo of Beard Growth Oil Advanced for Men(50ml)+Shampoo with Active Conditioner(200ml), Best Beard Oil for Patchy and Uneven Beard | Deep Conditions Damaged Hair for Men[Free Kitchain]",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:beard-oil",
-   "concern:scalp-itch",
-   "concern:damage-repair",
-   "concern:beard-growth",
-   "hair:damaged",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "gabru-b0fy2tymjw",
-  "brand": "Gabru",
-  "model": "Beard & Mooch Original Wax for Men | 25g | Pack Of 1",
-  "price": 100,
-  "capacityLine": "25 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body wax · ₹400/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "25 g",
-   "pricePer100": "₹400/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Vm7EM9qkL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FY2TYMJW",
-  "buyStore": "Amazon",
-  "title": "Gabru Beard & Mooch Original Wax for Men | 25g | Pack Of 1",
-  "tags": [
-   "area:beard",
-   "format:kit",
-   "format:wax",
-   "aud:men",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dqcxb9hm",
-  "brand": "Unbranded",
-  "model": "ALL MAN Fuzz Fixer Beard Styling Paste, Strong Hold Cream Wax, With Mango Butter & Milk Pr…",
-  "price": 367,
-  "capacityLine": "50 g",
-  "materialLine": "Milk",
-  "featureLine": "Body wax · ₹734/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹734/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51nsKc+PipL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQCXB9HM",
-  "buyStore": "Amazon",
-  "title": "ALL MAN Fuzz Fixer Beard Styling Paste, Strong Hold Cream Wax, With Mango Butter & Milk Protein for Strong Hair | 50g",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:balm",
-   "format:wax",
-   "format:paste",
-   "ing:milk",
-   "concern:hold",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hdhrjsyg",
-  "brand": "Unbranded",
-  "model": "Hair & Beard Wax | Smooth Hold Wax | Long-Lasting Style & Natural Finish | 50G",
-  "price": 399,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body wax · ₹798/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹798/100g",
-   "format": "Body wax",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening, Hold (styling), Matte finish (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/519n4x-p3ML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDHRJSYG",
-  "buyStore": "Amazon",
-  "title": "Hair & Beard Wax | Smooth Hold Wax | Long-Lasting Style & Natural Finish | 50G",
-  "tags": [
-   "area:beard",
-   "format:wax",
-   "format:beard-balm",
-   "concern:smoothing",
-   "concern:hold",
-   "concern:matte-finish",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cedarwood-b0hbl7p4tj",
-  "brand": "Cedarwood",
-  "model": "Beard Oil Serum for Men, 15ml | Promotes Beard Growth, Reduces Dryness & Itch, Adds Natura…",
-  "price": 299,
-  "capacityLine": "15 ml",
-  "materialLine": "Cedarwood",
-  "featureLine": "Beard oil · ₹1993/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹1993/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Cedarwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Dryness / hydration, Shine / gloss, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51mH5gKBzFL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBL7P4TJ",
-  "buyStore": "Amazon",
-  "title": "Cedarwood Beard Oil Serum for Men, 15ml | Promotes Beard Growth, Reduces Dryness & Itch, Adds Natural Shine, 100% Natural & Vegan, Nourish & Strengthen",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:beard-oil",
-   "ing:cedarwood",
-   "concern:scalp-itch",
-   "concern:dryness",
-   "concern:shine",
-   "concern:beard-growth",
-   "free:vegan",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h7wrf1zs",
-  "brand": "Unbranded",
-  "model": "Beard Growth Serum for Men, 30 ml | Argan Oil & Cedarwood Oil, Promotes Thicker, Fuller & …",
-  "price": 395,
-  "capacityLine": "30 ml",
-  "materialLine": "Argan oil + Cedarwood",
-  "featureLine": "Serum · ₹1317/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1317/100ml",
-   "format": "Serum",
-   "appliesTo": "Beard",
-   "keyIngredients": "Argan oil, Cedarwood (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81ZqFreiqXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7WRF1ZS",
-  "buyStore": "Amazon",
-  "title": "Beard Growth Serum for Men, 30 ml | Argan Oil & Cedarwood Oil, Promotes Thicker, Fuller & Healthier Beard, Nourishes Beard Hair, Moisturizes Skin",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "ing:argan-oil",
-   "ing:cedarwood",
-   "concern:dryness",
-   "concern:beard-growth",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "urbanmooch-b07j2mrff4",
-  "brand": "UrbanMooch",
-  "model": "Beard Growth Serum & Hair Growth Serum 50Ml For Faster Hair Growth",
-  "price": 197,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹394/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹394/100ml",
-   "format": "Serum",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61LANeJqflL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07J2MRFF4",
-  "buyStore": "Amazon",
-  "title": "UrbanMooch Beard Growth Serum & Hair Growth Serum 50Ml For Faster Hair Growth",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "concern:hair-growth",
-   "concern:beard-growth",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "park-daniel-b07v9vdgh3",
-  "brand": "Park Daniel",
-  "model": "Beard Serum For Beard Growth with Argan and Almond oil 60 ML (Pack of 3)",
-  "price": 478,
-  "capacityLine": "180 ml (pack of 3)",
-  "materialLine": "Almond + Argan oil",
-  "featureLine": "Beard balm / softener · ₹266/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 ml × 3 pack",
-   "pricePer100": "₹266/100ml",
-   "format": "Beard balm / softener",
-   "appliesTo": "Beard",
-   "keyIngredients": "Almond, Argan oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71mNn6y7R8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07V9VDGH3",
-  "buyStore": "Amazon",
-  "title": "Park Daniel Beard Serum For Beard Growth with Argan and Almond oil 60 ML (Pack of 3)",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "format:beard-balm",
-   "ing:almond",
-   "ing:argan-oil",
-   "concern:beard-growth",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "bluewell-b0gqmfxjvs",
-  "brand": "Bluewell",
-  "model": "Beard Growth Oil for Men with Anagain, Aminexil & Rosemary Extract | Beard Care Serum for …",
-  "price": 199,
-  "capacityLine": "30 ml",
-  "materialLine": "Anagain + Rosemary",
-  "featureLine": "Beard oil · ₹663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹663/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Anagain, Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51djEKKgV6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GQMFXJVS",
-  "buyStore": "Amazon",
-  "title": "BLUEWELL Beard Growth Oil for Men with Anagain, Aminexil & Rosemary Extract | Beard Care Serum for Patchy Beard, Thicker Fuller Look, Reduces Frizz, Nourishes Roots and Improves Texture | 30 ml",
-  "tags": [
-   "area:beard",
-   "format:serum",
-   "format:oil",
-   "format:texture-spray",
-   "format:beard-oil",
-   "ing:anagain",
-   "ing:rosemary",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:beard-growth",
-   "aud:men",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dtkd1rk9",
-  "brand": "Unbranded",
-  "model": "Amazing Earth Organic Beard and Moustache Cream, Softening and Growth-Enhancing Formula wi…",
-  "price": 523,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Olive",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61vzcgwQyNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DTKD1RK9",
-  "buyStore": "Amazon",
-  "title": "Amazing Earth Organic Beard and Moustache Cream, Softening and Growth-Enhancing Formula with Olive Oil Pack of 2",
-  "tags": [
-   "area:beard",
-   "format:cream",
-   "format:oil",
-   "format:kit",
-   "ing:olive",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0c72qgg7b",
-  "brand": "Unbranded",
-  "model": "Beard Oil for men - Daily Repair Hemp Beard Oil | Non-Sticky, Light; Hemp Seed Oil for Shi…",
-  "price": 140,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Beard oil · ₹280/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹280/100ml",
-   "format": "Beard oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration, Shine / gloss, Restylable / no flakes, Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71D2apd796L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C72QGG7B",
-  "buyStore": "Amazon",
-  "title": "Beard Oil for men - Daily Repair Hemp Beard Oil | Non-Sticky, Light; Hemp Seed Oil for Shiny Nourished Beards | Promotes Beard Growth, 50 ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "format:beard-oil",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:shine",
-   "concern:restyle",
-   "concern:beard-growth",
-   "aud:men",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "preveda-b07vj639r5",
-  "brand": "PreVeda�",
-  "model": "Best Beard Growth LITE Hair Oil with Rosemary & Jojoba Oil Herbal, Natural, Premium Oil Fo…",
-  "price": 581,
-  "capacityLine": "100 ml",
-  "materialLine": "Jojoba + Rosemary",
-  "featureLine": "Oil · ₹581/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹581/100ml",
-   "format": "Oil",
-   "appliesTo": "Beard",
-   "keyIngredients": "Jojoba, Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Beard growth (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/417DCtSo7eL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07VJ639R5",
-  "buyStore": "Amazon",
-  "title": "PreVeda� Best Beard Growth LITE Hair Oil with Rosemary & Jojoba Oil Herbal, Natural, Premium Oil For Beard & Mustache, Pure Organic Oil | Khadi Product 100 ml",
-  "tags": [
-   "area:beard",
-   "format:oil",
-   "ing:jojoba",
-   "ing:rosemary",
-   "concern:beard-growth",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  }
 ];

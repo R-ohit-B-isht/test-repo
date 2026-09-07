@@ -16,6 +16,7 @@ import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/bench
 
 const require = createRequire(import.meta.url);
 const { GROUPS, labelFor } = require('./lib/facets.cjs');
+const { CONCERNS } = require('./lib/concerns.cjs');
 const { SOURCES } = require('./lib/inci-kb.cjs');
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -71,6 +72,7 @@ const manifest = {
   routineCategoryLabels: ROUTINE_CATEGORY_LABELS,
   zoneLabels: ZONE_LABELS,
   groups: GROUPS,
+  concerns: CONCERNS.map(([id, label]) => ({ id, label })),
   sources: SOURCES,
   phases: PHASES,
   shards: SHARDS,
@@ -128,6 +130,7 @@ for (const cat of CATEGORIES) {
   manifest.categories.push({
     id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets, scopeGroup,
     featured: cat.featured.filter((tag) => tagCount.has(tag)), count: items.length, byScope,
+    byConcern: Object.fromEntries([...tagCount.entries()].filter(([tag]) => tag.startsWith('target:')).map(([tag, n]) => [tag.slice(7), n])),
     stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
     priceMax: Math.max(...items.map((x) => x.p)),
   });

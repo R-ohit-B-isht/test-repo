@@ -723,6 +723,28 @@ const BENCHMARKS = [
     match: { brand: 'the ordinary|ordinary', model: '^(?!.*\\b(?:combo|set|kit|lash|brow|eye|hair)\\b).*(?:multi.?peptide.*copper|buffet.*copper|copper peptides? 1%)', note: 'Multi-Peptide + HA Serum (the copper-free “Buffet”) and the Multi-Peptide Eye / Lash & Brow / Hair serums are different formulas and are not counted.' },
   },
   {
+    category: 'calmserum',
+    brand: 'Purito Seoul',
+    name: 'Wonder Releaf Centella Serum Unscented',
+    variant: 'Centella asiatica extract 34,860 ppm + madecassoside / asiaticoside / madecassic & asiatic acid, niacinamide, panthenol, ceramide NP · 60 ml',
+    maker: { label: 'purito.com', url: 'https://purito.com/product/wonder-releaf-centella-serum-unscented/' },
+    image: { url: 'https://purito.com/wp-content/uploads/2024/02/centella_serum_unscented-slide-01-x2.jpg', source: 'Purito Seoul product page slide 1 (1804×1804)' },
+    why: 'The calming serum that discloses the most and hides the least: the four purified centella triterpenes (madecassoside, asiaticoside, madecassic and asiatic acid) that carry the published wound-healing and anti-inflammatory evidence, the extract dose stated in ppm, panthenol and ceramide NP for the barrier, niacinamide at a modest position — and no fragrance, no essential oils, no denatured alcohol. Full INCI on the maker page.',
+    facts: [
+      { k: 'Format', v: 'Water-based leave-on serum, unscented (no synthetic fragrance, no essential oils), no alcohol denat. (per maker INCI)' },
+      { k: 'Declared formula', v: 'Water, glycerin, dipropylene glycol, propanediol, Centella asiatica extract (34,860 ppm), butylene glycol, niacinamide, 1,2-hexanediol, sodium hyaluronate, panthenol, madecassoside, asiaticoside, madecassic acid, asiatic acid, … allantoin, palmitoyl tetrapeptide-7, … dipotassium glycyrrhizate, adenosine, … ceramide NP (per maker INCI)' },
+      { k: 'Fit', v: 'Reactive, red, acne-prone or barrier-compromised skin; unscented version chosen over the original for sensitivity (per maker)' },
+    ],
+    evidence: [
+      { label: 'Centella asiatica in cosmetology (triterpenes, wound healing, anti-inflammatory action)', publisher: 'Bylka et al. 2013, Adv Dermatol Allergol', url: 'https://doi.org/10.5114/pdia.2013.33378' },
+      { label: 'Pharmacological review on Centella asiatica', publisher: 'Gohil et al. 2010, Indian J Pharm Sci', url: 'https://doi.org/10.4103/0250-474X.78519' },
+      { label: 'Topical use of dexpanthenol: a 70th anniversary article', publisher: 'Proksch et al. 2017, J Dermatolog Treat', url: 'https://doi.org/10.1080/09546634.2017.1325310' },
+      { label: 'Manufacturer product page (full INCI)', publisher: 'Purito Seoul', url: 'https://purito.com/product/wonder-releaf-centella-serum-unscented/' },
+    ],
+    caution: 'Most centella evidence is on wound healing and in-vitro anti-inflammatory activity, or on purified TECA rather than finished cosmetics; "calming" is a real but modest effect. La Roche-Posay Cicaplast B5 Serum was considered and set aside because its INCI puts alcohol denat. fourth.',
+    match: { brand: 'purito', model: '^(?!.*\\b(?:combo|set|kit|toner|cream|cleanser|mini|travel|sample|\\d+\\s*(?:x|pcs?|pack))\\b)(?=.*\\bunscented\\b).*centella.*serum', note: 'Only the Wonder Releaf Centella Serum Unscented is counted; the scented original is a different formula and is not counted, nor are the toner, cream, mini kit or bundles.' },
+  },
+  {
     category: 'azelaic',
     brand: 'Paula\'s Choice',
     name: '10% Azelaic Acid Booster',

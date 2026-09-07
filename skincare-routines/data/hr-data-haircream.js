@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -177,6 +177,7 @@ const HAIRPRODUCTS = [
    "format:leave-in",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:shea-butter",
@@ -1551,7 +1552,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition, Heat protection, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -1590,6 +1591,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:detangling",
    "hair:curly",
    "hair:damaged",
    "hair:coloured",
@@ -1738,6 +1740,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1745,6 +1748,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1752,6 +1756,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1759,6 +1764,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1766,6 +1772,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1773,6 +1780,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1780,6 +1788,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1787,6 +1796,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -1926,6 +1936,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1933,6 +1944,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1940,6 +1952,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1947,6 +1960,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -2232,7 +2246,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Damaged hair",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -2266,6 +2280,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:damaged",
@@ -2340,7 +2355,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹367/100ml",
    "format": "Leave-in",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Collagen, Almond, Witch hazel, Argan oil, Sea buckthorn, Olive, Rosemary, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Collagen, Almond, Witch hazel, Argan oil, Sea buckthorn, Olive, Sea salt, Chamomile, Rosemary, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Itchy scalp, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -2380,6 +2395,8 @@ const HAIRPRODUCTS = [
    "ing:argan-oil",
    "ing:sea-buckthorn",
    "ing:olive",
+   "ing:sea-salt",
+   "ing:chamomile",
    "ing:rosemary",
    "ing:hydrolysed-protein",
    "concern:scalp-itch",
@@ -2458,7 +2475,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹17/100ml",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Rosemary, Onion, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Argan oil, Rosemary, Onion, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -2499,6 +2516,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:frizz",
    "concern:damage-repair",
@@ -2950,6 +2968,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:titanium-dioxide",
    "ing:rosemary",
    "ing:amla",
@@ -3636,6 +3655,7 @@ const HAIRPRODUCTS = [
    "format:leave-in",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:collagen",
@@ -5645,6 +5665,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -5652,6 +5673,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -5742,6 +5764,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:leave-in",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "ing:biotin",
@@ -5826,7 +5849,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Curl definition, Hold (styling) (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Curl definition, Hold (styling), Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -5861,6 +5884,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:curl-definition",
    "concern:hold",
+   "concern:humidity",
    "hair:curly",
    "hair:all",
    "free:paraben",
@@ -5943,7 +5967,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -5983,6 +6007,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -6413,7 +6438,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹69/100ml",
    "format": "Leave-in",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -6460,6 +6485,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:batana-oil",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -6504,6 +6530,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -6511,6 +6538,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6518,6 +6546,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6525,6 +6554,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6532,6 +6562,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -6539,6 +6570,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -7046,7 +7078,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm527c32bcbce29",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Curl Care for Men Moisture Lock Hair Cream",
   "price": 223,
   "capacityLine": "200 ml",
@@ -7155,7 +7187,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmb87dd82ef73a7",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Curl Care for Home Use Anti Frizz Care Hair Cream",
   "price": 223,
   "capacityLine": "200 ml",
@@ -7264,7 +7296,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmc1f31e54904c6",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Smooth Curls for Wavy Hair Hair Styling Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -7523,7 +7555,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -7560,6 +7592,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:dryness",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -7735,7 +7768,7 @@ const HAIRPRODUCTS = [
   "model": "Argan For Daily Hair Styling | Brahmi, Lavender & Rosemary Hair Cream",
   "price": 207,
   "capacityLine": "100 g",
-  "materialLine": "Argan oil + Rosemary + Hibiscus",
+  "materialLine": "Argan oil + Lavender + Rosemary",
   "featureLine": "Cream · ₹207/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -7754,7 +7787,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹207/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Rosemary, Hibiscus, Brahmi, Fenugreek, Henna (named on listing)",
+   "keyIngredients": "Argan oil, Lavender, Rosemary, Hibiscus, Brahmi, Fenugreek, Henna (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Dryness / hydration, Curl definition (seller claim — not clinical proof)",
@@ -7787,6 +7820,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:oil",
    "ing:argan-oil",
+   "ing:lavender",
    "ing:rosemary",
    "ing:hibiscus",
    "ing:brahmi",
@@ -8238,7 +8272,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Glycerin, Rosemary, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Smoothing / straightening, Curl definition, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -8274,6 +8308,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:smoothing",
    "concern:curl-definition",
+   "concern:humidity",
    "hair:curly",
    "hair:wavy",
    "hair:all",
@@ -8350,7 +8385,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -8389,6 +8424,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -8465,7 +8501,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹196/100g",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -8503,6 +8539,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:dryness",
    "concern:shine",
@@ -9031,7 +9068,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -9060,6 +9097,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:leave-in",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "aud:kids",
    "size:xl",
@@ -10240,7 +10278,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmcb0a30a0e5eb3",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Defined Waves for Dry Hair Hair Nourishing Care Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -10520,6 +10558,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:leave-in",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -10589,7 +10628,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm263cd4fd4f170",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Curl Care for Dry Hair Curl Enhancing Care Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -10702,7 +10741,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmc54128f1fd58b",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Anti Frizz Curl Defining Cream for Wavy & Curly Hair with Shine Care Hair Cream",
   "price": 116,
   "capacityLine": "600 ml",
@@ -10817,7 +10856,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm292deb6ac791a",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Curl Repair for Curly Hair Moisture Lock Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -11072,7 +11111,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Argan oil, Coconut, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, Straight hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -11115,6 +11154,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:curl-definition",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:curly",
    "hair:straight",
    "hair:damaged",
@@ -11530,6 +11571,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:leave-in",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:cocoa-butter",
@@ -12900,7 +12942,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹80/100ml",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Castor oil, Keratin, Batana oil (named on listing)",
+   "keyIngredients": "Castor oil, Keratin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Curl definition (seller claim — not clinical proof)",
@@ -12934,6 +12976,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "ing:keratin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:dryness",
    "concern:curl-definition",
@@ -13091,7 +13134,7 @@ const HAIRPRODUCTS = [
   "model": "Curl Cream Hair Cream",
   "price": 495,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Rice water + Avocado + Amino acids",
+  "materialLine": "Rice water + Avocado + Lavender",
   "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -13110,7 +13153,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rice water, Avocado, Amino acids, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Rice water, Avocado, Lavender, Amino acids, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
@@ -13145,6 +13188,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:rice-water",
    "ing:avocado",
+   "ing:lavender",
    "ing:amino-acids",
    "ing:dimethicone-silicones",
    "concern:frizz",
@@ -13425,6 +13469,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13432,6 +13477,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13439,6 +13485,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -13727,7 +13774,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Restylable / no flakes, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -13764,6 +13811,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:all",
@@ -14200,7 +14249,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹68/100ml",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -14243,6 +14292,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:batana-oil",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -14286,6 +14336,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -14293,6 +14344,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14300,6 +14352,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14307,6 +14360,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14314,6 +14368,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -14321,6 +14376,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -15281,7 +15337,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
@@ -15318,6 +15374,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
@@ -15927,7 +15984,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Heat protection, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -15966,6 +16023,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:curl-definition",
    "concern:heat-protection",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -16610,7 +16669,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹100/100ml",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition (seller claim — not clinical proof)",
@@ -16649,6 +16708,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
@@ -17915,7 +17975,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Frizz control, Dryness / hydration, Shine / gloss, Volume / body, Curl definition, Premature greying (claim), Heat protection, Hold (styling) (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair growth (claim), Frizz control, Dryness / hydration, Shine / gloss, Volume / body, Curl definition, Premature greying (claim), Heat protection, Hold (styling), Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for men",
@@ -17949,6 +18009,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:heat-protectant",
    "format:wax",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:hair-growth",
    "concern:frizz",
@@ -17959,6 +18020,7 @@ const HAIRPRODUCTS = [
    "concern:greying",
    "concern:heat-protection",
    "concern:hold",
+   "concern:beard-growth",
    "hair:dry",
    "hair:curly",
    "hair:all",
@@ -19108,7 +19170,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹90/100g",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Petrolatum, Tea tree, Vitamin E, Coconut, Mineral oil, Rosemary, Keratin, Sesame oil (named on listing)",
+   "keyIngredients": "Petrolatum, Tea tree, Vitamin E, Coconut, Mineral oil, Rosemary, Keratin, Sesame oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
@@ -19149,6 +19211,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:keratin",
    "ing:sesame-oil",
+   "ing:peppermint-menthol",
    "concern:hair-growth",
    "concern:dryness",
    "concern:shine",
@@ -19522,6 +19585,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -19529,6 +19593,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19536,6 +19601,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -19543,6 +19609,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19550,6 +19617,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -19557,6 +19625,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19564,6 +19633,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19571,6 +19641,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -19714,6 +19785,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -19721,6 +19793,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19728,6 +19801,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -19735,6 +19809,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19742,6 +19817,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -19749,6 +19825,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19756,6 +19833,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19763,6 +19841,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -20057,7 +20136,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Damage repair (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Damage repair, Beard itch / beardruff / softening (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for men",
@@ -20085,8 +20164,10 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:cream",
+   "format:beard-balm",
    "concern:hair-growth",
    "concern:damage-repair",
+   "concern:beard-itch",
    "hair:all",
    "free:vegan",
    "aud:men",
@@ -20607,7 +20688,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Beard itch / beardruff / softening (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for men",
@@ -20637,6 +20718,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:paste",
    "format:texture-spray",
+   "format:beard-balm",
    "concern:hair-growth",
    "concern:thinning",
    "concern:frizz",
@@ -20646,6 +20728,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:beard-itch",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -20977,6 +21060,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -21204,6 +21288,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:shampoo",
    "format:wax",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:keratin",
    "concern:thinning",
@@ -21707,7 +21792,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm4f78dd325a11e",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream for Curly Hair | Frizz Control & Soft Bouncy Curls Hair Cream",
   "price": 116,
   "capacityLine": "200 ml",
@@ -24709,7 +24794,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -24749,6 +24834,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -25048,7 +25134,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Dryness / hydration, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Dryness / hydration, Curl definition, Absorbs oil / between washes, Detangling (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -25079,6 +25165,8 @@ const HAIRPRODUCTS = [
    "concern:oily-scalp",
    "concern:dryness",
    "concern:curl-definition",
+   "concern:oil-absorbing",
+   "concern:detangling",
    "hair:oily",
    "hair:curly",
    "hair:all",
@@ -25485,7 +25573,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹191/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -25529,6 +25617,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:batana-oil",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -25573,6 +25662,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -25580,6 +25670,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -25587,6 +25678,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -25594,6 +25686,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -25601,6 +25694,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -25608,6 +25702,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -26130,7 +26225,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹79/100ml",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -26177,6 +26272,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:batana-oil",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -26222,6 +26318,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -26229,6 +26326,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -26236,6 +26334,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26243,6 +26342,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -26250,6 +26350,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -26257,6 +26358,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -26658,7 +26760,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹83/100ml",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Glycerin, Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Glycerin, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
@@ -26697,6 +26799,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -26866,7 +26969,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Mint Hair Butter Conditioning Cream for Smooth Soft Hair Texture",
   "price": 183,
   "capacityLine": "100 g",
-  "materialLine": "Rosemary + Keratin",
+  "materialLine": "Rosemary + Keratin + Peppermint / menthol",
   "featureLine": "Cream · ₹183/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -26886,7 +26989,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹183/100g",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Keratin (named on listing)",
+   "keyIngredients": "Rosemary, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -26924,6 +27027,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:rosemary",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:damage-repair",
@@ -27003,7 +27107,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, Thick / coarse hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -27043,6 +27147,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:thick",
@@ -27312,7 +27417,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Mint Hair Butter Hair Softening Cream Smooth Texture Care Use",
   "price": 183,
   "capacityLine": "200 g",
-  "materialLine": "Rosemary + Keratin",
+  "materialLine": "Rosemary + Keratin + Peppermint / menthol",
   "featureLine": "Cream · ₹92/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -27332,7 +27437,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹92/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Keratin (named on listing)",
+   "keyIngredients": "Rosemary, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Smoothing / straightening (seller claim — not clinical proof)",
@@ -27368,6 +27473,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:rosemary",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:frizz",
@@ -28363,6 +28469,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:kit",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:almond",
    "ing:milk",
@@ -28566,7 +28673,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹99/100ml",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
@@ -28604,6 +28711,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
@@ -29505,6 +29613,7 @@ const HAIRPRODUCTS = [
    "format:foam",
    "format:kit",
    "format:wax",
+   "format:keratin-treatment",
    "concern:smoothing",
    "concern:curl-definition",
    "hair:curly",
@@ -29806,7 +29915,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Argan oil, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -29846,6 +29955,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -29926,7 +30036,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Argan oil, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -29966,6 +30076,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -30079,6 +30190,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:bhringraj",
    "ing:amla",
@@ -30163,7 +30275,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Smoothing / straightening, Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -30193,6 +30305,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "concern:smoothing",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "hair:all",
    "aud:women",
@@ -30267,7 +30380,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -30308,6 +30421,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -30387,7 +30501,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -30427,6 +30541,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -30483,7 +30598,7 @@ const HAIRPRODUCTS = [
   "model": "Cream For Curly hair & moisturizer Hair and long term shayning hair (250 ml) Hair Cream",
   "price": 233,
   "capacityLine": "250 ml",
-  "materialLine": "Zinc + Rosemary + Castor oil",
+  "materialLine": "Zinc + Magnesium + Rosemary",
   "featureLine": "Cream · ₹93/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -30503,7 +30618,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹93/100ml",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Rosemary, Castor oil, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Zinc, Magnesium, Rosemary, Castor oil, Biotin, Batana oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Damage repair, Dryness / hydration, Curl definition, Premature greying (claim) (seller claim — not clinical proof)",
@@ -30537,6 +30652,7 @@ const HAIRPRODUCTS = [
    "format:stick",
    "format:oil",
    "ing:zinc",
+   "ing:magnesium",
    "ing:rosemary",
    "ing:castor-oil",
    "ing:biotin",
@@ -31898,7 +32014,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf6ba1bcc3846e",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Healthy Looking Curls for Men Deep Hydration Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -32241,7 +32357,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm71a5a2adb2742",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Bouncy Curls for Dry Hair Professional Styling Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -32380,7 +32496,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹191/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Glycerin, Coconut, Rosemary, Castor oil, Keratin, Biotin, Batana oil, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Matte finish (seller claim — not clinical proof)",
@@ -32425,6 +32541,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:batana-oil",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -32470,6 +32587,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -32477,6 +32595,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32484,6 +32603,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -32491,6 +32611,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32498,6 +32619,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -32505,6 +32627,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -32990,6 +33113,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32997,6 +33121,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -33004,6 +33129,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -33011,6 +33137,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -33018,6 +33145,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -33025,6 +33153,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -33032,6 +33161,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -34696,7 +34826,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹72/100ml",
    "format": "Cream",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Glycerin, Rosemary, Castor oil, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Glycerin, Rosemary, Castor oil, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
@@ -34736,6 +34866,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:damage-repair",
@@ -36100,7 +36231,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹66/100g",
    "format": "Butter",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Collagen, Rice water, Rosemary, Castor oil, Keratin, Biotin (named on listing)",
+   "keyIngredients": "Collagen, Rice water, Rosemary, Castor oil, Keratin, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening (seller claim — not clinical proof)",
@@ -36142,6 +36273,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "ing:keratin",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -36217,7 +36349,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹192/100g",
    "format": "Butter",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rose, Rosemary, Castor oil, Keratin, Biotin (named on listing)",
+   "keyIngredients": "Rose, Rosemary, Castor oil, Keratin, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Smoothing / straightening (seller claim — not clinical proof)",
@@ -36257,6 +36389,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "ing:keratin",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:frizz",
    "concern:damage-repair",
    "concern:smoothing",
@@ -37533,7 +37666,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -37572,6 +37705,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -37754,7 +37888,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -37795,6 +37929,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -38109,7 +38244,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Hold (styling), Restylable / no flakes, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Straight hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -38150,6 +38285,7 @@ const HAIRPRODUCTS = [
    "concern:curl-definition",
    "concern:hold",
    "concern:restyle",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -38406,6 +38542,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -38413,6 +38550,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38420,6 +38558,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -38427,6 +38566,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -38434,6 +38574,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -39237,7 +39378,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itm8438df3a9e2bb",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Smooth Curls for All Hair Types Hair Styling Hair Cream",
   "price": 222,
   "capacityLine": "200 ml",
@@ -39454,7 +39595,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmc58188ea9e4c3",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Curl Defining Cream 200ml Soft Curls for Dry Hair Daily Hair Care Hair Cream",
   "price": 220,
   "capacityLine": "200 ml",
@@ -39932,10 +40073,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹113/100g",
    "format": "Butter",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Biotin (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Damage repair, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Damage repair, Smoothing / straightening, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -39968,9 +40109,11 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:castor-oil",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:damage-repair",
    "concern:smoothing",
+   "concern:beard-growth",
    "hair:damaged",
    "aud:women",
    "size:large",
@@ -40021,7 +40164,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Mint Hair Butter Hair Cream Soft Texture Smooth Hair Support",
   "price": 183,
   "capacityLine": "100 g",
-  "materialLine": "Rosemary + Keratin",
+  "materialLine": "Rosemary + Keratin + Peppermint / menthol",
   "featureLine": "Cream · ₹183/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -40041,7 +40184,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹183/100g",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Keratin (named on listing)",
+   "keyIngredients": "Rosemary, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -40078,6 +40221,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:rosemary",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:damage-repair",
@@ -40405,6 +40549,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:aha",
    "ing:keratin",
    "concern:damage-repair",
@@ -40521,6 +40666,7 @@ const HAIRPRODUCTS = [
    "format:stick",
    "format:kit",
    "format:wax",
+   "format:hair-perfume",
    "ing:rosemary",
    "concern:dandruff",
    "hair:all",
@@ -42242,7 +42388,7 @@ const HAIRPRODUCTS = [
   "model": "Apricot Fructis Sleek & Shine Intensely Smooth Leave-In Conditioning Cream For Dry Hair, 1…",
   "price": 1204,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Apricot",
   "featureLine": "Leave-in",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -42260,7 +42406,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Apricot (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -42288,6 +42434,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:cream",
    "format:leave-in",
+   "ing:apricot",
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
@@ -42461,7 +42608,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹280/100ml",
    "format": "Leave-in",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aloe vera, Shea butter, Argan oil (named on listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Argan oil, Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration, Curl definition (seller claim — not clinical proof)",
@@ -42494,6 +42641,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:argan-oil",
+   "ing:chamomile",
    "concern:dryness",
    "concern:curl-definition",
    "hair:curly",
@@ -42984,7 +43132,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Colloidal oatmeal, Aloe vera (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Curl definition, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -43013,6 +43161,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "concern:frizz",
    "concern:curl-definition",
+   "concern:humidity",
    "hair:curly",
    "hair:wavy",
    "free:paraben",
@@ -43690,7 +43839,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Jojoba, Mineral oil, Hydrolysed protein (named on listing)",
    "freeFrom": "Silicone-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -43731,6 +43880,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:shine",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:all",
    "free:silicone",
@@ -44412,7 +44562,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Shea butter, Argan oil, Coconut (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Shine / gloss, Curl definition, Restylable / no flakes, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -44455,6 +44605,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:curly",
    "hair:wavy",
    "hair:coloured",
@@ -44625,7 +44777,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Shea butter, Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Textured / afro hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -44668,6 +44820,8 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -45055,7 +45209,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Split ends, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Split ends, Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -45082,6 +45236,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:split-ends",
    "concern:dryness",
+   "concern:detangling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -45374,6 +45529,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:cream",
+   "format:keratin-treatment",
    "concern:smoothing",
    "aud:unisex",
    "size:large",
@@ -45714,6 +45870,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -45721,6 +45878,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45728,6 +45886,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -45735,6 +45894,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45742,6 +45902,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45749,6 +45910,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -46268,6 +46430,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:conditioner",
    "format:leave-in",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:vitamin-b5-panthenol",
    "ing:biotin",
@@ -46325,105 +46488,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "nature-spell-b0cg6ktvxh",
-  "brand": "Nature Spell",
-  "model": "Bond Repair Leave in Cream 300ml Hair Protection & Styling Leave in Conditioner",
-  "price": 600,
-  "capacityLine": "300 ml",
-  "materialLine": "Bond builder",
-  "featureLine": "Leave-in · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹200/100ml",
-   "format": "Leave-in",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Bond builder (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71prT9wp2sL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CG6KTVXH",
-  "buyStore": "Amazon",
-  "title": "Nature Spell Bond Repair Leave in Cream 300ml Hair Protection & Styling Leave in Conditioner",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:bond-builder",
-   "concern:damage-repair",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
   "id": "cantu-b01ltiau7o",
   "brand": "Cantu",
   "model": "Shea Butter for Natural Hair Conditioning Creamy Hair Lotion, 12 Ounce",
@@ -46451,7 +46515,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -46481,6 +46545,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "aud:unisex",
@@ -46868,7 +46933,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -46902,6 +46967,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:coloured",
    "aud:unisex",
@@ -47350,6 +47416,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -47357,6 +47424,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47364,6 +47432,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -47371,6 +47440,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47378,6 +47448,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -47385,6 +47456,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -48189,7 +48261,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -48222,6 +48294,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -48298,10 +48371,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -48337,6 +48410,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:scalp-buildup",
    "concern:oily-scalp",
    "concern:frizz",
@@ -48345,6 +48419,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:curl-definition",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:curly",
    "hair:wavy",
    "aud:unisex",
@@ -48415,7 +48491,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Keratin, Biotin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
@@ -48448,6 +48524,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:frizz",
    "concern:dryness",
@@ -48752,6 +48829,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:oil",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:frizz",
@@ -50725,7 +50803,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -50754,6 +50832,7 @@ const HAIRPRODUCTS = [
    "ing:hydrolysed-protein",
    "concern:frizz",
    "concern:dryness",
+   "concern:detangling",
    "hair:curly",
    "aud:kids",
    "size:travel",
@@ -50826,7 +50905,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Milk (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -50852,6 +50931,7 @@ const HAIRPRODUCTS = [
    "format:leave-in",
    "ing:milk",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "aud:unisex",
    "size:large",
@@ -50921,7 +51001,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter, Castor oil, Apple cider vinegar (named on listing)",
+   "keyIngredients": "Shea butter, Castor oil, Apple cider vinegar, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
@@ -50955,6 +51035,7 @@ const HAIRPRODUCTS = [
    "ing:shea-butter",
    "ing:castor-oil",
    "ing:apple-cider-vinegar",
+   "ing:peppermint-menthol",
    "concern:dryness",
    "aud:unisex",
    "rating:4.0",
@@ -53150,7 +53231,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Absorbs oil / between washes, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Textured / afro hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -53183,6 +53264,8 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:curl-definition",
+   "concern:oil-absorbing",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:textured",
@@ -54090,6 +54173,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:kit",
+   "format:keratin-treatment",
    "ing:keratin",
    "ing:hydrolysed-protein",
    "concern:frizz",
@@ -54170,7 +54254,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Honey, Shea butter, Milk, Avocado (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Damage repair, Split ends, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Damage repair, Split ends, Dryness / hydration, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -54204,6 +54288,7 @@ const HAIRPRODUCTS = [
    "concern:split-ends",
    "concern:dryness",
    "concern:shine",
+   "concern:oil-absorbing",
    "hair:damaged",
    "aud:unisex",
    "size:xl",
@@ -54573,7 +54658,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Colour protection, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -54615,6 +54700,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:colour-protect",
+   "concern:humidity",
    "hair:dry",
    "aud:unisex",
    "rating:4.0",
@@ -54650,6 +54736,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -54657,6 +54744,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54664,6 +54752,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -54671,6 +54760,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -56039,7 +56129,7 @@ const HAIRPRODUCTS = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 8.5,
    "trust": 8,
    "experience": 1
@@ -56127,7 +56217,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -56390,7 +56489,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Shea butter, Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Textured / afro hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -56432,6 +56531,8 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -56833,7 +56934,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Shine / gloss, Volume / body, Curl definition, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Curly hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -56860,6 +56961,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:curl-definition",
+   "concern:humidity",
    "hair:curly",
    "aud:unisex",
    "rating:none",
@@ -57346,7 +57448,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Curly hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -57382,6 +57484,7 @@ const HAIRPRODUCTS = [
    "concern:split-ends",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "hair:oily",
    "hair:curly",
@@ -58134,6 +58237,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -58141,6 +58245,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58148,6 +58253,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -58155,6 +58261,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58162,6 +58269,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -59131,7 +59239,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Absorbs oil / between washes, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -59161,6 +59269,8 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
+   "concern:oil-absorbing",
+   "concern:detangling",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -60333,7 +60443,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -60367,6 +60477,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "aud:unisex",
@@ -60612,6 +60723,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -60619,6 +60731,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -60626,6 +60739,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -60633,6 +60747,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -60640,6 +60755,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -61305,7 +61421,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Shea butter, Argan oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Curl definition, Restylable / no flakes, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, Textured / afro hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -61348,6 +61464,8 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:curl-definition",
    "concern:restyle",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -63463,6 +63581,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:conditioner",
    "format:leave-in",
+   "format:keratin-treatment",
    "ing:niacinamide",
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
@@ -63654,7 +63773,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Absorbs oil / between washes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -63690,6 +63809,8 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:oil-absorbing",
+   "concern:humidity",
    "hair:all",
    "aud:unisex",
    "size:standard",
@@ -63930,6 +64051,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -63937,6 +64059,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -63944,6 +64067,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -63951,7 +64075,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -64088,6 +64221,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -64095,6 +64229,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -64102,6 +64237,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -64109,6 +64245,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -64116,6 +64253,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -64123,6 +64261,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -64921,6 +65060,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:cream",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:smoothing",

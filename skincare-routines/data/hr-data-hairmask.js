@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -7,7 +7,7 @@ const HAIRPRODUCTS = [
   "model": "Protein Hair Mask 200ml | Damage Repair | Curly, Frizzy, Wavy Hair",
   "price": 664,
   "capacityLine": "200 ml",
-  "materialLine": "Shea butter + Avocado + Biotin",
+  "materialLine": "Shea butter + Avocado + Lavender",
   "featureLine": "Hair mask / spa · Sulfate/SLS-free · ₹332/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -27,7 +27,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹332/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Shea butter, Avocado, Biotin, Marula oil (named on listing)",
+   "keyIngredients": "Shea butter, Avocado, Lavender, Biotin, Marula oil (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
@@ -65,6 +65,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "ing:shea-butter",
    "ing:avocado",
+   "ing:lavender",
    "ing:biotin",
    "ing:marula-oil",
    "concern:dandruff",
@@ -663,6 +664,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -670,6 +672,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -677,6 +680,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -684,6 +688,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -691,6 +696,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -698,6 +704,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -705,6 +712,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -1020,6 +1028,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:leave-in",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:coconut",
    "ing:milk",
@@ -1362,6 +1371,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:conditioner",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:frizz",
@@ -1539,6 +1549,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1546,6 +1557,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -2392,7 +2404,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Onion, Curry leaf, Keratin, Amino acids (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -2434,6 +2446,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "free:paraben",
    "free:vegan",
    "aud:unisex",
@@ -2590,6 +2603,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -3022,6 +3036,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -5495,6 +5510,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rose",
    "ing:keratin",
    "concern:frizz",
@@ -10694,7 +10710,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Lavender Cream Hair Mask For Daily Hair Care Routine | All Types Hair",
   "price": 148,
   "capacityLine": "100 g",
-  "materialLine": "Rosemary + Onion + Amla",
+  "materialLine": "Lavender + Rosemary + Onion",
   "featureLine": "Cream · ₹148/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -10714,7 +10730,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹148/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Onion, Amla (named on listing)",
+   "keyIngredients": "Lavender, Rosemary, Onion, Amla (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
@@ -10750,6 +10766,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "ing:lavender",
    "ing:rosemary",
    "ing:onion",
    "ing:amla",
@@ -12570,7 +12587,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Collagen, Argan oil, Rosemary, Amla, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -12617,6 +12634,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:damaged",
    "hair:all",
    "free:vegan",
@@ -13016,7 +13034,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Hair Mask/without Steel Tin",
   "price": 648,
   "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Hair mask / spa · ₹648/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -13037,7 +13055,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹648/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -13070,6 +13088,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -13666,6 +13685,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -13673,6 +13693,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13680,6 +13701,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13687,6 +13709,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13694,6 +13717,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13701,6 +13725,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -13708,6 +13733,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -13715,6 +13741,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -13722,6 +13749,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -13729,6 +13757,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -14564,6 +14593,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -14571,6 +14601,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14578,6 +14609,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14585,6 +14617,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14592,6 +14625,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -14599,6 +14633,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -14606,6 +14641,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14613,6 +14649,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -14620,6 +14657,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -14627,6 +14665,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -14634,6 +14673,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -15022,6 +15062,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -15029,6 +15070,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15036,6 +15078,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15043,6 +15086,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -15050,6 +15094,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -15057,6 +15102,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15064,6 +15110,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15071,6 +15118,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -15078,6 +15126,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15085,6 +15134,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -15092,6 +15142,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     }
    ],
@@ -15232,6 +15283,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -15239,6 +15291,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15246,6 +15299,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15253,6 +15307,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15260,6 +15315,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -15267,6 +15323,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -15274,6 +15331,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -15281,6 +15339,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -15288,6 +15347,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -16354,6 +16414,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:oil",
    "format:hair-mask",
+   "format:beard-oil",
    "ing:coconut",
    "concern:dandruff",
    "concern:hair-fall",
@@ -19388,6 +19449,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19395,6 +19457,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19402,6 +19465,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -19409,6 +19473,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19416,6 +19481,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -20095,6 +20161,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:avocado",
    "ing:onion",
@@ -21040,6 +21107,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:scalp-scrub",
    "ing:rosemary",
    "ing:hibiscus",
    "ing:keratin",
@@ -21921,6 +21989,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -21928,6 +21997,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -21935,7 +22005,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -22742,6 +22821,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -24078,6 +24158,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:glycerin",
    "ing:rosemary",
    "ing:fenugreek",
@@ -24773,6 +24854,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:onion",
    "ing:hibiscus",
    "ing:keratin",
@@ -26776,6 +26858,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:damage-repair",
@@ -27004,6 +27087,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:hair-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:amla",
    "ing:keratin",
@@ -27179,6 +27263,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27186,6 +27271,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -27193,6 +27279,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27200,6 +27287,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27207,6 +27295,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27214,6 +27303,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27221,6 +27311,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27228,6 +27319,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27235,6 +27327,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -27242,6 +27335,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27249,6 +27343,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27256,6 +27351,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -27660,6 +27756,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27667,6 +27764,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27674,6 +27772,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -27681,6 +27780,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -27688,6 +27788,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -27695,6 +27796,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -27965,6 +28067,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27972,6 +28075,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27979,6 +28083,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -27986,6 +28091,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -27993,6 +28099,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -28000,6 +28107,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28007,6 +28115,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -28014,6 +28123,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -28021,6 +28131,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -28481,6 +28592,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:oil",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -28798,7 +28910,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹297/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Colloidal oatmeal, Tea tree, Almond, Vitamin E, Coconut, Onion (named on listing)",
+   "keyIngredients": "Colloidal oatmeal, Tea tree, Almond, Vitamin E, Coconut, Lavender, Onion (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -28835,6 +28947,7 @@ const HAIRPRODUCTS = [
    "ing:almond",
    "ing:vitamin-e",
    "ing:coconut",
+   "ing:lavender",
    "ing:onion",
    "concern:oily-scalp",
    "concern:frizz",
@@ -29379,6 +29492,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -30082,6 +30196,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -30326,6 +30441,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:gold",
    "ing:rosemary",
    "ing:bhringraj",
@@ -31010,6 +31126,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -31911,7 +32028,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹118/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Almond, Shea butter, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Rosemary, Bhringraj, Amla, Keratin, Biotin, Panthenol (named on listing)",
+   "keyIngredients": "Aloe vera, Almond, Shea butter, Vitamin E, Vitamin B5 / panthenol, Glycerin, Argan oil, Rosemary, Bhringraj, Amla, Keratin, Biotin, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -31947,6 +32064,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:almond",
    "ing:shea-butter",
@@ -31960,6 +32078,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:damage-repair",
    "concern:dryness",
@@ -32984,7 +33103,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹100/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Almond, Shea butter, Vitamin E, Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol (named on listing)",
+   "keyIngredients": "Almond, Shea butter, Vitamin E, Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol, Formaldehyde, Cysteine (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
@@ -33026,6 +33145,8 @@ const HAIRPRODUCTS = [
    "ing:argan-oil",
    "ing:keratin",
    "ing:panthenol",
+   "ing:formaldehyde",
+   "ing:cysteine",
    "concern:hair-fall",
    "concern:frizz",
    "concern:damage-repair",
@@ -35330,7 +35451,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rose, Rosemary, Keratin, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Scalp health, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -35370,6 +35491,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:detangling",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -35591,6 +35713,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "concern:hair-growth",
@@ -35778,7 +35901,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -35815,6 +35938,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:volume",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:all",
    "aud:women",
@@ -36264,6 +36388,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:bhringraj",
    "ing:amla",
    "ing:keratin",
@@ -36434,6 +36559,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36441,6 +36567,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36448,6 +36575,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36455,6 +36583,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -36462,6 +36591,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36469,6 +36599,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -36476,6 +36607,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -37021,6 +37153,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:rose",
    "ing:vitamin-e",
@@ -37595,6 +37728,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:damage-repair",
    "concern:dryness",
@@ -39663,6 +39797,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:damage-repair",
    "concern:dryness",
@@ -40133,6 +40268,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:powder",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -41064,6 +41200,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:wax",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:aloe-vera",
    "ing:walnut",
    "ing:titanium-dioxide",
@@ -42736,6 +42873,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -42856,6 +42994,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:glycerin",
    "ing:rosemary",
    "ing:bhringraj",
@@ -43729,7 +43868,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Spa Premium Intense",
   "price": 411,
   "capacityLine": "200 g",
-  "materialLine": "Jojoba + Rosemary + Henna",
+  "materialLine": "Jojoba + Lavender + Rosemary",
   "featureLine": "Hair mask / spa · ₹206/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -43748,7 +43887,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹206/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Jojoba, Rosemary, Henna (named on listing)",
+   "keyIngredients": "Jojoba, Lavender, Rosemary, Henna, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -43783,8 +43922,10 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:texture-spray",
    "ing:jojoba",
+   "ing:lavender",
    "ing:rosemary",
    "ing:henna",
+   "ing:vetiver",
    "concern:damage-repair",
    "concern:dryness",
    "hair:dry",
@@ -44805,6 +44946,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:shea-butter",
    "ing:avocado",
    "ing:rosemary",
@@ -44976,7 +45118,7 @@ const HAIRPRODUCTS = [
   "model": "HAIR SPA DEEP NOURISHING CREAM BATH DRY,DAMAGED STRAIGHTENED",
   "price": 195,
   "capacityLine": "80 g",
-  "materialLine": "Rosemary + Onion",
+  "materialLine": "Rosemary + Onion + Vetiver",
   "featureLine": "Cream · ₹244/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -44996,7 +45138,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹244/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Onion (named on listing)",
+   "keyIngredients": "Rosemary, Onion, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Scalp health, Restylable / no flakes (seller claim — not clinical proof)",
@@ -45031,8 +45173,10 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:powder",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:onion",
+   "ing:vetiver",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:frizz",
@@ -47359,6 +47503,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:frizz",
@@ -48092,6 +48237,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48099,6 +48245,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48106,6 +48253,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -48645,6 +48793,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:wash",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:rose",
    "ing:rosemary",
@@ -49682,6 +49831,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -53754,6 +53904,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -53867,6 +54018,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:ceramides",
    "ing:rosemary",
    "ing:keratin",
@@ -54444,6 +54596,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:charcoal",
    "ing:keratin",
    "concern:dandruff",
@@ -54854,6 +55007,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -54861,6 +55015,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -54868,6 +55023,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -55072,6 +55228,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:onion",
@@ -56434,6 +56591,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:titanium-dioxide",
@@ -56870,7 +57028,7 @@ const HAIRPRODUCTS = [
   "model": "Handmade 5 Protein Hair Mask 25g for All Hair Types",
   "price": 298,
   "capacityLine": "50 g (pack of 2)",
-  "materialLine": "Rice water + Bhringraj + Amla",
+  "materialLine": "Rice water + Sugar + Bhringraj",
   "featureLine": "Hair mask / spa · Paraben-free · ₹596/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -56890,7 +57048,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹596/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rice water, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Rice water, Sugar, Bhringraj, Amla (named on listing)",
    "freeFrom": "Paraben-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Premature greying (claim) (seller claim — not clinical proof)",
@@ -56927,6 +57085,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:texture-spray",
    "ing:rice-water",
+   "ing:sugar",
    "ing:bhringraj",
    "ing:amla",
    "concern:hair-fall",
@@ -57973,6 +58132,8 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
+   "format:hair-perfume",
    "ing:keratin",
    "concern:hair-fall",
    "concern:frizz",
@@ -58088,6 +58249,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:powder",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:collagen",
    "ing:shea-butter",
    "ing:argan-oil",
@@ -58622,7 +58784,7 @@ const HAIRPRODUCTS = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.1,
+   "ingredients": 6.2,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -58666,6 +58828,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:keratin",
    "concern:frizz",
@@ -58710,6 +58873,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -58717,6 +58881,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58724,6 +58889,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58731,6 +58897,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58738,13 +58905,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "behentrimonium methosulfate",
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58752,6 +58929,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58759,6 +58937,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -58766,6 +58945,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -58970,6 +59150,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -59196,6 +59377,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "concern:hair-fall",
    "concern:frizz",
@@ -60216,6 +60398,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "ing:biotin",
    "concern:frizz",
@@ -62538,6 +62721,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:keratin",
@@ -62904,121 +63088,6 @@ const HAIRPRODUCTS = [
    "concern:volume",
    "concern:colour-protect",
    "hair:damaged",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "agley-itm7110494f6b443",
-  "brand": "AGLEY",
-  "model": "BestHair Mask For Deep Repair Conditioning & Hair Protein Cream | For All Hair",
-  "price": 222,
-  "capacityLine": "400 g",
-  "materialLine": "Rosemary + Bhringraj",
-  "featureLine": "Cream · ₹56/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 g",
-   "pricePer100": "₹56/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Bhringraj (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/5/u/d/400-hair-mask-for-deep-repair-conditioning-hair-protein-cream-original-imahfgcjxdsfzxxw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/n/h/m/400-soft-deep-nourishing-cream-bath-smoothening-agley-original-imahfgb5udazggjd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/v/e/b/400-professional-keratin-cream-hair-conditioner-moisturizing-original-imahfgb5z8btecft.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/n/1/2/80-soft-silicone-scalp-massager-brush-for-hair-growth-shampoo-original-imahhwkuerhjk6ss.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/b/b/8/400-rosemary-hair-growth-oil-controls-hair-fal-agley-original-imahfgcjvdcmsq78.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/agley-besthair-mask-deep-repair-conditioning-hair-protein-cream-all/p/itm7110494f6b443",
-  "buyStore": "Flipkart",
-  "title": "AGLEY BestHair Mask For Deep Repair Conditioning & Hair Protein Cream | For All Hair",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:powder",
-   "format:wash",
-   "format:hair-mask",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:colour-protect",
-   "hair:damaged",
-   "hair:coloured",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -63490,6 +63559,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:biotin",
    "concern:dandruff",
@@ -65186,6 +65256,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:damage-repair",
@@ -66269,6 +66340,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:keratin",
@@ -66719,6 +66791,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:glycerin",
    "ing:rosemary",
    "ing:bhringraj",
@@ -67014,6 +67087,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67021,6 +67095,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -67028,6 +67103,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -67035,6 +67111,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -67042,6 +67119,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67049,6 +67127,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67056,6 +67135,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67063,6 +67143,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -67070,6 +67151,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -67621,6 +67703,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:vitamin-b5-panthenol",
@@ -68025,6 +68108,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -68032,6 +68116,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -68039,6 +68124,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -68046,6 +68132,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -68053,6 +68140,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -68060,6 +68148,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -68067,6 +68156,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -68262,6 +68352,8 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -69094,6 +69186,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -69929,6 +70022,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:argan-oil",
    "ing:keratin",
@@ -74834,6 +74928,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:ceramides",
    "ing:shea-butter",
    "ing:amla",
@@ -74885,6 +74980,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -74892,6 +74988,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -74899,6 +74996,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -74906,6 +75004,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -74913,6 +75012,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -75302,6 +75402,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -75309,6 +75410,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -75316,6 +75418,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -75323,6 +75426,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -75330,6 +75434,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -75337,6 +75442,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -75414,7 +75520,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Rosemary, Biotin (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -75453,6 +75559,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:volume",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:all",
    "free:sulfate",
@@ -75992,6 +76099,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:glycerin",
    "ing:argan-oil",
    "ing:rosemary",
@@ -77022,6 +77130,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -77029,6 +77138,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -77036,6 +77146,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -77450,6 +77561,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:powder",
    "format:wash",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -79426,6 +79538,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79433,6 +79546,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79440,6 +79554,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -79447,6 +79562,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -79454,6 +79570,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -79461,6 +79578,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79468,6 +79586,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -79672,6 +79791,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:rosemary",
    "ing:keratin",
@@ -81508,6 +81628,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:shea-butter",
    "ing:avocado",
@@ -83027,6 +83148,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:dandruff",
@@ -83926,6 +84048,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:hair-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:dandruff",
@@ -84605,6 +84728,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:glycerin",
    "ing:argan-oil",
    "ing:keratin",
@@ -85873,6 +85997,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:amla",
    "ing:keratin",
@@ -88141,6 +88266,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:neem",
    "ing:rosemary",
    "ing:hibiscus",
@@ -88591,6 +88717,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "concern:hair-fall",
    "concern:frizz",
@@ -89044,6 +89171,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:rosemary",
@@ -89158,6 +89286,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:keratin",
@@ -89245,7 +89374,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1506/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Walnut, Almond, Shea butter, Vitamin B5 / panthenol, Coconut, Keratin, Panthenol (named on listing)",
+   "keyIngredients": "Walnut, Almond, Shea butter, Vitamin B5 / panthenol, Coconut, Lavender, Keratin, Panthenol, Cedarwood (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
@@ -89286,8 +89415,10 @@ const HAIRPRODUCTS = [
    "ing:shea-butter",
    "ing:vitamin-b5-panthenol",
    "ing:coconut",
+   "ing:lavender",
    "ing:keratin",
    "ing:panthenol",
+   "ing:cedarwood",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -89657,6 +89788,8 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
+   "format:hair-perfume",
    "ing:shea-butter",
    "ing:avocado",
    "ing:rosemary",
@@ -90029,6 +90162,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:rosemary",
@@ -90451,7 +90585,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Damage repair, Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -90482,6 +90616,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "concern:damage-repair",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:damaged",
@@ -90520,6 +90655,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -90527,6 +90663,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -90534,6 +90671,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90541,6 +90679,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90548,6 +90687,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -90555,6 +90695,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -91250,6 +91391,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:rosemary",
    "ing:bhringraj",
@@ -91338,7 +91480,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹183/100g",
    "format": "Clay",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Tea tree, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Niacinamide, Tea tree, Bhringraj, Amla, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -91378,6 +91520,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:bhringraj",
    "ing:amla",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:frizz",
@@ -91705,7 +91848,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹186/100g",
    "format": "Clay",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Rice water, Tea tree, Vitamin E, Rosemary, Bhringraj, Amla, Keratin (named on listing)",
+   "keyIngredients": "Niacinamide, Rice water, Tea tree, Vitamin E, Rosemary, Bhringraj, Amla, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Premature greying (claim) (seller claim — not clinical proof)",
@@ -91750,6 +91893,7 @@ const HAIRPRODUCTS = [
    "ing:bhringraj",
    "ing:amla",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:hair-fall",
@@ -92362,6 +92506,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rice-water",
    "ing:rosemary",
    "ing:bhringraj",
@@ -93264,7 +93409,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Onion, Bhringraj (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Curly hair, Wavy hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -93307,6 +93452,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:dry",
    "hair:oily",
    "hair:curly",
@@ -93739,6 +93885,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93746,6 +93893,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93753,6 +93901,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -93760,6 +93909,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -93767,6 +93917,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -93774,6 +93925,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -94089,6 +94241,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:panthenol",
    "concern:dandruff",
@@ -94332,6 +94485,8 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
+   "format:hair-perfume",
    "ing:avocado",
    "ing:rosemary",
    "ing:onion",
@@ -94835,6 +94990,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:vitamin-e",
    "ing:keratin",
    "concern:damage-repair",
@@ -95324,6 +95480,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:argan-oil",
    "concern:dandruff",
@@ -95680,6 +95837,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:fenugreek",
    "concern:dandruff",
    "concern:oily-scalp",
@@ -97173,6 +97331,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -97180,6 +97339,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -97327,6 +97487,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -97334,6 +97495,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -98018,6 +98180,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:argan-oil",
    "concern:dandruff",
@@ -98256,6 +98419,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:bhringraj",
@@ -98503,6 +98667,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -99384,129 +99549,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "smartdrops-itm230ea3ed07c4a",
-  "brand": "smartdrops",
-  "model": "Hair Mask & Cream | Keratin hair Mask | for Man & Woman",
-  "price": 294,
-  "capacityLine": "200 g",
-  "materialLine": "Coffee + Rice water + Aloe vera",
-  "featureLine": "Cream · ₹147/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹147/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Argan oil, Rosemary, Bhringraj, Amla, Keratin, Biotin, Hydrolysed protein (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Dryness / hydration, Smoothing / straightening, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Coloured / chemically treated, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-hair-treatment/w/v/y/200-keratin-hair-mask-enriched-with-argain-oil-to-leave-hair-original-imah95bdbwguhc5m.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/g/f/k/100-hair-mask-for-moisturizer-hair-and-scalp-keratin-hair-mask-original-imah947agrdmg3fq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/d/9/x/100-hair-mask-for-moisturizer-hair-and-scalp-keratin-hair-mask-original-imah947ahj9gxxyh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/g/m/d/100-argan-oil-hair-mask-for-frizz-free-and-stronger-hair-original-imah93ebgzghmrrq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/9/v/f/200-hair-mask-for-deep-conditioning-hair-cream-suitable-for-all-original-imah93dpxync5kmp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/smartdrops-hair-mask-cream-keratin-man-woman/p/itm230ea3ed07c4a",
-  "buyStore": "Flipkart",
-  "title": "smartdrops Hair Mask & Cream | Keratin hair Mask | for Man & Woman",
-  "tags": [
-   "area:scalp",
-   "format:cream",
-   "format:mist",
-   "format:oil",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:coffee",
-   "ing:rice-water",
-   "ing:aloe-vera",
-   "ing:neem",
-   "ing:argan-oil",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:keratin",
-   "ing:biotin",
-   "ing:hydrolysed-protein",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:colour-protect",
-   "hair:coloured",
-   "hair:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "mdj-itm3283eaf2736ee",
   "brand": "MDJ",
   "model": "Keratin Hair Mask Amino Enriched Formula – 200g",
@@ -99792,6 +99834,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "concern:frizz",
    "concern:damage-repair",
@@ -99908,6 +99951,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:shea-butter",
    "ing:argan-oil",
    "ing:hydrolysed-protein",
@@ -100240,6 +100284,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:bhringraj",
@@ -100973,6 +101018,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:bhringraj",
    "ing:amla",
@@ -101397,7 +101443,7 @@ const HAIRPRODUCTS = [
   "model": "Professional Argan Oil Hair Mask For Dry And Damage Hair",
   "price": 219,
   "capacityLine": "40 g (pack of 2)",
-  "materialLine": "Rice water + Argan oil + Rosemary",
+  "materialLine": "Rice water + Argan oil + Sugar",
   "featureLine": "Hair mask / spa · Sulfate/SLS-free · ₹548/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -101417,7 +101463,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹548/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Argan oil, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
+   "keyIngredients": "Rice water, Argan oil, Sugar, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Premature greying (claim), Scalp health (seller claim — not clinical proof)",
@@ -101457,6 +101503,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:rice-water",
    "ing:argan-oil",
+   "ing:sugar",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -103829,6 +103876,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:bhringraj",
@@ -106530,6 +106578,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:hair-tonic",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:biotin",
@@ -107124,6 +107173,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:leave-in",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:biotin",
@@ -108092,6 +108142,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:damage-repair",
@@ -111837,6 +111888,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:bhringraj",
@@ -112462,504 +112514,6 @@ const HAIRPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coco-crush-itmbdd5d7ffeb17f",
-  "brand": "COCO CRUSH",
-  "model": "Rosemary Coconut Hair Mask, 15g & Virgin Coconut Hair Oil, 200ml for Hair Repair",
-  "price": 342,
-  "capacityLine": "15 g",
-  "materialLine": "Coconut + Milk + Rosemary",
-  "featureLine": "Hair mask / spa · ₹2280/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 g",
-   "pricePer100": "₹2280/100g",
-   "format": "Hair mask / spa",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Coconut, Milk, Rosemary, Bhringraj, Amla, Biotin, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/s/s/8/215-rosemary-coconut-hair-mask-15g-virgin-coconut-hair-oil-200ml-original-imahg83yhazy2ykh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/e/z/d/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ggzpdrnx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/mouthwash/z/x/v/50-coconut-oil-for-oil-pulling-cold-pressed-extra-virgin-original-imagzr7fd42hpfmp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/z/x/f/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9dzwayjr7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/p/p/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ynygse6h.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/coco-crush-rosemary-coconut-hair-mask-15g-virgin-oil-200ml-repair/p/itmbdd5d7ffeb17f",
-  "buyStore": "Flipkart",
-  "title": "COCO CRUSH Rosemary Coconut Hair Mask, 15g & Virgin Coconut Hair Oil, 200ml for Hair Repair",
-  "tags": [
-   "area:both",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:coconut",
-   "ing:milk",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:biotin",
-   "ing:dimethicone-silicones",
-   "concern:dandruff",
-   "concern:scalp-buildup",
-   "concern:hair-fall",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:volume",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.75,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coco-crush-itma102800f25b3e",
-  "brand": "COCO CRUSH",
-  "model": "Rosemary Coconut Hair Mask 15g & Virgin Hair Oil 50ml | Repair & Nourish Hair",
-  "price": 230,
-  "capacityLine": "15 g",
-  "materialLine": "Rose + Coconut + Milk",
-  "featureLine": "Hair mask / spa · ₹1533/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 g",
-   "pricePer100": "₹1533/100g",
-   "format": "Hair mask / spa",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rose, Coconut, Milk, Rosemary, Amla (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Premature greying (claim), Scalp health (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/6/d/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9bwhttyzk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/e/z/d/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ggzpdrnx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/mouthwash/z/x/v/50-coconut-oil-for-oil-pulling-cold-pressed-extra-virgin-original-imagzr7fd42hpfmp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/z/x/f/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9dzwayjr7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/p/p/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ynygse6h.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/coco-crush-rosemary-coconut-hair-mask-15g-virgin-oil-50ml-repair-nourish/p/itma102800f25b3e",
-  "buyStore": "Flipkart",
-  "title": "COCO CRUSH Rosemary Coconut Hair Mask 15g & Virgin Hair Oil 50ml | Repair & Nourish Hair",
-  "tags": [
-   "area:both",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:rose",
-   "ing:coconut",
-   "ing:milk",
-   "ing:rosemary",
-   "ing:amla",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:greying",
-   "concern:scalp-health",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.75,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coco-crush-itm914212a385bca",
-  "brand": "COCO CRUSH",
-  "model": "Rosemary Coconut Hair Mask 50g & Virgin Hair Oil 200ml | Repair & Nourish Hair",
-  "price": 385,
-  "capacityLine": "50 g",
-  "materialLine": "Coconut + Milk + Rosemary",
-  "featureLine": "Hair mask / spa · ₹770/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹770/100g",
-   "format": "Hair mask / spa",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Coconut, Milk, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/f/l/j/100-rosemary-coconut-hair-mask-50g-virgin-hair-oil-50ml-repair-original-imahfmzz7syjyahu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/c/d/z/100-rosemary-coconut-hair-mask-50g-virgin-hair-oil-50ml-repair-original-imahfmzzcx3zqhmy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/mouthwash/l/y/5/100-natural-coconut-peppermint-clove-oil-pulling-oils-with-original-imahfmzwbgyhmhvf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/k/l/n/100-rosemary-coconut-hair-mask-50g-virgin-hair-oil-50ml-repair-original-imahfmzzzxnzengm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/9/s/d/100-rosemary-coconut-hair-mask-50g-virgin-hair-oil-50ml-repair-original-imahfmzzyyxkrwzp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/coco-crush-rosemary-coconut-hair-mask-50g-virgin-oil-200ml-repair-nourish/p/itm914212a385bca",
-  "buyStore": "Flipkart",
-  "title": "COCO CRUSH Rosemary Coconut Hair Mask 50g & Virgin Hair Oil 200ml | Repair & Nourish Hair",
-  "tags": [
-   "area:both",
-   "format:mist",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:coconut",
-   "ing:milk",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:biotin",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:volume",
-   "concern:scalp-health",
-   "hair:dry",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.75,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coco-crush-itm61f88c0cafdf7",
-  "brand": "COCO CRUSH",
-  "model": "Rosemary Coconut Hair Mask 50g & Virgin Hair Oil 50ml | Repair & Nourish Hair",
-  "price": 273,
-  "capacityLine": "50 g",
-  "materialLine": "Collagen + Rice water + Coconut",
-  "featureLine": "Hair mask / spa · ₹546/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹546/100g",
-   "format": "Hair mask / spa",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Collagen, Rice water, Coconut, Milk, Rosemary, Bhringraj, Amla (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/z/x/f/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9dzwayjr7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/e/z/d/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ggzpdrnx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/n/m/u/100-rosemary-coconut-hair-mask-50g-virgin-hair-oil-50ml-repair-original-imahf8e4qeqnqgmx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/mouthwash/z/x/v/50-coconut-oil-for-oil-pulling-cold-pressed-extra-virgin-original-imagzr7fd42hpfmp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/p/p/65-rosemary-coconut-hair-mask-15g-virgin-hair-oil-50ml-repair-original-imahf3f9ynygse6h.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/coco-crush-rosemary-coconut-hair-mask-50g-virgin-oil-50ml-repair-nourish/p/itm61f88c0cafdf7",
-  "buyStore": "Flipkart",
-  "title": "COCO CRUSH Rosemary Coconut Hair Mask 50g & Virgin Hair Oil 50ml | Repair & Nourish Hair",
-  "tags": [
-   "area:both",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:collagen",
-   "ing:rice-water",
-   "ing:coconut",
-   "ing:milk",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:volume",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Rosemary Essential Oil",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.75,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -113633,6 +113187,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:amla",
    "concern:hair-fall",
@@ -113746,6 +113301,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:shampoo",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:olive",
    "ing:gold",
@@ -114574,6 +114130,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:keratin",
    "concern:dandruff",
@@ -115016,6 +114573,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:avocado",
    "concern:hair-fall",
@@ -116270,6 +115828,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:powder",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:coconut",
    "ing:bhringraj",
@@ -116506,6 +116065,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:amla",
    "ing:keratin",
@@ -117650,6 +117210,7 @@ const HAIRPRODUCTS = [
    "format:essence",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:keratin",
    "concern:frizz",
@@ -117764,6 +117325,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:keratin",
    "concern:dandruff",
@@ -118076,7 +117638,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹899/100g",
    "format": "Lotion",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Milk, Rosemary, Amla, Brahmi, Castor oil, Biotin (named on listing)",
+   "keyIngredients": "Coconut, Milk, Rosemary, Amla, Brahmi, Castor oil, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -118118,6 +117680,7 @@ const HAIRPRODUCTS = [
    "ing:brahmi",
    "ing:castor-oil",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:damage-repair",
@@ -118340,6 +117903,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:rosemary",
    "ing:bhringraj",
@@ -118571,6 +118135,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:avocado",
    "ing:rosemary",
    "concern:hair-fall",
@@ -118989,7 +118554,7 @@ const HAIRPRODUCTS = [
   "model": "Ayurvedic Hair Mask for Dry and Frizzy Hair for Men & Women for All Hair Type",
   "price": 2000,
   "capacityLine": "200 ml",
-  "materialLine": "Jojoba + Olive",
+  "materialLine": "Jojoba + Olive + Lavender",
   "featureLine": "Hair mask / spa · ₹1000/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -119009,7 +118574,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1000/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Jojoba, Olive (named on listing)",
+   "keyIngredients": "Jojoba, Olive, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -119044,6 +118609,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:jojoba",
    "ing:olive",
+   "ing:lavender",
    "concern:hair-fall",
    "concern:frizz",
    "concern:damage-repair",
@@ -119622,6 +119188,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "concern:hair-fall",
    "concern:frizz",
@@ -120203,6 +119770,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:neem",
    "ing:rosemary",
    "ing:hibiscus",
@@ -120359,6 +119927,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -120366,6 +119935,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -120373,6 +119943,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -120380,6 +119951,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -120387,6 +119959,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -120394,6 +119967,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -120401,6 +119975,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -120408,6 +119983,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -120415,6 +119991,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -120422,6 +119999,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -120429,6 +120007,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -121088,6 +120667,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:powder",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:hyaluronic-acid",
    "ing:rose",
    "ing:rosemary",
@@ -121202,6 +120782,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:milk",
    "ing:rosemary",
    "ing:moringa",
@@ -121479,6 +121060,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -121486,6 +121068,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -121493,6 +121076,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121500,6 +121084,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -121938,6 +121523,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:glycerin",
    "ing:rosemary",
    "ing:onion",
@@ -122006,7 +121592,7 @@ const HAIRPRODUCTS = [
   "model": "Hydrating Hair Mask for Soft & Shiny Hair",
   "price": 200,
   "capacityLine": "400 g",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Vetiver",
   "featureLine": "Hair mask / spa · ₹50/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -122026,10 +121612,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹50/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -122062,6 +121648,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "ing:rosemary",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -122072,6 +121659,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "aud:women",
@@ -123462,6 +123050,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:shea-butter",
    "ing:rosemary",
@@ -124307,6 +123896,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -124314,6 +123904,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -124321,6 +123912,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -124328,6 +123920,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -124335,6 +123928,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -124342,6 +123936,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -124349,6 +123944,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -124356,6 +123952,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -124363,6 +123960,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -124370,6 +123968,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -124714,6 +124313,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -124721,6 +124321,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -124728,6 +124329,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -124735,7 +124337,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -125495,6 +125106,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:fenugreek",
    "ing:keratin",
@@ -127099,6 +126711,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:powder",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -127791,6 +127404,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:keratin",
    "concern:hair-fall",
@@ -129083,6 +128697,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:ceramides",
    "ing:argan-oil",
    "ing:keratin",
@@ -129206,6 +128821,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:frizz",
@@ -129770,6 +129386,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "concern:hair-fall",
    "concern:frizz",
@@ -129883,6 +129500,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:rosemary",
    "concern:hair-fall",
@@ -129998,6 +129616,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hibiscus",
    "concern:hair-fall",
    "concern:frizz",
@@ -130109,6 +129728,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -130334,6 +129954,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "concern:frizz",
    "concern:damage-repair",
@@ -130415,7 +130036,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Bhringraj, Hibiscus, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -130459,6 +130080,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:beard-growth",
    "hair:dry",
    "hair:curly",
    "hair:straight",
@@ -131394,6 +131016,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:hair-fall",
@@ -131598,7 +131221,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Milk, Rosemary, Henna (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -131642,6 +131265,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:volume",
+   "concern:beard-growth",
    "hair:dry",
    "hair:damaged",
    "hair:all",
@@ -133016,6 +132640,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -133834,117 +133459,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "smartdrops-itm8ecfbc962048c",
-  "brand": "smartdrops",
-  "model": "Keratin Hair Mask + Hair Oil for Shine & Smooth Hair for All Hair Type Hair Oil",
-  "price": 192,
-  "capacityLine": "200 ml",
-  "materialLine": "Argan oil + Coconut + Keratin",
-  "featureLine": "Hair mask / spa · ₹96/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹96/100ml",
-   "format": "Hair mask / spa",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Coconut, Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.3/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 7 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/t/a/7/200-keratin-hair-mask-hair-oil-for-shine-smooth-hair-for-all-original-imah95zwqmtg3trg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/k/n/h/200-hair-mask-for-dry-damaged-hair-essential-oil-for-hair-growth-original-imah95g7fxwda4dg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/d/f/200-nourishment-keratin-protein-for-hair-fall-control-hair-oil-original-imah95kyzbzdhtxt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/j/t/a/200-hair-oil-hair-growth-shine-hair-deep-repair-hair-mask-cream-original-imah95hu7qsmehxw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/i/r/a/200-nourishment-keratin-protein-for-hair-fall-control-hair-oil-original-imah95kyxnvnvtpj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/smartdrops-keratin-hair-mask-oil-shine-smooth-all-type/p/itm8ecfbc962048c",
-  "buyStore": "Flipkart",
-  "title": "smartdrops Keratin Hair Mask + Hair Oil for Shine & Smooth Hair for All Hair Type Hair Oil",
-  "tags": [
-   "area:both",
-   "format:oil",
-   "format:hair-mask",
-   "ing:argan-oil",
-   "ing:coconut",
-   "ing:keratin",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "hair:dry",
-   "hair:all",
-   "aud:women",
-   "size:large",
-   "rating:low",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.3★ from 7 ratings"
-  }
- },
- {
   "id": "streax-itm99cfef59cfb4b",
   "brand": "Streax",
   "model": "Vitalized with Walnut&AlmondOilFor Dry & Frizzy Hair Pack of 2",
@@ -134361,116 +133875,6 @@ const HAIRPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itmb888db9f4124e",
-  "brand": "Phillauri",
-  "model": "Rosemary Lavender Hair Mask Smooth & Manageable Hair Cream | Hair Mask",
-  "price": 148,
-  "capacityLine": "100 g",
-  "materialLine": "Rosemary",
-  "featureLine": "Cream · ₹148/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹148/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/k/d/k/100-rosemary-lavender-hair-mask-smooth-manageable-hair-cream-original-imahpqbebyjmgngs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/d/c/f/100-rosemary-with-lavender-hair-mask-for-dry-frizzy-hair-care-original-imahpqb92xwjywem.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/f/f/p/100-rosemary-with-lavender-hair-mask-for-dry-frizzy-hair-care-original-imahpqb9yvcrxwhr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/d/t/j/100-rosemary-with-lavender-hair-mask-for-dry-frizzy-hair-care-original-imahpqb9ccqrej6u.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/w/f/b/100-rosemary-with-lavender-hair-mask-for-dry-frizzy-hair-care-original-imahpqb9rfqgnuxu.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-rosemary-lavender-hair-mask-smooth-manageable-cream/p/itmb888db9f4124e",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Rosemary Lavender Hair Mask Smooth & Manageable Hair Cream | Hair Mask",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:hair-mask",
-   "ing:rosemary",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "hair:damaged",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
    "derm": false,
    "men": false,
    "women": true,
@@ -135493,7 +134897,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmc8ecfac79e8a6",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Hair Volumizing Powder Matte Finish 24hrs Hold Hair Pack of 1 of 15Gms Hair Styling Powder…",
   "price": 711,
   "capacityLine": "15 g",
@@ -136141,6 +135545,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136148,6 +135553,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136155,6 +135561,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136162,6 +135569,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -136169,6 +135577,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136176,6 +135585,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136183,6 +135593,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -136327,6 +135738,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136334,6 +135746,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136341,6 +135754,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136348,6 +135762,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -136355,6 +135770,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136362,6 +135778,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136369,6 +135786,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -136459,6 +135877,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:heat-protectant",
    "format:hair-spray",
+   "format:keratin-treatment",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -138197,6 +137616,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:frizz",
@@ -138951,7 +138371,7 @@ const HAIRPRODUCTS = [
   "model": "hair spa for hair care cream bath butter 180g",
   "price": 143,
   "capacityLine": "180 g",
-  "materialLine": "Rosemary + Hibiscus + Henna",
+  "materialLine": "Lavender + Rosemary + Hibiscus",
   "featureLine": "Cream · ₹79/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -138970,7 +138390,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹79/100g",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Hibiscus, Henna (named on listing)",
+   "keyIngredients": "Lavender, Rosemary, Hibiscus, Henna (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Damage repair, Smoothing / straightening, Shine / gloss, Colour protection (seller claim — not clinical proof)",
@@ -139004,6 +138424,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:hair-mask",
    "format:texture-spray",
+   "ing:lavender",
    "ing:rosemary",
    "ing:hibiscus",
    "ing:henna",
@@ -139233,6 +138654,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:damage-repair",
    "concern:dryness",
@@ -141355,6 +140777,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:biotin",
    "concern:dandruff",
@@ -141594,6 +141017,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:shea-butter",
    "ing:glycerin",
    "ing:rosemary",
@@ -143850,6 +143274,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
@@ -144112,140 +143537,6 @@ const HAIRPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "winry-itmf043930599d32",
-  "brand": "winry",
-  "model": "hair spa cream for dry and frizzy hair Men & Women Mask For Dry & Damaged Hair,",
-  "price": 128,
-  "capacityLine": "400 g (pack of 2)",
-  "materialLine": "Shea butter + Glycerin + Rosemary",
-  "featureLine": "Cream · ₹32/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Ingredient text carries batch codes / typo-repaired names — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g × 2 pack",
-   "pricePer100": "₹32/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Shea butter, Glycerin, Rosemary, Amla, Biotin, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Oily hair / scalp, Curly hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Ingredient text carries batch codes / typo-repaired names — treated as corrupt, not scored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: water, cetearyl alcohol, peg-180, glycerin, hexyl cinnaml, shea butter, benzyl alcohol, trideceth, isoproyl alcohol, menthoxypropanedcial",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/r/h/8/200-repair-hair-sheet-mask-hair-spa-cream-for-weak-frizzy-hair-original-imahcqbzzfz6qvwy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/7/b/3/200-repair-hair-sheet-mask-hair-spa-cream-for-weak-frizzy-hair-original-imahcqbzjqwuydzn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/h/r/b/200-repair-hair-sheet-mask-hair-spa-cream-for-weak-frizzy-hair-original-imahcqbzyghcnpmw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/5/j/r/200-spa-cream-for-weak-frizzy-hair-radiant-shine-winry-original-imahcqbnnudmz9tb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/n/1/q/200-hair-mask-repairing-hair-mask-for-intensively-nourished-original-imahcqbwhfftufce.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/winry-hair-spa-cream-dry-frizzy-men-women-mask-damaged-hair/p/itmf043930599d32",
-  "buyStore": "Flipkart",
-  "title": "winry hair spa cream for dry and frizzy hair Men & Women Mask For Dry & Damaged Hair,",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:mist",
-   "format:balm",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:shea-butter",
-   "ing:glycerin",
-   "ing:rosemary",
-   "ing:amla",
-   "ing:biotin",
-   "ing:dimethicone-silicones",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "concern:scalp-health",
-   "hair:dry",
-   "hair:oily",
-   "hair:curly",
-   "hair:straight",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "garbled",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "garbled",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "water, cetearyl alcohol, peg-180, glycerin, hexyl cinnaml, shea butter, benzyl alcohol, trideceth, isoproyl alcohol, menthoxypropanedcial",
-   "inciNote": "Ingredient text carries batch codes / typo-repaired names — treated as corrupt, not scored",
-   "declarationConfidence": null,
-   "recognised": 0.78,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -145491,6 +144782,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:avocado",
    "concern:dandruff",
@@ -145761,116 +145053,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4.9★ from 57 ratings"
-  }
- },
- {
-  "id": "siemoc-itmd175c973769f2",
-  "brand": "siemoc",
-  "model": "Keratin Creamy Hair Mask for Dry Damaged Hair & hair Growth Treatment Hair Cream",
-  "price": 122,
-  "capacityLine": "100 g",
-  "materialLine": "Keratin",
-  "featureLine": "Cream · ₹122/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.9★ from 27 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 6.8
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹122/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.9/5 (27 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 27 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/s/o/e/hair-cream-100-keratin-creamy-hair-mask-for-dry-damaged-hair-original-imahkdvza9jqw8rv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/d/1/s/hair-cream-100-keratin-creamy-hair-mask-for-dry-damaged-hair-original-imahkdvzk6jerqru.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/t/e/g/hair-cream-100-keratin-creamy-hair-mask-for-dry-damaged-hair-original-imahkdvzgf4caygw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/8/l/v/hair-cream-100-keratin-creamy-hair-mask-for-dry-damaged-hair-original-imahkdvzm2jywagr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/j/k/t/hair-cream-100-keratin-creamy-hair-mask-for-dry-damaged-hair-original-imahkdvzhh843znv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/siemoc-keratin-creamy-hair-mask-dry-damaged-growth-treatment-cream/p/itmd175c973769f2",
-  "buyStore": "Flipkart",
-  "title": "siemoc Keratin Creamy Hair Mask for Dry Damaged Hair & hair Growth Treatment Hair Cream",
-  "tags": [
-   "area:scalp",
-   "format:cream",
-   "format:hair-mask",
-   "ing:keratin",
-   "concern:hair-growth",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:dry",
-   "hair:damaged",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.9★ from 27 ratings"
   }
  },
  {
@@ -146610,6 +145792,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -146739,6 +145922,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:wax",
+   "format:hair-perfume",
    "ing:ceramides",
    "ing:argan-oil",
    "ing:rosemary",
@@ -147446,6 +146630,7 @@ const HAIRPRODUCTS = [
    "format:balm",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:niacinamide",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -148823,6 +148008,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:cream",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -150686,119 +149872,6 @@ const HAIRPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "siemoc-itmf953cca2dc148",
-  "brand": "siemoc",
-  "model": "KERATIN HAIR MASK FOR DRYNESS CARE OF HAIR FOR MEN & WOMEN Hair Cream",
-  "price": 238,
-  "capacityLine": "400 g",
-  "materialLine": "Ceramides + Keratin + Amino acids",
-  "featureLine": "Cream · ₹60/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 g",
-   "pricePer100": "₹60/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Ceramides, Keratin, Amino acids (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Curly hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: TRANSGLUTAMINASE + AMINO ACIDS + CERAMIDE",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/w/d/g/hair-cream-400-keratin-hair-mask-for-dryness-care-of-hair-for-original-imahkumygcmebmuu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/v/y/s/hair-cream-300-hair-mask-for-deep-nourishment-hair-mask-combo-original-imahkuhjzhfdmazn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/e/5/c/hair-cream-300-hair-mask-for-deep-nourishment-hair-mask-combo-original-imahkuhjjhwznhqr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/c/p/b/hair-cream-300-hair-mask-for-deep-nourishment-hair-mask-combo-original-imahkuhjyjagehwe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-styling/f/f/e/hair-cream-100-keratin-hair-fall-control-hair-spa-deep-original-imahkuhakffwbft9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/siemoc-keratin-hair-mask-dryness-care-men-women-cream/p/itmf953cca2dc148",
-  "buyStore": "Flipkart",
-  "title": "siemoc KERATIN HAIR MASK FOR DRYNESS CARE OF HAIR FOR MEN & WOMEN Hair Cream",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:powder",
-   "format:hair-mask",
-   "ing:ceramides",
-   "ing:keratin",
-   "ing:amino-acids",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "hair:curly",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "TRANSGLUTAMINASE + AMINO ACIDS + CERAMIDE",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -154734,6 +153807,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:avocado",
    "ing:onion",
@@ -155255,6 +154329,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -157741,6 +156816,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:hair-fall",
@@ -159961,135 +159037,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "fraileno-itmca13772ad10a9",
-  "brand": "FRAILENO",
-  "model": "Keratin Hair Cream & Mask Keratin Hair Mask for Moisturizing & Smooth Hair,",
-  "price": 132,
-  "capacityLine": "200 g",
-  "materialLine": "Bhringraj + Amla + Keratin",
-  "featureLine": "Cream · ₹66/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹66/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Bhringraj, Amla, Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Oily hair / scalp, Curly hair, Wavy hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: argaon oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/v/c/k/200-keratin-hair-cream-mask-keratin-hair-mask-for-moisturizing-original-imahdhg2gvywyg42.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/v/i/g/200-nourishing-hair-mask-for-scalp-hair-stronger-smoother-hair-original-imahdheygjfbgzbs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/o/e/o/200-hair-care-smooth-and-shine-hair-mask-for-women-hair-mask-for-original-imahdhfevsy8gsua.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/j/p/200-keratin-hair-cream-mask-keratin-hair-mask-for-moisturizing-original-imahdhg2fafh9wzw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/e/h/200-nourishing-hair-mask-for-scalp-hair-stronger-smoother-hair-original-imahdheychgmbxhk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/fraileno-keratin-hair-cream-mask-moisturizing-smooth-hair/p/itmca13772ad10a9",
-  "buyStore": "Flipkart",
-  "title": "FRAILENO Keratin Hair Cream & Mask Keratin Hair Mask for Moisturizing & Smooth Hair,",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:keratin",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "hair:dry",
-   "hair:oily",
-   "hair:curly",
-   "hair:wavy",
-   "hair:straight",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "argaon oil",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "fraileno-itm0d2133f3a108e",
   "brand": "FRAILENO",
   "model": "Hair Repair Spa Protein Treatment Cream",
@@ -160934,6 +159881,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "concern:dandruff",
@@ -162516,126 +161464,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "earth-science-ayurveda-itma98398023d817",
-  "brand": "Earth Science Ayurveda",
-  "model": "Fenugreek (Methi) Hair Mask – Deep Nourishing & Strengthening Hair Spa Cream",
-  "price": 550,
-  "capacityLine": "200 g",
-  "materialLine": "Argan oil + Fenugreek",
-  "featureLine": "Cream · ₹275/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹275/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Fenugreek (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciList": "Unverified seller line: Argan oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/r/s/t/200-fenugreek-methi-hair-mask-deep-nourishing-strengthening-hair-original-imahh2hymrkkwwgg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/h/9/l/200-fenugreek-methi-hair-mask-deep-nourishing-strengthening-hair-original-imahh2hydhhwf5hn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/4/f/k/200-fenugreek-methi-hair-mask-deep-nourishing-strengthening-hair-original-imahh2hyfjbhpks6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/a/c/1/200-fenugreek-methi-hair-mask-deep-nourishing-strengthening-hair-original-imahh2hyhj5d7d3m.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/f/u/200-fenugreek-methi-hair-mask-deep-nourishing-strengthening-hair-original-imahh2hyggsady9m.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/earth-science-ayurveda-fenugreek-methi-hair-mask-deep-nourishing-strengthening-spa-cream/p/itma98398023d817",
-  "buyStore": "Flipkart",
-  "title": "Earth Science Ayurveda Fenugreek (Methi) Hair Mask – Deep Nourishing & Strengthening Hair Spa Cream",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:oil",
-   "format:wash",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:argan-oil",
-   "ing:fenugreek",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Ingredients field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Argan oil",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "agley-itmb0a6b08470c10",
   "brand": "AGLEY",
   "model": "Deep Repair Hair Mask Cream for Dry, Damaged & Frizzy Hair",
@@ -163126,7 +161954,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Mint Cream Hair Mask Silky Touch Frizz Friendly Hair Care Solution",
   "price": 183,
   "capacityLine": "150 g",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Cream · ₹122/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -163146,7 +161974,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹122/100g",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim), Frizz control, Damage repair (seller claim — not clinical proof)",
@@ -163183,6 +162011,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:hair-growth",
    "concern:frizz",
    "concern:damage-repair",
@@ -165147,6 +163976,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:hair-spray",
+   "format:scalp-scrub",
    "ing:rosemary",
    "ing:amla",
    "ing:dimethicone-silicones",
@@ -165967,6 +164797,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:bhringraj",
    "ing:amla",
@@ -166054,7 +164885,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹42/100g",
    "format": "Butter",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Rosemary, Bhringraj, Amla, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Colour protection (seller claim — not clinical proof)",
@@ -166095,6 +164926,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -167013,7 +165845,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹58/100g",
    "format": "Butter",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Shea butter, Titanium dioxide, Rosemary, Keratin, Biotin (named on listing)",
+   "keyIngredients": "Shea butter, Titanium dioxide, Rosemary, Keratin, Biotin, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Colour protection (seller claim — not clinical proof)",
@@ -167054,6 +165886,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -167347,7 +166180,7 @@ const HAIRPRODUCTS = [
   "model": "Trendy shea butter hair mask for womans and mens",
   "price": 183,
   "capacityLine": "400 g",
-  "materialLine": "Shea butter + Rosemary",
+  "materialLine": "Shea butter + Lavender + Rosemary",
   "featureLine": "Butter · ₹46/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -167367,7 +166200,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹46/100g",
    "format": "Butter",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Shea butter, Rosemary (named on listing)",
+   "keyIngredients": "Shea butter, Lavender, Rosemary, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Damage repair, Smoothing / straightening, Shine / gloss, Colour protection (seller claim — not clinical proof)",
@@ -167402,7 +166235,9 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:texture-spray",
    "ing:shea-butter",
+   "ing:lavender",
    "ing:rosemary",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -167812,7 +166647,7 @@ const HAIRPRODUCTS = [
   "model": "For womans and girls besr shea butter hair spa for all hair type",
   "price": 178,
   "capacityLine": "400 g",
-  "materialLine": "Shea butter + Rosemary + Biotin",
+  "materialLine": "Shea butter + Lavender + Rosemary",
   "featureLine": "Butter · ₹45/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -167832,7 +166667,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹45/100g",
    "format": "Butter",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Shea butter, Rosemary, Biotin (named on listing)",
+   "keyIngredients": "Shea butter, Lavender, Rosemary, Biotin, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Colour protection, Scalp health (seller claim — not clinical proof)",
@@ -167867,8 +166702,10 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:texture-spray",
    "ing:shea-butter",
+   "ing:lavender",
    "ing:rosemary",
    "ing:biotin",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -168106,6 +166943,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:wash",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:hair-fall",
@@ -169145,7 +167983,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹50/100g",
    "format": "Butter",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Shea butter, Rosemary, Bhringraj, Amla, Biotin, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Coffee, Rice water, Aloe vera, Neem, Shea butter, Rosemary, Bhringraj, Amla, Biotin, Hydrolysed protein, Vetiver (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Smoothing / straightening, Shine / gloss, Colour protection, Scalp health (seller claim — not clinical proof)",
@@ -169194,6 +168032,7 @@ const HAIRPRODUCTS = [
    "ing:amla",
    "ing:biotin",
    "ing:hydrolysed-protein",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -169441,6 +168280,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -169688,6 +168528,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:ceramides",
    "ing:collagen",
    "ing:rosemary",
@@ -170111,7 +168952,7 @@ const HAIRPRODUCTS = [
   "model": "All hair type best shea butter hair spa for womans and mens",
   "price": 163,
   "capacityLine": "400 g",
-  "materialLine": "Shea butter + Rosemary + Biotin",
+  "materialLine": "Shea butter + Lavender + Rosemary",
   "featureLine": "Butter · ₹41/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -170131,7 +168972,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹41/100g",
    "format": "Butter",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Shea butter, Rosemary, Biotin (named on listing)",
+   "keyIngredients": "Shea butter, Lavender, Rosemary, Biotin, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Colour protection, Scalp health (seller claim — not clinical proof)",
@@ -170167,8 +169008,10 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:texture-spray",
    "ing:shea-butter",
+   "ing:lavender",
    "ing:rosemary",
    "ing:biotin",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -171323,6 +170166,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:dandruff",
@@ -171442,6 +170286,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:milk",
    "ing:rosemary",
    "concern:frizz",
@@ -171674,6 +170519,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:milk",
    "ing:amla",
    "ing:fenugreek",
@@ -171789,6 +170635,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:neem",
    "ing:milk",
    "ing:rosemary",
@@ -172352,6 +171199,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:neem",
    "ing:milk",
    "concern:hair-growth",
@@ -173554,6 +172402,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -173990,6 +172839,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:powder",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -174156,6 +173006,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -174163,6 +173014,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -174170,6 +173022,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -174177,6 +173030,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -174184,6 +173038,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -174191,6 +173046,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -175315,6 +174171,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:hibiscus",
    "ing:keratin",
    "concern:hair-fall",
@@ -176120,6 +174977,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:frizz",
@@ -176346,6 +175204,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:brahmi",
    "ing:keratin",
    "concern:dandruff",
@@ -180850,7 +179709,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹212/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Argan oil, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
+   "keyIngredients": "Tea tree, Argan oil, Rosemary, Bhringraj, Amla, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -180891,6 +179750,7 @@ const HAIRPRODUCTS = [
    "ing:bhringraj",
    "ing:amla",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -180932,6 +179792,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -180939,6 +179800,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -180946,6 +179808,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -180953,6 +179816,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -181419,6 +180283,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:keratin",
@@ -181549,6 +180414,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:bhringraj",
    "ing:amla",
@@ -181884,6 +180750,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:peptides",
    "ing:keratin",
    "concern:dandruff",
@@ -183314,6 +182181,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:rice-water",
    "ing:rosemary",
    "ing:bhringraj",
@@ -183629,7 +182497,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹149/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Hyaluronic acid, Peptides, Glycerin, Keratin, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Peptides, Glycerin, Keratin, Hydrolysed protein, Glyoxylic acid (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -183666,11 +182534,13 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:peptides",
    "ing:glycerin",
    "ing:keratin",
    "ing:hydrolysed-protein",
+   "ing:glyoxylic-acid",
    "concern:hair-fall",
    "concern:frizz",
    "concern:damage-repair",
@@ -183730,7 +182600,7 @@ const HAIRPRODUCTS = [
   "model": "Hair SPA Argan Oil repair dry & damage hair (1000ml)",
   "price": 603,
   "capacityLine": "1000 ml",
-  "materialLine": "Vitamin E + Argan oil",
+  "materialLine": "Vitamin E + Argan oil + Magnesium",
   "featureLine": "Hair mask / spa · ₹60/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -183750,7 +182620,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹60/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Argan oil (named on listing)",
+   "keyIngredients": "Vitamin E, Argan oil, Magnesium (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Thinning / density, Frizz control, Damage repair, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
@@ -183791,6 +182661,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:vitamin-e",
    "ing:argan-oil",
+   "ing:magnesium",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:thinning",
@@ -184104,7 +182975,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil, Rosemary, Bhringraj, Amla, Hibiscus, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Damage repair, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Damage repair, Shine / gloss, Volume / body, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -184147,6 +183018,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:shine",
    "concern:volume",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:all",
    "free:vegan",
@@ -184523,6 +183395,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -184530,6 +183403,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -184537,6 +183411,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -184544,6 +183419,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -184551,6 +183427,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -184558,6 +183435,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -184565,6 +183443,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -184889,6 +183768,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:smoothing",
    "hair:all",
    "free:vegan",
@@ -185343,6 +184223,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:rose",
@@ -185862,245 +184743,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "agley-itmb11d22ebe6ded",
-  "brand": "AGLEY",
-  "model": "Hair Mask Pure Protein Hair Repair & Hydration Cream",
-  "price": 244,
-  "capacityLine": "400 g",
-  "materialLine": "Rosemary + Amla + Biotin",
-  "featureLine": "Cream · ₹61/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 g",
-   "pricePer100": "₹61/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Amla, Biotin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/c/h/s/400-hair-mask-pure-protein-hair-repair-hydration-cream-agley-original-imahh3kzh2uqgv9b.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/t/d/400-hair-botox-treatment-for-intense-repair-shine-agley-original-imahh3gkrmzzwtaz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/a/u/l/400-hair-botox-treatment-for-intense-repair-shine-agley-original-imahh3gk5rtkwhpe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/s/h/1/400-hair-mask-pure-protein-hair-repair-hydration-cream-agley-original-imahh3kz6ufjajau.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/9/3/v/400-hair-mask-vitamin-e-enriched-intense-hydration-hair-original-imahh3g8wstf47pp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/agley-hair-mask-pure-protein-repair-hydration-cream/p/itmb11d22ebe6ded",
-  "buyStore": "Flipkart",
-  "title": "AGLEY Hair Mask Pure Protein Hair Repair & Hydration Cream",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:mist",
-   "format:powder",
-   "format:wash",
-   "format:hair-mask",
-   "ing:rosemary",
-   "ing:amla",
-   "ing:biotin",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "concern:scalp-health",
-   "hair:damaged",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "agley-itm883fc2f2b2ce3",
-  "brand": "AGLEY",
-  "model": "Best Hair mask for Keratin moisturising & Hydration cream For All Hair Types",
-  "price": 230,
-  "capacityLine": "400 g",
-  "materialLine": "Rice water + Keratin",
-  "featureLine": "Cream · ₹58/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 g",
-   "pricePer100": "₹58/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/7/b/b/400-keratin-hair-mask-cream-400gm-agley-original-imahbzpzg73svz6z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/v/8/y/400-hair-spa-cream-for-moisturizer-hair-and-scalp-keratin-hair-original-imahbzncwz3fdjcq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/e/f/l/400-professional-keratin-moisturizing-smooth-hair-mask-cream-original-imahbzntvx7a4j2j.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/v/f/a/400-hair-spa-cream-for-moisturizer-hair-and-scalp-keratin-hair-original-imahbzncfjjhy8tq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l1zc6fk0/hair-treatment/w/7/5/700-organic-amla-reetha-shikakai-bhringraj-hibiscus-henna-orange-original-imagdf3mk7mzug8g.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/agley-best-hair-mask-keratin-moisturising-hydration-cream-all-types/p/itm883fc2f2b2ce3",
-  "buyStore": "Flipkart",
-  "title": "AGLEY Best Hair mask for Keratin moisturising & Hydration cream For All Hair Types",
-  "tags": [
-   "area:scalp",
-   "format:cream",
-   "format:mist",
-   "format:powder",
-   "format:wash",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:rice-water",
-   "ing:keratin",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "fraileno-itm2936e5bbd43ac",
   "brand": "FRAILENO",
   "model": "Deep Hydration Shea Butter Hair Spa Cream for Hair Care",
@@ -186406,6 +185048,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:amla",
    "concern:dandruff",
    "concern:hair-fall",
@@ -186773,6 +185416,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:amla",
    "concern:frizz",
    "concern:damage-repair",
@@ -187234,6 +185878,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:argan-oil",
    "ing:rosemary",
    "concern:dandruff",
@@ -188603,6 +187248,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -188610,6 +187256,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -189218,6 +187865,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:collagen",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -189909,6 +188557,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:collagen",
    "ing:aloe-vera",
    "ing:rose",
@@ -190506,6 +189155,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:powder",
    "format:hair-mask",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "ing:biotin",
@@ -192121,6 +190771,7 @@ const HAIRPRODUCTS = [
    "format:mist",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:vitamin-e",
    "ing:milk",
@@ -192206,7 +190857,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hyaluronic acid, Shea butter, Vitamin E, Milk, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -192244,6 +190895,7 @@ const HAIRPRODUCTS = [
    "ing:milk",
    "ing:keratin",
    "concern:dryness",
+   "concern:detangling",
    "hair:all",
    "aud:women",
    "size:large",
@@ -194438,6 +193090,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:titanium-dioxide",
    "ing:keratin",
@@ -194680,6 +193333,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:brahmi",
    "ing:keratin",
    "concern:dandruff",
@@ -195022,6 +193676,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:keratin",
    "concern:hair-growth",
@@ -195642,7 +194297,7 @@ const HAIRPRODUCTS = [
   "model": "Intense Moisture Hair Mask with benefits of natural ingredinets",
   "price": 128,
   "capacityLine": "100 g",
-  "materialLine": "Rosemary + Biotin",
+  "materialLine": "Rosemary + Biotin + Musk",
   "featureLine": "Hair mask / spa · ₹128/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -195662,7 +194317,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹128/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Biotin (named on listing)",
+   "keyIngredients": "Rosemary, Biotin, Musk (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Colour protection, Scalp health (seller claim — not clinical proof)",
@@ -195700,6 +194355,7 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:rosemary",
    "ing:biotin",
+   "ing:musk",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -195935,6 +194591,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:onion",
    "ing:keratin",
    "concern:dandruff",
@@ -198611,6 +197268,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:shea-butter",
    "ing:argan-oil",
    "ing:amla",
@@ -199020,6 +197678,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -199027,6 +197686,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -199345,6 +198005,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:glycerin",
    "ing:bhringraj",
@@ -199392,6 +198053,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -199399,6 +198061,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -199417,126 +198080,6 @@ const HAIRPRODUCTS = [
      "src": "acdsFragrance"
     }
    ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "phillauri-itm479143e6227ce",
-  "brand": "Phillauri",
-  "model": "Hair Mask For Deep Repair Conditioning & Hair Protein Cream | For All Hair Types",
-  "price": 183,
-  "capacityLine": "1200 g (pack of 3)",
-  "materialLine": "Rosemary + Bhringraj + Amla",
-  "featureLine": "Cream · ₹15/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 g × 3 pack",
-   "pricePer100": "₹15/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rosemary, Bhringraj, Amla, Hibiscus, Brahmi (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, Thick / coarse hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/i/7/m/400-hair-mask-for-deep-repair-conditioning-hair-protein-cream-original-imah9n89z57nv8wa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/y/c/200-protein-and-keratin-deep-repair-treatment-hair-mask-original-imah9m37kpf7pvee.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/p/e/a/200-protein-and-keratin-deep-repair-treatment-hair-mask-original-imah9m37ffznmh2r.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/h/q/200-protein-and-keratin-deep-repair-treatment-hair-mask-original-imah9m37czywnquh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/2/h/5/400-protein-and-keratin-deep-repair-treatment-hair-mask-original-imah9m3b8wybnknk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/phillauri-hair-mask-deep-repair-conditioning-protein-cream-all-types/p/itm479143e6227ce",
-  "buyStore": "Flipkart",
-  "title": "Phillauri Hair Mask For Deep Repair Conditioning & Hair Protein Cream | For All Hair Types",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:mist",
-   "format:powder",
-   "format:kit",
-   "format:hair-mask",
-   "format:hair-spray",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:hibiscus",
-   "ing:brahmi",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:colour-protect",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:thick",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -199843,6 +198386,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rose",
    "ing:rosemary",
    "concern:oily-scalp",
@@ -200083,6 +198627,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:argan-oil",
    "ing:rosemary",
    "ing:onion",
@@ -200437,6 +198982,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:onion",
    "ing:keratin",
@@ -200908,6 +199454,7 @@ const HAIRPRODUCTS = [
    "format:hair-mask",
    "format:hair-spray",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:shea-butter",
    "ing:avocado",
@@ -201419,6 +199966,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -201426,6 +199974,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -201433,6 +199982,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -201440,6 +199990,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -201874,6 +200425,7 @@ const HAIRPRODUCTS = [
   "title": "Deconstruct KeratinTreatment_HairSerum",
   "tags": [
    "area:unstated",
+   "format:keratin-treatment",
    "ing:keratin",
    "aud:unisex",
    "rating:4.0",
@@ -202182,6 +200734,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:dryness",
@@ -202446,6 +200999,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -202453,6 +201007,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -202460,6 +201015,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -202467,6 +201023,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -202474,6 +201031,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -202481,6 +201039,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -202630,7 +201189,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Ceramides, Collagen, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -202668,6 +201227,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:damaged",
    "aud:unisex",
@@ -203222,7 +201782,7 @@ const HAIRPRODUCTS = [
    "EU-declared fragrance allergen: hydroxycitronellal, limonene"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.1,
    "skin": 7.8,
    "trust": 8.5,
    "experience": 5
@@ -203299,6 +201859,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -203306,6 +201867,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -203313,7 +201875,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [],
@@ -203623,123 +202194,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:hair-mask",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "ciam-b0hdjjvnm9",
-  "brand": "CIAM",
-  "model": "BOTANICALS Deep Repair Hair Mask for Dry & Damaged Hair (200g) - Deep Moisture & Shine Hai…",
-  "price": 349,
-  "capacityLine": "200 g",
-  "materialLine": "Vitamin B5 / panthenol + Hydrolysed protein + Panthenol",
-  "featureLine": "Cream · ₹175/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹175/100g",
-   "format": "Cream",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin B5 / panthenol, Hydrolysed protein, Panthenol (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61WAq4nbkLL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71NPA5RPPDL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71EFfxMXdXL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81cAl+RIycL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/616yO1BIbQL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDJJVNM9",
-  "buyStore": "Amazon",
-  "title": "CIAM BOTANICALS Deep Repair Hair Mask for Dry & Damaged Hair (200g) - Deep Moisture & Shine Hair Spa Cream with Hydrolyzed Wheat, Soy Protein & Pro-Vitamin B5 - Frizz Control for All Hair Types",
-  "tags": [
-   "area:both",
-   "format:cream",
-   "format:shampoo",
-   "format:hair-mask",
-   "format:texture-spray",
-   "ing:vitamin-b5-panthenol",
-   "ing:hydrolysed-protein",
-   "ing:panthenol",
-   "concern:oily-scalp",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "hair:dry",
-   "hair:curly",
-   "hair:wavy",
-   "hair:damaged",
-   "hair:all",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -204402,7 +202856,7 @@ const HAIRPRODUCTS = [
   "model": "Organic Kinky Berries Hair Mask Moisturizing Strengthening For Very Dry Weak Stressed Out …",
   "price": 499,
   "capacityLine": "100 g",
-  "materialLine": "Strawberry",
+  "materialLine": "Strawberry + Sugar",
   "featureLine": "Hair mask / spa · ₹499/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -204422,7 +202876,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹499/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Strawberry (named on listing)",
+   "keyIngredients": "Strawberry, Sugar (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -204452,6 +202906,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "ing:strawberry",
+   "ing:sugar",
    "concern:dryness",
    "concern:smoothing",
    "hair:textured",
@@ -206416,6 +204871,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:frizz",
@@ -206706,7 +205162,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -206743,6 +205199,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:straight",
@@ -207436,7 +205893,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -207470,6 +205927,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -207571,6 +206029,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "concern:frizz",
    "concern:dryness",
@@ -208397,6 +206856,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "aud:unisex",
@@ -208541,110 +207001,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "3.3★ from 0 ratings"
-  }
- },
- {
-  "id": "face-keratin-b0h3qkx3q4",
-  "brand": "FACE KERATIN",
-  "model": "Brazilian Keratin Hair Mask For Dry & Frizzy Hair, 800ml Deep Repair Cream, Intense Nouris…",
-  "price": 399,
-  "capacityLine": "800 ml",
-  "materialLine": "Keratin",
-  "featureLine": "Cream · ₹50/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹50/100ml",
-   "format": "Cream",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Curly hair, Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51cuscWn7eL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3QKX3Q4",
-  "buyStore": "Amazon",
-  "title": "Brazilian Keratin Hair Mask For Dry & Frizzy Hair, 800ml Deep Repair Cream, Intense Nourishment For Damaged Curly Hair, Professional Spa Treatment At Home (900ML)",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:hair-mask",
-   "ing:keratin",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:dry",
-   "hair:curly",
-   "hair:damaged",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -208869,16 +207225,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Almond + Keratin",
   "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Rubz official website (rubz.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.4,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -208896,11 +207254,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceUrl": "https://rubz.in/products/best-almond-hair-spa-massage-cream-for-hair-1-kg",
+   "inciMatchedName": "Almond Hair Spa Cream - 1 Kg (name match 100%)",
+   "inciList": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Almond Oil, Olive Oil, Coconut Oil, Vitamin-E, Shea Butter, Aloe Vera Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); cocos nucifera oil (#8 on list, moderate evidence); shea butter (#10 on list, limited evidence); dimethicone (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -208919,6 +207279,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:almond",
    "ing:keratin",
    "concern:dandruff",
@@ -208935,7 +207296,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -208943,27 +207305,82 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rubz.in/products/best-almond-hair-spa-massage-cream-for-hair-1-kg",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Almond Hair Spa Cream - 1 Kg",
+   "inciMatchScore": 1,
+   "inciText": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Almond Oil, Olive Oil, Coconut Oil, Vitamin-E, Shea Butter, Aloe Vera Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "shea butter",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "shea butter",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -210370,6 +208787,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:hair-mask",
    "format:clay",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -210735,6 +209153,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -210742,6 +209161,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -210749,6 +209169,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -211335,6 +209756,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -212643,7 +211065,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil, Marula oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -212681,6 +211103,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -214681,7 +213104,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp & Hair Mask Mud Spa (500ml) | Anti Hair Fall & Dandruff Control | Deep Conditioning …",
   "price": 1149,
   "capacityLine": "500 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Hair mask / spa · ₹230/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -214701,7 +213124,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹230/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Scalp health (seller claim — not clinical proof)",
@@ -214728,6 +213151,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:hair-mask",
+   "ing:sea-salt",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:scalp-health",
@@ -216353,7 +214777,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Argan oil, Coconut, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -216384,6 +214808,7 @@ const HAIRPRODUCTS = [
    "ing:coconut",
    "ing:castor-oil",
    "concern:dryness",
+   "concern:detangling",
    "aud:kids",
    "size:standard",
    "rating:none",
@@ -217148,6 +215573,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -217155,13 +215581,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "hydrolyzed silk",
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -217169,6 +215605,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -217992,7 +216429,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Ceramides, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -218028,6 +216465,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "aud:unisex",
@@ -218580,6 +217018,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -218587,6 +217026,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218594,6 +217034,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -218601,6 +217042,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218608,6 +217050,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -218615,6 +217058,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -218622,6 +217066,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218629,6 +217074,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -218636,6 +217082,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218643,6 +217090,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -218650,6 +217098,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -218880,6 +217329,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -218887,6 +217337,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218894,6 +217345,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -218901,6 +217353,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218908,6 +217361,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -218915,6 +217369,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -219808,6 +218263,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -221058,6 +219514,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -221065,6 +219522,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -221072,6 +219530,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -221079,6 +219538,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -221147,7 +219607,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -221179,6 +219639,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:damaged",
    "hair:coloured",
    "aud:unisex",
@@ -221791,6 +220252,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:frizz",
@@ -223113,7 +221575,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -223149,6 +221611,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -223223,7 +221686,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -223260,6 +221723,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:volume",
+   "concern:odour",
    "hair:damaged",
    "aud:women",
    "size:xl",
@@ -223737,10 +222201,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Cream",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Aloe vera, Glycerin, Avocado, Olive (named on listing)",
+   "keyIngredients": "Aloe vera, Glycerin, Avocado, Olive, Apricot (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -223775,6 +222239,7 @@ const HAIRPRODUCTS = [
    "ing:glycerin",
    "ing:avocado",
    "ing:olive",
+   "ing:apricot",
    "concern:hair-fall",
    "concern:frizz",
    "concern:damage-repair",
@@ -223782,6 +222247,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "free:toxin-free",
    "aud:women",
@@ -223981,6 +222447,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:volume",
@@ -224555,111 +223022,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "santjan-b0h99vrksl",
-  "brand": "SANTJAN",
-  "model": "Advanced Collagen Ceramide Hair Protein Mask Intensive Hair Repair & Deep Conditioning Tre…",
-  "price": 597,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Ceramides + Collagen",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Ceramides, Collagen (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61XA6se6sJL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H99VRKSL",
-  "buyStore": "Amazon",
-  "title": "Advanced Collagen Ceramide Hair Protein Mask Intensive Hair Repair & Deep Conditioning Treatment Anti-Frizz Hair Spa Cream for Dry Damaged & Chemically Treated Hair Salon Care for Men & Women",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:hair-mask",
-   "ing:ceramides",
-   "ing:collagen",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "hair:dry",
-   "hair:damaged",
-   "hair:coloured",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "oxyrista-b0hgyvmxf8",
   "brand": "Oxyrista",
   "model": "Professional Hair Spa Smooth Creambath, Water Lily + Purified Water, Smoothing Treatment 4…",
@@ -224714,6 +223076,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:smoothing",
    "aud:unisex",
    "size:xl",
@@ -225702,6 +224065,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -225709,6 +224073,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -225716,7 +224081,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -226439,6 +224813,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:dryness",
@@ -227599,6 +225974,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -227606,6 +225982,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -227613,7 +225990,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -228667,106 +227053,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "biotique-b0brgb76ky",
-  "brand": "Biotique",
-  "model": "Argan Oil Hair Mask From Morocco (Ideal For Frizz -Free And Stronger Hair),175G & Morning …",
-  "price": 328,
-  "capacityLine": "175 g",
-  "materialLine": "Argan oil",
-  "featureLine": "Hair mask / spa · ₹187/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "175 g",
-   "pricePer100": "₹187/100g",
-   "format": "Hair mask / spa",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Argan oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71siyHBkRNL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BRGB76KY",
-  "buyStore": "Amazon",
-  "title": "Biotique Argan Oil Hair Mask From Morocco (Ideal For Frizz -Free And Stronger Hair),175G & Morning Nectar Sun Protect Moisturizer For Visibly Flawless All Skin Types,120 Ml for Damaged Hair,2 count",
-  "tags": [
-   "area:lengths",
-   "format:oil",
-   "format:hair-mask",
-   "ing:argan-oil",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:damaged",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Bio Veda Action Research",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.biotique.com/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0h9bvkgxn",
   "brand": "Unbranded",
   "model": "Protein Brazilian Keratin Hair Repair Mask with Argan Oil, 1000ml | Salon-Level Care, Kera…",
@@ -228821,6 +227107,7 @@ const HAIRPRODUCTS = [
    "format:essence",
    "format:oil",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:frizz",
@@ -229816,6 +228103,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -229823,6 +228111,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -229830,6 +228119,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -229837,6 +228127,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -230092,7 +228383,7 @@ const HAIRPRODUCTS = [
   "model": "Deep Conditioning Masque, hair mask to reduce hairfall. Makes hair manageable, smooth and …",
   "price": 1890,
   "capacityLine": "200 ml",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Sugar",
   "featureLine": "Hair mask / spa · ₹945/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -230110,7 +228401,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹945/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Sugar (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Damage repair, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -230144,6 +228435,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "ing:lemon",
+   "ing:sugar",
    "concern:hair-fall",
    "concern:damage-repair",
    "concern:smoothing",
@@ -230882,6 +229174,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
@@ -233625,7 +231918,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hyaluronic acid, Jojoba, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -233660,6 +231953,7 @@ const HAIRPRODUCTS = [
    "ing:hibiscus",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -233898,6 +232192,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -233905,6 +232200,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -233912,6 +232208,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -233919,6 +232216,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -233926,6 +232224,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -233933,6 +232232,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -233940,6 +232240,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -233947,6 +232248,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -233954,6 +232256,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -234577,6 +232880,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -234584,6 +232888,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -234591,6 +232896,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -234598,6 +232904,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -235731,6 +234038,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -236552,6 +234860,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -238226,6 +236535,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:smoothing",
    "aud:unisex",
    "size:xl",
@@ -238323,6 +236633,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:cream",
    "format:kit",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:damage-repair",
    "concern:dryness",
@@ -239120,7 +237431,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -239155,6 +237466,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -239733,7 +238045,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin E, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -239768,6 +238080,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:restyle",
+   "concern:humidity",
    "hair:dry",
    "hair:damaged",
    "aud:women",
@@ -240631,6 +238944,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -240638,6 +238952,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -240645,6 +238960,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -240652,6 +238968,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -240659,6 +238976,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -240666,6 +238984,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -240673,6 +238992,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -240680,6 +239000,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -240687,6 +239008,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -240694,6 +239016,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -240701,6 +239024,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -240708,6 +239032,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -241029,6 +239354,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -241036,6 +239362,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -241043,6 +239370,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241050,6 +239378,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -241057,6 +239386,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241064,6 +239394,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -241071,6 +239402,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -241749,6 +240081,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241756,6 +240089,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -241880,6 +240214,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -241887,6 +240222,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241894,6 +240230,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -241901,6 +240238,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241908,6 +240246,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -241915,6 +240254,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -241922,6 +240262,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241929,6 +240270,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -241936,6 +240278,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -241943,6 +240286,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -241950,6 +240294,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -242242,6 +240587,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -243115,6 +241461,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -243122,6 +241469,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243129,6 +241477,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -243136,6 +241485,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243143,6 +241493,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -243150,7 +241501,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -243661,6 +242021,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -243668,6 +242029,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -243675,6 +242037,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243682,6 +242045,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243689,6 +242053,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243696,6 +242061,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -243703,7 +242069,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -243942,6 +242317,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -243949,6 +242325,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -243956,6 +242333,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -243963,6 +242341,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -244056,6 +242435,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -245726,6 +244106,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -245733,6 +244114,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -245740,6 +244122,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -245747,6 +244130,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -247308,6 +245692,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:cream",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -248306,6 +246691,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -248313,6 +246699,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -248320,6 +246707,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -248327,6 +246715,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -248334,6 +246723,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -248341,6 +246731,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -248348,6 +246739,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -248355,6 +246747,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -248412,7 +246805,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Wavy hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -248445,6 +246838,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:wavy",
    "hair:all",
    "aud:unisex",
@@ -248809,7 +247203,7 @@ const HAIRPRODUCTS = [
   "model": "SYSTEM NOURISH & REPAIR MASK 500G || Enriched with apricot oil & Hydrolyzed Protein comple…",
   "price": 419,
   "capacityLine": "500 g",
-  "materialLine": "Hydrolysed protein",
+  "materialLine": "Apricot + Hydrolysed protein",
   "featureLine": "Oil · ₹84/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -248828,7 +247222,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹84/100g",
    "format": "Oil",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Hydrolysed protein (named on listing)",
+   "keyIngredients": "Apricot, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -248855,6 +247249,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:oil",
+   "ing:apricot",
    "ing:hydrolysed-protein",
    "concern:damage-repair",
    "concern:dryness",
@@ -249230,7 +247625,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -249264,6 +247659,8 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
+   "concern:humidity",
    "hair:damaged",
    "aud:unisex",
    "size:large",
@@ -249435,7 +247832,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹263/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rose, Vitamin E, Avocado, Keratin (named on listing)",
+   "keyIngredients": "Rose, Vitamin E, Avocado, Keratin, Musk (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -249472,6 +247869,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "ing:avocado",
    "ing:keratin",
+   "ing:musk",
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
@@ -250135,6 +248533,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250142,6 +248541,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250149,6 +248549,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -250156,6 +248557,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -250163,6 +248565,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -250170,6 +248573,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250177,6 +248581,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -250409,6 +248814,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250416,6 +248822,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -250423,6 +248830,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -250430,6 +248838,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -250437,6 +248846,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250444,6 +248854,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250451,6 +248862,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -250458,6 +248870,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -250465,6 +248878,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -250472,6 +248886,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -250479,6 +248894,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -250486,6 +248902,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -252438,6 +250855,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -252445,6 +250863,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -252452,6 +250871,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -252459,6 +250879,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -252466,6 +250887,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -252473,6 +250895,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -252480,6 +250903,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -252487,6 +250911,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -252494,6 +250919,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -252501,6 +250927,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -252508,6 +250935,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -252515,6 +250943,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -256808,6 +255237,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -256815,6 +255245,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -256822,6 +255253,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -256829,6 +255261,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -256836,6 +255269,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -256843,6 +255277,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -256850,6 +255285,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -257248,6 +255684,7 @@ const HAIRPRODUCTS = [
   "title": "SERA - 100 Collagen Coating Hair Protein Treatment for Damaged Hair Care Keratin Treatment (100 Ml)",
   "tags": [
    "area:unstated",
+   "format:keratin-treatment",
    "ing:collagen",
    "ing:keratin",
    "concern:damage-repair",
@@ -257555,6 +255992,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -258737,7 +257175,7 @@ const HAIRPRODUCTS = [
   "model": "Deep Nanoplastia Hair Mask For Frizzy Dry Hair | Intense Nano-Repair| Keratin, Nanoplastia…",
   "price": 864,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Hyaluronic acid + Keratin",
+  "materialLine": "Hyaluronic acid + Keratin + Cysteine",
   "featureLine": "Hair mask / spa",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -258756,7 +257194,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Hair mask / spa",
    "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Hyaluronic acid, Keratin (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Keratin, Cysteine (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -258783,8 +257221,10 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:hyaluronic-acid",
    "ing:keratin",
+   "ing:cysteine",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -259028,6 +257468,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -259035,6 +257476,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -259158,6 +257600,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -259165,6 +257608,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -259172,6 +257616,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -259179,6 +257624,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -259186,6 +257632,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -259193,6 +257640,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -259200,6 +257648,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -259207,6 +257656,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -259214,6 +257664,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -259221,6 +257672,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -259574,6 +258026,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -259581,6 +258034,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -259588,6 +258042,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -259595,6 +258050,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -259602,6 +258058,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -262988,6 +261445,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:kit",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -263876,7 +262334,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Cream",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Coconut, Mineral oil, Rosemary, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Coconut, Mineral oil, Rosemary, Dimethicone / silicones, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -263908,6 +262366,7 @@ const HAIRPRODUCTS = [
    "ing:mineral-oil",
    "ing:rosemary",
    "ing:dimethicone-silicones",
+   "ing:peppermint-menthol",
    "concern:dryness",
    "concern:smoothing",
    "aud:unisex",
@@ -265378,7 +263837,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Ginseng, Amino acids (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -265415,6 +263874,7 @@ const HAIRPRODUCTS = [
    "concern:split-ends",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "aud:unisex",
@@ -266828,7 +265288,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Avocado, Hibiscus, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -266868,6 +265328,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:volume",
+   "concern:detangling",
    "hair:curly",
    "hair:wavy",
    "hair:damaged",
@@ -267905,6 +266366,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -268209,6 +266671,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:dryness",
@@ -268310,6 +266773,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:rosemary",
    "ing:keratin",
    "concern:damage-repair",
@@ -269393,7 +267857,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -269421,6 +267885,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:vitamin-e",
    "ing:keratin",
    "concern:hair-growth",
@@ -269432,6 +267897,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:restyle",
+   "concern:humidity",
    "hair:dry",
    "hair:damaged",
    "aud:unisex",
@@ -269505,7 +267971,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Honey, Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -269532,6 +267998,7 @@ const HAIRPRODUCTS = [
    "ing:vitamin-e",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "aud:women",
    "size:large",
@@ -269833,6 +268300,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "concern:frizz",
    "concern:damage-repair",
@@ -270097,16 +268565,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Amla",
   "featureLine": "Cream · ₹470/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Rubz official website (rubz.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -270124,11 +268594,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceUrl": "https://rubz.in/products/amla-hair-spa-massage-cream-for-hair-50-g",
+   "inciMatchedName": "Amla Hair Spa Cream - 50 g (name match 100%)",
+   "inciList": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Jojoba Oil, Coconut Oil, Vitamin-E, Cocoa Butter, Aloe Vera Extract, Amla Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); cocos nucifera oil (#7 on list, moderate evidence); dimethicone (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 0 ratings"
   },
@@ -270150,7 +268622,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -270158,27 +268631,73 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rubz.in/products/amla-hair-spa-massage-cream-for-hair-50-g",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Amla Hair Spa Cream - 50 g",
+   "inciMatchScore": 1,
+   "inciText": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Jojoba Oil, Coconut Oil, Vitamin-E, Cocoa Butter, Aloe Vera Extract, Amla Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -270947,6 +269466,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:balm",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:shea-butter",
    "ing:keratin",
    "concern:frizz",
@@ -271596,6 +270116,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -271603,6 +270124,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -271610,6 +270132,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -271617,6 +270140,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -271624,6 +270148,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -271631,6 +270156,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -271638,6 +270164,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -271645,6 +270172,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -271652,6 +270180,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -271659,6 +270188,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -271666,6 +270196,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     }
    ],
@@ -272412,6 +270943,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -272419,6 +270951,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -272426,6 +270959,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -272433,7 +270967,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -273786,6 +272329,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -273793,6 +272337,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -273800,6 +272345,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -273807,6 +272353,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -273814,6 +272361,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -273821,6 +272369,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -274792,6 +273341,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -276119,6 +274669,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:hair-mask",
    "format:texture-spray",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "concern:oily-scalp",
@@ -276487,104 +275038,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "biotique-b0bd3r8d5k",
-  "brand": "Biotique",
-  "model": "Argan Oil Hair Mask & Fruit Brightening Depigmentation & Tan Removal Face Pack, 75Gm & Bio…",
-  "price": 430,
-  "capacityLine": "75 g",
-  "materialLine": "Argan oil",
-  "featureLine": "Gel · ₹573/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "75 g",
-   "pricePer100": "₹573/100g",
-   "format": "Gel",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Argan oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71uBjVOfYML._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BD3R8D5K",
-  "buyStore": "Amazon",
-  "title": "Biotique Argan Oil Hair Mask & Fruit Brightening Depigmentation & Tan Removal Face Pack, 75Gm & Bio Seaweed Anti Fatigue Eye Gel, 15G - 3 Count",
-  "tags": [
-   "area:unstated",
-   "format:gel",
-   "format:oil",
-   "format:hair-mask",
-   "ing:argan-oil",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Bio Veda Action Research",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.biotique.com/"
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -279791,7 +278244,7 @@ const HAIRPRODUCTS = [
   "model": "Color Protect Hair Pack | Ayurvedic Herbal Mask | Lavender, Brahmi, Amla, Jatamansi & Neem…",
   "price": 449,
   "capacityLine": "80 g",
-  "materialLine": "Neem + Amla + Brahmi",
+  "materialLine": "Neem + Lavender + Amla",
   "featureLine": "Hair mask / spa · ₹561/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -279810,7 +278263,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹561/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Neem, Amla, Brahmi (named on listing)",
+   "keyIngredients": "Neem, Lavender, Amla, Brahmi (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Damage repair, Dryness / hydration, Colour protection (seller claim — not clinical proof)",
@@ -279838,6 +278291,7 @@ const HAIRPRODUCTS = [
    "area:unstated",
    "format:hair-mask",
    "ing:neem",
+   "ing:lavender",
    "ing:amla",
    "ing:brahmi",
    "concern:damage-repair",
@@ -280407,6 +278861,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280414,6 +278869,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280421,6 +278877,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280428,6 +278885,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280435,6 +278893,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280442,6 +278901,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -280449,6 +278909,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -280456,6 +278917,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -280463,6 +278925,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -281316,7 +279779,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Mint Strengthening Hair Masque, Sulfate and Paraben Free, 12 Ounces",
   "price": 1290,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Hair mask / spa · Paraben-free",
   "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mielle Organics official website (mielleorganics.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -281337,7 +279800,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Hair mask / spa",
    "appliesTo": "Not stated in listing",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Not stated in listing",
@@ -281366,6 +279829,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "free:paraben",
    "aud:unisex",
    "rating:4.0",
@@ -281403,6 +279867,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -281410,6 +279875,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -281417,6 +279883,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -281424,6 +279891,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -282421,6 +280889,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:damage-repair",
    "concern:smoothing",
@@ -283336,6 +281805,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:hair-growth",
    "concern:frizz",
@@ -285207,6 +283677,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:oil",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:keratin",
    "ing:amino-acids",
@@ -286226,6 +284697,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:unstated",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:smoothing",
    "aud:unisex",
    "size:xl",
@@ -286435,6 +284907,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -287312,6 +285785,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -287319,6 +285793,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -287326,6 +285801,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -287333,6 +285809,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -288668,6 +287145,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:lengths",
    "format:hair-mask",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:frizz",
    "concern:damage-repair",
@@ -289641,6 +288119,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -289648,6 +288127,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -289655,6 +288135,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -289662,6 +288143,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -289669,6 +288151,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -289676,7 +288159,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -289974,6 +288466,7 @@ const HAIRPRODUCTS = [
    "area:lengths",
    "format:oil",
    "format:hair-mask",
+   "format:keratin-treatment",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -293332,16 +291825,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Coconut + Amla",
   "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Rubz official website (rubz.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); cocos nucifera oil high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -293359,11 +291854,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "3.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceUrl": "https://rubz.in/products/best-amla-hair-spa-massage-cream-for-hair-1-kg",
+   "inciMatchedName": "Amla Hair Spa Cream - 1 Kg (name match 100%)",
+   "inciList": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Jojoba Oil, Coconut Oil, Vitamin-E, Cocoa Butter, Aloe Vera Extract, Amla Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); cocos nucifera oil (#7 on list, moderate evidence); dimethicone (#12 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3★ from 0 ratings"
   },
@@ -293388,7 +291885,8 @@ const HAIRPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -293396,27 +291894,73 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rubz.in/products/best-amla-hair-spa-massage-cream-for-hair-1-kg",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Amla Hair Spa Cream - 1 Kg",
+   "inciMatchScore": 1,
+   "inciText": "DM Water, Cetyl Alcohol, Cetostearyl alcohol, Glyceryl Stearate, Glycerin, Jojoba Oil, Coconut Oil, Vitamin-E, Cocoa Butter, Aloe Vera Extract, Amla Extract, Dimethicone, Xanthan Gum, Fragrance, Sodium Hydroxide, Phenoxyethanol",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "hairOils"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "thermalProtect"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -293757,7 +292301,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Shea butter, Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -293791,6 +292335,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:dry",
    "free:paraben",
    "free:ph-balanced",

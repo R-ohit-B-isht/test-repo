@@ -1,5 +1,6 @@
 import { Reveal } from '../fx/Reveal';
-import { CategoryCard } from './CategoryCard';
+import { CategoryCard, type ConcernPick } from './CategoryCard';
+import { concernCount } from '../../domain/concern';
 import { SectionHead } from '../ui/primitives';
 import type { CategoryMeta, Zone } from '../../lib/types';
 
@@ -14,18 +15,23 @@ const SECTIONS: { key: SectionKey; title: string; sub: string; tone: string }[] 
 const sectionOf = (c: CategoryMeta): SectionKey => (c.kicker === 'PROTOCOL' ? 'protocol' : c.zone);
 
 /** Category hub grouped by where the product goes — face, face + body, body, hair — so nothing is one big dump. */
-export function CategorySections({ categories, compact }: { categories: CategoryMeta[]; compact?: boolean }) {
+export function CategorySections({ categories, compact, concern }: { categories: CategoryMeta[]; compact?: boolean; concern?: ConcernPick }) {
+  const picked = concern?.picked ?? [];
+  const matches = (c: CategoryMeta) => (c.facets.includes('target') ? concernCount(c, picked) : 0);
   return (
     <div className="space-y-12">
       {SECTIONS.map((s) => {
-        const cats = categories.filter((c) => sectionOf(c) === s.key);
+        let cats = categories.filter((c) => sectionOf(c) === s.key);
+        if (picked.length) cats = [...cats].sort((a, b) => matches(b) - matches(a));
         if (!cats.length) return null;
         return (
           <section key={s.key} aria-labelledby={`zone-${s.key}`}>
             <SectionHead id={`zone-${s.key}`} title={s.title} tone={s.tone} sub={compact ? undefined : s.sub}
-              meta={`${cats.length} categories · ${cats.reduce((n, c) => n + c.count, 0).toLocaleString('en-IN')} listings`} />
+              meta={picked.length
+                ? `${cats.filter((c) => matches(c) > 0).length} of ${cats.length} categories match · ${cats.reduce((n, c) => n + matches(c), 0).toLocaleString('en-IN')} listings`
+                : `${cats.length} categories · ${cats.reduce((n, c) => n + c.count, 0).toLocaleString('en-IN')} listings`} />
             <Reveal className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-              {cats.map((c) => <CategoryCard key={c.id} cat={c} />)}
+              {cats.map((c) => <CategoryCard key={c.id} cat={c} concern={concern} />)}
             </Reveal>
           </section>
         );

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const WASHES = [
  {
@@ -45,7 +45,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#6 on list, strong evidence); salicylic acid (#8 on list, strong evidence); lactic acid (#28 on list, strong evidence); glycolic acid (#33 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 62 ratings"
+   "buyerEvidence": "4.3★ from 62 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/v/b/b/250-2-sali-cinamide-anti-acne-body-wash-deeply-cleanses-original-imahzfauyymxdjfy.jpeg?q=90",
@@ -64,11 +65,14 @@ const WASHES = [
    "claim:pores",
    "claim:exfoliating",
    "claim:kp",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -92,6 +96,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -99,6 +104,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -106,6 +112,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -113,6 +120,7 @@ const WASHES = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -120,6 +128,7 @@ const WASHES = [
      "grade": "A",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -127,6 +136,7 @@ const WASHES = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -134,6 +144,7 @@ const WASHES = [
      "grade": "A",
      "position": 33,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -141,6 +152,7 @@ const WASHES = [
      "grade": "A",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "bha"
     }
    ],
@@ -261,7 +273,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -480,6 +501,7 @@ const WASHES = [
    "ing:green-tea",
    "ing:lemon",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -524,7 +546,7 @@ const WASHES = [
  {
   "id": "chemist-at-play-itm573c2f6329618",
   "brand": "Chemist at Play",
-  "model": "Lactic & Salicylic Acid Exfoliate Body Wash (236 ...more",
+  "model": "Lactic & Salicylic Acid Exfoliate Body Wash: Buy Chemist at Play Lactic & Salicylic Acid E…",
   "price": 156,
   "capacityLine": "Volume not stated",
   "materialLine": "salicylic acid",
@@ -575,7 +597,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/chemist-play-lactic-salicylic-acid-exfoliate-body-wash/p/itm573c2f6329618",
   "buyStore": "Flipkart",
-  "title": "Chemist at Play Lactic & Salicylic Acid Exfoliate Body Wash (236 ...more",
+  "title": "Chemist at Play Lactic & Salicylic Acid Exfoliate Body Wash: Buy Chemist at Play Lactic & Salicylic Acid Exfoliate Body Wash at Low",
   "tags": [
    "scope:body",
    "format:wash",
@@ -707,7 +729,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -992,7 +1023,8 @@ const WASHES = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo Herbal Products, Unit:2 Plot No., 28-29, Sector IB, IIE, Sidcul, Ranipur, Haridwar, 249403 Regd. Address: C-84, Panchsheel Enclave, New Delhi- 110017 M.: 20/C/U.A/2010 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 5,285 ratings"
+   "buyerEvidence": "4.2★ from 5,285 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI, niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI, kojic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/j/r/250-1-kojic-acid-daily-brightening-body-wash-with-alpha-arbutin-original-imahprhyfr8nuzny.jpeg?q=90",
@@ -1012,6 +1044,8 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -1034,6 +1068,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1041,6 +1076,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -1048,6 +1084,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -1055,6 +1092,7 @@ const WASHES = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -1062,6 +1100,7 @@ const WASHES = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -1069,6 +1108,7 @@ const WASHES = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -1076,6 +1116,7 @@ const WASHES = [
      "grade": "A",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -1083,6 +1124,7 @@ const WASHES = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -1310,13 +1352,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -1614,6 +1666,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
+   "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:all",
@@ -1660,7 +1713,7 @@ const WASHES = [
  {
   "id": "dermalist-itma44fb9ca41eb2",
   "brand": "Dermalist",
-  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T...more",
+  "model": "Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women: Buy Derm…",
   "price": 171,
   "capacityLine": "490 ml",
   "materialLine": "vitamin E + salicylic acid + coconut",
@@ -1709,7 +1762,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dermalist-exfoliating-body-wash-lactic-acid-salicylic-de-tan-shower-gel-men-women/p/itma44fb9ca41eb2",
   "buyStore": "Flipkart",
-  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-T...more",
+  "title": "Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women: Buy Dermalist Exfoliating Body Wash Lactic Acid & Salicylic Acid De-Tan Shower Gel Men & Women at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -1816,7 +1869,8 @@ const WASHES = [
    "evidenceActives": "lactic acid (#5 on list, strong evidence); glycerin (#7 on list, strong evidence); glycolic acid (#8 on list, strong evidence); salicylic acid (#13 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 163 ratings"
+   "buyerEvidence": "4.4★ from 163 ratings",
+   "concernBasis": "Acne — salicylic acid #13 on INCI; Irritation — aloe barbadensis leaf extract #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/o/0/o/250-5-aha-bha-exfoliating-body-wash-with-natural-loofah-shower-original-imahmz42vkyhpg2h.jpeg?q=90",
@@ -1836,6 +1890,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aha",
+   "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:all",
@@ -1845,6 +1900,8 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full",
    "inci:secondary"
   ],
@@ -1867,6 +1924,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -1874,6 +1932,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1881,6 +1940,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -1888,6 +1948,7 @@ const WASHES = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -1895,6 +1956,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -1902,6 +1964,7 @@ const WASHES = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -2003,6 +2066,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:avocado",
+   "ing:calendula",
    "claim:hydrating",
    "skin:all",
    "free:vegan",
@@ -2753,7 +2817,7 @@ const WASHES = [
    "Added fragrance (parfum): perfume, fragrance"
   ],
   "scores": {
-   "ingredients": 8,
+   "ingredients": 8.1,
    "skin": 8.3,
    "trust": 7,
    "experience": 8.2
@@ -2783,7 +2847,8 @@ const WASHES = [
    "safetyFlags": "Added fragrance (parfum): perfume, fragrance (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Unit Ii, Plot No. 36, Himunda Industrial Area Phase - Iv. Bhatolikalan, Baddi, Dist. Solan, (H.P) - 173205 Mfg. Lic. No.: Him/Cos/18/266 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 10,901 ratings"
+   "buyerEvidence": "4.4★ from 10,901 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/d/m/e/250-5-niacinamide-body-wash-shower-gel-for-dark-spots-original-imahmhhthvxaxeaf.jpeg?q=90",
@@ -2803,6 +2868,9 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -2825,6 +2893,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2832,6 +2901,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -2839,6 +2909,7 @@ const WASHES = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "oat"
     },
     {
@@ -2846,7 +2917,16 @@ const WASHES = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -3077,7 +3157,7 @@ const WASHES = [
  {
   "id": "le-corise-itmafeade003f8c0",
   "brand": "Le’Corise",
-  "model": "Exfoliating Body Wash 4% Lactic Acid, Salicylic Acid, S...more",
+  "model": "Exfoliating Body Wash 4% Lactic Acid, Salicylic Acid, Shower Gel for Women & Men: Buy Le’C…",
   "price": 117,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid + coconut",
@@ -3126,7 +3206,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/lecorise-exfoliating-body-wash-4-lactic-acid-salicylic-shower-gel-women-men/p/itmafeade003f8c0",
   "buyStore": "Flipkart",
-  "title": "Le’Corise Exfoliating Body Wash 4% Lactic Acid, Salicylic Acid, S...more",
+  "title": "Le’Corise Exfoliating Body Wash 4% Lactic Acid, Salicylic Acid, Shower Gel for Women & Men: Buy Le’Corise Exfoliating Body Wash 4% Lactic Acid, Salicylic Acid, Shower Gel for Women & Men at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -3440,6 +3520,7 @@ const WASHES = [
    "ing:caffeine",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:large",
@@ -3833,6 +3914,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:lemon",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -3876,7 +3958,7 @@ const WASHES = [
  {
   "id": "thriveco-itmce8d99ed5567b",
   "brand": "ThriveCo",
-  "model": "Daily Exfoliating Bodywash With 4% Lactic & Salicylic Ac...more",
+  "model": "Daily Exfoliating Bodywash With 4% Lactic & Salicylic Acid, Reduces Body Acne: Buy ThriveC…",
   "price": 179,
   "capacityLine": "236 ml",
   "materialLine": "salicylic acid",
@@ -3925,7 +4007,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/thriveco-daily-exfoliating-bodywash-4-lactic-salicylic-acid-reduces-body-acne/p/itmce8d99ed5567b",
   "buyStore": "Flipkart",
-  "title": "ThriveCo Daily Exfoliating Bodywash With 4% Lactic & Salicylic Ac...more",
+  "title": "ThriveCo Daily Exfoliating Bodywash With 4% Lactic & Salicylic Acid, Reduces Body Acne: Buy ThriveCo Daily Exfoliating Bodywash With 4% Lactic & Salicylic Acid, Reduces Body Acne at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -4064,6 +4146,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4071,6 +4154,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -4078,7 +4162,16 @@ const WASHES = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -4710,10 +4803,10 @@ const WASHES = [
  {
   "id": "dr-alies-professional-itm1d8d21faa3450",
   "brand": "Dr. Alies Professional",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan ...more",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Dr. Al…",
   "price": 93,
   "capacityLine": "Volume not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "salicylic acid",
   "featureLine": "Exfoliating",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -4730,8 +4823,8 @@ const WASHES = [
   "fullSpec": {
    "volume": "Not stated in listing",
    "pricePer100ml": "Not stated in listing",
-   "format": "Body wash",
-   "keyIngredients": "Not stated in listing",
+   "format": "Shower gel",
+   "keyIngredients": "salicylic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
    "dermTested": "Not stated in listing",
@@ -4760,11 +4853,13 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-alies-professional-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid-shower-gel/p/itm1d8d21faa3450",
   "buyStore": "Flipkart",
-  "title": "Dr. Alies Professional 7% AHA BHA Exfoliating Body Wash | De-Tan ...more",
+  "title": "Dr. Alies Professional 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Dr. Alies Professional 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel at Low",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
    "ing:aha",
    "claim:de-tan",
    "claim:exfoliating",
@@ -5057,6 +5152,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:sea-salt",
    "aud:women",
    "size:xl",
    "rating:4.5",
@@ -5183,6 +5279,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5190,6 +5287,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -5197,6 +5295,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -5204,6 +5303,7 @@ const WASHES = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -5211,6 +5311,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -5218,6 +5319,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -5225,6 +5327,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -5232,6 +5335,7 @@ const WASHES = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -5239,6 +5343,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -5246,7 +5351,16 @@ const WASHES = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -6039,6 +6153,8 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:apricot",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -6136,9 +6252,11 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:lavender",
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:odour",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -6245,6 +6363,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
+   "claim:scars",
    "skin:all",
    "free:non-comedogenic",
    "free:vegan",
@@ -6354,6 +6473,7 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -6413,7 +6533,7 @@ const WASHES = [
    "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 4.8,
+   "ingredients": 5,
    "skin": 7.3,
    "trust": 7.5,
    "experience": 8.2
@@ -6481,10 +6601,19 @@ const WASHES = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6492,6 +6621,7 @@ const WASHES = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -6499,6 +6629,7 @@ const WASHES = [
      "grade": "A",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -6653,7 +6784,7 @@ const WASHES = [
  {
   "id": "le-corise-itm20dc89233fdc4",
   "brand": "Le’Corise",
-  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sa...more",
+  "model": "7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Le’Cor…",
   "price": 135,
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid",
@@ -6702,7 +6833,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/lecorise-7-aha-bha-exfoliating-body-wash-de-tan-glycolic-salicylic-acid-shower-gel/p/itm20dc89233fdc4",
   "buyStore": "Flipkart",
-  "title": "Le’Corise 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Sa...more",
+  "title": "Le’Corise 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel: Buy Le’Corise 7% AHA BHA Exfoliating Body Wash | De-Tan Glycolic & Salicylic Acid Shower Gel at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -6768,7 +6899,7 @@ const WASHES = [
   ],
   "cons": [],
   "scores": {
-   "ingredients": 9.7,
+   "ingredients": 9.6,
    "skin": 10,
    "trust": 8,
    "experience": 6.6
@@ -6790,10 +6921,10 @@ const WASHES = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
-   "inciSourceUrl": "https://mamaearth.in/products/ubtan-body-wash-with-turmeric-saffron-for-glowing-skin-300-ml",
-   "inciMatchedName": "Ubtan Body Wash With Turmeric and Saffron for Glowing Skin - 300 ml (name match 77%)",
-   "inciList": "Aqua, Cocamidopropyl Betaine, Caprylyl/Capryl Glucoside, Sodium Methyl Cocoyl Taurate, Decyl Glucoside, Acrylates Copolymer, Sodium Lauroyl Sarcosinate, Glycerin, Sodium Lauroyl Oat Amino Acids, Walnut Shell Powder, Phenoxyethanol, Ethylhexylglycerin, IFRA Certified Allergen Free Fragrance, Ethylene Glycol Monostearate, Cetyl Alcohol, Polyquaternium 39, Titanium Dioxide, Sodium Benzoate, Turmeric Extract, Saffron Extract, Benzophenone-4, Zinc Oxide, Disodium EDTA, Sodium Hydroxide, CI 19140 (Food Grade Color)",
-   "evidenceActives": "glycerin (#8 on list, strong evidence)",
+   "inciSourceUrl": "https://mamaearth.in/products/ubtan-moisturizing-body-wash-with-turmeric-saffron-for-tan-removal-500-ml",
+   "inciMatchedName": "Ubtan Moisturizing Body Wash with Turmeric & Saffron for Tan Removal - 500 ml (name match 100%)",
+   "inciList": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium Cocoyl Isethionate, Acrylates Copolymer, Glycerin, Cocamide MEA, Glycol Stearate, IFRA Certified Allergen Free Fragrance, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Cetyl Alcohol, Phenoxyethanol, Cellulose Beads, Niacinamide, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Curcuma Longa (Turmeric) Root Extract, Crocus Sativus (Saffron) Flower Extract, Daucus Carota (Carrot) Seed Extract, Cocos Nucifera (Coconut) Water, Benzophenone-4, Sodium Gluconate, Santalum Album (Sandalwood) Extract, Glycolipids, CI 19140, CI 15985",
+   "evidenceActives": "glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Kapco International Ltd (as printed on the Flipkart listing — not scored)",
@@ -6831,11 +6962,11 @@ const WASHES = [
    "inci": "full",
    "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://mamaearth.in/products/ubtan-body-wash-with-turmeric-saffron-for-glowing-skin-300-ml",
+   "inciSourceUrl": "https://mamaearth.in/products/ubtan-moisturizing-body-wash-with-turmeric-saffron-for-tan-removal-500-ml",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Ubtan Body Wash With Turmeric and Saffron for Glowing Skin - 300 ml",
-   "inciMatchScore": 0.77,
-   "inciText": "Aqua, Cocamidopropyl Betaine, Caprylyl/Capryl Glucoside, Sodium Methyl Cocoyl Taurate, Decyl Glucoside, Acrylates Copolymer, Sodium Lauroyl Sarcosinate, Glycerin, Sodium Lauroyl Oat Amino Acids, Walnut Shell Powder, Phenoxyethanol, Ethylhexylglycerin, IFRA Certified Allergen Free Fragrance, Ethylene Glycol Monostearate, Cetyl Alcohol, Polyquaternium 39, Titanium Dioxide, Sodium Benzoate, Turmeric Extract, Saffron Extract, Benzophenone-4, Zinc Oxide, Disodium EDTA, Sodium Hydroxide, CI 19140 (Food Grade Color)",
+   "inciMatchedTitle": "Ubtan Moisturizing Body Wash with Turmeric & Saffron for Tan Removal - 500 ml",
+   "inciMatchScore": 1,
+   "inciText": "Aqua (Water), Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium Cocoyl Isethionate, Acrylates Copolymer, Glycerin, Cocamide MEA, Glycol Stearate, IFRA Certified Allergen Free Fragrance, Xylitol, Betaine, Propylene Glycol, Phoenix Dactylifera (Date Palm) Extract, Cetyl Alcohol, Phenoxyethanol, Cellulose Beads, Niacinamide, Sodium Benzoate, PEG-40 Hydrogenated Castor Oil, Curcuma Longa (Turmeric) Root Extract, Crocus Sativus (Saffron) Flower Extract, Daucus Carota (Carrot) Seed Extract, Cocos Nucifera (Coconut) Water, Benzophenone-4, Sodium Gluconate, Santalum Album (Sandalwood) Extract, Glycolipids, CI 19140, CI 15985",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 1,
@@ -6844,38 +6975,50 @@ const WASHES = [
     {
      "name": "glycerin",
      "grade": "A",
-     "position": 8,
+     "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
-     "name": "titanium dioxide",
+     "name": "niacinamide",
      "grade": "A",
      "position": 17,
      "core": false,
-     "src": "sunFilters"
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "crocus sativus flower extract",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
     },
     {
      "name": "benzophenone-4",
      "grade": "A",
-     "position": 21,
+     "position": 24,
      "core": false,
-     "src": "sunFilters"
-    },
-    {
-     "name": "zinc oxide",
-     "grade": "A",
-     "position": 22,
-     "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
    "support": [
     "cocamidopropyl betaine",
-    "sodium methyl cocoyl taurate",
-    "decyl glucoside",
     "sodium lauroyl sarcosinate",
-    "glycerin"
+    "sodium cocoyl isethionate",
+    "glycerin",
+    "niacinamide"
    ],
    "formulaNotes": [],
    "flags": [],
@@ -7055,6 +7198,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:vitamin-c",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -7179,6 +7323,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7186,6 +7331,7 @@ const WASHES = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -7312,7 +7458,7 @@ const WASHES = [
  {
   "id": "dot-key-itm7ded27737e60a",
   "brand": "Dot & Key",
-  "model": "Blueberry Hydrate Barrier Repair Hydrating Shower Gel, ...more",
+  "model": "Blueberry Hydrate Barrier Repair Hydrating Shower Gel, Non Drying, Paraben Free: Buy Dot &…",
   "price": 263,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
@@ -7353,7 +7499,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#27 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 3,435 ratings"
+   "buyerEvidence": "4.4★ from 3,435 ratings",
+   "concernBasis": "Irritation — ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/0/e/c/250-0-blueberry-hydrate-barrier-repair-hydrating-shower-gel-non-original-imaherszwgnz57bd.jpeg?q=90",
@@ -7364,7 +7511,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dot-key-blueberry-hydrate-barrier-repair-hydrating-shower-gel-non-drying-paraben-free/p/itm7ded27737e60a",
   "buyStore": "Flipkart",
-  "title": "Dot & Key Blueberry Hydrate Barrier Repair Hydrating Shower Gel, ...more",
+  "title": "Dot & Key Blueberry Hydrate Barrier Repair Hydrating Shower Gel, Non Drying, Paraben Free: Buy Dot & Key Blueberry Hydrate Barrier Repair Hydrating Shower Gel, Non Drying, Paraben Free at Low",
   "tags": [
    "scope:unstated",
    "format:gel",
@@ -7376,6 +7523,7 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -7399,6 +7547,7 @@ const WASHES = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -7406,6 +7555,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -7413,6 +7563,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -7420,6 +7571,7 @@ const WASHES = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -7427,6 +7579,7 @@ const WASHES = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -7434,6 +7587,7 @@ const WASHES = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7441,6 +7595,7 @@ const WASHES = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -7517,7 +7672,8 @@ const WASHES = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Cheryl Laboratories Private Limited, Plot No. A - 328, 329, 330, T.T.C. Industrial Area, M.I.D.C., Mahape, Navi Mumbai - 400710, Maharashtra, India. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 9,924 ratings"
+   "buyerEvidence": "4.4★ from 9,924 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/n/l/d/250-1-salicylic-acid-body-wash-250ml-with-natural-loofah-for-enriched-transparent-original-imahkyyg94hxc5gn.png?q=90",
@@ -7537,6 +7693,7 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -7560,6 +7717,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -7567,6 +7725,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -7574,6 +7733,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -7956,6 +8116,7 @@ const WASHES = [
    "ing:vitamin-c",
    "ing:lemon",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -7984,6 +8145,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7991,6 +8153,7 @@ const WASHES = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -7998,6 +8161,7 @@ const WASHES = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -8005,6 +8169,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -8012,6 +8177,7 @@ const WASHES = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -8099,6 +8265,8 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:apricot",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -8240,7 +8408,7 @@ const WASHES = [
  {
   "id": "hula-hoop-itm0b4046cdb90b4",
   "brand": "Hula Hoop",
-  "model": "Exfoliating Body Wash | Exfoliates & Smoothens (250 ml)",
+  "model": "Exfoliating Body Wash | Exfoliates & Smoothens: Buy Hula Hoop Exfoliating Body Wash | Exfo…",
   "price": 333,
   "capacityLine": "250 ml",
   "materialLine": "lemon/citrus",
@@ -8282,7 +8450,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#5 on list, strong evidence); salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, limonene, geraniol, citral (−1.2); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 17 ratings"
+   "buyerEvidence": "4.6★ from 17 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/n/o/f/250-exfoliating-body-wash-exfoliates-smoothens-1-hula-hoop-original-imahzfx3jytq9ged.jpeg?q=90",
@@ -8293,7 +8462,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/hula-hoop-exfoliating-body-wash-exfoliates-smoothens/p/itm0b4046cdb90b4",
   "buyStore": "Flipkart",
-  "title": "Hula Hoop Exfoliating Body Wash | Exfoliates & Smoothens (250 ml)",
+  "title": "Hula Hoop Exfoliating Body Wash | Exfoliates & Smoothens: Buy Hula Hoop Exfoliating Body Wash | Exfoliates & Smoothens at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -8303,11 +8472,13 @@ const WASHES = [
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:ingrown",
    "skin:all",
    "aud:women",
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -8329,6 +8500,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8336,6 +8508,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -8343,6 +8516,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -8350,6 +8524,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -8357,6 +8532,7 @@ const WASHES = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -8364,6 +8540,7 @@ const WASHES = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -8480,7 +8657,9 @@ const WASHES = [
    "format:gel",
    "ing:turmeric",
    "ing:lemon",
+   "ing:chamomile",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -8580,6 +8759,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:vegan",
@@ -8721,7 +8901,7 @@ const WASHES = [
  {
   "id": "mcaffeine-itmb2937bb82e7e3",
   "brand": "mCaffeine",
-  "model": "1% Salicylic Acid Exfoliating Body Wash (300 ml)",
+  "model": "1% Salicylic Acid Exfoliating Body Wash: Buy mCaffeine 1% Salicylic Acid Exfoliating Body …",
   "price": 381,
   "capacityLine": "300 ml",
   "materialLine": "coffee + salicylic acid",
@@ -8771,7 +8951,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/mcaffeine-1-salicylic-acid-exfoliating-body-wash/p/itmb2937bb82e7e3",
   "buyStore": "Flipkart",
-  "title": "mCaffeine 1% Salicylic Acid Exfoliating Body Wash (300 ml)",
+  "title": "mCaffeine 1% Salicylic Acid Exfoliating Body Wash: Buy mCaffeine 1% Salicylic Acid Exfoliating Body Wash at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -9174,6 +9354,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:glycerin",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -9232,7 +9413,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 7.9
@@ -9303,6 +9484,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -9310,13 +9492,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -9324,6 +9516,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -9416,7 +9609,8 @@ const WASHES = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Cheryl Laboratories Pvt Ltd, Plot No. A-328, 329, 330, Ttc, Industrial Area, M.I.D.C, Mahape, Navi Mumbai 400710 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 1,972 ratings"
+   "buyerEvidence": "4.4★ from 1,972 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/3/k/500-1-salicylic-acid-body-wash-for-body-acne-paraben-sls-free-original-imahkyyvjggzd2hd.jpeg?q=90",
@@ -9436,6 +9630,7 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -9459,6 +9654,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -9466,6 +9662,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -9473,6 +9670,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -9753,6 +9951,7 @@ const WASHES = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -9955,6 +10154,8 @@ const WASHES = [
    "format:wash",
    "ing:mandelic-acid",
    "ing:zinc",
+   "ing:magnesium",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -10047,7 +10248,8 @@ const WASHES = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, limonene, geraniol, citral (−1.2); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Archeesh Laboratories (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 13,734 ratings"
+   "buyerEvidence": "4.3★ from 13,734 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/y/8/f/250-hula-hoop-exfoliating-body-wash-exfoliates-smoothens-1-original-imahpwtzjvh5jhtd.jpeg?q=90",
@@ -10066,6 +10268,7 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -10087,6 +10290,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10094,6 +10298,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10101,6 +10306,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -10108,6 +10314,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -10115,6 +10322,7 @@ const WASHES = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -10122,6 +10330,7 @@ const WASHES = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -10418,7 +10627,8 @@ const WASHES = [
    "evidenceActives": "salicylic acid (#12 on list, strong evidence); glycolic acid (#13 on list, strong evidence); glycerin (#21 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 56 ratings"
+   "buyerEvidence": "4.2★ from 56 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI, zinc pca #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/q/m/y/-original-imahqh5ufktgedcn.jpeg?q=90",
@@ -10444,6 +10654,7 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -10465,6 +10676,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -10472,6 +10684,7 @@ const WASHES = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -10479,6 +10692,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10486,6 +10700,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -10493,6 +10708,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -10500,6 +10716,7 @@ const WASHES = [
      "grade": "A",
      "position": 21,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -10682,7 +10899,8 @@ const WASHES = [
    "evidenceActives": "salicylic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); glycerin (#8 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 161 ratings"
+   "buyerEvidence": "3.9★ from 161 ratings",
+   "concernBasis": "Acne — salicylic acid #2 on INCI, niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, kojic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/e/k/m/250-advanced-brightening-body-wash-with-salicylic-lactic-acid-1-original-imahhuchhq4xszuh.jpeg?q=90",
@@ -10711,6 +10929,8 @@ const WASHES = [
    "size:large",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -10733,6 +10953,7 @@ const WASHES = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10740,6 +10961,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -10747,6 +10969,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -10754,6 +10977,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -10761,6 +10985,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -10901,7 +11126,7 @@ const WASHES = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 6.8,
+   "ingredients": 6.9,
    "skin": 9.2,
    "trust": 8,
    "experience": 6.7
@@ -10972,13 +11197,23 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -11072,6 +11307,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:chamomile",
    "claim:acne",
    "claim:exfoliating",
    "skin:all",
@@ -11174,6 +11410,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "free:vegan",
@@ -11484,6 +11721,7 @@ const WASHES = [
    "ing:coffee",
    "ing:aloe-vera",
    "claim:de-tan",
+   "claim:cooling",
    "aud:men",
    "rating:4.0",
    "store:flipkart",
@@ -11509,7 +11747,16 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -12014,6 +12261,8 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:apricot",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -12069,7 +12318,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 7.9
@@ -12139,7 +12388,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -12659,10 +12917,19 @@ const WASHES = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -12922,7 +13189,7 @@ const WASHES = [
  {
   "id": "sanfe-itmeff43990c6f1d",
   "brand": "Sanfe",
-  "model": "Instant Tan & Dead Skin Removal Exfoliating Body Wash | For...more",
+  "model": "Instant Tan & Dead Skin Removal Exfoliating Body Wash | For men & women: Buy Sanfe Instant…",
   "price": 359,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
@@ -12971,7 +13238,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/sanfe-instant-tan-dead-skin-removal-exfoliating-body-wash-men-women/p/itmeff43990c6f1d",
   "buyStore": "Flipkart",
-  "title": "Sanfe Instant Tan & Dead Skin Removal Exfoliating Body Wash | For...more",
+  "title": "Sanfe Instant Tan & Dead Skin Removal Exfoliating Body Wash | For men & women: Buy Sanfe Instant Tan & Dead Skin Removal Exfoliating Body Wash | For men & women at Low",
   "tags": [
    "scope:body",
    "format:wash",
@@ -13062,7 +13329,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#7 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 1,564 ratings"
+   "buyerEvidence": "4.3★ from 1,564 ratings",
+   "concernBasis": "Acne — salicylic acid #9 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/w/w/d/200-salicylic-acid-lha-2-body-wash-with-niacinamide-betaine-original-imahcd232kkbqhdp.jpeg?q=90",
@@ -13086,6 +13354,8 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -13109,6 +13379,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13116,6 +13387,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -13123,6 +13395,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     }
    ],
@@ -13695,6 +13968,8 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:kids",
@@ -13907,6 +14182,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:dark-spots",
    "skin:oily",
    "skin:dry",
@@ -14520,6 +14796,7 @@ const WASHES = [
    "format:wash",
    "ing:cucumber",
    "ing:lemon",
+   "ing:chamomile",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -14619,6 +14896,7 @@ const WASHES = [
    "format:kit",
    "ing:cucumber",
    "ing:lemon",
+   "ing:chamomile",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -14858,7 +15136,7 @@ const WASHES = [
  {
   "id": "fancyperks-itmdd5506061544a",
   "brand": "FANCYPERKS",
-  "model": "BeE BodyAwise 1% Salicylic Acid Exfoliating Body Wash ...more",
+  "model": "BeE BodyAwise 1% Salicylic Acid Exfoliating Body Wash Shower Gel 100ml: Buy FANCYPERKS BeE…",
   "price": 144,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid",
@@ -14907,7 +15185,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/fancyperks-bee-bodyawise-1-salicylic-acid-exfoliating-body-wash-shower-gel-100ml/p/itmdd5506061544a",
   "buyStore": "Flipkart",
-  "title": "FANCYPERKS BeE BodyAwise 1% Salicylic Acid Exfoliating Body Wash ...more",
+  "title": "FANCYPERKS BeE BodyAwise 1% Salicylic Acid Exfoliating Body Wash Shower Gel 100ml: Buy FANCYPERKS BeE BodyAwise 1% Salicylic Acid Exfoliating Body Wash Shower Gel 100ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -15116,6 +15394,7 @@ const WASHES = [
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:odour",
    "skin:all",
    "free:sulfate",
    "aud:women",
@@ -15412,6 +15691,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -15817,6 +16097,7 @@ const WASHES = [
    "ing:neem",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:ph-balanced",
    "aud:women",
@@ -16246,7 +16527,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -17464,6 +17754,7 @@ const WASHES = [
    "ing:almond",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -17574,6 +17865,7 @@ const WASHES = [
    "ing:rose",
    "ing:strawberry",
    "ing:olive",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -17682,6 +17974,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "skin:all",
@@ -17788,6 +18081,7 @@ const WASHES = [
    "ing:rose",
    "ing:lemon",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -17893,6 +18187,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:milk",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -17993,8 +18288,10 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -18096,6 +18393,8 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -18198,6 +18497,7 @@ const WASHES = [
    "ing:tea-tree",
    "ing:vitamin-e",
    "ing:milk",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -18405,9 +18705,11 @@ const WASHES = [
    "ing:saffron",
    "ing:ubtan",
    "ing:lemon",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -18507,7 +18809,9 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -18606,6 +18910,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:vitamin-e",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -18708,6 +19013,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:vitamin-e",
    "ing:strawberry",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -18815,10 +19121,12 @@ const WASHES = [
    "ing:almond",
    "ing:vitamin-e",
    "ing:lemon",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:vegan",
@@ -18922,7 +19230,9 @@ const WASHES = [
    "format:kit",
    "ing:aloe-vera",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -19023,6 +19333,7 @@ const WASHES = [
    "format:wash",
    "ing:charcoal",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:vegan",
@@ -19127,10 +19438,12 @@ const WASHES = [
    "ing:saffron",
    "ing:ubtan",
    "ing:milk",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -19229,6 +19542,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:aloe-vera",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -19332,9 +19646,11 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:sandalwood",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -19437,7 +19753,9 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:rose",
    "ing:milk",
+   "ing:lavender",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -19541,6 +19859,7 @@ const WASHES = [
    "ing:lemon",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -19640,6 +19959,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:sandalwood",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "free:vegan",
@@ -19743,6 +20063,7 @@ const WASHES = [
    "format:kit",
    "ing:aloe-vera",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -19842,6 +20163,8 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -19943,6 +20266,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:saffron",
    "ing:sandalwood",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:lightweight",
    "skin:all",
@@ -20044,6 +20368,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -20102,7 +20427,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 7.6,
+   "ingredients": 7.7,
    "skin": 7.2,
    "trust": 7.5,
    "experience": 8.5
@@ -20175,6 +20500,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -20182,13 +20508,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -20196,6 +20532,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -20304,7 +20641,9 @@ const WASHES = [
    "format:wash",
    "ing:rose",
    "ing:lemon",
+   "ing:lavender",
    "claim:brightening",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -20511,6 +20850,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "skin:all",
    "aud:men",
    "size:large",
@@ -20606,6 +20946,7 @@ const WASHES = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "ing:lavender",
    "skin:all",
    "aud:men",
    "size:standard",
@@ -20711,8 +21052,10 @@ const WASHES = [
    "ing:rose",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:oil-control",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -20817,6 +21160,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -20917,6 +21261,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -20925,6 +21270,7 @@ const WASHES = [
    "ing:neem",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -21041,6 +21387,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -21143,6 +21490,8 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "ing:lavender",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -21200,7 +21549,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.3,
+   "ingredients": 7.4,
    "skin": 7.7,
    "trust": 7.5,
    "experience": 8.1
@@ -21245,6 +21594,8 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "format:kit",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:xl",
@@ -21272,6 +21623,7 @@ const WASHES = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -21279,6 +21631,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -21286,13 +21639,23 @@ const WASHES = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "tocopherol",
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -21726,6 +22089,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -21768,7 +22132,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 6.7
@@ -21838,7 +22202,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -21946,8 +22319,11 @@ const WASHES = [
    "ing:coffee",
    "ing:aloe-vera",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -22102,7 +22478,7 @@ const WASHES = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 6.6,
+   "ingredients": 6.7,
    "skin": 8.3,
    "trust": 7,
    "experience": 8
@@ -22172,6 +22548,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22179,6 +22556,7 @@ const WASHES = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -22186,7 +22564,16 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -22239,7 +22626,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 6.7
@@ -22311,6 +22698,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -22318,13 +22706,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -22332,6 +22730,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -22443,6 +22842,7 @@ const WASHES = [
    "ing:turmeric",
    "ing:lemon",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -22695,7 +23095,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 8.5,
+   "ingredients": 8.6,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 5.8
@@ -22765,6 +23165,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22772,13 +23173,23 @@ const WASHES = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "tocopherol",
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -22881,6 +23292,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -23279,6 +23691,7 @@ const WASHES = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "ing:lavender",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -23486,6 +23899,7 @@ const WASHES = [
    "ing:lemon",
    "claim:hydrating",
    "claim:long-lasting",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -23897,6 +24311,7 @@ const WASHES = [
    "ing:saffron",
    "ing:avocado",
    "ing:olive",
+   "ing:lavender",
    "claim:de-tan",
    "claim:dark-spots",
    "claim:hydrating",
@@ -24106,6 +24521,8 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24207,6 +24624,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -24305,6 +24723,7 @@ const WASHES = [
    "format:oil",
    "format:kit",
    "ing:lemon",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24406,6 +24825,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:avocado",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -24464,7 +24884,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 0
@@ -24511,6 +24931,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -24538,6 +24959,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -24545,13 +24967,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -24559,6 +24991,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -24624,7 +25057,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 7.4
@@ -24696,6 +25129,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -24703,13 +25137,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -24717,6 +25161,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -25026,13 +25471,13 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Fresh Smooth Skin Texture (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycerin",
    "ing:milk",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25129,7 +25574,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Bright Clear & Smooth Body ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25138,6 +25582,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25337,7 +25782,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Clear Skin & Smooth Texture...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25346,6 +25790,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25442,7 +25887,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Clear Skin Care Benefits (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25450,6 +25894,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25546,7 +25991,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Daily Bright Finish (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25555,6 +25999,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25651,7 +26096,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Soft Skin Refresh (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25661,6 +26105,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25766,6 +26211,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25862,7 +26308,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Deep Shower Freshness...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25870,6 +26315,8 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25966,7 +26413,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Smooth Fresh Glow (245...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25975,6 +26421,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26172,7 +26619,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Bright Healthy Daily Routin...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26181,6 +26627,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26277,7 +26724,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Fresh Bright Complexio...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26285,6 +26731,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26381,7 +26828,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Soft Clear Bright Skin (245...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26389,6 +26835,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26485,7 +26932,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Skin Bright Glow Care...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26494,6 +26940,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26693,7 +27141,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Deep Bright Formula (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26703,6 +27150,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26799,7 +27247,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Gentle Exfoliating Ac...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26808,6 +27255,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26904,7 +27352,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Fresh Smooth Routine (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -26913,6 +27360,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27009,7 +27457,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Clear Skin Feel (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27017,6 +27464,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27113,7 +27561,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Soft Bright Complexio...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27121,6 +27568,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27217,7 +27665,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Refined Skin (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27227,6 +27674,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27323,7 +27771,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Smooth Soft Shower Ski...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27331,6 +27778,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27427,7 +27875,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Gentle Brightening Cleansin...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27436,6 +27883,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27532,7 +27981,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Refreshing Bright Skin Car...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -27547,6 +27995,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27643,7 +28092,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Smooth Bright Skin Finish (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27651,6 +28099,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27747,7 +28196,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Smooth Healthy Texture...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27755,6 +28203,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27851,7 +28300,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Soft Bright Skin Routine (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -27865,6 +28313,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27961,7 +28410,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Bright Soft Healthy Complex...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27971,6 +28419,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28067,7 +28516,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Smooth Healthy Glow Finish ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28076,6 +28524,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28172,7 +28622,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Soft Daily Skin Formula (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28180,6 +28629,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28276,7 +28726,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Healthy Complex...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28284,6 +28733,8 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28380,7 +28831,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Daily Bright Formula ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -28394,6 +28844,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28490,7 +28941,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Body Skin Brightening Care ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28499,6 +28949,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28595,7 +29046,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Healthy Glow (245...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28604,6 +29054,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28700,7 +29151,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Bright Soft Shower Skin (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28709,6 +29159,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28805,7 +29256,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Healthy Smooth Body Texture...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28814,6 +29264,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -28910,7 +29361,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Fresh Body Smoothness Suppo...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -28920,6 +29370,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29016,7 +29467,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Gentle Skin Brightening (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29025,6 +29475,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29121,7 +29572,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Smooth Glow Finish (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29130,6 +29580,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29226,7 +29677,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Fresh Smooth Skin Feel...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29234,6 +29684,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29330,7 +29781,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Soft Complexion...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29338,6 +29788,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29435,7 +29886,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29443,6 +29893,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29539,7 +29990,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Bright Complexion...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29547,6 +29997,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29643,7 +30094,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Soft Skin Finish (245...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29652,6 +30102,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29748,7 +30199,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Clear Body Care...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29757,6 +30207,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29853,7 +30304,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Daily Glow Smoothness ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29862,6 +30312,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29958,7 +30409,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Soft Bright Formula (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29968,6 +30418,7 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30072,6 +30523,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30170,7 +30622,6 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -30181,6 +30632,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30277,7 +30729,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Smooth Bright Body Glow (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -30293,6 +30744,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30390,7 +30842,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -30400,6 +30851,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30496,7 +30948,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Gentle Bright Texture ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -30511,6 +30962,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30607,7 +31059,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Smooth Glow Care ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -30616,6 +31067,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30712,13 +31164,13 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Deep Skin Refining (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycerin",
    "ing:milk",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30815,7 +31267,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Gentle Skin Smoothness...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -30824,6 +31275,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -30920,7 +31372,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Clean Bright & Soft Skin (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -30928,6 +31379,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31024,7 +31476,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Gentle Bright Finish ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31034,6 +31485,8 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31131,7 +31584,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -31142,6 +31594,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31238,7 +31691,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Fresh Smooth Complexio...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31247,6 +31699,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31343,7 +31796,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Fresh Bright Smoothnes...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31352,6 +31804,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31550,7 +32003,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Shower Fresh Bright Skin (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31559,6 +32011,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31655,7 +32108,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Bright Shower Ski...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31663,6 +32115,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31861,7 +32314,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Brightening and Smooth Text...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -31870,6 +32322,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -31967,7 +32420,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -31982,6 +32434,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32078,7 +32531,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Skin Softening Formul...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32086,6 +32538,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32182,7 +32635,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Body Freshness & Smoothness...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32191,6 +32643,8 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32287,7 +32741,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Deep Clean Smooth Glow (245...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32296,6 +32749,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32392,7 +32846,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Daily Skin Care (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32401,6 +32854,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32598,7 +33052,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Smooth Bright Complexion (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32606,6 +33059,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32702,7 +33156,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Bright Fresh Complexion (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32711,6 +33164,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32808,7 +33262,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -32819,6 +33272,8 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -32915,7 +33370,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Healthy Glow Formula ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32925,6 +33379,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33022,7 +33477,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -33033,6 +33487,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33129,7 +33584,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Smooth Glow Ski...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33138,6 +33592,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33234,7 +33689,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Gentle Shower Care (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33242,6 +33696,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33338,7 +33793,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Shower Glow Care ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33347,6 +33801,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33443,7 +33898,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Gentle Body Cleansing...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33452,6 +33906,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33548,7 +34003,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Soft Body Glow & Care (245 ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33557,6 +34011,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33653,7 +34108,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Body Odor & Bright Ski...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33662,6 +34116,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33860,7 +34316,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -33870,6 +34325,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -33966,12 +34422,12 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Body Smoothness...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycerin",
    "ing:milk",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34068,7 +34524,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Smooth Skin Formula (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34076,6 +34531,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34172,7 +34628,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Clear Looking Body Skin (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34181,6 +34636,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34277,7 +34733,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Daily Skin Texture Car...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34286,6 +34741,8 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34382,7 +34839,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Deep Shower Freshness & Glo...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34391,6 +34847,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34487,7 +34945,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Soft Skin Care ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34497,6 +34954,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34593,7 +35051,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Gentle Smooth Finish ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34602,6 +35059,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34698,7 +35156,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Smooth Skin Car...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34706,6 +35163,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34802,7 +35260,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Smooth Daily Body Care...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34811,6 +35268,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -34907,7 +35365,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Soft Glow Support (24...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -34916,6 +35373,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35012,7 +35470,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash for Smooth Daily Bright Skin (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35021,6 +35478,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35117,7 +35575,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Smooth Body Skin ...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35126,6 +35583,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35222,13 +35680,13 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Skin Softening Care (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycerin",
    "ing:milk",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35326,7 +35784,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycerin",
@@ -35334,6 +35791,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35431,7 +35889,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35440,6 +35897,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35536,7 +35994,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Bright Shower Freshnes...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35546,6 +36003,8 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35642,7 +36101,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Body Wash with Bright Soft Shower Skin (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35650,6 +36108,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35746,7 +36205,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash with Skin Refining Care (2...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35755,6 +36213,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -35952,7 +36411,6 @@ const WASHES = [
   "title": "Active Wow 2% Salicylic Acid Body Wash for Soft Fresh Glow Care (...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -35962,6 +36420,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -36068,6 +36527,8 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -36275,6 +36736,7 @@ const WASHES = [
    "ing:vitamin-e",
    "claim:brightening",
    "claim:de-tan",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -36814,7 +37276,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -37214,6 +37685,7 @@ const WASHES = [
    "format:gel",
    "ing:jojoba",
    "ing:lemon",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -38031,7 +38503,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -38166,7 +38647,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -38229,7 +38719,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 5.2
@@ -38301,6 +38791,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -38308,7 +38799,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -38454,7 +38954,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -38588,7 +39097,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -38749,7 +39267,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 5.6
@@ -38821,6 +39339,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -38828,7 +39347,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -39041,6 +39569,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -39169,7 +39698,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -39401,7 +39939,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -39659,7 +40206,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 4.9
@@ -39732,6 +40279,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -39739,7 +40287,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -40958,7 +41515,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -41093,7 +41659,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -41328,7 +41903,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -41472,7 +42056,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -41804,7 +42397,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -42635,7 +43237,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -43085,7 +43696,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -43334,7 +43954,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -43573,7 +44202,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -44025,7 +44663,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -44168,7 +44815,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -44231,7 +44887,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 3.4
@@ -44305,6 +44961,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -44312,7 +44969,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -44579,7 +45245,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 1.8
@@ -44652,6 +45318,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -44659,7 +45326,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -44830,7 +45506,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 5
@@ -44903,6 +45579,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -44910,7 +45587,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -45182,7 +45868,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 4.2
@@ -45254,6 +45940,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -45261,7 +45948,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -45505,7 +46201,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -46241,7 +46946,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -46314,7 +47028,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 0
@@ -46390,6 +47104,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -46397,7 +47112,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -47152,7 +47876,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 6.2
@@ -47224,6 +47948,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -47231,7 +47956,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -47474,7 +48208,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -47950,7 +48693,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 8.2
@@ -48022,6 +48765,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -48029,13 +48773,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -48043,6 +48797,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -48205,7 +48960,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 3.8
@@ -48275,7 +49030,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -48378,6 +49142,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "claim:odour",
    "skin:all",
    "aud:men",
    "size:xl",
@@ -48579,6 +49344,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -49071,6 +49837,7 @@ const WASHES = [
    "format:kit",
    "ing:caffeine",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -49173,6 +49940,7 @@ const WASHES = [
    "format:kit",
    "ing:vitamin-c",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -49230,7 +49998,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 0
@@ -49281,6 +50049,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -49308,6 +50077,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -49315,13 +50085,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -49329,6 +50109,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -49537,6 +50318,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -49639,6 +50421,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -49741,6 +50524,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -49842,6 +50626,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -49943,6 +50728,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -49999,7 +50785,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 3.8
@@ -50073,6 +50859,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -50080,13 +50867,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -50094,6 +50891,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -51318,7 +52116,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 0
@@ -51364,6 +52162,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:xl",
@@ -51391,7 +52190,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -51746,7 +52554,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 5.6
@@ -51819,7 +52627,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -51882,7 +52699,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 0
@@ -51928,6 +52745,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -51955,6 +52773,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -51962,13 +52781,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -51976,6 +52805,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -52041,7 +52871,7 @@ const WASHES = [
    "Harsh anionic surfactant (SLS/ALS): sodium lauryl sulfate"
   ],
   "scores": {
-   "ingredients": 6.8,
+   "ingredients": 6.9,
    "skin": 8.4,
    "trust": 8.5,
    "experience": 5.3
@@ -52114,6 +52944,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -52121,7 +52952,16 @@ const WASHES = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -52582,7 +53422,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 4.9
@@ -52653,7 +53493,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -53532,7 +54381,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 0
@@ -53577,6 +54426,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:kit",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -53604,6 +54454,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -53611,13 +54462,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -53625,6 +54486,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -53730,6 +54592,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:kit",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -53830,6 +54693,7 @@ const WASHES = [
    "format:kit",
    "ing:jojoba",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -53931,6 +54795,7 @@ const WASHES = [
    "format:kit",
    "ing:jojoba",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -54033,6 +54898,7 @@ const WASHES = [
    "format:kit",
    "ing:jojoba",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -54437,6 +55303,7 @@ const WASHES = [
    "format:cream",
    "format:oil",
    "format:kit",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -54635,6 +55502,7 @@ const WASHES = [
    "format:gel",
    "format:cream",
    "format:oil",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -55039,6 +55907,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -55142,6 +56011,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:lemon",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -55410,7 +56280,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 0
@@ -55482,6 +56352,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -55489,13 +56360,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -55503,6 +56384,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -55671,7 +56553,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 6.1
@@ -55742,6 +56624,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -55749,13 +56632,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -55763,6 +56656,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -55868,6 +56762,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:kit",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -56021,7 +56916,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 4.7
@@ -56092,6 +56987,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -56099,13 +56995,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -56113,6 +57019,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -56177,7 +57084,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 6.8,
+   "ingredients": 7,
    "skin": 9.4,
    "trust": 8.5,
    "experience": 4.8
@@ -56241,20 +57148,38 @@ const WASHES = [
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 1,
-   "recognised": 0.93,
+   "recognised": 1,
    "actives": [
     {
      "name": "glycerin",
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "maris sal",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -56653,6 +57578,7 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -57059,6 +57985,7 @@ const WASHES = [
    "ing:caffeine",
    "claim:brightening",
    "claim:dark-spots",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -57096,216 +58023,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "mcaffeine-itmaa33590727b59",
-  "brand": "mCaffeine",
-  "model": "Coffee De Tan Body Washes Trio (3 x 200 ml)",
-  "price": 108,
-  "capacityLine": "600 ml (pack of 3)",
-  "materialLine": "coffee + vitamin E + cocoa/chocolate",
-  "featureLine": "Soap-free · Moisturizing · ₹18/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 10,349 ratings"
-  ],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
-   "experience": 7.9
-  },
-  "fullSpec": {
-   "volume": "200 ml × 3 pack",
-   "pricePer100ml": "₹18/100ml",
-   "format": "Body wash",
-   "keyIngredients": "coffee, vitamin E, cocoa/chocolate (per listing)",
-   "freeFrom": "Soap-free (seller claim — not scored)",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (10,349 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Coffee, Caffeine, Almond Extracts, Vitamin E, Coffee, Caffeine, Cocoa, Vitamin E, Coffee, Caffeine, Berries Extract- Raspberry, Cranberry & Strawberry, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 10,349 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/4/e/e/600-0-coffee-de-tan-body-washes-trio-3-mcaffeine-original-imaherszhnnyfvtj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/7/j/c/600-0-coffee-de-tan-body-washes-trio-3-mcaffeine-original-imaherszfpxkefur.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/a/w/600-0-coffee-de-tan-body-washes-trio-3-mcaffeine-original-imaherszrrswtasr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/o/n/600-0-coffee-de-tan-body-washes-trio-3-mcaffeine-original-imaherszbmcagw9z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/q/7/600-0-coffee-de-tan-body-washes-trio-3-mcaffeine-original-imaherszmebgext8.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-coffee-de-tan-body-washes-trio/p/itmaa33590727b59",
-  "buyStore": "Flipkart",
-  "title": "mCaffeine Coffee De Tan Body Washes Trio (3 x 200 ml)",
-  "tags": [
-   "scope:body",
-   "format:bar",
-   "format:wash",
-   "ing:caffeine",
-   "ing:coffee",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "ing:strawberry",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "skin:all",
-   "free:sulfate",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Coffee, Caffeine, Almond Extracts, Vitamin E, Coffee, Caffeine, Cocoa, Vitamin E, Coffee, Caffeine, Berries Extract- Raspberry, Cranberry & Strawberry, Vitamin E",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.62,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.3★ from 10,349 ratings"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "mcaffeine-itma4919ca9e74af",
-  "brand": "mCaffeine",
-  "model": "Coffee Body Scrub & Almond Body Wash|De Tan Exfoliation...more",
-  "price": 400,
-  "capacityLine": "Volume not stated",
-  "materialLine": "coffee",
-  "featureLine": "Exfoliating",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 2,086 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 7.5
-  },
-  "fullSpec": {
-   "volume": "Not stated in listing",
-   "pricePer100ml": "Not stated in listing",
-   "format": "Body wash",
-   "keyIngredients": "coffee (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (2,086 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 2,086 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/4/f/n/coffee-body-scrub-almond-body-wash-de-tan-exfoliation-tan-original-imahfnj8cxsazgqg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/h/s/z/-original-imagpeakmrnawqwg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/0/w/9/100-exfoliating-coffee-body-scrub-for-men-women-tan-removal-original-imahygzcdgjnqfry.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/o/7/l/400-coffee-almond-body-wash-for-d-tan-glowing-skin-refreshing-original-imahyf4r3ujezhjs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/i/j/detan-magic-combo-magic-soap-magic-facewash-1-ms-mf-ghar-soaps-original-imahk8k766yjzssa.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-coffee-body-scrub-almond-wash-de-tan-exfoliation-removal/p/itma4919ca9e74af",
-  "buyStore": "Flipkart",
-  "title": "mCaffeine Coffee Body Scrub & Almond Body Wash|De Tan Exfoliation...more",
-  "tags": [
-   "scope:body",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:caffeine",
-   "ing:coffee",
-   "ing:almond",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.3★ from 2,086 ratings"
-  },
-  "filters": {
-   "inci": "none",
    "inciSrc": null,
    "pharma": false
   }
@@ -57621,188 +58338,79 @@ const WASHES = [
   }
  },
  {
-  "id": "mcaffeine-itm9cd8ffce3bfb0",
+  "id": "mcaffeine-itm7d0c43a734183",
   "brand": "mCaffeine",
-  "model": "De-Tan Power Duo | Guava Tini De-Tan Body Wash & Dual A...more",
-  "price": 749,
-  "capacityLine": "475 ml",
-  "materialLine": "coffee + niacinamide",
-  "featureLine": "Exfoliating · ₹158/100ml",
+  "model": "Brightening SPF 50 PA+++ Sunscreen Body Lotion & Raspberry Body Wash Tan Removel",
+  "price": 750,
+  "capacityLine": "300 ml",
+  "materialLine": "coffee + glycerin + niacinamide",
+  "featureLine": "₹250/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "No buyer ratings yet"
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
    "trust": 5.3,
-   "experience": 0
+   "experience": 5.9
   },
   "fullSpec": {
-   "volume": "475 ml",
-   "pricePer100ml": "₹158/100ml",
+   "volume": "300 ml",
+   "pricePer100ml": "₹250/100ml",
    "format": "Body wash",
-   "keyIngredients": "coffee, niacinamide (per listing)",
+   "keyIngredients": "coffee, glycerin, niacinamide, cocoa/chocolate (per listing)",
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
+   "skinBenefit": "Not stated in listing",
    "fragrance": "Fragranced (per listing)",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
-   "rating": "No rating yet",
+   "rating": "4.2/5 (240 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: \"1.Guava tini body wash :6% Brightening Actives - Glycolic Acid + Kojic Acid + Niacinamide + Guava Extracts + Caffeine, \"1.Guava tini body scrub:5% Physical & Chemical Exfoliants - AHAs + BHA + Walnut + Apricot + Coffee\"\"\"",
+   "inciList": "Unverified seller line: Body Wash:- Raspberry Extract, Coffee Extract, 5% Glycerin., Body Lotion:- Raspberry Extract, Niacinamide, Coffee Extract, Cocoa Butter.",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "4.2★ from 240 ratings"
   },
   "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/v/p/z/de-tan-power-duo-guava-tini-de-tan-body-wash-dual-action-scrub-2-original-imahpp5szjzng7fm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/r/j/de-tan-power-duo-guava-tini-de-tan-body-wash-dual-action-scrub-2-original-imahpp5ssahhge4v.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/0/x/de-tan-power-duo-guava-tini-de-tan-body-wash-dual-action-scrub-2-original-imahpp5s5ugw77sq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/l/2/aquatic-freshness-body-duo-3-in-1-perfume-body-wash-perfume-body-original-imahpympffrvczne.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/1/h/brightening-spf-50-pa-sunscreen-body-lotion-raspberry-body-wash-original-imahc3ygmwhfssgj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/h/m/brightening-spf-50-pa-sunscreen-body-lotion-raspberry-body-wash-original-imahc3ygnye3d2h6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/6/x/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggyazy7radaf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/4/f/n/coffee-body-scrub-almond-body-wash-de-tan-exfoliation-tan-original-imahfnj8cxsazgqg.jpeg?q=90",
    "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/2/5/h/de-tan-exfoliate-face-body-combo-caramel-body-wash-coffee-face-original-imahkdw2n8y2ztqp.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-de-tan-power-duo-guava-tini-body-wash-dual-action-scrub/p/itm9cd8ffce3bfb0",
+  "buyUrl": "https://www.flipkart.com/mcaffeine-brightening-spf-50-pa-sunscreen-body-lotion-raspberry-wash-tan-removel/p/itm7d0c43a734183",
   "buyStore": "Flipkart",
-  "title": "mCaffeine De-Tan Power Duo | Guava Tini De-Tan Body Wash & Dual A...more",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:kojic-acid",
-   "ing:caffeine",
-   "ing:coffee",
-   "ing:walnut",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "\"1.Guava tini body wash :6% Brightening Actives - Glycolic Acid + Kojic Acid + Niacinamide + Guava Extracts + Caffeine, \"1.Guava tini body scrub:5% Physical & Chemical Exfoliants - AHAs + BHA + Walnut + Apricot + Coffee\"\"\"",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "mcaffeine-itmca5db26fb478c",
-  "brand": "mCaffeine",
-  "model": "Smooth Skin Duo | Caramel Crunch Exfoliating Body Wash ...more",
-  "price": 749,
-  "capacityLine": "475 ml",
-  "materialLine": "coffee + salicylic acid + niacinamide",
-  "featureLine": "Exfoliating · ₹158/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "475 ml",
-   "pricePer100ml": "₹158/100ml",
-   "format": "Body wash",
-   "keyIngredients": "coffee, salicylic acid, niacinamide, cocoa/chocolate (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 1.caramal eclairs body scrub: 10% Coffee Particles 1% [Niacinamide + AHA] & Cocoa Butter, 1.caramal body wash :7% Exfoliating Actives - Lactic Acid + Salicylic Acid + Walnut + Coffee + Willow Bark",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/w/c/smooth-skin-duo-caramel-crunch-exfoliating-body-wash-eclairs-original-imahpp5t2uxyamfv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/o/o/p/smooth-skin-duo-caramel-crunch-exfoliating-body-wash-eclairs-original-imahpp5tjbzg5dqe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/0/6/3-in-1-take-a-dip-deo-body-wash-guava-tini-de-tan-body-wash-original-imahnhntbx2kt9ue.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/l/2/aquatic-freshness-body-duo-3-in-1-perfume-body-wash-perfume-body-original-imahpympffrvczne.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/6/x/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggyazy7radaf.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-smooth-skin-duo-caramel-crunch-exfoliating-body-wash-eclairs-coffee-scrub/p/itmca5db26fb478c",
-  "buyStore": "Flipkart",
-  "title": "mCaffeine Smooth Skin Duo | Caramel Crunch Exfoliating Body Wash ...more",
+  "title": "mCaffeine Brightening SPF 50 PA+++ Sunscreen Body Lotion & Raspberry Body Wash Tan Removel",
   "tags": [
    "scope:body",
    "format:lotion",
    "format:balm",
    "format:pack",
-   "format:scrub",
    "format:wash",
    "format:kit",
+   "spf:50",
+   "pa:+++",
    "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:aha",
    "ing:caffeine",
    "ing:coffee",
-   "ing:walnut",
    "ing:cocoa-butter",
+   "ing:glycerin",
    "claim:brightening",
-   "claim:exfoliating",
-   "aud:women",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "claim:cooling",
+   "free:vegan",
+   "aud:kids",
    "size:xl",
-   "rating:none",
+   "rating:4.0",
    "store:flipkart",
    "inci:partial"
   ],
@@ -57815,8 +58423,8 @@ const WASHES = [
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": "1.caramal eclairs body scrub: 10% Coffee Particles 1% [Niacinamide + AHA] & Cocoa Butter, 1.caramal body wash :7% Exfoliating Actives - Lactic Acid + Salicylic Acid + Walnut + Coffee + Willow Bark",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciUnverified": "Body Wash:- Raspberry Extract, Coffee Extract, 5% Glycerin., Body Lotion:- Raspberry Extract, Niacinamide, Coffee Extract, Cocoa Butter.",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -57830,7 +58438,7 @@ const WASHES = [
     "pts": 5,
     "url": "https://www.mcaffeine.com/"
    },
-   "buyers": "No buyer ratings yet"
+   "buyers": "4.2★ from 240 ratings"
   },
   "filters": {
    "inci": "partial",
@@ -58046,109 +58654,6 @@ const WASHES = [
   }
  },
  {
-  "id": "mcaffeine-itm9ad087d580062",
-  "brand": "mCaffeine",
-  "model": "Guava Tini Body Wash & Sweet Escape Body Lotion | Glyco...more",
-  "price": 711,
-  "capacityLine": "300 ml",
-  "materialLine": "coffee + niacinamide",
-  "featureLine": "Moisturizing · ₹237/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 329 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 6.7
-  },
-  "fullSpec": {
-   "volume": "300 ml",
-   "pricePer100ml": "₹237/100ml",
-   "format": "Body wash",
-   "keyIngredients": "coffee, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Fragranced, long-lasting claim (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (329 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 329 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/6/x/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggyazy7radaf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/w/m/t/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggyapk7ghnq3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/u/i/a/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggya9hvzfk4d.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/7/c/berry-brightening-glow-combo-raspberry-body-wash-sweet-escape-original-imahgnzuvsnf9py6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/5/h/f/guava-tini-body-wash-sweet-escape-body-lotion-glycolic-acid-original-imahggyamhpbczby.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-guava-tini-body-wash-sweet-escape-lotion-glycolic-acid-niacinamide/p/itm9ad087d580062",
-  "buyStore": "Flipkart",
-  "title": "mCaffeine Guava Tini Body Wash & Sweet Escape Body Lotion | Glyco...more",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:glycolic-acid",
-   "ing:caffeine",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:lightweight",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.4★ from 329 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
   "id": "valmia-itm2ebe83092e6e1",
   "brand": "valmia",
   "model": "2% SalicylicAcid BodyWash BHA for Body Acne & Pimples With...more",
@@ -58313,6 +58818,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -58619,6 +59125,7 @@ const WASHES = [
    "format:bar",
    "format:wash",
    "ing:coffee",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -58720,6 +59227,7 @@ const WASHES = [
    "ing:coffee",
    "claim:de-tan",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -58764,7 +59272,7 @@ const WASHES = [
  {
   "id": "tupik-itm6e8ac3be952c9",
   "brand": "TUPIK",
-  "model": "Coffee Exfoliating Body Wash for Dead Skin Removal and Glow...more",
+  "model": "Coffee Exfoliating Body Wash for Dead Skin Removal and Glowing Smooth Skin: Buy TUPIK Coff…",
   "price": 126,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "coffee + salicylic acid",
@@ -58816,13 +59324,14 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-coffee-exfoliating-body-wash-dead-skin-removal-glowing-smooth/p/itm6e8ac3be952c9",
   "buyStore": "Flipkart",
-  "title": "TUPIK Coffee Exfoliating Body Wash for Dead Skin Removal and Glow...more",
+  "title": "TUPIK Coffee Exfoliating Body Wash for Dead Skin Removal and Glowing Smooth Skin: Buy TUPIK Coffee Exfoliating Body Wash for Dead Skin Removal and Glowing Smooth Skin at Low",
   "tags": [
    "scope:body",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:coffee",
+   "ing:chamomile",
    "claim:brightening",
    "claim:soothing",
    "claim:exfoliating",
@@ -58861,6 +59370,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -58868,6 +59378,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -58875,6 +59386,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -58882,6 +59394,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -58889,6 +59402,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -58994,6 +59508,7 @@ const WASHES = [
    "ing:caffeine",
    "ing:coffee",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -59098,6 +59613,8 @@ const WASHES = [
    "ing:coffee",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59213,6 +59730,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59330,6 +59848,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -59436,9 +59955,12 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -59545,6 +60067,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59765,6 +60288,7 @@ const WASHES = [
    "ing:avocado",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59877,6 +60401,8 @@ const WASHES = [
    "ing:gold",
    "claim:brightening",
    "claim:de-tan",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59990,6 +60516,8 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -60193,6 +60721,7 @@ const WASHES = [
    "ing:caffeine",
    "ing:coffee",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -60278,7 +60807,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#8 on list, strong evidence); salicylic acid (#10 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/o/b/w/200-salicylic-acid-body-wash-2-for-body-acne-coffee-scrub-original-imahmsgyqbjxchsg.jpeg?q=90",
@@ -60312,6 +60842,7 @@ const WASHES = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -60333,6 +60864,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -60340,6 +60872,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -60420,7 +60953,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/6/w/200-exfoliating-body-wash-derm-tested-ph-balanced-smooth-glowing-original-imahzhqtvw4m5dzf.jpeg?q=90",
@@ -60458,6 +60992,7 @@ const WASHES = [
    "ing:milk",
    "ing:cherry-acerola",
    "ing:avocado",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -60468,6 +61003,7 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -60489,6 +61025,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -60496,6 +61033,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -60503,6 +61041,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -60510,6 +61049,7 @@ const WASHES = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -60608,6 +61148,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -61022,6 +61563,8 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:odour",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:men",
@@ -61120,6 +61663,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:coffee",
+   "ing:sugar",
    "claim:soothing",
    "skin:all",
    "aud:women",
@@ -61224,6 +61768,7 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -61736,6 +62281,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61833,7 +62380,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -61847,6 +62393,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -61944,7 +62491,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -61960,6 +62506,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -62056,7 +62603,6 @@ const WASHES = [
   "title": "Rishaa Coffee Detox Body Cleanser Pack of 2 | Removes Tan & Resto...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -62071,6 +62617,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -62167,7 +62714,6 @@ const WASHES = [
   "title": "Rishaa Coffee Detox Body Wash for Men & Women Pack of 2 | Deep Cl...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -62181,6 +62727,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -62282,8 +62829,10 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:coffee",
+   "ing:chamomile",
    "claim:brightening",
    "claim:de-tan",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -62589,7 +63138,6 @@ const WASHES = [
   "title": "Rishaa Coffee Extract De-Tan Body Wash Pack of 2 | Smooth & Glowi...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -62604,6 +63152,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -62701,7 +63250,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -62714,6 +63262,7 @@ const WASHES = [
    "claim:brightening",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -62815,6 +63364,7 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -62912,7 +63462,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -62927,6 +63476,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63033,6 +63583,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -63133,6 +63684,7 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "ing:avocado",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -63229,7 +63781,6 @@ const WASHES = [
   "title": "Rishaa Coffee Detox Body Cleanser Combo Pack | Exfoliating De-Tan...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -63243,6 +63794,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63339,7 +63891,6 @@ const WASHES = [
   "title": "Rishaa Coffee Exfoliating Body Wash Pack of 2 | Removes Dead Skin...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -63352,6 +63903,7 @@ const WASHES = [
    "claim:brightening",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63388,110 +63940,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "rishaa-itm25b5991d7cd73",
-  "brand": "Rishaa",
-  "model": "Coffee Detox & Brightening Body Wash Trio Pack (3 x 100 ml...more",
-  "price": 249,
-  "capacityLine": "300 ml (pack of 3)",
-  "materialLine": "tea tree + coffee + salicylic acid",
-  "featureLine": "₹83/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "100 ml × 3 pack",
-   "pricePer100ml": "₹83/100ml",
-   "format": "Body wash",
-   "keyIngredients": "tea tree, coffee, salicylic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/n/c/300-coffee-detox-brightening-body-wash-trio-pack-3-rishaa-original-imahzk7gvphhfqrf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/w/6/300-coffee-detox-brightening-body-wash-trio-pack-3-rishaa-original-imahzk74gwsuqub6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/y/l/300-coffee-deep-clean-glow-wash-pack-of-3-3-rishaa-original-imahzk7gsznb8vrg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/b/a/300-coffee-glow-freshness-wash-combo-pack-3-rishaa-original-imahzk7g4zvvvxzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/5/9/s/-original-imahpge4ts8ucqke.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rishaa-coffee-detox-brightening-body-wash-trio-pack/p/itm25b5991d7cd73",
-  "buyStore": "Flipkart",
-  "title": "Rishaa Coffee Detox & Brightening Body Wash Trio Pack (3 x 100 ml...more",
-  "tags": [
-   "scope:body",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:coffee",
-   "ing:tea-tree",
-   "ing:avocado",
-   "claim:brightening",
-   "claim:acne",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
    "inciSrc": null,
    "pharma": false
   }
@@ -63553,7 +64001,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -63567,6 +64014,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63664,7 +64112,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -63677,6 +64124,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63779,6 +64227,7 @@ const WASHES = [
    "ing:coffee",
    "ing:avocado",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -63876,7 +64325,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -63890,6 +64338,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -63992,6 +64441,8 @@ const WASHES = [
    "ing:coffee",
    "ing:rose",
    "ing:avocado",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -64089,7 +64540,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -64106,6 +64556,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -64203,7 +64654,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -64217,6 +64667,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -64314,7 +64765,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -64327,6 +64777,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -64363,107 +64814,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "rishaa-itm07fe6e701f7f7",
-  "brand": "Rishaa",
-  "model": "Coffee Radiance Boost Body Wash Trio Pack (3 x 100 ml)",
-  "price": 249,
-  "capacityLine": "300 ml (pack of 3)",
-  "materialLine": "coffee",
-  "featureLine": "₹83/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "100 ml × 3 pack",
-   "pricePer100ml": "₹83/100ml",
-   "format": "Body wash",
-   "keyIngredients": "coffee (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/p/v/q/300-coffee-radiance-boost-body-wash-trio-pack-3-rishaa-original-imahzk7ytph2vyxj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/w/6/300-coffee-detox-brightening-body-wash-trio-pack-3-rishaa-original-imahzk74gwsuqub6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/y/l/300-coffee-deep-clean-glow-wash-pack-of-3-3-rishaa-original-imahzk7gsznb8vrg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/b/a/300-coffee-glow-freshness-wash-combo-pack-3-rishaa-original-imahzk7g4zvvvxzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/p/a/g/500-peach-avocado-body-wash-shower-gel-moisturized-skin-radiant-original-imahjux5gqmaxhje.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rishaa-coffee-radiance-boost-body-wash-trio-pack/p/itm07fe6e701f7f7",
-  "buyStore": "Flipkart",
-  "title": "Rishaa Coffee Radiance Boost Body Wash Trio Pack (3 x 100 ml)",
-  "tags": [
-   "scope:both",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:coffee",
-   "ing:avocado",
-   "claim:brightening",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
    "inciSrc": null,
    "pharma": false
   }
@@ -64631,6 +64981,7 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "ing:avocado",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -64728,7 +65079,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -64743,121 +65093,11 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
    "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Coffee Extract, Aloe Vera Extract, Glycerin, Niacinamide, Vitamin E, Aqua, Mild Cleansing Agents, Fragrance.",
-   "inciNote": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.88,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "rishaa-itm9105f964004ab",
-  "brand": "Rishaa",
-  "model": "Coffee Detox Body Wash Duo | Removes Dead Skin & Helps Imp...more",
-  "price": 207,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "aloe vera + coffee + glycerin",
-  "featureLine": "Exfoliating · Moisturizing · ₹52/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Seller “key ingredients” line — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "200 ml × 2 pack",
-   "pricePer100ml": "₹52/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "aloe vera, coffee, glycerin, vitamin E, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating, Exfoliating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Coffee Extract, Aloe Vera Extract, Glycerin, Niacinamide, Vitamin E, Aqua, Mild Cleansing Agents, Fragrance.",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/0/w/n/200-coffee-detox-body-wash-duo-removes-dead-skin-helps-improve-original-imahzm7fqzhhy6ah.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/w/6/300-coffee-detox-brightening-body-wash-trio-pack-3-rishaa-original-imahzk74gwsuqub6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/y/l/300-coffee-deep-clean-glow-wash-pack-of-3-3-rishaa-original-imahzk7gsznb8vrg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/b/a/300-coffee-glow-freshness-wash-combo-pack-3-rishaa-original-imahzk7g4zvvvxzg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/q/d/l/-original-imahpjw7tdhhacfp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rishaa-coffee-detox-body-wash-duo-removes-dead-skin-helps-improve-texture/p/itm9105f964004ab",
-  "buyStore": "Flipkart",
-  "title": "Rishaa Coffee Detox Body Wash Duo | Removes Dead Skin & Helps Imp...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:coffee",
-   "ing:aloe-vera",
-   "ing:vitamin-e",
-   "ing:glycerin",
-   "ing:avocado",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:partial"
@@ -64965,6 +65205,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -65001,110 +65242,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "rishaa-itmbbf5a0d6d3208",
-  "brand": "Rishaa",
-  "model": "Coffee Cleansing & Brightening Body Wash Trio (3 x 100 ml)",
-  "price": 249,
-  "capacityLine": "300 ml (pack of 3)",
-  "materialLine": "coffee + shea butter + saffron",
-  "featureLine": "₹83/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "100 ml × 3 pack",
-   "pricePer100ml": "₹83/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "coffee, shea butter, saffron (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/v/2/b/300-coffee-cleansing-brightening-body-wash-trio-3-rishaa-original-imahzk7pnhajggek.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/w/6/300-coffee-detox-brightening-body-wash-trio-pack-3-rishaa-original-imahzk74gwsuqub6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/c/y/l/300-coffee-deep-clean-glow-wash-pack-of-3-3-rishaa-original-imahzk7gsznb8vrg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/e/u/n/300-coffee-detox-shower-gel-pack-of-3-3-rishaa-original-imahzk8ywqyxfhgn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/f/e/k/200-party-perfect-2-in-1-body-wash-instant-tan-removal-instant-original-imahgv9ezu42jeq7.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rishaa-coffee-cleansing-brightening-body-wash-trio/p/itmbbf5a0d6d3208",
-  "buyStore": "Flipkart",
-  "title": "Rishaa Coffee Cleansing & Brightening Body Wash Trio (3 x 100 ml)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:balm",
-   "format:wash",
-   "format:kit",
-   "ing:coffee",
-   "ing:saffron",
-   "ing:shea-butter",
-   "claim:brightening",
-   "claim:soothing",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
    "inciSrc": null,
    "pharma": false
   }
@@ -65170,6 +65307,7 @@ const WASHES = [
    "ing:coffee",
    "ing:avocado",
    "claim:brightening",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -65270,6 +65408,7 @@ const WASHES = [
    "ing:coffee",
    "ing:avocado",
    "claim:de-tan",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -65367,7 +65506,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -65381,6 +65519,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -65484,6 +65623,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -66101,6 +66241,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -66202,6 +66343,7 @@ const WASHES = [
    "format:wash",
    "ing:charcoal",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -66302,6 +66444,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:charcoal",
+   "claim:odour",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -66399,6 +66542,7 @@ const WASHES = [
    "ing:charcoal",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:men",
@@ -66505,8 +66649,11 @@ const WASHES = [
    "ing:neem",
    "ing:argan-oil",
    "ing:jojoba",
+   "ing:lavender",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -66613,6 +66760,8 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:charcoal",
    "ing:glycerin",
+   "ing:lavender",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -66647,6 +66796,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -66654,6 +66804,7 @@ const WASHES = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -66661,7 +66812,16 @@ const WASHES = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -66750,6 +66910,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -66965,6 +67126,8 @@ const WASHES = [
    "claim:de-tan",
    "claim:acne",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -67062,6 +67225,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:charcoal",
    "ing:cucumber",
@@ -67069,6 +67233,7 @@ const WASHES = [
    "ing:lemon",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:odour",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -67171,6 +67336,7 @@ const WASHES = [
    "ing:cherry-acerola",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -67689,6 +67855,7 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "ing:milk",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -67797,6 +67964,7 @@ const WASHES = [
    "ing:charcoal",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -68016,6 +68184,8 @@ const WASHES = [
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:vegan",
@@ -68121,6 +68291,7 @@ const WASHES = [
    "ing:lemon",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -68319,6 +68490,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:neem",
    "claim:acne",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -68428,6 +68600,7 @@ const WASHES = [
    "ing:charcoal",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -68650,9 +68823,12 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -68758,9 +68934,12 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -68974,6 +69153,7 @@ const WASHES = [
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69087,6 +69267,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:oil-control",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69303,6 +69484,8 @@ const WASHES = [
    "ing:charcoal",
    "ing:glycerin",
    "claim:brightening",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69415,6 +69598,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:acne",
    "claim:oil-control",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69528,6 +69712,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69638,6 +69824,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:coconut",
    "ing:avocado",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -69746,6 +69933,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -70052,6 +70240,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "aud:men",
    "rating:4.0",
    "store:flipkart",
@@ -70153,6 +70342,7 @@ const WASHES = [
    "ing:lemon",
    "claim:brightening",
    "claim:soothing",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -70261,8 +70451,11 @@ const WASHES = [
    "ing:charcoal",
    "ing:neem",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -70348,7 +70541,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: tea tree oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — melaleuca alternifolia leaf oil #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/l/m/p/100-charcoal-body-wash-1-upscarf-original-imahnq6ytznbm9hy.jpeg?q=90",
@@ -70374,12 +70568,16 @@ const WASHES = [
    "ing:glycerin",
    "ing:milk",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -70401,6 +70599,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -70408,6 +70607,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -70415,6 +70615,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -70422,6 +70623,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -70429,6 +70631,7 @@ const WASHES = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -70533,6 +70736,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -70639,6 +70843,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -70740,6 +70945,7 @@ const WASHES = [
    "format:clay-mask",
    "format:wash",
    "ing:charcoal",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -70941,6 +71147,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:charcoal",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -71261,6 +71468,7 @@ const WASHES = [
    "ing:almond",
    "ing:glycerin",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -71369,6 +71577,8 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -71475,6 +71685,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -71579,6 +71790,7 @@ const WASHES = [
    "ing:almond",
    "ing:strawberry",
    "ing:avocado",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:vegan",
@@ -72083,10 +72295,12 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -72190,117 +72404,17 @@ const WASHES = [
    "ing:charcoal",
    "ing:almond",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
    "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "beweara-itmfcd4426a9fc11",
-  "brand": "Beweara",
-  "model": "Rose + Lavender + Charcoal Body Wash Trio (3 x 100 ml)",
-  "price": 136,
-  "capacityLine": "300 ml (pack of 3)",
-  "materialLine": "charcoal + rose + lavender",
-  "featureLine": "Moisturizing · ₹45/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "100 ml × 3 pack",
-   "pricePer100ml": "₹45/100ml",
-   "format": "Body wash",
-   "keyIngredients": "charcoal, rose, lavender, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/m/r/h/300-rose-lavender-charcoal-body-wash-trio-3-beweara-original-imahng4f7gcnrpm2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/7/u/l/300-floral-detox-body-wash-combo-3-beweara-original-imahng4fgyheapap.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/m/k/u/300-floral-detox-body-wash-combo-3-beweara-original-imahng4featxxzpt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/s/a/b/300-floral-detox-body-wash-combo-3-beweara-original-imahng4fpxxvnxrg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/w/a/y/200-pack-of-2-white-oud-mint-body-washes-2-beweara-original-imahng4f597mk7aj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/beweara-rose-lavender-charcoal-body-wash-trio/p/itmfcd4426a9fc11",
-  "buyStore": "Flipkart",
-  "title": "Beweara Rose + Lavender + Charcoal Body Wash Trio (3 x 100 ml)",
-  "tags": [
-   "scope:body",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:rose",
-   "ing:charcoal",
-   "claim:hydrating",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -72397,6 +72511,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -72498,6 +72613,7 @@ const WASHES = [
    "format:kit",
    "ing:charcoal",
    "ing:strawberry",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -72604,11 +72720,13 @@ const WASHES = [
    "ing:charcoal",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:ph-balanced",
@@ -72717,6 +72835,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "aud:women",
@@ -72826,7 +72945,9 @@ const WASHES = [
    "ing:almond",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73040,6 +73161,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73148,8 +73270,10 @@ const WASHES = [
    "ing:almond",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73257,6 +73381,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -73365,7 +73490,9 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73473,6 +73600,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -73581,6 +73709,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73687,6 +73816,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -73796,6 +73926,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -73903,6 +74034,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:brightening",
    "claim:ayurvedic",
    "skin:all",
@@ -74012,6 +74144,8 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -74111,7 +74245,9 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:ph-balanced",
@@ -74217,9 +74353,11 @@ const WASHES = [
    "ing:rose",
    "ing:honey",
    "ing:charcoal",
+   "ing:lavender",
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:ph-balanced",
@@ -74328,6 +74466,7 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -74436,6 +74575,7 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -74746,7 +74886,10 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "ing:lemon",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -74848,8 +74991,10 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:charcoal",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:acne",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -74958,6 +75103,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -75353,6 +75499,7 @@ const WASHES = [
    "format:kit",
    "ing:charcoal",
    "ing:lemon",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -75553,6 +75700,8 @@ const WASHES = [
    "format:kit",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:odour",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:men",
@@ -75663,6 +75812,7 @@ const WASHES = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -75760,13 +75910,15 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:charcoal",
    "ing:jojoba",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -76283,6 +76435,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:lemon",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:soothing",
    "skin:all",
    "free:paraben",
@@ -76388,6 +76541,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:almond",
    "ing:lemon",
+   "ing:lavender",
    "skin:all",
    "free:sulfate",
    "aud:women",
@@ -76491,9 +76645,11 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:rose",
    "ing:charcoal",
+   "ing:lavender",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -76596,7 +76752,9 @@ const WASHES = [
    "format:kit",
    "ing:charcoal",
    "ing:lemon",
+   "ing:lavender",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:ph-balanced",
    "aud:women",
@@ -76697,6 +76855,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -76800,6 +76959,8 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "claim:brightening",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -76900,9 +77061,11 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -77005,9 +77168,11 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "ing:charcoal",
+   "ing:lavender",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -77110,6 +77275,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -77264,11 +77430,11 @@ const WASHES = [
  {
   "id": "be-bodywise-itm44e791eaca057",
   "brand": "Be Bodywise",
-  "model": "1% Salicylic Acid Exfoliating Body Wash (250 ml)",
+  "model": "1% Salicylic Acid Exfoliating Body Wash | Prevents Back & Body Acne |Shower Gel: Buy Be Bo…",
   "price": 140,
-  "capacityLine": "250 ml",
+  "capacityLine": "Volume not stated",
   "materialLine": "salicylic acid",
-  "featureLine": "Exfoliating · ₹56/100ml",
+  "featureLine": "Exfoliating",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 46,660 ratings"
@@ -77283,9 +77449,9 @@ const WASHES = [
    "experience": 7.9
   },
   "fullSpec": {
-   "volume": "250 ml",
-   "pricePer100ml": "₹56/100ml",
-   "format": "Body wash",
+   "volume": "Not stated in listing",
+   "pricePer100ml": "Not stated in listing",
+   "format": "Shower gel",
    "keyIngredients": "salicylic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "phBalanced": "Not stated in listing",
@@ -77315,14 +77481,15 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/bodywise-1-salicylic-acid-exfoliating-body-wash/p/itm44e791eaca057",
   "buyStore": "Flipkart",
-  "title": "Be Bodywise 1% Salicylic Acid Exfoliating Body Wash (250 ml)",
+  "title": "Be Bodywise 1% Salicylic Acid Exfoliating Body Wash | Prevents Back & Body Acne |Shower Gel: Buy Be Bodywise 1% Salicylic Acid Exfoliating Body Wash | Prevents Back & Body Acne |Shower Gel at Low",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "claim:acne",
    "claim:exfoliating",
    "aud:unisex",
-   "size:large",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -77362,7 +77529,7 @@ const WASHES = [
  {
   "id": "tupik-itm7c59a16a2f38c",
   "brand": "TUPIK",
-  "model": "Refreshing Exfoliating Body Wash Daily Use Body Cleanser wi...more",
+  "model": "Refreshing Exfoliating Body Wash Daily Use Body Cleanser with Mild Scrub Beads: Buy TUPIK …",
   "price": 171,
   "capacityLine": "250 ml",
   "materialLine": "lemon/citrus",
@@ -77415,12 +77582,13 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-refreshing-exfoliating-body-wash-daily-use-cleanser-mild-scrub-beads/p/itm7c59a16a2f38c",
   "buyStore": "Flipkart",
-  "title": "TUPIK Refreshing Exfoliating Body Wash Daily Use Body Cleanser wi...more",
+  "title": "TUPIK Refreshing Exfoliating Body Wash Daily Use Body Cleanser with Mild Scrub Beads: Buy TUPIK Refreshing Exfoliating Body Wash Daily Use Body Cleanser with Mild Scrub Beads at Low",
   "tags": [
    "scope:body",
    "format:scrub",
    "format:wash",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -77455,6 +77623,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -77462,6 +77631,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -77469,6 +77639,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -77476,6 +77647,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -77483,6 +77655,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -77585,8 +77758,10 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:avocado",
+   "ing:lavender",
    "claim:acne",
    "claim:oil-control",
    "claim:exfoliating",
@@ -77640,7 +77815,7 @@ const WASHES = [
  {
   "id": "susal-itmc9ea82a2888fc",
   "brand": "Susal",
-  "model": "1% Salicylic Acid Exfoliating Body Wash To Prevent Body & B...more",
+  "model": "1% Salicylic Acid Exfoliating Body Wash To Prevent Body & Back Acne: Buy Susal 1% Salicyli…",
   "price": 269,
   "capacityLine": "Volume not stated",
   "materialLine": "aloe vera + tea tree + salicylic acid",
@@ -77680,6 +77855,7 @@ const WASHES = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Gladios Products (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.4★ from 5 ratings"
   },
   "images": [
@@ -77691,7 +77867,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/susal-1-salicylic-acid-exfoliating-body-wash-prevent-back-acne/p/itmc9ea82a2888fc",
   "buyStore": "Flipkart",
-  "title": "Susal 1% Salicylic Acid Exfoliating Body Wash To Prevent Body & B...more",
+  "title": "Susal 1% Salicylic Acid Exfoliating Body Wash To Prevent Body & Back Acne: Buy Susal 1% Salicylic Acid Exfoliating Body Wash To Prevent Body & Back Acne at Low",
   "tags": [
    "scope:body",
    "format:oil",
@@ -77742,7 +77918,7 @@ const WASHES = [
  {
   "id": "natuvera-itm3ba5da36e3d24",
   "brand": "Natuvera",
-  "model": "Exfoliating Body Wash with 7% AHA+BHA & Vitamin E | 250 ...more",
+  "model": "Exfoliating Body Wash with 7% AHA+BHA & Vitamin E | 250 ml: Buy Natuvera Exfoliating Body …",
   "price": 160,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E",
@@ -77783,7 +77959,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/j/o/y/250-exfoliating-body-wash-with-7-aha-bha-vitamin-e-250-ml-1-original-imahz9ygmhahy6vc.jpeg?q=90",
@@ -77794,7 +77971,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/natuvera-exfoliating-body-wash-7-aha-bha-vitamin-e-250-ml/p/itm3ba5da36e3d24",
   "buyStore": "Flipkart",
-  "title": "Natuvera Exfoliating Body Wash with 7% AHA+BHA & Vitamin E | 250 ...more",
+  "title": "Natuvera Exfoliating Body Wash with 7% AHA+BHA & Vitamin E | 250 ml: Buy Natuvera Exfoliating Body Wash with 7% AHA+BHA & Vitamin E | 250 ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -77814,6 +77991,9 @@ const WASHES = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -77835,6 +78015,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -77842,6 +78023,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -77849,6 +78031,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -77856,6 +78039,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -77863,6 +78047,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -77870,13 +78055,23 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -78090,10 +78285,12 @@ const WASHES = [
    "ing:licorice",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -78177,7 +78374,8 @@ const WASHES = [
    "evidenceActives": "salicylic acid (#12 on list, strong evidence); glycolic acid (#13 on list, strong evidence); glycerin (#21 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 56 ratings"
+   "buyerEvidence": "4.2★ from 56 ratings",
+   "concernBasis": "Acne — salicylic acid #12 on INCI, zinc pca #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/e/z/0/300-aha-bha-exfoliating-body-wash-for-body-acne-smooths-bumps-original-imahknrtrgmz9pgu.jpeg?q=90",
@@ -78203,6 +78401,7 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -78224,6 +78423,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -78231,6 +78431,7 @@ const WASHES = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -78238,6 +78439,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -78245,6 +78447,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -78252,6 +78455,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -78259,6 +78463,7 @@ const WASHES = [
      "grade": "A",
      "position": 21,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -78302,7 +78507,7 @@ const WASHES = [
  {
   "id": "dextron-itmc54ad9aeeec85",
   "brand": "Dextron",
-  "model": "Exfoliating Body Wash (200 ml)",
+  "model": "Exfoliating Body Wash: Buy DEXTRON Exfoliating Body Wash at Low",
   "price": 425,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "coffee + lemon/citrus + oats/milk",
@@ -78352,7 +78557,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dextron-exfoliating-body-wash/p/itmc54ad9aeeec85",
   "buyStore": "Flipkart",
-  "title": "DEXTRON Exfoliating Body Wash (200 ml)",
+  "title": "DEXTRON Exfoliating Body Wash: Buy DEXTRON Exfoliating Body Wash at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -78408,7 +78613,7 @@ const WASHES = [
  {
   "id": "skin-mellow-itmaf76a677f7805",
   "brand": "Skin Mellow",
-  "model": "Brightening & Exfoliating Body Wash | With Vitamin C,...more",
+  "model": "Brightening & Exfoliating Body Wash | With Vitamin C, Niacinamide, Glycolic Acid: Buy Skin…",
   "price": 298,
   "capacityLine": "250 ml",
   "materialLine": "vitamin C + lemon/citrus + niacinamide",
@@ -78459,7 +78664,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/skin-mellow-brightening-exfoliating-body-wash-vitamin-c-niacinamide-glycolic-acid/p/itmaf76a677f7805",
   "buyStore": "Flipkart",
-  "title": "Skin Mellow Brightening & Exfoliating Body Wash | With Vitamin C,...more",
+  "title": "Skin Mellow Brightening & Exfoliating Body Wash | With Vitamin C, Niacinamide, Glycolic Acid: Buy Skin Mellow Brightening & Exfoliating Body Wash | With Vitamin C, Niacinamide, Glycolic Acid at Low",
   "tags": [
    "scope:body",
    "format:cream",
@@ -78576,12 +78781,14 @@ const WASHES = [
    "ing:pha",
    "ing:aloe-vera",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -78704,6 +78911,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:oily",
@@ -78740,6 +78948,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -78747,6 +78956,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -78754,6 +78964,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -78761,6 +78972,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -78768,6 +78980,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -78870,6 +79083,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "format:wash",
+   "ing:sea-salt",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -78890,7 +79104,7 @@ const WASHES = [
    "inciUnverified": "Sea salt, Celluose Beads",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": 0,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -78913,7 +79127,7 @@ const WASHES = [
  {
   "id": "dermease-itm92b88c448e1fd",
   "brand": "DERMEASE",
-  "model": "1% SALICYLIC ACID DAILY EXFOLIATING BODY WASH (250 ml)",
+  "model": "1% SALICYLIC ACID DAILY EXFOLIATING BODY WASH: Buy DERMEASE 1% SALICYLIC ACID DAILY EXFOLI…",
   "price": 163,
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid + niacinamide",
@@ -78963,7 +79177,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dermease-1-salicylic-acid-daily-exfoliating-body-wash/p/itm92b88c448e1fd",
   "buyStore": "Flipkart",
-  "title": "DERMEASE 1% SALICYLIC ACID DAILY EXFOLIATING BODY WASH (250 ml)",
+  "title": "DERMEASE 1% SALICYLIC ACID DAILY EXFOLIATING BODY WASH: Buy DERMEASE 1% SALICYLIC ACID DAILY EXFOLIATING BODY WASH at Low",
   "tags": [
    "scope:body",
    "format:cream",
@@ -79226,7 +79440,7 @@ const WASHES = [
  {
   "id": "glamgroov-itm5310c3af0a149",
   "brand": "GLAMGROOV",
-  "model": "Daily Exfoliating Body Wash with Salicylic Acid for All...more",
+  "model": "Daily Exfoliating Body Wash with Salicylic Acid for All Skin Types: Buy GLAMGROOV Daily Ex…",
   "price": 237,
   "capacityLine": "250 ml",
   "materialLine": "aloe vera + salicylic acid",
@@ -79276,7 +79490,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/glamgroov-daily-exfoliating-body-wash-salicylic-acid-all-skin-types/p/itm5310c3af0a149",
   "buyStore": "Flipkart",
-  "title": "GLAMGROOV Daily Exfoliating Body Wash with Salicylic Acid for All...more",
+  "title": "GLAMGROOV Daily Exfoliating Body Wash with Salicylic Acid for All Skin Types: Buy GLAMGROOV Daily Exfoliating Body Wash with Salicylic Acid for All Skin Types at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -79288,6 +79502,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -79440,7 +79655,7 @@ const WASHES = [
  {
   "id": "moolveda-itm513df2f90d201",
   "brand": "moolveda",
-  "model": "Daily Exfoliating Body Wash Shower Gel (250 ml)",
+  "model": "Daily Exfoliating Body Wash Shower Gel: Buy moolveda Daily Exfoliating Body Wash Shower Ge…",
   "price": 174,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
@@ -79481,7 +79696,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#9 on list, strong evidence); lactic acid (#10 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #11 on INCI, niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/6/e/v/250-daily-exfoliating-body-wash-shower-gel-1-moolveda-original-imahn78nk9fjtt6a.jpeg?q=90",
@@ -79492,7 +79708,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/moolveda-daily-exfoliating-body-wash-shower-gel/p/itm513df2f90d201",
   "buyStore": "Flipkart",
-  "title": "moolveda Daily Exfoliating Body Wash Shower Gel (250 ml)",
+  "title": "moolveda Daily Exfoliating Body Wash Shower Gel: Buy moolveda Daily Exfoliating Body Wash Shower Gel at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -79505,6 +79721,9 @@ const WASHES = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -79526,6 +79745,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -79533,6 +79753,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -79540,6 +79761,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -79547,6 +79769,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -79554,6 +79777,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -79561,6 +79785,7 @@ const WASHES = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -79568,7 +79793,16 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -79666,6 +79900,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:cucumber",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -79769,8 +80004,10 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:lemon",
+   "ing:chamomile",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -79806,6 +80043,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -79813,6 +80051,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -79820,6 +80059,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -79827,6 +80067,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -79834,6 +80075,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -79941,9 +80183,11 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:jojoba",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -79979,6 +80223,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -79986,6 +80231,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -79993,6 +80239,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80000,6 +80247,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80007,6 +80255,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80115,6 +80364,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:milk",
+   "ing:chamomile",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
@@ -80154,6 +80404,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -80161,6 +80412,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -80168,6 +80420,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80175,6 +80428,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80182,6 +80436,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80229,7 +80484,7 @@ const WASHES = [
  {
   "id": "tupik-itm1c85488fca804",
   "brand": "TUPIK",
-  "model": "Skin Renewing Daily Exfoliating Body Wash Gentle Body Clean...more",
+  "model": "Skin Renewing Daily Exfoliating Body Wash Gentle Body Cleanser with Scrub Beads: Buy TUPIK…",
   "price": 169,
   "capacityLine": "250 ml",
   "materialLine": "neem + lemon/citrus",
@@ -80281,7 +80536,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-skin-renewing-daily-exfoliating-body-wash-gentle-cleanser-scrub-beads/p/itm1c85488fca804",
   "buyStore": "Flipkart",
-  "title": "TUPIK Skin Renewing Daily Exfoliating Body Wash Gentle Body Clean...more",
+  "title": "TUPIK Skin Renewing Daily Exfoliating Body Wash Gentle Body Cleanser with Scrub Beads: Buy TUPIK Skin Renewing Daily Exfoliating Body Wash Gentle Body Cleanser with Scrub Beads at Low",
   "tags": [
    "scope:body",
    "format:scrub",
@@ -80322,6 +80577,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -80329,6 +80585,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -80336,6 +80593,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80343,6 +80601,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80350,6 +80609,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80397,7 +80657,7 @@ const WASHES = [
  {
   "id": "tupik-itme6cc1ee9312bf",
   "brand": "TUPIK",
-  "model": "Daily Exfoliating Body Wash for Men and Women with Natural ...more",
+  "model": "Daily Exfoliating Body Wash for Men and Women with Natural Exfoliating Beads: Buy TUPIK Da…",
   "price": 124,
   "capacityLine": "1000 ml (pack of 4)",
   "materialLine": "salicylic acid + sandalwood + honey",
@@ -80449,7 +80709,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-daily-exfoliating-body-wash-men-women-natural-beads/p/itme6cc1ee9312bf",
   "buyStore": "Flipkart",
-  "title": "TUPIK Daily Exfoliating Body Wash for Men and Women with Natural ...more",
+  "title": "TUPIK Daily Exfoliating Body Wash for Men and Women with Natural Exfoliating Beads: Buy TUPIK Daily Exfoliating Body Wash for Men and Women with Natural Exfoliating Beads at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -80458,6 +80718,7 @@ const WASHES = [
    "ing:sandalwood",
    "ing:honey",
    "ing:milk",
+   "ing:chamomile",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
@@ -80497,6 +80758,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -80504,6 +80766,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -80511,6 +80774,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80518,6 +80782,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80525,6 +80790,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80632,6 +80898,7 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:jojoba",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -80670,6 +80937,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -80677,6 +80945,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -80684,6 +80953,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80691,6 +80961,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80698,6 +80969,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80745,7 +81017,7 @@ const WASHES = [
  {
   "id": "tupik-itmacbf72f6afcd4",
   "brand": "TUPIK",
-  "model": "Skin Smoothing Body Wash with Gentle Exfoliation for Daily ...more",
+  "model": "Skin Smoothing Body Wash with Gentle Exfoliation for Daily Use: Buy TUPIK Skin Smoothing B…",
   "price": 126,
   "capacityLine": "1000 ml (pack of 4)",
   "materialLine": "salicylic acid + lemon/citrus + oats/milk",
@@ -80797,7 +81069,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-skin-smoothing-body-wash-gentle-exfoliation-daily-use/p/itmacbf72f6afcd4",
   "buyStore": "Flipkart",
-  "title": "TUPIK Skin Smoothing Body Wash with Gentle Exfoliation for Daily ...more",
+  "title": "TUPIK Skin Smoothing Body Wash with Gentle Exfoliation for Daily Use: Buy TUPIK Skin Smoothing Body Wash with Gentle Exfoliation for Daily Use at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -80805,6 +81077,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:lemon",
    "ing:milk",
+   "ing:chamomile",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
@@ -80844,6 +81117,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -80851,6 +81125,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -80858,6 +81133,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -80865,6 +81141,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -80872,6 +81149,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -80919,7 +81197,7 @@ const WASHES = [
  {
   "id": "tupik-itmba22e495b4347",
   "brand": "TUPIK",
-  "model": "Moisturizing Exfoliating Body Wash for Fresh, Clean & Healt...more",
+  "model": "Moisturizing Exfoliating Body Wash for Fresh, Clean & Healthy Skin: Buy TUPIK Moisturizing…",
   "price": 120,
   "capacityLine": "250 ml",
   "materialLine": "tea tree + salicylic acid",
@@ -80971,13 +81249,14 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-moisturizing-exfoliating-body-wash-fresh-clean-healthy-skin/p/itmba22e495b4347",
   "buyStore": "Flipkart",
-  "title": "TUPIK Moisturizing Exfoliating Body Wash for Fresh, Clean & Healt...more",
+  "title": "TUPIK Moisturizing Exfoliating Body Wash for Fresh, Clean & Healthy Skin: Buy TUPIK Moisturizing Exfoliating Body Wash for Fresh, Clean & Healthy Skin at Low",
   "tags": [
    "scope:body",
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
+   "ing:chamomile",
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
@@ -81016,6 +81295,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -81023,6 +81303,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -81030,6 +81311,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -81037,6 +81319,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -81044,6 +81327,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -81091,7 +81375,7 @@ const WASHES = [
  {
   "id": "tupik-itmee01f0c56f186",
   "brand": "TUPIK",
-  "model": "Premium Exfoliating Body Cleanser for Men & Women with Refr...more",
+  "model": "Premium Exfoliating Body Cleanser for Men & Women with Refreshing Formula: Buy TUPIK Premi…",
   "price": 124,
   "capacityLine": "250 ml",
   "materialLine": "salicylic acid + rose + lemon/citrus",
@@ -81143,7 +81427,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/tupik-premium-exfoliating-body-cleanser-men-women-refreshing-formula/p/itmee01f0c56f186",
   "buyStore": "Flipkart",
-  "title": "TUPIK Premium Exfoliating Body Cleanser for Men & Women with Refr...more",
+  "title": "TUPIK Premium Exfoliating Body Cleanser for Men & Women with Refreshing Formula: Buy TUPIK Premium Exfoliating Body Cleanser for Men & Women with Refreshing Formula at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -81153,8 +81437,10 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:rose",
    "ing:lemon",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -81190,6 +81476,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -81197,6 +81484,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -81204,6 +81492,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -81211,6 +81500,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -81218,6 +81508,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -81265,7 +81556,7 @@ const WASHES = [
  {
   "id": "natuvera-itma0e414963eb24",
   "brand": "Natuvera",
-  "model": "Exfoliating Body Wash – 7% AHA+BHA & Vitamin E | 250 ml ...more",
+  "model": "Exfoliating Body Wash – 7% AHA+BHA & Vitamin E | 250 ml: Buy Natuvera Exfoliating Body Was…",
   "price": 175,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E + mint/menthol",
@@ -81306,7 +81597,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/w/z/i/250-exfoliating-body-wash-7-aha-bha-vitamin-e-250-ml-12-natuvera-original-imahz9ywf33zpgam.jpeg?q=90",
@@ -81317,7 +81609,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/natuvera-exfoliating-body-wash-7-aha-bha-vitamin-e-250-ml/p/itma0e414963eb24",
   "buyStore": "Flipkart",
-  "title": "Natuvera Exfoliating Body Wash – 7% AHA+BHA & Vitamin E | 250 ml ...more",
+  "title": "Natuvera Exfoliating Body Wash – 7% AHA+BHA & Vitamin E | 250 ml: Buy Natuvera Exfoliating Body Wash – 7% AHA+BHA & Vitamin E | 250 ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -81333,6 +81625,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -81345,6 +81638,9 @@ const WASHES = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -81366,6 +81662,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -81373,6 +81670,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -81380,6 +81678,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -81387,6 +81686,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -81394,6 +81694,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -81401,13 +81702,23 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -81446,7 +81757,7 @@ const WASHES = [
  {
   "id": "univonic-itm7aee0deecabad",
   "brand": "UNIVONIC",
-  "model": "Daily Exfoliating Body Wash 24 hors fresh body 150ml (15...more",
+  "model": "Daily Exfoliating Body Wash 24 hors fresh body 150ml: Buy UNIVONIC Daily Exfoliating Body …",
   "price": 178,
   "capacityLine": "150 ml",
   "materialLine": "glycerin + vitamin C + vitamin E",
@@ -81496,7 +81807,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/univonic-daily-exfoliating-body-wash-24-hors-fresh-150ml/p/itm7aee0deecabad",
   "buyStore": "Flipkart",
-  "title": "UNIVONIC Daily Exfoliating Body Wash 24 hors fresh body 150ml (15...more",
+  "title": "UNIVONIC Daily Exfoliating Body Wash 24 hors fresh body 150ml: Buy UNIVONIC Daily Exfoliating Body Wash 24 hors fresh body 150ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -81555,7 +81866,7 @@ const WASHES = [
  {
   "id": "kronzam-itmc21135d99c6ac",
   "brand": "Kronzam",
-  "model": "Daily Exfoliating Body Wash | Suitable for All Skin Types...more",
+  "model": "Daily Exfoliating Body Wash | Suitable for All Skin Types | Men & Women: Buy Kronzam Daily…",
   "price": 122,
   "capacityLine": "750 ml (pack of 3)",
   "materialLine": "aloe vera + salicylic acid + lemon/citrus",
@@ -81605,7 +81916,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/kronzam-daily-exfoliating-body-wash-suitable-all-skin-types-men-women/p/itmc21135d99c6ac",
   "buyStore": "Flipkart",
-  "title": "Kronzam Daily Exfoliating Body Wash | Suitable for All Skin Types...more",
+  "title": "Kronzam Daily Exfoliating Body Wash | Suitable for All Skin Types | Men & Women: Buy Kronzam Daily Exfoliating Body Wash | Suitable for All Skin Types | Men & Women at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -81615,7 +81926,9 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:lemon",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -81667,7 +81980,7 @@ const WASHES = [
  {
   "id": "kronzam-itm3f20d2b4e935a",
   "brand": "Kronzam",
-  "model": "Exfoliating Body Wash | Deep Cleanse & Smooth Skin | For ...more",
+  "model": "Exfoliating Body Wash | Deep Cleanse & Smooth Skin | For Men & Women: Buy Kronzam Exfoliat…",
   "price": 124,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "tea tree + salicylic acid + sandalwood",
@@ -81717,7 +82030,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/kronzam-exfoliating-body-wash-deep-cleanse-smooth-skin-men-women/p/itm3f20d2b4e935a",
   "buyStore": "Flipkart",
-  "title": "Kronzam Exfoliating Body Wash | Deep Cleanse & Smooth Skin | For ...more",
+  "title": "Kronzam Exfoliating Body Wash | Deep Cleanse & Smooth Skin | For Men & Women: Buy Kronzam Exfoliating Body Wash | Deep Cleanse & Smooth Skin | For Men & Women at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -81741,6 +82054,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:oily",
@@ -81864,8 +82178,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -81916,7 +82232,7 @@ const WASHES = [
  {
   "id": "kronzam-itm7dfbe5263bcdf",
   "brand": "Kronzam",
-  "model": "Daily Body Wash for Men & Women | Exfoliating & Refreshin...more",
+  "model": "Daily Body Wash for Men & Women | Exfoliating & Refreshing Skin Cleanser: Buy Kronzam Dail…",
   "price": 123,
   "capacityLine": "750 ml (pack of 3)",
   "materialLine": "aloe vera + tea tree + sandalwood",
@@ -81966,7 +82282,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/kronzam-daily-body-wash-men-women-exfoliating-refreshing-skin-cleanser/p/itm7dfbe5263bcdf",
   "buyStore": "Flipkart",
-  "title": "Kronzam Daily Body Wash for Men & Women | Exfoliating & Refreshin...more",
+  "title": "Kronzam Daily Body Wash for Men & Women | Exfoliating & Refreshing Skin Cleanser: Buy Kronzam Daily Body Wash for Men & Women | Exfoliating & Refreshing Skin Cleanser at Low",
   "tags": [
    "scope:body",
    "format:oil",
@@ -81986,8 +82302,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -82096,6 +82414,7 @@ const WASHES = [
    "ing:rose",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -82208,6 +82527,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:clay",
    "ing:avocado",
+   "ing:chamomile",
    "claim:exfoliating",
    "skin:oily",
    "skin:dry",
@@ -82321,7 +82641,9 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:rose",
    "ing:almond",
+   "ing:chamomile",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -82435,6 +82757,7 @@ const WASHES = [
    "ing:almond",
    "ing:lemon",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:exfoliating",
    "skin:oily",
    "skin:dry",
@@ -82545,6 +82868,7 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:avocado",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -82657,10 +82981,12 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:aha",
+   "ing:chamomile",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -82769,6 +83095,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
    "ing:lemon",
+   "ing:chamomile",
    "claim:exfoliating",
    "skin:oily",
    "skin:dry",
@@ -82877,6 +83204,7 @@ const WASHES = [
    "ing:rose",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -82985,7 +83313,9 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:rose",
+   "ing:chamomile",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83037,7 +83367,7 @@ const WASHES = [
  {
   "id": "skineva-itm7cfd9a4f077de",
   "brand": "Skineva",
-  "model": "Exfoliating Body Wash Salicylic Acid+Mandelic Acid Acne-F...more",
+  "model": "Exfoliating Body Wash Salicylic Acid+Mandelic Acid Acne-Free, Fresh & Clean Skin: Buy Skin…",
   "price": 225,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E + salicylic acid",
@@ -83088,7 +83418,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/skineva-exfoliating-body-wash-salicylic-acid-mandelic-acid-acne-free-fresh-clean-skin/p/itm7cfd9a4f077de",
   "buyStore": "Flipkart",
-  "title": "Skineva Exfoliating Body Wash Salicylic Acid+Mandelic Acid Acne-F...more",
+  "title": "Skineva Exfoliating Body Wash Salicylic Acid+Mandelic Acid Acne-Free, Fresh & Clean Skin: Buy Skineva Exfoliating Body Wash Salicylic Acid+Mandelic Acid Acne-Free, Fresh & Clean Skin at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -83098,6 +83428,7 @@ const WASHES = [
    "ing:vitamin-e",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83308,6 +83639,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -83323,8 +83655,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83359,6 +83693,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -83366,6 +83701,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -83373,6 +83709,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -83380,6 +83717,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -83387,6 +83725,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -83494,6 +83833,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:green-tea",
    "ing:tea-tree",
@@ -83506,8 +83846,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83542,6 +83884,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -83549,6 +83892,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -83556,6 +83900,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -83563,6 +83908,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -83570,6 +83916,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -83677,6 +84024,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -83691,8 +84039,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83727,6 +84077,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -83734,6 +84085,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -83741,6 +84093,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -83748,6 +84101,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -83755,6 +84109,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -83861,6 +84216,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -83876,9 +84232,11 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -83913,6 +84271,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -83920,6 +84279,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -83927,6 +84287,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -83934,6 +84295,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -83941,6 +84303,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -83988,7 +84351,7 @@ const WASHES = [
  {
   "id": "khevan-itm04ff911cc3562",
   "brand": "Khevan",
-  "model": "Exfoliating Body Wash with Natural Beads| Removes Dead Ski...more",
+  "model": "Exfoliating Body Wash with Natural Beads| Removes Dead Skin Cells | Sulfate Free: Buy Khev…",
   "price": 165,
   "capacityLine": "250 ml",
   "materialLine": "tea tree + sandalwood + rose",
@@ -84040,7 +84403,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/khevan-exfoliating-body-wash-natural-beads-removes-dead-skin-cells-sulfate-free/p/itm04ff911cc3562",
   "buyStore": "Flipkart",
-  "title": "Khevan Exfoliating Body Wash with Natural Beads| Removes Dead Ski...more",
+  "title": "Khevan Exfoliating Body Wash with Natural Beads| Removes Dead Skin Cells | Sulfate Free: Buy Khevan Exfoliating Body Wash with Natural Beads| Removes Dead Skin Cells | Sulfate Free at Low",
   "tags": [
    "scope:body",
    "format:balm",
@@ -84057,6 +84420,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:oily",
    "skin:dry",
@@ -84092,6 +84456,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -84099,6 +84464,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -84106,6 +84472,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84113,6 +84480,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -84120,6 +84488,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -84236,6 +84605,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
    "claim:exfoliating",
@@ -84273,6 +84643,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -84280,6 +84651,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -84287,6 +84659,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84294,6 +84667,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -84301,6 +84675,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -84407,6 +84782,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:green-tea",
    "ing:tea-tree",
@@ -84420,6 +84796,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
@@ -84457,6 +84834,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -84464,6 +84842,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -84471,6 +84850,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84478,6 +84858,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -84485,6 +84866,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -84592,6 +84974,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:green-tea",
    "ing:tea-tree",
@@ -84604,6 +84987,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -84641,6 +85025,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -84648,6 +85033,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -84655,6 +85041,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84662,6 +85049,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -84669,6 +85057,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -84788,9 +85177,11 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -84825,6 +85216,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -84832,6 +85224,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -84839,6 +85232,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84846,6 +85240,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -84853,6 +85248,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -84971,9 +85367,11 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -85008,6 +85406,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -85015,6 +85414,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85022,6 +85422,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85029,6 +85430,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -85036,6 +85438,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -85142,6 +85545,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -85157,6 +85561,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -85195,6 +85600,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -85202,6 +85608,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85209,6 +85616,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85216,6 +85624,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -85223,6 +85632,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -85270,7 +85680,7 @@ const WASHES = [
  {
   "id": "khevan-itme59b2107b2aa8",
   "brand": "Khevan",
-  "model": "Daily Exfoliating Body Wash | Removes Dead Skin Cells & Im...more",
+  "model": "Daily Exfoliating Body Wash | Removes Dead Skin Cells & Impurities: Buy Khevan Daily Exfol…",
   "price": 167,
   "capacityLine": "250 ml",
   "materialLine": "tea tree + salicylic acid + sandalwood",
@@ -85322,11 +85732,12 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/khevan-daily-exfoliating-body-wash-removes-dead-skin-cells-impurities/p/itme59b2107b2aa8",
   "buyStore": "Flipkart",
-  "title": "Khevan Daily Exfoliating Body Wash | Removes Dead Skin Cells & Im...more",
+  "title": "Khevan Daily Exfoliating Body Wash | Removes Dead Skin Cells & Impurities: Buy Khevan Daily Exfoliating Body Wash | Removes Dead Skin Cells & Impurities at Low",
   "tags": [
    "scope:body",
    "format:balm",
    "format:wash",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -85341,6 +85752,8 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:oily",
    "skin:dry",
@@ -85377,6 +85790,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -85384,6 +85798,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85391,6 +85806,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85398,6 +85814,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -85405,6 +85822,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -85452,7 +85870,7 @@ const WASHES = [
  {
   "id": "khevan-itmeaf7f0e4b1b13",
   "brand": "Khevan",
-  "model": "Glow Boosting Exfoliating Body Wash | Natural Beads | Smoo...more",
+  "model": "Glow Boosting Exfoliating Body Wash | Natural Beads | Smooth Skin Care Formula: Buy Khevan…",
   "price": 167,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "tea tree + sandalwood + rose",
@@ -85504,7 +85922,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/khevan-glow-boosting-exfoliating-body-wash-natural-beads-smooth-skin-care-formula/p/itmeaf7f0e4b1b13",
   "buyStore": "Flipkart",
-  "title": "Khevan Glow Boosting Exfoliating Body Wash | Natural Beads | Smoo...more",
+  "title": "Khevan Glow Boosting Exfoliating Body Wash | Natural Beads | Smooth Skin Care Formula: Buy Khevan Glow Boosting Exfoliating Body Wash | Natural Beads | Smooth Skin Care Formula at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -85523,9 +85941,11 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -85560,6 +85980,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -85567,6 +85988,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85574,6 +85996,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85581,6 +86004,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -85588,6 +86012,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -85695,6 +86120,7 @@ const WASHES = [
    "format:balm",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -85709,8 +86135,10 @@ const WASHES = [
    "ing:strawberry",
    "ing:milk",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -85745,6 +86173,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -85752,6 +86181,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85759,6 +86189,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85766,6 +86197,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -85773,6 +86205,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -85876,6 +86309,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:glycolic-acid",
+   "ing:sugar",
    "claim:acne",
    "claim:exfoliating",
    "skin:all",
@@ -85922,7 +86356,7 @@ const WASHES = [
  {
   "id": "swr-itm4c18436ba80f9",
   "brand": "SWR",
-  "model": "MCD Exfoliating Body Wash for Rough and Bumpy Skin with Peach...more",
+  "model": "MCD Exfoliating Body Wash for Rough and Bumpy Skin with Peach Extract (200 ml): Buy SWR MC…",
   "price": 344,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "coffee + niacinamide",
@@ -85972,7 +86406,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/swr-mcd-exfoliating-body-wash-rough-bumpy-skin-peach-extract-200-ml/p/itm4c18436ba80f9",
   "buyStore": "Flipkart",
-  "title": "SWR MCD Exfoliating Body Wash for Rough and Bumpy Skin with Peach...more",
+  "title": "SWR MCD Exfoliating Body Wash for Rough and Bumpy Skin with Peach Extract (200 ml): Buy SWR MCD Exfoliating Body Wash for Rough and Bumpy Skin with Peach Extract (200 ml) at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -86184,7 +86618,6 @@ const WASHES = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -86199,6 +86632,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -86556,7 +86990,7 @@ const WASHES = [
  {
   "id": "veqix-itm6165622666dde",
   "brand": "veqix",
-  "model": "Exfoliating Body Wash – Deep Cleansing & Skin Smoothing Sho...more",
+  "model": "Exfoliating Body Wash – Deep Cleansing & Skin Smoothing Shower Gel with Walnut: Buy veqix …",
   "price": 106,
   "capacityLine": "600 ml (pack of 3)",
   "materialLine": "neem + rose + lemon/citrus",
@@ -86606,7 +87040,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/veqix-exfoliating-body-wash-deep-cleansing-skin-smoothing-shower-gel-walnut/p/itm6165622666dde",
   "buyStore": "Flipkart",
-  "title": "veqix Exfoliating Body Wash – Deep Cleansing & Skin Smoothing Sho...more",
+  "title": "veqix Exfoliating Body Wash – Deep Cleansing & Skin Smoothing Shower Gel with Walnut: Buy veqix Exfoliating Body Wash – Deep Cleansing & Skin Smoothing Shower Gel with Walnut at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -86621,6 +87055,7 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -86872,7 +87307,7 @@ const WASHES = [
  {
   "id": "enn-itm13091278264e0",
   "brand": "ENN",
-  "model": "1% Salicylic Acid Daily Exfoliating Body Wash For Back & Body...more",
+  "model": "1% Salicylic Acid Daily Exfoliating Body Wash For Back & Body Acne: Buy ENN 1% Salicylic A…",
   "price": 248,
   "capacityLine": "300 ml",
   "materialLine": "aloe vera + salicylic acid",
@@ -86921,7 +87356,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/enn-1-salicylic-acid-daily-exfoliating-body-wash-back-acne/p/itm13091278264e0",
   "buyStore": "Flipkart",
-  "title": "ENN 1% Salicylic Acid Daily Exfoliating Body Wash For Back & Body...more",
+  "title": "ENN 1% Salicylic Acid Daily Exfoliating Body Wash For Back & Body Acne: Buy ENN 1% Salicylic Acid Daily Exfoliating Body Wash For Back & Body Acne at Low",
   "tags": [
    "scope:body",
    "format:cream",
@@ -87017,7 +87452,8 @@ const WASHES = [
    "evidenceActives": "lactic acid (#5 on list, strong evidence); glycerin (#6 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 74 ratings"
+   "buyerEvidence": "4.3★ from 74 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/j/s/h/300-exfoliating-body-wash-1-salicylic-acid-lactic-acid-for-original-imahe8gc2f7gtx4z.jpeg?q=90",
@@ -87042,6 +87478,7 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -87064,6 +87501,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -87071,6 +87509,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -87078,6 +87517,7 @@ const WASHES = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -87085,6 +87525,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -87172,6 +87613,7 @@ const WASHES = [
    "format:wash",
    "ing:walnut",
    "ing:glycerin",
+   "ing:apricot",
    "claim:exfoliating",
    "skin:all",
    "free:vegan",
@@ -87216,7 +87658,7 @@ const WASHES = [
  {
   "id": "natuvera-itmce5a551f857b2",
   "brand": "Natuvera",
-  "model": "Exfoliating Body Wash with 7% AHA+BHA – Refreshes & Soft...more",
+  "model": "Exfoliating Body Wash with 7% AHA+BHA – Refreshes & Softens Skin | 250 ml: Buy Natuvera Ex…",
   "price": 199,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E + salicylic acid",
@@ -87257,7 +87699,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/q/h/n/250-exfoliating-body-wash-with-7-aha-bha-refreshes-softens-skin-original-imahz9syzmz9fsxq.jpeg?q=90",
@@ -87268,7 +87711,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/natuvera-exfoliating-body-wash-7-aha-bha-refreshes-softens-skin-250-ml/p/itmce5a551f857b2",
   "buyStore": "Flipkart",
-  "title": "Natuvera Exfoliating Body Wash with 7% AHA+BHA – Refreshes & Soft...more",
+  "title": "Natuvera Exfoliating Body Wash with 7% AHA+BHA – Refreshes & Softens Skin | 250 ml: Buy Natuvera Exfoliating Body Wash with 7% AHA+BHA – Refreshes & Softens Skin | 250 ml at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -87286,6 +87729,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:acne",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -87297,6 +87741,9 @@ const WASHES = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -87318,6 +87765,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -87325,6 +87773,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -87332,6 +87781,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -87339,6 +87789,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -87346,6 +87797,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -87353,13 +87805,23 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -87566,6 +88028,8 @@ const WASHES = [
    "ing:strawberry",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:all",
@@ -87919,7 +88383,7 @@ const WASHES = [
  {
   "id": "erbali-itmb30bc6d7d2867",
   "brand": "Erbali",
-  "model": "Exfoliating Body Wash - Lactic Acid, Salicylic Acid | Show...more",
+  "model": "Exfoliating Body Wash - Lactic Acid, Salicylic Acid | Shower Gel for Women & Men: Buy Erba…",
   "price": 171,
   "capacityLine": "1000 ml (pack of 4)",
   "materialLine": "vitamin E + salicylic acid + lavender",
@@ -87969,7 +88433,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/erbali-exfoliating-body-wash-lactic-acid-salicylic-acid-shower-gel-women-men/p/itmb30bc6d7d2867",
   "buyStore": "Flipkart",
-  "title": "Erbali Exfoliating Body Wash - Lactic Acid, Salicylic Acid | Show...more",
+  "title": "Erbali Exfoliating Body Wash - Lactic Acid, Salicylic Acid | Shower Gel for Women & Men: Buy Erbali Exfoliating Body Wash - Lactic Acid, Salicylic Acid | Shower Gel for Women & Men at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -87983,6 +88447,7 @@ const WASHES = [
    "ing:aha",
    "ing:centella-cica",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:de-tan",
    "claim:exfoliating",
    "skin:oily",
@@ -88030,7 +88495,7 @@ const WASHES = [
  {
   "id": "erbali-itmcf6b8f976cbc8",
   "brand": "Erbali",
-  "model": "4% Lactic acid Exfoliating Body Wash Shower Gel for Men or...more",
+  "model": "4% Lactic acid Exfoliating Body Wash Shower Gel for Men or Women All Skin Type: Buy Erbali…",
   "price": 171,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E + salicylic acid + lavender",
@@ -88080,7 +88545,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/erbali-4-lactic-acid-exfoliating-body-wash-shower-gel-men-women-all-skin-type/p/itmcf6b8f976cbc8",
   "buyStore": "Flipkart",
-  "title": "Erbali 4% Lactic acid Exfoliating Body Wash Shower Gel for Men or...more",
+  "title": "Erbali 4% Lactic acid Exfoliating Body Wash Shower Gel for Men or Women All Skin Type: Buy Erbali 4% Lactic acid Exfoliating Body Wash Shower Gel for Men or Women All Skin Type at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -88092,11 +88557,13 @@ const WASHES = [
    "ing:aha",
    "ing:vitamin-e",
    "ing:avocado",
+   "ing:lavender",
    "claim:de-tan",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -88141,7 +88608,7 @@ const WASHES = [
  {
   "id": "erbali-itm2145af9f8e0af",
   "brand": "Erbali",
-  "model": "4% Lactic acid Exfoliating Body Wash | De-Tan Glycolic & S...more",
+  "model": "4% Lactic acid Exfoliating Body Wash | De-Tan Glycolic & Summer Morning Wash: Buy Erbali 4…",
   "price": 171,
   "capacityLine": "500 ml (pack of 2)",
   "materialLine": "vitamin E + salicylic acid + lavender",
@@ -88191,7 +88658,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/erbali-4-lactic-acid-exfoliating-body-wash-de-tan-glycolic-summer-morning/p/itm2145af9f8e0af",
   "buyStore": "Flipkart",
-  "title": "Erbali 4% Lactic acid Exfoliating Body Wash | De-Tan Glycolic & S...more",
+  "title": "Erbali 4% Lactic acid Exfoliating Body Wash | De-Tan Glycolic & Summer Morning Wash: Buy Erbali 4% Lactic acid Exfoliating Body Wash | De-Tan Glycolic & Summer Morning Wash at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -88204,6 +88671,8 @@ const WASHES = [
    "ing:aha",
    "ing:kojic-acid",
    "ing:vitamin-e",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:de-tan",
    "claim:dark-spots",
    "claim:exfoliating",
@@ -88252,7 +88721,7 @@ const WASHES = [
  {
   "id": "erbali-itm94edb6917e0d9",
   "brand": "Erbali",
-  "model": "Instant Glow Exfoliating Body Wash | 4% Lactic + Salicylic...more",
+  "model": "Instant Glow Exfoliating Body Wash | 4% Lactic + Salicylic + Vitamin E: Buy Erbali Instant…",
   "price": 171,
   "capacityLine": "250 ml",
   "materialLine": "vitamin E + salicylic acid + lavender",
@@ -88302,7 +88771,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/erbali-instant-glow-exfoliating-body-wash-4-lactic-salicylic-vitamin-e/p/itm94edb6917e0d9",
   "buyStore": "Flipkart",
-  "title": "Erbali Instant Glow Exfoliating Body Wash | 4% Lactic + Salicylic...more",
+  "title": "Erbali Instant Glow Exfoliating Body Wash | 4% Lactic + Salicylic + Vitamin E: Buy Erbali Instant Glow Exfoliating Body Wash | 4% Lactic + Salicylic + Vitamin E at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -88313,6 +88782,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:avocado",
    "ing:olive",
+   "ing:lavender",
    "claim:brightening",
    "claim:exfoliating",
    "skin:all",
@@ -88659,7 +89129,7 @@ const WASHES = [
  {
   "id": "winym-itm597ddacd1db1c",
   "brand": "Winym",
-  "model": "Exfoliating Body Wash with Lactic Acid & Salicylic for Deep...more",
+  "model": "Exfoliating Body Wash with Lactic Acid & Salicylic for Deep Clean Care: Buy Winym Exfoliat…",
   "price": 237,
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "salicylic acid + coconut",
@@ -88709,7 +89179,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/winym-exfoliating-body-wash-lactic-acid-salicylic-deep-clean-care/p/itm597ddacd1db1c",
   "buyStore": "Flipkart",
-  "title": "Winym Exfoliating Body Wash with Lactic Acid & Salicylic for Deep...more",
+  "title": "Winym Exfoliating Body Wash with Lactic Acid & Salicylic for Deep Clean Care: Buy Winym Exfoliating Body Wash with Lactic Acid & Salicylic for Deep Clean Care at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -89033,6 +89503,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -89237,6 +89708,7 @@ const WASHES = [
    "ing:lactic-acid",
    "ing:coconut",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -89556,6 +90028,8 @@ const WASHES = [
    "ing:lemon",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -89741,7 +90215,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 17 ratings"
+   "buyerEvidence": "3.5★ from 17 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/w/q/2/400-refreshing-body-wash-aloe-vera-lemon-mint-white-oud-no-harsh-original-imahhzmvbghtzwa9.jpeg?q=90",
@@ -89758,10 +90233,12 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "rating:3.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -89783,6 +90260,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89790,13 +90268,23 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -89894,6 +90382,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -89995,6 +90484,7 @@ const WASHES = [
    "ing:cucumber",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -90309,6 +90799,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -90713,6 +91204,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:coconut",
+   "ing:lavender",
    "claim:brightening",
    "skin:all",
    "aud:women",
@@ -90840,6 +91332,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -90847,6 +91340,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -90854,6 +91348,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -90861,6 +91356,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -90868,6 +91364,7 @@ const WASHES = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -90875,6 +91372,7 @@ const WASHES = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -91226,7 +91724,7 @@ const WASHES = [
    "EU-declared fragrance allergen: limonene, linalool"
   ],
   "scores": {
-   "ingredients": 4.8,
+   "ingredients": 5,
    "skin": 7.3,
    "trust": 7.5,
    "experience": 5.3
@@ -91293,10 +91791,19 @@ const WASHES = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -91304,6 +91811,7 @@ const WASHES = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -91311,6 +91819,7 @@ const WASHES = [
      "grade": "A",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -91630,6 +92139,7 @@ const WASHES = [
    "ing:strawberry",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -91659,6 +92169,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -91666,6 +92177,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -91755,6 +92267,7 @@ const WASHES = [
    "ing:strawberry",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -92060,6 +92573,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:strawberry",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -92462,8 +92976,10 @@ const WASHES = [
    "ing:rose",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -92568,7 +93084,10 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:rose",
    "ing:neem",
+   "ing:lavender",
    "claim:acne",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -92681,6 +93200,7 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:milk",
+   "ing:chamomile",
    "claim:de-tan",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -92721,6 +93241,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -92728,6 +93249,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -92735,6 +93257,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -92742,6 +93265,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -92749,6 +93273,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -92856,6 +93381,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:honey",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:exfoliating",
    "skin:oily",
@@ -92893,6 +93419,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -92900,6 +93427,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -92907,6 +93435,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -92914,6 +93443,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -92921,6 +93451,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -93137,9 +93668,11 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:charcoal",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -93175,6 +93708,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -93182,6 +93716,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -93189,6 +93724,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -93196,6 +93732,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -93203,6 +93740,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -93307,6 +93845,8 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:chamomile",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -93342,6 +93882,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -93349,6 +93890,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -93356,6 +93898,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -93363,6 +93906,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -93370,6 +93914,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -93432,7 +93977,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.7,
+   "ingredients": 4.8,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 0
@@ -93482,8 +94027,11 @@ const WASHES = [
    "ing:almond",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -93510,13 +94058,23 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -93623,6 +94181,8 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:almond",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:oily",
@@ -93734,9 +94294,11 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:neem",
+   "ing:chamomile",
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -93893,6 +94455,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -93900,6 +94463,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -93907,6 +94471,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -94006,10 +94571,12 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:strawberry",
    "ing:milk",
+   "ing:chamomile",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -94045,6 +94612,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -94052,6 +94620,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -94059,6 +94628,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -94066,6 +94636,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -94073,6 +94644,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -94672,7 +95244,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 8 ratings"
+   "buyerEvidence": "5★ from 8 ratings",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/v/n/h/300-berry-shower-gel-for-hydrating-moisturising-skin-1-konzik-original-imah8ggrj2kg9wth.jpeg?q=90",
@@ -94700,6 +95273,8 @@ const WASHES = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "evidence": {
@@ -94721,6 +95296,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -94728,7 +95304,16 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -94940,6 +95525,7 @@ const WASHES = [
    "ing:milk",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -95050,6 +95636,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:glycerin",
    "ing:avocado",
+   "ing:chamomile",
    "claim:de-tan",
    "claim:dark-spots",
    "claim:hydrating",
@@ -95151,6 +95738,8 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "skin:oily",
@@ -95259,8 +95848,11 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -95370,6 +95962,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "claim:whitening-claim",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -95681,6 +96274,7 @@ const WASHES = [
    "format:wash",
    "ing:tea-tree",
    "ing:rose",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "skin:all",
@@ -95993,6 +96587,7 @@ const WASHES = [
    "ing:kojic-acid",
    "ing:honey",
    "ing:avocado",
+   "ing:lavender",
    "claim:dark-spots",
    "claim:hydrating",
    "skin:all",
@@ -96294,8 +96889,10 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
+   "ing:magnesium",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -96450,7 +97047,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.1,
+   "ingredients": 6.2,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -96476,7 +97073,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/g/a/6/300-0-goat-milk-shower-gel-moisturize-rejuvenating-body-wash-original-imahnvcjqtzduuyb.jpeg?q=90",
@@ -96502,6 +97100,8 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "evidence": {
@@ -96523,6 +97123,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -96530,13 +97131,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -96695,7 +97306,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.1,
+   "ingredients": 6.2,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -96721,7 +97332,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/2/m/4/300-0-nourishing-goat-milk-body-wash-moisturizing-rejuvenating-original-imahnvcgm9j9nqth.jpeg?q=90",
@@ -96749,6 +97361,8 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "evidence": {
@@ -96770,6 +97384,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -96777,13 +97392,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -96838,7 +97463,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.1,
+   "ingredients": 6.2,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -96864,7 +97489,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/t/2/g/300-0-moisturizing-goat-milk-body-wash-rejuvenating-skin-care-original-imahnvcgg3dzyaqq.jpeg?q=90",
@@ -96886,11 +97512,14 @@ const WASHES = [
    "ing:milk",
    "claim:hydrating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "evidence": {
@@ -96912,6 +97541,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -96919,13 +97549,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -97024,6 +97664,8 @@ const WASHES = [
    "ing:charcoal",
    "ing:lemon",
    "ing:avocado",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -97116,7 +97758,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/g/k/e/300-ultra-hydrating-rose-body-wash-with-red-rice-water-vitamin-e-original-imahmtuyuqgdyhb2.jpeg?q=90",
@@ -97149,6 +97792,7 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -97171,6 +97815,7 @@ const WASHES = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -97178,6 +97823,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -97270,10 +97916,12 @@ const WASHES = [
    "ing:collagen",
    "ing:almond",
    "ing:avocado",
+   "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -97384,6 +98032,8 @@ const WASHES = [
    "ing:coffee",
    "ing:cocoa-butter",
    "ing:avocado",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "skin:all",
@@ -97493,6 +98143,7 @@ const WASHES = [
    "ing:avocado",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:sensitive",
@@ -97646,110 +98297,6 @@ const WASHES = [
   }
  },
  {
-  "id": "foxtale-itm66ccb982c261e",
-  "brand": "Foxtale",
-  "model": "Hydrating Body Wash & Lotion | For Soft & Glowing Skin (2...more",
-  "price": 542,
-  "capacityLine": "450 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Paraben-free · Moisturizing · ₹120/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 250 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 6.6
-  },
-  "fullSpec": {
-   "volume": "450 ml",
-   "pricePer100ml": "₹120/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Fragranced, long-lasting claim (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (250 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 250 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/u/o/f/450-hydrating-body-wash-lotion-for-soft-glowing-skin-2-foxtale-original-imahjmyrx3zkz2sx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/1/0/7/450-hydrating-body-wash-lotion-for-soft-glowing-skin-2-foxtale-original-imahjmyrcfvgy8hd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/w/7/3/450-hydrating-body-wash-lotion-for-soft-glowing-skin-2-foxtale-original-imahjmyrzcmsjuwv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/d/6/u/250-hula-hoop-hydralock-body-wash-24-hrs-long-hydration-original-imahg7cynvjz5gfx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/h/x/500-exfoliating-body-wash-pack-of-2-fights-body-acne-bumps-original-imahga9kzw5yxhem.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/foxtale-hydrating-body-wash-lotion-soft-glowing-skin/p/itm66ccb982c261e",
-  "buyStore": "Flipkart",
-  "title": "Foxtale Hydrating Body Wash & Lotion | For Soft & Glowing Skin (2...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:lotion",
-   "format:wash",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:long-lasting",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4.4★ from 250 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
   "id": "mysticmuse-itmba64d653d57c2",
   "brand": "Mysticmuse",
   "model": "Coffee Body Wash Shower Gel Aloe Vera & Vitamin e for ...more",
@@ -97766,7 +98313,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4.1,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 2.5
@@ -97852,13 +98399,23 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -97866,6 +98423,7 @@ const WASHES = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -97873,6 +98431,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -97967,8 +98526,10 @@ const WASHES = [
    "format:kit",
    "ing:aloe-vera",
    "ing:strawberry",
+   "ing:lavender",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -98068,6 +98629,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -98564,7 +99126,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); salicylic acid (#13 on list, strong evidence); lactic acid (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "concernBasis": "Acne — salicylic acid #13 on INCI; Irritation — panthenol #15 on INCI, aloe barbadensis leaf extract #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/b/p/e/400-clarity-labs-muscle-relief-body-wash-post-workout-sports-original-imahzw89aecp2v2n.jpeg?q=90",
@@ -98579,6 +99142,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:lavender",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -98592,6 +99156,8 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "evidence": {
@@ -98613,6 +99179,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -98620,6 +99187,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -98627,6 +99195,7 @@ const WASHES = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -98634,6 +99203,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -98641,6 +99211,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -98697,7 +99268,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.8,
+   "ingredients": 4.9,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 0
@@ -98777,13 +99348,23 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "tocopheryl acetate",
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -98791,6 +99372,7 @@ const WASHES = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -98894,6 +99476,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
+   "ing:chamomile",
    "claim:acne",
    "claim:hydrating",
    "skin:all",
@@ -99300,6 +99883,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:chamomile",
    "claim:soothing",
    "claim:ayurvedic",
    "skin:oily",
@@ -99337,6 +99921,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -99344,6 +99929,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -99351,6 +99937,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -99358,6 +99945,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -99365,6 +99953,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -99610,6 +100199,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -99617,6 +100207,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -99624,6 +100215,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -99631,6 +100223,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -99638,6 +100231,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -99748,9 +100342,12 @@ const WASHES = [
    "ing:sandalwood",
    "ing:lemon",
    "ing:milk",
+   "ing:chamomile",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -99786,6 +100383,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -99793,6 +100391,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -99800,6 +100399,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -99807,6 +100407,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -99814,6 +100415,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -99919,6 +100521,7 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:rose",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "skin:oily",
@@ -100034,6 +100637,7 @@ const WASHES = [
    "ing:honey",
    "ing:strawberry",
    "ing:milk",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:barrier",
    "skin:oily",
@@ -100071,6 +100675,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100078,6 +100683,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100085,6 +100691,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100092,6 +100699,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100099,6 +100707,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -100205,6 +100814,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:strawberry",
+   "ing:chamomile",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -100240,6 +100850,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100247,6 +100858,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100254,6 +100866,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100261,6 +100874,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100268,6 +100882,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -100374,6 +100989,8 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:rose",
+   "ing:chamomile",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -100409,6 +101026,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100416,6 +101034,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100423,6 +101042,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100430,6 +101050,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100437,6 +101058,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -100544,6 +101166,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:coffee",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
@@ -100582,6 +101205,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100589,6 +101213,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100596,6 +101221,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100603,6 +101229,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100610,6 +101237,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -100716,6 +101344,7 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:dry",
@@ -100822,6 +101451,7 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:aha",
+   "ing:chamomile",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -100861,6 +101491,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100868,6 +101499,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100875,6 +101507,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100882,6 +101515,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100889,6 +101523,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -101093,6 +101728,7 @@ const WASHES = [
    "ing:saffron",
    "ing:sandalwood",
    "ing:charcoal",
+   "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
@@ -101200,6 +101836,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -101417,6 +102054,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -101560,6 +102198,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -101567,6 +102206,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -101574,6 +102214,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "oat"
     }
    ],
@@ -101676,6 +102317,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -101889,6 +102531,7 @@ const WASHES = [
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102000,6 +102643,8 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102117,6 +102762,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102340,6 +102986,8 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102450,6 +103098,8 @@ const WASHES = [
    "ing:sandalwood",
    "ing:glycerin",
    "claim:brightening",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102562,6 +103212,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102675,6 +103326,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:de-tan",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102783,7 +103435,10 @@ const WASHES = [
    "ing:turmeric",
    "ing:neem",
    "ing:glycerin",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102890,6 +103545,7 @@ const WASHES = [
    "ing:milk",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -102998,6 +103654,7 @@ const WASHES = [
    "ing:sandalwood",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -103109,6 +103766,8 @@ const WASHES = [
    "ing:coconut",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -103220,6 +103879,8 @@ const WASHES = [
    "ing:honey",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -103326,6 +103987,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:vitamin-c",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -103522,9 +104184,11 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -103626,10 +104290,12 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -103732,8 +104398,10 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -103838,6 +104506,7 @@ const WASHES = [
    "ing:saffron",
    "ing:rose",
    "ing:neem",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -103968,6 +104637,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -103975,6 +104645,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -103982,6 +104653,7 @@ const WASHES = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -103989,6 +104661,7 @@ const WASHES = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -103996,6 +104669,7 @@ const WASHES = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -104409,6 +105083,7 @@ const WASHES = [
    "ing:saffron",
    "ing:rose",
    "ing:neem",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -104651,13 +105326,23 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -104665,6 +105350,7 @@ const WASHES = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -104745,7 +105431,8 @@ const WASHES = [
    "evidenceActives": "salicylic acid (#4 on list, strong evidence); glycerin (#9 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 536 ratings"
+   "buyerEvidence": "4.2★ from 536 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI, salicylic acid #4 on INCI, melaleuca alternifolia leaf oil #14 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/b/n/9/200-acnexpert-body-wash-with-salicylic-acid-green-tea-1-moody-original-imahfv8txuuwqjqv.jpeg?q=90",
@@ -104769,6 +105456,8 @@ const WASHES = [
    "claim:acne",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:ingrown",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "free:paraben",
@@ -104777,6 +105466,8 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:secondary"
   ],
@@ -104799,6 +105490,7 @@ const WASHES = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -104806,6 +105498,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -104813,6 +105506,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -104820,6 +105514,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -104827,6 +105522,7 @@ const WASHES = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -104834,6 +105530,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -104841,6 +105538,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -104959,9 +105657,12 @@ const WASHES = [
    "ing:tea-tree",
    "ing:glycerin",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -105176,6 +105877,7 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -105382,6 +106084,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:coffee",
    "ing:tea-tree",
@@ -105497,6 +106200,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -105600,8 +106304,11 @@ const WASHES = [
    "ing:coffee",
    "ing:tea-tree",
    "ing:charcoal",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -105707,10 +106414,13 @@ const WASHES = [
    "ing:tea-tree",
    "ing:turmeric",
    "ing:neem",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -105819,6 +106529,7 @@ const WASHES = [
    "claim:brightening",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:odour",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -105918,12 +106629,14 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:charcoal",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -106031,6 +106744,8 @@ const WASHES = [
    "ing:neem",
    "claim:acne",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -106247,6 +106962,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:jojoba",
    "ing:lemon",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "skin:oily",
@@ -106665,6 +107381,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -106778,9 +107495,11 @@ const WASHES = [
    "ing:honey",
    "ing:lemon",
    "ing:milk",
+   "ing:chamomile",
    "claim:acne",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -106816,6 +107535,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -106823,6 +107543,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -106830,6 +107551,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -106837,6 +107559,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -106844,6 +107567,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -106954,8 +107678,11 @@ const WASHES = [
    "ing:coffee",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -107065,8 +107792,10 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:sandalwood",
    "ing:honey",
+   "ing:chamomile",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -107102,6 +107831,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -107109,6 +107839,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -107116,6 +107847,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -107123,6 +107855,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -107130,6 +107863,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -107270,6 +108004,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -107277,6 +108012,7 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -107284,6 +108020,7 @@ const WASHES = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -107291,6 +108028,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -107298,6 +108036,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -107517,6 +108256,8 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:milk",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:soothing",
@@ -107630,6 +108371,7 @@ const WASHES = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -107742,6 +108484,7 @@ const WASHES = [
    "claim:acne",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -107962,6 +108705,7 @@ const WASHES = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108078,6 +108822,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108192,6 +108937,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108525,10 +109271,13 @@ const WASHES = [
    "ing:coffee",
    "ing:turmeric",
    "ing:neem",
+   "ing:lavender",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108638,10 +109387,13 @@ const WASHES = [
    "ing:coffee",
    "ing:neem",
    "ing:milk",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108753,6 +109505,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108860,6 +109613,7 @@ const WASHES = [
    "ing:tea-tree",
    "ing:charcoal",
    "ing:glycerin",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -108972,6 +109726,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -109087,6 +109842,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -109179,7 +109935,8 @@ const WASHES = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "The Rich Daddy Inte, Dwarkesh Industrial Highway, Estate-3, Hazira-Velania Highi,vay, Nr, Umra, Gujarat-394130 Mfg, Lie, Nil:CM 721 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 752 ratings"
+   "buyerEvidence": "4.2★ from 752 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI; Irritation — panthenol #14 on INCI, aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/u/b/8/300-d-tan-body-wash-with-2-salicylic-acid-niacinamide-for-back-original-imahzbkxpqfefwzh.jpeg?q=90",
@@ -109199,6 +109956,9 @@ const WASHES = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -109222,6 +109982,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -109229,6 +109990,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -109236,6 +109998,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -109243,6 +110006,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -109250,6 +110014,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -109257,6 +110022,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -109349,6 +110115,7 @@ const WASHES = [
    "ing:honey",
    "ing:lemon",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "free:paraben",
    "free:vegan",
@@ -109455,7 +110222,10 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:lemon",
    "ing:milk",
+   "ing:chamomile",
    "claim:whitening-claim",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -109680,6 +110450,7 @@ const WASHES = [
    "ing:neem",
    "ing:glycerin",
    "claim:oil-control",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -109791,6 +110562,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:acne",
    "claim:oil-control",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -109905,6 +110677,9 @@ const WASHES = [
    "ing:glycerin",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:antiperspirant",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110130,6 +110905,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110243,6 +111019,7 @@ const WASHES = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110351,8 +111128,12 @@ const WASHES = [
    "ing:turmeric",
    "ing:neem",
    "ing:glycerin",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:oil-control",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110469,6 +111250,7 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110578,6 +111360,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:avocado",
    "claim:acne",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110689,6 +111472,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:acne",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -110917,6 +111701,7 @@ const WASHES = [
    "ing:lemon",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111029,6 +111814,8 @@ const WASHES = [
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111141,6 +111928,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:avocado",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111253,6 +112041,7 @@ const WASHES = [
    "ing:coconut",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111370,6 +112159,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111481,6 +112271,8 @@ const WASHES = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -111587,6 +112379,8 @@ const WASHES = [
    "ing:lemon",
    "ing:avocado",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111696,6 +112490,8 @@ const WASHES = [
    "ing:glycerin",
    "claim:acne",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111807,6 +112603,8 @@ const WASHES = [
    "ing:neem",
    "ing:glycerin",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -111918,6 +112716,7 @@ const WASHES = [
    "ing:avocado",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112038,6 +112837,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:acne",
    "claim:korean",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112148,8 +112948,11 @@ const WASHES = [
    "ing:cucumber",
    "ing:glycerin",
    "ing:avocado",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112258,6 +113061,8 @@ const WASHES = [
    "ing:neem",
    "ing:glycerin",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112369,6 +113174,7 @@ const WASHES = [
    "ing:glycerin",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112480,6 +113286,7 @@ const WASHES = [
    "ing:coconut",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112589,6 +113396,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:lemon",
    "claim:brightening",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112703,6 +113511,8 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112812,8 +113622,12 @@ const WASHES = [
    "ing:turmeric",
    "ing:neem",
    "ing:glycerin",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:brightening",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -112925,6 +113739,8 @@ const WASHES = [
    "ing:lemon",
    "ing:avocado",
    "claim:de-tan",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113034,6 +113850,8 @@ const WASHES = [
    "ing:saffron",
    "ing:glycerin",
    "claim:acne",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113145,6 +113963,8 @@ const WASHES = [
    "ing:glycerin",
    "claim:acne",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113255,6 +114075,7 @@ const WASHES = [
    "ing:cucumber",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113366,6 +114187,8 @@ const WASHES = [
    "ing:lemon",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113475,6 +114298,8 @@ const WASHES = [
    "ing:neem",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113585,6 +114410,8 @@ const WASHES = [
    "ing:glycerin",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113699,6 +114526,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113811,6 +114639,8 @@ const WASHES = [
    "ing:glycerin",
    "ing:avocado",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -113921,6 +114751,7 @@ const WASHES = [
    "ing:lemon",
    "ing:avocado",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -114245,6 +115076,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -114449,6 +115281,7 @@ const WASHES = [
    "ing:cherry-acerola",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -114558,6 +115391,8 @@ const WASHES = [
    "ing:honey",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -114658,6 +115493,8 @@ const WASHES = [
    "format:wash",
    "ing:sandalwood",
    "ing:honey",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "free:paraben",
@@ -114764,6 +115601,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -115076,9 +115914,12 @@ const WASHES = [
    "ing:saffron",
    "ing:sandalwood",
    "ing:cherry-acerola",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -115301,6 +116142,7 @@ const WASHES = [
    "ing:avocado",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -115704,10 +116546,13 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:neem",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -115913,6 +116758,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -116016,6 +116862,7 @@ const WASHES = [
    "ing:lemon",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -116122,6 +116969,7 @@ const WASHES = [
    "ing:almond",
    "ing:avocado",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -116222,6 +117070,8 @@ const WASHES = [
    "format:kit",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:intimate-hygiene",
    "aud:men",
    "size:xl",
    "rating:none",
@@ -116641,6 +117491,8 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:intimate-hygiene",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -116853,11 +117705,13 @@ const WASHES = [
    "ing:papaya",
    "ing:cucumber",
    "ing:avocado",
+   "ing:lavender",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -117057,8 +117911,10 @@ const WASHES = [
    "format:bar",
    "format:wash",
    "ing:green-tea",
+   "ing:apricot",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:ph-balanced",
@@ -117159,6 +118015,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "ing:lemon",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -117261,9 +118118,11 @@ const WASHES = [
    "ing:turmeric",
    "ing:charcoal",
    "ing:neem",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -117378,6 +118237,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -117691,6 +118551,7 @@ const WASHES = [
    "ing:sandalwood",
    "ing:rose",
    "ing:strawberry",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -117794,7 +118655,9 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "ing:green-tea",
+   "ing:lavender",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -118108,8 +118971,10 @@ const WASHES = [
    "ing:niacinamide",
    "ing:sandalwood",
    "ing:honey",
+   "ing:lavender",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -118422,6 +119287,7 @@ const WASHES = [
    "format:wash",
    "ing:coconut",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -118844,6 +119710,7 @@ const WASHES = [
    "ing:turmeric",
    "ing:almond",
    "ing:glycerin",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -118932,7 +119799,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/o/i/w/300-luxury-body-wash-aqua-glow-1-the-earthy-store-original-imahzafybyunwzqf.jpeg?q=90",
@@ -118950,6 +119818,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:rosehip",
    "ing:vitamin-e",
@@ -118957,12 +119826,16 @@ const WASHES = [
    "ing:glycerin",
    "ing:jojoba",
    "ing:avocado",
+   "ing:chamomile",
    "claim:brightening",
    "skin:all",
    "aud:women",
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -118985,6 +119858,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -118992,6 +119866,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -118999,6 +119874,7 @@ const WASHES = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -119006,13 +119882,23 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
     },
     {
      "name": "simmondsia chinensis seed oil",
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -119020,6 +119906,7 @@ const WASHES = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -119396,7 +120283,8 @@ const WASHES = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/2/0/r/200-psora-relief-body-wash-1-nrp-ayurveda-original-imahzgvqdrr6zxxe.jpeg?q=90",
@@ -119434,6 +120322,7 @@ const WASHES = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -119456,6 +120345,7 @@ const WASHES = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -119463,6 +120353,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -119470,6 +120361,7 @@ const WASHES = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -119675,6 +120567,7 @@ const WASHES = [
    "ing:coconut",
    "ing:avocado",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -119776,6 +120669,7 @@ const WASHES = [
    "format:kit",
    "ing:avocado",
    "ing:olive",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "free:vegan",
@@ -119879,6 +120773,7 @@ const WASHES = [
    "ing:milk",
    "ing:avocado",
    "ing:olive",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "free:paraben",
@@ -120496,7 +121391,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "skin:all",
@@ -121024,6 +121918,7 @@ const WASHES = [
    "ing:honey",
    "ing:lemon",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -121267,17 +122162,19 @@ const WASHES = [
   "capacityLine": "60 ml",
   "materialLine": "ubtan",
   "featureLine": "₹562/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Rubz official website (rubz.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.3,
+   "skin": 6.4,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -121295,13 +122192,16 @@ const WASHES = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceUrl": "https://rubz.in/products/top-ubtan-body-wash-for-women-and-men-1-litre",
+   "inciMatchedName": "Ubtan Body wash - 1 Litre (name match 100%)",
+   "inciList": "DM Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Aloe Vera Extract, Sandalwood Extract, Turmeric Extract, Almond Oil, Coconut Oil, Phenoxyethanol, Citric Acid, Vitamin-E, Fragrance",
+   "evidenceActives": "glycerin (#5 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/g/e/g/60-ubtan-body-wash-tan-removal-skin-brightening-natural-original-imahgwh4mkd2pqfc.jpeg?q=90",
@@ -121327,25 +122227,89 @@ const WASHES = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Rubz official website (rubz.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://rubz.in/products/top-ubtan-body-wash-for-women-and-men-1-litre",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Ubtan Body wash - 1 Litre",
+   "inciMatchScore": 1,
+   "inciText": "DM Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Aloe Vera Extract, Sandalwood Extract, Turmeric Extract, Almond Oil, Coconut Oil, Phenoxyethanol, Citric Acid, Vitamin-E, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -121356,8 +122320,8 @@ const WASHES = [
    "buyers": "No buyer ratings yet"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -121420,6 +122384,7 @@ const WASHES = [
    "format:wash",
    "ing:sandalwood",
    "ing:honey",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "skin:all",
@@ -121622,6 +122587,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "format:kit",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "free:vegan",
@@ -121932,6 +122898,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:strawberry",
    "ing:milk",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "aud:women",
@@ -122141,6 +123108,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:lemon",
+   "ing:calendula",
    "claim:ayurvedic",
    "skin:all",
    "aud:women",
@@ -122237,6 +123205,7 @@ const WASHES = [
    "scope:body",
    "format:cream",
    "format:wash",
+   "ing:lavender",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -122565,6 +123534,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -122965,6 +123935,7 @@ const WASHES = [
    "ing:rose",
    "ing:honey",
    "ing:avocado",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -123064,6 +124035,7 @@ const WASHES = [
    "scope:body",
    "format:cream",
    "format:wash",
+   "ing:lavender",
    "claim:soothing",
    "skin:all",
    "free:paraben",
@@ -123162,6 +124134,8 @@ const WASHES = [
    "scope:body",
    "format:cream",
    "format:wash",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -123260,6 +124234,7 @@ const WASHES = [
    "scope:body",
    "format:cream",
    "format:wash",
+   "ing:lavender",
    "claim:soothing",
    "skin:all",
    "free:paraben",
@@ -123559,10 +124534,12 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -123621,7 +124598,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.2,
+   "ingredients": 6.3,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -123647,7 +124624,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/f/c/r/300-3-in-1-perfume-body-wash-for-aqua-fresh-deo-body-wash-with-2-original-imahpyfwzexhckyp.jpeg?q=90",
@@ -123674,6 +124652,7 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -123695,6 +124674,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -123702,13 +124682,23 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -123895,12 +124885,12 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:lemon",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -123960,7 +124950,7 @@ const WASHES = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.2,
+   "ingredients": 6.3,
    "skin": 6.4,
    "trust": 5.5,
    "experience": 0
@@ -123986,7 +124976,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/s/a/300-3-in-1-perfume-body-wash-odour-control-aqua-fresh-smooth-original-imahpygyxbhrszgw.jpeg?q=90",
@@ -124005,7 +124996,10 @@ const WASHES = [
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
+   "ing:lavender",
    "claim:brightening",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -124014,6 +125008,7 @@ const WASHES = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -124035,6 +125030,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -124042,13 +125038,23 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -124142,6 +125148,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "claim:odour",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -124336,6 +125343,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:oil",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -124538,6 +125546,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:xl",
@@ -124732,6 +125741,7 @@ const WASHES = [
    "format:gel",
    "format:foam",
    "ing:glycerin",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:large",
@@ -125129,6 +126139,8 @@ const WASHES = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:lemon",
+   "ing:lavender",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -125328,6 +126340,7 @@ const WASHES = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -125581,7 +126594,7 @@ const WASHES = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 6.6,
+   "ingredients": 6.7,
    "skin": 8.3,
    "trust": 7,
    "experience": 8.5
@@ -125651,6 +126664,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -125658,6 +126672,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -125665,7 +126680,16 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -125758,6 +126782,8 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -126047,7 +127073,8 @@ const WASHES = [
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "L COSMO H & P CARE (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 272 ratings"
+   "buyerEvidence": "4.5★ from 272 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/4/i/m/250-by-tiger-shroff-exfoliating-bodywash-4-salicylic-acid-original-imahhwjwesseefnz.jpeg?q=90",
@@ -126066,6 +127093,7 @@ const WASHES = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -126087,6 +127115,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -126094,6 +127123,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -126101,6 +127131,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -126108,6 +127139,7 @@ const WASHES = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -126610,6 +127642,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -126643,102 +127676,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "s-oliver-itm5652d92ae7c0e",
-  "brand": "s.Oliver",
-  "model": "Selection Men Shower Gel & Shampoo (200 ml)",
-  "price": 445,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "₹223/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.6
-  },
-  "fullSpec": {
-   "volume": "200 ml",
-   "pricePer100ml": "₹223/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.2/5 (5 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 5 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/i/c/m/200-selection-men-shower-gel-shampoo-1-s-oliver-original-imahf3vqfdyydvjk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/y/v/k/200-selection-men-shower-gel-shampoo-1-s-oliver-original-imahf3vqdqhngfhv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/a/b/c/200-selection-men-shower-gel-shampoo-1-s-oliver-original-imahf3vq47zjenwb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/2/n/u/500-klub-man-shower-gel-with-woody-citrus-notes-helps-in-original-imagtuagphxgdjpg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/n/v/i/-original-imahq8x6reh5vymg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/s-oliver-selection-men-shower-gel-shampoo/p/itm5652d92ae7c0e",
-  "buyStore": "Flipkart",
-  "title": "s.Oliver Selection Men Shower Gel & Shampoo (200 ml)",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:cream",
-   "skin:all",
-   "aud:men",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 5 ratings"
-  },
-  "filters": {
-   "inci": "none",
    "inciSrc": null,
    "pharma": false
   }
@@ -127390,6 +128327,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:kp",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -127503,6 +128441,8 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -127613,6 +128553,8 @@ const WASHES = [
    "claim:brightening",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -127719,6 +128661,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -127814,6 +128757,8 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -127918,6 +128863,7 @@ const WASHES = [
    "ing:milk",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -128117,6 +129063,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:aloe-vera",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -128219,7 +129166,9 @@ const WASHES = [
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:rose",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -128323,6 +129272,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:vitamin-e",
    "ing:strawberry",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "skin:all",
@@ -128427,6 +129377,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:strawberry",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -128529,6 +129480,8 @@ const WASHES = [
    "format:kit",
    "ing:aloe-vera",
    "ing:rose",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -128726,6 +129679,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -128824,6 +129778,7 @@ const WASHES = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "ing:lavender",
    "claim:hydrating",
    "free:paraben",
    "aud:women",
@@ -129121,6 +130076,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:ubtan",
+   "ing:lavender",
    "claim:ayurvedic",
    "free:vegan",
    "aud:women",
@@ -129228,6 +130184,7 @@ const WASHES = [
    "ing:clay",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:kids",
@@ -129330,8 +130287,10 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:coffee",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -129434,9 +130393,11 @@ const WASHES = [
    "ing:caffeine",
    "ing:coffee",
    "ing:green-tea",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -129543,6 +130504,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -130133,6 +131095,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:glycerin",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -130332,8 +131295,10 @@ const WASHES = [
    "format:kit",
    "ing:kojic-acid",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -130393,7 +131358,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 6.2,
+   "ingredients": 6.3,
    "skin": 6.5,
    "trust": 7.5,
    "experience": 8.2
@@ -130466,6 +131431,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -130473,7 +131439,16 @@ const WASHES = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -130688,9 +131663,11 @@ const WASHES = [
    "ing:rose",
    "ing:neem",
    "ing:lemon",
+   "ing:lavender",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -130897,6 +131874,7 @@ const WASHES = [
    "format:kit",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -131276,7 +132254,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.7,
+   "ingredients": 4.8,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 0
@@ -131350,13 +132328,23 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -131468,6 +132456,8 @@ const WASHES = [
    "claim:de-tan",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -131670,10 +132660,12 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -131788,8 +132780,10 @@ const WASHES = [
    "ing:vitamin-b5-panthenol",
    "ing:coconut",
    "ing:avocado",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -131893,6 +132887,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:jojoba",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "free:mineral-oil",
@@ -131995,8 +132990,10 @@ const WASHES = [
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:neem",
+   "ing:lavender",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -132111,6 +133108,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -132214,11 +133212,13 @@ const WASHES = [
    "ing:honey",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:acne",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -132324,6 +133324,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:coffee",
    "ing:rose",
@@ -132446,6 +133447,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:korean",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -132562,6 +133564,7 @@ const WASHES = [
    "claim:exfoliating",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -132664,6 +133667,8 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:coconut",
+   "ing:lavender",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -132773,6 +133778,7 @@ const WASHES = [
    "format:kit",
    "ing:honey",
    "ing:avocado",
+   "ing:apricot",
    "claim:hydrating",
    "claim:soothing",
    "skin:all",
@@ -132881,6 +133887,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "free:paraben",
    "free:ph-balanced",
    "aud:women",
@@ -132981,6 +133988,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
@@ -133196,6 +134204,7 @@ const WASHES = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -133504,6 +134513,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:milk",
    "claim:whitening-claim",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -133602,6 +134612,8 @@ const WASHES = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -133904,6 +134916,7 @@ const WASHES = [
    "ing:cucumber",
    "ing:coconut",
    "claim:hydrating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -134222,6 +135235,7 @@ const WASHES = [
    "claim:brightening",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:intimate-hygiene",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -134434,6 +135448,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -134640,8 +135655,10 @@ const WASHES = [
    "ing:shea-butter",
    "ing:avocado",
    "ing:olive",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -134738,7 +135755,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -134858,8 +135874,10 @@ const WASHES = [
    "ing:coconut",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -134969,9 +135987,11 @@ const WASHES = [
    "ing:coconut",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -135081,6 +136101,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:coconut",
    "ing:lemon",
+   "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
    "claim:pores",
@@ -135194,7 +136215,9 @@ const WASHES = [
    "ing:glycerin",
    "ing:coconut",
    "ing:lemon",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -135307,9 +136330,11 @@ const WASHES = [
    "ing:coconut",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -135420,9 +136445,11 @@ const WASHES = [
    "ing:coconut",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -135527,9 +136554,11 @@ const WASHES = [
    "ing:neem",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:de-tan",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -135636,6 +136665,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -135740,8 +136770,10 @@ const WASHES = [
    "ing:almond",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -135842,6 +136874,7 @@ const WASHES = [
    "ing:milk",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -135950,7 +136983,9 @@ const WASHES = [
    "ing:rose",
    "ing:charcoal",
    "ing:neem",
+   "ing:lavender",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -136053,6 +137088,8 @@ const WASHES = [
    "ing:milk",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -136367,6 +137404,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:avocado",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -136587,7 +137625,9 @@ const WASHES = [
    "ing:rose",
    "ing:coconut",
    "ing:avocado",
+   "ing:sea-salt",
    "claim:hydrating",
+   "claim:odour",
    "skin:normal",
    "free:vegan",
    "free:ph-balanced",
@@ -136910,7 +137950,9 @@ const WASHES = [
    "ing:coconut",
    "ing:lemon",
    "ing:avocado",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -137019,6 +138061,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:coconut",
    "ing:lemon",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "skin:all",
@@ -137128,6 +138171,7 @@ const WASHES = [
    "ing:glycerin",
    "ing:coconut",
    "ing:lemon",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -137337,6 +138381,7 @@ const WASHES = [
    "format:wash",
    "ing:sandalwood",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -137538,6 +138583,7 @@ const WASHES = [
    "format:kit",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "free:ph-balanced",
    "aud:women",
@@ -137675,215 +138721,6 @@ const WASHES = [
   },
   "filters": {
    "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "kartivo-itmb00f6e85b551e",
-  "brand": "KARTIVO",
-  "model": "Aloe Vera Body Wash Duo Pack | Moisture Lock Formula (2 x...more",
-  "price": 209,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "aloe vera + glycerin",
-  "featureLine": "Moisturizing · ₹52/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "200 ml × 2 pack",
-   "pricePer100ml": "₹52/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "aloe vera, glycerin (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Aloe Vera, Glycerin",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/v/a/2/200-aloe-vera-body-wash-duo-pack-moisture-lock-formula-2-kartivo-original-imahpffytjmnqgqp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/r/m/z/100-aloe-vera-shower-wash-with-aloe-extract-1-kartivo-original-imahpymsesfggqxb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/s/s/b/100-aloe-vera-shower-wash-with-aloe-extract-1-kartivo-original-imahpymszmgyrtzf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/k/k/f/200-aloe-vera-body-wash-duo-pack-fresh-shower-gel-2-kartivo-original-imahpffyzhhrzcs2.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/r/v/v/200-aloe-vera-body-wash-pack-of-2-family-daily-body-wash-2-original-imahpffykhfp3zsj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kartivo-aloe-vera-body-wash-duo-pack-moisture-lock-formula/p/itmb00f6e85b551e",
-  "buyStore": "Flipkart",
-  "title": "KARTIVO Aloe Vera Body Wash Duo Pack | Moisture Lock Formula (2 x...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:oil",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:glycerin",
-   "claim:hydrating",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Aloe Vera, Glycerin",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "kartivo-itmf271c0af44bd6",
-  "brand": "KARTIVO",
-  "model": "Aloe Vera Body Wash Duo Pack | Aloe Daily Care (2 x 100 m...more",
-  "price": 209,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "aloe vera + glycerin",
-  "featureLine": "Moisturizing · ₹52/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "200 ml × 2 pack",
-   "pricePer100ml": "₹52/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "aloe vera, glycerin (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Aloe Vera, Glycerin",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/k/s/k/200-aloe-vera-body-wash-duo-pack-aloe-daily-care-2-kartivo-original-imahpffytudntbhc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/r/m/z/100-aloe-vera-shower-wash-with-aloe-extract-1-kartivo-original-imahpymsesfggqxb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/s/s/b/100-aloe-vera-shower-wash-with-aloe-extract-1-kartivo-original-imahpymszmgyrtzf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/j/f/p/200-aloe-vera-body-wash-combo-pack-of-2-refreshing-body-care-2-original-imahpffyerxse3nv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/a/2/t/200-aloe-vera-body-wash-pack-of-2-refreshing-bath-gel-2-kartivo-original-imahpffydxywfuzy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kartivo-aloe-vera-body-wash-duo-pack-daily-care/p/itmf271c0af44bd6",
-  "buyStore": "Flipkart",
-  "title": "KARTIVO Aloe Vera Body Wash Duo Pack | Aloe Daily Care (2 x 100 m...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:oil",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:glycerin",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Aloe Vera, Glycerin",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   }
@@ -139374,6 +140211,7 @@ const WASHES = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -139381,6 +140219,7 @@ const WASHES = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -139388,6 +140227,7 @@ const WASHES = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -139395,6 +140235,7 @@ const WASHES = [
      "grade": "A",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -139402,6 +140243,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -139498,6 +140340,7 @@ const WASHES = [
    "format:gel",
    "format:essence",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "skin:mature",
    "free:vegan",
@@ -139901,6 +140744,7 @@ const WASHES = [
    "format:wash",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -140002,6 +140846,7 @@ const WASHES = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -140242,7 +141087,7 @@ const WASHES = [
  {
   "id": "dhartika-itmbef601bac6cdd",
   "brand": "Dhartika",
-  "model": "Gold Glow Body Wash – AHA BHA Niacinamide Exfoliating Sh...more",
+  "model": "Gold Glow Body Wash – AHA BHA Niacinamide Exfoliating Shower Gel Pack of 2: Buy Dhartika G…",
   "price": 510,
   "capacityLine": "1200 ml (pack of 2)",
   "materialLine": "niacinamide",
@@ -140292,7 +141137,7 @@ const WASHES = [
   ],
   "buyUrl": "https://www.flipkart.com/dhartika-gold-glow-body-wash-aha-bha-niacinamide-exfoliating-shower-gel-pack-2/p/itmbef601bac6cdd",
   "buyStore": "Flipkart",
-  "title": "Dhartika Gold Glow Body Wash – AHA BHA Niacinamide Exfoliating Sh...more",
+  "title": "Dhartika Gold Glow Body Wash – AHA BHA Niacinamide Exfoliating Shower Gel Pack of 2: Buy Dhartika Gold Glow Body Wash – AHA BHA Niacinamide Exfoliating Shower Gel Pack of 2 at Low",
   "tags": [
    "scope:body",
    "format:gel",
@@ -140303,6 +141148,7 @@ const WASHES = [
    "ing:aha",
    "ing:strawberry",
    "ing:gold",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
@@ -140413,7 +141259,9 @@ const WASHES = [
    "ing:papaya",
    "ing:milk",
    "ing:gold",
+   "ing:apricot",
    "claim:spf-claim",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -140718,6 +141566,7 @@ const WASHES = [
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:lemon",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "aud:women",
@@ -140931,6 +141780,7 @@ const WASHES = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:avocado",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -141046,6 +141896,7 @@ const WASHES = [
    "claim:brightening",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -141194,6 +142045,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -141201,6 +142053,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -141208,6 +142061,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -141215,6 +142069,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -141222,6 +142077,7 @@ const WASHES = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -141229,6 +142085,7 @@ const WASHES = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -141310,7 +142167,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#7 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/c/1/z/200-body-wash-for-body-acne-2-salicylic-acid-oil-control-clear-original-imahmsrue3e8cfgn.jpeg?q=90",
@@ -141335,18 +142193,21 @@ const WASHES = [
    "ing:glycerin",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -141368,6 +142229,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -141375,6 +142237,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -141382,6 +142245,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -141565,7 +142429,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#7 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/c/e/8/200-body-wash-for-body-acne-oil-control-clear-skin-shower-gel-original-imahpbsfrfzugzyg.jpeg?q=90",
@@ -141580,7 +142445,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -141591,12 +142455,14 @@ const WASHES = [
    "claim:pores",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -141618,6 +142484,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -141625,6 +142492,7 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -141632,6 +142500,7 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -141730,6 +142599,7 @@ const WASHES = [
    "format:wash",
    "ing:coffee",
    "ing:honey",
+   "ing:lavender",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -141840,6 +142710,7 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:vegan",
@@ -141946,6 +142817,7 @@ const WASHES = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -142469,9 +143341,11 @@ const WASHES = [
    "ing:charcoal",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -142575,6 +143449,7 @@ const WASHES = [
    "ing:milk",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -142677,6 +143552,8 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -142886,6 +143763,8 @@ const WASHES = [
    "ing:neem",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -142988,6 +143867,7 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -143237,110 +144117,6 @@ const WASHES = [
   }
  },
  {
-  "id": "bkf-itm21da91de900ab",
-  "brand": "BKF",
-  "model": "Goat Milk Body Wash Duo – 2 x 100ml Niacinamide Gel (2 x 100 ...more",
-  "price": 118,
-  "capacityLine": "400 ml (pack of 4)",
-  "materialLine": "neem + rose + oats/milk",
-  "featureLine": "₹30/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "100 ml × 4 pack",
-   "pricePer100ml": "₹30/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "neem, rose, oats/milk, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/q/u/j/200-goat-milk-body-wash-duo-2-x-100ml-niacinamide-gel-2-bkf-original-imahfrd2ghbd8ytv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/x/a/q/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwxczjsjxymph.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/7/y/s/100-whitening-body-care-skin-care-smooth-whitening-shower-gel-original-imagwu7zgm5sgzvh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-body-wash/r/r/h/100-korean-beauty-dr-korea-goat-milk-whitening-shower-gel-for-original-imagx7jhgygymwcg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/4/s/x/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwznwzvwhzukg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bkf-goat-milk-body-wash-duo-2-x-100ml-niacinamide-gel/p/itm21da91de900ab",
-  "buyStore": "Flipkart",
-  "title": "BKF Goat Milk Body Wash Duo – 2 x 100ml Niacinamide Gel (2 x 100 ...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:rose",
-   "ing:neem",
-   "ing:milk",
-   "claim:brightening",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
   "id": "bkf-itm2e6766a8e64de",
   "brand": "BKF",
   "model": "Goat Milk Niacinamide Shower Gel – 5 Bottles of 100ml Each (5...more",
@@ -143401,6 +144177,7 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -143615,6 +144392,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:milk",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -143721,6 +144499,7 @@ const WASHES = [
    "ing:milk",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -143827,6 +144606,7 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144036,6 +144816,7 @@ const WASHES = [
    "ing:rose",
    "ing:lemon",
    "ing:milk",
+   "ing:lavender",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144244,9 +145025,11 @@ const WASHES = [
    "ing:neem",
    "ing:strawberry",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144351,6 +145134,7 @@ const WASHES = [
    "ing:milk",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144455,6 +145239,7 @@ const WASHES = [
    "ing:milk",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144555,9 +145340,12 @@ const WASHES = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144660,109 +145448,8 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Goat Milk",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "bkf-itm7528de5db7b01",
-  "brand": "BKF",
-  "model": "Goat Milk Niacinamide Shower Gel – Trio for Smooth Skin (3 x ...more",
-  "price": 130,
-  "capacityLine": "600 ml (pack of 2)",
-  "materialLine": "mint/menthol + oats/milk + niacinamide",
-  "featureLine": "Exfoliating · ₹22/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "300 ml × 2 pack",
-   "pricePer100ml": "₹22/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "mint/menthol, oats/milk, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Goat Milk",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/f/k/2/300-goat-milk-niacinamide-shower-gel-trio-for-smooth-skin-3-bkf-original-imahfrd2pu9eg7ey.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/x/a/q/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwxczjsjxymph.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/7/y/s/100-whitening-body-care-skin-care-smooth-whitening-shower-gel-original-imagwu7zgm5sgzvh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-body-wash/r/r/h/100-korean-beauty-dr-korea-goat-milk-whitening-shower-gel-for-original-imagx7jhgygymwcg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/4/s/x/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwznwzvwhzukg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bkf-goat-milk-niacinamide-shower-gel-trio-smooth-skin/p/itm7528de5db7b01",
-  "buyStore": "Flipkart",
-  "title": "BKF Goat Milk Niacinamide Shower Gel – Trio for Smooth Skin (3 x ...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:milk",
-   "claim:soothing",
-   "claim:exfoliating",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144864,7 +145551,9 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -144966,6 +145655,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -145069,11 +145759,14 @@ const WASHES = [
    "format:pack",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -145287,6 +145980,7 @@ const WASHES = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -145388,6 +146082,7 @@ const WASHES = [
    "format:kit",
    "ing:niacinamide",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:all",
@@ -145634,112 +146329,6 @@ const WASHES = [
   }
  },
  {
-  "id": "bkf-itm155cc9e051a61",
-  "brand": "BKF",
-  "model": "Body Wash Trio – Goat Milk and Niacinamide for All Skin Types...more",
-  "price": 130,
-  "capacityLine": "1200 ml (pack of 4)",
-  "materialLine": "charcoal + neem + vitamin C",
-  "featureLine": "₹11/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "300 ml × 4 pack",
-   "pricePer100ml": "₹11/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "charcoal, neem, vitamin C, rose, lavender, lemon/citrus, oats/milk, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Goat Milk",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/a/x/y/300-body-wash-trio-goat-milk-and-niacinamide-for-all-skin-types-original-imahfrd2rhg8jadb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/x/a/q/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwxczjsjxymph.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/7/y/s/100-whitening-body-care-skin-care-smooth-whitening-shower-gel-original-imagwu7zgm5sgzvh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-body-wash/r/r/h/100-korean-beauty-dr-korea-goat-milk-whitening-shower-gel-for-original-imagx7jhgygymwcg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/4/s/x/100-goat-milk-mousse-body-wash-whitening-shower-gel-anti-ageing-original-imagwznwzvwhzukg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bkf-body-wash-trio-goat-milk-niacinamide-all-skin-types/p/itm155cc9e051a61",
-  "buyStore": "Flipkart",
-  "title": "BKF Body Wash Trio – Goat Milk and Niacinamide for All Skin Types...more",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:rose",
-   "ing:charcoal",
-   "ing:neem",
-   "ing:lemon",
-   "ing:milk",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Goat Milk",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
   "id": "bkf-itm443c84c23d953",
   "brand": "BKF",
   "model": "Shower Gel Pack – Goat Milk & Niacinamide – 4 Bottles (4 x 10...more",
@@ -145805,6 +146394,7 @@ const WASHES = [
    "ing:neem",
    "ing:milk",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -146018,6 +146608,7 @@ const WASHES = [
    "ing:milk",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -146124,6 +146715,7 @@ const WASHES = [
    "ing:milk",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -146335,7 +146927,9 @@ const WASHES = [
    "ing:charcoal",
    "ing:neem",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -146443,6 +147037,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -146544,6 +147139,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:milk",
    "claim:de-tan",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -147170,9 +147766,11 @@ const WASHES = [
    "ing:caffeine",
    "ing:tea-tree",
    "ing:shea-butter",
+   "ing:lavender",
    "claim:acne",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -147273,6 +147871,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -147361,7 +147960,8 @@ const WASHES = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Bio Herbal Remedies Pvt Ltd, Plot No 23, Chintupada, Palghar West - 401404 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 2,326 ratings"
+   "buyerEvidence": "4.5★ from 2,326 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/q/q/m/750-1-salicylic-acid-body-wash-prevents-body-acne-paraben-sls-original-imahkyypzdzjgwfa.jpeg?q=90",
@@ -147381,6 +147981,7 @@ const WASHES = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -147404,6 +148005,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -147411,6 +148013,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -147418,6 +148021,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -147462,7 +148066,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.8,
+   "ingredients": 4.9,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 7.9
@@ -147489,7 +148093,8 @@ const WASHES = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Vedic Cosmeceuticals, B 31, Block C, Sector 85, Noida, Uttar Pradesh, 201305 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 5,824 ratings"
+   "buyerEvidence": "4.3★ from 5,824 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/body-wash/w/9/l/-original-imahpjxyyzdpgcnh.jpeg?q=90",
@@ -147509,6 +148114,7 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "evidence": {
@@ -147526,10 +148132,19 @@ const WASHES = [
    "recognised": 0.89,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -147537,6 +148152,7 @@ const WASHES = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -147760,7 +148376,9 @@ const WASHES = [
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:brightening",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:normal",
@@ -147953,7 +148571,6 @@ const WASHES = [
   "title": "Be Bodywise 5% AHA BHA De-Tan Exfoliating Body Wash 250ml | For Body Acne, Strawberry Skin, De-Tan | Infused with 3% Lactic Acid, 1% Salicylic Acid, 1% Glycolic Acid | Non-Drying, Paraben Free",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:patch",
    "format:wash",
    "format:kit",
@@ -147970,6 +148587,7 @@ const WASHES = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:kp",
+   "claim:ingrown",
    "free:paraben",
    "free:derm",
    "aud:unisex",
@@ -148065,6 +148683,7 @@ const WASHES = [
    "format:kit",
    "ing:aloe-vera",
    "ing:rose",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:derm",
@@ -148459,6 +149078,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -148656,6 +149276,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -148955,9 +149576,11 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:turmeric",
+   "ing:apricot",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:derm",
@@ -149061,6 +149684,7 @@ const WASHES = [
    "claim:barrier",
    "claim:long-lasting",
    "claim:dry-skin-relief",
+   "claim:odour",
    "skin:oily",
    "skin:sensitive",
    "skin:normal",
@@ -149364,6 +149988,8 @@ const WASHES = [
    "claim:barrier",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "free:silicone",
    "aud:unisex",
    "size:large",
@@ -149461,6 +150087,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -149555,6 +150182,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:almond",
+   "ing:lavender",
    "claim:hydrating",
    "aud:women",
    "size:xl",
@@ -149651,6 +150279,7 @@ const WASHES = [
    "ing:caffeine",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "aud:women",
    "size:xl",
    "rating:4.0",
@@ -149746,6 +150375,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -149843,6 +150473,8 @@ const WASHES = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:men",
@@ -150126,7 +150758,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:bar",
@@ -150227,6 +150858,7 @@ const WASHES = [
    "format:oil",
    "format:bar",
    "format:wash",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "free:silicone",
@@ -150320,7 +150952,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -150389,7 +151020,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 8.4,
+   "ingredients": 8.5,
    "skin": 8,
    "trust": 8.5,
    "experience": 3.2
@@ -150432,6 +151063,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -150458,6 +151090,7 @@ const WASHES = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -150465,13 +151098,23 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -150479,6 +151122,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -150782,6 +151426,8 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -151033,7 +151679,7 @@ const WASHES = [
    "Added fragrance (parfum): perfume, fragrance"
   ],
   "scores": {
-   "ingredients": 8,
+   "ingredients": 8.1,
    "skin": 8.3,
    "trust": 7,
    "experience": 2.9
@@ -151061,7 +151707,8 @@ const WASHES = [
    "evidenceActives": "avena sativa kernel extract (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume, fragrance (−0.8)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81+0i1skb7L._AC_UL320_.jpg"
@@ -151086,6 +151733,9 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -151108,6 +151758,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -151115,6 +151766,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -151122,6 +151774,7 @@ const WASHES = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "oat"
     },
     {
@@ -151129,7 +151782,16 @@ const WASHES = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
     }
    ],
    "support": [
@@ -151219,6 +151881,9 @@ const WASHES = [
    "format:gel",
    "format:bar",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
+   "claim:odour",
    "free:sulfate",
    "free:ph-balanced",
    "aud:women",
@@ -151320,6 +151985,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
    "free:sulfate",
    "free:alcohol",
    "free:mineral-oil",
@@ -151418,6 +152084,7 @@ const WASHES = [
    "ing:sandalwood",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -151508,15 +152175,16 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
+   "ing:sea-salt",
    "claim:de-tan",
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
    "claim:kp",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:sulfate",
@@ -151719,6 +152387,8 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -151812,6 +152482,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:almond",
+   "ing:lavender",
    "claim:hydrating",
    "aud:women",
    "size:xl",
@@ -151958,7 +152629,7 @@ const WASHES = [
    "Formaldehyde-releasing preservative: dmdm hydantoin"
   ],
   "scores": {
-   "ingredients": 6.4,
+   "ingredients": 6.5,
    "skin": 7.7,
    "trust": 8,
    "experience": 2.9
@@ -152027,13 +152698,23 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "titanium dioxide",
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -152142,6 +152823,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:derm",
    "free:vegan",
@@ -152237,12 +152919,15 @@ const WASHES = [
    "format:essence",
    "format:wash",
    "format:kit",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
    "claim:long-lasting",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -152345,6 +153030,9 @@ const WASHES = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:kp",
+   "claim:odour",
+   "claim:ingrown",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -152441,7 +153129,10 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:niacinamide",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "free:sulfate",
    "aud:men",
    "size:xl",
@@ -152535,6 +153226,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "claim:odour",
    "free:derm",
    "aud:men",
    "size:large",
@@ -152637,6 +153329,9 @@ const WASHES = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:antiperspirant",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "skin:normal",
    "free:paraben",
@@ -152740,6 +153435,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -152829,12 +153525,15 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
    "ing:caffeine",
    "claim:brightening",
    "claim:de-tan",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -153038,6 +153737,7 @@ const WASHES = [
    "claim:barrier",
    "claim:long-lasting",
    "claim:dry-skin-relief",
+   "claim:odour",
    "skin:oily",
    "skin:sensitive",
    "skin:normal",
@@ -153068,6 +153768,7 @@ const WASHES = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -153075,6 +153776,7 @@ const WASHES = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -153082,6 +153784,7 @@ const WASHES = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -153089,6 +153792,7 @@ const WASHES = [
      "grade": "A",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -153096,6 +153800,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -153188,11 +153893,13 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:centella-cica",
+   "ing:sea-salt",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:oily",
    "aud:women",
    "size:xl",
@@ -153389,11 +154096,13 @@ const WASHES = [
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
    "claim:long-lasting",
    "claim:dry-skin-relief",
+   "claim:odour",
    "skin:oily",
    "skin:sensitive",
    "skin:normal",
@@ -153424,6 +154133,7 @@ const WASHES = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -153431,6 +154141,7 @@ const WASHES = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -153438,6 +154149,7 @@ const WASHES = [
      "grade": "A",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -153445,6 +154157,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -153535,7 +154248,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
@@ -153547,6 +154259,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:kp",
+   "claim:ingrown",
    "skin:dry",
    "free:derm",
    "free:vegan",
@@ -153645,8 +154358,10 @@ const WASHES = [
    "format:kit",
    "ing:jojoba",
    "ing:coconut",
+   "ing:apricot",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:combination",
    "free:ph-balanced",
    "aud:women",
@@ -153752,6 +154467,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:silicone",
@@ -153781,6 +154497,7 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -153788,6 +154505,7 @@ const WASHES = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -153795,6 +154513,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -153979,9 +154698,11 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:turmeric",
+   "ing:apricot",
    "claim:brightening",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:derm",
@@ -154081,10 +154802,12 @@ const WASHES = [
    "ing:green-tea",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -154169,7 +154892,8 @@ const WASHES = [
    "evidenceActives": "salicylic acid (#1 on list, strong evidence); glycerin (#20 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #1 on INCI, niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — centella asiatica extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612PX9DH-pL._AC_UL320_.jpg"
@@ -154202,6 +154926,9 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -154225,6 +154952,7 @@ const WASHES = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -154232,6 +154960,7 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -154239,6 +154968,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -154246,6 +154976,7 @@ const WASHES = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -154253,6 +154984,7 @@ const WASHES = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -154260,6 +154992,7 @@ const WASHES = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -154344,6 +155077,7 @@ const WASHES = [
    "ing:tea-tree",
    "ing:lemon",
    "claim:soothing",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:4.0",
@@ -154437,10 +155171,12 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:lactic-acid",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:acne",
    "claim:pores",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "size:large",
@@ -154536,6 +155272,8 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -154725,7 +155463,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:ceramides",
    "ing:collagen",
@@ -154739,6 +155476,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -154840,6 +155578,8 @@ const WASHES = [
    "ing:neem",
    "ing:almond",
    "ing:shea-butter",
+   "ing:lavender",
+   "ing:calendula",
    "claim:hydrating",
    "free:paraben",
    "free:vegan",
@@ -154931,7 +155671,6 @@ const WASHES = [
   "title": "The Derma Co. 2% Sali-Cinamide Body Wash for Bacne & Body Acne - 250 ml | Fights Acne-Causing Bacteria | Fades Marks | 3-Action Exfoliating Formula | Non-Drying & Fragrance-Free | Dermatologically Tested | For Men & Women",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -154941,6 +155680,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:exfoliating",
    "claim:kp",
+   "claim:scars",
    "skin:all",
    "free:fragrance",
    "free:derm",
@@ -155142,6 +155882,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -155236,10 +155977,12 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "ing:chamomile",
    "claim:acne",
    "claim:pores",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "size:xl",
@@ -155535,6 +156278,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -155629,6 +156373,8 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -155825,6 +156571,8 @@ const WASHES = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "free:vegan",
@@ -155917,7 +156665,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -155931,6 +156678,7 @@ const WASHES = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:kp",
+   "claim:ingrown",
    "skin:dry",
    "aud:unisex",
    "size:large",
@@ -156022,6 +156770,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "format:essence",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:soothing",
    "claim:dry-skin-relief",
@@ -156112,7 +156861,8 @@ const WASHES = [
    "evidenceActives": "lactic acid (#14 on list, strong evidence); glycerin (#16 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Sebapharma GmbH — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LAzsWjIvL._AC_UL320_.jpg"
@@ -156132,6 +156882,7 @@ const WASHES = [
    "size:large",
    "rating:4.5",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:pharma-maker"
@@ -156155,13 +156906,23 @@ const WASHES = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "panthenol"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "lactic acid",
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -156169,6 +156930,7 @@ const WASHES = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -156176,6 +156938,7 @@ const WASHES = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -156183,6 +156946,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -156190,6 +156954,7 @@ const WASHES = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -156482,6 +157247,7 @@ const WASHES = [
    "claim:exfoliating",
    "claim:kp",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:large",
@@ -156776,6 +157542,8 @@ const WASHES = [
    "format:kit",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "free:derm",
    "aud:men",
    "size:large",
@@ -156926,7 +157694,7 @@ const WASHES = [
    "EU-declared fragrance allergen: alpha-isomethyl ionone, benzyl salicylate"
   ],
   "scores": {
-   "ingredients": 5.5,
+   "ingredients": 5.6,
    "skin": 6.6,
    "trust": 8,
    "experience": 2.9
@@ -156965,7 +157733,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:avocado",
@@ -156997,6 +157764,7 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -157004,7 +157772,16 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -157113,7 +157890,10 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:soothing",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:unisex",
    "size:xl",
@@ -157206,6 +157986,8 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "format:kit",
+   "claim:odour",
+   "claim:cooling",
    "free:derm",
    "aud:men",
    "size:large",
@@ -157332,7 +158114,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -157436,8 +158227,10 @@ const WASHES = [
    "format:kit",
    "ing:jojoba",
    "ing:coconut",
+   "ing:apricot",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:combination",
    "free:ph-balanced",
    "aud:unisex",
@@ -157530,6 +158323,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "format:essence",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:soothing",
    "claim:dry-skin-relief",
@@ -157632,6 +158426,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:anti-aging",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "free:silicone",
@@ -158041,6 +158836,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "free:toxin-free",
@@ -158100,7 +158896,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 3.2
@@ -158143,6 +158939,8 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -158169,6 +158967,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -158176,13 +158975,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -158190,6 +158999,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -158295,6 +159105,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -158389,7 +159200,10 @@ const WASHES = [
    "format:foam",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -158479,7 +159293,6 @@ const WASHES = [
   "title": "PLIX - THE PLANT FIX Jamun 2% Salicylic Acid Body Wash For Body Acne | Paraben & Silicones Free | Deeply Exfoliating Dead Skin Cells, Prevents Back Acne & Moisturizes Skin | 236ml",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -158589,6 +159402,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -158617,6 +159431,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -158624,6 +159439,7 @@ const WASHES = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -158631,6 +159447,7 @@ const WASHES = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -158638,6 +159455,7 @@ const WASHES = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -158645,6 +159463,7 @@ const WASHES = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -158730,6 +159549,9 @@ const WASHES = [
    "format:roll-on",
    "claim:acne",
    "claim:dry-skin-relief",
+   "claim:antiperspirant",
+   "claim:odour",
+   "claim:cooling",
    "free:vegan",
    "aud:women",
    "size:large",
@@ -158924,6 +159746,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:sandalwood",
+   "ing:lavender",
    "free:vegan",
    "aud:men",
    "size:xl",
@@ -159018,6 +159841,7 @@ const WASHES = [
    "format:wash",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -159315,6 +160139,8 @@ const WASHES = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:anti-aging",
+   "claim:odour",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:3.5",
@@ -159611,11 +160437,14 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:acne",
    "claim:pores",
    "claim:soothing",
    "claim:exfoliating",
    "claim:kp",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -160008,6 +160837,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "aud:men",
    "size:large",
@@ -160035,6 +160865,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -160042,6 +160873,7 @@ const WASHES = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "teaTree"
     }
    ],
@@ -160213,7 +161045,7 @@ const WASHES = [
    "EU-declared fragrance allergen: limonene, hexyl cinnamal"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 6.1,
    "trust": 8.5,
    "experience": 2.6
@@ -160254,6 +161086,7 @@ const WASHES = [
    "format:gel",
    "format:bar",
    "format:wash",
+   "claim:odour",
    "free:sulfate",
    "aud:women",
    "size:large",
@@ -160281,13 +161114,23 @@ const WASHES = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "salicylic acid",
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -160295,6 +161138,7 @@ const WASHES = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -160509,6 +161353,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -160610,6 +161455,7 @@ const WASHES = [
    "ing:ginseng",
    "claim:brightening",
    "claim:soothing",
+   "claim:cooling",
    "free:paraben",
    "free:ph-balanced",
    "aud:unisex",
@@ -161182,6 +162028,7 @@ const WASHES = [
    "claim:exfoliating",
    "claim:kp",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -162098,6 +162945,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:neem",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:kids",
    "size:standard",
@@ -162196,6 +163044,7 @@ const WASHES = [
    "format:bar",
    "format:wash",
    "ing:mineral-oil",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:soothing",
    "skin:sensitive",
@@ -162385,6 +163234,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:men",
    "size:large",
    "rating:4.5",
@@ -162478,6 +163328,7 @@ const WASHES = [
    "ing:coffee",
    "ing:aloe-vera",
    "claim:de-tan",
+   "claim:cooling",
    "aud:men",
    "size:standard",
    "rating:4.0",
@@ -162570,6 +163421,7 @@ const WASHES = [
    "format:scrub",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -162753,6 +163605,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -162934,6 +163787,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:licorice",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -163026,6 +163880,7 @@ const WASHES = [
    "format:wash",
    "ing:glycerin",
    "claim:brightening",
+   "claim:odour",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -163065,9 +163920,9 @@ const WASHES = [
   }
  },
  {
-  "id": "bath-b0fj1xxcs5",
-  "brand": "Bath",
-  "model": "& Body Works Ocean Men 3-in-1 Hair, Face & Body Wash with Pro-Vitamin B5 & Aloe | Daily Sh…",
+  "id": "bath-body-works-b0fj1xxcs5",
+  "brand": "Bath & Body Works",
+  "model": "Ocean Men 3-in-1 Hair, Face & Body Wash with Pro-Vitamin B5 & Aloe | Daily Shower Gel | 29…",
   "price": 1349,
   "capacityLine": "295 ml",
   "materialLine": "aloe vera",
@@ -163210,6 +164065,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:salicylic-acid-bha",
+   "claim:odour",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -163425,7 +164281,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -164098,6 +164963,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -164191,6 +165057,8 @@ const WASHES = [
    "ing:niacinamide",
    "ing:charcoal",
    "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -164377,6 +165245,7 @@ const WASHES = [
    "format:gel",
    "format:bar",
    "format:wash",
+   "claim:odour",
    "free:sulfate",
    "aud:women",
    "size:large",
@@ -164849,6 +165718,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:collagen",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:sulfate",
    "free:vegan",
@@ -165033,6 +165903,7 @@ const WASHES = [
    "format:gel",
    "format:bar",
    "format:wash",
+   "claim:odour",
    "free:sulfate",
    "aud:women",
    "size:xl",
@@ -165179,7 +166050,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 5.6,
+   "ingredients": 5.7,
    "skin": 7.6,
    "trust": 8,
    "experience": 2.9
@@ -165220,6 +166091,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -165246,13 +166118,23 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     },
     {
      "name": "titanium dioxide",
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -165461,6 +166343,7 @@ const WASHES = [
    "format:wash",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -165650,6 +166533,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.5",
@@ -165934,6 +166818,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "skin:dry",
    "aud:men",
    "size:xl",
@@ -165961,7 +166846,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -166076,6 +166970,7 @@ const WASHES = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "aud:women",
    "size:large",
    "rating:3.5",
@@ -166672,7 +167567,16 @@ const WASHES = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -167084,6 +167988,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:4.5",
@@ -167569,6 +168474,8 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:long-lasting",
+   "claim:odour",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:4.0",
@@ -167663,6 +168570,8 @@ const WASHES = [
    "ing:tea-tree",
    "ing:coconut",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "free:sulfate",
    "aud:women",
    "rating:3.5",
@@ -167755,6 +168664,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:4.5",
@@ -167846,6 +168756,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -168580,7 +169491,7 @@ const WASHES = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 6.6,
+   "ingredients": 6.7,
    "skin": 8.3,
    "trust": 7,
    "experience": 2.9
@@ -168649,6 +169560,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -168656,6 +169568,7 @@ const WASHES = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -168663,7 +169576,16 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -168753,6 +169675,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -168983,101 +169906,6 @@ const WASHES = [
     "url": "https://www.hul.co.in/brands/"
    },
    "buyers": "4.2★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "mcaffeine-b0gmhwgfr8",
-  "brand": "mCaffeine",
-  "model": "Exfoliating Body Wash & Summer Fresh Body Care Duo | 7% Actives Caramel Body Wash 300ml & …",
-  "price": 711,
-  "capacityLine": "300 ml",
-  "materialLine": "coffee + niacinamide",
-  "featureLine": "Exfoliating · ₹237/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "volume": "300 ml",
-   "pricePer100ml": "₹237/100ml",
-   "format": "Body wash",
-   "keyIngredients": "coffee, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61xqQb6TpOL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GMHWGFR8",
-  "buyStore": "Amazon",
-  "title": "mCaffeine Exfoliating Body Wash & Summer Fresh Body Care Duo | 7% Actives Caramel Body Wash 300ml & Summer Breeze Perfume Body Lotion 300ml | Lactic Acid, Niacinamide | Reduces Body Acne, Smooth Skin |",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:wash",
-   "ing:niacinamide",
-   "ing:lactic-acid",
-   "ing:caffeine",
-   "claim:acne",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -169329,6 +170157,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:rose",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -169576,7 +170405,7 @@ const WASHES = [
    "EU-declared fragrance allergen: geraniol, linalool"
   ],
   "scores": {
-   "ingredients": 8.3,
+   "ingredients": 8.4,
    "skin": 8,
    "trust": 8.5,
    "experience": 2.9
@@ -169619,6 +170448,7 @@ const WASHES = [
    "format:wash",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -169645,6 +170475,7 @@ const WASHES = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -169652,13 +170483,23 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "citric acid",
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -169666,6 +170507,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -169756,7 +170598,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#27 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — ceramide eos #17 on INCI, ceramide ns #18 on INCI, ceramide np #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61w4wlRSANL._SL1500_.jpg",
@@ -169788,6 +170631,7 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -169811,6 +170655,7 @@ const WASHES = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -169818,6 +170663,7 @@ const WASHES = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -169825,6 +170671,7 @@ const WASHES = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -169832,6 +170679,7 @@ const WASHES = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -169839,6 +170687,7 @@ const WASHES = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -169846,6 +170695,7 @@ const WASHES = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -169853,6 +170703,7 @@ const WASHES = [
      "grade": "C",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -169946,6 +170797,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -170088,16 +170940,19 @@ const WASHES = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "₹64/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Enchanteur official website (enchanteur.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -170115,11 +170970,13 @@ const WASHES = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Enchanteur official website (enchanteur.in) — product page › Ingredients",
+   "inciSourceUrl": "https://enchanteur.in/products/romantic-perfumed-shower-gel-250-ml",
+   "inciMatchedName": "Enchanteur Romantic Perfumed Shower Gel, 250 ml (name match 100%)",
+   "inciList": "Water, sodium Laureth Sulfate, cocamidopropyl Betaine, glycerin, sodium Lauroyl Sarcosinate, fragrance, palm Kernelamide Mea,tetrasodium Edta, citric Acid,isopropyl Palmitate, hydrolyzed Silk Protein, Methylchloroisothiazolinone, methylisothiazolinone, sodium Chloride, CI 14720",
+   "evidenceActives": "glycerin (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 0 ratings"
   },
@@ -170137,25 +170994,75 @@ const WASHES = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Enchanteur official website (enchanteur.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://enchanteur.in/products/romantic-perfumed-shower-gel-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Enchanteur Romantic Perfumed Shower Gel, 250 ml",
+   "inciMatchScore": 1,
+   "inciText": "Water, sodium Laureth Sulfate, cocamidopropyl Betaine, glycerin, sodium Lauroyl Sarcosinate, fragrance, palm Kernelamide Mea,tetrasodium Edta, citric Acid,isopropyl Palmitate, hydrolyzed Silk Protein, Methylchloroisothiazolinone, methylisothiazolinone, sodium Chloride, CI 14720",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [
+    "cocamidopropyl betaine",
+    "glycerin",
+    "sodium lauroyl sarcosinate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 0.8,
+     "src": "sccsMi"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -170166,8 +171073,8 @@ const WASHES = [
    "buyers": "4.2★ from 0 ratings"
   },
   "filters": {
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   }
  },
@@ -170416,6 +171323,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -170746,7 +171654,7 @@ const WASHES = [
    "Added fragrance (parfum): fragrance"
   ],
   "scores": {
-   "ingredients": 6.6,
+   "ingredients": 6.7,
    "skin": 8.3,
    "trust": 7,
    "experience": 3.2
@@ -170815,6 +171723,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -170822,6 +171731,7 @@ const WASHES = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -170829,7 +171739,16 @@ const WASHES = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -171105,6 +172024,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "free:sulfate",
    "free:vegan",
    "aud:unisex",
@@ -171290,6 +172210,7 @@ const WASHES = [
    "format:wash",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "free:paraben",
    "aud:unisex",
@@ -171576,6 +172497,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:coffee",
+   "ing:sugar",
    "claim:exfoliating",
    "aud:unisex",
    "size:large",
@@ -171868,6 +172790,7 @@ const WASHES = [
    "format:kit",
    "claim:acne",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:acne-prone",
    "free:paraben",
@@ -171963,6 +172886,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "claim:odour",
    "skin:all",
    "aud:unisex",
    "size:large",
@@ -172248,6 +173172,7 @@ const WASHES = [
    "ing:ceramides",
    "ing:glycerin",
    "ing:strawberry",
+   "ing:chamomile",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
@@ -172358,6 +173283,7 @@ const WASHES = [
    "format:bar",
    "format:kit",
    "ing:strawberry",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "free:derm",
@@ -172456,6 +173382,7 @@ const WASHES = [
    "format:wash",
    "ing:cucumber",
    "ing:watermelon",
+   "claim:cooling",
    "free:vegan",
    "aud:women",
    "size:xl",
@@ -172647,6 +173574,7 @@ const WASHES = [
    "ing:coffee",
    "ing:cocoa-butter",
    "claim:de-tan",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -172841,8 +173769,10 @@ const WASHES = [
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "ing:lemon",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "aud:men",
@@ -173031,6 +173961,7 @@ const WASHES = [
    "format:wash",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "aud:women",
@@ -173123,6 +174054,8 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "ing:sandalwood",
+   "claim:odour",
+   "claim:cooling",
    "free:derm",
    "free:vegan",
    "aud:men",
@@ -173319,6 +174252,7 @@ const WASHES = [
    "ing:strawberry",
    "ing:avocado",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -173683,6 +174617,7 @@ const WASHES = [
    "format:gel",
    "format:kit",
    "ing:tea-tree",
+   "ing:lavender",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -173869,6 +174804,7 @@ const WASHES = [
    "format:wash",
    "ing:green-tea",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -174060,6 +174996,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:brightening",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -174247,6 +175184,7 @@ const WASHES = [
    "format:wash",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -174435,6 +175373,7 @@ const WASHES = [
    "ing:coffee",
    "ing:aloe-vera",
    "claim:de-tan",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -174992,6 +175931,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "ing:cherry-acerola",
+   "ing:sugar",
    "claim:brightening",
    "claim:hydrating",
    "free:paraben",
@@ -175089,6 +176029,7 @@ const WASHES = [
    "ing:neem",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:sulfate",
    "aud:women",
@@ -175284,6 +176225,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:ayurvedic",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",
@@ -175471,6 +176413,7 @@ const WASHES = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -175655,6 +176598,7 @@ const WASHES = [
    "format:gel",
    "ing:lemon",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -175751,6 +176695,7 @@ const WASHES = [
    "format:kit",
    "ing:papaya",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -175942,6 +176887,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "claim:cooling",
    "skin:all",
    "free:ph-balanced",
    "aud:unisex",
@@ -176038,6 +176984,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -176224,6 +177171,7 @@ const WASHES = [
    "format:wash",
    "ing:rose",
    "claim:hydrating",
+   "claim:odour",
    "free:derm",
    "aud:unisex",
    "size:large",
@@ -176499,7 +177447,6 @@ const WASHES = [
   "title": "Chemist At Play Deep Cleansing Glycolic Acid Body Wash | 4% Lactic Acid & Activated Charcoal Remove Dirt, & Control Excess Oil | Anti-Pollution with Detox | Oudh Fragrance | For Men & Women | 236ml",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -176975,6 +177922,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -177350,6 +178298,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:4.0",
@@ -177538,6 +178487,7 @@ const WASHES = [
    "ing:neem",
    "ing:lemon",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -177727,6 +178677,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -178098,7 +179049,6 @@ const WASHES = [
   "title": "COROnation Herbal Activated Charcoal Body Wash For Men & Women | Anti-Pollution, Deep Skin Cleansing & Detox | Gently Exfoliates & Cleanses Skin | Remove Dirt,Grime,Dead Skin Cells & Excess Oil - 400 ML",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:exfoliating",
@@ -178286,6 +179236,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:charcoal",
+   "ing:chamomile",
    "claim:brightening",
    "free:paraben",
    "aud:women",
@@ -179138,7 +180089,6 @@ const WASHES = [
   "title": "COROnation Herbal Activated Bamboo Charcoal Body Wash For Men & Women | Anti-Pollution, Deep Skin Cleansing & Detox | Gently Exfoliates & Cleanses Skin | Remove Dirt,Grime,Dead Skin Cells & Excess Oil",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:exfoliating",
@@ -179329,6 +180279,8 @@ const WASHES = [
    "ing:charcoal",
    "claim:acne",
    "claim:oil-control",
+   "claim:odour",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:standard",
@@ -179426,6 +180378,7 @@ const WASHES = [
    "claim:acne",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:odour",
    "aud:women",
    "size:large",
    "rating:none",
@@ -179518,6 +180471,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -179611,6 +180565,7 @@ const WASHES = [
    "ing:charcoal",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:xl",
@@ -179801,6 +180756,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "size:standard",
@@ -180081,11 +181037,12 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:acne",
    "claim:pores",
+   "claim:odour",
+   "claim:cooling",
    "aud:men",
    "rating:4.0",
    "store:amazon",
@@ -180272,6 +181229,7 @@ const WASHES = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:women",
    "size:large",
@@ -180365,6 +181323,9 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:aloe-vera",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "ing:lavender",
    "aud:women",
    "size:xl",
    "rating:4.5",
@@ -181212,6 +182173,7 @@ const WASHES = [
    "format:wash",
    "ing:charcoal",
    "claim:brightening",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -181495,6 +182457,7 @@ const WASHES = [
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:charcoal",
+   "claim:cooling",
    "free:oil-free",
    "aud:women",
    "size:xl",
@@ -182151,6 +183114,7 @@ const WASHES = [
    "ing:green-tea",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:4.5",
@@ -183961,6 +184925,8 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:charcoal",
    "claim:acne",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -184244,10 +185210,10 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:oil-control",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -184345,6 +185311,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:unisex",
    "size:large",
@@ -184440,6 +185407,7 @@ const WASHES = [
    "format:wash",
    "ing:charcoal",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "rating:none",
@@ -184536,6 +185504,8 @@ const WASHES = [
    "ing:glycolic-acid",
    "ing:charcoal",
    "claim:acne",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -185291,6 +186261,7 @@ const WASHES = [
    "format:wash",
    "ing:rose",
    "ing:charcoal",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -185384,7 +186355,9 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:charcoal",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -185485,6 +186458,7 @@ const WASHES = [
    "ing:charcoal",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -185580,6 +186554,7 @@ const WASHES = [
    "ing:niacinamide",
    "ing:aloe-vera",
    "ing:charcoal",
+   "claim:cooling",
    "free:sulfate",
    "aud:women",
    "size:large",
@@ -185772,103 +186747,9 @@ const WASHES = [
    "format:wash",
    "ing:charcoal",
    "ing:lemon",
+   "claim:cooling",
    "aud:women",
    "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "beautyrelay-b09hntmw1g",
-  "brand": "BEAUTYRELAY",
-  "model": "LONDON - Activated Charcoal Body Wash + Activated Charcoal Shampoo With Conditioner with A…",
-  "price": 358,
-  "capacityLine": "Volume not stated",
-  "materialLine": "charcoal",
-  "featureLine": "Claims not stated",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "Not stated in listing",
-   "pricePer100ml": "Not stated in listing",
-   "format": "Body wash",
-   "keyIngredients": "charcoal (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51dX-RgKzLL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09HNTMW1G",
-  "buyStore": "Amazon",
-  "title": "BEAUTYRELAY LONDON - Activated Charcoal Body Wash + Activated Charcoal Shampoo With Conditioner with Activated Charcoal Powder, Argan Oil, Mulberry.For Men & Women - Combo Pack Of 2",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "ing:charcoal",
-   "ing:argan-oil",
-   "aud:women",
    "rating:none",
    "store:amazon",
    "inci:none"
@@ -185957,7 +186838,6 @@ const WASHES = [
   "title": "BEAUTYRELAY LONDON - Activated Charcoal Men's Face Wash and Body Wash - cleanses blocked pores; remove dirt and excess oil - Anti Stress, moisture, anti pollution (Buy 1 Get 1 Free)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:pores",
@@ -186055,6 +186935,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -186150,6 +187031,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:none",
@@ -186179,105 +187061,6 @@ const WASHES = [
     "label": "Indian D2C brand with its own product company",
     "pts": 5,
     "url": "https://bellavitaorganic.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "chemist-at-play-b0gppxhssx",
-  "brand": "Chemist at Play",
-  "model": "Deep Cleansing Charcoal Body Wash & 10% Vitamin C Face Serum Combo | Exfoliates, Controls …",
-  "price": 520,
-  "capacityLine": "236 ml",
-  "materialLine": "charcoal + vitamin C",
-  "featureLine": "Exfoliating · ₹220/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "236 ml",
-   "pricePer100ml": "₹220/100ml",
-   "format": "Body wash",
-   "keyIngredients": "charcoal, vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41OwTJYd7zL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GPPXHSSX",
-  "buyStore": "Amazon",
-  "title": "Chemist At Play Deep Cleansing Charcoal Body Wash & 10% Vitamin C Face Serum Combo | Exfoliates, Controls Oil, Fades Dark Spots & Hyperpigmentation | Detox, Glow, Vegan | 236ml + 10ml",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:charcoal",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "free:vegan",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
    },
    "buyers": "No buyer ratings yet"
   },
@@ -186343,6 +187126,7 @@ const WASHES = [
    "ing:charcoal",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "aud:unisex",
    "size:xl",
@@ -186529,9 +187313,12 @@ const WASHES = [
    "format:lotion",
    "format:powder",
    "format:wash",
+   "format:aerosol",
    "ing:aloe-vera",
    "ing:charcoal",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -186563,104 +187350,6 @@ const WASHES = [
     "url": "https://bellavitaorganic.com/"
    },
    "buyers": "4★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "the-man-company-b0g1kw48pd",
-  "brand": "The Man Company",
-  "model": "Charcoal Body Wash 250 ml & Lip Balm 4 gm for Men | Refreshing & Hydrating Combo| Moisturi…",
-  "price": 500,
-  "capacityLine": "250 ml",
-  "materialLine": "charcoal + vitamin E + coconut",
-  "featureLine": "Moisturizing · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "250 ml",
-   "pricePer100ml": "₹200/100ml",
-   "format": "Body wash",
-   "keyIngredients": "charcoal, vitamin E, coconut (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51JZ89hnF7L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G1KW48PD",
-  "buyStore": "Amazon",
-  "title": "The Man Company Charcoal Body Wash 250 ml & Lip Balm 4 gm for Men | Refreshing & Hydrating Combo| Moisturizes, Nourishes & Soften Lips with the power of Vitamin E, Coconut & Olive Oil | Valentine Gift Set For Husband, Boyfriend",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "format:balm",
-   "format:wash",
-   "format:kit",
-   "ing:charcoal",
-   "ing:vitamin-e",
-   "ing:coconut",
-   "ing:olive",
-   "claim:hydrating",
-   "aud:men",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Emami",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.emamiltd.in/our-brands/"
-   },
-   "buyers": "No buyer ratings yet"
   },
   "filters": {
    "inci": "none",
@@ -186752,105 +187441,6 @@ const WASHES = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "chemist-at-play-b0gpq9wjw4",
-  "brand": "Chemist at Play",
-  "model": "Deep Cleansing Charcoal Body Wash & 10% Vitamin C Face Serum Combo | Exfoliates, Controls …",
-  "price": 799,
-  "capacityLine": "236 ml",
-  "materialLine": "charcoal + vitamin C",
-  "featureLine": "Exfoliating · ₹339/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "236 ml",
-   "pricePer100ml": "₹339/100ml",
-   "format": "Body wash",
-   "keyIngredients": "charcoal, vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41I-jJhjkAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GPQ9WJW4",
-  "buyStore": "Amazon",
-  "title": "Chemist At Play Deep Cleansing Charcoal Body Wash & 10% Vitamin C Face Serum Combo | Exfoliates, Controls Oil, Fades Dark Spots & Hyperpigmentation | Detox, Glow, Vegan | 236ml + 30ml",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:oil",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:charcoal",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "free:vegan",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
    },
    "buyers": "No buyer ratings yet"
   },
@@ -187009,6 +187599,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:charcoal",
+   "claim:cooling",
    "free:oil-free",
    "aud:men",
    "size:xl",
@@ -187041,97 +187632,6 @@ const WASHES = [
     "url": null
    },
    "buyers": "3.3★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "the-man-company-b07vqsz67v",
-  "brand": "The Man Company",
-  "model": "Charcoal Care Trio Gift Set| Charcoal Shampoo 250ml, Charcoal Face Wash 100ml, Charcoal Bo…",
-  "price": 799,
-  "capacityLine": "250 ml",
-  "materialLine": "charcoal",
-  "featureLine": "₹320/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "volume": "250 ml",
-   "pricePer100ml": "₹320/100ml",
-   "format": "Body wash",
-   "keyIngredients": "charcoal (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Emami — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71UYUoKwv5L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07VQSZ67V",
-  "buyStore": "Amazon",
-  "title": "The Man Company Charcoal Care Trio Gift Set| Charcoal Shampoo 250ml, Charcoal Face Wash 100ml, Charcoal Body Wash 250ml | Hair Growth, Detox Skin, Removes Toxins, Antioxidant",
-  "tags": [
-   "scope:both",
-   "format:wash",
-   "format:kit",
-   "ing:charcoal",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Emami",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.emamiltd.in/our-brands/"
-   },
-   "buyers": "3.9★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -187294,6 +187794,7 @@ const WASHES = [
    "format:kit",
    "ing:rose",
    "ing:charcoal",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -187681,6 +188182,7 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "ing:charcoal",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -187778,6 +188280,8 @@ const WASHES = [
    "ing:vitamin-c",
    "ing:rose",
    "ing:charcoal",
+   "ing:lavender",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -188197,108 +188701,6 @@ const WASHES = [
     "url": "https://www.mcaffeine.com/"
    },
    "buyers": "4.3★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "be-bodywise-b0h1s8fnx1",
-  "brand": "Be Bodywise",
-  "model": "5% AHA BHA Detan Exfoliating Body Wash(250ml) & 10% AHA BHA Body Bathing Scrub(300g) | Red…",
-  "price": 668,
-  "capacityLine": "250 ml",
-  "materialLine": "shea butter",
-  "featureLine": "Exfoliating · ₹267/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "volume": "250 ml",
-   "pricePer100ml": "₹267/100ml",
-   "format": "Body wash",
-   "keyIngredients": "shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714jyW3HBiL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1S8FNX1",
-  "buyStore": "Amazon",
-  "title": "Be Bodywise 5% AHA BHA Detan Exfoliating Body Wash(250ml) & 10% AHA BHA Body Bathing Scrub(300g) | Reduces Strawberry Skin, Tan & Body Acne | Lactic Acid, Glycolic Acid & Shea Butter | All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "format:scrub",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:aha",
-   "ing:shea-butter",
-   "ing:strawberry",
-   "claim:de-tan",
-   "claim:acne",
-   "claim:exfoliating",
-   "claim:kp",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "5★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -188748,7 +189150,8 @@ const WASHES = [
    "evidenceActives": "glycerin (#6 on list, strong evidence); lactic acid (#7 on list, strong evidence); salicylic acid (#13 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516-sqLzmhL._AC_UL320_.jpg"
@@ -188770,6 +189173,7 @@ const WASHES = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -188792,6 +189196,7 @@ const WASHES = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -188799,6 +189204,7 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -188806,6 +189212,7 @@ const WASHES = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -188813,6 +189220,7 @@ const WASHES = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -189013,6 +189421,7 @@ const WASHES = [
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:ingrown",
    "aud:unisex",
    "size:xl",
    "rating:3.5",
@@ -189310,6 +189719,7 @@ const WASHES = [
    "claim:dark-spots",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -189406,6 +189816,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -189633,105 +190044,6 @@ const WASHES = [
     "url": "https://honasa.in/brands"
    },
    "buyers": "3.8★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "chemist-at-play-b0g1bxrs4v",
-  "brand": "Chemist at Play",
-  "model": "AHA Body Lotion & Exfoliating Body Wash Combo | With Niacinamide, Shea Butter, Lactic Acid…",
-  "price": 702,
-  "capacityLine": "472 ml (pack of 2)",
-  "materialLine": "shea butter + vitamin E + niacinamide",
-  "featureLine": "Exfoliating · Moisturizing · ₹149/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "volume": "236 ml × 2 pack",
-   "pricePer100ml": "₹149/100ml",
-   "format": "Body wash",
-   "keyIngredients": "shea butter, vitamin E, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating, Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51dECKnONkL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G1BXRS4V",
-  "buyStore": "Amazon",
-  "title": "Chemist At Play AHA Body Lotion & Exfoliating Body Wash Combo | With Niacinamide, Shea Butter, Lactic Acid & Vitamin E | For Exfoliating Dead Skin, Deep Nourishment & Smooth, Radiant Skin | 2 x 236ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:balm",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:lactic-acid",
-   "ing:aha",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -190178,6 +190490,7 @@ const WASHES = [
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:neem",
+   "ing:calendula",
    "claim:acne",
    "claim:exfoliating",
    "free:paraben",
@@ -190369,6 +190682,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:sea-salt",
    "claim:brightening",
    "claim:exfoliating",
    "free:paraben",
@@ -190465,6 +190779,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:sea-salt",
    "claim:exfoliating",
    "aud:unisex",
    "size:xl",
@@ -190751,6 +191066,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:sea-salt",
    "claim:exfoliating",
    "aud:unisex",
    "size:xl",
@@ -191431,7 +191747,6 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:ceramides",
@@ -191928,6 +192243,7 @@ const WASHES = [
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:odour",
    "free:paraben",
    "aud:women",
    "size:xl",
@@ -192116,10 +192432,12 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "format:kit",
+   "format:aerosol",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:acne-prone",
    "skin:all",
    "aud:unisex",
@@ -192798,6 +193116,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:kp",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -193568,6 +193887,7 @@ const WASHES = [
    "ing:salicylic-acid-bha",
    "ing:collagen",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "free:sulfate",
    "free:vegan",
@@ -193797,99 +194117,6 @@ const WASHES = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "krup-b0h2hnkrbc",
-  "brand": "Krup",
-  "model": "Ultimate Hair & Body Care Combo | Daily Purifying Anti-Dandruff Shampoo (200ml) & Feel & F…",
-  "price": 389,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Paraben-free · Exfoliating · ₹195/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "volume": "200 ml",
-   "pricePer100ml": "₹195/100ml",
-   "format": "Body wash",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71M6Lg6M5HL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2HNKRBC",
-  "buyStore": "Amazon",
-  "title": "KRUP Ultimate Hair & Body Care Combo | Daily Purifying Anti-Dandruff Shampoo (200ml) & Feel & Fresh Exfoliating Body Wash (200ml) | Deep Cleansing & Refreshing Shower Duo | Paraben Free",
-  "tags": [
-   "scope:body",
-   "format:wash",
-   "format:kit",
-   "claim:exfoliating",
-   "free:paraben",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -195203,6 +195430,7 @@ const WASHES = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -196047,6 +196275,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -196442,6 +196671,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:sulfate",
@@ -196543,6 +196773,7 @@ const WASHES = [
    "ing:coffee",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -196638,6 +196869,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -196667,101 +196899,6 @@ const WASHES = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "mcaffeine-b0h7bmhrb8",
-  "brand": "mCaffeine",
-  "model": "Exfoliate & Stay Fresh Duo | Exfoliating Coffee Body Scrub Powder Jar for Tan Removal & So…",
-  "price": 583,
-  "capacityLine": "Volume not stated",
-  "materialLine": "coffee + salicylic acid",
-  "featureLine": "Exfoliating",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "volume": "Not stated in listing",
-   "pricePer100ml": "Not stated in listing",
-   "format": "Body wash",
-   "keyIngredients": "coffee, salicylic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Exfoliating",
-   "fragrance": "Fragranced (per listing)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61lp4fdRzAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7BMHRB8",
-  "buyStore": "Amazon",
-  "title": "mCaffeine Exfoliate & Stay Fresh Duo | Exfoliating Coffee Body Scrub Powder Jar for Tan Removal & Soft-Smooth Skin | 3-in-1 Perfume Body Wash - Odour Control | Aqua Fresh Fragrance | 2% Salicylic Acid for Smooth Skin",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:powder",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:caffeine",
-   "ing:coffee",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
    },
    "buyers": "5★ from 0 ratings"
   },
@@ -197536,6 +197673,7 @@ const WASHES = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -198112,6 +198250,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:barrier",
    "claim:long-lasting",
+   "claim:odour",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -198399,8 +198538,10 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -198889,6 +199030,7 @@ const WASHES = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:toxin-free",
    "aud:unisex",
@@ -198918,6 +199060,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -198925,6 +199068,7 @@ const WASHES = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -198932,6 +199076,7 @@ const WASHES = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -198939,6 +199084,7 @@ const WASHES = [
      "grade": "A",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -198946,6 +199092,7 @@ const WASHES = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -199166,9 +199313,9 @@ const WASHES = [
   }
  },
  {
-  "id": "bath-b0dlxrnq95",
-  "brand": "Bath",
-  "model": "& Body Works Warm Vanilla Sugar Body Wash 295ml | With Pro-Vitamin B5 + Aloe |Fresh, Clean…",
+  "id": "bath-body-works-b0dlxrnq95",
+  "brand": "Bath & Body Works",
+  "model": "Warm Vanilla Sugar Body Wash 295ml | With Pro-Vitamin B5 + Aloe |Fresh, Clean Scent, Moist…",
   "price": 1249,
   "capacityLine": "295 ml",
   "materialLine": "aloe vera",
@@ -199220,6 +199367,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "ing:sugar",
    "claim:hydrating",
    "aud:unisex",
    "size:xl",
@@ -199888,6 +200036,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "ing:aloe-vera",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -200078,6 +200227,7 @@ const WASHES = [
    "format:wash",
    "ing:ceramides",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -200553,6 +200703,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "rating:4.5",
@@ -201512,6 +201663,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:women",
    "size:xl",
    "rating:3.5",
@@ -201606,7 +201758,9 @@ const WASHES = [
    "format:wash",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:lavender",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -201799,6 +201953,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:hydrating",
    "free:paraben",
    "free:derm",
@@ -202286,6 +202441,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -202584,6 +202740,8 @@ const WASHES = [
    "ing:almond",
    "claim:brightening",
    "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -202685,6 +202843,7 @@ const WASHES = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "aud:women",
@@ -203105,8 +203264,8 @@ const WASHES = [
  },
  {
   "id": "dr-teal-s-b01mxd30tr",
-  "brand": "Dr. Teal's",
-  "model": "Body Wash with Pure Epsom Salt, Relax & Relief with Eucalyptus & Spearmint | Shower Gel 71…",
+  "brand": "Dr Teal's",
+  "model": "Dr. Teal's Body Wash with Pure Epsom Salt, Relax & Relief with Eucalyptus & Spearmint | Sh…",
   "price": 890,
   "capacityLine": "710 ml",
   "materialLine": "Key ingredients not stated",
@@ -203158,6 +203317,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:sea-salt",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -203253,6 +203413,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -203828,6 +203989,7 @@ const WASHES = [
    "ing:vitamin-e",
    "ing:glycerin",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -204496,6 +204658,7 @@ const WASHES = [
    "format:kit",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -204781,6 +204944,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cooling",
    "free:ph-balanced",
    "aud:women",
    "size:xl",
@@ -205493,6 +205657,7 @@ const WASHES = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -205500,6 +205665,7 @@ const WASHES = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -205507,6 +205673,7 @@ const WASHES = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -205514,6 +205681,7 @@ const WASHES = [
      "grade": "A",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -205521,6 +205689,7 @@ const WASHES = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -206206,6 +206375,7 @@ const WASHES = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -206213,6 +206383,7 @@ const WASHES = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -206220,6 +206391,7 @@ const WASHES = [
      "grade": "A",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -206227,6 +206399,7 @@ const WASHES = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -206411,6 +206584,8 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:kp",
@@ -206507,6 +206682,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:chamomile",
    "claim:exfoliating",
    "claim:kp",
    "skin:dry",
@@ -206602,6 +206778,8 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "ing:chamomile",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:kp",
@@ -206699,6 +206877,7 @@ const WASHES = [
    "format:wash",
    "ing:aloe-vera",
    "ing:argan-oil",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -207547,6 +207726,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "aud:unisex",
@@ -207921,6 +208101,10 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "ing:chamomile",
+   "ing:lavender",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -208201,6 +208385,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -208768,6 +208953,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "free:sulfate",
    "aud:unisex",
@@ -209332,6 +209518,7 @@ const WASHES = [
    "ing:turmeric",
    "ing:neem",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:silicone",
    "aud:women",
    "size:large",
@@ -209427,6 +209614,7 @@ const WASHES = [
    "ing:honey",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:3.5",
@@ -209519,6 +209707,7 @@ const WASHES = [
    "ing:honey",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "rating:4.0",
@@ -210191,6 +210380,7 @@ const WASHES = [
    "ing:neem",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -210472,6 +210662,7 @@ const WASHES = [
    "ing:rose",
    "ing:neem",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -210563,6 +210754,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:low",
@@ -210750,6 +210942,7 @@ const WASHES = [
    "scope:body",
    "format:wash",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -210937,6 +211130,7 @@ const WASHES = [
    "format:wash",
    "claim:anti-aging",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -212181,6 +212375,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:4.5",
@@ -212212,101 +212407,6 @@ const WASHES = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "panchgavya-b0h66bh1nw",
-  "brand": "Panchgavya",
-  "model": "Shower Gel + Shower Cream Pack of 2 | Ayurvedic Herbal Body Wash & Moisturizing Shower Cre…",
-  "price": 405,
-  "capacityLine": "Volume not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Moisturizing",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "volume": "Not stated in listing",
-   "pricePer100ml": "Not stated in listing",
-   "format": "Shower gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Moisturizing/hydrating",
-   "fragrance": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61MOMHZVd2L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H66BH1NW",
-  "buyStore": "Amazon",
-  "title": "Panchgavya Shower Gel + Shower Cream Pack of 2 | Ayurvedic Herbal Body Wash & Moisturizing Shower Cream | Deep Cleansing Hydrating Daily Bath Combo",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:wash",
-   "format:kit",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   },
   "filters": {
    "inci": "none",
@@ -212371,6 +212471,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -212564,6 +212665,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -212657,6 +212759,7 @@ const WASHES = [
    "format:wash",
    "ing:honey",
    "ing:jojoba",
+   "ing:apricot",
    "claim:exfoliating",
    "claim:ayurvedic",
    "free:sulfate",
@@ -212847,6 +212950,7 @@ const WASHES = [
    "ing:neem",
    "ing:vitamin-e",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "size:large",
@@ -213050,6 +213154,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -213148,6 +213253,7 @@ const WASHES = [
    "ing:neem",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -213239,6 +213345,7 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:lavender",
    "claim:soothing",
    "claim:ayurvedic",
    "aud:unisex",
@@ -213525,6 +213632,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:silicone",
    "aud:women",
    "size:large",
@@ -214388,6 +214496,7 @@ const WASHES = [
    "ing:saffron",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:xl",
@@ -214482,6 +214591,7 @@ const WASHES = [
    "ing:honey",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:sulfate",
    "aud:unisex",
    "rating:4.0",
@@ -214670,6 +214780,7 @@ const WASHES = [
    "claim:hydrating",
    "claim:soothing",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -214958,6 +215069,7 @@ const WASHES = [
    "format:kit",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -215051,6 +215163,7 @@ const WASHES = [
    "ing:rose",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -215149,6 +215262,7 @@ const WASHES = [
    "ing:honey",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:sulfate",
    "aud:women",
    "size:xl",
@@ -215239,7 +215353,9 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:wash",
+   "ing:apricot",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -215426,6 +215542,7 @@ const WASHES = [
    "format:wash",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:sulfate",
    "aud:women",
    "size:xl",
@@ -215521,6 +215638,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "free:paraben",
    "aud:unisex",
    "size:large",
@@ -215997,6 +216115,7 @@ const WASHES = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "rating:low",
    "store:amazon",
@@ -216561,8 +216680,10 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:rose",
+   "ing:lavender",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -216653,6 +216774,7 @@ const WASHES = [
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:ayurvedic",
    "skin:all",
    "free:paraben",
@@ -217038,6 +217160,7 @@ const WASHES = [
    "format:wash",
    "ing:turmeric",
    "ing:neem",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:low",
@@ -217619,6 +217742,7 @@ const WASHES = [
    "format:pack",
    "format:wash",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:men",
    "size:xl",
@@ -217646,7 +217770,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -217844,6 +217977,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:women",
    "size:xl",
    "rating:3.5",
@@ -217936,6 +218070,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "ing:lavender",
    "free:vegan",
    "aud:men",
    "size:xl",
@@ -218082,7 +218217,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, alpha-isomethyl ionone"
   ],
   "scores": {
-   "ingredients": 6,
+   "ingredients": 6.1,
    "skin": 8,
    "trust": 8.5,
    "experience": 2.6
@@ -218150,13 +218285,23 @@ const WASHES = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     },
     {
      "name": "salicylic acid",
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -218164,6 +218309,7 @@ const WASHES = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -218535,6 +218681,7 @@ const WASHES = [
    "scope:body",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "aud:men",
    "size:xl",
    "rating:4.0",
@@ -218561,7 +218708,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -218851,6 +219007,7 @@ const WASHES = [
   "tags": [
    "scope:unstated",
    "format:gel",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -218877,7 +219034,16 @@ const WASHES = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -218948,7 +219114,7 @@ const WASHES = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
+   "ingredients": 2.2,
    "skin": 5.6,
    "trust": 5.5,
    "experience": 1.9
@@ -219007,10 +219173,19 @@ const WASHES = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
      "name": "citric acid",
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -219071,7 +219246,7 @@ const WASHES = [
    "EU-declared fragrance allergen: linalool, limonene"
   ],
   "scores": {
-   "ingredients": 7.4,
+   "ingredients": 7.5,
    "skin": 8.6,
    "trust": 8.5,
    "experience": 2.9
@@ -219137,7 +219312,16 @@ const WASHES = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -219241,6 +219425,7 @@ const WASHES = [
    "ing:turmeric",
    "claim:de-tan",
    "claim:acne",
+   "claim:odour",
    "aud:men",
    "size:large",
    "rating:4.0",
@@ -219272,95 +219457,6 @@ const WASHES = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  },
-  "filters": {
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  }
- },
- {
-  "id": "old-spice-b07njxz769",
-  "brand": "Old Spice",
-  "model": "Captain Shower Gel and Shampoo for Men, 250ml",
-  "price": 899,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "₹360/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "volume": "250 ml",
-   "pricePer100ml": "₹360/100ml",
-   "format": "Shower gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "phBalanced": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "skinBenefit": "Not stated in listing",
-   "fragrance": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Procter & Gamble — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81BQpShdnsL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07NJXZ769",
-  "buyStore": "Amazon",
-  "title": "Old Spice Captain Shower Gel and Shampoo for Men, 250ml",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "aud:men",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Procter & Gamble",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://us.pg.com/brands/"
-   },
-   "buyers": "4.6★ from 0 ratings"
   },
   "filters": {
    "inci": "none",
@@ -219802,10 +219898,11 @@ const WASHES = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:lemon",
    "claim:pores",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:silicone",
@@ -219903,6 +220000,7 @@ const WASHES = [
    "format:wash",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:sea-salt",
    "claim:hydrating",
    "free:paraben",
    "aud:unisex",
@@ -219995,6 +220093,7 @@ const WASHES = [
    "scope:unstated",
    "format:gel",
    "claim:hydrating",
+   "claim:cooling",
    "free:alcohol",
    "aud:women",
    "size:xl",
@@ -220182,6 +220281,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "ing:tea-tree",
+   "claim:cooling",
    "free:paraben",
    "free:vegan",
    "aud:unisex",
@@ -220468,9 +220568,11 @@ const WASHES = [
    "format:wash",
    "ing:green-tea",
    "ing:turmeric",
+   "ing:sea-salt",
    "claim:pores",
    "claim:hydrating",
    "claim:soothing",
+   "claim:odour",
    "free:paraben",
    "aud:men",
    "size:large",
@@ -220660,6 +220762,7 @@ const WASHES = [
    "ing:aloe-vera",
    "ing:cucumber",
    "claim:hydrating",
+   "claim:cooling",
    "aud:men",
    "size:large",
    "rating:4.5",
@@ -220841,6 +220944,7 @@ const WASHES = [
    "format:bar",
    "format:wash",
    "format:kit",
+   "claim:odour",
    "free:sulfate",
    "aud:women",
    "size:xl",
@@ -221027,6 +221131,9 @@ const WASHES = [
    "format:gel",
    "format:oil",
    "format:wash",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "claim:cooling",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -221214,6 +221321,7 @@ const WASHES = [
    "format:kit",
    "ing:coffee",
    "claim:oil-control",
+   "claim:odour",
    "aud:men",
    "size:xl",
    "rating:3.5",
@@ -221308,6 +221416,7 @@ const WASHES = [
    "scope:both",
    "format:gel",
    "format:wash",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -221782,6 +221891,7 @@ const WASHES = [
    "format:gel",
    "format:wash",
    "claim:hydrating",
+   "claim:odour",
    "aud:unisex",
    "size:xl",
    "rating:4.5",
@@ -222265,6 +222375,7 @@ const WASHES = [
    "format:oil",
    "format:wash",
    "ing:milk",
+   "ing:lavender",
    "claim:hydrating",
    "aud:unisex",
    "size:large",

@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -159,7 +159,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#2 on list, moderate evidence); glycerin (#3 on list, strong evidence); camellia sinensis leaf extract (#5 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, geraniol (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/5/r/v/125-green-tea-hydrating-mist-toner-sukin-original-imahkrbtmhk6aawr.jpeg?q=90",
@@ -197,6 +198,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -228,6 +230,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -235,6 +238,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -242,6 +246,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -249,6 +254,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -443,7 +449,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#2 on list, moderate evidence); glycerin (#6 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/f/h/125-original-facial-hydrating-mist-toner-sukin-original-imahkrc6jxcc9svg.jpeg?q=90",
@@ -476,6 +483,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -508,6 +516,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -515,6 +524,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -522,6 +532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -529,6 +540,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -659,6 +671,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -666,6 +679,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -914,6 +928,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -921,6 +936,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -2270,7 +2286,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#1 on list, moderate evidence); glycerin (#3 on list, strong evidence); sodium hyaluronate (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #1 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/b/9/100-hydrating-face-mist-soothing-multi-level-moisture-booster-original-imahjh7ccnsbfqfb.jpeg?q=90",
@@ -2305,6 +2322,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -2337,6 +2355,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -2344,6 +2363,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2351,6 +2371,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2358,6 +2379,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -2365,6 +2387,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -3110,7 +3133,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); sodium hyaluronate (#4 on list, moderate evidence); niacinamide (#5 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — 3-o-ethyl ascorbic acid #3 on INCI, niacinamide #5 on INCI; Aging — 3-o-ethyl ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/1/h/g/100-hydrating-face-mist-toner-with-vitamin-c-hyaluronic-acid-original-imahq94mgawfy5bh.jpeg?q=90",
@@ -3149,6 +3173,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full"
   ],
   "filters": {
@@ -3180,6 +3207,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3187,6 +3215,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -3194,6 +3223,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -3201,6 +3231,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     }
    ],
@@ -3819,6 +3850,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3826,6 +3858,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -3833,6 +3866,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     }
    ],
@@ -6596,6 +6630,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -13721,7 +13756,8 @@ const NXPRODUCTS = [
    "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); allantoin (#9 on list, limited evidence); sodium hyaluronate (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/d/o/100-pdrn-collagen-facial-mist-hydrating-serum-spray-with-original-imahme55prygnvcv.jpeg?q=90",
@@ -13756,6 +13792,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -13788,6 +13825,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -13795,6 +13833,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13802,6 +13841,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -13809,6 +13849,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -13816,6 +13857,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -13989,7 +14031,8 @@ const NXPRODUCTS = [
    "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); niacinamide (#4 on list, strong evidence); panthenol (#5 on list, moderate evidence); glycerin (#6 on list, strong evidence); allantoin (#9 on list, limited evidence); centella asiatica extract (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Aging — adenosine #8 on INCI; Irritation — panthenol #5 on INCI, centella asiatica extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/z/g/30-lightweight-glow-mist-for-all-skin-types-with-hyaluronic-acid-original-imahnmzt9ehvshdz.jpeg?q=90",
@@ -14021,6 +14064,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -14052,6 +14099,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -14059,6 +14107,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -14066,6 +14115,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -14073,6 +14123,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14080,6 +14131,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -14087,6 +14139,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -14094,6 +14147,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -14277,7 +14331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "hyaluronic acid (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); allantoin (#9 on list, limited evidence); sodium hyaluronate (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/a/w/100-pdrn-glow-mist-serum-hyaluronic-acid-facial-spray-for-deep-original-imahme52q9n3ygje.jpeg?q=90",
@@ -14314,6 +14369,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -14346,6 +14402,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -14353,6 +14410,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14360,6 +14418,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -14367,6 +14426,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -14374,6 +14434,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -16611,120 +16672,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 1,222 ratings"
-  }
- },
- {
-  "id": "namaskar-itm7d5a643651e3f",
-  "brand": "Namaskar",
-  "model": "Combo of Rose Radiance Cream 30 g + Jasmine Face Mist 50 ml | Moisturizer & Facial Mist",
-  "price": 858,
-  "capacityLine": "30 g",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Paraben-free · ₹2860/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹2860/100g",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/h/s/combo-of-rose-radiance-cream-30-g-jasmine-face-mist-50-ml-original-imahz3mdvr9fy4ed.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/3/1/m/combo-of-rose-radiance-cream-30-g-jasmine-face-mist-50-ml-original-imahz3m7urtdzvgn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/n/m/l/combo-of-rose-radiance-cream-30-g-jasmine-face-mist-50-ml-original-imahz3macfvj9hra.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/j/n/e/kumkumadi-face-cleanser-50-ml-rose-radiance-cream-30-g-combo-for-original-imahz3mmgfaktmzn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/o/l/7/everyday-radiance-combo-royal-glow-3-everyday-radiance-combo-original-imahzqh4hfx3fjpn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/namaskar-combo-rose-radiance-cream-30-g-jasmine-face-mist-50-ml-moisturizer-facial/p/itm7d5a643651e3f",
-  "buyStore": "Flipkart",
-  "title": "Namaskar Combo of Rose Radiance Cream 30 g + Jasmine Face Mist 50 ml | Moisturizer & Facial Mist",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:mist",
-   "format:oil",
-   "format:pack",
-   "format:roll-on",
-   "format:kit",
-   "format:aerosol",
-   "ing:rose",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:antiperspirant",
-   "claim:odour",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -22450,110 +22397,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "tanman-organics-itmb15e2a377cf66",
-  "brand": "Tanman Organics",
-  "model": "Rose Water Face Mist 100ml for Dry Skin for Men & Women Face Wash",
-  "price": 159,
-  "capacityLine": "100 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹159/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹159/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/t/j/l/100-rose-water-face-mist-100ml-for-dry-skin-for-men-women-tanman-original-imah8s32qqehgvcr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/h/w/h/100-rose-water-face-mist-100ml-for-dry-skin-for-men-women-tanman-original-imah8s32uu8mmggg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/z/y/d/100-rose-water-face-mist-100ml-for-dry-skin-for-men-women-tanman-original-imah8s32gbr2653d.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/u/u/f/100-rose-water-face-mist-100ml-for-dry-skin-for-men-women-tanman-original-imah8s32hc6bewng.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/tanman-organics-rose-water-face-mist-100ml-dry-skin-men-women-wash/p/itmb15e2a377cf66",
-  "buyStore": "Flipkart",
-  "title": "Tanman Organics Rose Water Face Mist 100ml for Dry Skin for Men & Women Face Wash",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:mist",
-   "format:wash",
-   "ing:rose",
-   "skin:dry",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "chitaaksh-itm8c19a66c06625",
   "brand": "Chitaaksh",
   "model": "Pure Korean Rose Water Skin Toner & Face Mist 100ml Men & Women",
@@ -23993,111 +23836,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mystiq-itmf9761b70a00d3",
-  "brand": "Mystiq",
-  "model": "Living Rose Water/ Steam Distilled / Toner/ Makeup Remover / Face Mist (No Artificial Frag…",
-  "price": 260,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 225 ratings"
-  ],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 6.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (225 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Steam Distilled Pure Rose Water Hydrosol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "declaredManufacturer": "Silvercloud Ventures (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 225 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/n/d/b/200-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-original-imahh3htxanwehkc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/b/s/r/200-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-original-imahh3htnrrvxbyc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/1/a/x/200-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-original-imahh3ht5zcy8jzz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/g/b/4/200-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-original-imahh3htwynfv2az.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/c/l/3/200-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-original-imahh3htgxumghyv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mystiq-living-rose-water-steam-distilled-toner-makeup-remover-face-mist-no-artificial-fragrance-alcohol-wash/p/itmf9761b70a00d3",
-  "buyStore": "Flipkart",
-  "title": "Mystiq Living Rose Water/ Steam Distilled / Toner/ Makeup Remover / Face Mist (No Artificial Fragrance & Alcohol) Face Wash",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:rose",
-   "claim:makeup",
-   "aud:unisex",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Steam Distilled Pure Rose Water Hydrosol",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 225 ratings"
   }
  },
  {
@@ -32973,7 +32711,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); aloe barbadensis leaf extract (#5 on list, moderate evidence); panthenol (#7 on list, moderate evidence); allantoin (#9 on list, limited evidence); centella asiatica extract (#10 on list, moderate evidence); sodium hyaluronate (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI, panthenol #7 on INCI, centella asiatica extract #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/p/7/50-face-mist-toner-calms-hydrates-refreshes-vaylia-original-imahzkeyrrsks7th.jpeg?q=90",
@@ -33002,6 +32741,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -33033,6 +32775,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -33040,6 +32783,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -33047,6 +32791,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -33054,6 +32799,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -33061,6 +32807,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -33068,6 +32815,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -33075,6 +32823,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -33082,6 +32831,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -36854,6 +36604,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -38359,7 +38110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#8 on list, moderate evidence); panthenol (#13 on list, moderate evidence); allantoin (#17 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 1,042 ratings"
+   "buyerEvidence": "4.2★ from 1,042 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/g/r/a/100-even-tone-underarm-mist-spray-for-dark-patch-removal-odour-original-imahq94d5bagrfyr.jpeg?q=90",
@@ -38387,6 +38139,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -38420,6 +38173,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -38427,6 +38181,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -38434,6 +38189,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -38441,6 +38197,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -38448,6 +38205,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -48119,7 +47877,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); aloe barbadensis leaf extract (#9 on list, moderate evidence); panthenol (#11 on list, moderate evidence); sodium hyaluronate (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI, panthenol #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/i/i/100-niacinamide-pomegranate-anti-ageing-face-mist-toner-for-original-imahqfbgecnkyznp.jpeg?q=90",
@@ -48147,6 +47906,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -48178,6 +47940,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48185,6 +47948,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -48192,6 +47956,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -48199,6 +47964,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -48206,6 +47972,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -48213,6 +47980,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -48289,7 +48057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); aloe barbadensis leaf juice (#5 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/b/x/100-rose-hydra-boost-face-toner-and-mist-for-glowing-brighter-original-imahpsfx3hxafvyf.jpeg?q=90",
@@ -48319,6 +48088,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -48351,6 +48121,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48358,6 +48129,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -48365,6 +48137,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -49375,127 +49148,6 @@ const NXPRODUCTS = [
   ],
   "filters": {
    "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sibley-beauty-itm83122a45ce6cf",
-  "brand": "Sibley Beauty",
-  "model": "Vitamin C Face Spray Mist Toner (1 x 200 ml) + Papaya Anti Blemish Pigmentation Face Wash …",
-  "price": 330,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Vitamin C + Walnut + Papaya",
-  "featureLine": "Mist / spray · ₹83/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹83/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Vitamin C, Walnut, Papaya, Lemon, Cherry / acerola (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Exfoliating, Dark circles / puffiness (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/km6mxe80/combo-kit/u/t/o/vitamin-c-face-spray-mist-toner-1-x-200-ml-papaya-anti-blemish-original-imagf4yhdvgfwjmh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/km3s1ow0/toner/b/e/l/600-vitamin-c-face-spray-mist-toner-3-x-200-ml-sibley-beauty-original-imagf3yvanxftfka.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/km6mxe80/face-wash/p/y/9/750-papaya-anti-blemish-pigmentation-face-wash-sibley-beauty-original-imagf4xvhbeczjzs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/km6mxe80/face-wash/b/p/q/750-papaya-anti-blemish-pigmentation-face-wash-sibley-beauty-original-imagf4xvmmwrfqhu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/7/2/b/day-night-face-cleansing-2-c2chlmfw300-joy-original-imahhfwgzejd6bqj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sibley-beauty-vitamin-c-face-spray-mist-toner-1-x-200-ml-papaya-anti-blemish-pigmentation-wash-1-150-ml-pack-2-bright-facial-glow-soft-smooth-glowing-skin-oily-dry-normal-combination-men-women-girls-boys/p/itm83122a45ce6cf",
-  "buyStore": "Flipkart",
-  "title": "Sibley Beauty Vitamin C Face Spray Mist Toner (1 x 200 ml) + Papaya Anti Blemish Pigmentation Face Wash ( 1 x 150 ml ) - pack of 2 - bright & facial glow, soft, smooth and glowing skin, oily dry normal combination skin, men women girls boys.",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:toner",
-   "format:mist",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:walnut",
-   "ing:papaya",
-   "ing:lemon",
-   "ing:cherry-acerola",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:exfoliating",
-   "claim:dark-circles",
-   "skin:oily",
-   "skin:combination",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -51089,124 +50741,6 @@ const NXPRODUCTS = [
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sibley-beauty-itmb2015771d4ea6",
-  "brand": "Sibley Beauty",
-  "model": "Oil Control Lemon Peel & Lemongrass oil Face Wash (1 x 100 ml) + Vitamin C Face Spray Mist…",
-  "price": 328,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Vitamin C + Walnut + Lemon",
-  "featureLine": "Mist / spray · ₹164/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹164/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Vitamin C, Walnut, Lemon, Cherry / acerola (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/km9ht3k0/combo-kit/a/6/i/oil-control-lemon-peel-lemongrass-oil-face-wash-1-x-100-ml-original-imagf75ch2huwbcz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/km3s1ow0/toner/b/e/l/600-vitamin-c-face-spray-mist-toner-3-x-200-ml-sibley-beauty-original-imagf3yvanxftfka.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/km57hjk0/face-wash/d/0/t/300-oil-control-lemon-peel-lemongrass-oil-face-wash-3-x-100-ml-original-imagf4ykuhq7va5e.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/c/y/y/50-guava-juicy-mini-cleanser-for-skin-brightening-with-vitamin-c-original-imahbj2yjftfhhzy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/7/2/b/day-night-face-cleansing-2-c2chlmfw300-joy-original-imahhfwgzejd6bqj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sibley-beauty-oil-control-lemon-peel-lemongrass-face-wash-1-x-100-ml-vitamin-c-spray-mist-toner-200-pack-2-bright-facial-glow-soft-smooth-glowing-skin-oily-dry-normal-combination-men-women-girls-boys/p/itmb2015771d4ea6",
-  "buyStore": "Flipkart",
-  "title": "Sibley Beauty Oil Control Lemon Peel & Lemongrass oil Face Wash (1 x 100 ml) + Vitamin C Face Spray Mist Toner (1 x 200 ml) - Pack of 2 - bright & facial glow, soft, smooth and glowing skin, oily dry normal combination skin, men women girls boys.",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:oil",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:walnut",
-   "ing:lemon",
-   "ing:cherry-acerola",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "skin:oily",
-   "skin:combination",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -53171,6 +52705,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "aadScrub"
     },
     {
@@ -53178,6 +52713,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -53185,6 +52721,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "greenTea"
     }
    ],
@@ -53372,7 +52909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence); sodium hyaluronate (#8 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/g/h/l/100-makeup-spray-green-tea-professional-finish-weightless-face-original-imahpyff6azjhbbf.jpeg?q=90",
@@ -53400,6 +52938,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -53431,6 +52972,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -53438,6 +52980,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -53445,6 +52988,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -53452,6 +52996,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -57726,7 +57271,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf juice (#3 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 29 ratings"
+   "buyerEvidence": "4.5★ from 29 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/a/t/n/100-1-marine-spring-water-replenishing-toning-mist-spray-with-original-imahdheyzjgymp2b.jpeg?q=90",
@@ -57749,6 +57295,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -57782,6 +57329,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57789,6 +57337,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -64213,6 +63762,343 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "unbranded-itm0d8d811f9f6e7",
+  "brand": "Unbranded",
+  "model": "CENTELLA Rose Water | Rose Water Spray for Face | Rose Meri Water | Organic Rose Water | M…",
+  "price": 186,
+  "capacityLine": "100 ml",
+  "materialLine": "Niacinamide + Centella / cica + Rose",
+  "featureLine": "Mist / spray · Paraben-free · ₹186/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹186/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Centella / cica, Rose (named on listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rose Water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/9/v/4/100-rose-water-rose-water-spray-for-face-rose-meri-water-organic-original-imahmmvsexkmnbyj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/s/2/100-rose-water-rose-water-spray-for-face-rose-meri-water-organic-original-imahmmvsgbttjngf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/w/1/100-rose-water-rose-water-spray-for-face-rose-meri-water-organic-original-imahmmvsbrscdenh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/d/m/100-rose-water-rose-water-spray-for-face-rose-meri-water-organic-original-imahmmvshagqegbz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/d/s/-original-imahpjw7wufsuaqx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-rose-water-spray-face-meri-organic-men-women/p/itm0d8d811f9f6e7",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Rose Water | Rose Water Spray for Face | Rose Meri Water | Organic Rose Water | Men & Women",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "ing:rose",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rose Water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm9d04b0e6c88c6",
+  "brand": "Unbranded",
+  "model": "CENTELLA Rose Water | Rose Water Spray | Gulab Jal Natural Extract | Face Toner |Gulabjal …",
+  "price": 159,
+  "capacityLine": "100 g",
+  "materialLine": "Niacinamide + Centella / cica + Rose",
+  "featureLine": "Mist / spray · Paraben-free · ₹159/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹159/100g",
+   "format": "Mist / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Niacinamide, Centella / cica, Rose, Zinc (named on listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ROSE WATER",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/r/l/100-rose-water-rose-water-spray-gulab-jal-natural-extract-face-original-imahhnmxtz4guhtn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/s/e/100-rose-water-rose-water-spray-gulab-jal-natural-extract-face-original-imahhnmxthynqxhg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/1/q/c/100-rose-water-rose-water-spray-gulab-jal-natural-extract-face-original-imahhnmxbfpfv4pf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/z/l/100-rose-water-rose-water-spray-gulab-jal-natural-extract-face-original-imahhnmxsyuhczv9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/d/s/-original-imahpjw7wufsuaqx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-rose-water-spray-gulab-jal-natural-extract-face-toner-gulabjal-men-women/p/itm9d04b0e6c88c6",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Rose Water | Rose Water Spray | Gulab Jal Natural Extract | Face Toner |Gulabjal Men & Women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:serum",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "ing:rose",
+   "ing:zinc",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:scars",
+   "skin:all",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "ROSE WATER",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "oriflame-sweden-itm451053ee68b77",
+  "brand": "Oriflame Sweden",
+  "model": "Make-Up Pro Face Mist",
+  "price": 439,
+  "capacityLine": "150 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · Paraben-free · ₹293/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹293/100g",
+   "format": "Mist / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Water / sweat resistant, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/b/c/45-make-up-pro-face-mist-oriflame-sweden-serum-original-imahbypx88gyezsf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/j/c/45-make-up-pro-face-mist-oriflame-sweden-serum-original-imahbypxkwnsycvk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/i/9/5-everlasting-sync-concealer-oriflame-sweden-cream-original-imah3taxny4gn4kh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/2/i/45-the-one-make-up-pro-face-mist-oriflame-sweden-gel-original-imah6f79fprmdzts.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/i/e/150-glow-essentials-face-cream-with-vitamins-e-and-b3-oriflame-original-imahzqseznuyhzhy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/oriflame-sweden-make-up-pro-face-mist/p/itm451053ee68b77",
+  "buyStore": "Flipkart",
+  "title": "Oriflame Sweden Make-Up Pro Face Mist",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:serum",
+   "format:toner",
+   "format:mist",
+   "format:kit",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:water-resistant",
+   "claim:makeup",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Oriflame Cosmetics",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://corporate.oriflame.com/"
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "beaute-b0cc5b61z6",
   "brand": "Beaute",
   "model": "Pure Rose Water Mist For All Skin Types | Face Toner/Skin Toner for Men & Women (100ml, 3)",
@@ -64318,6 +64204,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -65985,122 +65872,6 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "the-vyasa-b0fhdy69g3",
-  "brand": "the vyasa",
-  "model": "Combo Of – Kumkumadi Face Glow Oil Face Serum (30ml) + Saffron Face Mist Toner (100ml) | S…",
-  "price": 3420,
-  "capacityLine": "30 ml",
-  "materialLine": "Saffron + Sandalwood + Kumkumadi",
-  "featureLine": "Mist / spray · ₹11400/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹11400/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Saffron, Sandalwood, Kumkumadi, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, Normal skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61lZfRN5khL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71h8kaauh+L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61GwCWxvClL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71s4ZjNiUKL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FHDY69G3",
-  "buyStore": "Amazon",
-  "title": "Combo Of – Kumkumadi Face Glow Oil Face Serum (30ml) + Saffron Face Mist Toner (100ml) | Suitable for All Skin Types",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:mist",
-   "format:oil",
-   "format:patch",
-   "format:kit",
-   "ing:saffron",
-   "ing:sandalwood",
-   "ing:kumkumadi",
-   "ing:olive",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "claim:cooling",
-   "skin:oily",
-   "skin:combination",
-   "skin:normal",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -69116,117 +68887,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "sri-sri-tattva-shuddhta-ka-naam-b07phzdptw",
-  "brand": "Sri Sri TATTVA shuddhta ka naam",
-  "model": "Gulab Jal Spray, 100ml (Pack of 4) - Pure Rose Water Mist for Hydrated, Glowing Skin - Pre…",
-  "price": 320,
-  "capacityLine": "400 ml (pack of 4)",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹80/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 4 pack",
-   "pricePer100": "₹80/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Sensitive skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61kHS950r9L._SL1024_.jpg",
-   "https://m.media-amazon.com/images/I/41KlSneajqL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61RwnhPqXLL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/71PciMQO1wL._SL1445_.jpg",
-   "https://m.media-amazon.com/images/I/51cf+tfutIL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07PHZDPTW",
-  "buyStore": "Amazon",
-  "title": "Sri Sri TATTVA shuddhta ka naam Gulab Jal Spray, 100ml (Pack of 4) - Pure Rose Water Mist for Hydrated, Glowing Skin - Premium Toner & Cleanser for Soft, Smooth Skin",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:oily",
-   "skin:sensitive",
-   "free:fragrance",
-   "free:ph-balanced",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "ruv-ra-b0hd7s1ybg",
   "brand": "Ruvéra",
   "model": "Rose Water Toner Mist for Face 100ml | Pure Steam-Distilled Floral Water | No Additives, C…",
@@ -71184,113 +70844,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "silvoria-b0h79wd65d",
-  "brand": "SILVORIA",
-  "model": "Soothing Cooling Mist Spray Hydrating Face & Body Moisturizer | Refreshing Skin Care Spray…",
-  "price": 279,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹930/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹930/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Yep3YUdqL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71+VrTHnBTL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71OcMtTDIIL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61jVKSXnxEL._SL1497_.jpg",
-   "https://m.media-amazon.com/images/I/71vVWcrZqWL._SL1333_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H79WD65D",
-  "buyStore": "Amazon",
-  "title": "Soothing Cooling Mist Spray Hydrating Face & Body Moisturizer | Refreshing Skin Care Spray | Lightweight Daily Cooling Formula for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "format:kit",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:odour",
-   "claim:cooling",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "apeix-b0h7m6hmr9",
   "brand": "APEIX",
   "model": "Cooling Comfort Soothing Spray | Lightweight Hydrating Mist for Face & Body | Refreshing D…",
@@ -71582,114 +71135,6 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "8rees-kambill-b0gnz3cm1y",
-  "brand": "8rees Kambill",
-  "model": "Dobi Dobi Seoul Vitamin Cocktail Facial Spray Serum – Brightening & Hydrating Face Mist – …",
-  "price": 985,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹657/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹657/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61KTJqPAlFL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51mEQLkMM5L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/514TzSpTL+L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/51Qp3hyJhjL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/5161a3+g5AL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GNZ3CM1Y",
-  "buyStore": "Amazon",
-  "title": "Dobi Dobi Seoul Vitamin Cocktail Facial Spray Serum – Brightening & Hydrating Face Mist – Soothes Acne, Firms Skin & Deep Moisturizes – Lightweight Glow Boosting Facial Serum Spray – 150 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:mist",
-   "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
    "derm": false,
    "men": false,
    "women": false,
@@ -74326,6 +73771,424 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "d-alba-piedmont-b0c5t25jjp",
+  "brand": "d'alba Piedmont",
+  "model": "d'Alba White Truffle First Spray Serum, Hydrating Glow Mist, 50ml",
+  "price": 1300,
+  "capacityLine": "50 ml",
+  "materialLine": "Vitamin E",
+  "featureLine": "Mist / spray · ₹2600/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹2600/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/513KXIpDtnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C5T25JJP",
+  "buyStore": "Amazon",
+  "title": "d'Alba White Truffle First Spray Serum, Hydrating Glow Mist, 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:mist",
+   "format:kit",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nat-habit-b09k4dcfq6",
+  "brand": "Nat Habit",
+  "model": "100% Pure Gulab Jal - Rose Water - Toner, Face-Mist, Astringent & Face Spray - Ayurvedic, …",
+  "price": 214,
+  "capacityLine": "100 ml",
+  "materialLine": "Rose",
+  "featureLine": "Mist / spray · ₹214/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹214/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Pure Steam Distillation of Rose Petals. Rose & Water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Naturohabit Pvt Ltd (Nat Habit) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61NNDtr-bdL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09K4DCFQ6",
+  "buyStore": "Amazon",
+  "title": "Nat Habit 100% Pure Gulab Jal - Rose Water - Toner, Face-Mist, Astringent & Face Spray - Ayurvedic, Steam-Distilled For Oil-Control, Skin Hydration (Pack of 1, 100 ml)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "ing:rose",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "free:ph-balanced",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Pure Steam Distillation of Rose Petals. Rose & Water",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Naturohabit Pvt Ltd (Nat Habit)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://nathabit.in/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "gazzani-b0h5q2w8q8",
+  "brand": "GAZZANI",
+  "model": "High Effective Soothing Spray with Cooling Comfort | 30ml Moisturizing Skin Care Formula |…",
+  "price": 259,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹863/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹863/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/718JgNW3qfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5Q2W8Q8",
+  "buyStore": "Amazon",
+  "title": "High Effective Soothing Spray with Cooling Comfort | 30ml Moisturizing Skin Care Formula | Cooling Hydration Mist for Face & Body | Lightweight Daily Body Care | Refreshing & Calming Skin Moisturizer for Adults",
+  "tags": [
+   "scope:both",
+   "format:mist",
+   "format:aerosol",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:cooling",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "asthi-b0h6335kbh",
+  "brand": "Asthi",
+  "model": "Portable Spray Water Bottle with Face Mist Function | Summer Cooling Mist Bottle | Reusabl…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61zjpPnOOJL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61nCUDVg5xL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61pell8ImiL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51JWQxdSyyL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61RFJKLYh+L._AC_SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6335KBH",
+  "buyStore": "Amazon",
+  "title": "Portable Spray Water Bottle with Face Mist Function | Summer Cooling Mist Bottle | Reusable Water Bottle for Gym, School, Office, Travel & Outdoor Use",
+  "tags": [
+   "scope:face",
+   "format:mist",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:cooling",
+   "aud:kids",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
   "id": "d-alba-b0bfq9rd5b",
   "brand": "d'Alba",
   "model": "White Truffle First Spray Serum, Hydrating Glow Mist, 100ml",
@@ -74369,7 +74232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#6 on list, strong evidence); glycerin (#16 on list, strong evidence); sodium hyaluronate (#25 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: butylphenyl methylpropional, linalool, hexyl cinnamal, limonene (−2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — avena sativa kernel extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Hyi1zkxYL._SL1080_.jpg",
@@ -74398,6 +74262,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -74429,6 +74296,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -74436,6 +74304,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "oat"
     },
     {
@@ -74443,6 +74312,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74450,6 +74320,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -74457,6 +74328,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -74464,6 +74336,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -74471,6 +74344,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "peptides"
     },
     {
@@ -74478,6 +74352,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -74485,6 +74360,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 49,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -75826,118 +75702,6 @@ const NXPRODUCTS = [
     "url": "https://marico.com/india/brands"
    },
    "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "m-u-b0h3cjfbx1",
-  "brand": "M & U",
-  "model": "Niacinamide Glowing Face Serum and Face Mist Combo Set for Skin Care",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+dp5-s1TL._SL1448_.jpg",
-   "https://m.media-amazon.com/images/I/61jZC-6iomL._SL1440_.jpg",
-   "https://m.media-amazon.com/images/I/61n7FXJzBWL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/610VXMvN9SL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61vNOC0sCnL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3CJFBX1",
-  "buyStore": "Amazon",
-  "title": "Niacinamide Glowing Face Serum and Face Mist Combo Set for Skin Care",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:mist",
-   "format:kit",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:cooling",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:all",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -77855,7 +77619,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); centella asiatica extract (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QCbdbaIWL._SL1080_.jpg",
@@ -77889,6 +77654,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -77922,6 +77688,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -77929,6 +77696,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -80593,117 +80361,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "pilgrim-b0hcdggzqw",
-  "brand": "Pilgrim",
-  "model": "Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti …",
-  "price": 380,
-  "capacityLine": "5 ml",
-  "materialLine": "Vitamin C + Niacinamide + Alpha arbutin",
-  "featureLine": "Mist / spray · Paraben-free · ₹7600/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "5 ml",
-   "pricePer100": "₹7600/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Vitamin C, Niacinamide, Alpha arbutin, Aloe vera, Mineral oil (named on listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free, Alcohol-free (seller claim — not scored)",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Anti-aging / wrinkles, Korean / K-beauty (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41c-wVYcEqL._SL1001_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDGGZQW",
-  "buyStore": "Amazon",
-  "title": "Pilgrim Alcohol Free Red Vine Face Toner Spray with Vitamin B3 and Aloe, Face Mist Spray For Anti Agein & Korean 2% Alpha Arbutin & 3% Vitamin C Brightening Face Serum (Mini - 5 ml) for glowing skin",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:toner",
-   "format:mist",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:alpha-arbutin",
-   "ing:aloe-vera",
-   "ing:mineral-oil",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:korean",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "free:alcohol",
-   "free:derm",
-   "free:vegan",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -83386,7 +83043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); hyaluronic acid (#6 on list, moderate evidence); panthenol (#7 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51L9DiD82vL._SL1080_.jpg",
@@ -83420,6 +83078,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -83451,6 +83110,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -83458,6 +83118,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -83465,6 +83126,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -83472,6 +83134,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -84424,7 +84087,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); panthenol (#9 on list, moderate evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: rosemary oil (−0.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zuFdg4ApL._SL1080_.jpg",
@@ -84452,6 +84116,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -84484,6 +84149,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -84491,6 +84157,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -84498,6 +84165,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -84938,6 +84606,490 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "arogya-b0fbm56dqn",
+  "brand": "Arogya",
+  "model": "Rose Water Face Toner (Pack of 2, 100ml Each) Pure Gulab Jal Facial Spray & Hydrating Face…",
+  "price": 110,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Rose",
+  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹55/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹55/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61UaK9benVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FBM56DQN",
+  "buyStore": "Amazon",
+  "title": "Arogya Rose Water Face Toner (Pack of 2, 100ml Each) Pure Gulab Jal Facial Spray & Hydrating Face Mist | Natural Skin Toner and Facial Cleanser for Fresh, Glowing & Healthy-Looking Skin | Refreshing Pore Care Toner for All Skin Types | Sulphate-Free Daily Skincare",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:rose",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:cooling",
+   "skin:all",
+   "free:sulfate",
+   "aud:unisex",
+   "size:large",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ryllz-essentials-b0gfpqcrrs",
+  "brand": "RYLLZ ESSENTIALS",
+  "model": "Pure Natural Rose Water Face Toner 200ml | Face Mist | Gulab Jal | Kannauj Rose | Unisex |…",
+  "price": 257,
+  "capacityLine": "200 ml",
+  "materialLine": "Rose",
+  "featureLine": "Mist / spray · Paraben-free · ₹129/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹129/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Pores / blackheads, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61w5fWOO9gL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFPQCRRS",
+  "buyStore": "Amazon",
+  "title": "RYLLZ ESSENTIALS Pure Natural Rose Water Face Toner 200ml | Face Mist | Gulab Jal | Kannauj Rose | Unisex | 200ml",
+  "tags": [
+   "scope:both",
+   "format:toner",
+   "format:mist",
+   "format:oil",
+   "ing:rose",
+   "claim:acne",
+   "claim:pores",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:vegan",
+   "free:ph-balanced",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "millet-mania-organically-milleting-the-world-b0h9yx1x3l",
+  "brand": "MILLET MANIA - ORGANICALLY MILLETING THE WORLD",
+  "model": "Millet Mania Vedic Rose Water (Gulab Jal) 100ml | 100% Pure Rose Water Face Mist | Natural…",
+  "price": 250,
+  "capacityLine": "100 ml",
+  "materialLine": "Rose",
+  "featureLine": "Mist / spray · ₹250/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹250/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Odour control / freshness, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41kQEW7hsSL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9YX1X3L",
+  "buyStore": "Amazon",
+  "title": "Millet Mania Vedic Rose Water (Gulab Jal) 100ml | 100% Pure Rose Water Face Mist | Natural Skin Toner | Refreshing Facial Mist | Hydrating & Cooling | For Face, Skin Care & Makeup Prep",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "ing:rose",
+   "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mario-badescu-b074zbnxnr",
+  "brand": "Mario Badescu",
+  "model": "Facial Spray with Aloe, Cucumber and Green Tea for All Skin Types | Face Mist that Hydrate…",
+  "price": 2657,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Green tea + Aloe vera + Cucumber",
+  "featureLine": "Mist / spray",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "aloe barbadensis leaf juice high on the INCI list (moderate evidence); camellia sinensis leaf extract high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum",
+   "EU-declared fragrance allergen: hexyl cinnamal, limonene",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.8,
+   "skin": 4.9,
+   "trust": 5.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Mist / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Green tea, Aloe vera, Cucumber (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water, Eau), Propylene Glycol, Mentha Piperita (Peppermint) Leaf Water, Cucumis Sativus (Cucumber) Fruit Water, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Fucus Vesiculosus Extract, Propanediol, Polysorbate 20, Ethylhexylglycerin, Benzophenone-4, Parfum (Fragrance), Sodium Chloride, Citric Acid, Potassium Sorbate, Sodium Benzoate, CI 19140 (Yellow 5), CI 42090 (Blue 1), Hexyl Cinnamal, Limonene, Linalool.",
+   "evidenceActives": "aloe barbadensis leaf juice (#6 on list, moderate evidence); camellia sinensis leaf extract (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: hexyl cinnamal, limonene, linalool (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #6 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/714QQWKiZ4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B074ZBNXNR",
+  "buyStore": "Amazon",
+  "title": "Mario Badescu Facial Spray with Aloe, Cucumber and Green Tea for All Skin Types | Face Mist that Hydrates & Invigorates | 4 FL OZ & 2 FL OZ Combo",
+  "tags": [
+   "scope:both",
+   "format:mist",
+   "format:kit",
+   "ing:green-tea",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "claim:hydrating",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua (Water, Eau), Propylene Glycol, Mentha Piperita (Peppermint) Leaf Water, Cucumis Sativus (Cucumber) Fruit Water, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Fucus Vesiculosus Extract, Propanediol, Polysorbate 20, Ethylhexylglycerin, Benzophenone-4, Parfum (Fragrance), Sodium Chloride, Citric Acid, Potassium Sorbate, Sodium Benzoate, CI 19140 (Yellow 5), CI 42090 (Blue 1), Hexyl Cinnamal, Limonene, Linalool.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "greenTea"
+    },
+    {
+     "name": "benzophenone-4",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "propanediol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "hexyl cinnamal",
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1.5,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
   "id": "tee-b0gt4wwths",
   "brand": "TEE",
   "model": "ESS Cooler Face Mist for Men & Women | Hydrating & Refreshing Facial Mist with Vitamin E &…",
@@ -85307,7 +85459,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf juice (#3 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51sQGZFqGOL._SL1100_.jpg",
@@ -85333,6 +85486,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -85366,6 +85520,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -85373,6 +85528,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -85824,115 +85980,6 @@ const NXPRODUCTS = [
     "label": "Dermatology / pharmaceutical manufacturer",
     "pts": 8,
     "url": "https://www.pierre-fabre.com/en/our-brands"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "keysoul-b0h5wzkgxg",
-  "brand": "KeySoul",
-  "model": "Glow Up Rose Delight Cleanser & Toner Spray 100ml | Rose Water Face Mist for Hydration & R…",
-  "price": 199,
-  "capacityLine": "100 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/516u-VJytoL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/51aOS+H6k6L._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5WZKGXG",
-  "buyStore": "Amazon",
-  "title": "KeySoul Glow Up Rose Delight Cleanser & Toner Spray 100ml | Rose Water Face Mist for Hydration & Refreshing Skin | Facial Toner for All Skin Types | Daily Skin Care Spray",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:rose",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:cooling",
-   "skin:oily",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:all",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
    },
    "buyers": "4.3★ from 0 ratings"
   }
@@ -89007,113 +89054,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "arogya-b0fbm6b2k7",
-  "brand": "Arogya",
-  "model": "Rose Water Face Toner 500ml, 100% Pure Gulab Jal Spray for Face, Hydrating Facial Mist, Na…",
-  "price": 159,
-  "capacityLine": "500 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹32/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹32/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/710LxzyidGL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51onktBJkaL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71A+b34YJML._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71O4xbGVojL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71Z7QnUM8wL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FBM6B2K7",
-  "buyStore": "Amazon",
-  "title": "Arogya Rose Water Face Toner 500ml, 100% Pure Gulab Jal Spray for Face, Hydrating Facial Mist, Natural Skin Cleanser & Pore Tightening Toner for Glowing Skin, Suitable for All Skin Type, Sulphate-Free",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "ing:rose",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "skin:all",
-   "free:sulfate",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -94054,6 +93994,222 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "oneal-b0h45r66ls",
+  "brand": "ONEAL",
+  "model": "Korean Rose Water Face Toner Spray | 100% Pure & Distilled Hydrating Mist | Revitalizing N…",
+  "price": 119,
+  "capacityLine": "100 ml",
+  "materialLine": "Rose",
+  "featureLine": "Mist / spray · Alcohol-free · ₹119/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹119/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Korean / K-beauty, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Ip0gKPjlL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H45R66LS",
+  "buyStore": "Amazon",
+  "title": "Korean Rose Water Face Toner Spray | 100% Pure & Distilled Hydrating Mist | Revitalizing Natural Facial Toner for Glowing Skin & Pore Tightening | Alcohol-Free, For All Skin Types, 100ml",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "format:wash",
+   "ing:rose",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:korean",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:sensitive",
+   "skin:all",
+   "free:alcohol",
+   "free:ph-balanced",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "ecomistiq-b0hh9b3ppn",
+  "brand": "ECOMISTIQ",
+  "model": "Handy Nano Mist Sprayer Daily Makeup Hydration Refreshing Facial Atomization White",
+  "price": 773,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹2577/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2577/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/411eng-L2hL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/41554nSXleL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/4186283C4BL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/410tHfed8uL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/418M3Iz+GNL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH9B3PPN",
+  "buyStore": "Amazon",
+  "title": "Handy Nano Mist Sprayer Daily Makeup Hydration Refreshing Facial Atomization White",
+  "tags": [
+   "scope:face",
+   "format:mist",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -103383,229 +103539,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "suparna-trikha-b0hg9x288k",
-  "brand": "Suparna Trikha",
-  "model": "Rose Water Facial Mist 200ml + Rose Sea Salt Body Scrub 300g | Hydrating Face Toner & Exfo…",
-  "price": 1425,
-  "capacityLine": "300 g",
-  "materialLine": "Rice water + Rose + Coconut",
-  "featureLine": "Scrub · ₹475/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹475/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Rice water, Rose, Coconut, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61VHKu3MlEL._SL1236_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG9X288K",
-  "buyStore": "Amazon",
-  "title": "Rose Water Facial Mist 200ml + Rose Sea Salt Body Scrub 300g | Hydrating Face Toner & Exfoliating Body Polish | Rose Petals & Natural Oils | Skin Care Combo for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:mist",
-   "format:oil",
-   "format:scrub",
-   "format:kit",
-   "ing:rice-water",
-   "ing:rose",
-   "ing:coconut",
-   "ing:sea-salt",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cooling",
-   "skin:all",
-   "free:vegan",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "undercover-b0h2n28nq3",
-  "brand": "Undercover",
-  "model": "Pack of 3 Intimate Bright Care Cream, Intimate V-Refreshing Mist & Intimate V-Care Oil Com…",
-  "price": 1090,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Vitamin C + Alpha arbutin + Aloe vera",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C, Alpha arbutin, Aloe vera, Shea butter, Vitamin E, Apricot, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Intimate hygiene, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51p7tEw6hhL._SL1200_.jpg",
-   "https://m.media-amazon.com/images/I/61UPhuqTuKL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/618MdJPtlWL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51N4Uu5xebL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51ffHA63aHL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2N28NQ3",
-  "buyStore": "Amazon",
-  "title": "Undercover Pack of 3 Intimate Bright Care Cream, Intimate V-Refreshing Mist & Intimate V-Care Oil Combo",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:mist",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:alpha-arbutin",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:apricot",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:intimate-hygiene",
-   "claim:cooling",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "urbanbotanics-b0fv2hmlvw",
   "brand": "UrbanBotanics",
   "model": "Rosemary Water Mist Spray for Hair Growth | Rice Water Extract ,Redensyl & Anagain | Hair …",
@@ -110260,113 +110193,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "pilgrim-b0hcdp99j2",
-  "brand": "Pilgrim",
-  "model": "Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Australian Tea Tree Light …",
-  "price": 346,
-  "capacityLine": "80 g",
-  "materialLine": "Hyaluronic acid + Centella / cica + Tea tree",
-  "featureLine": "Mist / spray · ₹433/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 g",
-   "pricePer100": "₹433/100g",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Hyaluronic acid, Centella / cica, Tea tree (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Hydrating / moisturizing, Lightweight / fast-absorbing, Korean / K-beauty, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Acne-prone",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Lz0ejxZ-L._SL1001_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDP99J2",
-  "buyStore": "Amazon",
-  "title": "PILGRIM Korean Beauty White Lotus Refreshing Face Mist & Toner 100 ml & Australian Tea Tree Light Gel moisturizer for face for oily & acne prone skin with Hyaluronic acid & CICA 80 gm",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:toner",
-   "format:mist",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "ing:tea-tree",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:korean",
-   "claim:cooling",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0hhrwm7pk",
   "brand": "Unbranded",
   "model": "Sea Buckthorn Rose Water Face Toner, Hydrating Facial Mist for Daily Moisturising & Refres…",
@@ -113260,7 +113086,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); panthenol (#9 on list, moderate evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: rosemary oil (−0.5)",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JQpGH2JfL._SL1080_.jpg",
@@ -113287,6 +113114,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -113319,6 +113147,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -113326,6 +113155,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -113333,6 +113163,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -113474,16 +113305,18 @@ const NXPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Hyaluronic acid + Collagen",
   "featureLine": "Mist / spray · ₹2199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "panthenol high on the INCI list (moderate evidence); allantoin high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.9,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -113501,13 +113334,16 @@ const NXPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciMatchedName": "PDRN Collagen Glow Facial Serum Spray (name match 100%)",
+   "inciList": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
+   "evidenceActives": "panthenol (#10 on list, moderate evidence); allantoin (#17 on list, limited evidence); glycerin (#24 on list, strong evidence); sodium hyaluronate (#29 on list, moderate evidence); hydrolyzed hyaluronic acid (#49 on list, moderate evidence); hyaluronic acid (#50 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Aging — adenosine #23 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71LQ-32prpL._SL1500_.jpg",
@@ -113536,7 +113372,11 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "freefrom": false,
@@ -113544,25 +113384,163 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/pdrn-100-hyaluronic-acid-hydrating-capsule-mist-100ml",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "PDRN Collagen Glow Facial Serum Spray",
+   "inciMatchScore": 1,
+   "inciText": "Water, Diphenyl Dimethicone, Dipropylene Glycol, Pentylene Glycol, 1,2-Hexanediol, Glycereth-26, Propanediol, Streptococcus Thermophilus Ferment, Butylene Glycol, Panthenol, Caprylic/Capric Triglyceride, Sodium DNA, Hydroxyethyl Urea, Hydroxyacetophenone, Castor Oil/IPDI Copolymer, Xylitylglucoside, Allantoin, Dipeptide-15, Gellan Gum, Anhydroxylitol, Calcium Chloride, Caprylyl Glycol, Adenosine, PPG-13-Decyltetradeceth-24, Glycerin, Sodium Citrate, Xylitol, Glycine Soja (Soybean) Seed Extract, Melia Azadirachta Leaf Extract, Sodium Hyaluronate, Citric Acid, Melia Azadirachta Flower Extract, Glycine Soja (Soybean) Oil, Pyrus Malus (Apple) Juice, Coccinia Indica Fruit Extract, Tocopherol, Cynanchum Atratum Extract, Solanum Melongena (Eggplant) Fruit Extract, Aloe Barbadensis Flower Extract, Octanediol, Ethylhexylglycerin, Simmondsia Chinensis (Jojoba) Seed Oil, Curcuma Longa (Turmeric) Root Extract, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Helianthus Annuus (Sunflower) Seed Oil, Althaea Rosea Flower Extract, Beta-Carotene, Daucus Carota Sativa (Carrot) Root Extract, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Castanea Sativa (Chestnut) Seed Extract, Dipotassium Phosphate, Acetyl Glutamine, Agar, Magnesium Sulfate, Xanthan Gum, Diphenylsiloxy Phenyl Trimethicone, Phenyl Trimethicone, Propylene Glycol Dibenzoate, Pyrus Malus (Apple) Seed Oil, Hydrogenated Lecithin, Aureobasidium Pullulans Ferment, Hydrolyzed Collagen, Ceramide NP, Sodium Chloride, Hippophae Rhamnoides Oil, Copper Tripeptide-1, Cellulose Gum, Amber Powder, Sodium Bicarbonate, Candida Bombicola/Glucose/Methyl Rapeseedate Ferment, Moringa Oleifera Seed Oil, Potassium Chloride, Sodium Stearoyl Glutamate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.99,
+   "actives": [
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 24,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 41,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "curcuma longa root extract",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 49,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 50,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 64,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 65,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "copper tripeptide-1",
+     "grade": "B",
+     "position": 67,
+     "core": false,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium bicarbonate",
+     "grade": "C",
+     "position": 70,
+     "core": false,
+     "trace": true,
+     "src": "deodorants"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "butylene glycol",
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -121963,110 +121941,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "dfeather-b0hglvj2xm",
-  "brand": "DFeather",
-  "model": "Kesar Face Serum & Kesar Kiss Face Mist Combo 30ml+100ml | Saffron & Kojic Acid, Radiance …",
-  "price": 667,
-  "capacityLine": "90 ml (pack of 3)",
-  "materialLine": "Kojic acid + Saffron",
-  "featureLine": "Mist / spray · ₹741/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 3 pack",
-   "pricePer100": "₹741/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Kojic acid, Saffron (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71XFOdW9ntL._SL1371_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HGLVJ2XM",
-  "buyStore": "Amazon",
-  "title": "Kesar Face Serum & Kesar Kiss Face Mist Combo 30ml+100ml | Saffron & Kojic Acid, Radiance & Glow, Hydrating Mist, Moisture Care, Refreshing Formula",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:mist",
-   "format:kit",
-   "ing:kojic-acid",
-   "ing:saffron",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:cooling",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "khadi-natural-b008kh6hk2",
   "brand": "Khadi Natural",
   "model": "Mint & Cucumber Face Spray|Refreshes and hydrates skin|Gives cooling effect on skin|Fights…",
@@ -122845,117 +122719,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "sri-sri-tattva-shuddhta-ka-naam-b08hd45psn",
-  "brand": "Sri Sri TATTVA shuddhta ka naam",
-  "model": "Gulab Jal Spray - Pure Rose Water Mist for Hydrated, Glowing Skin - Premium Toner & Cleans…",
-  "price": 150,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Fragrance-free · ₹75/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹75/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Sensitive skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51cA-Htk4EL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81ODwwlO4ML._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81PZOSqUSgL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81QxW9Y0btL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81dbInXXXEL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08HD45PSN",
-  "buyStore": "Amazon",
-  "title": "Sri Sri TATTVA shuddhta ka naam Gulab Jal Spray - Pure Rose Water Mist for Hydrated, Glowing Skin - Premium Toner & Cleanser for Soft, Smooth Skin | 100ml (Pack of 2)",
-  "tags": [
-   "scope:both",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:oily",
-   "skin:sensitive",
-   "free:fragrance",
-   "free:ph-balanced",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "undercover-b0h2mx5hqq",
   "brand": "Undercover",
   "model": "Pack of 3 Underarm Brightening Spray, Intimate V-Refreshing Mist & Daily Intimate Wash Com…",
@@ -123167,1005 +122930,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "d-alba-b0c5t25jjp",
-  "brand": "d'Alba",
-  "model": "White Truffle First Spray Serum, Hydrating Glow Mist, 50ml",
-  "price": 1300,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹2600/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹2600/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/513KXIpDtnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5T25JJP",
-  "buyStore": "Amazon",
-  "title": "d'Alba White Truffle First Spray Serum, Hydrating Glow Mist, 50ml",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:mist",
-   "claim:brightening",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "nat-habit-b09k4dcfq6",
-  "brand": "Nat Habit",
-  "model": "100% Pure Gulab Jal - Rose Water - Toner, Face-Mist, Astringent & Face Spray - Ayurvedic, …",
-  "price": 214,
-  "capacityLine": "100 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹214/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹214/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Naturohabit Pvt Ltd (Nat Habit) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61NNDtr-bdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09K4DCFQ6",
-  "buyStore": "Amazon",
-  "title": "Nat Habit 100% Pure Gulab Jal - Rose Water - Toner, Face-Mist, Astringent & Face Spray - Ayurvedic, Steam-Distilled For Oil-Control, Skin Hydration (Pack of 1, 100 ml)",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:kit",
-   "ing:rose",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Naturohabit Pvt Ltd (Nat Habit)",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://nathabit.in/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "arogya-b0fbm56dqn",
-  "brand": "Arogya",
-  "model": "Rose Water Face Toner (Pack of 2, 100ml Each) Pure Gulab Jal Facial Spray & Hydrating Face…",
-  "price": 110,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹55/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹55/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61UaK9benVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FBM56DQN",
-  "buyStore": "Amazon",
-  "title": "Arogya Rose Water Face Toner (Pack of 2, 100ml Each) Pure Gulab Jal Facial Spray & Hydrating Face Mist | Natural Skin Toner and Facial Cleanser for Fresh, Glowing & Healthy-Looking Skin | Refreshing Pore Care Toner for All Skin Types | Sulphate-Free Daily Skincare",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "ing:rose",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:cooling",
-   "skin:all",
-   "free:sulfate",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "ryllz-b0gfpqcrrs",
-  "brand": "RYLLZ",
-  "model": "ESSENTIALS Pure Natural Rose Water Face Toner 200ml | Face Mist | Gulab Jal | Kannauj Rose…",
-  "price": 257,
-  "capacityLine": "200 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹129/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹129/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61w5fWOO9gL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GFPQCRRS",
-  "buyStore": "Amazon",
-  "title": "RYLLZ ESSENTIALS Pure Natural Rose Water Face Toner 200ml | Face Mist | Gulab Jal | Kannauj Rose | Unisex | 200ml",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "ing:rose",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "millet-b0h9yx1x3l",
-  "brand": "Millet",
-  "model": "Mania Vedic Rose Water (Gulab Jal) 100ml | 100% Pure Rose Water Face Mist | Natural Skin T…",
-  "price": 250,
-  "capacityLine": "100 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · ₹250/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹250/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41kQEW7hsSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H9YX1X3L",
-  "buyStore": "Amazon",
-  "title": "Millet Mania Vedic Rose Water (Gulab Jal) 100ml | 100% Pure Rose Water Face Mist | Natural Skin Toner | Refreshing Facial Mist | Hydrating & Cooling | For Face, Skin Care & Makeup Prep",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "ing:rose",
-   "claim:hydrating",
-   "claim:cooling",
-   "claim:makeup",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h45r66ls",
-  "brand": "Unbranded",
-  "model": "Korean Rose Water Face Toner Spray | 100% Pure & Distilled Hydrating Mist | Revitalizing N…",
-  "price": 119,
-  "capacityLine": "100 ml",
-  "materialLine": "Rose",
-  "featureLine": "Mist / spray · Alcohol-free · ₹119/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹119/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Korean / K-beauty (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Ip0gKPjlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H45R66LS",
-  "buyStore": "Amazon",
-  "title": "Korean Rose Water Face Toner Spray | 100% Pure & Distilled Hydrating Mist | Revitalizing Natural Facial Toner for Glowing Skin & Pore Tightening | Alcohol-Free, For All Skin Types, 100ml",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "format:mist",
-   "ing:rose",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:korean",
-   "skin:all",
-   "free:alcohol",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h5q2w8q8",
-  "brand": "Unbranded",
-  "model": "High Effective Soothing Spray with Cooling Comfort | 30ml Moisturizing Skin Care Formula |…",
-  "price": 259,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹863/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹863/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/718JgNW3qfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5Q2W8Q8",
-  "buyStore": "Amazon",
-  "title": "High Effective Soothing Spray with Cooling Comfort | 30ml Moisturizing Skin Care Formula | Cooling Hydration Mist for Face & Body | Lightweight Daily Body Care | Refreshing & Calming Skin Moisturizer for Adults",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:cooling",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mario-badescu-b074zbnxnr",
-  "brand": "Mario Badescu",
-  "model": "Facial Spray with Aloe, Cucumber and Green Tea for All Skin Types | Face Mist that Hydrate…",
-  "price": 2670,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Green tea + Aloe vera + Cucumber",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Green tea, Aloe vera, Cucumber (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714QQWKiZ4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B074ZBNXNR",
-  "buyStore": "Amazon",
-  "title": "Mario Badescu Facial Spray with Aloe, Cucumber and Green Tea for All Skin Types | Face Mist that Hydrates & Invigorates | 4 FL OZ & 2 FL OZ Combo",
-  "tags": [
-   "scope:face",
-   "format:mist",
-   "format:kit",
-   "ing:green-tea",
-   "ing:aloe-vera",
-   "ing:cucumber",
-   "claim:hydrating",
-   "skin:all",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "portable-b0h6335kbh",
-  "brand": "Portable",
-  "model": "Spray Water Bottle with Face Mist Function | Summer Cooling Mist Bottle | Reusable Water B…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61zjpPnOOJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6335KBH",
-  "buyStore": "Amazon",
-  "title": "Portable Spray Water Bottle with Face Mist Function | Summer Cooling Mist Bottle | Reusable Water Bottle for Gym, School, Office, Travel & Outdoor Use",
-  "tags": [
-   "scope:face",
-   "format:mist",
-   "claim:cooling",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "handy-b0hh9b3ppn",
-  "brand": "Handy",
-  "model": "Nano Mist Sprayer Daily Makeup Hydration Refreshing Facial Atomization White",
-  "price": 773,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/411eng-L2hL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HH9B3PPN",
-  "buyStore": "Amazon",
-  "title": "Handy Nano Mist Sprayer Daily Makeup Hydration Refreshing Facial Atomization White",
-  "tags": [
-   "scope:face",
-   "format:mist",
-   "claim:hydrating",
-   "claim:cooling",
-   "claim:makeup",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

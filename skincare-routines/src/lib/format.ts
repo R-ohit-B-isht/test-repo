@@ -46,6 +46,7 @@ const SPEC_LABELS: Record<string, string> = {
   phBalanced: 'pH balanced',
   fragrance: 'Fragrance',
   area: 'Use area',
+  concernBasis: 'Skin concern (why it matches)',
 };
 
 /** Human label for a listing spec key; unknown keys are split from camelCase. */

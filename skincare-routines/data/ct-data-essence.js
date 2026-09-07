@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -170,6 +170,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -280,6 +281,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -395,6 +397,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:large",
    "rating:none",
@@ -601,7 +604,8 @@ const CTPRODUCTS = [
    "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — ascorbic acid #2 on INCI, niacinamide #7 on INCI; Aging — ascorbic acid #2 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/v/t/10-vc-lutein-eye-essence-under-eye-skin-hydration-1-bottle-pack-original-imahz8t4kwq2an3n.jpeg?q=90",
@@ -637,6 +641,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -669,6 +677,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -676,6 +685,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -683,6 +693,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -690,6 +701,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -697,6 +709,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -704,6 +717,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -777,7 +791,8 @@ const CTPRODUCTS = [
    "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — ascorbic acid #2 on INCI, niacinamide #7 on INCI; Aging — ascorbic acid #2 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/4/10-vc-lutein-eye-essence-eye-skin-hydration-gel-1-bottle-pack-original-imahz8t9ewwaa3zb.jpeg?q=90",
@@ -813,6 +828,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -845,6 +864,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -852,6 +872,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -859,6 +880,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -866,6 +888,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -873,6 +896,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -880,6 +904,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -1172,7 +1197,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#8 on list, strong evidence); centella asiatica extract (#9 on list, moderate evidence); sodium hyaluronate (#16 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 89 ratings"
+   "buyerEvidence": "4.4★ from 89 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — centella asiatica extract #9 on INCI, panthenol #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/o/l/100-cica-hya-betaine-vegan-mucin-essence-with-azuki-bean-atp-for-original-imaha89frqd95whp.jpeg?q=90",
@@ -1198,6 +1224,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -1232,6 +1261,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1239,6 +1269,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -1246,6 +1277,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -1253,6 +1285,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -1260,6 +1293,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -1267,6 +1301,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -1274,6 +1309,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -1403,108 +1439,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-itmb36870bad0500",
-  "brand": "Unbranded",
-  "model": "Organic Essence Fairness Facial Kit (250+10)gm 260 ml (260 ml)",
-  "price": 344,
-  "capacityLine": "260 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Essence · ₹132/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.4
-  },
-  "fullSpec": {
-   "quantity": "260 ml",
-   "pricePer100": "₹132/100ml",
-   "format": "Essence",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.8/5 (33 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 33 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/klb78nk0/facial-kit/7/m/d/260-fairness-facial-kit-250-10-gm-1-organic-essence-original-imagygxjwgpfzkbx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kjom6q80-0/facial-kit/w/7/i/260-fairness-facial-kit-250-10-gm-1-organic-essence-original-imafz72nnhzztwse.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/organic-essence-fairness-facial-kit-250-10-gm/p/itmb36870bad0500",
-  "buyStore": "Flipkart",
-  "title": "Organic Essence Fairness Facial Kit (250+10)gm 260 ml (260 ml)",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:kit",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 33 ratings"
   }
  },
  {
@@ -1797,6 +1731,7 @@ const CTPRODUCTS = [
    "format:pack",
    "ing:avocado",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -2176,111 +2111,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-itma6947272097cf",
-  "brand": "Unbranded",
-  "model": "Organic Essence Facial Kit Vitamin C Glowing Skin for Bright & Ra …",
-  "price": 414,
-  "capacityLine": "260 g",
-  "materialLine": "vitamin C",
-  "featureLine": "Essence · ₹159/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.4
-  },
-  "fullSpec": {
-   "quantity": "260 g",
-   "pricePer100": "₹159/100g",
-   "format": "Essence",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.6/5 (16 ratings, Flipkart)",
-   "madeIn": "india",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 16 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/kn0n6a80/facial-kit/v/g/p/260-facial-kit-vitamin-c-glowing-skin-for-bright-radiant-original-imagfsk7cgppycas.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kn0n6a80/facial-kit/n/i/a/260-facial-kit-vitamin-c-glowing-skin-for-bright-radiant-original-imagfsk7egdwmfhg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/s/1/7/55-cherry-blossom-facial-kit-skin-lightening-and-brightening-original-imahb3gghud3fuv2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/ko7idu80/facial-kit/z/a/x/500-tropical-vitamin-c-facial-kit-mix-fruit-vitamin-c-e-skin-original-imag2pmqfzjptngj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kmax8y80/facial-kit/v/4/1/250-tropical-vitamin-c-facial-kit-diamond-series-suitable-for-original-imagf8g75ynepgzt.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/organic-essence-facial-kit-vitamin-c-glowing-skin-bright-radiant-complexion-260-gm/p/itma6947272097cf",
-  "buyStore": "Flipkart",
-  "title": "Organic Essence Facial Kit Vitamin C Glowing Skin for Bright & Ra …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:kit",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 16 ratings"
-  }
- },
- {
   "id": "suroskie-itmee6f215b96f87",
   "brand": "Suroskie",
   "model": "Rose Collagen Facial Essence Mask (20 g)",
@@ -2497,6 +2327,210 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "naosucura-itmb1cb68cf0874e",
+  "brand": "Naosucura",
+  "model": "Exfoliating Foot Mask Dry Cracked Feet & Lavender Essence Deep Moisturizing Care",
+  "price": 154,
+  "capacityLine": "35 g",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
+  "featureLine": "Mask / pack · Paraben-free · ₹440/100g",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); aloe barbadensis leaf extract high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Drying alcohol high in the list: alcohol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.8,
+   "skin": 5.3,
+   "trust": 5.5,
+   "experience": 1.7
+  },
+  "fullSpec": {
+   "quantity": "35 g",
+   "pricePer100": "₹440/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, lactic acid, aloe vera (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "2.7/5 (15 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Water (Aqua), Glycerin, Alcohol, Lactic Acid, Salicylic Acid, Lavandula Angustifolia (Lavender) Extract, Aloe Vera Extract, Milk Protein, Sodium Hyaluronate, Glycolic Acid, Castor Oil, Arginine, Propylene Glycol, Allantoin, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); aloe barbadensis leaf extract (#7 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: alcohol (−1)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "2.7★ from 15 ratings",
+   "concernBasis": "Acne — salicylic acid #5 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/x/35-exfoliating-foot-mask-dry-cracked-feet-lavender-essence-deep-original-imahd656faedxgkb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/4/b/35-lavender-foot-mask-deep-exfoliation-moisturizing-and-dry-original-imahd656kyvunswu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/c/35-lavender-foot-mask-deep-exfoliation-moisturizing-and-dry-original-imahd656ug4dgzbf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/foot-protector/n/x/v/medium-peeling-and-exfoliating-foot-mask-for-soft-feet-1-pair-original-imah379pznpzutnz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/9/0/10-foot-peel-mask-for-dead-skin-removal-dry-cracked-callus-original-imah9jw62vhfk2wh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/flytouch-repair-dry-cracked-heels-moisturizing-foot-peel-mask-reveals-smooth-feet/p/itmb1cb68cf0874e",
+  "buyStore": "Flipkart",
+  "title": "Naosucura Exfoliating Foot Mask Dry Cracked Feet & Lavender Essence Deep Moisturizing Care",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:oil",
+   "format:wash",
+   "format:foot-peel",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:allantoin",
+   "ing:glycerin",
+   "ing:milk",
+   "ing:lavender",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "skin:all",
+   "free:paraben",
+   "free:sulfate",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart",
+   "target:acne",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water (Aqua), Glycerin, Alcohol, Lactic Acid, Salicylic Acid, Lavandula Angustifolia (Lavender) Extract, Aloe Vera Extract, Milk Protein, Sodium Hyaluronate, Glycolic Acid, Castor Oil, Arginine, Propylene Glycol, Allantoin, Fragrance",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "2.7★ from 15 ratings"
   }
  },
  {
@@ -2782,6 +2816,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:rice-water",
    "ing:milk",
+   "ing:lavender",
    "claim:brightening",
    "claim:korean",
    "skin:all",
@@ -3008,6 +3043,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "ing:saffron",
    "ing:licorice",
+   "ing:chamomile",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:anti-aging",
@@ -3179,7 +3215,7 @@ const CTPRODUCTS = [
  {
   "id": "k-derma-itm6a5a81095fb28",
   "brand": "K Derma",
-  "model": "Korean Glass Skin Essence Cream | Infused with Rice Water …",
+  "model": "Korean Glass Skin Essence Cream | Infused with Rice Water and Ceramide |",
   "price": 180,
   "capacityLine": "380 ml",
   "materialLine": "ceramides + rice water",
@@ -3229,7 +3265,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/k-derma-korean-glass-skin-essence-cream-infused-rice-water-ceramide/p/itm6a5a81095fb28",
   "buyStore": "Flipkart",
-  "title": "K DERMA Korean Glass Skin Essence Cream | Infused with Rice Water …",
+  "title": "K DERMA Korean Glass Skin Essence Cream | Infused with Rice Water and Ceramide |",
   "tags": [
    "scope:both",
    "format:cream",
@@ -3360,6 +3396,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -3586,6 +3623,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -3973,123 +4011,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "k-derma-itm948d29ff31831",
-  "brand": "K Derma",
-  "model": "Korean Glass Skin Essence Facial Kit | Scrub, Gel, Face P …",
-  "price": 860,
-  "capacityLine": "1600 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack · ₹54/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Ingredients are named by common / trade names, not INCI names — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "1600 g",
-   "pricePer100": "₹54/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4/5 (4 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rice Water – Rich in amino acids and antioxidants, it brightens, hydrates, and improves skin clarity, Ceramide Complex – Helps reinforce the skin’s natural barrier, lock in moisture, and protect against environmental stressors—keeping your skin smooth, plump, and healthy",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/g/a/h/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahzx8qhgbqgg6v.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/o/s/l/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahpbvpnywgqcbt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/r/a/l/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahpbvpszujgjbr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/n/c/e/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahpbvpa2dxhhtz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/r/7/x/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahpbvpzgaet2yn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/k-derma-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-cream/p/itm948d29ff31831",
-  "buyStore": "Flipkart",
-  "title": "K DERMA Korean Glass Skin Essence Facial Kit | Scrub, Gel, Face P …",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:korean",
-   "claim:dry-skin-relief",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rice Water – Rich in amino acids and antioxidants, it brightens, hydrates, and improves skin clarity, Ceramide Complex – Helps reinforce the skin’s natural barrier, lock in moisture, and protect against environmental stressors—keeping your skin smooth, plump, and healthy",
-   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.2,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 4 ratings"
-  }
- },
- {
   "id": "eklara-itm8b4e25af9cfcc",
   "brand": "Eklara",
   "model": "Korean Beauty Essence Soap for Daily Cleansing Routine (10 …",
@@ -4364,7 +4285,7 @@ const CTPRODUCTS = [
   "buyStore": "Flipkart",
   "title": "zoomique Ginseng Essence Water (100ml) | Korean Toner to Nourish, …",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:cream",
    "format:essence",
    "format:toner",
@@ -4381,6 +4302,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:intimate-hygiene",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -4498,6 +4420,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -5260,6 +5183,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cracked-heels",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -5372,6 +5296,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "free:paraben",
    "free:alcohol",
    "aud:women",
@@ -5711,6 +5636,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -5823,6 +5749,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -5873,7 +5800,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itmdc4b71adb2c10",
   "brand": "Dr. Rashel",
-  "model": "Korean Glass Skin Essence Cream | Infused with Rice Wat …",
+  "model": "Korean Glass Skin Essence Cream | Infused with Rice Water and Ceramide",
   "price": 51,
   "capacityLine": "1140 ml",
   "materialLine": "ceramides + rice water",
@@ -5921,7 +5848,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-korean-glass-skin-essence-cream-infused-rice-water-ceramide/p/itmdc4b71adb2c10",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL Korean Glass Skin Essence Cream | Infused with Rice Wat …",
+  "title": "DR.RASHEL Korean Glass Skin Essence Cream | Infused with Rice Water and Ceramide",
   "tags": [
    "scope:both",
    "format:cream",
@@ -6049,6 +5976,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:vegan",
@@ -6834,6 +6762,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:spf-claim",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -6992,7 +6921,7 @@ const CTPRODUCTS = [
  {
   "id": "anmika-itm9ce4f0ee0f40c",
   "brand": "ANMIKA",
-  "model": "Gold Micro-Peptide Tallow Essence | Anti-Wrinkle & Skin Fi …",
+  "model": "Gold Micro-Peptide Tallow Essence | Anti-Wrinkle & Skin Firming Face Serum",
   "price": 295,
   "capacityLine": "100 ml",
   "materialLine": "peptides",
@@ -7041,7 +6970,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anmika-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-firming-face-serum/p/itm9ce4f0ee0f40c",
   "buyStore": "Flipkart",
-  "title": "ANMIKA Gold Micro-Peptide Tallow Essence | Anti-Wrinkle & Skin Fi …",
+  "title": "ANMIKA Gold Micro-Peptide Tallow Essence | Anti-Wrinkle & Skin Firming Face Serum",
   "tags": [
    "scope:both",
    "format:cream",
@@ -7102,7 +7031,7 @@ const CTPRODUCTS = [
  {
   "id": "anmika-itmb73729b0125f4",
   "brand": "ANMIKA",
-  "model": "Gold Micro-Peptide Tallow Essence Anti-Wrinkle&Skin Firmin …",
+  "model": "Gold Micro-Peptide Tallow Essence Anti-Wrinkle&Skin Firming Face Serum Pack 2",
   "price": 295,
   "capacityLine": "200 ml",
   "materialLine": "peptides",
@@ -7147,7 +7076,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/anmika-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-firming-face-serum-pack-2/p/itmb73729b0125f4",
   "buyStore": "Flipkart",
-  "title": "ANMIKA Gold Micro-Peptide Tallow Essence Anti-Wrinkle&Skin Firmin …",
+  "title": "ANMIKA Gold Micro-Peptide Tallow Essence Anti-Wrinkle&Skin Firming Face Serum Pack 2",
   "tags": [
    "scope:both",
    "format:cream",
@@ -7388,6 +7317,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -7505,6 +7435,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:tinted",
+   "claim:makeup",
    "free:alcohol",
    "free:oil-free",
    "aud:unisex",
@@ -7549,6 +7480,207 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "skin1004-b0btrwbvth",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Probio‑Cica Essence Toner | Nourishing Calming Toner, 210 ml",
+  "price": 1781,
+  "capacityLine": "210 ml",
+  "materialLine": "hyaluronic acid + ceramides + centella/cica",
+  "featureLine": "Toner · ₹848/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "centella asiatica extract high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "210 ml",
+   "pricePer100": "₹848/100ml",
+   "format": "Toner",
+   "keyIngredients": "hyaluronic acid, ceramides, centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Centella Asiatica Extract, Water, Butylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Lactobacillus/Centella Asiatica Extract Ferment Filtrate, Polyglyceryl-10 Laurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trehalose, Panthenol, Ethylhexylglycerin, Sodium Citrate, Xanthan Gum, Tromethamine, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Sodium Phytate, Citric Acid, Hydrogenated Lecithin, Polyglyceryl-10 Myristate, Ceramide NP, Sodium Hyaluronate Crosspolymer, Sucrose Distearate, Madecassic Acid, Asiaticoside, Hydrolyzed Glycosaminoglycans, Lauric Acid, Asiatic Acid, Phytosterols, Sodium Hyaluronate, Betaine, Hydroxystearic Acid, Benzyl Glycol, Hydrolyzed Hyaluronic Acid, Macadamia Ternifolia Seed Oil, Hyaluronic Acid, Raspberry Ketone, Phytosphingosine",
+   "evidenceActives": "centella asiatica extract (#1 on list, moderate evidence); glycerin (#4 on list, strong evidence); panthenol (#11 on list, moderate evidence); ceramide np (#22 on list, moderate evidence); asiaticoside (#26 on list, moderate evidence); sodium hyaluronate (#31 on list, moderate evidence); hydrolyzed hyaluronic acid (#35 on list, moderate evidence); hyaluronic acid (#37 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #1 on INCI, panthenol #11 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ZbhNN3BwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BTRWBVTH",
+  "buyStore": "Amazon",
+  "title": "SKIN1004 Madagascar Centella Probio‑Cica Essence Toner | Nourishing Calming Toner, 210 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cooling",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Centella Asiatica Extract, Water, Butylene Glycol, Glycerin, Propanediol, 1,2-Hexanediol, Lactobacillus/Centella Asiatica Extract Ferment Filtrate, Polyglyceryl-10 Laurate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trehalose, Panthenol, Ethylhexylglycerin, Sodium Citrate, Xanthan Gum, Tromethamine, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Sodium Phytate, Citric Acid, Hydrogenated Lecithin, Polyglyceryl-10 Myristate, Ceramide NP, Sodium Hyaluronate Crosspolymer, Sucrose Distearate, Madecassic Acid, Asiaticoside, Hydrolyzed Glycosaminoglycans, Lauric Acid, Asiatic Acid, Phytosterols, Sodium Hyaluronate, Betaine, Hydroxystearic Acid, Benzyl Glycol, Hydrolyzed Hyaluronic Acid, Macadamia Ternifolia Seed Oil, Hyaluronic Acid, Raspberry Ketone, Phytosphingosine",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "propanediol",
+    "panthenol",
+    "ceramide np",
+    "sodium hyaluronate",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -7700,7 +7832,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); hyaluronic acid (#6 on list, moderate evidence); panthenol (#7 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51L9DiD82vL._AC_UL320_.jpg"
@@ -7725,6 +7858,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -7757,6 +7891,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7764,6 +7899,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -7771,6 +7907,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -7778,6 +7915,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -8269,6 +8407,7 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -8368,6 +8507,7 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -8767,6 +8907,7 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "ing:rose",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -10214,7 +10355,8 @@ const CTPRODUCTS = [
    "evidenceActives": "madecassoside (#7 on list, moderate evidence); adenosine (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl salicylate, benzyl alcohol (−2); Drying alcohol high in the list: alcohol (−1)",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Aging — adenosine #11 on INCI; Irritation — madecassoside #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Tlck-AU7L._AC_UL320_.jpg"
@@ -10231,6 +10373,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -10264,6 +10409,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -10271,6 +10417,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10278,6 +10425,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -10285,6 +10433,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -10379,7 +10528,8 @@ const CTPRODUCTS = [
    "evidenceActives": "madecassoside (#7 on list, moderate evidence); adenosine (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: linalool, limonene, benzyl salicylate, benzyl alcohol (−2); Drying alcohol high in the list: alcohol (−1)",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Aging — adenosine #11 on INCI; Irritation — madecassoside #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41YuXHKkXgL._AC_UL320_.jpg"
@@ -10396,6 +10546,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -10429,6 +10582,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -10436,6 +10590,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10443,6 +10598,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -10450,6 +10606,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -10596,6 +10753,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -10603,6 +10761,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -10610,6 +10769,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -10617,6 +10777,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -10778,7 +10939,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#5 on list, strong evidence); panthenol (#10 on list, moderate evidence); adenosine (#14 on list, moderate evidence); sodium hyaluronate (#24 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI, dipotassium glycyrrhizate #13 on INCI; Aging — adenosine #14 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514Oj-EkdoL._AC_UL320_.jpg"
@@ -10797,6 +10959,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -10831,6 +10997,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10838,6 +11005,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -10845,6 +11013,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -10852,6 +11021,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -10859,6 +11029,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -10866,6 +11037,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -10873,6 +11045,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -11952,6 +12125,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
+   "claim:makeup",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -11996,106 +12170,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "hyphen-b0gzl7frb7",
-  "brand": "Hyphen",
-  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
-  "price": 972,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + ceramides",
-  "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1944/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
-  "buyStore": "Amazon",
-  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:collagen",
-   "claim:brightening",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.letshyphen.com/"
-   },
-   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -12901,6 +12975,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -12908,6 +12983,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -15948,106 +16024,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermal-b00bam7f8c",
-  "brand": "Dermal",
-  "model": "Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack)",
-  "price": 2415,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.5★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.5/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81Uo4RzLmgL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00BAM7F8C",
-  "buyStore": "Amazon",
-  "title": "Dermal Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack)",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:pack",
-   "format:kit",
-   "ing:collagen",
-   "claim:korean",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
   "id": "dr-rashel-b0f4kpws9m",
   "brand": "Dr. Rashel",
   "model": "Korean Glass Skin Essence 4-in-1 Kit, Face Scrub, Gel, Cream and Face Pack",
@@ -17516,6 +17492,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -17617,6 +17594,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -17659,113 +17637,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "xinson-b0fv3gs7jy",
-  "brand": "XINSON",
-  "model": "Facial Mask + Essence Combo – Rice Repair, Gold Foil, Kiwi Fruit, Cherry Whitening, Lavend…",
-  "price": 139,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid + rice water",
-  "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mask / pack",
-   "keyIngredients": "hyaluronic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Ru6uIZRmL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FV3GS7JY",
-  "buyStore": "Amazon",
-  "title": "XINSON Facial Mask + Essence Combo – Rice Repair, Gold Foil, Kiwi Fruit, Cherry Whitening, Lavender Soothing & Hyaluronic Acid | Hydrating, Whitening, Firming & Brightening Peel-Off Face Mask Set (Rice)",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:peel-off",
-   "format:peel",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:rice-water",
-   "ing:cherry-acerola",
-   "ing:gold",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -17925,6 +17796,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -18124,6 +17996,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -18626,6 +18499,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:makeup",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -18764,115 +18638,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "k-derma-b0f8j7d118",
-  "brand": "K Derma",
-  "model": "Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cream, Rice…",
-  "price": 750,
-  "capacityLine": "1520 ml",
-  "materialLine": "ceramides + rice water",
-  "featureLine": "Mask / pack · ₹49/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "1520 ml",
-   "pricePer100": "₹49/100ml",
-   "format": "Mask / pack",
-   "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61pwhxqHVAL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F8J7D118",
-  "buyStore": "Amazon",
-  "title": "K DERMA Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cream, Rice Water and Ceramide Complex, 1520ml",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:ceramides",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:korean",
-   "skin:all",
-   "free:fragrance",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -19034,6 +18799,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -19175,8 +18941,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-pky-b0cq8dwsh8",
-  "brand": "[PKY]",
+  "id": "pky-b0cq8dwsh8",
+  "brand": "PKY",
   "model": "Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Cent…",
   "price": 1313,
   "capacityLine": "140 ml",
@@ -19221,7 +18987,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B0CQ8DWSH8",
   "buyStore": "Amazon",
-  "title": "[PKY] Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Centella & Ceramide, Soothes, Smooths, and Moisturizes, Korean Skincare 70 Pads (140ml)",
+  "title": "PKY Pyunkang Yul Essence Toner Pad – 2-in-1 Exfoliating & Hydrating Pads with Astragalus, Centella & Ceramide, Soothes, Smooths, and Moisturizes, Korean Skincare 70 Pads (140ml)",
   "tags": [
    "scope:unstated",
    "format:essence",
@@ -19347,105 +19113,6 @@ const CTPRODUCTS = [
    "freefrom": true,
    "natural": true,
    "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "purito-b0hfwzqtlc",
-  "brand": "PURITO",
-  "model": "Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Ski…",
-  "price": 3331,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C",
-  "featureLine": "Essence",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Essence",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51WVa6qMObL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HFWZQTLC",
-  "buyStore": "Amazon",
-  "title": "PURITO Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Skincare Duo",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:essence",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:korean",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
    "men": false,
    "women": false,
    "inci": "none",
@@ -20053,6 +19720,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "aud:unisex",
    "rating:none",
@@ -21101,106 +20769,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0h2yzpjjm",
-  "brand": "Unbranded",
-  "model": "Professional Korean Glass Essence Facial Kit | Black Rice Water & Glycolic Acid | 5-Step G…",
-  "price": 220,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "glycolic acid + rice water",
-  "featureLine": "Essence",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Essence",
-   "keyIngredients": "glycolic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71sHM9lA07L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2YZPJJM",
-  "buyStore": "Amazon",
-  "title": "Professional Korean Glass Essence Facial Kit | Black Rice Water & Glycolic Acid | 5-Step Glow Facial | Single Use | Pack of 2",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:kit",
-   "ing:glycolic-acid",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:korean",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0hfdhc15v",
   "brand": "Unbranded",
   "model": "Rice Essence Soap, Rice Raw Pulp Essence Soap Added Rice Extract, Deep Cleaning Exfoliatin…",
@@ -21401,106 +20969,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dsqb23hb",
-  "brand": "Unbranded",
-  "model": "Professional Korean Glass Whitening Essence Facial Kit, 113ml, 8 Steps, Rice Water + Glyco…",
-  "price": 450,
-  "capacityLine": "113 ml",
-  "materialLine": "glycolic acid + rice water",
-  "featureLine": "Essence · ₹398/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "113 ml",
-   "pricePer100": "₹398/100ml",
-   "format": "Essence",
-   "keyIngredients": "glycolic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71gfbLrO7lL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSQB23HB",
-  "buyStore": "Amazon",
-  "title": "Professional Korean Glass Whitening Essence Facial Kit, 113ml, 8 Steps, Rice Water + Glycolic Acid",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:kit",
-   "ing:glycolic-acid",
-   "ing:rice-water",
-   "claim:whitening-claim",
-   "claim:korean",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -22484,6 +21952,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:makeup",
    "skin:mature",
    "aud:unisex",
    "rating:none",
@@ -22792,6 +22261,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:makeup",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -22896,6 +22366,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:makeup",
    "skin:dry",
    "free:vegan",
    "aud:unisex",
@@ -23193,7 +22664,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#8 on list, strong evidence); centella asiatica extract (#9 on list, moderate evidence); sodium hyaluronate (#16 on list, moderate evidence); panthenol (#17 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI; Irritation — centella asiatica extract #9 on INCI, panthenol #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412EHzODPRL._AC_UL320_.jpg"
@@ -23215,6 +22687,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -23249,6 +22724,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23256,6 +22732,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -23263,6 +22740,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -23270,6 +22748,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -23277,6 +22756,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -23284,6 +22764,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -23291,6 +22772,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -23873,7 +23355,6 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:ceramides",
    "ing:rice-water",
    "claim:brightening",
@@ -23883,6 +23364,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -24304,6 +23786,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -25784,9 +25267,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-haruharu-b07qqbmnwr",
-  "brand": "[Haruharu",
-  "model": "Wonder] Black Rice Hyaluronic Essence 1.6 fl oz (50ml) Fermented Black Rice Hydrating Faci…",
+  "id": "haruharu-b07qqbmnwr",
+  "brand": "haruharu",
+  "model": "Wonder Black Rice Hyaluronic Essence 1.6 fl oz (50ml) Fermented Black Rice Hydrating Facia…",
   "price": 1365,
   "capacityLine": "50 ml",
   "materialLine": "hyaluronic acid + rice water",
@@ -25830,7 +25313,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B07QQBMNWR",
   "buyStore": "Amazon",
-  "title": "[Haruharu Wonder] Black Rice Hyaluronic Essence 1.6 fl oz (50ml) Fermented Black Rice Hydrating Facial Serum",
+  "title": "Haruharu Wonder Black Rice Hyaluronic Essence 1.6 fl oz (50ml) Fermented Black Rice Hydrating Facial Serum",
   "tags": [
    "scope:face",
    "format:serum",
@@ -26246,6 +25729,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -26390,112 +25874,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "moody-b0hdtm1q35",
-  "brand": "Moody",
-  "model": "Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating F…",
-  "price": 444,
-  "capacityLine": "50 ml",
-  "materialLine": "hyaluronic acid + rice water",
-  "featureLine": "Sunscreen · SPF 50 · ₹888/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹888/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "hyaluronic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51OEmUjcxrL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDTM1Q35",
-  "buyStore": "Amazon",
-  "title": "Moody Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating Face Mist & Essence Toner 110ml | Hyaluronic Acid, Vitamin B5 & Rice Water | 72H Hydration",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:toner",
-   "format:mist",
-   "spf:50",
-   "pa:++++",
-   "ing:hyaluronic-acid",
-   "ing:rice-water",
-   "ing:vitamin-b5-panthenol",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -26862,6 +26240,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "claim:brightening",
    "claim:exfoliating",
+   "claim:overnight",
    "free:oil-free",
    "aud:unisex",
    "size:travel",
@@ -27062,6 +26441,7 @@ const CTPRODUCTS = [
    "format:essence",
    "ing:niacinamide",
    "ing:rice-water",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -27676,6 +27056,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:overnight",
    "free:oil-free",
    "aud:unisex",
    "size:travel",
@@ -28196,6 +27577,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dark-circles",
+   "claim:scars",
    "free:ph-balanced",
    "aud:unisex",
    "size:travel",
@@ -28302,6 +27684,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -28406,6 +27789,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:soothing",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -28710,6 +28094,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -29338,6 +28723,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "free:alcohol",
    "aud:women",
    "size:travel",
@@ -29538,6 +28924,8 @@ const CTPRODUCTS = [
    "format:cream",
    "format:essence",
    "ing:strawberry",
+   "claim:hair-removal",
+   "claim:painless",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -29580,108 +28968,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "nature-s-essence-b0dj94vkpq",
-  "brand": "Nature's Essence",
-  "model": "Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry to Rough …",
-  "price": 139,
-  "capacityLine": "500 ml",
-  "materialLine": "honey + almond + shea butter",
-  "featureLine": "Essence · ₹28/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹28/100ml",
-   "format": "Essence",
-   "keyIngredients": "honey, almond, shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51JsrgJd0jL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DJ94VKPQ",
-  "buyStore": "Amazon",
-  "title": "Nature’s Essence Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry to Rough Skin, Infused with Shea Butter, 500ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:essence",
-   "format:balm",
-   "ing:honey",
-   "ing:almond",
-   "ing:shea-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Nature's Essence",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.naturesessence.in/"
-   },
-   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -29783,109 +29069,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "nature-s-essence-b09fkzgr8h",
-  "brand": "Nature's Essence",
-  "model": "Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For Dry To R…",
-  "price": 69,
-  "capacityLine": "100 ml",
-  "materialLine": "aloe vera + honey + almond",
-  "featureLine": "Essence · ₹69/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹69/100ml",
-   "format": "Essence",
-   "keyIngredients": "aloe vera, honey, almond, shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Nature's Essence — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Eg9aa5PhL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FKZGR8H",
-  "buyStore": "Amazon",
-  "title": "Nature’s Essence Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For Dry To Rough Skin, Goodness Of Aloe Vera & Shea Butter, White, 100 Ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:essence",
-   "format:balm",
-   "ing:aloe-vera",
-   "ing:honey",
-   "ing:almond",
-   "ing:shea-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Nature's Essence",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.naturesessence.in/"
-   },
-   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -29996,16 +29179,18 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹219/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 4.9
   },
   "fullSpec": {
@@ -30022,13 +29207,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (75 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciMatchedName": "Peach 77 Niacin Essence Toner (name match 100%)",
+   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); galactomyces ferment filtrate (#18 on list, limited evidence); alpha-arbutin (#19 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence); adenosine (#32 on list, moderate evidence); panthenol (#37 on list, moderate evidence); ceramide np (#39 on list, moderate evidence); ascorbic acid (#46 on list, strong evidence); ascorbyl glucoside (#47 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 75 ratings"
+   "buyerEvidence": "4.1★ from 75 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, alpha-arbutin #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90",
@@ -30054,7 +29243,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -30063,27 +29255,167 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Peach 77 Niacin Essence Toner",
+   "inciMatchScore": 1,
+   "inciText": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "galactomyces ferment filtrate",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 47,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "propanediol",
+    "squalane",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -30199,10 +29531,10 @@ const CTPRODUCTS = [
  {
   "id": "moody-itm5db6d33f9691d",
   "brand": "Moody",
-  "model": "7D Hydro Burst Moisture Magnet Essence Face Mist, Hyaluroni …",
+  "model": "7D Hydro Burst Moisture Magnet Essence Face Mist, Hyaluronic & Coconut Men & Women",
   "price": 172,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "hyaluronic acid",
   "featureLine": "Toner",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -30222,12 +29554,12 @@ const CTPRODUCTS = [
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Toner",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "hyaluronic acid (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (2,025 ratings, Flipkart)",
@@ -30250,26 +29582,28 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/moody-7d-hydro-burst-moisture-magnet-essence-face-mist-hyaluronic-coconut-men-women/p/itm5db6d33f9691d",
   "buyStore": "Flipkart",
-  "title": "MOODY 7D Hydro Burst Moisture Magnet Essence Face Mist, Hyaluroni …",
+  "title": "MOODY 7D Hydro Burst Moisture Magnet Essence Face Mist, Hyaluronic & Coconut Men & Women",
   "tags": [
    "scope:face",
    "format:essence",
    "format:toner",
    "format:mist",
    "ing:hyaluronic-acid",
+   "ing:coconut",
    "claim:hydrating",
-   "aud:unisex",
+   "claim:cooling",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:none"
   ],
   "filters": {
-   "actives": false,
+   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -30309,18 +29643,19 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹320/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
    "Well-reviewed: 4.7★ from 3 ratings"
   ],
   "cons": [
-   "Only 1 ingredient named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.8,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -30337,13 +29672,17 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciMatchedName": "Peach 77 Niacin Essence Toner (name match 100%)",
+   "listingIngredientLine": "NATURAL (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); galactomyces ferment filtrate (#18 on list, limited evidence); alpha-arbutin (#19 on list, moderate evidence); sodium hyaluronate (#21 on list, moderate evidence); adenosine (#32 on list, moderate evidence); panthenol (#37 on list, moderate evidence); ceramide np (#39 on list, moderate evidence); ascorbic acid (#46 on list, strong evidence); ascorbyl glucoside (#47 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI, alpha-arbutin #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/a/r/250-peach-77-niacin-essence-toner-for-men-and-woman-anua-original-imahjrjx3gp4fh6n.jpeg?q=90",
@@ -30366,7 +29705,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -30375,27 +29717,167 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "ANUA official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/peach-77-niacin-essence-toner-1",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Peach 77 Niacin Essence Toner",
+   "inciMatchScore": 1,
+   "inciText": "Prunus Persica (Peach) Fruit Water(77%), 2,3-Butanediol, Water, Glycerin, Dipropylene Glycol, Niacinamide, Butylene Glycol, 1,2-Hexanediol, Lactobacillus Ferment, Methylpropanediol, Streptococcus Thermophilus Ferment, Prunus Persica (Peach) Fruit Extract, Pyrus Malus (Apple) Juice, Bifida Ferment Lysate, Bacillus Ferment, Phellinus Linteus Extract, Xylose, Galactomyces Ferment Filtrate, Alpha-Arbutin, Prunus Persica (Peach) Flower Extract, Sodium Hyaluronate, Hydrolyzed Vegetable Protein, Polyglyceryl-10 Laurate, Propanediol, Squalane, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylic/Capric Triglyceride, Diphenyl Dimethicone, Triethylhexanoin, Ethylhexylglycerin, Polyglyceryl-10 Stearate, Adenosine, Hydrogenated Lecithin, Dipotassium Glycyrrhizate, Tromethamine, Sodium Polyacrylate, Panthenol, Sodium Hyaluronate Crosspolymer, Ceramide NP, Allantoin, Cyanocobalamin, Polyglutamic Acid, Sodium Stearoyl Glutamate, Tocopherol, Betaine Salicylate, Ascorbic Acid, Ascorbyl Glucoside, Maltodextrin, Glycine, Serine, Glutamic Acid, Aspartic Acid, Leucine, Alanine, Lysine, Arginine, Tyrosine, Phenylalanine, Proline, Threonine, Valine, Isoleucine, Histidine, Cysteine, Methionine, Xanthan Gum, Fragrance(Parfum)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "galactomyces ferment filtrate",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 34,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "bha"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 46,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ascorbyl glucoside",
+     "grade": "B",
+     "position": 47,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "propanediol",
+    "squalane",
+    "panthenol",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -30469,6 +29951,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:alcohol",
@@ -30686,6 +30169,8 @@ const CTPRODUCTS = [
    "format:essence",
    "format:pack",
    "format:peel",
+   "format:foot-peel",
+   "ing:lavender",
    "claim:exfoliating",
    "skin:all",
    "free:paraben",
@@ -30908,6 +30393,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:pores",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -31717,6 +31203,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:scars",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -32026,6 +31513,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:korean",
    "claim:spf-claim",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -32225,7 +31713,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:essence",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -32239,6 +31726,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:scars",
+   "claim:cooling",
    "skin:sensitive",
    "skin:all",
    "free:paraben",
@@ -32453,6 +31942,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:none",

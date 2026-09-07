@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1847,6 +1847,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1854,6 +1855,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1861,6 +1863,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -1868,6 +1871,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -1875,6 +1879,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -2455,6 +2460,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2462,6 +2468,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -2469,6 +2476,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -2476,6 +2484,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -2483,6 +2492,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -2609,6 +2619,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -3155,6 +3166,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3162,6 +3174,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -4179,6 +4192,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4186,6 +4200,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4193,6 +4208,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4200,6 +4216,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -4207,6 +4224,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -4214,6 +4232,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -4221,6 +4240,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -4228,6 +4248,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -4600,118 +4621,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "the-roots-naturelle-itm5c0d120ddcfa7",
-  "brand": "The Roots Naturelle",
-  "model": "Premium Hair Oil Moisturizer and Leave-In Conditioner with Shea Butter Hair Oil",
-  "price": 2463,
-  "capacityLine": "355 ml",
-  "materialLine": "Shea butter + Coconut + Castor oil",
-  "featureLine": "Leave-in conditioner · ₹694/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "355 ml",
-   "pricePer100": "₹694/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Shea butter, Coconut, Castor oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Curly hair, Damaged hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "USA",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Coconut Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/l20rma80/hair-oil/i/g/y/355-premium-hair-oil-moisturizer-and-leave-in-conditioner-with-original-imagdgjrfhugyys3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l20rma80/hair-oil/l/j/m/355-premium-hair-oil-moisturizer-and-leave-in-conditioner-with-original-imagdgjrgxh7ak6w.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/c/y/6/30-beard-oil-for-hair-growth-men-growth-beard-oil-dr-braydon-original-imahnqyw4yfrnazb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/f/h/5/bhringraj-herbal-hair-oil-for-long-and-shiny-hair-hair-loss-hair-original-imagzpmyc7adua8x.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/l/p/c/200-0-cold-pressed-sweet-almond-oil-for-hair-growth-glowing-skin-original-imahzzmybkwtxchs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/roots-naturelle-premium-hair-oil-moisturizer-leave-in-conditioner-shea-butter/p/itm5c0d120ddcfa7",
-  "buyStore": "Flipkart",
-  "title": "The Roots Naturelle Premium Hair Oil Moisturizer and Leave-In Conditioner with Shea Butter Hair Oil",
-  "tags": [
-   "area:scalp",
-   "format:oil",
-   "format:balm",
-   "format:conditioner",
-   "format:leave-in",
-   "format:beard-oil",
-   "ing:shea-butter",
-   "ing:coconut",
-   "ing:castor-oil",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:curly",
-   "hair:damaged",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Coconut Oil",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "manetain-itmb15e209aa9a74",
   "brand": "Manetain",
   "model": "Leave in Conditioner Hair Cream",
@@ -4818,6 +4727,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4825,6 +4735,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -4832,6 +4743,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4839,6 +4751,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6226,6 +6139,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6233,6 +6147,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6240,6 +6155,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6247,6 +6163,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6254,6 +6171,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -6261,6 +6179,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6268,6 +6187,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6275,6 +6195,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -6282,6 +6203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6289,6 +6211,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -6424,6 +6347,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -6431,6 +6355,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -6438,6 +6363,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -6445,6 +6371,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -8904,6 +8831,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -8911,6 +8839,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8918,6 +8847,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -8925,6 +8855,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -8932,6 +8863,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -8939,6 +8871,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -8946,6 +8879,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -8953,6 +8887,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -8960,6 +8895,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -8967,6 +8903,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -11909,6 +11846,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -11916,6 +11854,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -11923,6 +11862,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -11930,6 +11870,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -13261,6 +13202,223 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "creme-of-nature-b07b68w1pl",
+  "brand": "Creme of Nature",
+  "model": "Pure Honey Leave-In Conditioner 8 Ounce Pump (236ml)",
+  "price": 1454,
+  "capacityLine": "236 ml",
+  "materialLine": "Honey",
+  "featureLine": "Leave-in conditioner · ₹616/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.5★ from 0 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "236 ml",
+   "pricePer100": "₹616/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Honey (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613g4vVmi2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91TrzMXVU7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/819XOMd0LNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81S9OtiaNxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81l-aEGmXWL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07B68W1PL",
+  "buyStore": "Amazon",
+  "title": "Creme Of Nature Pure Honey Leave-In Conditioner 8 Ounce Pump (236ml)",
+  "tags": [
+   "area:unstated",
+   "format:cream",
+   "format:conditioner",
+   "format:leave-in",
+   "ing:honey",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dhathri-b08bckhx39",
+  "brand": "dhathri",
+  "model": "Dheedhi Herbal Conditioner with Coconut Oil, Amla & Tulsi | Ayurvedic Herbal Leave-In-Cond…",
+  "price": 195,
+  "capacityLine": "200 ml",
+  "materialLine": "Coconut + Amla",
+  "featureLine": "Leave-in conditioner · Paraben-free · ₹98/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹98/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Scalp + lengths (per listing)",
+   "keyIngredients": "Coconut, Amla (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61isuB92mSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81MHekEWfRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71xnKMLp8kL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81ogId87wiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81ft4uyLkOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08BCKHX39",
+  "buyStore": "Amazon",
+  "title": "Dhathri Dheedhi Herbal Conditioner with Coconut Oil, Amla & Tulsi | Ayurvedic Herbal Leave-In-Conditioner for Smooth, Frizz-Free Strong Hair | Sulfate & Paraben Free | All Hair Types, 200ml",
+  "tags": [
+   "area:both",
+   "format:oil",
+   "format:conditioner",
+   "format:leave-in",
+   "format:texture-spray",
+   "ing:coconut",
+   "ing:amla",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:damaged",
+   "hair:coloured",
+   "hair:all",
+   "free:paraben",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
   "id": "landvk-b0h3z9rrjh",
   "brand": "LandVK",
   "model": "Rosemary and Onion Water Hair Spray Useful for Hair Growth & Scalp Care, Rosemary Hair Mis…",
@@ -13473,6 +13631,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13480,6 +13639,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -13487,6 +13647,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -13494,6 +13655,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -13501,6 +13663,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -13642,6 +13805,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13649,6 +13813,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -13656,6 +13821,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13663,6 +13829,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -14597,120 +14764,6 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "nature-spell-b0cg6ktvxh",
-  "brand": "Nature Spell",
-  "model": "Bond Repair Leave in Cream 300ml Hair Protection & Styling Leave in Conditioner",
-  "price": 600,
-  "capacityLine": "300 ml",
-  "materialLine": "Hyaluronic acid + Sea buckthorn + Keratin",
-  "featureLine": "Leave-in conditioner · ₹200/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹200/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Hyaluronic acid, Sea buckthorn, Keratin, Bond builder (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71prT9wp2sL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81Zk7kJ6AwL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81ZbSDP7aZL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71HyOJzBZ7L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81cPKW0x6CL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CG6KTVXH",
-  "buyStore": "Amazon",
-  "title": "Nature Spell Bond Repair Leave in Cream 300ml Hair Protection & Styling Leave in Conditioner",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:oil",
-   "format:shampoo",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:hyaluronic-acid",
-   "ing:sea-buckthorn",
-   "ing:keratin",
-   "ing:bond-builder",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "hair:dry",
-   "hair:damaged",
-   "free:vegan",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
    "derm": false,
    "men": false,
    "women": false,
@@ -17556,6 +17609,346 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "bobo-s-b005kd9flw",
+  "brand": "Bobo's",
+  "model": "BOBOS Remi Leave-in Conditioner 10.15 Oz",
+  "price": 2581,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Leave-in conditioner",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Damage repair, Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Damaged hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51v3Qbi+iJL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B005KD9FLW",
+  "buyStore": "Amazon",
+  "title": "BOBOS Remi Leave-in Conditioner 10.15 Oz",
+  "tags": [
+   "area:unstated",
+   "format:conditioner",
+   "format:leave-in",
+   "concern:damage-repair",
+   "concern:dryness",
+   "hair:damaged",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ecoberry-b09rjkpprr",
+  "brand": "EcoBerry",
+  "model": "Camellia Mango Butter Leave In Conditioning Balm for Dry & Frizzy Hair | Organic | Vegan |…",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "Mineral oil + Dimethicone / silicones",
+  "featureLine": "Leave-in conditioner · ₹798/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Mineral oil, Dimethicone / silicones (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition, Detangling (seller claim — not clinical proof)",
+   "hairType": "Dry hair, Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, Textured / afro hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ftOTlbi8L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61OEGqKDs4L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61TWOjlQD1L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51aAtB3u9SL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/613jqxkX8lL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09RJKPPRR",
+  "buyStore": "Amazon",
+  "title": "EcoBerry Camellia Mango Butter Leave In Conditioning Balm for Dry & Frizzy Hair | Organic | Vegan | Silicone, Paraben & Mineral Oil Free | 3-in-1 Hair Conditioner | Curl Defining Cream | 50ml",
+  "tags": [
+   "area:lengths",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:wash",
+   "format:conditioner",
+   "format:leave-in",
+   "format:texture-spray",
+   "ing:mineral-oil",
+   "ing:dimethicone-silicones",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:volume",
+   "concern:curl-definition",
+   "concern:detangling",
+   "hair:dry",
+   "hair:curly",
+   "hair:wavy",
+   "hair:damaged",
+   "hair:coloured",
+   "hair:textured",
+   "hair:all",
+   "free:mineral-oil",
+   "free:oil-free",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "treyfa-b0f63b2ghp",
+  "brand": "treyfa",
+  "model": "Hibiscus Hair Conditioner for Dry Frizzy Hair (200ml) – with Vitamin E & Amla Helpful to A…",
+  "price": 202,
+  "capacityLine": "200 ml",
+  "materialLine": "Vitamin E + Amla + Hibiscus",
+  "featureLine": "Leave-in conditioner · ₹101/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹101/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Scalp + lengths (per listing)",
+   "keyIngredients": "Vitamin E, Amla, Hibiscus (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Dry hair, Damaged hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qpzc8uiKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91hSamELfAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81boKXoBjzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81HDOPxMy-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/8169JI-1YwL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F63B2GHP",
+  "buyStore": "Amazon",
+  "title": "Hibiscus Hair Conditioner for Dry Frizzy Hair (200ml) – with Vitamin E & Amla Helpful to Absolute Repair Deep Leave in Hair Conditioner for Hair Follicle Strengthening & Shining, Men & Women",
+  "tags": [
+   "area:both",
+   "format:wash",
+   "format:conditioner",
+   "format:leave-in",
+   "format:texture-spray",
+   "ing:vitamin-e",
+   "ing:amla",
+   "ing:hibiscus",
+   "concern:oily-scalp",
+   "concern:hair-growth",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:split-ends",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:dry",
+   "hair:damaged",
+   "hair:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "moringa-b0g4ftp32q",
   "brand": "Moringa",
   "model": "Rosemary Hair Growth Mist 100ml | Herbal Water-Based Hair Tonic with Rosemary, Clove & Mor…",
@@ -19525,6 +19918,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -19532,6 +19926,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -19539,6 +19934,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -19546,6 +19942,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -19553,6 +19950,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -20795,114 +21193,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "professional-sebastian-b0g59h4v2c",
-  "brand": "Professional Sebastian",
-  "model": "Sebastian Professional Potion 9 Leave-In Conditioner & Hair Styling Cream | Moisturizing H…",
-  "price": 3150,
-  "capacityLine": "500 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Leave-in conditioner · ₹630/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹630/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Dry hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41MMJMHUZEL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51JwSRFs8WL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51TAAgtX5qL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/6141swLGuiL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51RrigC3N5L._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G59H4V2C",
-  "buyStore": "Amazon",
-  "title": "Sebastian Professional Potion 9 Leave-In Conditioner & Hair Styling Cream | Moisturizing Hair Treatment with Flexible Hold for Smooth & Shinier Manageable Hair | 500 ml",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:conditioner",
-   "format:leave-in",
-   "format:texture-spray",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:hold",
-   "hair:dry",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -22201,13 +22491,13 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "vet-s-best-b000ykbh30",
-  "brand": "Vet's Best",
-  "model": "Moisture Mist and Detangling Conditioner Spray, 16 oz",
-  "price": 4691,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray",
+  "id": "butterco-b0cnvx6hbv",
+  "brand": "ButterCo.",
+  "model": "Leave In Conditioner For Curly, Wavy, Dry, Frizzy Hair - 200ml | 3X Frizz & UV Protection …",
+  "price": 549,
+  "capacityLine": "200 ml",
+  "materialLine": "Aloe vera + Shea butter + Jojoba",
+  "featureLine": "Leave-in conditioner · Paraben-free · ₹275/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -22218,22 +22508,22 @@ const NXPRODUCTS = [
    "ingredients": 0,
    "skin": 0,
    "trust": 3.5,
-   "experience": 3.2
+   "experience": 2.6
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
+   "quantity": "200 ml",
+   "pricePer100": "₹275/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Aloe vera, Shea butter, Jojoba, Dimethicone / silicones (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Detangling (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Wavy hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
    "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
    "inciSource": "Not stated in listing",
@@ -22241,22 +22531,143 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
-   "https://m.media-amazon.com/images/I/619dWEDYvGL._SL1500_.jpg"
+   "https://m.media-amazon.com/images/I/71YWonflxBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716pxG8KilL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+9dbKOHcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71MP4YZt-7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81g1lAQd8cL._SL1500_.jpg"
   ],
-  "buyUrl": "https://www.amazon.in/dp/B000YKBH30",
+  "buyUrl": "https://www.amazon.in/dp/B0CNVX6HBV",
   "buyStore": "Amazon",
-  "title": "Vet's Best Moisture Mist and Detangling Conditioner Spray, 16 oz",
+  "title": "ButterCo. Leave In Conditioner For Curly, Wavy, Dry, Frizzy Hair - 200ml | 3X Frizz & UV Protection Enriched With Shea Butter, Jojoba & Aloe | Sulphate, Silicone, Paraben Free,1 Count",
+  "tags": [
+   "area:lengths",
+   "format:balm",
+   "format:shampoo",
+   "format:conditioner",
+   "format:leave-in",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:jojoba",
+   "ing:dimethicone-silicones",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:volume",
+   "concern:curl-definition",
+   "hair:curly",
+   "hair:wavy",
+   "free:paraben",
+   "free:vegan",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "african-pride-b00n0yxl4k",
+  "brand": "African Pride",
+  "model": "Olive Miracle Leave-in Conditioner Creme 15oz",
+  "price": 1557,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Olive",
+  "featureLine": "Leave-in conditioner",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71x-M95ONfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81w7MG3No2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81qidn6cW3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81YuMugUELL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81nnCy-I73L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00N0YXL4K",
+  "buyStore": "Amazon",
+  "title": "African Pride Olive Miracle Leave-in Conditioner Creme 15oz",
   "tags": [
    "area:unstated",
-   "format:mist",
+   "format:cream",
    "format:conditioner",
-   "concern:dryness",
-   "concern:detangling",
+   "format:leave-in",
+   "ing:olive",
    "aud:unisex",
-   "rating:4.0",
+   "rating:4.5",
    "store:amazon",
    "inci:none"
   ],
@@ -22294,7 +22705,234 @@ const NXPRODUCTS = [
     "pts": 3.5,
     "url": null
    },
-   "buyers": "4.4★ from 0 ratings"
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kulture-canada-b0dphn3352",
+  "brand": "Kulture Canada",
+  "model": "Cranberry Raspberry Jojoba Leave-In Conditioner, 100ml – Moisturizing Conditioner for Dry …",
+  "price": 1199,
+  "capacityLine": "100 ml",
+  "materialLine": "Jojoba",
+  "featureLine": "Leave-in conditioner · ₹1199/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹1199/100ml",
+   "format": "Leave-in conditioner",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Jojoba (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Heat protection (seller claim — not clinical proof)",
+   "hairType": "Dry hair, Damaged hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61pfW3US8dL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61I2t6xwUiL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61EK1VfRgHL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/615vMQl8EvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71q+rN0ImzL._SL1350_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DPHN3352",
+  "buyStore": "Amazon",
+  "title": "Cranberry Raspberry Jojoba Leave-In Conditioner, 100ml – Moisturizing Conditioner for Dry Hair & Split Ends – Cruelty-Free, Non-Toxic – For Men & Women",
+  "tags": [
+   "area:lengths",
+   "format:oil",
+   "format:conditioner",
+   "format:leave-in",
+   "format:heat-protectant",
+   "ing:jojoba",
+   "concern:scalp-buildup",
+   "concern:oily-scalp",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:split-ends",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:volume",
+   "concern:heat-protection",
+   "hair:dry",
+   "hair:damaged",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tuco-b0gl26bhxc",
+  "brand": "TuCo",
+  "model": "® Kids Tangle Tamer Hair Detangler Spray, 50ml | Infused with Aloe Vera, Flaxseed & Methi,…",
+  "price": 188,
+  "capacityLine": "50 ml",
+  "materialLine": "Aloe vera + Charcoal + Jojoba",
+  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹376/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹376/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Aloe vera, Charcoal, Jojoba, Fenugreek, Keratin (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512ge3ne4UL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51i26moRUgL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61pOxKDvgKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61G4GPcRW8L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/6178RxSA80L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GL26BHXC",
+  "buyStore": "Amazon",
+  "title": "Tuco® Kids Tangle Tamer Hair Detangler Spray, 50ml | Infused with Aloe Vera, Flaxseed & Methi, Ages 2-5, 4-10, 10-15, 5-10 Years, Paraben & Sulphate Free, Pack Of 1",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:oil",
+   "format:kit",
+   "format:conditioner",
+   "ing:aloe-vera",
+   "ing:charcoal",
+   "ing:jojoba",
+   "ing:fenugreek",
+   "ing:keratin",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:detangling",
+   "free:sulfate",
+   "aud:kids",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -25656,6 +26294,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -25663,6 +26302,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -25670,6 +26310,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -25677,6 +26318,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -27492,218 +28134,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "sebastian-professional-b0gfg8qd8v",
-  "brand": "Sebastian Professional",
-  "model": "Potion 9 Leave-In Conditioner & Hair Styling Cream | Moisturizing Hair Treatment with Flex…",
-  "price": 2040,
-  "capacityLine": "145 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Leave-in conditioner · ₹1407/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Sebastian Professional official website (www.sebastianprofessional.com, GB site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); hydrolyzed wheat protein high on the INCI list (limited evidence)"
-  ],
-  "cons": [
-   "Added fragrance (parfum): parfum/fragrance",
-   "EU-declared fragrance allergen: limonene, hexyl cinnamal",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 4.8,
-   "skin": 4.2,
-   "trust": 5.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "145 ml",
-   "pricePer100": "₹1407/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Dry hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Sebastian Professional official website (www.sebastianprofessional.com, GB site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceUrl": "https://www.sebastianprofessional.com/en-GB/products/potion-9/potion-9-leave-in-conditioner-and-styling-cream",
-   "inciMatchedName": "potion 9 leave in conditioner and styling cream (name match 95%)",
-   "inciList": "Aqua/Water/Eau, Glycerin, PVP, Guar Hydroxypropyltrimonium Chloride, Carthamus Tinctorius (Safflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxyethylcellulose, Cetearyl Alcohol, Phenoxyethanol, Sodium Benzoate, Cetyl Alcohol, Methyl Gluceth-20, Parfum/Fragrance, Hydrolyzed Wheat Protein, Polysorbate 60, Panthenol, Amodimethicone, Olea Europaea (Olive) Fruit Oil, Orbignya Oleifera Seed Oil, Oenothera Biennis (Evening Primrose) Seed Extract, Stearalkonium Chloride, Citric Acid, Ethylhexyl Methoxycinnamate, Sesamum Indicum (Sesame) Seed Oil, Propylene Glycol, Limonene, Citrus Aurantium Peel Oil, Oryza Sativa (Rice) Bran Oil, Hexyl Cinnamal, Alcohol Denat., Camellia Sinensis Leaf Extract, Coumarin, Linalool, Potassium Sorbate, Hydroxycitronellal, Citrus Limon Peel Oil, Disodium Phosphate, Amyl Cinnamal, Geraniol, Linalyl Acetate, Alpha-Isomethyl Ionone, Isoeugenol, Pinene, Cinnamyl Alcohol, Benzyl Benzoate, Salix Alba (Willow) Bark Extract, Sodium Phosphate, Methylparaben, Ascorbyl Palmitate, Tocopherol, Ethylparaben, Butylparaben, Propylparaben, Orange 4 (CI 15510), Ext. Violet 2 (CI 60730), Red 40 (CI 16035)",
-   "evidenceActives": "glycerin (#2 on list, strong evidence); hydrolyzed wheat protein (#14 on list, limited evidence); panthenol (#16 on list, limited evidence); amodimethicone (#17 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, hexyl cinnamal, coumarin, linalool, hydroxycitronellal, amyl cinnamal, geraniol, alpha-isomethyl ionone, isoeugenol, cinnamyl alcohol, benzyl benzoate (−2); Essential oil / volatile sensitiser: citrus limon peel oil (−0.5)",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41qCumbEUuL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51x2kXrKquL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51J4dn9yLCL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/6141swLGuiL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/51vSxl3lV+L._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GFG8QD8V",
-  "buyStore": "Amazon",
-  "title": "Sebastian Professional Potion 9 Leave-In Conditioner & Hair Styling Cream | Moisturizing Hair Treatment with Flexible Hold for Smooth & Shinier Manageable Hair | 145 ml",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:conditioner",
-   "format:leave-in",
-   "format:texture-spray",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:hold",
-   "hair:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Sebastian Professional official website (www.sebastianprofessional.com, GB site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.sebastianprofessional.com/en-GB/products/potion-9/potion-9-leave-in-conditioner-and-styling-cream",
-   "inciSourceRegion": "GB",
-   "inciMatchedTitle": "potion 9 leave in conditioner and styling cream",
-   "inciMatchScore": 0.95,
-   "inciText": "Aqua/Water/Eau, Glycerin, PVP, Guar Hydroxypropyltrimonium Chloride, Carthamus Tinctorius (Safflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Hydroxyethylcellulose, Cetearyl Alcohol, Phenoxyethanol, Sodium Benzoate, Cetyl Alcohol, Methyl Gluceth-20, Parfum/Fragrance, Hydrolyzed Wheat Protein, Polysorbate 60, Panthenol, Amodimethicone, Olea Europaea (Olive) Fruit Oil, Orbignya Oleifera Seed Oil, Oenothera Biennis (Evening Primrose) Seed Extract, Stearalkonium Chloride, Citric Acid, Ethylhexyl Methoxycinnamate, Sesamum Indicum (Sesame) Seed Oil, Propylene Glycol, Limonene, Citrus Aurantium Peel Oil, Oryza Sativa (Rice) Bran Oil, Hexyl Cinnamal, Alcohol Denat., Camellia Sinensis Leaf Extract, Coumarin, Linalool, Potassium Sorbate, Hydroxycitronellal, Citrus Limon Peel Oil, Disodium Phosphate, Amyl Cinnamal, Geraniol, Linalyl Acetate, Alpha-Isomethyl Ionone, Isoeugenol, Pinene, Cinnamyl Alcohol, Benzyl Benzoate, Salix Alba (Willow) Bark Extract, Sodium Phosphate, Methylparaben, Ascorbyl Palmitate, Tocopherol, Ethylparaben, Butylparaben, Propylparaben, Orange 4 (CI 15510), Ext. Violet 2 (CI 60730), Red 40 (CI 16035)",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 0.91,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "pvp",
-     "grade": "C",
-     "position": 3,
-     "core": false,
-     "src": "stylingPolymers"
-    },
-    {
-     "name": "guar hydroxypropyltrimonium chloride",
-     "grade": "B",
-     "position": 4,
-     "core": false,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "simmondsia chinensis seed oil",
-     "grade": "C",
-     "position": 6,
-     "core": false,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "hydrolyzed wheat protein",
-     "grade": "C",
-     "position": 14,
-     "core": true,
-     "src": "thermalProtect"
-    },
-    {
-     "name": "panthenol",
-     "grade": "C",
-     "position": 16,
-     "core": true,
-     "src": "hairCosmetics"
-    },
-    {
-     "name": "amodimethicone",
-     "grade": "B",
-     "position": 17,
-     "core": true,
-     "src": "thermalProtect"
-    },
-    {
-     "name": "sesamum indicum seed oil",
-     "grade": "C",
-     "position": 24,
-     "core": false,
-     "src": "hairCosmetics"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "panthenol"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "parfum/fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    },
-    {
-     "id": "euAllergen",
-     "label": "EU-declared fragrance allergen",
-     "names": [
-      "limonene",
-      "hexyl cinnamal",
-      "coumarin",
-      "linalool",
-      "hydroxycitronellal",
-      "amyl cinnamal",
-      "geraniol",
-      "alpha-isomethyl ionone",
-      "isoeugenol",
-      "cinnamyl alcohol",
-      "benzyl benzoate"
-     ],
-     "penalty": 2,
-     "src": "eu1223"
-    },
-    {
-     "id": "essentialOil",
-     "label": "Essential oil / volatile sensitiser",
-     "names": [
-      "citrus limon peel oil"
-     ],
-     "penalty": 0.5,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -35389,505 +35819,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "butterco-b0cnvx6hbv",
-  "brand": "ButterCo.",
-  "model": "Leave In Conditioner For Curly, Wavy, Dry, Frizzy Hair - 200ml | 3X Frizz & UV Protection …",
-  "price": 549,
-  "capacityLine": "200 ml",
-  "materialLine": "Aloe vera + Shea butter + Jojoba",
-  "featureLine": "Leave-in conditioner · Paraben-free · ₹275/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹275/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter, Jojoba, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Curly hair, Wavy hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71YWonflxBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CNVX6HBV",
-  "buyStore": "Amazon",
-  "title": "ButterCo. Leave In Conditioner For Curly, Wavy, Dry, Frizzy Hair - 200ml | 3X Frizz & UV Protection Enriched With Shea Butter, Jojoba & Aloe | Sulphate, Silicone, Paraben Free,1 Count",
-  "tags": [
-   "area:lengths",
-   "format:balm",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:jojoba",
-   "ing:dimethicone-silicones",
-   "concern:frizz",
-   "concern:dryness",
-   "hair:curly",
-   "hair:wavy",
-   "free:paraben",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b00n0yxl4k",
-  "brand": "Unbranded",
-  "model": "African Pride Olive Miracle Leave-in Conditioner Creme 15oz",
-  "price": 1598,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Olive",
-  "featureLine": "Leave-in conditioner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71x-M95ONfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00N0YXL4K",
-  "buyStore": "Amazon",
-  "title": "African Pride Olive Miracle Leave-in Conditioner Creme 15oz",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:olive",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "bobos-b005kd9flw",
-  "brand": "BOBOS",
-  "model": "Remi Leave-in Conditioner 10.15 Oz",
-  "price": 2581,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Leave-in conditioner",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51v3Qbi+iJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B005KD9FLW",
-  "buyStore": "Amazon",
-  "title": "BOBOS Remi Leave-in Conditioner 10.15 Oz",
-  "tags": [
-   "area:unstated",
-   "format:conditioner",
-   "format:leave-in",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "cranberry-b0dphn3352",
-  "brand": "Cranberry",
-  "model": "Raspberry Jojoba Leave-In Conditioner, 100ml – Moisturizing Conditioner for Dry Hair & Spl…",
-  "price": 1199,
-  "capacityLine": "100 ml",
-  "materialLine": "Jojoba",
-  "featureLine": "Leave-in conditioner · ₹1199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹1199/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Jojoba (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Split ends, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61pfW3US8dL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DPHN3352",
-  "buyStore": "Amazon",
-  "title": "Cranberry Raspberry Jojoba Leave-In Conditioner, 100ml – Moisturizing Conditioner for Dry Hair & Split Ends – Cruelty-Free, Non-Toxic – For Men & Women",
-  "tags": [
-   "area:lengths",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:jojoba",
-   "concern:split-ends",
-   "concern:dryness",
-   "hair:dry",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "creme-b07b68w1pl",
-  "brand": "Creme",
-  "model": "Of Nature Pure Honey Leave-In Conditioner 8 Ounce Pump (236ml)",
-  "price": 1454,
-  "capacityLine": "236 ml",
-  "materialLine": "Honey",
-  "featureLine": "Leave-in conditioner · ₹616/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.5★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "236 ml",
-   "pricePer100": "₹616/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Honey (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613g4vVmi2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07B68W1PL",
-  "buyStore": "Amazon",
-  "title": "Creme Of Nature Pure Honey Leave-In Conditioner 8 Ounce Pump (236ml)",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:honey",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
   "id": "cantu-b01ltiaufq",
   "brand": "Cantu",
   "model": "Shea Butter Hydrating Leave in Conditioning Mist, 8 Fluid Ounce",
@@ -35984,420 +35915,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "ecoberry-b09rjkpprr",
-  "brand": "EcoBerry",
-  "model": "Camellia Mango Butter Leave In Conditioning Balm for Dry & Frizzy Hair | Organic | Vegan |…",
-  "price": 399,
-  "capacityLine": "50 ml",
-  "materialLine": "Dimethicone / silicones",
-  "featureLine": "Leave-in conditioner · ₹798/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹798/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Dimethicone / silicones (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Curl definition (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Curly hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ftOTlbi8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09RJKPPRR",
-  "buyStore": "Amazon",
-  "title": "EcoBerry Camellia Mango Butter Leave In Conditioning Balm for Dry & Frizzy Hair | Organic | Vegan | Silicone, Paraben & Mineral Oil Free | 3-in-1 Hair Conditioner | Curl Defining Cream | 50ml",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:balm",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:dimethicone-silicones",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:curl-definition",
-   "hair:dry",
-   "hair:curly",
-   "free:mineral-oil",
-   "free:oil-free",
-   "free:vegan",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "dhathri-b08bckhx39",
-  "brand": "Dhathri",
-  "model": "Dheedhi Herbal Conditioner with Coconut Oil, Amla & Tulsi | Ayurvedic Herbal Leave-In-Cond…",
-  "price": 195,
-  "capacityLine": "200 ml",
-  "materialLine": "Coconut + Amla",
-  "featureLine": "Leave-in conditioner · Paraben-free · ₹98/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹98/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Coconut, Amla (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61isuB92mSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08BCKHX39",
-  "buyStore": "Amazon",
-  "title": "Dhathri Dheedhi Herbal Conditioner with Coconut Oil, Amla & Tulsi | Ayurvedic Herbal Leave-In-Conditioner for Smooth, Frizz-Free Strong Hair | Sulfate & Paraben Free | All Hair Types, 200ml",
-  "tags": [
-   "area:lengths",
-   "format:oil",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:coconut",
-   "ing:amla",
-   "concern:frizz",
-   "concern:smoothing",
-   "hair:all",
-   "free:paraben",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f63b2ghp",
-  "brand": "Unbranded",
-  "model": "Hibiscus Hair Conditioner for Dry Frizzy Hair (200ml) – with Vitamin E & Amla Helpful to A…",
-  "price": 202,
-  "capacityLine": "200 ml",
-  "materialLine": "Vitamin E + Amla + Hibiscus",
-  "featureLine": "Leave-in conditioner · ₹101/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹101/100ml",
-   "format": "Leave-in conditioner",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Amla, Hibiscus (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71qpzc8uiKL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F63B2GHP",
-  "buyStore": "Amazon",
-  "title": "Hibiscus Hair Conditioner for Dry Frizzy Hair (200ml) – with Vitamin E & Amla Helpful to Absolute Repair Deep Leave in Hair Conditioner for Hair Follicle Strengthening & Shining, Men & Women",
-  "tags": [
-   "area:both",
-   "format:conditioner",
-   "format:leave-in",
-   "ing:vitamin-e",
-   "ing:amla",
-   "ing:hibiscus",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:dry",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "tuco-b0gl26bhxc",
-  "brand": "Tuco®",
-  "model": "Kids Tangle Tamer Hair Detangler Spray, 50ml | Infused with Aloe Vera, Flaxseed & Methi, A…",
-  "price": 188,
-  "capacityLine": "50 ml",
-  "materialLine": "Aloe vera + Fenugreek",
-  "featureLine": "Mist / spray · Sulfate/SLS-free · ₹376/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹376/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aloe vera, Fenugreek (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Detangling (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/512ge3ne4UL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GL26BHXC",
-  "buyStore": "Amazon",
-  "title": "Tuco® Kids Tangle Tamer Hair Detangler Spray, 50ml | Infused with Aloe Vera, Flaxseed & Methi, Ages 2-5, 4-10, 10-15, 5-10 Years, Paraben & Sulphate Free, Pack Of 1",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:fenugreek",
-   "concern:detangling",
-   "free:sulfate",
-   "aud:kids",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  }
 ];

@@ -2,6 +2,10 @@ import { ArrowRight } from 'lucide-react';
 import { AppLink } from '../ui/AppLink';
 import { ZoneBadge } from '../ui/primitives';
 import type { CategoryMeta } from '../../lib/types';
+import { CONCERN_PARAM, concernCount, concernTag } from '../../domain/concern';
+
+/** Skin concerns picked on the hub: the card counts its matching listings and opens the category with the same filter on. */
+export interface ConcernPick { picked: string[]; labels: Record<string, string> }
 
 /** Discovery tile: zone-tinted top band with the listing count, then label + blurb (Airbnb category tiles / Headspace content cards). */
 const BAND: Record<CategoryMeta['zone'], string> = { face: 'bg-face/10', both: 'bg-both/10', body: 'bg-body/10', hair: 'bg-hair/10' };
@@ -12,18 +16,27 @@ const STRIP: Record<CategoryMeta['scopeGroup'], { key: string; label: string; cl
   area: [{ key: 'scalp', label: 'scalp', cls: 'bg-hair' }, { key: 'both', label: 'scalp and lengths', cls: 'bg-hair/60' }, { key: 'lengths', label: 'lengths', cls: 'bg-hair/30' }, { key: 'beard', label: 'beard', cls: 'bg-hair' }],
 };
 
-export function CategoryCard({ cat }: { cat: CategoryMeta }) {
+export function CategoryCard({ cat, concern }: { cat: CategoryMeta; concern?: ConcernPick }) {
   const total = Math.max(1, cat.count);
   const band = cat.kicker === 'PROTOCOL' ? 'bg-accent-soft' : BAND[cat.zone];
   const strip = STRIP[cat.scopeGroup];
   const n = (k: string) => cat.byScope[k] ?? 0;
   const stripLabel = [...strip.map((s) => `${s.label} ${n(s.key)}`), `not stated ${n('unstated')}`].join(', ');
+  const picked = concern?.picked ?? [];
+  const hasConcern = cat.facets.includes('target');
+  const matching = picked.length && hasConcern ? concernCount(cat, picked) : null;
+  const pickedLabel = picked.map((id) => concern?.labels[id] ?? id).join(' or ');
+  const search = picked.length && hasConcern ? '?' + picked.map((id) => `${CONCERN_PARAM}=${encodeURIComponent(concernTag(id))}`).join('&') : '';
   return (
-    <AppLink to={`/c/${cat.id}`} className="card card-hover press group flex h-full flex-col overflow-hidden no-underline">
+    <AppLink to={`/c/${cat.id}${search}`} className={`card card-hover press group flex h-full flex-col overflow-hidden no-underline ${picked.length && !hasConcern ? 'opacity-60' : ''}`}>
       <div className={`flex items-start justify-between gap-3 px-5 pb-4 pt-5 ${band}`}>
         <div>
-          <span className="mono block text-[28px] font-extrabold leading-none text-display">{cat.count.toLocaleString('en-IN')}</span>
-          <span className="label mt-1 block">listings</span>
+          <span className="mono block text-[28px] font-extrabold leading-none text-display">{(matching ?? cat.count).toLocaleString('en-IN')}</span>
+          <span className="label mt-1 block">
+            {matching === null
+              ? (picked.length ? 'listings · no skin-concern facet' : 'listings')
+              : `of ${cat.count.toLocaleString('en-IN')} for ${pickedLabel}`}
+          </span>
         </div>
         <ZoneBadge zone={cat.zone} className="!bg-surface rounded-full px-2.5 py-1" />
       </div>

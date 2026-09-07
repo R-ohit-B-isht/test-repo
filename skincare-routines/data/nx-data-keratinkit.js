@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1026,6 +1026,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1033,6 +1034,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1040,6 +1042,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -1047,6 +1050,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1054,6 +1058,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1061,6 +1066,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1068,6 +1074,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -17100,6 +17107,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -17107,6 +17115,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -26675,6 +26684,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -26682,6 +26692,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -26689,6 +26700,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -26696,6 +26708,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairCleansing"
     }
    ],
@@ -26940,6 +26953,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -26947,6 +26961,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -26954,6 +26969,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -26961,6 +26977,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairCleansing"
     }
    ],
@@ -46134,6 +46151,114 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "oman-a-b0gl3ccyb6",
+  "brand": "Oman'a",
+  "model": "Professional Hair Straightening & Neutralizing Cream – Rebonding & Smoothing Treatment, 2-…",
+  "price": 620,
+  "capacityLine": "2000 ml (pack of 4)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Keratin / smoothing treatment · ₹31/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "500 ml × 4 pack",
+   "pricePer100": "₹31/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Wavy hair, Straight hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61poBWfmZ0L._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/51wxftJ4GiL._SL1088_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GL3CCYB6",
+  "buyStore": "Amazon",
+  "title": "Oman'a Professional Hair Straightening & Neutralizing Cream – Rebonding & Smoothing Treatment, 2-Pack (500ml Each) Unisex All count Pack Of 4",
+  "tags": [
+   "area:lengths",
+   "format:cream",
+   "format:kit",
+   "format:texture-spray",
+   "format:keratin-treatment",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:detangling",
+   "hair:curly",
+   "hair:wavy",
+   "hair:straight",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "garena-b0hf85nr91",
   "brand": "Garena",
   "model": "Regenscar Triple Action Scar Removal Cream – Scar | Stretch Mark & Acne Mark Care Gel - Sk…",
@@ -50423,6 +50548,758 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "kamill-b0bl85xn41",
+  "brand": "Kamill",
+  "model": "Keratin Pro-Straightening Cream And Pro-Neutralizer Kit With Kera-Protein Complex ( 150 ml…",
+  "price": 360,
+  "capacityLine": "150 ml",
+  "materialLine": "Keratin + Dimethicone / silicones",
+  "featureLine": "Keratin / smoothing treatment · ₹240/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹240/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Keratin, Dimethicone / silicones (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61HB4RYIfuL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/617um7fU-1L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BL85XN41",
+  "buyStore": "Amazon",
+  "title": "Kamill Keratin Pro-Straightening Cream And Pro-Neutralizer Kit With Kera-Protein Complex ( 150 ml each )",
+  "tags": [
+   "area:unstated",
+   "format:cream",
+   "format:kit",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "ing:dimethicone-silicones",
+   "concern:smoothing",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "silkco-b0dv3t1tcv",
+  "brand": "SilkCo.",
+  "model": "Global Amazon Secrets Brazilian Keratin Shampoo and Conditioner + Treatment 1000ML (Pack o…",
+  "price": 2150,
+  "capacityLine": "3000 ml (pack of 3)",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment · ₹72/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "1000 ml × 3 pack",
+   "pricePer100": "₹72/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Scalp + lengths (per listing)",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Wavy hair, Coloured / chemically treated, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51w5AmziwiL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61f03DyG5kL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51zxNgN1FPL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71Nvztxdu3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+y1RkhRiL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DV3T1TCV",
+  "buyStore": "Amazon",
+  "title": "Global Amazon Secrets Brazilian Keratin Shampoo and Conditioner + Treatment 1000ML (Pack of 3)| Brazilian Keratin Treatment Kit for Professionals | Smoother-Shinier Damage free Hair | Deep nourishment | Controls Frizz",
+  "tags": [
+   "area:both",
+   "format:kit",
+   "format:shampoo",
+   "format:conditioner",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:curly",
+   "hair:wavy",
+   "hair:coloured",
+   "hair:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "zxx-b0gkxzkysv",
+  "brand": "ZXX",
+  "model": "Shampoo, Mask & Serum Combo For Women |Sulphate & Paraben Free | After Keratin, Nanoplasti…",
+  "price": 1550,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Collagen + Argan oil + Keratin",
+  "featureLine": "Keratin / smoothing treatment · Paraben-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Collagen, Argan oil, Keratin, Biotin, Hydrolysed protein (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Coloured / chemically treated, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pIhMMwU0L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61y4TA+SnqL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61UmzHdBi+L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61MxnpP87ML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51jNlDh0UNL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKXZKYSV",
+  "buyStore": "Amazon",
+  "title": "ZXX Shampoo, Mask & Serum Combo For Women |Sulphate & Paraben Free | After Keratin, Nanoplastia & Color | Professional Haircare Kit for Women",
+  "tags": [
+   "area:lengths",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "format:shampoo",
+   "format:keratin-treatment",
+   "ing:collagen",
+   "ing:argan-oil",
+   "ing:keratin",
+   "ing:biotin",
+   "ing:hydrolysed-protein",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:coloured",
+   "hair:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tmtkeratin-b0c4ltbrkj",
+  "brand": "TMTKeratin",
+  "model": "Global Amazon Secrets Brazilian Unscented Keratin Treatment, All Hair Type For Men & Women…",
+  "price": 1592,
+  "capacityLine": "1000 ml",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment · Fragrance-free · ₹159/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "1000 ml",
+   "pricePer100": "₹159/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41ocNAZaVdL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61OSkMUF4WL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71HzxCDJM1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61FyZvwG4dL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71PbbzXP7XL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C4LTBRKJ",
+  "buyStore": "Amazon",
+  "title": "Global Amazon Secrets Brazilian Unscented Keratin Treatment, All Hair Type For Men & Women 1000Ml New Pack,1 Count",
+  "tags": [
+   "area:lengths",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "hair:damaged",
+   "hair:coloured",
+   "hair:all",
+   "free:fragrance",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fezona-b0f44z4npx",
+  "brand": "FEZONA",
+  "model": "Professional Secret Brazilian Keratin Treatment 1000 ml",
+  "price": 499,
+  "capacityLine": "1000 ml",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment · ₹50/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "1000 ml",
+   "pricePer100": "₹50/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Damaged hair, Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41DL+CSiaFL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F44Z4NPX",
+  "buyStore": "Amazon",
+  "title": "Professional Secret Brazilian Keratin Treatment 1000 ml",
+  "tags": [
+   "area:unstated",
+   "format:texture-spray",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "hair:damaged",
+   "hair:thick",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dione-uk-b0c96ccsk5",
+  "brand": "Dione UK",
+  "model": "Keratin Hair Straightening Cream (Softner + Neutralizer) 400ml each",
+  "price": 1424,
+  "capacityLine": "400 ml",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment · ₹356/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹356/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61uFVpP2OyL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71pOvydqH6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+3U62T1BL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719JKRBEryL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Wvp+udtiL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C96CCSK5",
+  "buyStore": "Amazon",
+  "title": "Keratin Hair Straightening Cream (Softner + Neutralizer) 400ml each",
+  "tags": [
+   "area:unstated",
+   "format:cream",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "concern:smoothing",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "shills-professional-b0gg62z7j8",
+  "brand": "Shills Professional",
+  "model": "Diamond Shine Hair Straightening Cream Strong + Neutralizing Cream Combo | Salon-Grade Smo…",
+  "price": 1198,
+  "capacityLine": "500 ml",
+  "materialLine": "Keratin",
+  "featureLine": "Keratin / smoothing treatment · ₹240/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹240/100ml",
+   "format": "Keratin / smoothing treatment",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Keratin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Damaged hair, Thick / coarse hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71q423geo1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51nfKtMm50L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/514vs5UnTSL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61HIygfyg2L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61Asbw8k1sL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GG62Z7J8",
+  "buyStore": "Amazon",
+  "title": "SHILLS PROFESSIONAL Diamond Shine Hair Straightening Cream Strong + Neutralizing Cream Combo | Salon-Grade Smoothening System | Long-Lasting Straight, Frizz-Free Finish (500ml+500ml)",
+  "tags": [
+   "area:lengths",
+   "format:cream",
+   "format:kit",
+   "format:keratin-treatment",
+   "ing:keratin",
+   "concern:frizz",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:curly",
+   "hair:damaged",
+   "hair:thick",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "cerave-b07wl7wv52",
   "brand": "CeraVe",
   "model": "SA Smoothing Cream | Exfoliating and Skin Smoothing Cream for Rough, Dry & Bumpy Skin with…",
@@ -50534,6 +51411,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -50541,6 +51419,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -50548,6 +51427,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -50555,6 +51435,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "dandruff"
     }
    ],
@@ -62488,601 +63369,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "kamill-b0bl85xn41",
-  "brand": "Kamill",
-  "model": "Keratin Pro-Straightening Cream And Pro-Neutralizer Kit With Kera-Protein Complex ( 150 ml…",
-  "price": 360,
-  "capacityLine": "150 ml",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹240/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹240/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61HB4RYIfuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BL85XN41",
-  "buyStore": "Amazon",
-  "title": "Kamill Keratin Pro-Straightening Cream And Pro-Neutralizer Kit With Kera-Protein Complex ( 150 ml each )",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:kit",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dv3t1tcv",
-  "brand": "Unbranded",
-  "model": "Global Amazon Secrets Brazilian Keratin Shampoo and Conditioner + Treatment 1000ML (Pack o…",
-  "price": 2150,
-  "capacityLine": "3000 ml (pack of 3)",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹72/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "1000 ml × 3 pack",
-   "pricePer100": "₹72/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51w5AmziwiL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DV3T1TCV",
-  "buyStore": "Amazon",
-  "title": "Global Amazon Secrets Brazilian Keratin Shampoo and Conditioner + Treatment 1000ML (Pack of 3)| Brazilian Keratin Treatment Kit for Professionals | Smoother-Shinier Damage free Hair | Deep nourishment | Controls Frizz",
-  "tags": [
-   "area:lengths",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "zxx-b0gkxzkysv",
-  "brand": "ZXX",
-  "model": "Shampoo, Mask & Serum Combo For Women |Sulphate & Paraben Free | After Keratin, Nanoplasti…",
-  "price": 1550,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51pIhMMwU0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GKXZKYSV",
-  "buyStore": "Amazon",
-  "title": "ZXX Shampoo, Mask & Serum Combo For Women |Sulphate & Paraben Free | After Keratin, Nanoplastia & Color | Professional Haircare Kit for Women",
-  "tags": [
-   "area:unstated",
-   "format:serum",
-   "format:kit",
-   "format:shampoo",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "free:paraben",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0c4ltbrkj",
-  "brand": "Unbranded",
-  "model": "Global Amazon Secrets Brazilian Unscented Keratin Treatment, All Hair Type For Men & Women…",
-  "price": 1592,
-  "capacityLine": "1000 ml",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · Fragrance-free · ₹159/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "1000 ml",
-   "pricePer100": "₹159/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41ocNAZaVdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C4LTBRKJ",
-  "buyStore": "Amazon",
-  "title": "Global Amazon Secrets Brazilian Unscented Keratin Treatment, All Hair Type For Men & Women 1000Ml New Pack,1 Count",
-  "tags": [
-   "area:unstated",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "hair:all",
-   "free:fragrance",
-   "aud:women",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f44z4npx",
-  "brand": "Unbranded",
-  "model": "Professional Secret Brazilian Keratin Treatment 1000 ml",
-  "price": 499,
-  "capacityLine": "1000 ml",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹50/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "1000 ml",
-   "pricePer100": "₹50/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41DL+CSiaFL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F44Z4NPX",
-  "buyStore": "Amazon",
-  "title": "Professional Secret Brazilian Keratin Treatment 1000 ml",
-  "tags": [
-   "area:unstated",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0c96ccsk5",
-  "brand": "Unbranded",
-  "model": "Keratin Hair Straightening Cream (Softner + Neutralizer) 400ml each",
-  "price": 1424,
-  "capacityLine": "400 ml",
-  "materialLine": "Keratin",
-  "featureLine": "Keratin / smoothing treatment · ₹356/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹356/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Keratin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61uFVpP2OyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C96CCSK5",
-  "buyStore": "Amazon",
-  "title": "Keratin Hair Straightening Cream (Softner + Neutralizer) 400ml each",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:keratin-treatment",
-   "ing:keratin",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b09fzkgr4q",
   "brand": "Unbranded",
   "model": "Hair Straight Cream Pack 125ml Hair Smoothing Cream",
@@ -63177,206 +63463,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "oman-a-b0gl3ccyb6",
-  "brand": "Oman'a",
-  "model": "Professional Hair Straightening & Neutralizing Cream – Rebonding & Smoothing Treatment, 2-…",
-  "price": 620,
-  "capacityLine": "2000 ml (pack of 4)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Keratin / smoothing treatment · ₹31/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 ml × 4 pack",
-   "pricePer100": "₹31/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61poBWfmZ0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GL3CCYB6",
-  "buyStore": "Amazon",
-  "title": "Oman'a Professional Hair Straightening & Neutralizing Cream – Rebonding & Smoothing Treatment, 2-Pack (500ml Each) Unisex All count Pack Of 4",
-  "tags": [
-   "area:unstated",
-   "format:cream",
-   "format:kit",
-   "format:keratin-treatment",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "shills-b0gg62z7j8",
-  "brand": "Shills",
-  "model": "PROFESSIONAL Diamond Shine Hair Straightening Cream Strong + Neutralizing Cream Combo | Sa…",
-  "price": 1198,
-  "capacityLine": "500 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Keratin / smoothing treatment · ₹240/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹240/100ml",
-   "format": "Keratin / smoothing treatment",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71q423geo1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GG62Z7J8",
-  "buyStore": "Amazon",
-  "title": "SHILLS PROFESSIONAL Diamond Shine Hair Straightening Cream Strong + Neutralizing Cream Combo | Salon-Grade Smoothening System | Long-Lasting Straight, Frizz-Free Finish (500ml+500ml)",
-  "tags": [
-   "area:lengths",
-   "format:cream",
-   "format:kit",
-   "format:keratin-treatment",
-   "concern:frizz",
-   "concern:smoothing",
-   "concern:shine",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

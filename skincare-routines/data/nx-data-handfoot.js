@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1014,6 +1014,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1021,6 +1022,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1028,6 +1030,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -1035,6 +1038,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -1385,6 +1389,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1392,6 +1397,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -1399,6 +1405,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1406,6 +1413,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1413,6 +1421,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -2264,7 +2273,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); shea butter (#4 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); tocopherol (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/s/50-urea-foot-care-crack-heel-cream-usa-formulated-aha-bha-smooth-original-imahkyhsdhpe6pgf.jpeg?q=90",
@@ -2304,6 +2314,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -2335,6 +2348,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -2342,6 +2356,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -2349,6 +2364,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -2356,6 +2372,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2363,6 +2380,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -2370,6 +2388,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2377,6 +2396,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -2384,6 +2404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -2391,6 +2412,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2398,6 +2420,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -2405,6 +2428,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     }
    ],
@@ -2563,6 +2587,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -2570,6 +2595,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -2699,6 +2725,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -2706,6 +2733,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -2769,7 +2797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); shea butter (#4 on list, moderate evidence); glycerin (#5 on list, strong evidence); panthenol (#8 on list, moderate evidence); tocopherol (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI, salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #13 on INCI; Dark spots — niacinamide #7 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI, panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/i/50-smooth-step-50g-kineticure-cream-original-imahguehgrrhvwbd.jpeg?q=90",
@@ -2811,6 +2840,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -2842,6 +2874,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -2849,6 +2882,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -2856,6 +2890,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -2863,6 +2898,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2870,6 +2906,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -2877,6 +2914,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2884,6 +2922,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -2891,6 +2930,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -2898,6 +2938,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2905,6 +2946,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -2912,6 +2954,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     }
    ],
@@ -3055,6 +3098,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -3062,6 +3106,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -3069,6 +3114,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -3076,6 +3122,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -3083,6 +3130,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -3090,6 +3138,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -3097,6 +3146,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -3836,6 +3886,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -3843,6 +3894,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -4628,123 +4680,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "skin-fx-itm35b17e611b9af",
-  "brand": "Skin FX",
-  "model": "Brightening Glowing Face Serum & Hand Mask Instant Baby Soft Skin Smoothening",
-  "price": 448,
-  "capacityLine": "39 ml",
-  "materialLine": "Neem + Shea butter + Jojoba",
-  "featureLine": "Serum · Paraben-free · ₹1149/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "39 ml",
-   "pricePer100": "₹1149/100ml",
-   "format": "Serum",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Neem, Shea butter, Jojoba, Lemon (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "2.8/5 (4 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Amla Neem, Lemon, Lime, Rosemary Leaf, Jojoba Seed Oil, Grapefruit Extract, Shea Butter, Camellia Sinensis Leaf",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.8★ from 4 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/p/1/f/39-brightening-glowing-face-serum-hand-mask-instant-baby-soft-original-imah83hwxh5cpfb7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/p/q/39-brightening-glowing-face-serum-hand-mask-instant-baby-soft-original-imah83hwur5bpehy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kgcl7680/face-pack/g/g/x/100-natural-organic-tomato-powder-for-skin-hair-powder-7-fox-original-imafwhygjvaefrsn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kk01pjk0/face-pack/s/n/0/50-french-pink-clay-face-mask-for-all-skin-types-100-pure-original-imafzgadxb2nzhfc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/u/j/v/40-beauty-bamboo-facial-sheet-mask-of-cucumber-lavender-original-imahm68psxa8rqgb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/skin-fx-brightening-glowing-face-serum-hand-mask-instant-baby-soft-smoothening/p/itm35b17e611b9af",
-  "buyStore": "Flipkart",
-  "title": "Skin FX Brightening Glowing Face Serum & Hand Mask Instant Baby Soft Skin Smoothening",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:oil",
-   "format:balm",
-   "format:sheet-mask",
-   "format:peel-off",
-   "format:pack",
-   "format:peel",
-   "format:wash",
-   "ing:neem",
-   "ing:shea-butter",
-   "ing:jojoba",
-   "ing:lemon",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:kids",
-   "size:travel",
-   "rating:low",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Amla Neem, Lemon, Lime, Rosemary Leaf, Jojoba Seed Oil, Grapefruit Extract, Shea Butter, Camellia Sinensis Leaf",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.63,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.8★ from 4 ratings"
   }
  },
  {
@@ -5759,7 +5694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#15 on list, moderate evidence); tocopheryl acetate (#20 on list, moderate evidence); ceramide np (#25 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 669 ratings"
+   "buyerEvidence": "4.3★ from 669 ratings",
+   "concernBasis": "Irritation — ceramide eos #23 on INCI, ceramide ns #24 on INCI, ceramide np #25 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/s/30-hand-cream-floral-garden-with-ceramides-shea-butter-vitamin-e-original-imahhkyfpuf7gvpe.jpeg?q=90",
@@ -5787,6 +5723,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -5819,6 +5756,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5826,6 +5764,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -5833,6 +5772,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -5840,6 +5780,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -5847,6 +5788,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5854,6 +5796,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5861,6 +5804,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     }
    ],
@@ -6180,7 +6124,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); dimethicone (#5 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.8★ from 10 ratings"
+   "buyerEvidence": "4.8★ from 10 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/v/30-daily-moment-vegan-hand-cream-midnight-street-the-face-shop-original-imagsuuapgec2szp.jpeg?q=90",
@@ -6205,6 +6150,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -6237,6 +6183,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6244,6 +6191,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6251,6 +6199,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6258,6 +6207,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -6265,6 +6215,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -6747,6 +6698,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -6754,6 +6706,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6761,6 +6714,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6768,6 +6722,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -6775,6 +6730,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -6782,6 +6738,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -7079,7 +7036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); dimethicone (#10 on list, moderate evidence); tocopheryl acetate (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 15 ratings"
+   "buyerEvidence": "3.9★ from 15 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/y/f/30-blue-freesia-hand-cream-pack-of-2-baboski-cream-original-imahfxbufbzhhm92.jpeg?q=90",
@@ -7109,6 +7067,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -7140,6 +7099,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7147,6 +7107,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -7154,6 +7115,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -7161,6 +7123,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -7168,6 +7131,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -7175,6 +7139,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -7182,6 +7147,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -8197,6 +8163,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8204,6 +8171,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -8211,6 +8179,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -8218,6 +8187,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -8225,6 +8195,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -8232,6 +8203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -8239,6 +8211,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -8246,6 +8219,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -8253,6 +8227,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -8512,6 +8487,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8519,6 +8495,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -8526,6 +8503,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -8533,6 +8511,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -9371,7 +9350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence); glycerin (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/y/i/550-kronoklay-hand-cream-550ml-with-holder-aloe-shea-for-deep-original-imahmgsrenfcdjfh.jpeg?q=90",
@@ -9401,6 +9381,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -9432,6 +9413,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -9439,6 +9421,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -9446,6 +9429,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -10071,7 +10055,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#7 on list, strong evidence); butyrospermum parkii butter (#12 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/u/550-midnight-berries-hand-lotion-550ml-aloe-shea-butter-deep-original-imahm9krcbfmbusw.jpeg?q=90",
@@ -10103,6 +10088,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -10134,6 +10120,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10141,6 +10128,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -10148,6 +10136,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -10394,6 +10383,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10401,6 +10391,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -10408,6 +10399,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -10415,6 +10407,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -12588,7 +12581,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "NULYF INDIA Plot No.78, STICE, Musalgaon, Sinnar, Nashik, Maharashtra, India, 422112 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.5★ from 8 ratings"
+   "buyerEvidence": "4.5★ from 8 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/w/30-peony-thyme-hand-cream-baboski-cream-original-imahgfpq7sdst529.jpeg?q=90",
@@ -12606,6 +12600,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -12637,6 +12632,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -12644,6 +12640,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -12651,6 +12648,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -12658,6 +12656,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -12665,6 +12664,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -12672,6 +12672,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -12679,6 +12680,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -13018,6 +13020,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -13025,6 +13028,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13032,6 +13036,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -13039,6 +13044,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -13046,6 +13052,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -13053,6 +13060,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -13193,6 +13201,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13200,6 +13209,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -13207,6 +13217,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -13214,6 +13225,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -13289,7 +13301,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); dimethicone (#10 on list, moderate evidence); tocopheryl acetate (#29 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 8 ratings"
+   "buyerEvidence": "4.5★ from 8 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/u/30-peony-thyme-hand-cream-pack-of-2-baboski-cream-original-imahfxbyyypx6u6h.jpeg?q=90",
@@ -13319,6 +13332,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -13350,6 +13364,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13357,6 +13372,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -13364,6 +13380,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -13371,6 +13388,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -13378,6 +13396,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -13385,6 +13404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -13392,6 +13412,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -13991,6 +14012,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -13998,6 +14020,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -14005,6 +14028,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -14012,6 +14036,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -14424,7 +14449,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "NULYF INDIA Plot No.78, STICE, Musalgaon, Sinnar, Nashik, Maharashtra, India, 422112 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 15 ratings"
+   "buyerEvidence": "3.9★ from 15 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/v/c/30-blue-freesia-hand-cream-baboski-cream-original-imahfxbwzuq2kcmh.jpeg?q=90",
@@ -14442,6 +14468,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -14473,6 +14500,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -14480,6 +14508,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -14487,6 +14516,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -14494,6 +14524,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -14501,6 +14532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -14508,6 +14540,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -14515,6 +14548,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -17080,112 +17114,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "jovees-herbal-itm5997bc272fe4a",
-  "brand": "Jovees Herbal",
-  "model": "Foot Cream & Scrub - Jojoba & Sesame-100 gm",
-  "price": 192,
-  "capacityLine": "100 g",
-  "materialLine": "Jojoba",
-  "featureLine": "Scrub · ₹192/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 1,004 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 7.1
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹192/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Jojoba (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (1,004 ratings, Flipkart)",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 1,004 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/p/100-foot-cream-scrub-jojoba-sesame-100-gm-jovees-herbal-cream-original-imahhqz2qfpfd7tz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/2/9/100-foot-cream-scrub-jojoba-sesame-100-gm-jovees-herbal-cream-original-imahhqz2dhtmwxfa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/g/f/100-foot-cream-scrub-jojoba-sesame-100-gm-jovees-herbal-cream-original-imahhqz2jupv96bp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/8/n/100-foot-cream-scrub-jojoba-sesame-100-gm-jovees-herbal-cream-original-imahhqz2nn54hbwg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/m/100-foot-cream-scrub-jojoba-sesame-100-gm-jovees-herbal-cream-original-imahhqz2yyhtejff.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/jovees-herbal-foot-cream-scrub-jojoba-sesame-100-gm/p/itm5997bc272fe4a",
-  "buyStore": "Flipkart",
-  "title": "Jovees Herbal Foot Cream & Scrub - Jojoba & Sesame-100 gm",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:scrub",
-   "ing:jojoba",
-   "claim:brightening",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Jovees Herbal Care India",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.jovees.com/"
-   },
-   "buyers": "4.3★ from 1,004 ratings"
-  }
- },
- {
   "id": "afaraxia-itm1ee03fb4401a2",
   "brand": "AFARAXIA",
   "model": "Foot Cream for Dry & Cracked Heels Treatment Cream",
@@ -17735,6 +17663,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -17742,6 +17671,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -17749,6 +17679,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -17756,6 +17687,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -17763,6 +17695,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -29176,6 +29109,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -29183,6 +29117,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29190,6 +29125,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -29197,6 +29133,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -29204,6 +29141,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -29494,7 +29432,8 @@ const NXPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); dimethicone (#12 on list, moderate evidence); glycolic acid (#15 on list, strong evidence); lactic acid (#16 on list, strong evidence); allantoin (#17 on list, limited evidence); salicylic acid (#18 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 399 ratings"
+   "buyerEvidence": "4.3★ from 399 ratings",
+   "concernBasis": "Acne — salicylic acid #18 on INCI; Dark spots — kojic dipalmitate #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/9/g/75-urea-natural-ahas-foot-cream-unisex-for-dry-cracked-heels-original-imahhkvht59dbbzz.jpeg?q=90",
@@ -29526,6 +29465,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -29557,6 +29498,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -29564,6 +29506,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29571,6 +29514,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -29578,6 +29522,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -29585,6 +29530,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29592,6 +29538,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29599,6 +29546,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -29606,6 +29554,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -29791,7 +29740,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); allantoin (#5 on list, limited evidence); lactic acid (#13 on list, strong evidence); glycolic acid (#14 on list, strong evidence); shea butter (#18 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 117 ratings"
+   "buyerEvidence": "4★ from 117 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #3 on INCI; Aging — ascorbic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/g/50-korean-peeling-foot-mask-for-dry-cracked-feet-with-cherry-original-imahmcy6ddqzracf.jpeg?q=90",
@@ -29817,6 +29767,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -29849,6 +29801,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -29856,6 +29809,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29863,6 +29817,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -29870,6 +29825,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -29877,6 +29833,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29884,6 +29841,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29891,6 +29849,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -43477,7 +43436,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#5 on list, strong evidence); glycolic acid (#6 on list, strong evidence); salicylic acid (#7 on list, strong evidence); urea (#11 on list, strong evidence); sodium hyaluronate (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 31 ratings"
+   "buyerEvidence": "3.4★ from 31 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI, melaleuca alternifolia leaf oil #10 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/x/c/35-foot-peeling-mask-for-cracked-heels-hydrating-repair-foot-original-imahnt7zmyhn2g5f.jpeg?q=90",
@@ -43507,6 +43467,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -43538,6 +43500,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -43545,6 +43508,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -43552,6 +43516,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -43559,6 +43524,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -43566,6 +43532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -43573,6 +43540,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -43580,6 +43548,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -43587,6 +43556,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -46026,6 +45996,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -46033,6 +46004,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -46040,6 +46012,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -46047,6 +46020,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -46054,6 +46028,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -46061,6 +46036,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -46068,6 +46044,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46075,6 +46052,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -55531,6 +55509,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -55538,6 +55517,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -55545,6 +55525,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -55552,6 +55533,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -57135,13 +57117,14 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
-   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-01-sunrise-bedroom",
-   "inciMatchedName": "Daily Moment Vegan Hand Cream - 01 Sunrise Bedroom 30ml (name match 100%)",
+   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-03-noon-park",
+   "inciMatchedName": "Daily Moment Vegan Hand Cream - 03 Noon Park 30ml (name match 100%)",
    "inciList": "Purified Water, Shea Butter, Propanediol, Glycerin, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate Se, Glyceryl Stearate, Caprylic/Capric Triglyceride, Denatured Alcohol, Beta-Glucan, Hydrol Rised Hyaluronic Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexyl Glycerin, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Methyl Glucose Sesquistearate, Ammonium Acryloyldimethyltaurate/Vpicopolymer, Sorbitan Isostearate, Trisodium Edit, Silica, Fragrance, Linalool, Coumarin",
    "evidenceActives": "shea butter (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); dimethicone (#5 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/z/x/30-daily-moment-vegan-hand-cream-noon-park-the-face-shop-cream-original-imagsutme7uabhvz.jpeg?q=90",
@@ -57172,6 +57155,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -57189,9 +57173,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-01-sunrise-bedroom",
+   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-03-noon-park",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Daily Moment Vegan Hand Cream - 01 Sunrise Bedroom 30ml",
+   "inciMatchedTitle": "Daily Moment Vegan Hand Cream - 03 Noon Park 30ml",
    "inciMatchScore": 1,
    "inciText": "Purified Water, Shea Butter, Propanediol, Glycerin, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate Se, Glyceryl Stearate, Caprylic/Capric Triglyceride, Denatured Alcohol, Beta-Glucan, Hydrol Rised Hyaluronic Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexyl Glycerin, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Methyl Glucose Sesquistearate, Ammonium Acryloyldimethyltaurate/Vpicopolymer, Sorbitan Isostearate, Trisodium Edit, Silica, Fragrance, Linalool, Coumarin",
    "inciUnverified": null,
@@ -57204,6 +57188,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -57211,6 +57196,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57218,6 +57204,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -57225,6 +57212,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -57232,6 +57220,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -71381,7 +71370,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence); sodium hyaluronate (#9 on list, moderate evidence); glycolic acid (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #5 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/w/u/35-moisturizing-foot-mask-with-lavender-for-dry-cracked-feet-and-original-imahd656h5dgnwug.jpeg?q=90",
@@ -71422,6 +71412,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -71453,6 +71445,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71460,6 +71453,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -71467,6 +71461,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -71474,6 +71469,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -71481,6 +71477,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -71488,6 +71485,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -71495,6 +71493,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -71577,7 +71576,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence); sodium hyaluronate (#9 on list, moderate evidence); glycolic acid (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 15 ratings"
+   "buyerEvidence": "2.7★ from 15 ratings",
+   "concernBasis": "Acne — salicylic acid #5 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/x/35-exfoliating-foot-mask-dry-cracked-feet-lavender-essence-deep-original-imahd656faedxgkb.jpeg?q=90",
@@ -71616,6 +71616,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -71647,6 +71649,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71654,6 +71657,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -71661,6 +71665,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -71668,6 +71673,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -71675,6 +71681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -71682,6 +71689,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -71689,6 +71697,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -73819,7 +73828,8 @@ const NXPRODUCTS = [
    "evidenceActives": "lactic acid (#4 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Drying alcohol high in the list: alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 29 ratings"
+   "buyerEvidence": "4.6★ from 29 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/g/n/40-foot-peel-exfoliating-mask-for-soft-smooth-feet-removes-dry-original-imahgua9by6hqkqe.jpeg?q=90",
@@ -73854,6 +73864,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -73886,6 +73897,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -73893,6 +73905,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -73900,6 +73913,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -74516,7 +74530,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#5 on list, strong evidence); glycolic acid (#6 on list, strong evidence); salicylic acid (#7 on list, strong evidence); urea (#11 on list, strong evidence); sodium hyaluronate (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 13 ratings"
+   "buyerEvidence": "4.5★ from 13 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI, melaleuca alternifolia leaf oil #10 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/r/t/35-foot-peel-mask-treatment-smooth-soft-feet-exfoliating-care-g-original-imahnt86ytusgchx.jpeg?q=90",
@@ -74543,6 +74558,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -74574,6 +74591,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74581,6 +74599,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -74588,6 +74607,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -74595,6 +74615,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -74602,6 +74623,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -74609,6 +74631,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -74616,6 +74639,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -74623,6 +74647,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -108296,7 +108321,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence); sodium hyaluronate (#9 on list, moderate evidence); glycolic acid (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #5 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/s/q/35-foot-mask-with-lavender-essence-deep-moisturizing-cracked-original-imahd656hhyhz95u.jpeg?q=90",
@@ -108338,6 +108364,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -108369,6 +108397,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -108376,6 +108405,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -108383,6 +108413,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -108390,6 +108421,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -108397,6 +108429,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -108404,6 +108437,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -108411,6 +108445,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -110448,7 +110483,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); lactic acid (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence); sodium hyaluronate (#9 on list, moderate evidence); glycolic acid (#10 on list, strong evidence); allantoin (#14 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Drying alcohol high in the list: alcohol (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.2★ from 5 ratings"
+   "buyerEvidence": "2.2★ from 5 ratings",
+   "concernBasis": "Acne — salicylic acid #5 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/q/f/35-foot-mask-with-lavender-exfoliating-dead-skin-moisturizing-original-imahd656eg9vzfju.jpeg?q=90",
@@ -110488,6 +110524,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -110519,6 +110557,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -110526,6 +110565,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -110533,6 +110573,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -110540,6 +110581,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -110547,6 +110589,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -110554,6 +110597,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -110561,6 +110605,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -119480,6 +119525,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -119487,6 +119533,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -119852,6 +119899,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -119859,6 +119907,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -120960,6 +121009,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -120967,6 +121017,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -121328,6 +121379,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -121335,6 +121387,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -121342,6 +121395,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121349,6 +121403,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -121708,6 +121763,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -121715,6 +121771,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -125365,6 +125422,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -125372,6 +125430,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -125723,6 +125782,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -125730,6 +125790,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -125863,6 +125924,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -125870,6 +125932,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -126005,6 +126068,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -126012,6 +126076,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -126146,6 +126211,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -126153,6 +126219,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -129960,6 +130027,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -129967,6 +130035,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -129974,6 +130043,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -129981,6 +130051,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -129988,6 +130059,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -129995,6 +130067,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -139883,6 +139956,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -139890,6 +139964,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -139897,6 +139972,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -139904,6 +139980,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -146734,6 +146811,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -146741,6 +146819,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -146748,6 +146827,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -146755,6 +146835,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -146762,6 +146843,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -146769,6 +146851,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -146776,6 +146859,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -146783,6 +146867,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -147037,6 +147122,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -147044,6 +147130,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147051,6 +147138,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147058,6 +147146,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147065,6 +147154,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -147072,6 +147162,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -147079,6 +147170,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -147086,6 +147178,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -147556,6 +147649,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -147563,6 +147657,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147570,6 +147665,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147577,6 +147673,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -147584,6 +147681,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -147591,6 +147689,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -147598,6 +147697,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -147605,6 +147705,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -153233,7 +153334,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#7 on list, moderate evidence)",
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/g/j/150-4-bhuja-charbhuja-foot-cream-revive-cream-cracked-heel-original-imahpdsfwu5kr4yx.jpeg?q=90",
@@ -153269,6 +153371,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -153301,6 +153404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -153308,6 +153412,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -153315,6 +153420,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -154080,7 +154186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#8 on list, moderate evidence)",
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/w/50-4-bhuja-charbhuja-foot-cream-for-dry-cracked-heels-and-original-imahp9gvxvhryynb.jpeg?q=90",
@@ -154110,6 +154217,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -154142,6 +154250,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -154149,6 +154258,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -154156,6 +154266,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -155943,7 +156054,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#7 on list, moderate evidence)",
    "safetyFlags": "Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/o/o/150-4-bhuja-charbhuja-foot-cream-for-relief-cracked-heel-repair-original-imahptkqafgxh2kz.jpeg?q=90",
@@ -155970,6 +156082,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -156002,6 +156115,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -156009,6 +156123,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -156016,6 +156131,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -157228,6 +157344,441 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "ezelflow-beauty-itm1e50948b95703",
+  "brand": "EZELFLOW BEAUTY",
+  "model": "Cuticle Oil 100% Natural – Nail & Cuticle Nourishing Oil | Strengthens Nails,",
+  "price": 123,
+  "capacityLine": "15 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹820/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹820/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, No white cast (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (11 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 11 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-nail-art/v/w/v/cuticle-oil-natural-cuticle-oil-100-natural-oil-nail-oil-nail-original-imahhvyaymp3zztw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-nail-art/c/d/3/cuticle-oil-natural-cuticle-oil-100-natural-oil-nail-oil-nail-original-imahhvyavyvwccwb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-nail-art/w/h/p/cuticle-oil-natural-cuticle-oil-100-natural-oil-nail-oil-nail-original-imahhvyazug3qbyv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-nail-art/d/g/6/cuticle-oil-natural-cuticle-oil-100-natural-oil-nail-oil-nail-original-imahhvyahrehye27.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-nail-art/e/u/a/cuticle-oil-natural-cuticle-oil-100-natural-oil-nail-oil-nail-original-imahhvyayesffsew.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ezelflow-beauty-cuticle-oil-100-natural-nail-nourishing-strengthens-nails/p/itm1e50948b95703",
+  "buyStore": "Flipkart",
+  "title": "EZELFLOW BEAUTY Cuticle Oil 100% Natural – Nail & Cuticle Nourishing Oil | Strengthens Nails,",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:kit",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 11 ratings"
+  }
+ },
+ {
+  "id": "cosmofine-itmb6325c34d8590",
+  "brand": "cosmofine",
+  "model": "Nail & Cuticle Oil for Stronger Looking Nails & Soft Cuticles",
+  "price": 148,
+  "capacityLine": "10 ml",
+  "materialLine": "Tea tree + Almond + Vitamin E",
+  "featureLine": "Oil · ₹1480/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹1480/100ml",
+   "format": "Oil",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Tea tree, Almond, Vitamin E, Argan oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Grapeseed, Argan, Jajoba, Tea Tree, Sweet Almond, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/y/9/10-nail-cuticle-oil-for-stronger-looking-nails-soft-cuticles-original-imahpr856nqzwgxw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/l/c/10-nail-cuticle-oil-for-stronger-looking-nails-soft-cuticles-original-imahpr86ekbxpghh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/f/e/10-nail-cuticle-oil-for-stronger-looking-nails-soft-cuticles-original-imahpr85w2gzq5xe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/y/g/10-nail-cuticle-oil-for-stronger-looking-nails-soft-cuticles-original-imahpr85qyf8fzda.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cosmofine-nail-cuticle-oil-stronger-looking-nails-soft-cuticles/p/itmb6325c34d8590",
+  "buyStore": "Flipkart",
+  "title": "cosmofine Nail & Cuticle Oil for Stronger Looking Nails & Soft Cuticles",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:wash",
+   "ing:tea-tree",
+   "ing:almond",
+   "ing:vitamin-e",
+   "ing:argan-oil",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Grapeseed, Argan, Jajoba, Tea Tree, Sweet Almond, Vitamin E",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.33,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "thr3e-itmcffde675fe271",
+  "brand": "THR3E",
+  "model": "STROKES Naturale Revitalizing Cuticle Oil - Hydrating Oil For Repaired Cuticle Overnight",
+  "price": 999,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.5★ from 47 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (47 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 47 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/nail-art/c/2/w/naturale-revitalizing-cuticle-oil-hydrating-oil-for-repaired-original-imah6zvddsawhzqk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/nail-art/2/5/z/naturale-revitalizing-cuticle-oil-hydrating-oil-for-repaired-original-imah6zvdjq33cghz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/nail-art/v/9/i/naturale-revitalizing-cuticle-oil-hydrating-oil-for-repaired-original-imah6zvdr3q9bhyy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/nail-art/e/p/g/naturale-revitalizing-cuticle-oil-hydrating-oil-for-repaired-original-imah6zvdevsefk2f.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/nail-art/n/i/b/cuticle-oil-for-nails-natural-oil-for-damaged-cuticles-with-original-imahf6bvdd7pmhzj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/thr3e-strokes-naturale-revitalizing-cuticle-oil-hydrating-repaired-overnight/p/itmcffde675fe271",
+  "buyStore": "Flipkart",
+  "title": "THR3E STROKES Naturale Revitalizing Cuticle Oil - Hydrating Oil For Repaired Cuticle Overnight",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:overnight",
+   "aud:unisex",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 47 ratings"
+  }
+ },
+ {
+  "id": "mensport-itm701d2ed5aa223",
+  "brand": "Mensport",
+  "model": "Broad Spectrum Sunscreen 100ML, Foot Repair Oil 30ML & Natural Rose Water 100ml",
+  "price": 335,
+  "capacityLine": "100 ml",
+  "materialLine": "Green tea + Rose + Walnut",
+  "featureLine": "Sunscreen · Paraben-free · ₹335/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹335/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Green tea, Rose, Walnut, Lemon, Cherry / acerola (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Barrier repair, Exfoliating, Broad spectrum UVA/UVB (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Natural Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/z/2/broad-spectrum-sunscreen-100ml-foot-repair-oil-30ml-natural-rose-original-imah3bg8xgfekxre.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/o/q/broad-spectrum-sunscreen-100ml-hair-growth-ginger-serum-30ml-original-imah3bg8ajm7xygh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/u/y/jamun-mini-cleanser-10-niacinamide-jamun-face-serum-for-acne-original-imahpy4hsbahknph.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/h/9/l/glycolic-salicylic-acid-anti-acne-combo-gift-pack-face-wash-original-imahjn6dezyjgb4d.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/h/o/-original-imahpsdqcfwrg3xf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/mensport-broad-spectrum-sunscreen-100ml-foot-repair-oil-30ml-natural-rose-water-100ml/p/itm701d2ed5aa223",
+  "buyStore": "Flipkart",
+  "title": "Mensport Broad Spectrum Sunscreen 100ML, Foot Repair Oil 30ML & Natural Rose Water 100ml",
+  "tags": [
+   "scope:both",
+   "format:toner",
+   "format:stick",
+   "format:oil",
+   "format:peel-off",
+   "format:pack",
+   "format:scrub",
+   "format:peel",
+   "format:wash",
+   "format:kit",
+   "ing:green-tea",
+   "ing:rose",
+   "ing:walnut",
+   "ing:lemon",
+   "ing:cherry-acerola",
+   "claim:brightening",
+   "claim:pores",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Natural Ingredients",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -159218,6 +159769,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159225,6 +159777,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -159232,6 +159785,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -159239,6 +159793,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -159749,7 +160304,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); dimethicone (#5 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41s5xMHR1QL._SL1080_.jpg",
@@ -159774,6 +160330,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -159806,6 +160363,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159813,6 +160371,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -159820,6 +160379,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159827,6 +160387,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -159834,6 +160395,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -172268,7 +172830,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b000z603em",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Shea Butter Foot Cream,30ml",
   "price": 1050,
   "capacityLine": "30 ml",
@@ -177752,6 +178314,2669 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "o-keeffe-s-b011kmz2ww",
+  "brand": "O'Keeffe's",
+  "model": "K0290004-10 Working Hands Hand Cream Tube (10 Pack), 3 oz",
+  "price": 1337,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); mineral oil high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Formaldehyde-releasing preservative: diazolidinyl urea",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Ingredients: Water, Glycerin, Stearic Acid, Aluminum Starch Octenylsuccinate, Polyquaternium-10, Diazolidinyl Urea, Paraffin, Acrylamide Copolymer, Acrylates, Mineral Oil, Dimethicone, Sodium Hydroxide, Iodopropynyl Butylcarbamate, Ceteth-10, Laureth-4, Polysorbate 85.",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); mineral oil (#10 on list, moderate evidence); dimethicone (#11 on list, moderate evidence)",
+   "safetyFlags": "Formaldehyde-releasing preservative: diazolidinyl urea (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71SHvrfTksL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81t-hoLUdKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/8172RW1AKoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/819NLUgMJ4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/815WLLoroSL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B011KMZ2WW",
+  "buyStore": "Amazon",
+  "title": "O'Keeffe's K0290004-10 Working Hands Hand Cream Tube (10 Pack), 3 oz",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:pack",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Ingredients: Water, Glycerin, Stearic Acid, Aluminum Starch Octenylsuccinate, Polyquaternium-10, Diazolidinyl Urea, Paraffin, Acrylamide Copolymer, Acrylates, Mineral Oil, Dimethicone, Sodium Hydroxide, Iodopropynyl Butylcarbamate, Ceteth-10, Laureth-4, Polysorbate 85.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "diazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-body-shop-b0g599w652",
+  "brand": "The Body Shop",
+  "model": "Dewberry Hand Balm 30ml",
+  "price": 506,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm · ₹1687/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, amyl cinnamal"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 5.9,
+   "trust": 7,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1687/100ml",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Glycerin, Triethyl Citrate, Polyglyceryl-3 Distearate, Cetearyl Alcohol, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Glyceryl Stearate, Parfum/Fragrance, PrunusAmygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Phenoxyethanol, Dimethicone, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil, Sodium Stearoyl Glutamate, Caprylyl Glycol, Glyceryl Stearate Citrate, Xanthan Gum, Linalool, Tocopherol, Acetyl Cedrene, Citric Acid, Amyl Cinnamal, Geraniol, Limonene, Citronellol, Terpineol, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Eugenol, Citral, CI 17200/Red 33, CI 42090/Blue 1.",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); dimethicone (#14 on list, moderate evidence); tocopherol (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: linalool, amyl cinnamal, geraniol, limonene, citronellol, benzyl salicylate, benzyl alcohol, hexyl cinnamal, eugenol, citral (−2)",
+   "maker": "The Body Shop International — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61lCI3LrJtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61xkxkl2qiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71frI4dvH1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+aDV53gCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SGvgVriGL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G599W652",
+  "buyStore": "Amazon",
+  "title": "The Body Shop Dewberry Hand Balm 30ml",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "claim:oil-control",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Glycerin, Triethyl Citrate, Polyglyceryl-3 Distearate, Cetearyl Alcohol, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Glyceryl Stearate, Parfum/Fragrance, PrunusAmygdalus Dulcis Oil/Prunus Amygdalus Dulcis (Sweet Almond) Oil, Phenoxyethanol, Dimethicone, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil, Sodium Stearoyl Glutamate, Caprylyl Glycol, Glyceryl Stearate Citrate, Xanthan Gum, Linalool, Tocopherol, Acetyl Cedrene, Citric Acid, Amyl Cinnamal, Geraniol, Limonene, Citronellol, Terpineol, Benzyl Salicylate, Benzyl Alcohol, Hexyl Cinnamal, Eugenol, Citral, CI 17200/Red 33, CI 42090/Blue 1.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "deodorants"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "amyl cinnamal",
+      "geraniol",
+      "limonene",
+      "citronellol",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "hexyl cinnamal",
+      "eugenol",
+      "citral"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": "The Body Shop International",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.thebodyshop.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "softsoles-b0dmfdlycf",
+  "brand": "SOFTSOLES",
+  "model": "Soft Soles Foot Cream | Nourishes & Rehydrates | Softens Hard Skin | Foot Cream For dry an…",
+  "price": 189,
+  "capacityLine": "60 g (pack of 2)",
+  "materialLine": "Jojoba",
+  "featureLine": "Cream · ₹315/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "30 g × 2 pack",
+   "pricePer100": "₹315/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Jojoba (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Jojoba oil, Wheat germ oil, Bees wax",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61JyyNicjuL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TE6JgK0CL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71u+HStg9JL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61e9-wEVI0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SlNWmI35L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DMFDLYCF",
+  "buyStore": "Amazon",
+  "title": "Soft Soles Foot Cream | Nourishes & Rehydrates | Softens Hard Skin | Foot Cream For dry and cracked Feet | Foot Care for Men and women - Pack of 2 (30g Each)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:kit",
+   "ing:jojoba",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Jojoba oil, Wheat germ oil, Bees wax",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fashion-kreza-b0fgd8z7kj",
+  "brand": "Fashion Kreza",
+  "model": "Dermazoen Instarepair Foot Cream For Softer, Smoother & Crack-Free Heels – Pack of 2",
+  "price": 440,
+  "capacityLine": "120 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹367/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lanolin high on the INCI list (moderate evidence); paraffinum liquidum high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Essential oil / volatile sensitiser: tea tree oil",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.2,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "60 g × 2 pack",
+   "pricePer100": "₹367/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "D M Water || Lanolin || Light Liquid Paraffin || Bees Wax || Glycerin || Shea Butter || Tea Tree Oil || Fragrance ||",
+   "evidenceActives": "lanolin (#2 on list, moderate evidence); paraffinum liquidum (#3 on list, moderate evidence); glycerin (#5 on list, strong evidence); shea butter (#6 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: tea tree oil (−0.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — melaleuca alternifolia leaf oil #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61USfRdSYNL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FGD8Z7KJ",
+  "buyStore": "Amazon",
+  "title": "Dermazoen Instarepair Foot Cream For Softer, Smoother & Crack-Free Heels – Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:kit",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "D M Water || Lanolin || Light Liquid Paraffin || Bees Wax || Glycerin || Shea Butter || Tea Tree Oil || Fragrance ||",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lanolin",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hyeon-store-b0fj79z54k",
+  "brand": "HYEON STORE",
+  "model": "HYEON Ankle Whitening Cream – 50gm | Lightens & Evens Unevenly Pigmented Feet | Skin Brigh…",
+  "price": 279,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹558/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹558/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim), Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61X6WVtqHdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81FTULi2sCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81B6UCQPUVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81oSBnQUUEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81rJ2JSDiPL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJ79Z54K",
+  "buyStore": "Amazon",
+  "title": "HYEON Ankle Whitening Cream – 50gm | Lightens & Evens Unevenly Pigmented Feet | Skin Brightening Foot Cream for Ankles & Toes",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:patch",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0g2yfc41y",
+  "brand": "Unbranded",
+  "model": "Green Milk Oliosmooth Ayurvedic Pedicure Balm | Crack Heel Repair Cream | Foot Cream for D…",
+  "price": 299,
+  "capacityLine": "50 g",
+  "materialLine": "Milk",
+  "featureLine": "Balm · ₹598/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹598/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Ayurvedic / herbal, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Mango Butter, Kokum Butter, Frankincense & Myrrh, Sesame Oil, Castor Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51s+BFOVQIL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61VTs+-NMML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61fxSuYpo5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/619vcL8NxiL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61F8OeBiusL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2YFC41Y",
+  "buyStore": "Amazon",
+  "title": "Green Milk Oliosmooth Ayurvedic Pedicure Balm | Crack Heel Repair Cream | Foot Cream for Dry and Cracked Feet | Deep Moisturizing Heel Repair Cream | Foot Crack Cream for Women | Dead Skin Remover Formula | 50g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:patch",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Mango Butter, Kokum Butter, Frankincense & Myrrh, Sesame Oil, Castor Oil",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.8,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nysa-b0h36bkvhb",
+  "brand": "Nysa",
+  "model": "Intensive Repair Foot Cream with Wheatgerm Oil for Cracked Heels & Dry Feet | Deep Moistur…",
+  "price": 140,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹280/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹280/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51acYSobvvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715xahQ3b5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61y870riGIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61eGvjSr0bL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714mroe9+uL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H36BKVHB",
+  "buyStore": "Amazon",
+  "title": "NYSA Intensive Repair Foot Cream with Wheatgerm Oil for Cracked Heels & Dry Feet | Deep Moisturizing Foot Care Cream | Soft Smooth Heels Repair Formula | Dermatologically Tested Foot Cream for Men & Women | 50g (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "free:derm",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h5f3qtwh",
+  "brand": "Unbranded",
+  "model": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben F…",
+  "price": 195,
+  "capacityLine": "30 ml",
+  "materialLine": "Lactic acid",
+  "featureLine": "Roll-on · Paraben-free · ₹650/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹650/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rNQSxaEdL._SL1042_.jpg",
+   "https://m.media-amazon.com/images/I/51FUzY1uUpL._SL1038_.jpg",
+   "https://m.media-amazon.com/images/I/51si+GjysPL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61QNpQvlqHL._SL1042_.jpg",
+   "https://m.media-amazon.com/images/I/611j8v6mIxL._SL1036_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5F3QTWH",
+  "buyStore": "Amazon",
+  "title": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben Free Foot Care Treatment for Corns Calluses Dry Rough Skin Deep Moisturizing (30 ml, Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:cream",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "free:paraben",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "4me-by-sankalpa-b0gz73tc97",
+  "brand": "4ME By Sankalpa",
+  "model": "Intensive Heel Care Cream – Botanical Foot Balm for Skin Renewal with Tulsi & Gotu Kola Ex…",
+  "price": 249,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm · ₹498/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹498/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41FSeWk6leL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61z6PjOxEVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51HfV1ERFAL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61OUNfIOJeL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51gq0-WJuuL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZ73TC97",
+  "buyStore": "Amazon",
+  "title": "Intensive Heel Care Cream – Botanical Foot Balm for Skin Renewal with Tulsi & Gotu Kola Extracts, 50g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "format:pack",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "claim:cracked-heels",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fexonxa-b0h1mbwfmf",
+  "brand": "FEXONXA",
+  "model": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Shea butter",
+  "featureLine": "Roll-on · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Shea butter, Vitamin E, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Wv+fVs4-L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1MBWFMF",
+  "buyStore": "Amazon",
+  "title": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet with 2% Lactic Acid, Olive Oil & Vitamin E – Moisturizing Foot Care Roll-On for Men & Women (C1)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gjcsp6qj",
+  "brand": "Unbranded",
+  "model": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Rem…",
+  "price": 109,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Drying alcohol high in the list: ethanol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 6.3,
+   "trust": 5.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, ethanol, lactic acid, urea, sodium laureth sulfate, triethanolamine, hydroxyethyl",
+   "evidenceActives": "lactic acid (#3 on list, strong evidence); urea (#4 on list, strong evidence)",
+   "safetyFlags": "Drying alcohol high in the list: ethanol (−1)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61tuSQcC-RL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61RnQVcnurL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/6197Ur1w9YL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61p+Lf5SfyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71BNs6AsFBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GJCSP6QJ",
+  "buyStore": "Amazon",
+  "title": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:patch",
+   "format:kit",
+   "format:foot-peel",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water, ethanol, lactic acid, urea, sodium laureth sulfate, triethanolamine, hydroxyethyl",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethanol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "moody-b0h7mq4yxg",
+  "brand": "Moody",
+  "model": "Peeling & Exfoliating Foot Peel Off Mask for Dry Feet | Foot Peeling Mask with Glycolic & …",
+  "price": 354,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Rice water, Centella / cica, Turmeric (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Soothing / calming, Exfoliating, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71+1mYNi+JL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61d42C-SKHL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Rj44kk6qL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61E774KwAJL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51Z67I6nqHL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H7MQ4YXG",
+  "buyStore": "Amazon",
+  "title": "Moody Peeling & Exfoliating Foot Peel Off Mask for Dry Feet | Foot Peeling Mask with Glycolic & Salicylic Acid | Removes Dead Skin, Softens Cracked Heels | Feet Socks for Smooth Skin",
+  "tags": [
+   "scope:both",
+   "format:peel-off",
+   "format:peel",
+   "format:patch",
+   "format:foot-peel",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:rice-water",
+   "ing:centella-cica",
+   "ing:turmeric",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:kids",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "luie-tek-liya-b0ff3b7fgn",
+  "brand": "LUIE TEK LIYA",
+  "model": "Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Call…",
+  "price": 179,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera + Papaya",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Papaya (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet, Painless / gentle (claim) (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: : Flower",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XRHOjkbZL._SL1144_.jpg",
+   "https://m.media-amazon.com/images/I/61MQYo1i+CL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61aWZSwT1iL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51zotMaDZeL._SL1088_.jpg",
+   "https://m.media-amazon.com/images/I/61VF1UzlfpL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FF3B7FGN",
+  "buyStore": "Amazon",
+  "title": "Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Calluses & Cracked Heels (levender foot mask)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:foot-peel",
+   "ing:aloe-vera",
+   "ing:papaya",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:painless",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": ": Flower",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "feblich-b0f7hpxysh",
+  "brand": "FEBLICH",
+  "model": "Foot Peel Mask For Dead Skin Removal Dry Cracked Callus Remover, Feet Spa Care Peel Massk …",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Milk + Lavender",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Milk, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pqWpZ-AQL._SL1250_.jpg",
+   "https://m.media-amazon.com/images/I/513-JDVqWOL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61g-Yzj+08L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71DgthRWsEL._SL1390_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F7HPXYSH",
+  "buyStore": "Amazon",
+  "title": "Foot Peel Mask For Dead Skin Removal Dry Cracked Callus Remover, Feet Spa Care Peel Massk With Lavender For Men And Women Feet Peeling Mask Exfoliating Dry & Dull Skin Reduces Pigmentation (Pack Of 2)",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:peel",
+   "format:kit",
+   "format:foot-peel",
+   "ing:niacinamide",
+   "ing:milk",
+   "ing:lavender",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "aud:kids",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "m-kaasa-b0hd7rxkcr",
+  "brand": "M.KAASA",
+  "model": "Peeling & Exfoliating Foot Peel off Mask (PACK OF 2) for Dry & Calloused Feet Removes Dead…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71aWC4xoHzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71AXYTvOPjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hZ1Uix2NL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Js0DObvHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zCsoCeL1L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HD7RXKCR",
+  "buyStore": "Amazon",
+  "title": "Peeling & Exfoliating Foot Peel off Mask (PACK OF 2) for Dry & Calloused Feet Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels Detox Foot Pads (BLUE PACK OF 2)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:pads",
+   "format:kit",
+   "format:foot-peel",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "redvant-b0g2z1396s",
+  "brand": "Redvant",
+  "model": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic …",
+  "price": 189,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Glycolic acid + Coconut",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Glycolic acid, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Korean / K-beauty (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51xPLY-DA-L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61s8rtDpttL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/71S0BSZcndL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61HYhwQL-EL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/519Hr2D-DRL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2Z1396S",
+  "buyStore": "Amazon",
+  "title": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, Cruelty-Free, Foot Peel Off Mask (Coconut Oil Hand Mask)",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:oil",
+   "format:peel-off",
+   "format:peel",
+   "format:foot-peel",
+   "ing:glycolic-acid",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:korean",
+   "free:vegan",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "purvish-b0gtlvnl64",
+  "brand": "Purvish",
+  "model": "Exfoliating Foot Peel Mask Lavender Fragrance for Dead Skin Removal and Cracked Heels | De…",
+  "price": 192,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Lavender",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: aloe vera, amino acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81xoGJR0g6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71UtpQ0-dyL._SL1181_.jpg",
+   "https://m.media-amazon.com/images/I/71FojsXw0ML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81cp71z6maL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61T5h7is7yL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTLVNL64",
+  "buyStore": "Amazon",
+  "title": "Exfoliating Foot Peel Mask Lavender Fragrance for Dead Skin Removal and Cracked Heels | Deep Moisturizing Baby Soft Smooth Feet Spa Care for Men Women Pack of 1",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:essence",
+   "format:peel",
+   "format:pads",
+   "format:wash",
+   "format:kit",
+   "format:foot-peel",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "aud:kids",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "aloe vera, amino acid",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "heonay-b0h3fg97ty",
+  "brand": "HEONAY",
+  "model": "Lavender Foot Peel Mask for Dead Skin Removal | Peeling & Exfoliating Foot Mask Socks | Re…",
+  "price": 179,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coconut + Lavender",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coconut, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Ms9QNwmhL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61eD4C6PtfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+Dg+mv53L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51QQeiHb6mL._SL1250_.jpg",
+   "https://m.media-amazon.com/images/I/61eyJ4FLTkL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3FG97TY",
+  "buyStore": "Amazon",
+  "title": "Lavender Foot Peel Mask for Dead Skin Removal | Peeling & Exfoliating Foot Mask Socks | Removes Dry, Cracked & Callused Skin | Moisturizing, Hydrating & Nourishing Foot Care Treatment for Men & Women (Lavender Foot Peeling Mask)",
+  "tags": [
+   "scope:body",
+   "format:peel",
+   "format:patch",
+   "format:foot-peel",
+   "ing:coconut",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:all",
+   "aud:women",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "homoeo-cart-b0h1wxwlpf",
+  "brand": "Homoeo CART",
+  "model": "Lord's Pediclean Deep Moisturizing Foot Cream, Softens Rough Feet, Exfoliates Dead Skin, 5…",
+  "price": 260,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Aloe vera + Glycerin",
+  "featureLine": "Scrub · ₹260/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹260/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31RXvbKL+AL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1WXWLPF",
+  "buyStore": "Amazon",
+  "title": "Homoeo CART Lord's Pediclean Deep Moisturizing Foot Cream, Softens Rough Feet, Exfoliates Dead Skin, 50g PACK OF 2",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mayasons-b0h8sh8vcm",
+  "brand": "MAYASONS",
+  "model": "Natural Terracotta Foot Scrubber for Dead Skin Removal | Handmade Clay Foot Scrub Stone | …",
+  "price": 99,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Clay",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Clay (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating, Lightweight / fast-absorbing, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61JXXCQTrPL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71rV4gsXnjL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/613Xi7oV9iL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Tu1kB3QSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/618pC5xMUML._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8SH8VCM",
+  "buyStore": "Amazon",
+  "title": "Natural Terracotta Foot Scrubber for Dead Skin Removal | Handmade Clay Foot Scrub Stone | Pedicure Foot Cleaner | Removes Callus & Rough Skin | Reusable | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:clay-mask",
+   "format:scrub",
+   "format:kit",
+   "ing:clay",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vrinda-naturals-b0hf7sfbv9",
+  "brand": "VRINDA NATURALS",
+  "model": "Epsom Salt 1KG | 100% Pure Magnesium Sulphate | Bath Salt & Foot Soak Salt | Relaxation an…",
+  "price": 140,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Magnesium + Sea salt",
+  "featureLine": "Other · Fragrance-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Magnesium, Sea salt (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Odour control / freshness, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71T7WH3id2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rmJo+lxML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81MTnw5c9eL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81WwO10MsVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81329pwat9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF7SFBV9",
+  "buyStore": "Amazon",
+  "title": "Epsom Salt 1KG | 100% Pure Magnesium Sulphate | Bath Salt & Foot Soak Salt | Relaxation and Self Care",
+  "tags": [
+   "scope:body",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "claim:soothing",
+   "claim:odour",
+   "claim:cracked-heels",
+   "free:fragrance",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rosevex-b0gwjbg938",
+  "brand": "ROSEVEX",
+  "model": "Anti Paronychia Relief Oil 10ml | Natural Nail & Cuticle Care Oil for Redness, Swelling & …",
+  "price": 249,
+  "capacityLine": "10 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹2490/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹2490/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61FSi99w3AL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jFY2DII1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61x2MDMobAL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWJBG938",
+  "buyStore": "Amazon",
+  "title": "Anti Paronychia Relief Oil 10ml | Natural Nail & Cuticle Care Oil for Redness, Swelling & Nail Discomfort | Fast Absorbing Formula",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "covoxo-b0hhmvd11m",
+  "brand": "COVOXO",
+  "model": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and …",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61LfI9TsOBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/614PyyVSyLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61byX5n7NXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+nw+O9V1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Owg+6sSML._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHMVD11M",
+  "buyStore": "Amazon",
+  "title": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and Strengthener Cuticle Oil for Hands, Feet & Toes, Strengthening Oils Treatment for Brittle Nail",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
   "id": "earth-rhythm-b0clb4jbgp",
   "brand": "Earth Rhythm",
   "model": "Softening Hand Cream, Locks Moisture with Ceramides, Fast Absorbing, No Silicones - Ocean …",
@@ -177856,6 +181081,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -177863,6 +181089,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -177870,6 +181097,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -177877,6 +181105,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -197579,6 +200808,3095 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "glamveda-b08svvbc8z",
+  "brand": "Glamveda",
+  "model": "Hand & Foot Cream for Dry Hands & Cracked Heels | Deep Moisturizing & Repair Cream for Rou…",
+  "price": 125,
+  "capacityLine": "100 g",
+  "materialLine": "Aloe vera + Almond + Lavender",
+  "featureLine": "Cream · ₹125/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹125/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Almond, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Almond oil & Aloevera",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61UL3O3LHQL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/614aDhQjanL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61A21Sol8fL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61jxKwKX0oL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61hdmkzok7L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08SVVBC8Z",
+  "buyStore": "Amazon",
+  "title": "Glamveda Hand & Foot Cream for Dry Hands & Cracked Heels | Deep Moisturizing & Repair Cream for Rough Skin | Nourishing Hand & Heel Care Cream for Soft, Smooth & Hydrated Skin | For Men & Women | 100g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:lavender",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Almond oil & Aloevera",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "teenilicious-b0bgc56y5s",
+  "brand": "Teenilicious",
+  "model": "Hand Cream for Women with Avocado Oil & Vanilla | Winter Moisturizing Cream for Dry and Ro…",
+  "price": 244,
+  "capacityLine": "60 g",
+  "materialLine": "Shea butter + Avocado",
+  "featureLine": "Oil · ₹407/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹407/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Avocado (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Barrier repair, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Avocado Oil and Vanilla",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61GzgXYlQBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61aYPkxSnfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51mg1RT6jhL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51VFqpwugoL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/41+leXhvDEL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BGC56Y5S",
+  "buyStore": "Amazon",
+  "title": "Teenilicious Hand Cream for Women with Avocado Oil & Vanilla | Winter Moisturizing Cream for Dry and Rough Hands | Vegan | Free from Alcohol, Silicones, Paraben & Sulphates | All Skin Type | 60gm",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:avocado",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "skin:dry",
+   "skin:all",
+   "free:non-comedogenic",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Avocado Oil and Vanilla",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "boghani-gems-b0gx6dc3ql",
+  "brand": "Boghani Gems",
+  "model": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Trea…",
+  "price": 220,
+  "capacityLine": "40 g",
+  "materialLine": "Urea + Aloe vera + Shea butter",
+  "featureLine": "Stick · ₹550/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹550/100g",
+   "format": "Stick",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Urea, Aloe vera, Shea butter, Vitamin E, Coconut, Avocado (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61X7NzydnlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61NIS0JyrIL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71Fey32eqgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/616SjNdA4ZL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61HZrsJEQ2L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX6DC3QL",
+  "buyStore": "Amazon",
+  "title": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment with Shea Butter & Coconut Oil, Moisturizes and Hydrates the Dry & Dead Skin- Peach Scent 40g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "ing:urea",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:avocado",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "furr-b0gtlgp2nf",
+  "brand": "FURR",
+  "model": "30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Gly…",
+  "price": 299,
+  "capacityLine": "50 ml",
+  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
+  "featureLine": "Roll-on · ₹598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹598/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Urea, Lactic Acid, Glycolic Acid, Salicylic Acid, Olive Oil, Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Ke64N-wyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71awx1k4-LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lare1g33L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qHdds95zL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71n+3noCbKL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTLGP2NF",
+  "buyStore": "Amazon",
+  "title": "FURR 30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Glycolic Acid, Salicylic Acid | Repairs, Hydrates, Softens | For Sensitive Skin",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Urea, Lactic Acid, Glycolic Acid, Salicylic Acid, Olive Oil, Vitamin E",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lunaris-b0g2h64698",
+  "brand": "Lunaris",
+  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
+  "price": 199,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹398/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹398/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71+8GwFx6BL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Qvpthxd9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81VfycrnbdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ChvPROcoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wXm6AOcoL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
+  "buyStore": "Amazon",
+  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:kids",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "comytricks-b0hg149y7v",
+  "brand": "COMYTRICKS",
+  "model": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Ro…",
+  "price": 249,
+  "capacityLine": "50 ml",
+  "materialLine": "Tea tree + Aloe vera",
+  "featureLine": "Roll-on · ₹498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹498/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51O92dM8brL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71keVQ5GtWL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71av9bBKliL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71iosYHxxjL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/716BzAN2JdL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG149Y7V",
+  "buyStore": "Amazon",
+  "title": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & Hard Feet | Softens Corns & Calluses | Easy Roll-On Application | Daily Foot Care | 50ml (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:roll-on",
+   "format:kit",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "aaranyaa-b00fsbwp4u",
+  "brand": "aaranyaa",
+  "model": "17% Urea Natural Foot Cream for Cracked Heels 100g - Repair Dry Hard Soles | Clove Oil & B…",
+  "price": 253,
+  "capacityLine": "100 g",
+  "materialLine": "Urea",
+  "featureLine": "Oil · Paraben-free · ₹253/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹253/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Urea (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, 24h / 48h / 72h, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Clove Oil. Shea Butter. Urea. Neem. Turmeric Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71gpJok+WfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715cFkPjLIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zRTwL-UbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71r0b2lee7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61g1xBwfd8L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00FSBWP4U",
+  "buyStore": "Amazon",
+  "title": "Aaranyaa 17% Urea Natural Foot Cream for Cracked Heels 100g - Repair Dry Hard Soles | Clove Oil & Beeswax | Softens Calluses | Lightweight - Water Based | Non- Greasy | Paraben Free| All Skin Type | Men & Women",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:patch",
+   "format:foot-peel",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Clove Oil. Shea Butter. Urea. Neem. Turmeric Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "khadi-b0df7pptcy",
+  "brand": "Khadi",
+  "model": "Herbal Foot Care Cream Repairs Cracked Heel | Crack Heel Repair Cream For Women & Men",
+  "price": 140,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Barrier repair, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61X0lkHmQ6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Kdi72XweL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/519Hfw+miUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61a-QmtQlxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61NPap0LmFL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DF7PPTCY",
+  "buyStore": "Amazon",
+  "title": "Khadi Herbal Foot Care Cream Repairs Cracked Heel | Crack Heel Repair Cream For Women & Men",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:barrier",
+   "claim:ayurvedic",
+   "claim:cracked-heels",
+   "aud:women",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Khadi Natural Healthcare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://khadinatural.com/"
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vlcc-clinic-b0d1gjsb66",
+  "brand": "VLCC Clinic",
+  "model": "Heel Repair Cream - 100g | Exfoliating and Moisturizing Foot and Heel Cream | Softer, Supp…",
+  "price": 474,
+  "capacityLine": "100 g",
+  "materialLine": "Shea butter + Vitamin E",
+  "featureLine": "Scrub · ₹474/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹474/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: • Shea Butter: moisturizing, prevents dryness • Vitamin E: hydrating, smoothens skin • Glycerine: softening, hydrating, moisturizing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51qqDJi6UAL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61jQo9ICWqL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/618yjwUhiQL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61djcFyzsKL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51Il6uc19lL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D1GJSB66",
+  "buyStore": "Amazon",
+  "title": "VLCC Clinic Heel Repair Cream - 100g | Exfoliating and Moisturizing Foot and Heel Cream | Softer, Supple, Smoother Feet | Dermatologically Tested | Hydrating Cream for Dry and Cracked Heels",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:all",
+   "free:derm",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "• Shea Butter: moisturizing, prevents dryness • Vitamin E: hydrating, smoothens skin • Glycerine: softening, hydrating, moisturizing",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.29,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "k2p-professional-b0gs9rspq3",
+  "brand": "K2P PROFESSIONAL",
+  "model": "K2P HEALME Crack Healiso Foot Cream for Cracked Heels | Deep Moisturizing Heel Repair with…",
+  "price": 225,
+  "capacityLine": "50 g",
+  "materialLine": "Vitamin E + Olive",
+  "featureLine": "Oil · ₹450/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹450/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TLuucLgBL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/710jIWdq6sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lNMcr8qrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+SMsXYnKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61GxFbah-TL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GS9RSPQ3",
+  "buyStore": "Amazon",
+  "title": "K2P HEALME Crack Healiso Foot Cream for Cracked Heels | Deep Moisturizing Heel Repair with Olive Oil & Vitamin E | Soft & Smooth Feet Care | Dry, Rough Heel Treatment | 50g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "baboski-b0f7yb24ks",
+  "brand": "Baboski",
+  "model": "Peony Thyme Hand Cream, 30g, Moisturising Formula with Alpha-Arbutin and Jojoba Oil | Peon…",
+  "price": 289,
+  "capacityLine": "30 g",
+  "materialLine": "Alpha arbutin + Sandalwood + Jojoba",
+  "featureLine": "Oil · ₹963/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹963/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Alpha arbutin, Sandalwood, Jojoba (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Glycerine, Isopropyl Myristate, Aloe Barbadensis Leaf Extract, Propylene Glycol, PEG-100 Stearate, Glyceryl Stearate, Silica, Hydroxyethyl Urea, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Phenoxyethanol, Ethylhexylglycerin, Polyacrylamide, C13-14 Isoparaffin, Laureth-7, Fragrance, CI 77891, Cetyl Alcohol, Mangifera Indica (Mango) Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Xylitylglucoside, Anhydroxylitol, Xylitol, Alpha-Arbutin, Polysorbate 80, Resveratrol, Dextrin, Tocopheryl Acetate, Butylated Hydroxytoluene, Linoleic Acid, Linolenic Acid, Disodium Ethylenediaminetetraacetate",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); dimethicone (#10 on list, moderate evidence); tocopheryl acetate (#29 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bdyGQli6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81zUx0NEesL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81nXq-Ubp-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61YqKq98Z6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71z1CrduvnL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F7YB24KS",
+  "buyStore": "Amazon",
+  "title": "Peony Thyme Hand Cream, 30g, Moisturising Formula with Alpha-Arbutin and Jojoba Oil | Peony, Thyme, Lime and Sandalwood | For Dry & Rough Hand | Intense Moisturization | Non Greasy | Fast Absorbing | For Men & Women",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:alpha-arbutin",
+   "ing:sandalwood",
+   "ing:jojoba",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Glycerine, Isopropyl Myristate, Aloe Barbadensis Leaf Extract, Propylene Glycol, PEG-100 Stearate, Glyceryl Stearate, Silica, Hydroxyethyl Urea, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Cyclopentasiloxane, Dimethicone/Vinyl Dimethicone Crosspolymer, Phenoxyethanol, Ethylhexylglycerin, Polyacrylamide, C13-14 Isoparaffin, Laureth-7, Fragrance, CI 77891, Cetyl Alcohol, Mangifera Indica (Mango) Seed Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Xylitylglucoside, Anhydroxylitol, Xylitol, Alpha-Arbutin, Polysorbate 80, Resveratrol, Dextrin, Tocopheryl Acetate, Butylated Hydroxytoluene, Linoleic Acid, Linolenic Acid, Disodium Ethylenediaminetetraacetate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "alpha-arbutin",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "resveratrol",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "adbhutanand-b0fj8qfgcq",
+  "brand": "ADBHUTANAND",
+  "model": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream fo…",
+  "price": 179,
+  "capacityLine": "40 g",
+  "materialLine": "Urea + Shea butter + Vitamin E",
+  "featureLine": "Foot peel mask · ₹448/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹448/100g",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Urea, Shea butter, Vitamin E, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Odour control / freshness, Cracked heels / rough feet, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Liquid Paraffin Mineral Grease Ground Wax Ethyl Hexyl Palmitate Essence (Peach) CI 4700 Butylhydroxytoluene",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613dPLU9IlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61goHf65OKL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJ8QFGCQ",
+  "buyStore": "Amazon",
+  "title": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream for Dead Skin Removal Callus Remover | Heel Repair Stick deeply moisturizes and softens feet",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "format:peel",
+   "format:roll-on",
+   "format:foot-peel",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:odour",
+   "claim:cracked-heels",
+   "claim:overnight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Liquid Paraffin Mineral Grease Ground Wax Ethyl Hexyl Palmitate Essence (Peach) CI 4700 Butylhydroxytoluene",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "4me-by-sankalpa-b0gz77bl27",
+  "brand": "4ME By Sankalpa",
+  "model": "Herbal Cracked Heel Treatment Balm – With Gotu Kola, Tulsi & Manjistha for Soft, Healthy F…",
+  "price": 249,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm · ₹498/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹498/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Ayurvedic / herbal, Cracked heels / rough feet, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41FSeWk6leL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61z6PjOxEVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51HfV1ERFAL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61OUNfIOJeL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51gq0-WJuuL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZ77BL27",
+  "buyStore": "Amazon",
+  "title": "Herbal Cracked Heel Treatment Balm – With Gotu Kola, Tulsi & Manjistha for Soft, Healthy Feet, 50g",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:ayurvedic",
+   "claim:cracked-heels",
+   "claim:overnight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rateji-b0hcpnrv8b",
+  "brand": "RATEJI",
+  "model": "Goat Milk Nicotinamide Exfoliating Foot Peel Mask Socks for Dry & Dead Skin Removal | Mois…",
+  "price": 99,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Milk",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Y60PRUGoL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCPNRV8B",
+  "buyStore": "Amazon",
+  "title": "Goat Milk Nicotinamide Exfoliating Foot Peel Mask Socks for Dry & Dead Skin Removal | Moisturizing Heel Repair | Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:peel",
+   "format:patch",
+   "format:kit",
+   "format:foot-peel",
+   "ing:niacinamide",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bysea-b0hdzj1dsm",
+  "brand": "BYSEA",
+  "model": "Softening Coconut Oil Foot Mask for Dry & Rough Feet | Moisturizing Foot Peel Mask with Co…",
+  "price": 599,
+  "capacityLine": "40 ml",
+  "materialLine": "Vitamin E + Coconut",
+  "featureLine": "Foot peel mask · ₹1498/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹1498/100ml",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+w1SIIDXL._SL1333_.jpg",
+   "https://m.media-amazon.com/images/I/71H8i7BITpL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/716qyQKE95L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71t3twSWI7L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71T9l0TDajL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDZJ1DSM",
+  "buyStore": "Amazon",
+  "title": "Softening Coconut Oil Foot Mask for Dry & Rough Feet | Moisturizing Foot Peel Mask with Coconut Oil & Vitamin E | Exfoliating & Nourishing Foot Care | 40ml Pair",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:pack",
+   "format:peel",
+   "format:patch",
+   "format:foot-peel",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tekvora-b0gy9g295q",
+  "brand": "TEKVORA",
+  "model": "Goat Milk Foot Mask for Dry Feet Care | Moisturizing and Exfoliating Foot Care Socks for S…",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Milk",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71RikaBPrTL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY9G295Q",
+  "buyStore": "Amazon",
+  "title": "Goat Milk Foot Mask for Dry Feet Care | Moisturizing and Exfoliating Foot Care Socks for Smooth Skin",
+  "tags": [
+   "scope:body",
+   "format:foot-peel",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tekvora-b0gyd7yjdk",
+  "brand": "TEKVORA",
+  "model": "Coconut Oil Foot Peeling Mask for Foot Care | Exfoliating Foot Mask for Smooth and Soft Fe…",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coconut",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61XQrFozv7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/612aU83jCNL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYD7YJDK",
+  "buyStore": "Amazon",
+  "title": "Coconut Oil Foot Peeling Mask for Foot Care | Exfoliating Foot Mask for Smooth and Soft Feet",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:peel",
+   "format:foot-peel",
+   "ing:coconut",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "velista-b0gsgzsnsw",
+  "brand": "VELISTA",
+  "model": "Foot Peel Mask | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin &…",
+  "price": 189,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Drying alcohol high in the list: ethanol",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 6.3,
+   "trust": 5.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, ethanol, lactic acid, urea, sodium laureth sulfate, triethanolamine, hydroxyethyl",
+   "evidenceActives": "lactic acid (#3 on list, strong evidence); urea (#4 on list, strong evidence)",
+   "safetyFlags": "Drying alcohol high in the list: ethanol (−1)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61D5jyU7IQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61uVhoDbNwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Mq7vyKQ3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nh6kJ0jBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61OA4fNjy9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GSGZSNSW",
+  "buyStore": "Amazon",
+  "title": "Velista Foot Peel Mask | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:patch",
+   "format:kit",
+   "format:foot-peel",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "rating:4.5",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water, ethanol, lactic acid, urea, sodium laureth sulfate, triethanolamine, hydroxyethyl",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    }
+   ],
+   "support": [
+    "urea"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "ethanol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fgdbvsd5",
+  "brand": "Unbranded",
+  "model": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic …",
+  "price": 109,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Glycolic acid",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Glycolic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Korean / K-beauty, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lavender",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TFYa0gIeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61CUZgypoxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61aA3Nvi3pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61iiYeTfeXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715KC4ITG+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FGDBVSD5",
+  "buyStore": "Amazon",
+  "title": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, Cruelty-Free, Foot Peel Off Mask",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:foot-peel",
+   "ing:glycolic-acid",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:korean",
+   "claim:cracked-heels",
+   "skin:all",
+   "free:vegan",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Lavender",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "azcona-b0gy48y1n3",
+  "brand": "Azcona",
+  "model": "Foot Peel Mask for Dead Skin Removal | Dry Cracked Callus Remover | Foot Hydrating Sock Pe…",
+  "price": 279,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71vkLkv9OwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ARh9VeqrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81h84SugmDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Lcqm2EboL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SUV56JnqL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY48Y1N3",
+  "buyStore": "Amazon",
+  "title": "Azcona Foot Peel Mask for Dead Skin Removal | Dry Cracked Callus Remover | Foot Hydrating Sock Pedicure Essential | Make Your Feet Baby Soft, Repair Rough Heels - Aloe vera (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:oil",
+   "format:peel",
+   "format:kit",
+   "format:foot-peel",
+   "ing:aloe-vera",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "aud:kids",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wagspin-b0hdc6t2t7",
+  "brand": "WAGSPIN",
+  "model": "Hand & Foot Moisturizing Cream – Fast Absorbing Daily Skin Care Cream for Hands & Feet, Li…",
+  "price": 479,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71FKbEiA6CL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71bWQDOdc2L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71gz8tYZV-L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Vth5vQxfL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71oi0L06bUL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDC6T2T7",
+  "buyStore": "Amazon",
+  "title": "Hand & Foot Moisturizing Cream – Fast Absorbing Daily Skin Care Cream for Hands & Feet, Lightweight Hydrating Formula for Soft & Smooth Skin Feel",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "abh-b0fd3kfbj4",
+  "brand": "ABH",
+  "model": "Icy Cool Hand & Foot Scrub – 500g – Exfoliating & Refreshing Scrub for Pedicure & Manicure…",
+  "price": 270,
+  "capacityLine": "500 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹54/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "500 g",
+   "pricePer100": "₹54/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71UQwCB8krL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FD3KFBJ4",
+  "buyStore": "Amazon",
+  "title": "ABH Icy Cool Hand & Foot Scrub – 500g – Exfoliating & Refreshing Scrub for Pedicure & Manicure – Removes Dead Skin & Softens Hands and Feet – Spa & Salon Use",
+  "tags": [
+   "scope:body",
+   "format:pack",
+   "format:scrub",
+   "format:patch",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "herbal-town-b0grh1fyb3",
+  "brand": "Herbal Town",
+  "model": "Epsom Salt for Foot Soak & Bath | Helps Pain Relief & Muscle Recovery | For Refreshing Sho…",
+  "price": 272,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Magnesium + Sea salt",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Magnesium, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Exfoliating, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Epsom Salt (Magnesium Sulphate Crystals)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/715zXkg2nxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81-o90ZWQtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91mO3O0aUqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81fIotLT79L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7131FWoJw4L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRH1FYB3",
+  "buyStore": "Amazon",
+  "title": "Epsom Salt for Foot Soak & Bath | Helps Pain Relief & Muscle Recovery | For Refreshing Shower & Relaxing Body | Pure Magnesium Sulphate (1.4 KG)",
+  "tags": [
+   "scope:body",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Epsom Salt (Magnesium Sulphate Crystals)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "oxeema-o2-green-organics-b0gplnfyqs",
+  "brand": "OXEEMA O2 GREEN ORGANICS",
+  "model": "O2 Green Organics Crystal Shok Rose Méni & Padí Spa Foot Soak Salt with Aloe Vera & Rose E…",
+  "price": 255,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera + Rose",
+  "featureLine": "Gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Gel",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51WFYFM2G2L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61F2GCG85qL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61rOcJpOXlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61l3xbAUObL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/615hOTqbWOL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPLNFYQS",
+  "buyStore": "Amazon",
+  "title": "O2 Green Organics Crystal Shok Rose Méni & Padí Spa Foot Soak Salt with Aloe Vera & Rose Extract, Removes Dead Skin (Crystal Salt Step-1)",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:pads",
+   "ing:aloe-vera",
+   "ing:rose",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kresal-b0hh6rt9kl",
+  "brand": "Kresal",
+  "model": "Foot Soaking Tub for Adults, Foldable Foot Bath Basin with Massage Bottom, Portable Water …",
+  "price": 799,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Barrier repair (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: 1 x Foldable Foot Spa Tub",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61PRmAIyEjL._SL1089_.jpg",
+   "https://m.media-amazon.com/images/I/718zgoyU18L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-ciEQUFwL._SL1396_.jpg",
+   "https://m.media-amazon.com/images/I/71UVGmCl-eL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61QwGYEs7nL._SL1115_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH6RT9KL",
+  "buyStore": "Amazon",
+  "title": "Kresal Foot Soaking Tub for Adults, Foldable Foot Bath Basin with Massage Bottom, Portable Water Soak Container for Home Relaxation",
+  "tags": [
+   "scope:body",
+   "claim:barrier",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "1 x Foldable Foot Spa Tub",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "super-nail-b000aa5vz4",
+  "brand": "Super Nail",
+  "model": "Cuticle Oil, 4 oz.",
+  "price": 892,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61x+zRwXzPL._SL1320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B000AA5VZ4",
+  "buyStore": "Amazon",
+  "title": "Super Nail Cuticle Oil, 4 oz.",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "epovy-b0hf48fymn",
+  "brand": "EPOVY",
+  "model": "Nail Strengthening Treatment for Dry, Weak & Fragile Nails, 15ml Hydrating Cuticle Repair …",
+  "price": 299,
+  "capacityLine": "15 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹1993/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1993/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51vrVAyy+6L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61C2BBP3KFL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61cafqFxH3L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51RQjAtllaL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61ZcAsvO8yL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF48FYMN",
+  "buyStore": "Amazon",
+  "title": "Nail Strengthening Treatment for Dry, Weak & Fragile Nails, 15ml Hydrating Cuticle Repair Oil, Deep Nourishing Nail & Cuticle Care, Promotes Healthy-Looking Nails, Pack of 1",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:pack",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sumly-b0h4fzwqjc",
+  "brand": "SUMLY",
+  "model": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and …",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61NrAew3CwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hNkVeWvML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61xubvKyfUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61SN6mKoRhL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61SAfA8KLyL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4FZWQJC",
+  "buyStore": "Amazon",
+  "title": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and Strengthener Cuticle Oil for Hands, Feet & Toes, Strengthening Oils Treatment for Brittle Nail",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:hydrating",
+   "claim:lightweight",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
   "id": "natureorama-b0grn2s3cn",
   "brand": "NATUREORAMA",
   "model": "Crackaid Ayurvedic Herbal Foot & Skin Cream | Intensive Moisturizing Formula for Dry, Roug…",
@@ -198427,6 +204745,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -198434,6 +204753,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -198441,6 +204761,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -198448,6 +204769,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -198455,6 +204777,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -198462,6 +204785,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -198537,7 +204861,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#15 on list, moderate evidence); tocopheryl acetate (#20 on list, moderate evidence); ceramide np (#25 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — ceramide eos #23 on INCI, ceramide ns #24 on INCI, ceramide np #25 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41CDXFjOwIL._SL1100_.jpg",
@@ -198565,6 +204890,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -198597,6 +204923,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -198604,6 +204931,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -198611,6 +204939,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -198618,6 +204947,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -198625,6 +204955,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -198632,6 +204963,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -198639,6 +204971,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     }
    ],
@@ -198909,7 +205242,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b006ueoq5k",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Shea Butter Hand Cream: Nourishes Very Dry Hands | Protects Skin | With 20% Organic Shea B…",
   "price": 3000,
   "capacityLine": "Quantity not stated",
@@ -201901,6 +208234,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -201908,6 +208242,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -201915,6 +208250,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -201922,6 +208258,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -201929,6 +208266,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -201936,6 +208274,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -201943,6 +208282,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -204708,6 +211048,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -204715,6 +211056,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -204722,6 +211064,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -204729,6 +211072,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -204736,6 +211080,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -217493,6 +223838,3218 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "utkrisht-b0gs9g85q1",
+  "brand": "Utkrisht",
+  "model": "Pure Epsom Salt for Bath Soak & Foot Soak | Magnesium Sulfate Crystals for Muscle Relaxati…",
+  "price": 155,
+  "capacityLine": "500 g",
+  "materialLine": "Magnesium + Sea salt",
+  "featureLine": "Scrub · ₹31/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "500 g",
+   "pricePer100": "₹31/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Magnesium, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: epsom salt. 100% Pure Epsom Salt (Magnesium Sulphate USP)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61A0PfghtIL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71bAGGiQHhL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/616aXfbCwmL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/611gLH080tL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71JDh1UDWtL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GS9G85Q1",
+  "buyStore": "Amazon",
+  "title": "Pure Epsom Salt for Bath Soak & Foot Soak | Magnesium Sulfate Crystals for Muscle Relaxation, Body Detox & Skin Care (Epsom Salt- 500GM)",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "claim:soothing",
+   "claim:cooling",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "epsom salt. 100% Pure Epsom Salt (Magnesium Sulphate USP)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kimirica-b09s6n1vyb",
+  "brand": "Kimirica",
+  "model": "Love Story Gardenia & Night Blooming Jasmine Hand cream | Moisturizing Nourishing Hand Cre…",
+  "price": 261,
+  "capacityLine": "30 ml",
+  "materialLine": "Almond + Shea butter + Vitamin E",
+  "featureLine": "Cream · Silicone-free · ₹870/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹870/100ml",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Almond, Shea butter, Vitamin E, Vitamin B5 / panthenol, Argan oil, Coconut (named on listing)",
+   "freeFrom": "Silicone-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Tucuma Butter, Shea Butter,Coconut Oil,Sweet Almond Oil,Argan Oil,Vitamin E,Pro-Vitamin B5",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51HUX892w8L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51vsIeDns-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61smCaPpHCL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61xd5fO0NxL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61BJIVKdOAL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09S6N1VYB",
+  "buyStore": "Amazon",
+  "title": "Kimirica Love Story Gardenia & Night Blooming Jasmine Hand cream | Moisturizing Nourishing Hand Cream for Men and Women | Gift Pack Hand Cream | 30ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:pack",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:vitamin-b5-panthenol",
+   "ing:argan-oil",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:silicone",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Tucuma Butter, Shea Butter,Coconut Oil,Sweet Almond Oil,Argan Oil,Vitamin E,Pro-Vitamin B5",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "inatur-b0cvn36f1k",
+  "brand": "inatur",
+  "model": "Shea Butter Hand Cream 50g – For Dry & Rough Hands | Nourishing & Brightening | Softens Sk…",
+  "price": 233,
+  "capacityLine": "50 g",
+  "materialLine": "Hyaluronic acid + Almond + Shea butter",
+  "featureLine": "Body butter · ₹466/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹466/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Hyaluronic acid, Almond, Shea butter, Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter, Almond Oil, Vitamin E Acetate, Hyaluronic",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Fpx+lHBbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81MHS9TohFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71r4SWR6nHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81LxZ9Y2OjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jdnLbEqFL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CVN36F1K",
+  "buyStore": "Amazon",
+  "title": "inatur Shea Butter Hand Cream 50g – For Dry & Rough Hands | Nourishing & Brightening | Softens Skin, Nails & Cuticles | Non-Greasy & Lightweight Formula | Vegan & Natural | For Men & Women",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter, Almond Oil, Vitamin E Acetate, Hyaluronic",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "l-occitane-b00hraxx7i",
+  "brand": "L'OCCITANE",
+  "model": "Shea Butter Delightful Rose Hand Cream, 30ml (packaging may vary)",
+  "price": 945,
+  "capacityLine": "30 ml",
+  "materialLine": "Rose + Shea butter",
+  "featureLine": "Body butter · ₹3150/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3150/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose, Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: shea butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41-FXc46x2L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/31c406t-y8L._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00HRAXX7I",
+  "buyStore": "Amazon",
+  "title": "L'Occitane Shea Butter Delightful Rose Hand Cream, 30ml (packaging may vary)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "format:kit",
+   "ing:rose",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "shea butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "khadi-natural-b00f8aqxey",
+  "brand": "Khadi Natural",
+  "model": "Jasmine and Green Tea Herbal Foot Crack Cream| For Cracked Heels|Moisturizes dry feet | An…",
+  "price": 291,
+  "capacityLine": "100 g",
+  "materialLine": "Green tea + Shea butter",
+  "featureLine": "Cream · ₹291/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: jasminum officinale oil, citrus aurantifolia oil"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 8.1,
+   "trust": 7,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹291/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Green tea, Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Jasminum officinale(Jasmine) oil, Citrus aurantifolia(Lime) oil,Citrus bergamia(Bergamot) oil,Camellia sinensis (Green Tea) oil, Beeswax, Shea butter, Olive oil, Almond oil, Triticum vulgare(Wheat Germ) oil, Myristica oil,Curcuma longa (turmeric), Water, Isopropyl myristate",
+   "evidenceActives": "shea butter (#6 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: jasminum officinale oil, citrus aurantifolia oil (−1)",
+   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51MO8PccYDL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51SShqEooXL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51L-DfFw+KL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51hTLBU6+tL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00F8AQXEY",
+  "buyStore": "Amazon",
+  "title": "Khadi Natural Jasmine and Green Tea Herbal Foot Crack Cream| For Cracked Heels|Moisturizes dry feet | Antiseptic Properties that treat foot problems| 100 g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "ing:green-tea",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:all",
+   "free:derm",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Jasminum officinale(Jasmine) oil, Citrus aurantifolia(Lime) oil,Citrus bergamia(Bergamot) oil,Camellia sinensis (Green Tea) oil, Beeswax, Shea butter, Olive oil, Almond oil, Triticum vulgare(Wheat Germ) oil, Myristica oil,Curcuma longa (turmeric), Water, Isopropyl myristate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "jasminum officinale oil",
+      "citrus aurantifolia oil"
+     ],
+     "penalty": 1,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Khadi Natural Healthcare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://khadinatural.com/"
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rudramani-b0byx97z9v",
+  "brand": "Rudramani",
+  "model": "Foot Cream For Rough,Dry and cracked Heel, Feet Cream For Heel Repair With Benefits of Ayu…",
+  "price": 220,
+  "capacityLine": "50 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹440/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "25 g × 2 pack",
+   "pricePer100": "₹440/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: kuvar,Suryamukhi oil,Vetas,Suddha Gandhak,Morthuthu,Tankan,Neem Oil,Karanj Oil,Jelly",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/91PmVaF5UlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91-TYDuA7tL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BYX97Z9V",
+  "buyStore": "Amazon",
+  "title": "RUDRAMANI Foot Cream For Rough,Dry and cracked Heel, Feet Cream For Heel Repair With Benefits of Ayurvedic ingredients 25gm/pis (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "kuvar,Suryamukhi oil,Vetas,Suddha Gandhak,Morthuthu,Tankan,Neem Oil,Karanj Oil,Jelly",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.33,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "quiqshipp-b0grwjth6g",
+  "brand": "QUIQSHIPP",
+  "model": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oi…",
+  "price": 189,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Shea butter",
+  "featureLine": "Roll-on · ₹378/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹378/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Shea butter, Vitamin E, Coconut, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Cq1yAf8OL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61RNG9zDGDL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61iToLGEg8L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51DG1qthOdL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51W6nz0Gw2L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRWJTH6G",
+  "buyStore": "Amazon",
+  "title": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oil & Vitamin E | Helps Repair and Moisturise Cracked Heels | Crack Heel Repair Roll On (foot cream)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "parisar-pharma-b0f1tynz86",
+  "brand": "PARISAR PHARMA",
+  "model": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2%…",
+  "price": 379,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹379/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹379/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Xu3fdXf9L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/616ZrObPoSL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61BguykbSsL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61lJ7ZWDbtL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61gsbn6wv9L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
+  "buyStore": "Amazon",
+  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:patch",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "samvay-b0h2pzrnz4",
+  "brand": "Samvay",
+  "model": "Herbal Malam for Ringworm, Itching, and Cracked Heels, Cream Form",
+  "price": 99,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61qSutQd7KL._SL1401_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2PZRNZ4",
+  "buyStore": "Amazon",
+  "title": "Herbal Malam for Ringworm, Itching, and Cracked Heels, Cream Form",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "love-nature-b0hhwzd4b7",
+  "brand": "Love Nature",
+  "model": "Oriflame feet up advanced cracked heel repair and smooth foot cream - 75 ml",
+  "price": 528,
+  "capacityLine": "75 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹704/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹704/100ml",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61JPXJUkwzL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHWZD4B7",
+  "buyStore": "Amazon",
+  "title": "Oriflame feet up advanced cracked heel repair and smooth foot cream - 75 ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "civols-b0gd7nrwjn",
+  "brand": "CIVOLS",
+  "model": "Foot Cream for Dry & Cracked Heels | Intensive Repair Moisturizer for Rough, Hard & Damage…",
+  "price": 149,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61jf8yFnBUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711TDxutlHL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GD7NRWJN",
+  "buyStore": "Amazon",
+  "title": "Foot Cream for Dry & Cracked Heels | Intensive Repair Moisturizer for Rough, Hard & Damaged Foot Skin | Nourishing Heel Care Cream for Men & Women",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "samvat-b0h695vxv8",
+  "brand": "SAMVAT",
+  "model": "Watermelon Hand Cream | Deep Moisturizing & Hydrating Hand Cream | Non-Greasy Formula for …",
+  "price": 389,
+  "capacityLine": "100 g",
+  "materialLine": "Allantoin + Watermelon",
+  "featureLine": "Cream · ₹389/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹389/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Allantoin, Watermelon (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Mature skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Aqua (Water)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61V-NTtIx8L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Kr7tksawL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61K8fzXnEaL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71OMn7T1HiL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61gqwHWIDWL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H695VXV8",
+  "buyStore": "Amazon",
+  "title": "Watermelon Hand Cream | Deep Moisturizing & Hydrating Hand Cream | Non-Greasy Formula for Soft & Smooth Hands | Daily Hand Care for Dry & Rough Skin (100g, Pack of -1)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "ing:allantoin",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:dry",
+   "skin:mature",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aqua (Water)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "arani-b0fp5q8wj9",
+  "brand": "Arani",
+  "model": "Eco Barefoot heel repair balm 40g",
+  "price": 380,
+  "capacityLine": "40 g",
+  "materialLine": "Shea butter + Calendula",
+  "featureLine": "Balm · ₹950/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹950/100g",
+   "format": "Balm",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Calendula (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61YvI9FQk8L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61OgWrDQO0L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61w-7XNB7SL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51dmqRDQ68L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617-YaZNcXL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP5Q8WJ9",
+  "buyStore": "Amazon",
+  "title": "AraniEco Barefoot heel repair balm 40g",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:body-wax",
+   "ing:shea-butter",
+   "ing:calendula",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kidelle-co-b0h6jyzh9t",
+  "brand": "KIDELLE&CO",
+  "model": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitami…",
+  "price": 289,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹578/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹578/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Cq1yAf8OL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61RNG9zDGDL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61iToLGEg8L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51DG1qthOdL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51W6nz0Gw2L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6JYZH9T",
+  "buyStore": "Amazon",
+  "title": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitamin E, 50ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sum-n-substance-b0gxgfkmmp",
+  "brand": "Sum N Substance",
+  "model": "Foot Cream with Geranium & Chamomile for Cracked Heels | Deep Moisture Therapy for Rough D…",
+  "price": 499,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Chamomile",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Chamomile (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter. Coconut Oil. Kokum Butter. Chamomile Extract. Geranium Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615KYGqHL6L._SL1152_.jpg",
+   "https://m.media-amazon.com/images/I/61cJ6pcTdkL._SL1152_.jpg",
+   "https://m.media-amazon.com/images/I/51HhAjNUXcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rzK2JX6RL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXGFKMMP",
+  "buyStore": "Amazon",
+  "title": "Foot Cream with Geranium & Chamomile for Cracked Heels | Deep Moisture Therapy for Rough Dry Surface | Smoothing Care Supporting Healthy Look, Improved Texture, Comfortable Feel",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "ing:chamomile",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cracked-heels",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter. Coconut Oil. Kokum Butter. Chamomile Extract. Geranium Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "exofly-b0f23vyc9g",
+  "brand": "EXOFLY",
+  "model": "Foot Mask Peeling Feet Mask, Foot Peel Off Mask, Peeling and Exfoliating Foot Mask, Remove…",
+  "price": 99,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pmotXAjxL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F23VYC9G",
+  "buyStore": "Amazon",
+  "title": "Foot Mask Peeling Feet Mask, Foot Peel Off Mask, Peeling and Exfoliating Foot Mask, Remove Dry Skin & Callus, Peeling Mask for Baby Soft Feet, Hydrates Dry Feet",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:peel-off",
+   "format:peel",
+   "format:patch",
+   "format:foot-peel",
+   "ing:aloe-vera",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vilitic-b0fbs4c99h",
+  "brand": "Vilitic",
+  "model": "Lavender Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry F…",
+  "price": 159,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera + Papaya + Lavender",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Papaya, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet, Painless / gentle (claim) (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.1/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ss9Y8W+YL._SL1358_.jpg",
+   "https://m.media-amazon.com/images/I/61OA4fNjy9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61LtOmK3xiL._SL1358_.jpg",
+   "https://m.media-amazon.com/images/I/61xs0ItDmmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cpwSxkSRL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FBS4C99H",
+  "buyStore": "Amazon",
+  "title": "Lavender Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Calluses & Cracked Heels – Repairs Rough Skin & Reveals Baby Soft Feet – Pack of 1 for Men & Women (Lavender foot mask-001)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:kit",
+   "format:foot-peel",
+   "ing:aloe-vera",
+   "ing:papaya",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "claim:painless",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:kids",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "amirate-b0gph9tdqy",
+  "brand": "AMIRATE",
+  "model": "Foot Peeling Mask 1 Pair | Exfoliating Foot Care Treatment with Glycolic Acid | Peel Off M…",
+  "price": 159,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Glycolic acid + Lavender",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Glycolic acid, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lactic Acid (AHA), Glycolic Acid (AHA), Calendula Officinalis Flower Extract, Camellia Sinensis (Green Tea) Leaf Extract & many more",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61zg6NNJblL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61qgtbNdz2L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPH9TDQY",
+  "buyStore": "Amazon",
+  "title": "Foot Peeling Mask 1 Pair | Exfoliating Foot Care Treatment with Glycolic Acid | Peel Off Mask for Removing Dead Skin | Hydrating Care Socks (LAVENDER)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "format:foot-peel",
+   "ing:glycolic-acid",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Lactic Acid (AHA), Glycolic Acid (AHA), Calendula Officinalis Flower Extract, Camellia Sinensis (Green Tea) Leaf Extract & many more",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fh4tq269",
+  "brand": "Unbranded",
+  "model": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Rem…",
+  "price": 177,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Foot peel mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Foot peel mask",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Z9ANQhMZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61aA3Nvi3pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61CUZgypoxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61rO0MnG6uL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/512iI9NTnUL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FH4TQ269",
+  "buyStore": "Amazon",
+  "title": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Chocolate, Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:peel-off",
+   "format:peel",
+   "format:patch",
+   "format:kit",
+   "format:foot-peel",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "beauline-b0c5rcq3m2",
+  "brand": "Beauline",
+  "model": "Perfumed Petroleum Jelly, Moisturizing & Soothing Cream For Chapped Lips, Rough Hands, Leg…",
+  "price": 480,
+  "capacityLine": "900 g",
+  "materialLine": "Petrolatum",
+  "featureLine": "Cream · ₹53/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "900 g",
+   "pricePer100": "₹53/100g",
+   "format": "Cream",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Petrolatum (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81jRKpW13LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71uZV6tzCZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715skbd1-ML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/611hodCLbrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/811tszwsc7L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C5RCQ3M2",
+  "buyStore": "Amazon",
+  "title": "Perfumed Petroleum Jelly, Moisturizing & Soothing Cream For Chapped Lips, Rough Hands, Legs & Cracked Feet - (900g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:petrolatum",
+   "claim:hydrating",
+   "claim:soothing",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "oshea-b0cqp62r35",
+  "brand": "OSHEA",
+  "model": "Herbals French Lavender Hand & Nail Cream | Super Hydrating with Germ Protection | Enriche…",
+  "price": 169,
+  "capacityLine": "30 ml",
+  "materialLine": "Neem + Almond + Shea butter",
+  "featureLine": "Cream · ₹563/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹563/100ml",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Neem, Almond, Shea butter, Vitamin E, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/816TCWbWxRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-1VRnYf-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ix7+LX08L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TgJwZIEyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71O0XkmzxxL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CQP62R35",
+  "buyStore": "Amazon",
+  "title": "Oshea Herbals French Lavender Hand & Nail Cream | Super Hydrating with Germ Protection | Enriched with Lavender, Vitamin E & Neem Extract 30 ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:neem",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "shrida-naturals-b0dhpcr26s",
+  "brand": "Shrida Naturals",
+  "model": "Bath Salt with Epsom & Himalayan Pink Salt, 908g, Infused with Lavender Essential Oil, Rel…",
+  "price": 349,
+  "capacityLine": "908 g",
+  "materialLine": "Sea salt + Lavender",
+  "featureLine": "Oil · ₹38/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "908 g",
+   "pricePer100": "₹38/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Sea salt, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Exfoliating, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Himalayan Pink Salt. Epsom Salt. Lavender Essential Oil. Lavender Buds",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61PrTAIkNkL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DHPCR26S",
+  "buyStore": "Amazon",
+  "title": "Bath Salt with Epsom & Himalayan Pink Salt, 908g, Infused with Lavender Essential Oil, Relaxing Spa Soak, Muscle Pain Relief & Soreness Recovery, Foot Soak & Stress Relief Detox",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:patch",
+   "format:kit",
+   "ing:sea-salt",
+   "ing:lavender",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:odour",
+   "claim:cooling",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Himalayan Pink Salt. Epsom Salt. Lavender Essential Oil. Lavender Buds",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "trustbasket-b0d3qnydyc",
+  "brand": "TrustBasket",
+  "model": "Epsom Salt for Foot 1 Kg, Graded 100% Pure and Unscented Crystals | For Foot Soak, Relieve…",
+  "price": 279,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Magnesium + Sea salt",
+  "featureLine": "Scrub · Fragrance-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Magnesium, Sea salt (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Nitrogen, Phosphorus, Potassium",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61FtdiNhzsL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61Qsgkq8xEL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61JCA1z+g4L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/610DKWbbMzL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61BCwNARYyL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D3QNYDYC",
+  "buyStore": "Amazon",
+  "title": "TrustBasket Epsom Salt for Foot 1 Kg, Graded 100% Pure and Unscented Crystals | For Foot Soak, Relieves Sore Muscles & Pain Relief | Epsom Salt for Bath | Bath Salt",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "claim:soothing",
+   "claim:exfoliating",
+   "free:fragrance",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Nitrogen, Phosphorus, Potassium",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.33,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ruesy-b0gq9xg7bt",
+  "brand": "RUESY",
+  "model": "Dengmore Wormwood Foot Soak Bath Bag – Herbal Foot Bath SPA Powder for Feet Health Care – …",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Powder",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Powder",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51LWm3Mu1FL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51A-wpA1uoL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51z9bT0OMQL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61X5yBsrI2L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/5120tjkneGL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQ9XG7BT",
+  "buyStore": "Amazon",
+  "title": "Dengmore Wormwood Foot Soak Bath Bag – Herbal Foot Bath SPA Powder for Feet Health Care – Relaxation, Immunity Support & Improved Sleep – Natural Foot Soak Therapy (Pack Of 1)",
+  "tags": [
+   "scope:body",
+   "format:powder",
+   "format:kit",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hgc-b0fpcdw6q8",
+  "brand": "HGC",
+  "model": "Tea Tree Oil Fo-ot Soak with Epsom Salt – Natural Toenail Fungus Treatment, Athlete’s Foot…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Tea tree + Sea salt",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Tea tree, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Odour control / freshness, Cracked heels / rough feet, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Epsom Salt, Tea Tree Oil, Olive Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ZOotv52UL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61HCzgkztCL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71apH1MxcpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71C9ZL1heKL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7168REDW1qL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FPCDW6Q8",
+  "buyStore": "Amazon",
+  "title": "Tea Tree Oil Fo-ot Soak with Epsom Salt – Natural Toenail Fungus Treatment, Athlete’s Foot Relief, Softens Calluses, Soothes Tired Feet, Fights Foot Odor – Spa Pedicure Soak",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:tea-tree",
+   "ing:sea-salt",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:odour",
+   "claim:cracked-heels",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Epsom Salt, Tea Tree Oil, Olive Oil",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.67,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "shills-professional-b0fktnv3wx",
+  "brand": "Shills Professional",
+  "model": "Nail Cuticle Oil Lavender 15ML",
+  "price": 199,
+  "capacityLine": "15 ml",
+  "materialLine": "Rose + Lemon + Lavender",
+  "featureLine": "Oil · ₹1327/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1327/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rose, Lemon, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51AaoIKQzLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Gg2dCbTqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+ucJdevNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71f8aiwbfoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71urNCVvuQL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FKTNV3WX",
+  "buyStore": "Amazon",
+  "title": "Shills Professional Nail Cuticle Oil Lavender 15ML",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:rose",
+   "ing:lemon",
+   "ing:lavender",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cuccio-b08x18nw8j",
+  "brand": "Cuccio",
+  "model": "Naturale Revitalizing Hydrating Cuticle Oil to Repair Cuticles Overnight- Remedy For Damag…",
+  "price": 1049,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Chamomile + Lavender",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Chamomile, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Sunflower Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71PxkQmydRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81sBh4uBogL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81IKYG5QHqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81pSucW1R2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/819cJdXbymL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08X18NW8J",
+  "buyStore": "Amazon",
+  "title": "Cuccio Naturale Revitalizing Hydrating Cuticle Oil to Repair Cuticles Overnight- Remedy For Damaged And Thin Nails - Paraben And Cruelty Free - Lavender & Chamomile 2.5 Oz",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:chamomile",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:overnight",
+   "free:vegan",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Sunflower Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0byzmvk7c",
+  "brand": "Unbranded",
+  "model": "Rose Dried Flowers Softener Nutritional Cuticle Oil 15ml",
+  "price": 199,
+  "capacityLine": "15 ml",
+  "materialLine": "Rose",
+  "featureLine": "Oil · ₹1327/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1327/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51li8myeI6L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BYZMVK7C",
+  "buyStore": "Amazon",
+  "title": "Rose Dried Flowers Softener Nutritional Cuticle Oil 15ml",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:rose",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rubyface-b0gknxwy93",
+  "brand": "Rubyface",
+  "model": "Double Layer Cuticle Oil for Nails, Deep Moisturizing Nail Oil, Nourishing Treatment for B…",
+  "price": 195,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹650/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹650/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Oi+i8jSvL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/716q80oR4iL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61fM0goQIEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wSJH6NSpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711UVKTQkDL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKNXWY93",
+  "buyStore": "Amazon",
+  "title": "Double Layer Cuticle Oil for Nails, Deep Moisturizing Nail Oil, Nourishing Treatment for Brittle Nails & Dry Damaged Nails Cuticles, Professional Nail Care 30ml 1 pcs",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:oil",
+   "format:peel",
+   "format:kit",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "easiqo-b0gyjfldyb",
+  "brand": "Easiqo",
+  "model": "Nail Care Oil with Keratin – Fast Nail Strengthening Treatment for Dry, Weak & Fragile Nai…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61g1LoOrUtL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/61iDMuPM26L._SL1324_.jpg",
+   "https://m.media-amazon.com/images/I/61QlzB2pUGL._SL1354_.jpg",
+   "https://m.media-amazon.com/images/I/61O24-Pp2GL._SL1308_.jpg",
+   "https://m.media-amazon.com/images/I/61scJFYXTmL._SL1358_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYJFLDYB",
+  "buyStore": "Amazon",
+  "title": "Nail Care Oil with Keratin – Fast Nail Strengthening Treatment for Dry, Weak & Fragile Nails | Hydrating Cuticle Repair Oil | Promotes Healthy Nail Growth | Nourishing Nail & Cuticle Care (pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:oil",
+   "format:peel",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "skin:oily",
+   "skin:dry",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
   "id": "waknity-b0fp8qnz1s",
   "brand": "Waknity",
   "model": "Foot Cream Moisturizer for Men & Women Dry & Cracked Feet Pack of 2 | Deeply Hydrates & So…",
@@ -219094,7 +228651,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b0bnn392jw",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Nourishing & Intensive Hand Balm: With 25% Organic Shea Butter and Allantoin | Moisturize …",
   "price": 2250,
   "capacityLine": "Quantity not stated",
@@ -219293,7 +228850,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b00bsewfbe",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Almond Delicious Hand & Nail Cream : Irresistible Scent | Softening | Moisturizing | Infus…",
   "price": 1050,
   "capacityLine": "Quantity not stated",
@@ -219502,7 +229059,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b007rvhfgw",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Almond Delicious Hand & Nail Cream : Irresistible Scent | Softening | Moisturizing | Infus…",
   "price": 2250,
   "capacityLine": "Quantity not stated",
@@ -219854,7 +229411,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); dimethicone (#5 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41qUg7JBm9L._SL1080_.jpg",
@@ -219882,6 +229440,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -219914,6 +229473,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -219921,6 +229481,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -219928,6 +229489,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -219935,6 +229497,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -219942,6 +229505,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -235610,7 +245174,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b0bl8f59px",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Nourishing Nail & Cuticle Oil with 30% Shea Oil | 0.25 fl. Oz: Healthier-Looking Nails | S…",
   "price": 1593,
   "capacityLine": "Quantity not stated",
@@ -240277,7 +249841,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b001gaov2g",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Shea Butter Foot Cream, 150ml | With 15% Shea Butter ,Soothe Dry Feet, Soften Skin, Moistu…",
   "price": 3000,
   "capacityLine": "150 ml",
@@ -258631,7 +268195,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "l-occitane-b002u0kute",
-  "brand": "L'Occitane",
+  "brand": "L'OCCITANE",
   "model": "Shea Butter Hand Cream: Nourishes Very Dry Hands | Protects Skin | With 20% Organic Shea B…",
   "price": 1050,
   "capacityLine": "Quantity not stated",
@@ -259273,7 +268837,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "oshea-b0cqp6jv8d",
-  "brand": "Oshea",
+  "brand": "OSHEA",
   "model": "Herbals Sheabutter & Moringa Hand & Nail Cream for Women & Men | Super Hydrating with Germ…",
   "price": 175,
   "capacityLine": "30 ml",
@@ -259959,7 +269523,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); glycerin (#4 on list, strong evidence); dimethicone (#5 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41qUg7JBm9L._SL1080_.jpg",
@@ -259987,6 +269552,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -260019,6 +269585,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -260026,6 +269593,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -260033,6 +269601,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -260040,6 +269609,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -260047,6 +269617,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -275835,6 +285406,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -275842,6 +285414,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -275849,6 +285422,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -277395,8071 +286969,6 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gs9g85q1",
-  "brand": "Unbranded",
-  "model": "Pure Epsom Salt for Bath Soak & Foot Soak | Magnesium Sulfate Crystals for Muscle Relaxati…",
-  "price": 159,
-  "capacityLine": "500 g",
-  "materialLine": "Magnesium + Sea salt",
-  "featureLine": "Other · ₹32/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "500 g",
-   "pricePer100": "₹32/100g",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Magnesium, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61A0PfghtIL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GS9G85Q1",
-  "buyStore": "Amazon",
-  "title": "Pure Epsom Salt for Bath Soak & Foot Soak | Magnesium Sulfate Crystals for Muscle Relaxation, Body Detox & Skin Care (Epsom Salt- 500GM)",
-  "tags": [
-   "scope:body",
-   "ing:magnesium",
-   "ing:sea-salt",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "glamveda-b08svvbc8z",
-  "brand": "Glamveda",
-  "model": "Hand & Foot Cream for Dry Hands & Cracked Heels | Deep Moisturizing & Repair Cream for Rou…",
-  "price": 125,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹125/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹125/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61UL3O3LHQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08SVVBC8Z",
-  "buyStore": "Amazon",
-  "title": "Glamveda Hand & Foot Cream for Dry Hands & Cracked Heels | Deep Moisturizing & Repair Cream for Rough Skin | Nourishing Hand & Heel Care Cream for Soft, Smooth & Hydrated Skin | For Men & Women | 100g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "kimirica-b09s6n1vyb",
-  "brand": "Kimirica",
-  "model": "Love Story Gardenia & Night Blooming Jasmine Hand cream | Moisturizing Nourishing Hand Cre…",
-  "price": 296,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹987/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹987/100ml",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51HUX892w8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09S6N1VYB",
-  "buyStore": "Amazon",
-  "title": "Kimirica Love Story Gardenia & Night Blooming Jasmine Hand cream | Moisturizing Nourishing Hand Cream for Men and Women | Gift Pack Hand Cream | 30ml",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:pack",
-   "claim:hydrating",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "teenilicious-b0bgc56y5s",
-  "brand": "Teenilicious",
-  "model": "Hand Cream for Women with Avocado Oil & Vanilla | Winter Moisturizing Cream for Dry and Ro…",
-  "price": 228,
-  "capacityLine": "60 g",
-  "materialLine": "Avocado",
-  "featureLine": "Oil · ₹380/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "60 g",
-   "pricePer100": "₹380/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Avocado (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61GzgXYlQBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BGC56Y5S",
-  "buyStore": "Amazon",
-  "title": "Teenilicious Hand Cream for Women with Avocado Oil & Vanilla | Winter Moisturizing Cream for Dry and Rough Hands | Vegan | Free from Alcohol, Silicones, Paraben & Sulphates | All Skin Type | 60gm",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "ing:avocado",
-   "claim:hydrating",
-   "skin:dry",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "inatur-b0cvn36f1k",
-  "brand": "inatur",
-  "model": "Shea Butter Hand Cream 50g – For Dry & Rough Hands | Nourishing & Brightening | Softens Sk…",
-  "price": 233,
-  "capacityLine": "50 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹466/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹466/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Fpx+lHBbL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CVN36F1K",
-  "buyStore": "Amazon",
-  "title": "inatur Shea Butter Hand Cream 50g – For Dry & Rough Hands | Nourishing & Brightening | Softens Skin, Nails & Cuticles | Non-Greasy & Lightweight Formula | Vegan & Natural | For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "l-occitane-b00hraxx7i",
-  "brand": "L'Occitane",
-  "model": "Shea Butter Delightful Rose Hand Cream, 30ml (packaging may vary)",
-  "price": 945,
-  "capacityLine": "30 ml",
-  "materialLine": "Rose + Shea butter",
-  "featureLine": "Body butter · ₹3150/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹3150/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose, Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41-FXc46x2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00HRAXX7I",
-  "buyStore": "Amazon",
-  "title": "L'Occitane Shea Butter Delightful Rose Hand Cream, 30ml (packaging may vary)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:rose",
-   "ing:shea-butter",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "o-keeffe-s-b011kmz2ww",
-  "brand": "O'Keeffe's",
-  "model": "K0290004-10 Working Hands Hand Cream Tube (10 Pack), 3 oz",
-  "price": 1367,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.6★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71SHvrfTksL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B011KMZ2WW",
-  "buyStore": "Amazon",
-  "title": "O'Keeffe's K0290004-10 Working Hands Hand Cream Tube (10 Pack), 3 oz",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:pack",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "the-body-shop-b0g599w652",
-  "brand": "The Body Shop",
-  "model": "Dewberry Hand Balm 30ml",
-  "price": 536,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm · ₹1787/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1787/100ml",
-   "format": "Balm",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "The Body Shop International — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61lCI3LrJtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G599W652",
-  "buyStore": "Amazon",
-  "title": "The Body Shop Dewberry Hand Balm 30ml",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "The Body Shop International",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.thebodyshop.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "boghani-b0gx6dc3ql",
-  "brand": "Boghani",
-  "model": "Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment wi…",
-  "price": 220,
-  "capacityLine": "40 g",
-  "materialLine": "Shea butter + Coconut",
-  "featureLine": "Stick · ₹550/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹550/100g",
-   "format": "Stick",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61X7NzydnlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX6DC3QL",
-  "buyStore": "Amazon",
-  "title": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment with Shea Butter & Coconut Oil, Moisturizes and Hydrates the Dry & Dead Skin- Peach Scent 40g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:stick",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:coconut",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dmfdlycf",
-  "brand": "Unbranded",
-  "model": "Soft Soles Foot Cream | Nourishes & Rehydrates | Softens Hard Skin | Foot Cream For dry an…",
-  "price": 189,
-  "capacityLine": "60 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹315/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "30 g × 2 pack",
-   "pricePer100": "₹315/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61JyyNicjuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DMFDLYCF",
-  "buyStore": "Amazon",
-  "title": "Soft Soles Foot Cream | Nourishes & Rehydrates | Softens Hard Skin | Foot Cream For dry and cracked Feet | Foot Care for Men and women - Pack of 2 (30g Each)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:kit",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "khadi-natural-b00f8aqxey",
-  "brand": "Khadi Natural",
-  "model": "Jasmine and Green Tea Herbal Foot Crack Cream| For Cracked Heels|Moisturizes dry feet | An…",
-  "price": 271,
-  "capacityLine": "100 g",
-  "materialLine": "Green tea",
-  "featureLine": "Cream · ₹271/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹271/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Green tea (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51MO8PccYDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00F8AQXEY",
-  "buyStore": "Amazon",
-  "title": "Khadi Natural Jasmine and Green Tea Herbal Foot Crack Cream| For Cracked Heels|Moisturizes dry feet | Antiseptic Properties that treat foot problems| 100 g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "ing:green-tea",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "furr-b0gtlgp2nf",
-  "brand": "FURR",
-  "model": "30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Gly…",
-  "price": 299,
-  "capacityLine": "50 ml",
-  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
-  "featureLine": "Roll-on · ₹598/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹598/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Urea (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin, Sensitive skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Ke64N-wyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTLGP2NF",
-  "buyStore": "Amazon",
-  "title": "FURR 30% Urea Foot Cream Roll On 50ml | Foot Roll On for Dry & Cracked Heels | Lactic Acid, Glycolic Acid, Salicylic Acid | Repairs, Hydrates, Softens | For Sensitive Skin",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:roll-on",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:urea",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "rudramani-b0byx97z9v",
-  "brand": "Rudramani",
-  "model": "Foot Cream For Rough,Dry and cracked Heel, Feet Cream For Heel Repair With Benefits of Ayu…",
-  "price": 220,
-  "capacityLine": "50 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹440/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "25 g × 2 pack",
-   "pricePer100": "₹440/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61-DFmP7NzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BYX97Z9V",
-  "buyStore": "Amazon",
-  "title": "RUDRAMANI Foot Cream For Rough,Dry and cracked Heel, Feet Cream For Heel Repair With Benefits of Ayurvedic ingredients 25gm/pis (Pack of 2)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:kit",
-   "claim:barrier",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "lunaris-b0g2h64698",
-  "brand": "Lunaris",
-  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
-  "price": 199,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹398/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹398/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71+8GwFx6BL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
-  "buyStore": "Amazon",
-  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0grwjth6g",
-  "brand": "Unbranded",
-  "model": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oi…",
-  "price": 189,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹378/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹378/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Cq1yAf8OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRWJTH6G",
-  "buyStore": "Amazon",
-  "title": "30% Urea Foot Cream Roll On 50ml | For Dry & Cracked Heels | With 5% Lactic Acid, Olive Oil & Vitamin E | Helps Repair and Moisturise Cracked Heels | Crack Heel Repair Roll On (foot cream)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "parisar-b0f1tynz86",
-  "brand": "Parisar",
-  "model": "Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic …",
-  "price": 379,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹379/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹379/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Xu3fdXf9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
-  "buyStore": "Amazon",
-  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "format:kit",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "dermazoen-b0fgd8z7kj",
-  "brand": "Dermazoen",
-  "model": "Instarepair Foot Cream For Softer, Smoother & Crack-Free Heels – Pack of 2",
-  "price": 440,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61USfRdSYNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FGD8Z7KJ",
-  "buyStore": "Amazon",
-  "title": "Dermazoen Instarepair Foot Cream For Softer, Smoother & Crack-Free Heels – Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:kit",
-   "claim:barrier",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "hyeon-b0fj79z54k",
-  "brand": "HYEON",
-  "model": "Ankle Whitening Cream – 50gm | Lightens & Evens Unevenly Pigmented Feet | Skin Brightening…",
-  "price": 279,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹558/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹558/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61X6WVtqHdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ79Z54K",
-  "buyStore": "Amazon",
-  "title": "HYEON Ankle Whitening Cream – 50gm | Lightens & Evens Unevenly Pigmented Feet | Skin Brightening Foot Cream for Ankles & Toes",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h2pzrnz4",
-  "brand": "Unbranded",
-  "model": "Herbal Malam for Ringworm, Itching, and Cracked Heels, Cream Form",
-  "price": 99,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61qSutQd7KL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2PZRNZ4",
-  "buyStore": "Amazon",
-  "title": "Herbal Malam for Ringworm, Itching, and Cracked Heels, Cream Form",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "feetgo-b0hg149y7v",
-  "brand": "FeetGo",
-  "model": "Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & H…",
-  "price": 249,
-  "capacityLine": "50 ml",
-  "materialLine": "Tea tree + Aloe vera",
-  "featureLine": "Roll-on · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51O92dM8brL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG149Y7V",
-  "buyStore": "Amazon",
-  "title": "FeetGo Foot Corn Care Roll-On with Aloe Vera & Tea Tree | Moisturising Formula for Dry, Rough & Hard Feet | Softens Corns & Calluses | Easy Roll-On Application | Daily Foot Care | 50ml (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "format:kit",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "aaranyaa-b00fsbwp4u",
-  "brand": "aaranyaa",
-  "model": "17% Urea Natural Foot Cream for Cracked Heels 100g - Repair Dry Hard Soles | Clove Oil & B…",
-  "price": 253,
-  "capacityLine": "100 g",
-  "materialLine": "Urea",
-  "featureLine": "Oil · Paraben-free · ₹253/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹253/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Urea (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Barrier repair, Lightweight / fast-absorbing, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71gpJok+WfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00FSBWP4U",
-  "buyStore": "Amazon",
-  "title": "Aaranyaa 17% Urea Natural Foot Cream for Cracked Heels 100g - Repair Dry Hard Soles | Clove Oil & Beeswax | Softens Calluses | Lightweight - Water Based | Non- Greasy | Paraben Free| All Skin Type | Men & Women",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "ing:urea",
-   "claim:oil-control",
-   "claim:barrier",
-   "claim:lightweight",
-   "claim:cracked-heels",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0g2yfc41y",
-  "brand": "Unbranded",
-  "model": "Green Milk Oliosmooth Ayurvedic Pedicure Balm | Crack Heel Repair Cream | Foot Cream for D…",
-  "price": 299,
-  "capacityLine": "50 g",
-  "materialLine": "Milk",
-  "featureLine": "Balm · ₹598/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹598/100g",
-   "format": "Balm",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51s+BFOVQIL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2YFC41Y",
-  "buyStore": "Amazon",
-  "title": "Green Milk Oliosmooth Ayurvedic Pedicure Balm | Crack Heel Repair Cream | Foot Cream for Dry and Cracked Feet | Deep Moisturizing Heel Repair Cream | Foot Crack Cream for Women | Dead Skin Remover Formula | 50g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "khadi-b0df7pptcy",
-  "brand": "Khadi",
-  "model": "Herbal Foot Care Cream Repairs Cracked Heel | Crack Heel Repair Cream For Women & Men",
-  "price": 140,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61X0lkHmQ6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DF7PPTCY",
-  "buyStore": "Amazon",
-  "title": "Khadi Herbal Foot Care Cream Repairs Cracked Heel | Crack Heel Repair Cream For Women & Men",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:barrier",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "aud:women",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "nysa-b0h36bkvhb",
-  "brand": "Nysa",
-  "model": "Intensive Repair Foot Cream with Wheatgerm Oil for Cracked Heels & Dry Feet | Deep Moistur…",
-  "price": 140,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹280/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹280/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51acYSobvvL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H36BKVHB",
-  "buyStore": "Amazon",
-  "title": "NYSA Intensive Repair Foot Cream with Wheatgerm Oil for Cracked Heels & Dry Feet | Deep Moisturizing Foot Care Cream | Soft Smooth Heels Repair Formula | Dermatologically Tested Foot Cream for Men & Women | 50g (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:kit",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "free:derm",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vlcc-b0d1gjsb66",
-  "brand": "Vlcc",
-  "model": "Clinic Heel Repair Cream - 100g | Exfoliating and Moisturizing Foot and Heel Cream | Softe…",
-  "price": 474,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹474/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹474/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "VLCC Health Care — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51qqDJi6UAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D1GJSB66",
-  "buyStore": "Amazon",
-  "title": "VLCC Clinic Heel Repair Cream - 100g | Exfoliating and Moisturizing Foot and Heel Cream | Softer, Supple, Smoother Feet | Dermatologically Tested | Hydrating Cream for Dry and Cracked Heels",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "free:derm",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "VLCC Health Care",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.vlccwellness.com/"
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "oriflame-b0hhwzd4b7",
-  "brand": "Oriflame",
-  "model": "feet up advanced cracked heel repair and smooth foot cream - 75 ml",
-  "price": 528,
-  "capacityLine": "75 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹704/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "75 ml",
-   "pricePer100": "₹704/100ml",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61JPXJUkwzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHWZD4B7",
-  "buyStore": "Amazon",
-  "title": "Oriflame feet up advanced cracked heel repair and smooth foot cream - 75 ml",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Oriflame Cosmetics",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://corporate.oriflame.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h5f3qtwh",
-  "brand": "Unbranded",
-  "model": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben F…",
-  "price": 195,
-  "capacityLine": "30 ml",
-  "materialLine": "Lactic acid",
-  "featureLine": "Roll-on · Paraben-free · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹650/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51rNQSxaEdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5F3QTWH",
-  "buyStore": "Amazon",
-  "title": "Corn Removal Gel for Feet with Lactic Acid Roll On and Cracked Heel Repair Cream Paraben Free Foot Care Treatment for Corns Calluses Dry Rough Skin Deep Moisturizing (30 ml, Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:roll-on",
-   "format:kit",
-   "ing:lactic-acid",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "free:paraben",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "k2p-b0gs9rspq3",
-  "brand": "K2P",
-  "model": "HEALME Crack Healiso Foot Cream for Cracked Heels | Deep Moisturizing Heel Repair with Oli…",
-  "price": 225,
-  "capacityLine": "50 g",
-  "materialLine": "Vitamin E + Olive",
-  "featureLine": "Oil · ₹450/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹450/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TLuucLgBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GS9RSPQ3",
-  "buyStore": "Amazon",
-  "title": "K2P HEALME Crack Healiso Foot Cream for Cracked Heels | Deep Moisturizing Heel Repair with Olive Oil & Vitamin E | Soft & Smooth Feet Care | Dry, Rough Heel Treatment | 50g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gd7nrwjn",
-  "brand": "Unbranded",
-  "model": "Foot Cream for Dry & Cracked Heels | Intensive Repair Moisturizer for Rough, Hard & Damage…",
-  "price": 149,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41O9a6aOLGL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GD7NRWJN",
-  "buyStore": "Amazon",
-  "title": "Foot Cream for Dry & Cracked Heels | Intensive Repair Moisturizer for Rough, Hard & Damaged Foot Skin | Nourishing Heel Care Cream for Men & Women",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "peony-b0f7yb24ks",
-  "brand": "Peony",
-  "model": "Thyme Hand Cream, 30g, Moisturising Formula with Alpha-Arbutin and Jojoba Oil | Peony, Thy…",
-  "price": 289,
-  "capacityLine": "30 g",
-  "materialLine": "Alpha arbutin + Sandalwood + Jojoba",
-  "featureLine": "Oil · ₹963/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹963/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Alpha arbutin, Sandalwood, Jojoba (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "2.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61bdyGQli6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F7YB24KS",
-  "buyStore": "Amazon",
-  "title": "Peony Thyme Hand Cream, 30g, Moisturising Formula with Alpha-Arbutin and Jojoba Oil | Peony, Thyme, Lime and Sandalwood | For Dry & Rough Hand | Intense Moisturization | Non Greasy | Fast Absorbing | For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "ing:alpha-arbutin",
-   "ing:sandalwood",
-   "ing:jojoba",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h695vxv8",
-  "brand": "Unbranded",
-  "model": "Watermelon Hand Cream | Deep Moisturizing & Hydrating Hand Cream | Non-Greasy Formula for …",
-  "price": 389,
-  "capacityLine": "100 g",
-  "materialLine": "Watermelon",
-  "featureLine": "Cream · ₹389/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹389/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Watermelon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61V-NTtIx8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H695VXV8",
-  "buyStore": "Amazon",
-  "title": "Watermelon Hand Cream | Deep Moisturizing & Hydrating Hand Cream | Non-Greasy Formula for Soft & Smooth Hands | Daily Hand Care for Dry & Rough Skin (100g, Pack of -1)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "ing:watermelon",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fj8qfgcq",
-  "brand": "Unbranded",
-  "model": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream fo…",
-  "price": 179,
-  "capacityLine": "40 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask · ₹448/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹448/100g",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613dPLU9IlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ8QFGCQ",
-  "buyStore": "Amazon",
-  "title": "Foot Cream Roll On 40g for Dry and Cracked Heel | Heel Repair Balm | Foot Peeling Cream for Dead Skin Removal Callus Remover | Heel Repair Stick deeply moisturizes and softens feet",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:stick",
-   "format:balm",
-   "format:peel",
-   "format:roll-on",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "aranieco-b0fp5q8wj9",
-  "brand": "AraniEco",
-  "model": "Barefoot heel repair balm 40g",
-  "price": 380,
-  "capacityLine": "40 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm · ₹950/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹950/100g",
-   "format": "Balm",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61YvI9FQk8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FP5Q8WJ9",
-  "buyStore": "Amazon",
-  "title": "AraniEco Barefoot heel repair balm 40g",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gz77bl27",
-  "brand": "Unbranded",
-  "model": "Herbal Cracked Heel Treatment Balm – With Gotu Kola, Tulsi & Manjistha for Soft, Healthy F…",
-  "price": 249,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm · ₹498/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹498/100g",
-   "format": "Balm",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41FSeWk6leL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZ77BL27",
-  "buyStore": "Amazon",
-  "title": "Herbal Cracked Heel Treatment Balm – With Gotu Kola, Tulsi & Manjistha for Soft, Healthy Feet, 50g",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "claim:ayurvedic",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gz73tc97",
-  "brand": "Unbranded",
-  "model": "Intensive Heel Care Cream – Botanical Foot Balm for Skin Renewal with Tulsi & Gotu Kola Ex…",
-  "price": 249,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm · ₹498/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹498/100g",
-   "format": "Balm",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41FSeWk6leL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZ73TC97",
-  "buyStore": "Amazon",
-  "title": "Intensive Heel Care Cream – Botanical Foot Balm for Skin Renewal with Tulsi & Gotu Kola Extracts, 50g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h1mbwfmf",
-  "brand": "Unbranded",
-  "model": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet…",
-  "price": 249,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹498/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Wv+fVs4-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1MBWFMF",
-  "buyStore": "Amazon",
-  "title": "20% Urea Foot Cream Roll On 50ml – Cracked Heel Repair Balm for Dry, Rough & Callused Feet with 2% Lactic Acid, Olive Oil & Vitamin E – Moisturizing Foot Care Roll-On for Men & Women (C1)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h6jyzh9t",
-  "brand": "Unbranded",
-  "model": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitami…",
-  "price": 289,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹578/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹578/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Cq1yAf8OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6JYZH9T",
-  "buyStore": "Amazon",
-  "title": "30% Urea Foot Cream Roll-On, for Dry & Cracked Heels, with Lactic Acid, Olive Oil & Vitamin E, 50ml",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gxgfkmmp",
-  "brand": "Unbranded",
-  "model": "Foot Cream with Geranium & Chamomile for Cracked Heels | Deep Moisture Therapy for Rough D…",
-  "price": 499,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Chamomile",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Chamomile (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/615KYGqHL6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXGFKMMP",
-  "buyStore": "Amazon",
-  "title": "Foot Cream with Geranium & Chamomile for Cracked Heels | Deep Moisture Therapy for Rough Dry Surface | Smoothing Care Supporting Healthy Look, Improved Texture, Comfortable Feel",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "ing:chamomile",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gjcsp6qj",
-  "brand": "Unbranded",
-  "model": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Rem…",
-  "price": 109,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61tuSQcC-RL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJCSP6QJ",
-  "buyStore": "Amazon",
-  "title": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hcpnrv8b",
-  "brand": "Unbranded",
-  "model": "Goat Milk Nicotinamide Exfoliating Foot Peel Mask Socks for Dry & Dead Skin Removal | Mois…",
-  "price": 99,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Milk",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Y60PRUGoL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCPNRV8B",
-  "buyStore": "Amazon",
-  "title": "Goat Milk Nicotinamide Exfoliating Foot Peel Mask Socks for Dry & Dead Skin Removal | Moisturizing Heel Repair | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "moody-b0h7mq4yxg",
-  "brand": "Moody",
-  "model": "Peeling & Exfoliating Foot Peel Off Mask for Dry Feet | Foot Peeling Mask with Glycolic & …",
-  "price": 334,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + Glycolic acid",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71+1mYNi+JL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7MQ4YXG",
-  "buyStore": "Amazon",
-  "title": "Moody Peeling & Exfoliating Foot Peel Off Mask for Dry Feet | Foot Peeling Mask with Glycolic & Salicylic Acid | Removes Dead Skin, Softens Cracked Heels | Feet Socks for Smooth Skin",
-  "tags": [
-   "scope:body",
-   "format:peel-off",
-   "format:peel",
-   "format:foot-peel",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0ff3b7fgn",
-  "brand": "Unbranded",
-  "model": "Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Call…",
-  "price": 179,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "2.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51XRHOjkbZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FF3B7FGN",
-  "buyStore": "Amazon",
-  "title": "Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Calluses & Cracked Heels (levender foot mask)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:foot-peel",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f23vyc9g",
-  "brand": "Unbranded",
-  "model": "Foot Mask Peeling Feet Mask, Foot Peel Off Mask, Peeling and Exfoliating Foot Mask, Remove…",
-  "price": 99,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41pmotXAjxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F23VYC9G",
-  "buyStore": "Amazon",
-  "title": "Foot Mask Peeling Feet Mask, Foot Peel Off Mask, Peeling and Exfoliating Foot Mask, Remove Dry Skin & Callus, Peeling Mask for Baby Soft Feet, Hydrates Dry Feet",
-  "tags": [
-   "scope:body",
-   "format:peel-off",
-   "format:peel",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:kids",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fbs4c99h",
-  "brand": "Unbranded",
-  "model": "Lavender Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry F…",
-  "price": 159,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Lavender",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.1/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51SDMUm6b8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FBS4C99H",
-  "buyStore": "Amazon",
-  "title": "Lavender Foot Peeling Mask for Dead Skin Removal – Natural Exfoliating Foot Mask for Dry Feet, Calluses & Cracked Heels – Repairs Rough Skin & Reveals Baby Soft Feet – Pack of 1 for Men & Women (Lavender foot mask-001)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "ing:lavender",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:kids",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.1★ from 0 ratings"
-  }
- },
- {
-  "id": "softening-b0hdzj1dsm",
-  "brand": "Softening",
-  "model": "Coconut Oil Foot Mask for Dry & Rough Feet | Moisturizing Foot Peel Mask with Coconut Oil …",
-  "price": 599,
-  "capacityLine": "40 ml",
-  "materialLine": "Vitamin E + Coconut",
-  "featureLine": "Foot peel mask · ₹1498/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹1498/100ml",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin E, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+w1SIIDXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDZJ1DSM",
-  "buyStore": "Amazon",
-  "title": "Softening Coconut Oil Foot Mask for Dry & Rough Feet | Moisturizing Foot Peel Mask with Coconut Oil & Vitamin E | Exfoliating & Nourishing Foot Care | 40ml Pair",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:peel",
-   "format:foot-peel",
-   "ing:vitamin-e",
-   "ing:coconut",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gy9g295q",
-  "brand": "Unbranded",
-  "model": "Goat Milk Foot Mask for Dry Feet Care | Moisturizing and Exfoliating Foot Care Socks for S…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Milk",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71RikaBPrTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GY9G295Q",
-  "buyStore": "Amazon",
-  "title": "Goat Milk Foot Mask for Dry Feet Care | Moisturizing and Exfoliating Foot Care Socks for Smooth Skin",
-  "tags": [
-   "scope:body",
-   "format:foot-peel",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gyd7yjdk",
-  "brand": "Unbranded",
-  "model": "Coconut Oil Foot Peeling Mask for Foot Care | Exfoliating Foot Mask for Smooth and Soft Fe…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coconut",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61XQrFozv7L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GYD7YJDK",
-  "buyStore": "Amazon",
-  "title": "Coconut Oil Foot Peeling Mask for Foot Care | Exfoliating Foot Mask for Smooth and Soft Feet",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:peel",
-   "format:foot-peel",
-   "ing:coconut",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gph9tdqy",
-  "brand": "Unbranded",
-  "model": "Foot Peeling Mask 1 Pair | Exfoliating Foot Care Treatment with Glycolic Acid | Peel Off M…",
-  "price": 159,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Glycolic acid + Lavender",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61zg6NNJblL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GPH9TDQY",
-  "buyStore": "Amazon",
-  "title": "Foot Peeling Mask 1 Pair | Exfoliating Foot Care Treatment with Glycolic Acid | Peel Off Mask for Removing Dead Skin | Hydrating Care Socks (LAVENDER)",
-  "tags": [
-   "scope:body",
-   "format:peel-off",
-   "format:peel",
-   "format:foot-peel",
-   "ing:glycolic-acid",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "velista-b0gsgzsnsw",
-  "brand": "Velista",
-  "model": "Foot Peel Mask | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin &…",
-  "price": 189,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61D5jyU7IQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GSGZSNSW",
-  "buyStore": "Amazon",
-  "title": "Velista Foot Peel Mask | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0f7hpxysh",
-  "brand": "Unbranded",
-  "model": "Foot Peel Mask For Dead Skin Removal Dry Cracked Callus Remover, Feet Spa Care Peel Massk …",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Lavender",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "2.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51RoEOOzZZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F7HPXYSH",
-  "buyStore": "Amazon",
-  "title": "Foot Peel Mask For Dead Skin Removal Dry Cracked Callus Remover, Feet Spa Care Peel Massk With Lavender For Men And Women Feet Peeling Mask Exfoliating Dry & Dull Skin Reduces Pigmentation (Pack Of 2)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "ing:lavender",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:women",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fh4tq269",
-  "brand": "Unbranded",
-  "model": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Rem…",
-  "price": 177,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "2.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Z9ANQhMZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FH4TQ269",
-  "buyStore": "Amazon",
-  "title": "Foot Peel Mask for Women & Men | Peeling & Exfoliating Foot Mask for Dry Cracked Feet, Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels (Chocolate, Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:women",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hd7rxkcr",
-  "brand": "Unbranded",
-  "model": "Peeling & Exfoliating Foot Peel off Mask (PACK OF 2) for Dry & Calloused Feet Removes Dead…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71aWC4xoHzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HD7RXKCR",
-  "buyStore": "Amazon",
-  "title": "Peeling & Exfoliating Foot Peel off Mask (PACK OF 2) for Dry & Calloused Feet Removes Dead Skin & Calluses, Hydrates & Smooths Cracked Heels Detox Foot Pads (BLUE PACK OF 2)",
-  "tags": [
-   "scope:body",
-   "format:peel-off",
-   "format:peel",
-   "format:pads",
-   "format:kit",
-   "format:foot-peel",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fgdbvsd5",
-  "brand": "Unbranded",
-  "model": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic …",
-  "price": 109,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Glycolic acid",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Korean / K-beauty (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TFYa0gIeL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FGDBVSD5",
-  "buyStore": "Amazon",
-  "title": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, Cruelty-Free, Foot Peel Off Mask",
-  "tags": [
-   "scope:body",
-   "format:peel-off",
-   "format:peel",
-   "format:foot-peel",
-   "ing:glycolic-acid",
-   "claim:exfoliating",
-   "claim:korean",
-   "free:vegan",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0g2z1396s",
-  "brand": "Unbranded",
-  "model": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic …",
-  "price": 189,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Glycolic acid + Coconut",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Korean / K-beauty (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51xPLY-DA-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2Z1396S",
-  "buyStore": "Amazon",
-  "title": "Foot Peeling Mask (1 Pair), Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, Cruelty-Free, Foot Peel Off Mask (Coconut Oil Hand Mask)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:peel-off",
-   "format:peel",
-   "format:foot-peel",
-   "ing:glycolic-acid",
-   "ing:coconut",
-   "claim:exfoliating",
-   "claim:korean",
-   "free:vegan",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gtlvnl64",
-  "brand": "Unbranded",
-  "model": "Exfoliating Foot Peel Mask Lavender Fragrance for Dead Skin Removal and Cracked Heels | De…",
-  "price": 192,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Lavender",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81xoGJR0g6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTLVNL64",
-  "buyStore": "Amazon",
-  "title": "Exfoliating Foot Peel Mask Lavender Fragrance for Dead Skin Removal and Cracked Heels | Deep Moisturizing Baby Soft Smooth Feet Spa Care for Men Women Pack of 1",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:kids",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "azcona-b0gy48y1n3",
-  "brand": "Azcona",
-  "model": "Foot Peel Mask for Dead Skin Removal | Dry Cracked Callus Remover | Foot Hydrating Sock Pe…",
-  "price": 279,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71vkLkv9OwL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GY48Y1N3",
-  "buyStore": "Amazon",
-  "title": "Azcona Foot Peel Mask for Dead Skin Removal | Dry Cracked Callus Remover | Foot Hydrating Sock Pedicure Essential | Make Your Feet Baby Soft, Repair Rough Heels - Aloe vera (Pack of 2)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:kit",
-   "format:foot-peel",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:kids",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h3fg97ty",
-  "brand": "Unbranded",
-  "model": "Lavender Foot Peel Mask for Dead Skin Removal | Peeling & Exfoliating Foot Mask Socks | Re…",
-  "price": 179,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Lavender",
-  "featureLine": "Foot peel mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Foot peel mask",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Ms9QNwmhL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3FG97TY",
-  "buyStore": "Amazon",
-  "title": "Lavender Foot Peel Mask for Dead Skin Removal | Peeling & Exfoliating Foot Mask Socks | Removes Dry, Cracked & Callused Skin | Moisturizing, Hydrating & Nourishing Foot Care Treatment for Men & Women (Lavender Foot Peeling Mask)",
-  "tags": [
-   "scope:body",
-   "format:peel",
-   "format:foot-peel",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hdc6t2t7",
-  "brand": "Unbranded",
-  "model": "Hand & Foot Moisturizing Cream – Fast Absorbing Daily Skin Care Cream for Hands & Feet, Li…",
-  "price": 479,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41z3Hx4syJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDC6T2T7",
-  "buyStore": "Amazon",
-  "title": "Hand & Foot Moisturizing Cream – Fast Absorbing Daily Skin Care Cream for Hands & Feet, Lightweight Hydrating Formula for Soft & Smooth Skin Feel",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:hydrating",
-   "claim:lightweight",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "perfumed-b0c5rcq3m2",
-  "brand": "Perfumed",
-  "model": "Petroleum Jelly, Moisturizing & Soothing Cream For Chapped Lips, Rough Hands, Legs & Crack…",
-  "price": 480,
-  "capacityLine": "900 g",
-  "materialLine": "Petrolatum",
-  "featureLine": "Cream · ₹53/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "900 g",
-   "pricePer100": "₹53/100g",
-   "format": "Cream",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Petrolatum (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81jRKpW13LL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5RCQ3M2",
-  "buyStore": "Amazon",
-  "title": "Perfumed Petroleum Jelly, Moisturizing & Soothing Cream For Chapped Lips, Rough Hands, Legs & Cracked Feet - (900g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "ing:petrolatum",
-   "claim:hydrating",
-   "claim:soothing",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "homoeo-b0h1wxwlpf",
-  "brand": "Homoeo",
-  "model": "CART Lord's Pediclean Deep Moisturizing Foot Cream, Softens Rough Feet, Exfoliates Dead Sk…",
-  "price": 260,
-  "capacityLine": "100 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹260/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g × 2 pack",
-   "pricePer100": "₹260/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31RXvbKL+AL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1WXWLPF",
-  "buyStore": "Amazon",
-  "title": "Homoeo CART Lord's Pediclean Deep Moisturizing Foot Cream, Softens Rough Feet, Exfoliates Dead Skin, 50g PACK OF 2",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:kit",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "oshea-b0cqp62r35",
-  "brand": "Oshea",
-  "model": "Herbals French Lavender Hand & Nail Cream | Super Hydrating with Germ Protection | Enriche…",
-  "price": 169,
-  "capacityLine": "30 ml",
-  "materialLine": "Neem + Vitamin E + Lavender",
-  "featureLine": "Cream · ₹563/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹563/100ml",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Neem, Vitamin E, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/816TCWbWxRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CQP62R35",
-  "buyStore": "Amazon",
-  "title": "Oshea Herbals French Lavender Hand & Nail Cream | Super Hydrating with Germ Protection | Enriched with Lavender, Vitamin E & Neem Extract 30 ml",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "ing:neem",
-   "ing:vitamin-e",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h8sh8vcm",
-  "brand": "Unbranded",
-  "model": "Natural Terracotta Foot Scrubber for Dead Skin Removal | Handmade Clay Foot Scrub Stone | …",
-  "price": 99,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Clay",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Clay (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61JXXCQTrPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H8SH8VCM",
-  "buyStore": "Amazon",
-  "title": "Natural Terracotta Foot Scrubber for Dead Skin Removal | Handmade Clay Foot Scrub Stone | Pedicure Foot Cleaner | Removes Callus & Rough Skin | Reusable | Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:clay-mask",
-   "format:scrub",
-   "format:kit",
-   "ing:clay",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "abh-b0fd3kfbj4",
-  "brand": "ABH",
-  "model": "Icy Cool Hand & Foot Scrub – 500g – Exfoliating & Refreshing Scrub for Pedicure & Manicure…",
-  "price": 270,
-  "capacityLine": "500 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹54/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "500 g",
-   "pricePer100": "₹54/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71UQwCB8krL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FD3KFBJ4",
-  "buyStore": "Amazon",
-  "title": "ABH Icy Cool Hand & Foot Scrub – 500g – Exfoliating & Refreshing Scrub for Pedicure & Manicure – Removes Dead Skin & Softens Hands and Feet – Spa & Salon Use",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "claim:exfoliating",
-   "claim:cooling",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dhpcr26s",
-  "brand": "Unbranded",
-  "model": "Bath Salt with Epsom & Himalayan Pink Salt, 908g, Infused with Lavender Essential Oil, Rel…",
-  "price": 349,
-  "capacityLine": "908 g",
-  "materialLine": "Sea salt + Lavender",
-  "featureLine": "Oil · ₹38/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "908 g",
-   "pricePer100": "₹38/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Sea salt, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61PrTAIkNkL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DHPCR26S",
-  "buyStore": "Amazon",
-  "title": "Bath Salt with Epsom & Himalayan Pink Salt, 908g, Infused with Lavender Essential Oil, Relaxing Spa Soak, Muscle Pain Relief & Soreness Recovery, Foot Soak & Stress Relief Detox",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:sea-salt",
-   "ing:lavender",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "trustbasket-b0d3qnydyc",
-  "brand": "TrustBasket",
-  "model": "Epsom Salt for Foot 1 Kg, Graded 100% Pure and Unscented Crystals | For Foot Soak, Relieve…",
-  "price": 279,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sea salt",
-  "featureLine": "Other · Fragrance-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Sea salt (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61FtdiNhzsL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D3QNYDYC",
-  "buyStore": "Amazon",
-  "title": "TrustBasket Epsom Salt for Foot 1 Kg, Graded 100% Pure and Unscented Crystals | For Foot Soak, Relieves Sore Muscles & Pain Relief | Epsom Salt for Bath | Bath Salt",
-  "tags": [
-   "scope:body",
-   "ing:sea-salt",
-   "free:fragrance",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "dengmore-b0gq9xg7bt",
-  "brand": "Dengmore",
-  "model": "Wormwood Foot Soak Bath Bag – Herbal Foot Bath SPA Powder for Feet Health Care – Relaxatio…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Powder",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Powder",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51LWm3Mu1FL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GQ9XG7BT",
-  "buyStore": "Amazon",
-  "title": "Dengmore Wormwood Foot Soak Bath Bag – Herbal Foot Bath SPA Powder for Feet Health Care – Relaxation, Immunity Support & Improved Sleep – Natural Foot Soak Therapy (Pack Of 1)",
-  "tags": [
-   "scope:body",
-   "format:powder",
-   "format:kit",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fpcdw6q8",
-  "brand": "Unbranded",
-  "model": "Tea Tree Oil Fo-ot Soak with Epsom Salt – Natural Toenail Fungus Treatment, Athlete’s Foot…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Tea tree + Sea salt",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Tea tree, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming, Odour control / freshness, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ZOotv52UL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FPCDW6Q8",
-  "buyStore": "Amazon",
-  "title": "Tea Tree Oil Fo-ot Soak with Epsom Salt – Natural Toenail Fungus Treatment, Athlete’s Foot Relief, Softens Calluses, Soothes Tired Feet, Fights Foot Odor – Spa Pedicure Soak",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:tea-tree",
-   "ing:sea-salt",
-   "claim:soothing",
-   "claim:odour",
-   "claim:cracked-heels",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0grh1fyb3",
-  "brand": "Unbranded",
-  "model": "Epsom Salt for Foot Soak & Bath | Helps Pain Relief & Muscle Recovery | For Refreshing Sho…",
-  "price": 272,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Magnesium + Sea salt",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Magnesium, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/715zXkg2nxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRH1FYB3",
-  "buyStore": "Amazon",
-  "title": "Epsom Salt for Foot Soak & Bath | Helps Pain Relief & Muscle Recovery | For Refreshing Shower & Relaxing Body | Pure Magnesium Sulphate (1.4 KG)",
-  "tags": [
-   "scope:body",
-   "ing:magnesium",
-   "ing:sea-salt",
-   "claim:cooling",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hf7sfbv9",
-  "brand": "Unbranded",
-  "model": "Epsom Salt 1KG | 100% Pure Magnesium Sulphate | Bath Salt & Foot Soak Salt | Relaxation an…",
-  "price": 140,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Magnesium + Sea salt",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Magnesium, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71T7WH3id2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HF7SFBV9",
-  "buyStore": "Amazon",
-  "title": "Epsom Salt 1KG | 100% Pure Magnesium Sulphate | Bath Salt & Foot Soak Salt | Relaxation and Self Care",
-  "tags": [
-   "scope:body",
-   "ing:magnesium",
-   "ing:sea-salt",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "o2-b0gplnfyqs",
-  "brand": "O2",
-  "model": "Green Organics Crystal Shok Rose Méni & Padí Spa Foot Soak Salt with Aloe Vera & Rose Extr…",
-  "price": 255,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera + Rose",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51WFYFM2G2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GPLNFYQS",
-  "buyStore": "Amazon",
-  "title": "O2 Green Organics Crystal Shok Rose Méni & Padí Spa Foot Soak Salt with Aloe Vera & Rose Extract, Removes Dead Skin (Crystal Salt Step-1)",
-  "tags": [
-   "scope:body",
-   "format:pads",
-   "ing:aloe-vera",
-   "ing:rose",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "kresal-b0hh6rt9kl",
-  "brand": "Kresal",
-  "model": "Foot Soaking Tub for Adults, Foldable Foot Bath Basin with Massage Bottom, Portable Water …",
-  "price": 799,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61PRmAIyEjL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HH6RT9KL",
-  "buyStore": "Amazon",
-  "title": "Kresal Foot Soaking Tub for Adults, Foldable Foot Bath Basin with Massage Bottom, Portable Water Soak Container for Home Relaxation",
-  "tags": [
-   "scope:body",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "shills-b0fktnv3wx",
-  "brand": "Shills",
-  "model": "Professional Nail Cuticle Oil Lavender 15ML",
-  "price": 199,
-  "capacityLine": "15 ml",
-  "materialLine": "Lavender",
-  "featureLine": "Oil · ₹1327/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹1327/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51AaoIKQzLL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FKTNV3WX",
-  "buyStore": "Amazon",
-  "title": "Shills Professional Nail Cuticle Oil Lavender 15ML",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:lavender",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "cuccio-b08x18nw8j",
-  "brand": "Cuccio",
-  "model": "Naturale Revitalizing Hydrating Cuticle Oil to Repair Cuticles Overnight- Remedy For Damag…",
-  "price": 1049,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Chamomile + Lavender",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Chamomile, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Overnight / while you sleep (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71PxkQmydRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08X18NW8J",
-  "buyStore": "Amazon",
-  "title": "Cuccio Naturale Revitalizing Hydrating Cuticle Oil to Repair Cuticles Overnight- Remedy For Damaged And Thin Nails - Paraben And Cruelty Free - Lavender & Chamomile 2.5 Oz",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:chamomile",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:overnight",
-   "free:vegan",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0byzmvk7c",
-  "brand": "Unbranded",
-  "model": "Rose Dried Flowers Softener Nutritional Cuticle Oil 15ml",
-  "price": 199,
-  "capacityLine": "15 ml",
-  "materialLine": "Rose",
-  "featureLine": "Oil · ₹1327/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹1327/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51li8myeI6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BYZMVK7C",
-  "buyStore": "Amazon",
-  "title": "Rose Dried Flowers Softener Nutritional Cuticle Oil 15ml",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:rose",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b000aa5vz4",
-  "brand": "Unbranded",
-  "model": "Super Nail Cuticle Oil, 4 oz.",
-  "price": 872,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61x+zRwXzPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B000AA5VZ4",
-  "buyStore": "Amazon",
-  "title": "Super Nail Cuticle Oil, 4 oz.",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hf48fymn",
-  "brand": "Unbranded",
-  "model": "Nail Strengthening Treatment for Dry, Weak & Fragile Nails, 15ml Hydrating Cuticle Repair …",
-  "price": 299,
-  "capacityLine": "15 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹1993/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹1993/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51vrVAyy+6L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HF48FYMN",
-  "buyStore": "Amazon",
-  "title": "Nail Strengthening Treatment for Dry, Weak & Fragile Nails, 15ml Hydrating Cuticle Repair Oil, Deep Nourishing Nail & Cuticle Care, Promotes Healthy-Looking Nails, Pack of 1",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "format:kit",
-   "claim:hydrating",
-   "claim:barrier",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "double-b0gknxwy93",
-  "brand": "Double",
-  "model": "Layer Cuticle Oil for Nails, Deep Moisturizing Nail Oil, Nourishing Treatment for Brittle …",
-  "price": 195,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹650/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31RNYhpzeeL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GKNXWY93",
-  "buyStore": "Amazon",
-  "title": "Double Layer Cuticle Oil for Nails, Deep Moisturizing Nail Oil, Nourishing Treatment for Brittle Nails & Dry Damaged Nails Cuticles, Professional Nail Care 30ml 1 pcs",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gwjbg938",
-  "brand": "Unbranded",
-  "model": "Anti Paronychia Relief Oil 10ml | Natural Nail & Cuticle Care Oil for Redness, Swelling & …",
-  "price": 249,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹2490/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2490/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61FSi99w3AL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GWJBG938",
-  "buyStore": "Amazon",
-  "title": "Anti Paronychia Relief Oil 10ml | Natural Nail & Cuticle Care Oil for Redness, Swelling & Nail Discomfort | Fast Absorbing Formula",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:soothing",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hhmvd11m",
-  "brand": "Unbranded",
-  "model": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and …",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61LfI9TsOBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHMVD11M",
-  "buyStore": "Amazon",
-  "title": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and Strengthener Cuticle Oil for Hands, Feet & Toes, Strengthening Oils Treatment for Brittle Nail",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h4fzwqjc",
-  "brand": "Unbranded",
-  "model": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and …",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61NrAew3CwL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4FZWQJC",
-  "buyStore": "Amazon",
-  "title": "Keratin 3 Day Nail Care Oil, Nails Strengthener for Weak & Damaged Nails, Nail Growth and Strengthener Cuticle Oil for Hands, Feet & Toes, Strengthening Oils Treatment for Brittle Nail",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gyjfldyb",
-  "brand": "Unbranded",
-  "model": "Nail Care Oil with Keratin – Fast Nail Strengthening Treatment for Dry, Weak & Fragile Nai…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61g1LoOrUtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GYJFLDYB",
-  "buyStore": "Amazon",
-  "title": "Nail Care Oil with Keratin – Fast Nail Strengthening Treatment for Dry, Weak & Fragile Nails | Hydrating Cuticle Repair Oil | Promotes Healthy Nail Growth | Nourishing Nail & Cuticle Care (pack of 2)",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "format:kit",
-   "claim:hydrating",
-   "claim:barrier",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
    "inci": "none",
    "inciSrc": null,
    "pharma": false

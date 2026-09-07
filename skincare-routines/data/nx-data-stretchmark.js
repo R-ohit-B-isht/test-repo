@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -4227,6 +4227,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4234,6 +4235,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -4241,6 +4243,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -4248,6 +4251,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -4255,6 +4259,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -4262,6 +4267,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -4991,7 +4997,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Anveya Living Private Limited, Khara No. 457, Vill-Nandpur, Teh-Baddi, Distt. Solan, Himachal Pradesh-174101 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 3,101 ratings"
+   "buyerEvidence": "4★ from 3,101 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/c/30-stretch-marks-expert-serum-cream-combats-appearance-of-old-original-imahcarwpvsfzn6y.jpeg?q=90",
@@ -5012,6 +5019,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -5045,6 +5054,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -5052,6 +5062,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -5059,6 +5070,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -5066,6 +5078,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -5073,6 +5086,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -5080,6 +5094,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -5087,6 +5102,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -5094,6 +5110,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -5786,7 +5803,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-itm2a914688c06a4",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "stretch mark cream , scar removal for pregnancy",
   "price": 194,
   "capacityLine": "100 g",
@@ -15716,7 +15733,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#6 on list, moderate evidence); theobroma cacao seed butter (#7 on list, limited evidence); centella asiatica extract (#8 on list, moderate evidence); rosa canina fruit oil (#9 on list, moderate evidence); tocopheryl acetate (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 59 ratings"
+   "buyerEvidence": "4.9★ from 59 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/o/o/100-0-intensive-stretch-mark-removal-cream-for-pregnancy-and-original-imahnpv38bxu9qqy.jpeg?q=90",
@@ -15743,6 +15761,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -15775,6 +15794,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15782,6 +15802,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -15789,6 +15810,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -15796,6 +15818,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -15803,6 +15826,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -15810,6 +15834,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -15817,6 +15842,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -15824,6 +15850,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -17264,6 +17291,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -17271,6 +17299,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -18066,7 +18095,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-itm055a057a02fe6",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "HIP UP Cream for Reduces Dark Spots, Prevents Stretch Marks",
   "price": 179,
   "capacityLine": "100 g",
@@ -39473,7 +39502,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-itm83fc7395fe815",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "Stretch mark scar removal cream|| During after Pregnancy",
   "price": 179,
   "capacityLine": "99 g",
@@ -64554,7 +64583,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#6 on list, moderate evidence); theobroma cacao seed butter (#7 on list, limited evidence); centella asiatica extract (#8 on list, moderate evidence); rosa canina fruit oil (#9 on list, moderate evidence); tocopheryl acetate (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 58 ratings"
+   "buyerEvidence": "4.9★ from 58 ratings",
+   "concernBasis": "Irritation — centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/l/g/200-0-stretch-mark-removal-cream-for-pregnancy-maternity-skin-original-imahnpv3d4hyesw8.jpeg?q=90",
@@ -64581,6 +64611,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -64613,6 +64644,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -64620,6 +64652,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -64627,6 +64660,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -64634,6 +64668,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -64641,6 +64676,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -64648,6 +64684,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -64655,6 +64692,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -64662,6 +64700,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -66983,6 +67022,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -66990,6 +67030,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -66997,6 +67038,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -67004,6 +67046,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -67011,6 +67054,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -67018,6 +67062,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -67025,6 +67070,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -67032,6 +67078,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -67039,6 +67086,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -67046,6 +67094,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -67053,6 +67102,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -67060,6 +67110,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -75118,7 +75169,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); rosa canina fruit oil (#5 on list, moderate evidence); squalane (#7 on list, moderate evidence); panthenol (#8 on list, moderate evidence); centella asiatica extract (#12 on list, moderate evidence); asiaticoside (#13 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Dark spots — glycyrrhiza glabra root extract #4 on INCI; Aging — bakuchiol #6 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #8 on INCI, centella asiatica extract #12 on INCI, asiaticoside #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/z/50-stretch-marks-removal-roll-on-serum-for-pregnancy-scars-skin-original-imahhqkfrneqr8hv.jpeg?q=90",
@@ -75152,6 +75204,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -75184,6 +75239,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -75191,6 +75247,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -75198,6 +75255,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -75205,6 +75263,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -75212,6 +75271,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "bakuchiol"
     },
     {
@@ -75219,6 +75279,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -75226,6 +75287,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -75233,6 +75295,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -75240,6 +75303,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -75473,6 +75537,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -75480,6 +75545,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -103975,7 +104041,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-b0gwfm9p3k",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "Stretch Mark Cream | Smooth Skin Texture Support Cream for Daily Skin Care | 100 gm",
   "price": 260,
   "capacityLine": "100 g",
@@ -108388,7 +108454,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-b0gwf3m931",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "Stretch Mark Cream | Skin Texture Support Formula for Pregnancy & Post Pregnancy Care | 10…",
   "price": 260,
   "capacityLine": "100 g",
@@ -109472,7 +109538,8 @@ const NXPRODUCTS = [
    "evidenceActives": "paraffinum liquidum (#1 on list, moderate evidence); glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#10 on list, moderate evidence); urea (#12 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); lanolin (#20 on list, moderate evidence); retinyl palmitate (#27 on list, limited evidence); tocopheryl acetate (#28 on list, moderate evidence); niacinamide (#29 on list, strong evidence); tocopherol (#32 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: farnesol, limonene, linalool (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, lavandula angustifolia oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #29 on INCI; Dark spots — niacinamide #29 on INCI; Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fd2HKuyLL._SL1500_.jpg",
@@ -109510,6 +109577,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -109542,6 +109612,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -109549,6 +109620,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -109556,6 +109628,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -109563,6 +109636,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -109570,6 +109644,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -109577,6 +109652,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -109584,6 +109660,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -109591,6 +109668,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -109598,6 +109676,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -109605,6 +109684,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -109612,6 +109692,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -109619,6 +109700,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -109626,6 +109708,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -109633,6 +109716,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -112891,6 +112975,1161 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "strie-b0dsjfn2sp",
+  "brand": "STRIE",
+  "model": "Stretch Marks Cream",
+  "price": 489,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Shea butter + Cocoa butter + Vitamin E",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51d59Ph-YML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51Y4UIHYm7L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61tLeytB8nL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51CngfG6ZKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/6142o1Et54L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DSJFN2SP",
+  "buyStore": "Amazon",
+  "title": "STRIE Stretch Marks Cream",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "wagspin-b0gx65w24h",
+  "brand": "WAGSPIN",
+  "model": "Stretch Mark Cream for Pregnancy & Body Care, 50ml | Moisturizing Belly Cream, Hydrating S…",
+  "price": 685,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹1370/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1370/100ml",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61EGaY1jMoL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61kBgNkR+ZL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61UsM-EFGqL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61fwWWL9UVL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61itxwedDFL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX65W24H",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Cream for Pregnancy & Body Care, 50ml | Moisturizing Belly Cream, Hydrating Skin, For Belly, Hips & Thighs, Daily Skin Care",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:kit",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "mylo-b0d6lwdybz",
+  "brand": "Mylo",
+  "model": "Stretch Marks Oil 100ml, for Scars & Stretch Mark Lightening - Natural Skin Care Solution …",
+  "price": 274,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹274/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹274/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61u6C6EiEVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61fWOJFGUkL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61wbku6uUfL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61CfYS0oLiL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51HeC8yY8FL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D6LWDYBZ",
+  "buyStore": "Amazon",
+  "title": "Mylo Stretch Marks Oil 100ml, for Scars & Stretch Mark Lightening - Natural Skin Care Solution for Pregnant Women",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:whitening-claim",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "luminae-b0gwdxxn58",
+  "brand": "LUMINAE",
+  "model": "Stretch Mark Cream | Pregnancy Safe Moisturizing Skin Care Formula | 100 gm",
+  "price": 260,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹260/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹260/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Qdzj3YZyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61BeB-VPipL._SL1181_.jpg",
+   "https://m.media-amazon.com/images/I/61SHso1XikL._SL1037_.jpg",
+   "https://m.media-amazon.com/images/I/61SBek0LBlL._SL1099_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWDXXN58",
+  "buyStore": "Amazon",
+  "title": "Luminae Stretch Mark Cream | Pregnancy Safe Moisturizing Skin Care Formula | 100 gm",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0dfwcjq6r",
+  "brand": "Unbranded",
+  "model": "Stretch Marks Cream | Stretch Mark Cream For Women & Men | Anti stretch mark cream during …",
+  "price": 269,
+  "capacityLine": "100 g",
+  "materialLine": "Collagen + Shea butter + Vitamin E",
+  "featureLine": "Cream · ₹269/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹269/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Collagen, Shea butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71O4UAXn7pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qzQj7vM1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81R4kDAxZPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ckM2JMLXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EFHtU7GcL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DFWCJQ6R",
+  "buyStore": "Amazon",
+  "title": "Stretch Marks Cream | Stretch Mark Cream For Women & Men | Anti stretch mark cream during & After pregnancy - (100gm)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:balm",
+   "ing:collagen",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "skin:all",
+   "free:derm",
+   "free:hypoallergenic",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wvhc-b0dcb8c73h",
+  "brand": "wvhc",
+  "model": "Ayurvedic Stretch Mark Cream | Improves appearance of Fresh and Mature Stretch Marks | Inf…",
+  "price": 349,
+  "capacityLine": "100 g",
+  "materialLine": "Hyaluronic acid + Rosehip + Shea butter",
+  "featureLine": "Cream · ₹349/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹349/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Hyaluronic acid, Rosehip, Shea butter, Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pzZwSx-fL.jpg",
+   "https://m.media-amazon.com/images/I/51cqxC4FCpL.jpg",
+   "https://m.media-amazon.com/images/I/51ieznjoZAL.jpg",
+   "https://m.media-amazon.com/images/I/51lCn7IQJrL.jpg",
+   "https://m.media-amazon.com/images/I/51NMKbzDmRL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DCB8C73H",
+  "buyStore": "Amazon",
+  "title": "Ayurvedic Stretch Mark Cream | Improves appearance of Fresh and Mature Stretch Marks | Infused with Hyaluronic Acid & Rosehip Cream |Safe for pregnancy, All skin types -100G",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:balm",
+   "ing:hyaluronic-acid",
+   "ing:rosehip",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "free:hypoallergenic",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "luminae-b0gwfhhtwp",
+  "brand": "LUMINAE",
+  "model": "Stretch Mark Cream | Skin Texture Support Formula for Soft Smooth Skin | 100 gm",
+  "price": 260,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹260/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹260/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71TWEjmlnJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717Mjg4FzYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61SBek0LBlL._SL1099_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWFHHTWP",
+  "buyStore": "Amazon",
+  "title": "Luminae Stretch Mark Cream | Skin Texture Support Formula for Soft Smooth Skin | 100 gm",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "claim:exfoliating",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "going-b0h5qcjfgr",
+  "brand": "Going",
+  "model": "Stripes Stretch Mark Cream for Women & Men | Helps Reduce Appearance of Existing Stretch M…",
+  "price": 1249,
+  "capacityLine": "60 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹2082/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹2082/100ml",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61DiMrSMpaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61NFAI-doWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+oG9hA3LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51aKvkYXLqL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/513oYP3oV+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5QCJFGR",
+  "buyStore": "Amazon",
+  "title": "Going Stripes Stretch Mark Cream for Women & Men | Helps Reduce Appearance of Existing Stretch Marks & Prevent New Marks | For Pregnancy, Weight Gain, Puberty & Fitness | 60 ml",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "thenyn-b0bs3wz1pq",
+  "brand": "THENYN",
+  "model": "Roya-Star 15 Derma15 Herbal Skin Specialist Dark Circle Remover Cream + Stretch Marks + An…",
+  "price": 169,
+  "capacityLine": "75 g (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹225/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "25 g × 3 pack",
+   "pricePer100": "₹225/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark circles / puffiness, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61fNGhv+wPL._SL1028_.jpg",
+   "https://m.media-amazon.com/images/I/61dRc2CzLyL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61BJ9CpIMxL._SL1083_.jpg",
+   "https://m.media-amazon.com/images/I/61iAFNrfuNL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BS3WZ1PQ",
+  "buyStore": "Amazon",
+  "title": "Roya-Star 15 Derma15 Herbal Skin Specialist Dark Circle Remover Cream + Stretch Marks + Anti Dandruff Cream 25 Grams Each Pack of 3",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:dark-circles",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "blush-fizz-b0h5ww4k1d",
+  "brand": "BLuSH FIZZ",
+  "model": "Stretch Marks Scar Removal Cream | During After Pregnancy Delivery Women | Post Pregnancy …",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair-removal cream / spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Hair-removal cream / spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71ztGjwqCcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tDUf8JppL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SpiWWu+6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71pVU2FfPBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ob3tPuwCL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5WW4K1D",
+  "buyStore": "Amazon",
+  "title": "Stretch Marks Scar Removal Cream | During After Pregnancy Delivery Women | Post Pregnancy Fast Work|",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:women",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "polyguard-b015sizzey",
+  "brand": "Polyguard",
+  "model": "Vinsompro Marks Removal Cream | post delivery | | Stretch Marks Removal, Scars, Uneven Ski…",
+  "price": 500,
+  "capacityLine": "50 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair-removal cream / spray · ₹1000/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "25 g × 2 pack",
+   "pricePer100": "₹1000/100g",
+   "format": "Hair-removal cream / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "2.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "2.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61CKYuANY7L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71XRDsLAGrL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Cijw4K7JL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61+HnQeYA9L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/613uUg9hWQL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B015SIZZEY",
+  "buyStore": "Amazon",
+  "title": "Vinsompro Marks Removal Cream | post delivery | | Stretch Marks Removal, Scars, Uneven Skin Tone, Premium Herbs & Natural Oils | 25 gm (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "free:derm",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "2.6★ from 0 ratings"
+  }
+ },
+ {
   "id": "unbranded-b0gsv9c3p1",
   "brand": "Unbranded",
   "model": "Acne Scar Removal Gel | Dark Spot Corrector for Men & Women | Pimple Marks, Stretch Marks …",
@@ -114440,7 +115679,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); squalane (#6 on list, moderate evidence); glycerin (#14 on list, strong evidence); allantoin (#20 on list, limited evidence); panthenol (#21 on list, moderate evidence); tocopheryl acetate (#22 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71dgFSpS3FL._SL1500_.jpg",
@@ -114467,6 +115707,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -114500,6 +115742,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -114507,6 +115750,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -114514,6 +115758,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -114521,6 +115766,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -114528,6 +115774,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -114535,6 +115782,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -114542,6 +115790,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -114549,6 +115798,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -114671,6 +115921,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -114678,6 +115929,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -114685,6 +115937,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -114692,6 +115945,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -114699,6 +115953,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -115574,6 +116829,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -115581,6 +116837,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -115588,6 +116845,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "bha"
     }
    ],
@@ -121229,7 +122487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); squalane (#6 on list, moderate evidence); glycerin (#14 on list, strong evidence); allantoin (#20 on list, limited evidence); panthenol (#21 on list, moderate evidence); tocopheryl acetate (#22 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lGcTzSYvL._SL1500_.jpg",
@@ -121256,6 +122515,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -121289,6 +122550,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -121296,6 +122558,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -121303,6 +122566,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -121310,6 +122574,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -121317,6 +122582,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -121324,6 +122590,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -121331,6 +122598,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -121338,6 +122606,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -125394,6 +126663,1620 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "kerala-ayurveda-b07r3tv8m3",
+  "brand": "KERALA ayurveda",
+  "model": "Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint …",
+  "price": 220,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹110/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹110/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: \"Tila Taila Sesamum indicum Ol. Ol. 100.00 ml Godugdha Milk Lq. 600.00 ml Balaa Sida cordifolia Rt. Dct. 174.00 g Yava Hordeum vulgare Sd. Dct. 7.68 g Kola Zizyphus mauritiana Fr. Dct. 7.68 g Kulattha Vigna unquiculata Sd. Dct. 7.68 g Bilva Aegle marmelos Rt./St. Bk. Dct. 7.68 g Syonaka Oroxylum indicum Rt./St. Bk. Dct. 7.68 g Gambhari Gmelina arbora Rt./St. Bk. Dct. 7.68 g Patala Stereospermum su",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ui+ZQLDTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Pl7REbWCL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71UUX1DcR8L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61oJK8UW7pL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71QTMfqbDyL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07R3TV8M3",
+  "buyStore": "Amazon",
+  "title": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint aches & stiffness for mobility. Moisturizes skin & reduces stretch mark appearance",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "\"Tila Taila Sesamum indicum Ol. Ol. 100.00 ml Godugdha Milk Lq. 600.00 ml Balaa Sida cordifolia Rt. Dct. 174.00 g Yava Hordeum vulgare Sd. Dct. 7.68 g Kola Zizyphus mauritiana Fr. Dct. 7.68 g Kulattha Vigna unquiculata Sd. Dct. 7.68 g Bilva Aegle marmelos Rt./St. Bk. Dct. 7.68 g Syonaka Oroxylum indicum Rt./St. Bk. Dct. 7.68 g Gambhari Gmelina arbora Rt./St. Bk. Dct. 7.68 g Patala Stereospermum su",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "palmer-s-b002wthj2e",
+  "brand": "Palmer's",
+  "model": "Cocoa Butter Formula Massage Lotion For Stretch Marks 8.5Oz",
+  "price": 499,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Collagen + Cocoa butter",
+  "featureLine": "Body butter",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Collagen, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61YcId3kZWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/6168vvbqoCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61QEvVmxTmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61u2xJDH-JL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tnPsN88-L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B002WTHJ2E",
+  "buyStore": "Amazon",
+  "title": "Palmer's Cocoa Butter Formula Massage Lotion For Stretch Marks 8.5Oz",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "format:balm",
+   "ing:collagen",
+   "ing:cocoa-butter",
+   "claim:stretch-marks",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "namyaa-b07x25gh6l",
+  "brand": "Namyaa",
+  "model": "Natural Science Body Toning, Sculpting Wonder Oil For Scars, Stretch Mark, Ageing, Uneven …",
+  "price": 584,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹292/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopheryl acetate high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Essential oil / volatile sensitiser: rosa damascena flower oil, pelargonium graveolens flower oil",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.8,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹292/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceUrl": "https://namyaa.in/products/body-oil",
+   "inciMatchedName": "Body Toning and Sculpting Oil (name match 90%)",
+   "listingIngredientLine": "Grape Seed Oil, Eucalyptus, Citrus Lemon, Almond Oil, Argan Oil, Rose Oil (as printed on the Amazon listing — incomplete, not scored)",
+   "inciList": "Sesamum Indicum (Sesame) Seed Oil, Prunus Amygdalus Dulcis (Almond) Kernel Oil, Triticum Vulgare (Wheat) Germ Oil, Oryza Sativa (Rice) Bran Oil, Withania Somnifera (Ashwagandha) Root Extract, Sida Cordifolia (Bala) Root Extract, Rosa Damascena (Rose) Flower Oil, Tocopheryl Acetate (Vitamin E), Pelargonium Graveolens (Geranium) Flower Oil, Coconut Oil, Cymbopogon schoenanthus (Lemongrass) oil, Turmeric Oil, Crocus Sativus Flower (Saffron)",
+   "evidenceActives": "tocopheryl acetate (#8 on list, moderate evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: rosa damascena flower oil, pelargonium graveolens flower oil, cymbopogon schoenanthus oil (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51VZM7DNmTL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61L0tFK29pL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61QGPaSSk9L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61M9x1B6ayL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Rxzdh6EQL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07X25GH6L",
+  "buyStore": "Amazon",
+  "title": "Namyaa Natural Science Body Toning, Sculpting Wonder Oil For Scars, Stretch Mark, Ageing, Uneven Skin Tone, Firming, Nourishment, 200 ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://namyaa.in/products/body-oil",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Body Toning and Sculpting Oil",
+   "inciMatchScore": 0.9,
+   "inciText": "Sesamum Indicum (Sesame) Seed Oil, Prunus Amygdalus Dulcis (Almond) Kernel Oil, Triticum Vulgare (Wheat) Germ Oil, Oryza Sativa (Rice) Bran Oil, Withania Somnifera (Ashwagandha) Root Extract, Sida Cordifolia (Bala) Root Extract, Rosa Damascena (Rose) Flower Oil, Tocopheryl Acetate (Vitamin E), Pelargonium Graveolens (Geranium) Flower Oil, Coconut Oil, Cymbopogon schoenanthus (Lemongrass) oil, Turmeric Oil, Crocus Sativus Flower (Saffron)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil",
+      "pelargonium graveolens flower oil",
+      "cymbopogon schoenanthus oil"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "uppeel-b0fn85mc4v",
+  "brand": "UPPEEL",
+  "model": "Smooth & Sculpt Body Lotion 180ml + 25ml | Reduces Cellulite & Stretch Marks | Dry & Dull …",
+  "price": 620,
+  "capacityLine": "180 ml",
+  "materialLine": "Collagen",
+  "featureLine": "Lotion · ₹344/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹344/100ml",
+   "format": "Lotion",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51e0SShsBvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/41AtILEPWSL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FN85MC4V",
+  "buyStore": "Amazon",
+  "title": "Smooth & Sculpt Body Lotion 180ml + 25ml | Reduces Cellulite & Stretch Marks | Dry & Dull Skin | Boosts Collagen | Moisturizing - Firming - Nourishing | Fast Absorbing | For Men & Women",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:collagen",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mylo-b0d6lyt9p8",
+  "brand": "Mylo",
+  "model": "Stretch Marks Cream 100 gm & Stretch Mark Oil 100 ml|Stretch Marks removal for women |Made…",
+  "price": 629,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹629/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹629/100g",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61NPMScPMtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jWDkfxvzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vKiNzBQNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+dAi9gbJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lfA9bIv9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D6LYT9P8",
+  "buyStore": "Amazon",
+  "title": "Mylo Stretch Marks Cream 100 gm & Stretch Mark Oil 100 ml|Stretch Marks removal for women |Made Safe Certified|Safe in pregnancy & effective on all body parts",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "claim:stretch-marks",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "actiwowrx-b0fnn37q1z",
+  "brand": "ActiwowRx",
+  "model": "Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pr…",
+  "price": 159,
+  "capacityLine": "30 ml",
+  "materialLine": "Collagen + Rosehip + Shea butter",
+  "featureLine": "Body butter · ₹530/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹530/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Rosehip, Shea butter, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Dry / very dry skin relief, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-9vOkWR-L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNN37Q1Z",
+  "buyStore": "Amazon",
+  "title": "ActiwowRx Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pregnancy Latic Acid & Shea Butter | One-a-Day | Prevent",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:collagen",
+   "ing:rosehip",
+   "ing:shea-butter",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0gc5xhx64",
+  "brand": "Unbranded",
+  "model": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal O…",
+  "price": 180,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Collagen + Almond",
+  "featureLine": "Oil · ₹600/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹600/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Collagen, Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61m-LZ4yD1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jrqeItpUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/818WPGw470L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81DGxgFmJnL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GC5XHX64",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal Oil for Women | Boosts Skin Elasticity, Prevents Stretching from Weight Changes",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:vitamin-c",
+   "ing:collagen",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "core-pure-b0bhmzypfg",
+  "brand": "CORE & PURE",
+  "model": "Stretch Mark Oil Helps in Scar Removal, Uneven Skin Tone & Soothes Itchy and Stretchy Skin…",
+  "price": 875,
+  "capacityLine": "50 ml",
+  "materialLine": "Collagen + Rose",
+  "featureLine": "Oil · ₹1750/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1750/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Collagen, Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/7177JJXbXzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71RYGUlzRIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71w0wElOmfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FglzxCCYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61TKg7BShbL._SL1001_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BHMZYPFG",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Oil Helps in Scar Removal, Uneven Skin Tone & Soothes Itchy and Stretchy Skin with 100% Natural Essential Oils Rose, Myrrh, Jasmine |All Skin Types|- 50ml",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:collagen",
+   "ing:rose",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0fqjv34nv",
+  "brand": "Unbranded",
+  "model": "Stretch Mark Removal Remover Essential Oil Improve Scars for a Radiant Look Uneven Skin To…",
+  "price": 199,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹663/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51M6yi7ahnL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/516hhVd5CQL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/51iOhIagRwL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61HyYgCJ5TL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61Pecas1SWL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQJV34NV",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Removal Remover Essential Oil Improve Scars for a Radiant Look Uneven Skin Tone in Both Light and Dark Skin Reduces Wrinkles Improves Skin Elasticity - (30ML)",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "supplyspot-b0d3bgbyw7",
+  "brand": "Supplyspot",
+  "model": "RtopR Mango Stretch Marks and Scar Cream for Pregnancy",
+  "price": 799,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rvsrcOavL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61M2jDFLNNL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D3BGBYW7",
+  "buyStore": "Amazon",
+  "title": "Supplyspot RtopR Mango Stretch Marks and Scar Cream for Pregnancy",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h3ffn54h",
+  "brand": "Unbranded",
+  "model": "Stretch Marks Cream For Women Ideally Used During & After Pregnancy 100 ml (Pack of 1)",
+  "price": 199,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹199/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71muC6iwZTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ebMZsmN4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SmV6ZWG2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710XvuromvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71JxyPSmKAL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3FFN54H",
+  "buyStore": "Amazon",
+  "title": "Stretch Marks Cream For Women Ideally Used During & After Pregnancy 100 ml (Pack of 1)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:stretch-marks",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sabates-b0c8jggppm",
+  "brand": "Sabates",
+  "model": "RIFFWAY Anti Stretch Marks Cream | Uneven Skin Tone| Stretch Marks & Ageing Signs for Glow…",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · Paraben-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Hydrating / moisturizing, Soothing / calming, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Y1YTi5A-L.jpg",
+   "https://m.media-amazon.com/images/I/51LzQmEgBcL.jpg",
+   "https://m.media-amazon.com/images/I/51RLirnCnkL.jpg",
+   "https://m.media-amazon.com/images/I/51NtNf7lRDL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C8JGGPPM",
+  "buyStore": "Amazon",
+  "title": "RIFFWAY Anti Stretch Marks Cream | Uneven Skin Tone| Stretch Marks & Ageing Signs for Glowing Skin and Moisturizing Cream, Stretch mark remover for Stomach, thighs & all body parts (No Side | Effects)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "free:paraben",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "burt-s-bees-b00dm14tyc",
+  "brand": "Burt's Bees",
+  "model": "Mama Bee Belly Butter 6.5 Ounce",
+  "price": 2048,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Shea butter + Cocoa butter + Jojoba",
+  "featureLine": "Body butter · Fragrance-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Cocoa butter, Jojoba (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71KNZYoeDyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Pv21nYwbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Jd67z7IcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81krBWPPu1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81wsteCrC3L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00DM14TYC",
+  "buyStore": "Amazon",
+  "title": "Burt's Bees Mama Bee Belly Butter 6.5 Ounce",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:jojoba",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:stretch-marks",
+   "free:fragrance",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ovin-b08vjc7tkl",
+  "brand": "OVIN",
+  "model": "Herbal Stretch Marks Serum Oil (Vegan) - Fat Stretch Marks/Scars/Pregnancy Stretch Marks/S…",
+  "price": 225,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rP0VmSDzL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71tdEzcvujL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71mcITlWemL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08VJC7TKL",
+  "buyStore": "Amazon",
+  "title": "OVIN Herbal Stretch Marks Serum Oil (Vegan) - Fat Stretch Marks/Scars/Pregnancy Stretch Marks/Skin Toner",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:toner",
+   "format:oil",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "free:vegan",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "pourglam-b0dglqyvtw",
+  "brand": "Pourglam",
+  "model": "Stretch Marks Cream | Repair-Based Ayurvedic Formula for Pregnancy & Weight Change Marks |…",
+  "price": 329,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · Fragrance-free · ₹329/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹329/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free, Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51dtULhVYSL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/611hI3LCQ8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61XNrLGdBML._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61Kh2S6hFkL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/51EeYat61rL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DGLQYVTW",
+  "buyStore": "Amazon",
+  "title": "Stretch Marks Cream | Repair-Based Ayurvedic Formula for Pregnancy & Weight Change Marks | Improves Skin Elasticity & Texture | Paraben-Free, Fragrance-Free | For All Skin Types (100 g)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
   }
  },
  {
@@ -134084,6 +136967,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -134091,6 +136975,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -134098,6 +136983,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -134105,6 +136991,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -134112,6 +136999,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -136812,6 +139700,1135 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "vedic-naturals-b09myxmgy5",
+  "brand": "Vedic Naturals",
+  "model": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin…",
+  "price": 499,
+  "capacityLine": "200 g",
+  "materialLine": "Shea butter + Vitamin E + Glycerin",
+  "featureLine": "Body butter · ₹250/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.1,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹250/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Vitamin E, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, 24h / 48h / 72h, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Stearic Acid, Hydroxypropyl Starch Phosphate, Triethanolamine, Glycerine, Cetostearyl Alcohol, Triethylene Glycol, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate (Vitamin-E), Candelilla Wax And Natural Fragrance Oil.",
+   "evidenceActives": "glycerin (#5 on list, strong evidence); butyrospermum parkii butter (#8 on list, moderate evidence); tocopheryl acetate (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71hOgVosn0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zrc3hNdQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FVRUbgUnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710O+eG3BiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71H1vg92d9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09MYXMGY5",
+  "buyStore": "Amazon",
+  "title": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin & All Day Moisture Lock | For All Skin Types & Healing Stretch Marks | 100% Organic",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:body-wax",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "claim:stretch-marks",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Stearic Acid, Hydroxypropyl Starch Phosphate, Triethanolamine, Glycerine, Cetostearyl Alcohol, Triethylene Glycol, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate (Vitamin-E), Candelilla Wax And Natural Fragrance Oil.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "coronation-herbal-b0g9sxsv1g",
+  "brand": "COROnation Herbal",
+  "model": "Rich Cocoa Butter Deep Moisturising & Nourishing Body Lotion for Men & Women | For Intense…",
+  "price": 159,
+  "capacityLine": "400 ml",
+  "materialLine": "Coffee + Honey + Almond",
+  "featureLine": "Body butter · ₹40/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹40/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Honey, Almond, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, 24h / 48h / 72h, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Cocoa Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41kspJ2SthL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61kKbNOMpQL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71IhW5nNqxL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71GSSdOPz3L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/41YnHDQc4kL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G9SXSV1G",
+  "buyStore": "Amazon",
+  "title": "COROnation Herbal Rich Cocoa Butter Deep Moisturising & Nourishing Body Lotion for Men & Women | For Intense Moisturization & Hydration | Improve Skin Texture & Elasticity | Reduce Stretch Mark & Scar - 400 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:coffee",
+   "ing:honey",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:dry",
+   "aud:women",
+   "size:xl",
+   "rating:low",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cocoa Butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "epovy-b0hd75pbgr",
+  "brand": "EPOVY",
+  "model": "Regenscar Triple Action Scar Removal Cream for Stretch Marks, Acne Marks & Skin Repair | H…",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair-removal cream / spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Hair-removal cream / spray",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51O3NUny-DL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Y8siDkH5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61r4VJx2dhL._SL1279_.jpg",
+   "https://m.media-amazon.com/images/I/510AeZI+w4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61zZwg9WiXL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HD75PBGR",
+  "buyStore": "Amazon",
+  "title": "Regenscar Triple Action Scar Removal Cream for Stretch Marks, Acne Marks & Skin Repair | Helps Improve Scar Appearance, Moisturizes & Supports Skin Renewal | Suitable for All Skin Types | Pack of 2",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:kit",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "aud:women",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "bgst-sukomalbhav-b0hfs7dnp2",
+  "brand": "BGST SUKOMALBHAV",
+  "model": "Ayurvedic Stretch Mark Oil for Pregnancy Women Scar Removal Oil Body Repair Serum 30ML",
+  "price": 899,
+  "capacityLine": "30 ml",
+  "materialLine": "Collagen",
+  "featureLine": "Serum · ₹2997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2997/100ml",
+   "format": "Serum",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41Nqso2anqL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61vDms+CilL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71bvgExg0fL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61eaZdfmlBL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71NCD6Tjh1L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFS7DNP2",
+  "buyStore": "Amazon",
+  "title": "Ayurvedic Stretch Mark Oil for Pregnancy Women Scar Removal Oil Body Repair Serum 30ML",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:oil",
+   "ing:collagen",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sabates-b0c5mg5fbl",
+  "brand": "Sabates",
+  "model": "Anti Stretch Marks Cream | Removes Pregnancy stretch marks, Scar removal and Stretch mark …",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · Paraben-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Soothing / calming, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41kh5ZozhwL.jpg",
+   "https://m.media-amazon.com/images/I/51mEt+6JNpL.jpg",
+   "https://m.media-amazon.com/images/I/51A1gUaJUTL.jpg",
+   "https://m.media-amazon.com/images/I/51kCmmkqS-L.jpg",
+   "https://m.media-amazon.com/images/I/51GVjEWJD4L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C5MG5FBL",
+  "buyStore": "Amazon",
+  "title": "Anti Stretch Marks Cream | Removes Pregnancy stretch marks, Scar removal and Stretch mark remover for Stomach, thighs & all body parts (No Side Effects)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:anti-aging",
+   "claim:soothing",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:sensitive",
+   "free:paraben",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "veda-b0cv7ky62q",
+  "brand": "Veda",
+  "model": "Harvest Natural Stretch Mark Cream For Women & Men| 50Gm | Reduce Pregnancy Stretch Marks …",
+  "price": 349,
+  "capacityLine": "50 g",
+  "materialLine": "Hyaluronic acid + Saffron + Rose",
+  "featureLine": "Cream · ₹698/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹698/100g",
+   "format": "Cream",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Hyaluronic acid, Saffron, Rose, Papaya, Rosehip, Licorice, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51GDtXFLJyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/614VBi+8y5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61fSoAAQKlL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51UEGiPcKSL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Ugrgn5bVL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CV7KY62Q",
+  "buyStore": "Amazon",
+  "title": "Veda Harvest Natural Stretch Mark Cream For Women & Men| 50Gm | Reduce Pregnancy Stretch Marks | Stomach | Thighs & | All Body Parts Stretch Marks | Lightening Scar | All Skin Types",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:hyaluronic-acid",
+   "ing:saffron",
+   "ing:rose",
+   "ing:papaya",
+   "ing:rosehip",
+   "ing:licorice",
+   "ing:coconut",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gfndk6p8",
+  "brand": "Unbranded",
+  "model": "Pure Aura Healing Stretch Mark Cream (Pack of 2, 75 gm each)| Visible Reduction in Stretch…",
+  "price": 537,
+  "capacityLine": "150 g (pack of 2)",
+  "materialLine": "Coffee + Centella / cica + Almond",
+  "featureLine": "Cream · ₹358/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "75 g × 2 pack",
+   "pricePer100": "₹358/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Coffee, Centella / cica, Almond, Licorice, Coconut, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71tajoHkLkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81haoaUi3CL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jBvNywUoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81msgNrU9nL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81f+aR1-oEL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFNDK6P8",
+  "buyStore": "Amazon",
+  "title": "Pure Aura Healing Stretch Mark Cream (Pack of 2, 75 gm each)| Visible Reduction in Stretch Marks in 10 Days | Hydrating Ayurvedic Blend Coconut, Almond & Centella",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:coffee",
+   "ing:centella-cica",
+   "ing:almond",
+   "ing:licorice",
+   "ing:coconut",
+   "ing:mineral-oil",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:sensitive",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0cdlvrywt",
+  "brand": "Unbranded",
+  "model": "Anti Stretch Marks Cream | Removes Prevent & Heal Stretch Marks, Scar removal & Stretch ma…",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair-removal cream / spray · Paraben-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Hair-removal cream / spray",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Soothing / calming, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51eKFBbWbAL.jpg",
+   "https://m.media-amazon.com/images/I/41F5NDU7v6L.jpg",
+   "https://m.media-amazon.com/images/I/51hsjxLL+9L.jpg",
+   "https://m.media-amazon.com/images/I/41BGl0mDXhL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CDLVRYWT",
+  "buyStore": "Amazon",
+  "title": "Anti Stretch Marks Cream | Removes Prevent & Heal Stretch Marks, Scar removal & Stretch mark remover for Stomach, thighs & Body/Stretch Marks Removal Cream",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:anti-aging",
+   "claim:soothing",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:sensitive",
+   "free:paraben",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "optima-b0df7rhhzb",
+  "brand": "OPTIMA",
+  "model": "Pack of 2 ;100 ml each Anti Stretch Mark Cream Safeguards Skin from Stretch Marks During P…",
+  "price": 544,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream · ₹272/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹272/100ml",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51H6b1hIJvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61GJ-jCuXtL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Dae9C5mmL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61KkjaNtvoL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/41YTAwuJ-CL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DF7RHHZB",
+  "buyStore": "Amazon",
+  "title": "OPTIMA Pack of 2 ;100 ml each Anti Stretch Mark Cream Safeguards Skin from Stretch Marks During Pregnancy Weight Gain Weight Loss Dual Hydration Deep Moisturization Anti Stretch Marks Cream for Women",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:pack",
+   "format:kit",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wvhc-b0d8jkhw7q",
+  "brand": "wvhc",
+  "model": "Stretch Mark Removal Cream For Women, Stretch Mark Cream For Pregnancy, Stretch Mark Cream…",
+  "price": 349,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair-removal cream / spray · ₹349/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹349/100g",
+   "format": "Hair-removal cream / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ouTmgxjVL._SL1307_.jpg",
+   "https://m.media-amazon.com/images/I/61cZJo38AyL._SL1307_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D8JKHW7Q",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Removal Cream For Women, Stretch Mark Cream For Pregnancy, Stretch Mark Cream During Pregnancy, Stretch Mark Removal Ceam After Pregnancy 100G",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:oil",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "unbranded-b0gyctscnd",
   "brand": "Unbranded",
   "model": "Silicone Scar Removal Cream for Keloids, Stretch Marks & Acne – Fast Absorbing, Non-Sticky…",
@@ -137615,7 +141632,8 @@ const NXPRODUCTS = [
    "evidenceActives": "dimethicone (#2 on list, moderate evidence); urea (#7 on list, strong evidence); glycerin (#9 on list, strong evidence); rosa canina fruit oil (#16 on list, moderate evidence); retinyl palmitate (#25 on list, limited evidence); tocopheryl acetate (#26 on list, moderate evidence); tocopherol (#29 on list, moderate evidence); sodium hyaluronate (#31 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518cjuqaGjL._SL1000_.jpg",
@@ -137649,6 +141667,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -137682,6 +141701,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -137689,6 +141709,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -137696,6 +141717,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -137703,6 +141725,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -137710,6 +141733,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137717,6 +141741,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137724,6 +141749,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137731,6 +141757,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -137738,6 +141765,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -137745,6 +141773,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -137752,6 +141781,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -137759,6 +141789,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -137766,6 +141797,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 32,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -141718,7 +145750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); squalane (#6 on list, moderate evidence); glycerin (#14 on list, strong evidence); allantoin (#20 on list, limited evidence); panthenol (#21 on list, moderate evidence); tocopheryl acetate (#22 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51sGv4K7JBL._SL1000_.jpg",
@@ -141749,6 +145782,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -141782,6 +145817,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -141789,6 +145825,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -141796,6 +145833,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -141803,6 +145841,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -141810,6 +145849,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -141817,6 +145857,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -141824,6 +145865,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -141831,6 +145873,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -144563,7 +148606,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-b0gwff1msw",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "Stretch Mark Cream | Moisturizing Formula for Skin Texture Support | 100 gm",
   "price": 260,
   "capacityLine": "100 g",
@@ -144818,7 +148861,8 @@ const NXPRODUCTS = [
    "evidenceActives": "paraffinum liquidum (#1 on list, moderate evidence); glycerin (#4 on list, strong evidence); butyrospermum parkii butter (#10 on list, moderate evidence); urea (#12 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence); lanolin (#20 on list, moderate evidence); retinyl palmitate (#27 on list, limited evidence); tocopheryl acetate (#28 on list, moderate evidence); niacinamide (#29 on list, strong evidence); tocopherol (#32 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: farnesol, limonene, linalool (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, lavandula angustifolia oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #29 on INCI; Dark spots — niacinamide #29 on INCI; Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C8nWAJD3L._SL1500_.jpg",
@@ -144850,6 +148894,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -144882,6 +148929,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -144889,6 +148937,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -144896,6 +148945,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -144903,6 +148953,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -144910,6 +148961,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -144917,6 +148969,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -144924,6 +148977,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -144931,6 +148985,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -144938,6 +148993,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -144945,6 +149001,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -144952,6 +149009,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -144959,6 +149017,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -144966,6 +149025,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -144973,6 +149033,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -150110,6 +154171,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -150117,6 +154179,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -150124,6 +154187,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -150131,6 +154195,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -150138,6 +154203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -156144,6 +160210,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -156151,6 +160218,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -156158,6 +160226,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -156165,6 +160234,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -156172,6 +160242,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -156531,7 +160602,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "luminae-b0gwf9bjm8",
-  "brand": "Luminae",
+  "brand": "LUMINAE",
   "model": "Stretch Mark Cream | Smooth Skin Texture Support Cream for Elastic Feel | 100 gm",
   "price": 260,
   "capacityLine": "100 g",
@@ -161155,6 +165226,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -161162,6 +165234,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -161169,6 +165242,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -161176,6 +165250,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -161183,6 +165258,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -161190,6 +165266,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -168301,6 +172378,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -168308,6 +172386,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -168315,6 +172394,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -168322,6 +172402,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -168329,6 +172410,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -168507,7 +172589,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#10 on list, strong evidence); panthenol (#15 on list, moderate evidence); retinol (#17 on list, strong evidence); hyaluronic acid (#19 on list, moderate evidence); tocopheryl acetate (#22 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Essential oil / volatile sensitiser: citrus aurantium dulcis peel oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #10 on INCI; Dark spots — glycyrrhiza glabra root extract #8 on INCI, niacinamide #10 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51oZAF1rM6L._SL1080_.jpg",
@@ -168539,6 +172622,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -168571,6 +172657,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -168578,6 +172665,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -168585,6 +172673,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -168592,6 +172681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -168599,6 +172689,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -168606,6 +172697,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -168613,6 +172705,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -168620,6 +172713,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -168627,6 +172721,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -172712,3593 +176807,6 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": false,
    "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b07r3tv8m3",
-  "brand": "Unbranded",
-  "model": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscl…",
-  "price": 220,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹110/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹110/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ui+ZQLDTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07R3TV8M3",
-  "buyStore": "Amazon",
-  "title": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint aches & stiffness for mobility. Moisturizes skin & reduces stretch mark appearance",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b09myxmgy5",
-  "brand": "Unbranded",
-  "model": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin…",
-  "price": 499,
-  "capacityLine": "200 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹250/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹250/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71hOgVosn0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09MYXMGY5",
-  "buyStore": "Amazon",
-  "title": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin & All Day Moisture Lock | For All Skin Types & Healing Stretch Marks | 100% Organic",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "skin:dry",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "coronation-b0g9sxsv1g",
-  "brand": "COROnation",
-  "model": "Herbal Rich Cocoa Butter Deep Moisturising & Nourishing Body Lotion for Men & Women | For …",
-  "price": 159,
-  "capacityLine": "400 ml",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹40/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹40/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41kspJ2SthL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G9SXSV1G",
-  "buyStore": "Amazon",
-  "title": "COROnation Herbal Rich Cocoa Butter Deep Moisturising & Nourishing Body Lotion for Men & Women | For Intense Moisturization & Hydration | Improve Skin Texture & Elasticity | Reduce Stretch Mark & Scar - 400 ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:balm",
-   "ing:cocoa-butter",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:women",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "palmer-s-b002wthj2e",
-  "brand": "Palmer's",
-  "model": "Cocoa Butter Formula Massage Lotion For Stretch Marks 8.5Oz",
-  "price": 499,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61YcId3kZWL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B002WTHJ2E",
-  "buyStore": "Amazon",
-  "title": "Palmer's Cocoa Butter Formula Massage Lotion For Stretch Marks 8.5Oz",
-  "tags": [
-   "scope:unstated",
-   "format:lotion",
-   "format:balm",
-   "ing:cocoa-butter",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "namyaa-b07x25gh6l",
-  "brand": "Namyaa",
-  "model": "Natural Science Body Toning, Sculpting Wonder Oil For Scars, Stretch Mark, Ageing, Uneven …",
-  "price": 584,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹292/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Namyaa official website (namyaa.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "tocopheryl acetate high on the INCI list (moderate evidence)"
-  ],
-  "cons": [
-   "Essential oil / volatile sensitiser: rosa damascena flower oil, pelargonium graveolens flower oil",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 2.8,
-   "skin": 5.9,
-   "trust": 5.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹292/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
-   "inciSourceUrl": "https://namyaa.in/products/body-oil",
-   "inciMatchedName": "Body Toning and Sculpting Oil (name match 90%)",
-   "inciList": "Sesamum Indicum (Sesame) Seed Oil, Prunus Amygdalus Dulcis (Almond) Kernel Oil, Triticum Vulgare (Wheat) Germ Oil, Oryza Sativa (Rice) Bran Oil, Withania Somnifera (Ashwagandha) Root Extract, Sida Cordifolia (Bala) Root Extract, Rosa Damascena (Rose) Flower Oil, Tocopheryl Acetate (Vitamin E), Pelargonium Graveolens (Geranium) Flower Oil, Coconut Oil, Cymbopogon schoenanthus (Lemongrass) oil, Turmeric Oil, Crocus Sativus Flower (Saffron)",
-   "evidenceActives": "tocopheryl acetate (#8 on list, moderate evidence)",
-   "safetyFlags": "Essential oil / volatile sensitiser: rosa damascena flower oil, pelargonium graveolens flower oil, cymbopogon schoenanthus oil (−1.5)",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51VZM7DNmTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07X25GH6L",
-  "buyStore": "Amazon",
-  "title": "Namyaa Natural Science Body Toning, Sculpting Wonder Oil For Scars, Stretch Mark, Ageing, Uneven Skin Tone, Firming, Nourishment, 200 ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Namyaa official website (namyaa.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://namyaa.in/products/body-oil",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Body Toning and Sculpting Oil",
-   "inciMatchScore": 0.9,
-   "inciText": "Sesamum Indicum (Sesame) Seed Oil, Prunus Amygdalus Dulcis (Almond) Kernel Oil, Triticum Vulgare (Wheat) Germ Oil, Oryza Sativa (Rice) Bran Oil, Withania Somnifera (Ashwagandha) Root Extract, Sida Cordifolia (Bala) Root Extract, Rosa Damascena (Rose) Flower Oil, Tocopheryl Acetate (Vitamin E), Pelargonium Graveolens (Geranium) Flower Oil, Coconut Oil, Cymbopogon schoenanthus (Lemongrass) oil, Turmeric Oil, Crocus Sativus Flower (Saffron)",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "src": "vitc"
-    },
-    {
-     "name": "cocos nucifera oil",
-     "grade": "C",
-     "position": 10,
-     "core": false,
-     "src": "squalane"
-    }
-   ],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "essentialOil",
-     "label": "Essential oil / volatile sensitiser",
-     "names": [
-      "rosa damascena flower oil",
-      "pelargonium graveolens flower oil",
-      "cymbopogon schoenanthus oil"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "strie-b0dsjfn2sp",
-  "brand": "STRIE",
-  "model": "Stretch Marks Cream",
-  "price": 489,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51d59Ph-YML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSJFN2SP",
-  "buyStore": "Amazon",
-  "title": "STRIE Stretch Marks Cream",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gx65w24h",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Cream for Pregnancy & Body Care, 50ml | Moisturizing Belly Cream, Hydrating S…",
-  "price": 685,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹1370/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1370/100ml",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41rzBSErdSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX65W24H",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Cream for Pregnancy & Body Care, 50ml | Moisturizing Belly Cream, Hydrating Skin, For Belly, Hips & Thighs, Daily Skin Care",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0fn85mc4v",
-  "brand": "Unbranded",
-  "model": "Smooth & Sculpt Body Lotion 180ml + 25ml | Reduces Cellulite & Stretch Marks | Dry & Dull …",
-  "price": 620,
-  "capacityLine": "180 ml",
-  "materialLine": "Collagen",
-  "featureLine": "Lotion · ₹344/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "180 ml",
-   "pricePer100": "₹344/100ml",
-   "format": "Lotion",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Collagen (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51e0SShsBvL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FN85MC4V",
-  "buyStore": "Amazon",
-  "title": "Smooth & Sculpt Body Lotion 180ml + 25ml | Reduces Cellulite & Stretch Marks | Dry & Dull Skin | Boosts Collagen | Moisturizing - Firming - Nourishing | Fast Absorbing | For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "ing:collagen",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "mylo-b0d6lyt9p8",
-  "brand": "Mylo",
-  "model": "Stretch Marks Cream 100 gm & Stretch Mark Oil 100 ml|Stretch Marks removal for women |Made…",
-  "price": 629,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹629/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹629/100g",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61NPMScPMtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D6LYT9P8",
-  "buyStore": "Amazon",
-  "title": "Mylo Stretch Marks Cream 100 gm & Stretch Mark Oil 100 ml|Stretch Marks removal for women |Made Safe Certified|Safe in pregnancy & effective on all body parts",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "actiwowrx-b0fnn37q1z",
-  "brand": "ActiwowRx",
-  "model": "Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pr…",
-  "price": 159,
-  "capacityLine": "30 ml",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹530/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹530/100ml",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51-9vOkWR-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FNN37Q1Z",
-  "buyStore": "Amazon",
-  "title": "ActiwowRx Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pregnancy Latic Acid & Shea Butter | One-a-Day | Prevent",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "regenscar-b0hd75pbgr",
-  "brand": "Regenscar",
-  "model": "Triple Action Scar Removal Cream for Stretch Marks, Acne Marks & Skin Repair | Helps Impro…",
-  "price": 399,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Hydrating / moisturizing, Barrier repair, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51O3NUny-DL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HD75PBGR",
-  "buyStore": "Amazon",
-  "title": "Regenscar Triple Action Scar Removal Cream for Stretch Marks, Acne Marks & Skin Repair | Helps Improve Scar Appearance, Moisturizes & Supports Skin Renewal | Suitable for All Skin Types | Pack of 2",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:stretch-marks",
-   "claim:scars",
-   "skin:all",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gc5xhx64",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal O…",
-  "price": 180,
-  "capacityLine": "30 ml",
-  "materialLine": "Almond",
-  "featureLine": "Oil · ₹600/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹600/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61m-LZ4yD1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GC5XHX64",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal Oil for Women | Boosts Skin Elasticity, Prevents Stretching from Weight Changes",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:almond",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "mylo-b0d6lwdybz",
-  "brand": "Mylo",
-  "model": "Stretch Marks Oil 100ml, for Scars & Stretch Mark Lightening - Natural Skin Care Solution …",
-  "price": 274,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹274/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹274/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Whitening / fairness (claim), Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61u6C6EiEVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D6LWDYBZ",
-  "buyStore": "Amazon",
-  "title": "Mylo Stretch Marks Oil 100ml, for Scars & Stretch Mark Lightening - Natural Skin Care Solution for Pregnant Women",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:whitening-claim",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hfs7dnp2",
-  "brand": "Unbranded",
-  "model": "Ayurvedic Stretch Mark Oil for Pregnancy Women Scar Removal Oil Body Repair Serum 30ML",
-  "price": 899,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹2997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹2997/100ml",
-   "format": "Serum",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Nqso2anqL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HFS7DNP2",
-  "buyStore": "Amazon",
-  "title": "Ayurvedic Stretch Mark Oil for Pregnancy Women Scar Removal Oil Body Repair Serum 30ML",
-  "tags": [
-   "scope:body",
-   "format:serum",
-   "format:oil",
-   "claim:barrier",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0bhmzypfg",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Oil Helps in Scar Removal, Uneven Skin Tone & Soothes Itchy and Stretchy Skin…",
-  "price": 875,
-  "capacityLine": "50 ml",
-  "materialLine": "Rose",
-  "featureLine": "Oil · ₹1750/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1750/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Soothing / calming, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/7177JJXbXzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BHMZYPFG",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Oil Helps in Scar Removal, Uneven Skin Tone & Soothes Itchy and Stretchy Skin with 100% Natural Essential Oils Rose, Myrrh, Jasmine |All Skin Types|- 50ml",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:rose",
-   "claim:dark-spots",
-   "claim:soothing",
-   "claim:stretch-marks",
-   "claim:scars",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fqjv34nv",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Removal Remover Essential Oil Improve Scars for a Radiant Look Uneven Skin To…",
-  "price": 199,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹663/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51M6yi7ahnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FQJV34NV",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Removal Remover Essential Oil Improve Scars for a Radiant Look Uneven Skin Tone in Both Light and Dark Skin Reduces Wrinkles Improves Skin Elasticity - (30ML)",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "luminae-b0gwdxxn58",
-  "brand": "Luminae",
-  "model": "Stretch Mark Cream | Pregnancy Safe Moisturizing Skin Care Formula | 100 gm",
-  "price": 260,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹260/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹260/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Qdzj3YZyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GWDXXN58",
-  "buyStore": "Amazon",
-  "title": "Luminae Stretch Mark Cream | Pregnancy Safe Moisturizing Skin Care Formula | 100 gm",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dfwcjq6r",
-  "brand": "Unbranded",
-  "model": "Stretch Marks Cream | Stretch Mark Cream For Women & Men | Anti stretch mark cream during …",
-  "price": 269,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹269/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹269/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71O4UAXn7pL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DFWCJQ6R",
-  "buyStore": "Amazon",
-  "title": "Stretch Marks Cream | Stretch Mark Cream For Women & Men | Anti stretch mark cream during & After pregnancy - (100gm)",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0c5mg5fbl",
-  "brand": "Unbranded",
-  "model": "Anti Stretch Marks Cream | Removes Pregnancy stretch marks, Scar removal and Stretch mark …",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41kh5ZozhwL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5MG5FBL",
-  "buyStore": "Amazon",
-  "title": "Anti Stretch Marks Cream | Removes Pregnancy stretch marks, Scar removal and Stretch mark remover for Stomach, thighs & all body parts (No Side Effects)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0dcb8c73h",
-  "brand": "Unbranded",
-  "model": "Ayurvedic Stretch Mark Cream | Improves appearance of Fresh and Mature Stretch Marks | Inf…",
-  "price": 349,
-  "capacityLine": "100 g",
-  "materialLine": "Hyaluronic acid + Rosehip",
-  "featureLine": "Cream · ₹349/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹349/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Hyaluronic acid, Rosehip (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41pzZwSx-fL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DCB8C73H",
-  "buyStore": "Amazon",
-  "title": "Ayurvedic Stretch Mark Cream | Improves appearance of Fresh and Mature Stretch Marks | Infused with Hyaluronic Acid & Rosehip Cream |Safe for pregnancy, All skin types -100G",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "ing:hyaluronic-acid",
-   "ing:rosehip",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "skin:all",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "supplyspot-b0d3bgbyw7",
-  "brand": "Supplyspot",
-  "model": "RtopR Mango Stretch Marks and Scar Cream for Pregnancy",
-  "price": 799,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51rvsrcOavL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D3BGBYW7",
-  "buyStore": "Amazon",
-  "title": "Supplyspot RtopR Mango Stretch Marks and Scar Cream for Pregnancy",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "veda-b0cv7ky62q",
-  "brand": "Veda",
-  "model": "Harvest Natural Stretch Mark Cream For Women & Men| 50Gm | Reduce Pregnancy Stretch Marks …",
-  "price": 349,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹698/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹698/100g",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Whitening / fairness (claim), Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51GDtXFLJyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CV7KY62Q",
-  "buyStore": "Amazon",
-  "title": "Veda Harvest Natural Stretch Mark Cream For Women & Men| 50Gm | Reduce Pregnancy Stretch Marks | Stomach | Thighs & | All Body Parts Stretch Marks | Lightening Scar | All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:whitening-claim",
-   "claim:stretch-marks",
-   "claim:scars",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gfndk6p8",
-  "brand": "Unbranded",
-  "model": "Pure Aura Healing Stretch Mark Cream (Pack of 2, 75 gm each)| Visible Reduction in Stretch…",
-  "price": 537,
-  "capacityLine": "150 g (pack of 2)",
-  "materialLine": "Centella / cica + Almond + Coconut",
-  "featureLine": "Cream · ₹358/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "75 g × 2 pack",
-   "pricePer100": "₹358/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Centella / cica, Almond, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71tajoHkLkL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GFNDK6P8",
-  "buyStore": "Amazon",
-  "title": "Pure Aura Healing Stretch Mark Cream (Pack of 2, 75 gm each)| Visible Reduction in Stretch Marks in 10 Days | Hydrating Ayurvedic Blend Coconut, Almond & Centella",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "ing:centella-cica",
-   "ing:almond",
-   "ing:coconut",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h3ffn54h",
-  "brand": "Unbranded",
-  "model": "Stretch Marks Cream For Women Ideally Used During & After Pregnancy 100 ml (Pack of 1)",
-  "price": 199,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71muC6iwZTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3FFN54H",
-  "buyStore": "Amazon",
-  "title": "Stretch Marks Cream For Women Ideally Used During & After Pregnancy 100 ml (Pack of 1)",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "luminae-b0gwfhhtwp",
-  "brand": "Luminae",
-  "model": "Stretch Mark Cream | Skin Texture Support Formula for Soft Smooth Skin | 100 gm",
-  "price": 260,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹260/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹260/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71TWEjmlnJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GWFHHTWP",
-  "buyStore": "Amazon",
-  "title": "Luminae Stretch Mark Cream | Skin Texture Support Formula for Soft Smooth Skin | 100 gm",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:exfoliating",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "going-b0h5qcjfgr",
-  "brand": "Going",
-  "model": "Stripes Stretch Mark Cream for Women & Men | Helps Reduce Appearance of Existing Stretch M…",
-  "price": 1249,
-  "capacityLine": "60 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹2082/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹2082/100ml",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61DiMrSMpaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5QCJFGR",
-  "buyStore": "Amazon",
-  "title": "Going Stripes Stretch Mark Cream for Women & Men | Helps Reduce Appearance of Existing Stretch Marks & Prevent New Marks | For Pregnancy, Weight Gain, Puberty & Fitness | 60 ml",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "riffway-b0c8jggppm",
-  "brand": "RIFFWAY",
-  "model": "Anti Stretch Marks Cream | Uneven Skin Tone| Stretch Marks & Ageing Signs for Glowing Skin…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Y1YTi5A-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C8JGGPPM",
-  "buyStore": "Amazon",
-  "title": "RIFFWAY Anti Stretch Marks Cream | Uneven Skin Tone| Stretch Marks & Ageing Signs for Glowing Skin and Moisturizing Cream, Stretch mark remover for Stomach, thighs & all body parts (No Side | Effects)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0cdlvrywt",
-  "brand": "Unbranded",
-  "model": "Anti Stretch Marks Cream | Removes Prevent & Heal Stretch Marks, Scar removal & Stretch ma…",
-  "price": 399,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51eKFBbWbAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CDLVRYWT",
-  "buyStore": "Amazon",
-  "title": "Anti Stretch Marks Cream | Removes Prevent & Heal Stretch Marks, Scar removal & Stretch mark remover for Stomach, thighs & Body/Stretch Marks Removal Cream",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "optima-b0df7rhhzb",
-  "brand": "OPTIMA",
-  "model": "Pack of 2 ;100 ml each Anti Stretch Mark Cream Safeguards Skin from Stretch Marks During P…",
-  "price": 544,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹272/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹272/100ml",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51H6b1hIJvL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DF7RHHZB",
-  "buyStore": "Amazon",
-  "title": "OPTIMA Pack of 2 ;100 ml each Anti Stretch Mark Cream Safeguards Skin from Stretch Marks During Pregnancy Weight Gain Weight Loss Dual Hydration Deep Moisturization Anti Stretch Marks Cream for Women",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "roya-star-b0bs3wz1pq",
-  "brand": "Roya-Star",
-  "model": "15 Derma15 Herbal Skin Specialist Dark Circle Remover Cream + Stretch Marks + Anti Dandruf…",
-  "price": 589,
-  "capacityLine": "75 g (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · ₹785/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "25 g × 3 pack",
-   "pricePer100": "₹785/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark circles / puffiness, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61fNGhv+wPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BS3WZ1PQ",
-  "buyStore": "Amazon",
-  "title": "Roya-Star 15 Derma15 Herbal Skin Specialist Dark Circle Remover Cream + Stretch Marks + Anti Dandruff Cream 25 Grams Each Pack of 3",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "burt-s-bees-b00dm14tyc",
-  "brand": "Burt's Bees",
-  "model": "Mama Bee Belly Butter 6.5 Ounce",
-  "price": 2048,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body butter",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71KNZYoeDyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00DM14TYC",
-  "buyStore": "Amazon",
-  "title": "Burt's Bees Mama Bee Belly Butter 6.5 Ounce",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "ovin-b08vjc7tkl",
-  "brand": "OVIN",
-  "model": "Herbal Stretch Marks Serum Oil (Vegan) - Fat Stretch Marks/Scars/Pregnancy Stretch Marks/S…",
-  "price": 225,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61rP0VmSDzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08VJC7TKL",
-  "buyStore": "Amazon",
-  "title": "OVIN Herbal Stretch Marks Serum Oil (Vegan) - Fat Stretch Marks/Scars/Pregnancy Stretch Marks/Skin Toner",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:toner",
-   "format:oil",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "claim:scars",
-   "free:vegan",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h5ww4k1d",
-  "brand": "Unbranded",
-  "model": "Stretch Marks Scar Removal Cream | During After Pregnancy Delivery Women | Post Pregnancy …",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Hair-removal cream / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71ztGjwqCcL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5WW4K1D",
-  "buyStore": "Amazon",
-  "title": "Stretch Marks Scar Removal Cream | During After Pregnancy Delivery Women | Post Pregnancy Fast Work|",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0d8jkhw7q",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Removal Cream For Women, Stretch Mark Cream For Pregnancy, Stretch Mark Cream…",
-  "price": 349,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹349/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹349/100g",
-   "format": "Hair-removal cream / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ouTmgxjVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D8JKHW7Q",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Removal Cream For Women, Stretch Mark Cream For Pregnancy, Stretch Mark Cream During Pregnancy, Stretch Mark Removal Ceam After Pregnancy 100G",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vinsompro-b015sizzey",
-  "brand": "Vinsompro",
-  "model": "Marks Removal Cream | post delivery | | Stretch Marks Removal, Scars, Uneven Skin Tone, Pr…",
-  "price": 500,
-  "capacityLine": "50 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair-removal cream / spray · ₹1000/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "25 g × 2 pack",
-   "pricePer100": "₹1000/100g",
-   "format": "Hair-removal cream / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "2.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61CKYuANY7L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B015SIZZEY",
-  "buyStore": "Amazon",
-  "title": "Vinsompro Marks Removal Cream | post delivery | | Stretch Marks Removal, Scars, Uneven Skin Tone, Premium Herbs & Natural Oils | 25 gm (Pack of 2)",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:kit",
-   "claim:dark-spots",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dglqyvtw",
-  "brand": "Unbranded",
-  "model": "Stretch Marks Cream | Repair-Based Ayurvedic Formula for Pregnancy & Weight Change Marks |…",
-  "price": 329,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream · Fragrance-free · ₹329/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹329/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Fragrance-free, Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Exfoliating, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51dtULhVYSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DGLQYVTW",
-  "buyStore": "Amazon",
-  "title": "Stretch Marks Cream | Repair-Based Ayurvedic Formula for Pregnancy & Weight Change Marks | Improves Skin Elasticity & Texture | Paraben-Free, Fragrance-Free | For All Skin Types (100 g)",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "skin:all",
-   "free:paraben",
-   "free:fragrance",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
    "derm": false,
    "men": false,
    "women": false,

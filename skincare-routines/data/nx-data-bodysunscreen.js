@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -47,7 +47,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf juice (#2 on list, moderate evidence); zinc oxide (#12 on list, strong evidence); titanium dioxide (#13 on list, strong evidence); niacinamide (#14 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/a/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahphzh4sekusf2.jpeg?q=90",
@@ -85,6 +86,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -117,6 +121,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -124,6 +129,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -131,6 +137,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -138,6 +145,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -145,6 +153,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -152,6 +161,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -159,6 +169,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -166,6 +177,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -173,6 +185,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -180,6 +193,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -187,6 +201,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -194,6 +209,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -1058,7 +1074,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-itm6ccc9eed62f4b",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Nourishing Body Oil, With Vitamin E & Sunscreen",
   "price": 125,
   "capacityLine": "Quantity not stated",
@@ -1162,7 +1178,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-itmb28e81db09c4f",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Nourishing Body Oil, With Vitamin E & Sunscreen (Pack of 2 X 200 ml)",
   "price": 125,
   "capacityLine": "400 ml (pack of 2)",
@@ -1692,6 +1708,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -1699,6 +1716,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1706,6 +1724,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -2248,6 +2267,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2255,6 +2275,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -2262,6 +2283,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -2269,6 +2291,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -2276,6 +2299,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -4296,7 +4320,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "declaredManufacturer": "WishCare, 28, B.T. Road, Kolkata- 700002 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 24,091 ratings"
+   "buyerEvidence": "4.3★ from 24,091 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/e/x/200-sunscreen-body-lotion-in-vivo-tested-for-women-men-no-white-original-imahp76jpf6gtrg4.jpeg?q=90",
@@ -4319,6 +4344,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -4352,6 +4379,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4359,6 +4387,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4366,6 +4395,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4373,6 +4403,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4380,6 +4411,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -4552,7 +4584,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc oxide (#25 on list, strong evidence); titanium dioxide (#26 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 24,091 ratings"
+   "buyerEvidence": "4.3★ from 24,091 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/0/6/8/100-spf50-sunscreen-lotion-broad-spectrum-uva-uvb-protection-no-original-imahhfh8v6wrayby.jpeg?q=90",
@@ -4587,6 +4620,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -4620,6 +4655,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4627,6 +4663,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4634,6 +4671,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4641,6 +4679,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4648,6 +4687,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4655,6 +4695,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4662,6 +4703,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -4669,6 +4711,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -4676,6 +4719,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4683,6 +4727,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4690,6 +4735,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -4697,6 +4743,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -6977,7 +7024,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#12 on list, strong evidence); zinc oxide (#26 on list, strong evidence); titanium dioxide (#27 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 968 ratings"
+   "buyerEvidence": "4.2★ from 968 ratings",
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/9/r/9/200-niacinamide-4-spf-50-pa-sunscreen-lotion-200ml-body-lotion-original-imahgg4bdng8hmbb.jpeg?q=90",
@@ -7003,6 +7051,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -7034,6 +7084,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7041,6 +7092,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -7048,6 +7100,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -7055,6 +7108,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -7062,6 +7116,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -7069,6 +7124,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -7076,6 +7132,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -7083,6 +7140,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -7090,6 +7148,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -7097,6 +7156,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -7104,6 +7164,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -7111,6 +7172,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -9715,7 +9777,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-itm6109d27998fe1",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Sunscreen - SPF 35 PA+++ Sunscreen - SPF 35 PA+++ Skin Brightening Body Sunscreen Lotion",
   "price": 133,
   "capacityLine": "150 ml",
@@ -14593,7 +14655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); zinc oxide (#3 on list, strong evidence); titanium dioxide (#4 on list, strong evidence); avobenzone (#5 on list, strong evidence); octocrylene (#6 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#7 on list, strong evidence); aloe barbadensis leaf extract (#8 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/5/q/v/200-sunscreen-body-lotion-for-summer-with-spf-50-for-women-men-original-imahmvxbwevrzzvh.jpeg?q=90",
@@ -14625,6 +14688,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -14657,6 +14721,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14664,6 +14729,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14671,6 +14737,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14678,6 +14745,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14685,6 +14753,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14692,6 +14761,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -14699,6 +14769,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -14986,7 +15057,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
    "declaredManufacturer": "WishCare, 28, B.T. Road, Kolkata- 700002 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 11,474 ratings"
+   "buyerEvidence": "4.3★ from 11,474 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/3/e/x/200-sunscreen-body-lotion-in-vivo-tested-for-women-men-no-white-original-imahp76jpf6gtrg4.jpeg?q=90",
@@ -15008,6 +15080,8 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -15041,6 +15115,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15048,6 +15123,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15055,6 +15131,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15062,6 +15139,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15069,6 +15147,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15076,6 +15155,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -15083,6 +15163,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -15090,6 +15171,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -15097,6 +15179,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15104,6 +15187,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -15111,6 +15195,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -15118,6 +15203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -16424,7 +16510,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "A G Industries (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 7,373 ratings"
+   "buyerEvidence": "4.2★ from 7,373 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/x/p/600-vitamin-c-sunscreen-body-lotion-spf-30-300-ml-pack-of-2-original-imagemn2gfez74zp.jpeg?q=90",
@@ -16447,6 +16534,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -16480,6 +16569,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -16487,6 +16577,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -16494,6 +16585,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -16501,6 +16593,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -16508,6 +16601,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -16515,6 +16609,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -16522,6 +16617,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -16529,6 +16625,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -16536,6 +16633,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -25929,7 +26027,8 @@ const NXPRODUCTS = [
    "evidenceActives": "zinc oxide (#3 on list, strong evidence); panthenol (#8 on list, moderate evidence); titanium dioxide (#9 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 460 ratings"
+   "buyerEvidence": "4.2★ from 460 ratings",
+   "concernBasis": "Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/8/f/x/200-body-lotion-smart-sun-protection-soothes-protects-all-skin-original-imahc45xhrmctw4z.jpeg?q=90",
@@ -25964,6 +26063,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -25996,6 +26096,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -26003,6 +26104,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -26010,6 +26112,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -26017,6 +26120,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -26969,6 +27073,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -26976,6 +27081,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -26983,6 +27089,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -26990,6 +27097,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -26997,6 +27105,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -27004,6 +27113,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -27011,6 +27121,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -27018,6 +27129,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -27025,6 +27137,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -27032,6 +27145,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -27039,6 +27153,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -31123,7 +31238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "titanium dioxide (#2 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/o/d/f/200-spf-50-sunblock-cream-lightweight-protection-50-fairlis-original-imahmz8zzg5szhua.jpeg?q=90",
@@ -31159,6 +31275,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -31190,6 +31307,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -31197,6 +31315,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -31204,6 +31323,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -31211,6 +31331,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -31218,6 +31339,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -32526,6 +32648,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -32533,6 +32656,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -32540,6 +32664,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -32547,6 +32672,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -32554,6 +32680,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -32561,6 +32688,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -36368,7 +36496,8 @@ const NXPRODUCTS = [
    "evidenceActives": "octocrylene (#2 on list, strong evidence); ethylhexyl salicylate (#3 on list, strong evidence); niacinamide (#13 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 192 ratings"
+   "buyerEvidence": "4.3★ from 192 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/o/i/b/400-sunscreen-body-lotion-broad-spectrum-uva-uvb-protection-no-original-imahjgy3dcet6haw.jpeg?q=90",
@@ -36403,6 +36532,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -36436,6 +36567,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -36443,6 +36575,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -36450,6 +36583,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36457,6 +36591,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -36464,6 +36599,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -36596,7 +36732,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-itm80adee6ae8ab2",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Body Sunscreen Lotion For Tan Control",
   "price": 93,
   "capacityLine": "Quantity not stated",
@@ -38046,6 +38182,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -38053,6 +38190,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -38060,6 +38198,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -38067,6 +38206,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -38074,6 +38214,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -38081,6 +38222,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -38088,6 +38230,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -38110,7 +38253,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-itm14a5f4826d895",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Sunscreen - SPF SPF 35 PA+++ Skin Brightening Body Sunscreen Lotion",
   "price": 127,
   "capacityLine": "300 ml",
@@ -41880,6 +42023,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -41887,6 +42031,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -41894,6 +42039,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -41901,6 +42047,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -41908,6 +42055,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     }
    ],
@@ -42522,7 +42670,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); butyl methoxydibenzoylmethane (#3 on list, strong evidence); zinc oxide (#8 on list, strong evidence); niacinamide (#15 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/m/f/a/200-sunscreen-spf-50-pa-dual-mineral-sunscreen-body-spray-with-original-imahjf8c6h8hpk7b.jpeg?q=90",
@@ -42551,6 +42700,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -42584,6 +42735,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -42591,6 +42743,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -42598,6 +42751,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -42605,6 +42759,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42612,6 +42767,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -42619,6 +42775,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -42751,6 +42908,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -42758,6 +42916,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42765,6 +42924,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -42772,6 +42932,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -43458,6 +43619,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -43465,6 +43627,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -43472,6 +43635,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -43479,6 +43643,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -43486,6 +43651,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -43790,7 +43956,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "A G Industries (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 2,891 ratings"
+   "buyerEvidence": "4.3★ from 2,891 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/l/n/600-vitamin-c-sunscreen-body-lotion-spf-30-300-ml-pack-of-2-original-imaghtgfkzutaa2m.jpeg?q=90",
@@ -43813,6 +43980,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -43846,6 +44015,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -43853,6 +44023,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -43860,6 +44031,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -43867,6 +44039,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -43874,6 +44047,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -43881,6 +44055,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -43888,6 +44063,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -43895,6 +44071,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -43902,6 +44079,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -45357,6 +45535,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -45364,6 +45543,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -45371,6 +45551,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -45378,6 +45559,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -45385,6 +45567,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -45392,6 +45575,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -45399,6 +45583,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -45406,6 +45591,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -45413,6 +45599,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -46944,7 +47131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "titanium dioxide (#2 on list, strong evidence); aloe barbadensis leaf extract (#4 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/x/p/1/100-sunscreen-spf-50-pa-oil-free-smooth-texture-50-fairlis-original-imahmz3f7ycvmtsa.jpeg?q=90",
@@ -46982,6 +47170,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -47013,6 +47202,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -47020,6 +47210,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47027,6 +47218,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -47034,6 +47226,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -47041,6 +47234,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -47883,6 +48077,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -47890,6 +48085,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -47897,6 +48093,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -47904,6 +48101,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47911,6 +48109,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -47918,6 +48117,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -47925,6 +48125,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -47932,6 +48133,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -49324,13 +49526,244 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "mensport-itmdcc9fa0d1ff38",
-  "brand": "Mensport",
-  "model": "Rosemary Spray 100ml, Face-Body Serum 30ml, Rose Water 100ml & Sunscreen 100ml",
-  "price": 423,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Tea tree + Rose",
-  "featureLine": "Sunscreen · Paraben-free · ₹212/100ml",
+  "id": "unbranded-itm7dbca07349e7f",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Spf body lotion | Body lotion 5 liter | Body lotion for women",
+  "price": 1808,
+  "capacityLine": "40 g (pack of 2)",
+  "materialLine": "Ceramides + Centella / cica + Saffron",
+  "featureLine": "Lotion · Paraben-free · SPF 30 · ₹4520/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "20 g × 2 pack",
+   "pricePer100": "₹4520/100g",
+   "format": "Lotion",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Ceramides, Centella / cica, Saffron (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: LIME SAFFRON OUD",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/q/f/10-body-lotion-spf-body-lotion-body-lotion-5-liter-body-lotion-original-imahmz828ft8fny4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/p/f/10-body-lotion-tan-removal-body-lotion-for-women-men-body-lotion-original-imahmpp2dzxm26yn.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/x/n/1/10-body-lotion-tan-removal-body-lotion-for-women-men-body-lotion-original-imahmpp2yrgw76sz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/f/10-body-lotion-spf-body-lotion-body-lotion-5-liter-body-lotion-original-imahn3hjgp8hfzmz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/z/i/10-body-lotion-spf-body-lotion-body-lotion-5-liter-body-lotion-original-imahn3her39z4hra.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-spf-5-liter-women/p/itm7dbca07349e7f",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Spf body lotion | Body lotion 5 liter | Body lotion for women",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "format:kit",
+   "spf:30",
+   "pa:+++",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "ing:saffron",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "LIME SAFFRON OUD",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm074761be45f64",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Sunscreen body lotion | Body Lotion for Women | Moisture for men",
+  "price": 1808,
+  "capacityLine": "15 g",
+  "materialLine": "Colloidal oatmeal + Centella / cica + Aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹12053/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹12053/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Centella / cica, Aloe vera (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ALOE VERA EXTRACT",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/p/5/10-body-lotion-sunscreen-body-lotion-body-lotion-for-women-original-imahmz7k9mufymvc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/m/i/g/10-body-lotion-body-lotion-for-women-men-body-lotion-spf-original-imahmpr8r4qvmh5g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/z/c/10-body-lotion-sunscreen-body-lotion-body-lotion-for-women-original-imahn3mhxjpfq4kx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/n/u/10-body-lotion-body-lotion-for-women-men-body-lotion-spf-original-imahmpr8f5mxh6kf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/o/d/10-body-lotion-sunscreen-body-lotion-body-lotion-for-women-original-imahn3mh6xdwbvnc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-sunscreen-women-moisture-men/p/itm074761be45f64",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Sunscreen body lotion | Body Lotion for Women | Moisture for men",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:pack",
+   "spf:30",
+   "pa:+++",
+   "ing:colloidal-oatmeal",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "ALOE VERA EXTRACT",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itmdd7db1268f85e",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion| Body lotion with spf| Mens body lotion| Skin whitening body lotion",
+  "price": 1818,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "Green tea + Centella / cica + Saffron",
+  "featureLine": "Lotion · Paraben-free · SPF 30 · ₹227/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -49345,16 +49778,17 @@ const NXPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹212/100ml",
-   "format": "Sunscreen",
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹227/100ml",
+   "format": "Lotion",
    "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Tea tree, Rose (named on listing)",
+   "keyIngredients": "Green tea, Centella / cica, Saffron, Cocoa butter (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), Hydrating / moisturizing, Soothing / calming, Exfoliating, Ayurvedic / herbal, SPF included, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
    "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
@@ -49369,28 +49803,41 @@ const NXPRODUCTS = [
    "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/5/x/rosemary-spray-100ml-face-body-serum-30ml-rose-water-100ml-original-imah3bg9qqyythxj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/n/s/multipurpose-aloe-vera-gel-130ml-face-and-body-whitening-serum-original-imah3bg8g6dmg6g3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/o/q/broad-spectrum-sunscreen-100ml-hair-growth-ginger-serum-30ml-original-imah3bg8ajm7xygh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/b/9/g/onion-hair-fall-shampoo-family-pack-2-may-combo-11-mamaearth-original-imah4kjezzsngdrz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/m/y/g/pro-techs-botox-shampoo-250-ml-botox-hair-mask-250-ml-pack-of-2-original-imaghz2qsty28he2.jpeg?q=90"
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/o/10-body-lotion-body-lotion-with-spf-mens-body-lotion-skin-original-imahmz96rmax2jru.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/m/5/20-ng-glow-cream-anti-melasma-dark-spot-pigmentation-removal-original-imahdbhhyn8uqjc6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/j/b/d/500-deep-pore-milk-moisturising-body-lotion-500ml-cream-zavers-original-imahkgkeszfvgktq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/9/c/400-cocoa-butter-intensive-body-lotion-hydra-nutri-blance-800ml-original-imah6rz6k4g3kkhr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/b/h/max-light-non-greasy-moisturizing-skin-cream-all-season-skin-original-imah5habzzs3ggts.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/mensport-rosemary-spray-100ml-face-body-serum-30ml-rose-water-100ml-sunscreen/p/itmdcc9fa0d1ff38",
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-lotion-spf-mens-skin-whitening/p/itmdd7db1268f85e",
   "buyStore": "Flipkart",
-  "title": "Mensport Rosemary Spray 100ml, Face-Body Serum 30ml, Rose Water 100ml & Sunscreen 100ml",
+  "title": "CENTELLA Body Lotion| Body lotion with spf| Mens body lotion| Skin whitening body lotion",
   "tags": [
    "scope:both",
-   "format:serum",
-   "format:mist",
-   "format:oil",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
    "format:pack",
    "format:kit",
-   "ing:tea-tree",
-   "ing:rose",
+   "spf:30",
+   "pa:+++",
+   "ing:green-tea",
+   "ing:centella-cica",
+   "ing:saffron",
+   "ing:cocoa-butter",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:all",
    "free:paraben",
+   "free:derm",
+   "free:vegan",
    "aud:women",
-   "size:large",
+   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -49398,7 +49845,7 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": true,
    "natural": true,
-   "derm": false,
+   "derm": true,
    "men": false,
    "women": true,
    "inci": "none",
@@ -49418,6 +49865,950 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itmdeca729e97e00",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion| Skin whitening body lotion | Mens body lotion| Body lotion with spf",
+  "price": 1719,
+  "capacityLine": "160 ml (pack of 2)",
+  "materialLine": "Colloidal oatmeal + Ceramides + Centella / cica",
+  "featureLine": "Lotion · Paraben-free · SPF 30 · ₹1074/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 ml × 2 pack",
+   "pricePer100": "₹1074/100ml",
+   "format": "Lotion",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Ceramides, Centella / cica, Aloe vera (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), Hydrating / moisturizing, Soothing / calming, Exfoliating, SPF included, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ALOE VERA EXTRACT",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/b/10-body-lotion-skin-whitening-body-lotion-mens-body-lotion-body-original-imahmybydhrffrgk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/6/e/1/10-body-lotion-body-lotion-for-summer-season-spf-50-body-lotion-original-imahmpprwt43vtt3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/8/8/x/10-body-lotion-body-lotion-for-summer-season-spf-50-body-lotion-original-imahmpprvfdmmtjh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/m/5/20-ng-glow-cream-anti-melasma-dark-spot-pigmentation-removal-original-imahdbhhyn8uqjc6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/j/b/d/500-deep-pore-milk-moisturising-body-lotion-500ml-cream-zavers-original-imahkgkeszfvgktq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-skin-whitening-lotion-mens-spf/p/itmdeca729e97e00",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion| Skin whitening body lotion | Mens body lotion| Body lotion with spf",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "format:kit",
+   "spf:30",
+   "pa:+++",
+   "ing:colloidal-oatmeal",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "ALOE VERA EXTRACT",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itmb74bbd545f943",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Skin Moisturizing Lotion | Body Lotion Sunscreen for Women |",
+  "price": 1808,
+  "capacityLine": "75 g",
+  "materialLine": "Centella / cica + Aloe vera + Cucumber",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹2411/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹2411/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Centella / cica, Aloe vera, Cucumber (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: body lotions for dry skin women",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/v/c/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqzfvqgehy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/l/b/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqzszzgwzf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/t/n/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqmgzssdxk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/z/o/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqaza6yerh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/9/c/400-cocoa-butter-intensive-body-lotion-hydra-nutri-blance-800ml-original-imah6rz6k4g3kkhr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-skin-moisturizing-sunscreen-women/p/itmb74bbd545f943",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Skin Moisturizing Lotion | Body Lotion Sunscreen for Women |",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "spf:30",
+   "pa:+++",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:hypoallergenic",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "body lotions for dry skin women",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm66fc47553b311",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Body Lotion for Women Dry Skin | Body Lotion Sunscreen for Women",
+  "price": 1818,
+  "capacityLine": "15 g",
+  "materialLine": "Centella / cica",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹12120/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹12120/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Centella / cica (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Moisturizer body lotion for dry skin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/a/x/10-body-lotion-body-lotion-for-women-dry-skin-body-lotion-original-imahmjvzmwrapfhe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/z/o/10-body-lotion-body-lotion-for-women-dry-skin-body-lotion-original-imahmp6ygsxs95ya.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/9/10-body-lotion-body-lotion-for-women-dry-skin-body-lotion-original-imahmp6yrtkkfzgm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/9/c/400-cocoa-butter-intensive-body-lotion-hydra-nutri-blance-800ml-original-imah6rz6k4g3kkhr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/b/h/max-light-non-greasy-moisturizing-skin-cream-all-season-skin-original-imah5habzzs3ggts.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-women-dry-skin-sunscreen/p/itm66fc47553b311",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Body Lotion for Women Dry Skin | Body Lotion Sunscreen for Women",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:30",
+   "pa:+++",
+   "ing:centella-cica",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Moisturizer body lotion for dry skin",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm587f28fe83f10",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Sun Protection Body Lotion |Body Lotion for Dry Skin |Body Lotions",
+  "price": 1788,
+  "capacityLine": "15 g",
+  "materialLine": "Centella / cica + Cocoa butter + Coconut",
+  "featureLine": "Lotion · Paraben-free · SPF 30 · ₹11920/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹11920/100g",
+   "format": "Lotion",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Centella / cica, Cocoa butter, Coconut (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Body lotion for dry skin women",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/w/x/t/10-body-lotions-body-whitening-body-lotion-body-lotion-original-imahmnbhdwznjpu8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/o/o/10-body-lotion-sun-protection-body-lotion-body-lotion-for-dry-original-imahmqh2f5gxbcjq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/p/o/f/10-body-lotions-body-whitening-body-lotion-body-lotion-original-imahmnbhvhhkhbqa.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/z/1/10-body-lotion-sun-protection-body-lotion-body-lotion-for-dry-original-imahmqh2jggkwakg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/a/o/10-body-lotion-sun-protection-body-lotion-body-lotion-for-dry-original-imahmqh2yruzzdxt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-sun-protection-body-dry-skin-lotions/p/itm587f28fe83f10",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Sun Protection Body Lotion |Body Lotion for Dry Skin |Body Lotions",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "spf:30",
+   "pa:+++",
+   "ing:centella-cica",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Body lotion for dry skin women",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm2e4f5c9fb98b6",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion |Sunscreen Lotion for Body |Body Lotion Dry Skin|Moisturizing Lotion",
+  "price": 1809,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "Colloidal oatmeal + Centella / cica + Aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹226/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹226/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Centella / cica, Aloe vera, Cocoa butter (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: body lotion summer aloe hydration formula",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/p/u/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmrgfggak2fpj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/l/b/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqzszzgwzf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/v/c/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqzfvqgehy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/q/w/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqvamkp9fk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/9/8/10-body-lotion-sunscreen-lotion-for-body-body-lotion-dry-skin-original-imahmmvqxpzxruww.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-sunscreen-body-dry-skin-moisturizing/p/itm2e4f5c9fb98b6",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion |Sunscreen Lotion for Body |Body Lotion Dry Skin|Moisturizing Lotion",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "spf:30",
+   "pa:+++",
+   "ing:colloidal-oatmeal",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "body lotion summer aloe hydration formula",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm8916a80f10ccd",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion | Body Lotion Sunscreen for Women | Skin Moisturizing Lotion |",
+  "price": 1818,
+  "capacityLine": "50 g",
+  "materialLine": "Centella / cica + Cocoa butter + Coconut",
+  "featureLine": "Sunscreen · Paraben-free · ₹3636/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹3636/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Centella / cica, Cocoa butter, Coconut (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Moisturizer body lotion for dry skin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/t/n/10000-body-lotion-body-lotion-sunscreen-for-women-skin-original-imahmmw6pmkqdyrm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/a/l/10000-body-lotion-body-lotion-sunscreen-for-women-skin-original-imahmmw62wbpvs2b.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/m/u/10000-body-lotion-body-lotion-sunscreen-for-women-skin-original-imahmmw6deha48hc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/a/w/10000-body-lotion-body-lotion-sunscreen-for-women-skin-original-imahmmw6uje94fyb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/a/g/10000-body-lotion-body-lotion-sunscreen-for-women-skin-original-imahmmw6yzp4awfm.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-sunscreen-women-skin-moisturizing/p/itm8916a80f10ccd",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion | Body Lotion Sunscreen for Women | Skin Moisturizing Lotion |",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:centella-cica",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Moisturizer body lotion for dry skin",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm222c02e2abff8",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body lotion| Lotion summer| Moisturizer for women dry skin| Body lotion with spf",
+  "price": 1818,
+  "capacityLine": "300 g (pack of 2)",
+  "materialLine": "Ceramides + Centella / cica + Cocoa butter",
+  "featureLine": "Lotion · Paraben-free · SPF 50 · ₹606/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 g × 2 pack",
+   "pricePer100": "₹606/100g",
+   "format": "Lotion",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Ceramides, Centella / cica, Cocoa butter, Coconut (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, SPF included, Dry / very dry skin relief, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "sunProtection": "SPF 50 (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/o/h/10-body-lotion-lotion-summer-moisturizer-for-women-dry-skin-body-original-imahmz9nwhp3aqmh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/j/b/d/500-deep-pore-milk-moisturising-body-lotion-500ml-cream-zavers-original-imahkgkeszfvgktq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/b/h/max-light-non-greasy-moisturizing-skin-cream-all-season-skin-original-imah5habzzs3ggts.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/5/8/80-h-hdewhance-moisturiser-lotion-80ml-h-h-lotion-original-imahcutk7syvgc3q.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/i/w/c-ceramide-based-full-body-moisturizing-lotion-pack-of-2-x-100ml-original-imahb5q2avvzyqfe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-lotion-summer-moisturizer-women-dry-skin-spf/p/itm222c02e2abff8",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body lotion| Lotion summer| Moisturizer for women dry skin| Body lotion with spf",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "spf:50+",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "claim:overnight",
+   "skin:dry",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:hypoallergenic",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-itm72bd0f95aab2a",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body Lotion |Body Lotion Sunscreen for Women|Body Lotion for men|Body Lotion Spf",
+  "price": 1808,
+  "capacityLine": "80 g",
+  "materialLine": "Centella / cica + Aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹2260/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹2260/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Centella / cica, Aloe vera (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 30 · PA+++ (as labelled)",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: deep moisturizer body lotion with aloe",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/e/2/c/10-body-lotion-body-moisturizer-men-tan-removal-lotion-moisture-original-imahmz3r4mhcuvdk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/o/d/f/10-body-lotion-body-moisturizer-men-tan-removal-lotion-moisture-original-imahmz3r4vg4e94n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/q/8/t/10-body-lotion-body-moisturizer-men-tan-removal-lotion-moisture-original-imahmz3rb72wygy3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/t/j/d/10-body-lotion-body-moisturizer-men-tan-removal-lotion-moisture-original-imahmz3rexeh8g2m.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/t/8/10000-body-lotion-body-lotion-sunscreen-for-women-body-lotion-original-imahmqfrhxrh4arm.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-lotion-body-sunscreen-women-body-men-body-spf/p/itm72bd0f95aab2a",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body Lotion |Body Lotion Sunscreen for Women|Body Lotion for men|Body Lotion Spf",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "spf:30",
+   "pa:+++",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "deep moisturizer body lotion with aloe",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -49660,7 +51051,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b08p24xcyl",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Body Oil – After-Bath Daily-Use Badam Massage Oil with Vitamin E & Sunscre…",
   "price": 199,
   "capacityLine": "200 ml",
@@ -50268,7 +51659,8 @@ const NXPRODUCTS = [
    "evidenceActives": "zinc oxide (#3 on list, strong evidence); titanium dioxide (#14 on list, strong evidence); ethylhexyl salicylate (#19 on list, strong evidence); ethylhexyl methoxycinnamate (#20 on list, strong evidence); octocrylene (#22 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lk1DGI++L._SL1200_.jpg",
@@ -50299,6 +51691,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -50332,6 +51726,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -50339,6 +51734,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -50346,6 +51742,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -50353,6 +51750,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -50360,6 +51758,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -50367,6 +51766,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -50374,6 +51774,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -50381,6 +51782,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -50388,6 +51790,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -51453,7 +52856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "zinc oxide (#3 on list, strong evidence); titanium dioxide (#14 on list, strong evidence); ethylhexyl salicylate (#19 on list, strong evidence); ethylhexyl methoxycinnamate (#20 on list, strong evidence); octocrylene (#22 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Dark spots — ethyl ascorbic acid #16 on INCI; Aging — ethyl ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Giawfr6bL._SL1201_.jpg",
@@ -51484,6 +52888,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -51517,6 +52923,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -51524,6 +52931,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -51531,6 +52939,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -51538,6 +52947,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -51545,6 +52955,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -51552,6 +52963,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -51559,6 +52971,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -51566,6 +52979,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -51573,6 +52987,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -52144,6 +53559,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52151,6 +53567,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52158,6 +53575,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52165,6 +53583,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -52172,6 +53591,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52179,6 +53599,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52186,6 +53607,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -52193,6 +53615,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -52200,6 +53623,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -52207,6 +53631,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -52214,6 +53639,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -53451,6 +54877,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -53458,6 +54885,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -53465,6 +54893,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -53472,6 +54901,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -53479,6 +54909,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -57487,6 +58918,439 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "joy-b07lfs364k",
+  "brand": "JOY",
+  "model": "Honey & Almonds Deep Nourishing Moisturizer for Dry Skin | Skin Cream for Face, Hands & Bo…",
+  "price": 193,
+  "capacityLine": "200 ml",
+  "materialLine": "Honey + Almond + Vitamin E",
+  "featureLine": "Sunscreen · ₹97/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹97/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Honey, Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Honey & Almonds",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61J9jHcgGXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vwlY1DNyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/811hvnjzFdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71mpQpwq7gL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61f0xJlbKuL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07LFS364K",
+  "buyStore": "Amazon",
+  "title": "Joy Honey & Almonds Deep Nourishing Moisturizer for Dry Skin | Skin Cream for Face, Hands & Body | Contains Natural Sunscreen for Glowing Skin | Retains Natural Moisture Balance, 200ml",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:pack",
+   "ing:honey",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Honey & Almonds",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "RSH Global (Joy Personal Care)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.joypersonalcare.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kaiva-b0dzk8w7qt",
+  "brand": "KAIVA",
+  "model": "Sunscreen SPF 50 PA++++ Ultra-Light SPF50 for oily skin & Acne Prone Skin, Matte Finish, S…",
+  "price": 437,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Ga20PEqmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cL3eaUiUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cXAgb-WHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91+-OB+ftXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71kSOveTicL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DZK8W7QT",
+  "buyStore": "Amazon",
+  "title": "KAIVA Sunscreen SPF 50 PA++++ Ultra-Light SPF50 for oily skin & Acne Prone Skin, Matte Finish, Sunscreen lotion for Body & Face (Pack of 2)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gypwtkxj",
+  "brand": "Unbranded",
+  "model": "UV Break SPF 50 Sunscreen Gel for Face & Body (60g) | Broad Spectrum UVA/UVB Protection | …",
+  "price": 479,
+  "capacityLine": "60 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹798/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹798/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Barrier repair, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone, All skin types",
+   "sunProtection": "SPF 50 · PA++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61q4JwvLpeL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/71lNtiqKV6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715d2CR3b5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ZeMPRh3oL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WseF1z3YL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYPWTKXJ",
+  "buyStore": "Amazon",
+  "title": "UV Break SPF 50 Sunscreen Gel for Face & Body (60g) | Broad Spectrum UVA/UVB Protection | Oil-Free, Lightweight & Non-Greasy | Daily Use Sun Protection for All Skin Types",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:50",
+   "pa:++",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-b0gp7c85bv",
+  "brand": "smartdrops",
+  "model": "Collagen Sunscreen SPF 50 | Collagen Sunscreen for Men & Women | SPF 50 PA++++ Sun Care Lo…",
+  "price": 249,
+  "capacityLine": "80 ml",
+  "materialLine": "Collagen",
+  "featureLine": "Sunscreen · SPF 50 · ₹311/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 ml",
+   "pricePer100": "₹311/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61x3iRJeZXL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61jhFRlF7kL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61UPaS9BIFL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51b1VMTFQrL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61y+p8rihGL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GP7C85BV",
+  "buyStore": "Amazon",
+  "title": "Collagen Sunscreen SPF 50 | Collagen Sunscreen for Men & Women | SPF 50 PA++++ Sun Care Lotion Broad Spectrum Face & Body Skincare Friendly Sun screen- 80ml (Pack-3)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:pack",
+   "spf:50",
+   "pa:++++",
+   "ing:collagen",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "aud:women",
+   "size:standard",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
+  }
+ },
+ {
   "id": "sheny-soft-b0dsfr13x4",
   "brand": "sheny soft",
   "model": "Body Oil | Nourishing Body Oil with Vitamin E & Sunscreen for All Skin Types",
@@ -57633,7 +59497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc oxide (#25 on list, strong evidence); titanium dioxide (#26 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513HjWOVmkL._SL1200_.jpg",
@@ -57669,6 +59534,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -57702,6 +59569,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57709,6 +59577,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57716,6 +59585,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57723,6 +59593,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57730,6 +59601,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57737,6 +59609,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -57744,6 +59617,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -57751,6 +59625,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -57758,6 +59633,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57765,6 +59641,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -57772,6 +59649,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -57779,6 +59657,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -63983,7 +65862,8 @@ const NXPRODUCTS = [
    "evidenceActives": "zinc oxide (#3 on list, strong evidence); titanium dioxide (#14 on list, strong evidence); aloe barbadensis leaf extract (#16 on list, moderate evidence); ethylhexyl salicylate (#19 on list, strong evidence); ethylhexyl methoxycinnamate (#20 on list, strong evidence); octocrylene (#22 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GqyNWGwlL._SL1201_.jpg",
@@ -64010,6 +65890,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -64043,6 +65924,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -64050,6 +65932,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -64057,6 +65940,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -64064,6 +65948,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -64071,6 +65956,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -64078,6 +65964,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -64085,6 +65972,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -64092,6 +65980,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -64099,6 +65988,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -64897,6 +66787,1024 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "dr-algar-b0fh2ltf2l",
+  "brand": "Dr. Algar",
+  "model": "Dr. Algar Sunscreen Body Lotion with SPF 50 PA+++ for All Skin Types | Broad Spectrum UVA …",
+  "price": 261,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹131/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹131/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Combination skin, Normal skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61QY8j7m5VL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71M+2tYIzPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71U6pVGIL3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81PUCyEZ2eL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71o5aaiYhOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FH2LTF2L",
+  "buyStore": "Amazon",
+  "title": "Dr. Algar Sunscreen Body Lotion with SPF 50 PA+++ for All Skin Types | Broad Spectrum UVA & UVB Protection | No White Cast | 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:cooling",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:normal",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cezliar-b0h5vx5xvm",
+  "brand": "CEZLIAR",
+  "model": "SPF 60 PA+++ Sunscreen Gel, Waterproof, for Face and Body, Daily Use, Non Greasy, Matte Fi…",
+  "price": 189,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 60",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, All skin types",
+   "sunProtection": "SPF 60 · PA+++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71uN1x3eVPL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71-LCrSmafL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71Rma+G01mL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/7110VXZc7yL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71s9uNGynUL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5VX5XVM",
+  "buyStore": "Amazon",
+  "title": "SPF 60 PA+++ Sunscreen Gel, Waterproof, for Face and Body, Daily Use, Non Greasy, Matte Finish, Suitable for Oily and Dry Skin",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:60",
+   "pa:+++",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "joy-b0854749fd",
+  "brand": "JOY",
+  "model": "Anti Tan SPF 40 Face & Body Sunscreen with 97% Sun Protection & Prevents Skin Darkening (1…",
+  "price": 258,
+  "capacityLine": "100 ml",
+  "materialLine": "Saffron + Papaya + Titanium dioxide",
+  "featureLine": "Sunscreen · SPF 40 · ₹258/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹258/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Saffron, Papaya, Titanium dioxide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, Dark spots / pigmentation, Whitening / fairness (claim), Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "sunProtection": "SPF 40 (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51i0TOKertL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71umAC9EakL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61SA8xK197L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7188TBj7QsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71fowHgJELL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0854749FD",
+  "buyStore": "Amazon",
+  "title": "Joy Anti Tan SPF 40 Face & Body Sunscreen with 97% Sun Protection & Prevents Skin Darkening (100ml) | INVIVO Tested | Lightweight, Water Resistant & Leaves Zero White Cast | Suitable for Normal & Oily Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:patch",
+   "spf:40",
+   "sun:mineral",
+   "ing:saffron",
+   "ing:papaya",
+   "ing:titanium-dioxide",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "RSH Global (Joy Personal Care)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.joypersonalcare.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sissy-b0gf9nppct",
+  "brand": "SISSY",
+  "model": "DOUX SPF 50 PA+++ Sunscreen Gel for Face & Body | Broad Spectrum UVA/UVB Protection | Oil-…",
+  "price": 499,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹998/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹998/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51eD8gdvhuL._SL1010_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GF9NPPCT",
+  "buyStore": "Amazon",
+  "title": "SISSY DOUX SPF 50 PA+++ Sunscreen Gel for Face & Body | Broad Spectrum UVA/UVB Protection | Oil-Free, Matte Finish | Water Resistant | Lightweight Sunscreen for All Skin Types-(50gm)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:50",
+   "pa:+++",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:makeup",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:oil-free",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "skyntra-b0hbdz6jt8",
+  "brand": "Skyntra",
+  "model": "Sunscreen Body Lotion SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Non-Greasy, Water…",
+  "price": 349,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹175/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹175/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Blue light protection, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, All skin types",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51EmmjVNnEL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBDZ6JT8",
+  "buyStore": "Amazon",
+  "title": "Sunscreen Body Lotion SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Non-Greasy, Water-Resistant | Lightweight Daily Body Sunscreen | 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "claim:oil-control",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "dermatouch-b0hcdnfq7d",
+  "brand": "Dermatouch",
+  "model": "Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection 3…",
+  "price": 498,
+  "capacityLine": "30 g",
+  "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Sunscreen · SPF 50 · ₹1660/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1660/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), Lactic acid, AHA, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Exfoliating, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51SFmpoWvzL._SL1001_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCDNFQ7D",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection 30g & AHA 10% BHA 1% Body Lotion For Men and Women 200ml",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:lotion",
+   "format:oil",
+   "spf:50",
+   "pa:++++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:olive",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "rekha-fashion-hub-b0g927hchg",
+  "brand": "Rekha Fashion Hub",
+  "model": "UV Shade Sunscreen Gel SPF 50+ PA+++ 50g | Gentle Daily Sun Care For Face & Body",
+  "price": 629,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1258/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1258/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41JzTaA1l2L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G927HCHG",
+  "buyStore": "Amazon",
+  "title": "UV Shade Sunscreen Gel SPF 50+ PA+++ 50g | Gentle Daily Sun Care For Face & Body",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "spf:50+",
+   "pa:+++",
+   "claim:oil-control",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0d4tbp36s",
+  "brand": "Unbranded",
+  "model": "Sunscreen Lotion and Spray Set SPF 60 | Broad Spectrum Sun Protection | Lightweight & Non-…",
+  "price": 180,
+  "capacityLine": "50 g",
+  "materialLine": "Shea butter + Cocoa butter",
+  "featureLine": "Sunscreen · SPF 60 · ₹360/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹360/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin, All skin types",
+   "sunProtection": "SPF 60 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61NX3c0bC2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/814iMlkteYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71MvlKHcpXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71LW2-IXZ6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717JO2Z5OJL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D4TBP36S",
+  "buyStore": "Amazon",
+  "title": "Sunscreen Lotion and Spray Set SPF 60 | Broad Spectrum Sun Protection | Lightweight & Non-Greasy Formula | 50g Each | Ideal for Face & Body, Daily Use",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:mist",
+   "format:balm",
+   "format:kit",
+   "spf:60",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "allyv-b0gsk6vvzl",
+  "brand": "Allyv",
+  "model": "Lotion Commotion 3-in-1 Hydrating Body Lotion with SPF 35 PA+++ & Niacinamide Serum, Panth…",
+  "price": 519,
+  "capacityLine": "180 ml",
+  "materialLine": "Niacinamide + Rice water + Shea butter",
+  "featureLine": "Sunscreen · SPF 35 · ₹288/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹288/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Rice water, Shea butter, Vitamin B5 / panthenol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Barrier repair, Exfoliating, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 35 · PA+++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6118UUe74TL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71d5Qwc8cpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71LqnX5ir-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71iazbcagQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71MlDXAS+4L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GSK6VVZL",
+  "buyStore": "Amazon",
+  "title": "Allyv Lotion Commotion 3-in-1 Hydrating Body Lotion with SPF 35 PA+++ & Niacinamide Serum, Panthenol, Rice Ferment & Shea Butter – Brightening, Sun Protection & Moisturizing - 180 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "format:stick",
+   "format:balm",
+   "spf:30",
+   "pa:+++",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "ing:shea-butter",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
   "id": "sunscoop-b0c17lwxvp",
   "brand": "SunScoop",
   "model": "Hydrating Fluid Sunscreen for Face and Body SPF 60 PA++++ Broad Spectrum| In-Vivo Tested| …",
@@ -65229,7 +68137,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b00ti9cb1a",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Advanced Nourishing Lightweight Summer Body Lotion 500ml | Enriched With S…",
   "price": 275,
   "capacityLine": "500 ml",
@@ -67418,7 +70326,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc oxide (#25 on list, strong evidence); titanium dioxide (#26 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iU0MG8abL._SL1080_.jpg",
@@ -67454,6 +70363,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -67487,6 +70398,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -67494,6 +70406,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67501,6 +70414,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67508,6 +70422,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67515,6 +70430,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67522,6 +70438,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -67529,6 +70446,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -67536,6 +70454,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -67543,6 +70462,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67550,6 +70470,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67557,6 +70478,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -67564,6 +70486,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -67848,8 +70771,8 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
-   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
-   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml) (name match 100%)",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
+   "inciMatchedName": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml) (name match 100%)",
    "inciList": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
    "evidenceActives": "homosalate (#3 on list, strong evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); ethylhexyl salicylate (#5 on list, strong evidence); aloe barbadensis leaf juice (#11 on list, moderate evidence); diethylhexyl butamido triazone (#14 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Drying alcohol high in the list: ethyl alcohol (−0.5)",
@@ -67899,9 +70822,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-100-ml",
+   "inciSourceUrl": "https://skininspired.in/products/invi-shield-365-body-sunscreen-spray-spf-80-pa-50-ml",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (120ml)",
+   "inciMatchedTitle": "Invi Shield 365 Body Sunscreen Spray SPF 80+ PA ++++ (50 ml)",
    "inciMatchScore": 1,
    "inciText": "Ethyl Alcohol (95% V/V), Propellant, Homosalate, ​Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, ​Butylmethoxydibenzoylmethane/​Avobenzone, Perfume, Polysorbate 20, Phenoxyethanol, Triethylene Glycol, Aloe Barbadensis Leaf Juice, Bis-Ethylhexylox Phenol, Methoxyphenyl Triazine, Diethylhexyl Butamido Triazone, Butylated Hydroxytoluene, Sodium Nitrate, Polyvinylpyrrolidone K-30",
    "inciUnverified": null,
@@ -67914,6 +70837,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67921,6 +70845,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67928,6 +70853,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -67935,6 +70861,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -67942,6 +70869,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -72741,6 +75669,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -72748,6 +75677,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -72755,6 +75685,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -72762,6 +75693,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -72769,6 +75701,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -72776,6 +75709,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -72783,6 +75717,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -72790,6 +75725,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -72797,6 +75733,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -72804,6 +75741,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -72811,6 +75749,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -72818,6 +75757,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -72825,6 +75765,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -72832,6 +75773,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -72839,6 +75781,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -72846,6 +75789,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -73319,6 +76263,1006 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "numour-b0h1567gx5",
+  "brand": "Numour",
+  "model": "Dewy Mist & Go | In-Vivo Tested Sunscreen Spray SPF 50 PA++++ for Face & Body | Hydrating …",
+  "price": 426,
+  "capacityLine": "50 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 50 · ₹852/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹852/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid (named on listing)",
+   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51lVtCX-NHL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1567GX5",
+  "buyStore": "Amazon",
+  "title": "Numour Dewy Mist & Go | In-Vivo Tested Sunscreen Spray SPF 50 PA++++ for Face & Body | Hydrating UV Protection Mist | Ultra Light Invisible Finish | Water Resistant | SPF 70+ Protection 50ml",
+  "tags": [
+   "scope:both",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:alcohol",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-derma-co-b0gv4my7wl",
+  "brand": "The Derma Co",
+  "model": ". 1% Hyaluronic Moisturizing Sunscreen Body lotion SPF 50 PA ++++ with 5% Niacinamide & 3%…",
+  "price": 489,
+  "capacityLine": "200 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid + Vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹245/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹245/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Vitamin E, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51JiqblJMZL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61e30IvGNbL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61RakUiStSL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61V+1jtSHNL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61czCyD4viL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GV4MY7WL",
+  "buyStore": "Amazon",
+  "title": "The Derma Co. 1% Hyaluronic Moisturizing Sunscreen Body lotion SPF 50 PA ++++ with 5% Niacinamide & 3% Glycerin | In-Vivo & In-Vitro Tested | Body Sunscreen with Broad Spectrum UVA & UVB Protection | No White Cast | Non Greasy | Tan protection | For All Skin Types | For Women & Men | 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "tyc-trust-your-choice-b0cwy69d3f",
+  "brand": "TYC - TRUST YOUR CHOICE",
+  "model": "Sunscreen Spf 60++++ Face And Body Lotion, With Coconut Oil And Niacinamide, No White Cast…",
+  "price": 392,
+  "capacityLine": "200 ml",
+  "materialLine": "Niacinamide + Coconut",
+  "featureLine": "Sunscreen · SPF 60 · ₹196/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹196/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Niacinamide, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Water / sweat resistant, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, Ayurvedic / herbal, SPF included (seller claim — not clinical proof)",
+   "skinType": "Combination skin, All skin types",
+   "sunProtection": "SPF 60 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/519MFbqFghL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710tpoabvRL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61BjZjefgDL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61ZGZWyVA7L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61y7lanGqzL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CWY69D3F",
+  "buyStore": "Amazon",
+  "title": "TYC - TRUST YOUR CHOICE Sunscreen Spf 60++++ Face And Body Lotion, With Coconut Oil And Niacinamide, No White Cast And Sand Proof, Hydrating Ayurvedic And Natural, For All Skin Types (200 Ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "spf:60",
+   "ing:niacinamide",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "claim:spf-claim",
+   "skin:combination",
+   "skin:all",
+   "free:derm",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ciavia-b0hc2dv7mb",
+  "brand": "CIAVIA",
+  "model": "Advanced UVA UVB Protection Hydrating Formula SPF 50+ Hydration Sunscreen for Body & Face …",
+  "price": 499,
+  "capacityLine": "150 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹333/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 3 pack",
+   "pricePer100": "₹333/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Bxvr8VetL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71Jit07A6+L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71j2tCE4e-L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71izKTG2QgL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/71bfBBArYZL._SL1402_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HC2DV7MB",
+  "buyStore": "Amazon",
+  "title": "Advanced UVA UVB Protection Hydrating Formula SPF 50+ Hydration Sunscreen for Body & Face (50 ml-Pack of 3)",
+  "tags": [
+   "scope:both",
+   "format:pack",
+   "format:kit",
+   "spf:50+",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "m-kaasa-b0h1jn2n9l",
+  "brand": "M.KAASA",
+  "model": "Sunscreen SPF 50 PA++++ Cream for Face & Body (75gmX2) | UVA UVB Protection | Oil-Free & N…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Hyaluronic acid + Vitamin E + Titanium dioxide",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Hyaluronic acid, Vitamin E, Titanium dioxide (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, No white cast, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "sunProtection": "SPF 50 · PA++++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71CZorteOfL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71yMSxHB+AL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61W8MYf2D6L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71oDa55Q3kL._SL1402_.jpg",
+   "https://m.media-amazon.com/images/I/71kvO9Rdd0L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1JN2N9L",
+  "buyStore": "Amazon",
+  "title": "Sunscreen SPF 50 PA++++ Cream for Face & Body (75gmX2) | UVA UVB Protection | Oil-Free & No White Cast | Hydrating Sunscreen for Daily UseI Vitamin E & Titanium Dioxide | For Oily & Acne Prone Skin I ( PAK OF 2)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "sun:mineral",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:titanium-dioxide",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "free:oil-free",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h3tl1jdp",
+  "brand": "Unbranded",
+  "model": "UV EDGE Sunscreen Gel, SPF 50, 50ml, Sun Protection for Face and Body",
+  "price": 385,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹770/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹770/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61e4kDaRYKL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/61cStNkH9uL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lqotf9sxL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71s4ZV9aSpL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FnesXlLzL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3TL1JDP",
+  "buyStore": "Amazon",
+  "title": "UV EDGE Sunscreen Gel, SPF 50, 50ml, Sun Protection for Face and Body",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:pack",
+   "spf:50",
+   "claim:oil-control",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "roof-50-b0h625w95b",
+  "brand": "Roof-50",
+  "model": "Sunscreen Lotion SPF 50+ PA++ | Broad Spectrum UVA & UVB Protection | Water Resistant, Non…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹299/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Oil control / matte / non-greasy, Exfoliating, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "sunProtection": "SPF 50 · PA++ (as labelled)",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61I-H83MvRL._SL1448_.jpg",
+   "https://m.media-amazon.com/images/I/71+5pFZI8WL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61NNtnsmFVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-hjFQmB5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/718ekoGr3DL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H625W95B",
+  "buyStore": "Amazon",
+  "title": "Roof-50 Sunscreen Lotion SPF 50+ PA++ | Broad Spectrum UVA & UVB Protection | Water Resistant, Non-Comedogenic & Dermatologically Tested Formula | Lightweight Daily Face & Body Sunscreen for All Skin Types | 100 g",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:pack",
+   "spf:50+",
+   "pa:++",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "free:derm",
+   "free:non-comedogenic",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "suncote-b0hbr3kqzk",
+  "brand": "Suncote",
+  "model": "SPF 30 Sunscreen Gel 100g | Broad Spectrum UVA/UVB Protection | Lightweight Oil-Free Gel |…",
+  "price": 630,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 30 · ₹630/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹630/100g",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Exfoliating, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "sunProtection": "SPF 30 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51x2Ed2aouL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBR3KQZK",
+  "buyStore": "Amazon",
+  "title": "Suncote SPF 30 Sunscreen Gel 100g | Broad Spectrum UVA/UVB Protection | Lightweight Oil-Free Gel | Non-Greasy | Non-Comedogenic | Daily Face & Body Sunscreen",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:30",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "free:oil-free",
+   "free:derm",
+   "free:non-comedogenic",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "smartdrops-b0gpcp2v3v",
+  "brand": "smartdrops",
+  "model": "SPF 50 Sunscreen For Men Broad Spectrum UV Protection Face & Body Smooth Daily Sun Lotion …",
+  "price": 189,
+  "capacityLine": "60 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹315/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹315/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "sunProtection": "SPF 50 · PA+++ (as labelled)",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rIFmQDqbL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61v1qxJKrpL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Vwp88k0aL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61c2HOxxoHL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61vJmrL6FKL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPCP2V3V",
+  "buyStore": "Amazon",
+  "title": "SPF 50 Sunscreen For Men Broad Spectrum UV Protection Face & Body Smooth Daily Sun Lotion | Sunscreen SPF 50 PA+++ | Protection Against UVA & UVB | 60ml (Pack 2)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:pack",
+   "spf:50",
+   "pa:+++",
+   "claim:oil-control",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "aud:men",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
   "id": "nat-habit-b0gz4h5f6z",
   "brand": "Nat Habit",
   "model": "Fresh Peach Milk Malai Lotion with Pro-Vitamin B5 & Ceramide | 24H Deep Moisturization & S…",
@@ -73438,7 +77382,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b09cgl6kqy",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Body Oil for Women & Men | Nourishing Body Oil with Vitamin E & Sunscreen …",
   "price": 432,
   "capacityLine": "800 ml (pack of 2)",
@@ -73890,7 +77834,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b07gjm5mb2",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Honey & Almonds Deep Nourishing Moisturizer for Dry Skin | Skin Cream for Face, Hands & Bo…",
   "price": 357,
   "capacityLine": "500 ml",
@@ -74039,7 +77983,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc oxide (#25 on list, strong evidence); titanium dioxide (#26 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OWrATeESL._SL1500_.jpg",
@@ -74074,6 +78019,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -74107,6 +78054,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74114,6 +78062,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74121,6 +78070,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74128,6 +78078,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74135,6 +78086,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74142,6 +78094,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -74149,6 +78102,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -74156,6 +78110,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -74163,6 +78118,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74170,6 +78126,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74177,6 +78134,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74184,6 +78142,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -74428,6 +78387,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74435,6 +78395,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74442,6 +78403,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -74449,6 +78411,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -74456,6 +78419,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -77559,6 +81523,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -77566,6 +81531,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -77573,6 +81539,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -77580,6 +81547,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -77587,6 +81555,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -77594,6 +81563,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -77601,6 +81571,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -77608,6 +81579,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -81711,119 +85683,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "plix-the-plant-fix-b0h1hyfrg6",
-  "brand": "PLIX - THE PLANT FIX",
-  "model": "Plix Pineapple Sunscreen SPF 50 PA++++ & Peaches & Lemon Detan Body Scrub | De-Tan, Bright…",
-  "price": 609,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Glycolic acid + Alpha arbutin + Lemon",
-  "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid, Alpha arbutin, Lemon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Exfoliating, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51tJuEdFkqL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61S1E0ueZ0L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61Xqd67jqYL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61lSnNx0OTL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61ykoBao6DL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1HYFRG6",
-  "buyStore": "Amazon",
-  "title": "Plix Pineapple Sunscreen SPF 50 PA++++ & Peaches & Lemon Detan Body Scrub | De-Tan, Brighten & Protect | For All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:patch",
-   "format:wash",
-   "spf:50",
-   "pa:++++",
-   "ing:glycolic-acid",
-   "ing:alpha-arbutin",
-   "ing:lemon",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
   "id": "oshea-b079dscvyk",
   "brand": "OSHEA",
   "model": "Herbals Papayaclean Brightening Body Butter for Women & Men | 24+Hrs Hydration & Moisturiz…",
@@ -82434,7 +86293,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#12 on list, strong evidence); zinc oxide (#26 on list, strong evidence); titanium dioxide (#27 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — niacinamide #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GLABvBDtL._SL1500_.jpg",
@@ -82474,6 +86334,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -82506,6 +86368,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -82513,6 +86376,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -82520,6 +86384,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -82527,6 +86392,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -82534,6 +86400,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -82541,6 +86408,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -82548,6 +86416,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -82555,6 +86424,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -82562,6 +86432,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -82569,6 +86440,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -82576,6 +86448,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -82583,6 +86456,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -82724,7 +86598,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b00ti9cmnm",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Hello Sun Body Sunscreen Lotion SPF20 PA++ (300ml) | INVIVO Tested | UVA + UVB Protection …",
   "price": 247,
   "capacityLine": "300 ml",
@@ -85220,7 +89094,8 @@ const NXPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#2 on list, moderate evidence); ethylhexyl methoxycinnamate (#4 on list, strong evidence); butyl methoxydibenzoylmethane (#5 on list, strong evidence); benzophenone-3 (#6 on list, strong evidence); zinc oxide (#18 on list, strong evidence); niacinamide (#22 on list, strong evidence); panthenol (#23 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — 3-o-ethyl ascorbic acid #19 on INCI, niacinamide #22 on INCI, glycyrrhiza glabra root extract #31 on INCI; Aging — 3-o-ethyl ascorbic acid #19 on INCI; Irritation — aloe barbadensis leaf extract #2 on INCI, panthenol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bkTFefjTL._SL1080_.jpg",
@@ -85259,6 +89134,10 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -85291,6 +89170,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -85298,6 +89178,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85305,6 +89186,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85312,6 +89194,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85319,6 +89202,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -85326,6 +89210,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85333,6 +89218,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -85340,6 +89226,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -85347,6 +89234,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -85354,6 +89242,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -85361,6 +89250,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -85368,6 +89258,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -85375,6 +89266,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -85564,7 +89456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl methoxycinnamate (#2 on list, strong evidence); diethylamino hydroxybenzoyl hexyl benzoate (#5 on list, strong evidence); methylene bis-benzotriazolyl tetramethylbutylphenol (#7 on list, strong evidence); niacinamide (#17 on list, strong evidence); panthenol (#19 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51N2VpzhBML._SL1500_.jpg",
@@ -85593,6 +89486,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -85626,6 +89522,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85633,6 +89530,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85640,6 +89538,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -85647,6 +89546,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -85654,6 +89554,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -85661,6 +89562,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -85668,6 +89570,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -85675,6 +89578,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -89924,117 +93828,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "foxtale-b0gh72kwty",
-  "brand": "FoxTale",
-  "model": "Hula Hoop Exfoliating Body Scrub + Brightening Body Lotion by Foxtale | Body Scrub with 2%…",
-  "price": 768,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide + Lactic acid + Kojic acid",
-  "featureLine": "Sunscreen · SPF 30",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Lactic acid, Kojic acid, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Pores / blackheads, Barrier repair, Exfoliating, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/516jCKgX7ZL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61LZBsIEMmL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61KRjNuXBML._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/713EbBD2xSL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71T2aDVCnmL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GH72KWTY",
-  "buyStore": "Amazon",
-  "title": "Hula Hoop Exfoliating Body Scrub + Brightening Body Lotion by Foxtale | Body Scrub with 2% Lactic Acid, Dead Sea Salt, & Perlite| Body Lotion with Kojic Acid, Niacinamide, & SPF 30 | For Smooth & Glowing Skin",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:scrub",
-   "spf:30",
-   "ing:niacinamide",
-   "ing:lactic-acid",
-   "ing:kojic-acid",
-   "ing:sea-salt",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:pores",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:spf-claim",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "beardo-b09mj4l2mm",
   "brand": "Beardo",
   "model": "Ultraglow SPF 50 PA+++ Body Lotion for Men, 250 ml | Sun protection,Hydrating & Light Weig…",
@@ -91766,7 +95559,8 @@ const NXPRODUCTS = [
    "evidenceActives": "ethylhexyl salicylate (#3 on list, strong evidence); octocrylene (#4 on list, strong evidence); homosalate (#5 on list, strong evidence); avobenzone (#6 on list, strong evidence); niacinamide (#11 on list, strong evidence); zinc oxide (#25 on list, strong evidence); titanium dioxide (#26 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Y7ubGz7AL._SL1164_.jpg",
@@ -91804,6 +95598,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -91837,6 +95633,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -91844,6 +95641,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91851,6 +95649,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91858,6 +95657,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91865,6 +95665,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91872,6 +95673,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -91879,6 +95681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -91886,6 +95689,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -91893,6 +95697,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91900,6 +95705,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -91907,6 +95713,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -91914,6 +95721,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -92377,7 +96185,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b07gjrpqzk",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Hello Sun Body Sunscreen Lotion SPF 20 PA++ (300ml x 2) INVIVO Tested, For Tan Control & B…",
   "price": 399,
   "capacityLine": "300 ml",
@@ -93058,7 +96866,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "joy-b07pgvpywg",
-  "brand": "Joy",
+  "brand": "JOY",
   "model": "Broad Spectrum SPF 30 Face & Body Sunscreen (100ml) | INVIVO Tested | Sunblock & Anti Tan …",
   "price": 199,
   "capacityLine": "100 ml",
@@ -97912,2169 +101720,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.1★ from 0 ratings"
-  }
- },
- {
-  "id": "numour-b0h1567gx5",
-  "brand": "Numour",
-  "model": "Dewy Mist & Go | In-Vivo Tested Sunscreen Spray SPF 50 PA++++ for Face & Body | Hydrating …",
-  "price": 426,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹852/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹852/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Water / sweat resistant, No white cast, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51lVtCX-NHL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1567GX5",
-  "buyStore": "Amazon",
-  "title": "Numour Dewy Mist & Go | In-Vivo Tested Sunscreen Spray SPF 50 PA++++ for Face & Body | Hydrating UV Protection Mist | Ultra Light Invisible Finish | Water Resistant | SPF 70+ Protection 50ml",
-  "tags": [
-   "scope:both",
-   "format:mist",
-   "spf:50",
-   "pa:++++",
-   "claim:hydrating",
-   "claim:water-resistant",
-   "claim:no-white-cast",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "joy-b07lfs364k",
-  "brand": "Joy",
-  "model": "Honey & Almonds Deep Nourishing Moisturizer for Dry Skin | Skin Cream for Face, Hands & Bo…",
-  "price": 167,
-  "capacityLine": "200 ml",
-  "materialLine": "Honey + Almond",
-  "featureLine": "Sunscreen · ₹84/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹84/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Honey, Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61J9jHcgGXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07LFS364K",
-  "buyStore": "Amazon",
-  "title": "Joy Honey & Almonds Deep Nourishing Moisturizer for Dry Skin | Skin Cream for Face, Hands & Body | Contains Natural Sunscreen for Glowing Skin | Retains Natural Moisture Balance, 200ml",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "ing:honey",
-   "ing:almond",
-   "claim:brightening",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "RSH Global (Joy Personal Care)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.joypersonalcare.com/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "the-derma-co-b0gv4my7wl",
-  "brand": "The Derma Co",
-  "model": ". 1% Hyaluronic Moisturizing Sunscreen Body lotion SPF 50 PA ++++ with 5% Niacinamide & 3%…",
-  "price": 489,
-  "capacityLine": "200 ml",
-  "materialLine": "Niacinamide + Hyaluronic acid + Glycerin",
-  "featureLine": "Sunscreen · SPF 50 · ₹245/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹245/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Hyaluronic acid, Glycerin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, No white cast, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51JiqblJMZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GV4MY7WL",
-  "buyStore": "Amazon",
-  "title": "The Derma Co. 1% Hyaluronic Moisturizing Sunscreen Body lotion SPF 50 PA ++++ with 5% Niacinamide & 3% Glycerin | In-Vivo & In-Vitro Tested | Body Sunscreen with Broad Spectrum UVA & UVB Protection | No White Cast | Non Greasy | Tan protection | For All Skin Types | For Women & Men | 200 ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "spf:50",
-   "pa:++++",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:glycerin",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Honasa Consumer (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://honasa.in/brands"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "dr-algar-b0fh2ltf2l",
-  "brand": "Dr. Algar",
-  "model": "Sunscreen Body Lotion with SPF 50 PA+++ for All Skin Types | Broad Spectrum UVA & UVB Prot…",
-  "price": 261,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹131/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹131/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "No white cast, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61QY8j7m5VL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FH2LTF2L",
-  "buyStore": "Amazon",
-  "title": "Dr. Algar Sunscreen Body Lotion with SPF 50 PA+++ for All Skin Types | Broad Spectrum UVA & UVB Protection | No White Cast | 200 ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "spf:50",
-   "pa:+++",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "tyc-b0cwy69d3f",
-  "brand": "TYC",
-  "model": "TRUST YOUR CHOICE Sunscreen Spf 60++++ Face And Body Lotion, With Coconut Oil And Niacinam…",
-  "price": 392,
-  "capacityLine": "200 ml",
-  "materialLine": "Niacinamide + Coconut",
-  "featureLine": "Sunscreen · SPF 60 · ₹196/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹196/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Niacinamide, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, No white cast, Ayurvedic / herbal, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 60 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/519MFbqFghL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CWY69D3F",
-  "buyStore": "Amazon",
-  "title": "TYC - TRUST YOUR CHOICE Sunscreen Spf 60++++ Face And Body Lotion, With Coconut Oil And Niacinamide, No White Cast And Sand Proof, Hydrating Ayurvedic And Natural, For All Skin Types (200 Ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:oil",
-   "spf:60",
-   "ing:niacinamide",
-   "ing:coconut",
-   "claim:hydrating",
-   "claim:no-white-cast",
-   "claim:ayurvedic",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hc2dv7mb",
-  "brand": "Unbranded",
-  "model": "Advanced UVA UVB Protection Hydrating Formula SPF 50+ Hydration Sunscreen for Body & Face …",
-  "price": 499,
-  "capacityLine": "150 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹333/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 3 pack",
-   "pricePer100": "₹333/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Bxvr8VetL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HC2DV7MB",
-  "buyStore": "Amazon",
-  "title": "Advanced UVA UVB Protection Hydrating Formula SPF 50+ Hydration Sunscreen for Body & Face (50 ml-Pack of 3)",
-  "tags": [
-   "scope:both",
-   "format:kit",
-   "spf:50+",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h1jn2n9l",
-  "brand": "Unbranded",
-  "model": "Sunscreen SPF 50 PA++++ Cream for Face & Body (75gmX2) | UVA UVB Protection | Oil-Free & N…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Vitamin E + Titanium dioxide",
-  "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin E, Titanium dioxide (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Hydrating / moisturizing, No white cast, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Acne-prone",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71CZorteOfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1JN2N9L",
-  "buyStore": "Amazon",
-  "title": "Sunscreen SPF 50 PA++++ Cream for Face & Body (75gmX2) | UVA UVB Protection | Oil-Free & No White Cast | Hydrating Sunscreen for Daily UseI Vitamin E & Titanium Dioxide | For Oily & Acne Prone Skin I ( PAK OF 2)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "spf:50",
-   "pa:++++",
-   "sun:mineral",
-   "ing:vitamin-e",
-   "ing:titanium-dioxide",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:no-white-cast",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:acne-prone",
-   "free:oil-free",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h3tl1jdp",
-  "brand": "Unbranded",
-  "model": "UV EDGE Sunscreen Gel, SPF 50, 50ml, Sun Protection for Face and Body",
-  "price": 385,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹770/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹770/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61e4kDaRYKL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3TL1JDP",
-  "buyStore": "Amazon",
-  "title": "UV EDGE Sunscreen Gel, SPF 50, 50ml, Sun Protection for Face and Body",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:50",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h5vx5xvm",
-  "brand": "Unbranded",
-  "model": "SPF 60 PA+++ Sunscreen Gel, Waterproof, for Face and Body, Daily Use, Non Greasy, Matte Fi…",
-  "price": 189,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 60",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Dry skin",
-   "sunProtection": "SPF 60 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51jpLdyoQ1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5VX5XVM",
-  "buyStore": "Amazon",
-  "title": "SPF 60 PA+++ Sunscreen Gel, Waterproof, for Face and Body, Daily Use, Non Greasy, Matte Finish, Suitable for Oily and Dry Skin",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:60",
-   "pa:+++",
-   "claim:oil-control",
-   "claim:water-resistant",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "joy-b0854749fd",
-  "brand": "Joy",
-  "model": "Anti Tan SPF 40 Face & Body Sunscreen with 97% Sun Protection & Prevents Skin Darkening (1…",
-  "price": 258,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 40 · ₹258/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹258/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Water / sweat resistant, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin",
-   "sunProtection": "SPF 40 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "RSH Global (Joy Personal Care) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51i0TOKertL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0854749FD",
-  "buyStore": "Amazon",
-  "title": "Joy Anti Tan SPF 40 Face & Body Sunscreen with 97% Sun Protection & Prevents Skin Darkening (100ml) | INVIVO Tested | Lightweight, Water Resistant & Leaves Zero White Cast | Suitable for Normal & Oily Skin",
-  "tags": [
-   "scope:both",
-   "spf:40",
-   "claim:de-tan",
-   "claim:water-resistant",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:oily",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "RSH Global (Joy Personal Care)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.joypersonalcare.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "roof-50-b0h625w95b",
-  "brand": "Roof-50",
-  "model": "Sunscreen Lotion SPF 50+ PA++ | Broad Spectrum UVA & UVB Protection | Water Resistant, Non…",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹299/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
-   "benefit": "Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61I-H83MvRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H625W95B",
-  "buyStore": "Amazon",
-  "title": "Roof-50 Sunscreen Lotion SPF 50+ PA++ | Broad Spectrum UVA & UVB Protection | Water Resistant, Non-Comedogenic & Dermatologically Tested Formula | Lightweight Daily Face & Body Sunscreen for All Skin Types | 100 g",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "spf:50+",
-   "pa:++",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:derm",
-   "free:non-comedogenic",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "kaiva-b0dzk8w7qt",
-  "brand": "KAIVA",
-  "model": "Sunscreen SPF 50 PA++++ Ultra-Light SPF50 for oily skin & Acne Prone Skin, Matte Finish, S…",
-  "price": 437,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Oil control / matte / non-greasy, SPF included (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Acne-prone",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Ga20PEqmL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DZK8W7QT",
-  "buyStore": "Amazon",
-  "title": "KAIVA Sunscreen SPF 50 PA++++ Ultra-Light SPF50 for oily skin & Acne Prone Skin, Matte Finish, Sunscreen lotion for Body & Face (Pack of 2)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "spf:50",
-   "pa:++++",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "sissy-b0gf9nppct",
-  "brand": "SISSY",
-  "model": "DOUX SPF 50 PA+++ Sunscreen Gel for Face & Body | Broad Spectrum UVA/UVB Protection | Oil-…",
-  "price": 499,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹998/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹998/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51eD8gdvhuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GF9NPPCT",
-  "buyStore": "Amazon",
-  "title": "SISSY DOUX SPF 50 PA+++ Sunscreen Gel for Face & Body | Broad Spectrum UVA/UVB Protection | Oil-Free, Matte Finish | Water Resistant | Lightweight Sunscreen for All Skin Types-(50gm)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:50",
-   "pa:+++",
-   "claim:oil-control",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:oil-free",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gypwtkxj",
-  "brand": "Unbranded",
-  "model": "UV Break SPF 50 Sunscreen Gel for Face & Body (60g) | Broad Spectrum UVA/UVB Protection | …",
-  "price": 479,
-  "capacityLine": "60 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹798/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "60 g",
-   "pricePer100": "₹798/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61q4JwvLpeL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GYPWTKXJ",
-  "buyStore": "Amazon",
-  "title": "UV Break SPF 50 Sunscreen Gel for Face & Body (60g) | Broad Spectrum UVA/UVB Protection | Oil-Free, Lightweight & Non-Greasy | Daily Use Sun Protection for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:50",
-   "claim:oil-control",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "free:oil-free",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gp7c85bv",
-  "brand": "Unbranded",
-  "model": "Collagen Sunscreen SPF 50 | Collagen Sunscreen for Men & Women | SPF 50 PA++++ Sun Care Lo…",
-  "price": 249,
-  "capacityLine": "80 ml",
-  "materialLine": "Collagen",
-  "featureLine": "Sunscreen · SPF 50 · ₹311/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹311/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Collagen (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61x3iRJeZXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GP7C85BV",
-  "buyStore": "Amazon",
-  "title": "Collagen Sunscreen SPF 50 | Collagen Sunscreen for Men & Women | SPF 50 PA++++ Sun Care Lotion Broad Spectrum Face & Body Skincare Friendly Sun screen- 80ml (Pack-3)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:pack",
-   "spf:50",
-   "pa:++++",
-   "ing:collagen",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:women",
-   "size:standard",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "suncote-b0hbr3kqzk",
-  "brand": "Suncote",
-  "model": "SPF 30 Sunscreen Gel 100g | Broad Spectrum UVA/UVB Protection | Lightweight Oil-Free Gel |…",
-  "price": 630,
-  "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 30 · ₹630/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹630/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
-   "benefit": "Oil control / matte / non-greasy, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51x2Ed2aouL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBR3KQZK",
-  "buyStore": "Amazon",
-  "title": "Suncote SPF 30 Sunscreen Gel 100g | Broad Spectrum UVA/UVB Protection | Lightweight Oil-Free Gel | Non-Greasy | Non-Comedogenic | Daily Face & Body Sunscreen",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:30",
-   "claim:oil-control",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "free:oil-free",
-   "free:non-comedogenic",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hbdz6jt8",
-  "brand": "Unbranded",
-  "model": "Sunscreen Body Lotion SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Non-Greasy, Water…",
-  "price": 349,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹175/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹175/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Water / sweat resistant, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51EmmjVNnEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBDZ6JT8",
-  "buyStore": "Amazon",
-  "title": "Sunscreen Body Lotion SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Non-Greasy, Water-Resistant | Lightweight Daily Body Sunscreen | 200 ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "spf:50",
-   "pa:+++",
-   "claim:oil-control",
-   "claim:water-resistant",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dermatouch-b0hcdnfq7d",
-  "brand": "Dermatouch",
-  "model": "Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection 3…",
-  "price": 498,
-  "capacityLine": "30 g",
-  "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
-  "featureLine": "Sunscreen · SPF 50 · ₹1660/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹1660/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51SFmpoWvzL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCDNFQ7D",
-  "buyStore": "Amazon",
-  "title": "DERMATOUCH Niacinamide 2% Vitamin C SPF 50 PA++++ Sunscreen Gel – Broad Spectrum UVA/UVB Protection 30g & AHA 10% BHA 1% Body Lotion For Men and Women 200ml",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:lotion",
-   "spf:50",
-   "pa:++++",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0g927hchg",
-  "brand": "Unbranded",
-  "model": "UV Shade Sunscreen Gel SPF 50+ PA+++ 50g | Gentle Daily Sun Care For Face & Body",
-  "price": 629,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹1258/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1258/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41JzTaA1l2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G927HCHG",
-  "buyStore": "Amazon",
-  "title": "UV Shade Sunscreen Gel SPF 50+ PA+++ 50g | Gentle Daily Sun Care For Face & Body",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "spf:50+",
-   "pa:+++",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0d4tbp36s",
-  "brand": "Unbranded",
-  "model": "Sunscreen Lotion and Spray Set SPF 60 | Broad Spectrum Sun Protection | Lightweight & Non-…",
-  "price": 180,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 60 · ₹360/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹360/100g",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 60 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61NX3c0bC2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D4TBP36S",
-  "buyStore": "Amazon",
-  "title": "Sunscreen Lotion and Spray Set SPF 60 | Broad Spectrum Sun Protection | Lightweight & Non-Greasy Formula | 50g Each | Ideal for Face & Body, Daily Use",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:mist",
-   "format:kit",
-   "spf:60",
-   "claim:oil-control",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gpcp2v3v",
-  "brand": "Unbranded",
-  "model": "SPF 50 Sunscreen For Men Broad Spectrum UV Protection Face & Body Smooth Daily Sun Lotion …",
-  "price": 189,
-  "capacityLine": "60 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 50 · ₹315/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹315/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 50 · PA+++ (as labelled)",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61rIFmQDqbL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GPCP2V3V",
-  "buyStore": "Amazon",
-  "title": "SPF 50 Sunscreen For Men Broad Spectrum UV Protection Face & Body Smooth Daily Sun Lotion | Sunscreen SPF 50 PA+++ | Protection Against UVA & UVB | 60ml (Pack 2)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:pack",
-   "spf:50",
-   "pa:+++",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:men",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

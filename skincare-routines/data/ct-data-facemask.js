@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -45,7 +45,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Products, Plot No 17, Sector 12, IIE, SIDCUL, Haridwar, Uttarakhand, India - 249403 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 1,871 ratings"
+   "buyerEvidence": "4.4★ from 1,871 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/j/z/r/200-rice-dewy-bright-face-pack-with-rice-water-niacinamide-for-original-imahaakffpzkmuu6.jpeg?q=90",
@@ -75,6 +76,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -109,6 +112,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -116,6 +120,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -123,6 +128,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -130,6 +136,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -137,6 +144,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -144,6 +152,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -346,6 +355,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -460,6 +470,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -575,6 +586,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -1030,6 +1042,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -1143,6 +1156,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -1371,6 +1385,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -1491,6 +1506,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -1603,6 +1619,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -1939,6 +1956,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2052,6 +2070,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2169,6 +2188,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2281,6 +2301,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -2398,6 +2419,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -2445,112 +2467,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sokora-itmc8377c075f98c",
-  "brand": "SOKORA",
-  "model": "Day and Nite Sheet Mask Duo | Hydrating Day & Repair By Ni …",
-  "price": 156,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sheet mask",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.7★ from 39 ratings"
-  ],
-  "cons": [
-   "No water phase or preservative declared — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 6.4
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sheet mask",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.7/5 (39 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Niacinamide, Rice water, Grapeseed oil, Hyaluronic acid, Retinol, Collagen peptide",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "declaredManufacturer": "SHIVIKA COSMECEUTICALS INDIA PVT. LTD. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.7★ from 39 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/i/u/20-day-and-nite-sheet-mask-duo-hydrating-day-repair-by-night-original-imahzf98gkhnhznv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/z/w/d/20-day-and-nite-sheet-mask-duo-hydrating-day-repair-by-night-original-imahzf98kayqkbq4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/l/a/d/20-day-and-nite-sheet-mask-duo-hydrating-day-repair-by-night-original-imahzf98g6eum4yv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/o/d/g/20-day-and-nite-sheet-mask-duo-hydrating-day-repair-by-night-original-imahzf98bmhe9grx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/8/g/3/20-day-and-nite-sheet-mask-duo-hydrating-day-repair-by-night-original-imahzf98razajhm5.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sokora-day-nite-sheet-mask-duo-hydrating-repair-night/p/itmc8377c075f98c",
-  "buyStore": "Flipkart",
-  "title": "SOKORA Day and Nite Sheet Mask Duo | Hydrating Day & Repair By Ni …",
-  "tags": [
-   "scope:unstated",
-   "format:sheet-mask",
-   "claim:hydrating",
-   "claim:barrier",
-   "aud:unisex",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Niacinamide, Rice water, Grapeseed oil, Hyaluronic acid, Retinol, Collagen peptide",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 39 ratings"
-  }
- },
- {
   "id": "mirabelle-cosmetics-korea-itm3d1f13844c018",
   "brand": "MIRABELLE COSMETICS KOREA",
-  "model": "Crystal Clear Skin Facial Sheet Mask ( …",
+  "model": "Crystal Clear Skin Facial Sheet Mask ( Pack of 10 )",
   "price": 576,
   "capacityLine": "25 g",
   "materialLine": "aloe vera + charcoal",
@@ -2598,7 +2517,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mirabelle-cosmetics-korea-crystal-clear-skin-facial-sheet-mask-pack-10/p/itm3d1f13844c018",
   "buyStore": "Flipkart",
-  "title": "MIRABELLE COSMETICS KOREA Crystal Clear Skin Facial Sheet Mask ( …",
+  "title": "MIRABELLE COSMETICS KOREA Crystal Clear Skin Facial Sheet Mask ( Pack of 10 )",
   "tags": [
    "scope:face",
    "format:oil",
@@ -2609,6 +2528,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:aloe-vera",
    "ing:charcoal",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:oil-control",
    "claim:korean",
@@ -2656,6 +2576,125 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 24 ratings"
+  }
+ },
+ {
+  "id": "tap2kaart-itm184860f48aa8a",
+  "brand": "Tap2kaart",
+  "model": "Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask for Deep Hydration",
+  "price": 66,
+  "capacityLine": "34 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask · Paraben-free · ₹194/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "34 g",
+   "pricePer100": "₹194/100g",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/0/r/s/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahhy8b8mgzgfh8.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/w/6/5/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahhy8bkpxh7rxy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/k/p/b/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahhy8bvzhxsky3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/l/j/x/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahhy8bfgznkqgd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/z/t/g/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahhy8bzc5fgfwe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/tap2kaart-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-deep-hydration/p/itm184860f48aa8a",
+  "buyStore": "Flipkart",
+  "title": "Tap2kaart Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask for Deep Hydration",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "format:wash",
+   "format:kit",
+   "ing:collagen",
+   "ing:pearl",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:overnight",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2834,6 +2873,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:rice-water",
    "claim:korean",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
@@ -2997,115 +3037,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "the-soumi-s-can-product-itm1e56551547550",
-  "brand": "The Soumi's Can Product",
-  "model": "Fresh Face Pack125 + Vitamin C Serum 50 C …",
-  "price": 214,
-  "capacityLine": "350 g",
-  "materialLine": "vitamin C + caffeine",
-  "featureLine": "Mask / pack · ₹61/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "350 g",
-   "pricePer100": "₹61/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "vitamin C, caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/3/m/o/fresh-face-pack125-vitamin-c-serum-50-combo-pack-skin-original-imahprhgjsqmhxet.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/r/c/green-coffee-face-body-scrubber-350g-vitamin-c-face-serum-50ml-original-imahprckhmwdt5mf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/k/g/b/clear-1-face-wash-100ml-vitamin-c-serum-50ml-combo-pack-anti-original-imahprhfxbf9ftyz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/c/w/k/green-tea-face-wash-90ml-vitamin-c-serum-50ml-facewash-original-imahprahwjzjhrwa.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/x/o/i/green-tea-face-wash-90ml-with-faire-45-sunscreen-lotion-spf-45-original-imahpsfjjthxxpzy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/soumi-s-can-product-fresh-face-pack125-vitamin-c-serum-50-combo-pack-skin-brightening-glow-boosting/p/itm1e56551547550",
-  "buyStore": "Flipkart",
-  "title": "The Soumi's Can Product Fresh Face Pack125 + Vitamin C Serum 50 C …",
-  "tags": [
-   "scope:both",
-   "format:serum",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:coffee",
-   "claim:brightening",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "twasa-itm2456a8346190a",
   "brand": "Twasa",
   "model": "Salicylic Acid Serum Sheet Mask for Acne | Face Sheet Masks …",
@@ -3147,7 +3078,8 @@ const CTPRODUCTS = [
    "evidenceActives": "aloe barbadensis leaf extract (#8 on list, moderate evidence); hyaluronic acid (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 8 ratings"
+   "buyerEvidence": "4★ from 8 ratings",
+   "concernBasis": "Acne — salicylic acid #3 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/v/b/c/20-salicylic-acid-serum-sheet-mask-for-acne-face-sheet-masks-for-original-imahc563kewg8eky.jpeg?q=90",
@@ -3184,6 +3116,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -3216,6 +3150,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -3223,6 +3158,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -3230,6 +3166,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -3237,6 +3174,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -3244,6 +3182,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -3251,6 +3190,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -3394,7 +3334,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itm7daf6626a03cd",
   "brand": "Dr. Rashel",
-  "model": "HYALURONIC ACID SHEET MASK WITH SERUM THAT PREPARE SKIN …",
+  "model": "HYALURONIC ACID SHEET MASK WITH SERUM THAT PREPARE SKIN FOR MOISTURE (PACK OF 4)",
   "price": 338,
   "capacityLine": "320 g (pack of 4)",
   "materialLine": "hyaluronic acid",
@@ -3444,7 +3384,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-hyaluronic-acid-sheet-mask-serum-prepare-skin-moisture-pack-4/p/itm7daf6626a03cd",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL HYALURONIC ACID SHEET MASK WITH SERUM THAT PREPARE SKIN …",
+  "title": "DR.RASHEL HYALURONIC ACID SHEET MASK WITH SERUM THAT PREPARE SKIN FOR MOISTURE (PACK OF 4)",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -3505,9 +3445,117 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "keya-seth-aromatherapy-itm1261a387a2ff5",
+  "brand": "KEYA SETH AROMATHERAPY",
+  "model": "Hibiscus Replenishing Hydra 3-In-1 Facial Sheet Mask, Cleanser + Mask + Overnight Serum, E…",
+  "price": 133,
+  "capacityLine": "25 ml",
+  "materialLine": "hyaluronic acid + vitamin E",
+  "featureLine": "Sheet mask · Paraben-free · ₹532/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.8
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹532/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (215 ratings, Flipkart)",
+   "madeIn": "UAE",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 215 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/klqx30w0/face-pack/4/1/i/100-hibiscus-replenishing-hydra-3-in-1-face-firming-mask-for-original-imagysqzsyh8jrr4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/klqx30w0/face-pack/i/b/z/100-hibiscus-replenishing-hydra-3-in-1-face-firming-mask-for-original-imagysqzncpzpghd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/klqx30w0/face-pack/1/n/f/100-hibiscus-replenishing-hydra-3-in-1-face-firming-mask-for-original-imagysqzy6zbhrsb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/k/i/25-hibiscus-replenishing-hydra-3-in-1-facial-sheet-mask-cleanser-original-imagz5pdgpqf5ubh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/klqx30w0/face-pack/4/n/7/100-hibiscus-replenishing-hydra-3-in-1-face-firming-mask-for-original-imagysqzf5gmymfz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/keya-seth-aromatherapy-hibiscus-replenishing-hydra-3-in-1-facial-sheet-mask-cleanser-mask-overnight-serum-enriched-hyaluronic-acid-vitamin-e/p/itm1261a387a2ff5",
+  "buyStore": "Flipkart",
+  "title": "KEYA SETH AROMATHERAPY Hibiscus Replenishing Hydra 3-In-1 Facial Sheet Mask, Cleanser + Mask + Overnight Serum, Enriched with Hyaluronic Acid & Vitamin E",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:peel",
+   "format:wash",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "claim:overnight",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 215 ratings"
+  }
+ },
+ {
   "id": "dr-rashel-itm07e4dfdbd4c51",
   "brand": "Dr. Rashel",
-  "model": "HYALURONIC ACID SHEET MASK WITH SERUM | MOISTURIZES SKI …",
+  "model": "HYALURONIC ACID SHEET MASK WITH SERUM | MOISTURIZES SKIN",
   "price": 338,
   "capacityLine": "60 g",
   "materialLine": "hyaluronic acid",
@@ -3557,7 +3605,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-hyaluronic-acid-sheet-mask-serum-moisturizes-skin/p/itm07e4dfdbd4c51",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL HYALURONIC ACID SHEET MASK WITH SERUM | MOISTURIZES SKI …",
+  "title": "DR.RASHEL HYALURONIC ACID SHEET MASK WITH SERUM | MOISTURIZES SKIN",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -3614,235 +3662,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 91 ratings"
-  }
- },
- {
-  "id": "maria-ross-itmba9923c6e8185",
-  "brand": "Maria Ross",
-  "model": "10% Niacinamide Serum & Morrocan Clay Face Pack Combo …",
-  "price": 713,
-  "capacityLine": "160 g (pack of 2)",
-  "materialLine": "vitamin C + niacinamide + clay/mud",
-  "featureLine": "Sunscreen · Paraben-free · ₹446/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 g × 2 pack",
-   "pricePer100": "₹446/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, clay/mud (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/x/t/80-10-niacinamide-serum-morrocan-clay-face-pack-combo-pack-of-2-original-imahhh9gkgzdvqws.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/x/t/80-10-niacinamide-serum-morrocan-clay-face-pack-combo-pack-of-2-original-imahhh9gzbvbjjhw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/i/s/80-10-niacinamide-serum-morrocan-clay-face-pack-combo-pack-of-2-original-imahhh9ghyz496df.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/e/s/80-10-niacinamide-serum-morrocan-clay-face-pack-combo-pack-of-2-original-imahhh9gbyfkdbg3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/0/v/k/300-rice-water-face-wash-combo-pack-of-3-brightening-hydrating-original-imahhj5af75a5xrf.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/maria-ross-10-niacinamide-serum-morrocan-clay-face-pack-combo-2-skin-brightening-care/p/itmba9923c6e8185",
-  "buyStore": "Flipkart",
-  "title": "Maria Ross 10% Niacinamide Serum & Morrocan Clay Face Pack Combo …",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:cream",
-   "format:serum",
-   "format:oil",
-   "format:clay-mask",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:clay",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:dark-circles",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-algar-itme4537d1b6f79f",
-  "brand": "Dr. Algar",
-  "model": "Niacinamide Face Serum + De-Tan Face Pack | Oil Control …",
-  "price": 210,
-  "capacityLine": "60 ml (pack of 2)",
-  "materialLine": "vitamin C + niacinamide + salicylic acid (BHA)",
-  "featureLine": "Sunscreen · ₹350/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 2 pack",
-   "pricePer100": "₹350/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, salicylic acid (BHA) (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/3/3/niacinamide-face-serum-de-tan-face-pack-oil-control-tan-removal-original-imahf52q79jz3khe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/g/m/30-10-niacinamide-face-serum-for-acne-marks-fades-blemishes-dark-original-imah8fy69rqyqdza.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/g/r/30-10-niacinamide-face-serum-for-acne-marks-fades-blemishes-dark-original-imah8fy65w35ctgn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/b/e/30-10-niacinamide-face-serum-for-acne-marks-fades-blemishes-dark-original-imah8fy6zzn7m29s.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/r/s/sunscreen-body-lotion-salicylic-acid-face-wash-uv-protection-original-imahmpcqqagtdu4k.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dr-algar-niacinamide-face-serum-de-tan-pack-oil-control-tan-removal-combo/p/itme4537d1b6f79f",
-  "buyStore": "Flipkart",
-  "title": "Dr. Algar Niacinamide Face Serum + De-Tan Face Pack | Oil Control …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:serum",
-   "format:pack",
-   "format:wash",
-   "format:roll-on",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:ayurvedic",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4117,7 +3936,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 925 ratings"
+   "buyerEvidence": "4.3★ from 925 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/h/6/l/50-bio-retinol-youth-radiance-sleeping-mask-anti-ageing-prevents-original-imahd2gvht9htkz2.jpeg?q=90",
@@ -4147,6 +3967,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -4180,6 +4002,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4187,6 +4010,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4194,6 +4018,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -4201,6 +4026,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -4208,6 +4034,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -4215,6 +4042,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -4222,6 +4050,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -4229,6 +4058,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -4337,6 +4167,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:sandalwood",
    "ing:coconut",
+   "ing:hydrocolloid",
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
@@ -4345,6 +4176,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:ayurvedic",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -4395,7 +4228,7 @@ const CTPRODUCTS = [
  {
   "id": "gleam-soul-itm5268bf0d18328",
   "brand": "Gleam Soul",
-  "model": "Retinol Collagen Anti Wrinkle Face Sheet Mask (2Pcs.) …",
+  "model": "Retinol Collagen Anti Wrinkle Face Sheet Mask (2Pcs.) for Soft & Firm Texture",
   "price": 362,
   "capacityLine": "80 g",
   "materialLine": "retinol + hyaluronic acid",
@@ -4444,7 +4277,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gleam-soul-retinol-collagen-anti-wrinkle-face-sheet-mask-2pcs-soft-firm-texture/p/itm5268bf0d18328",
   "buyStore": "Flipkart",
-  "title": "Gleam Soul Retinol Collagen Anti Wrinkle Face Sheet Mask (2Pcs.) …",
+  "title": "Gleam Soul Retinol Collagen Anti Wrinkle Face Sheet Mask (2Pcs.) for Soft & Firm Texture",
   "tags": [
    "scope:face",
    "format:essence",
@@ -4511,110 +4344,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "oriflame-sweden-itmcdf5e5ce930e2",
-  "brand": "Oriflame Sweden",
-  "model": "Essential Fairness Face Mask and Scrub with Vitam …",
-  "price": 341,
-  "capacityLine": "300 ml (pack of 2)",
-  "materialLine": "vitamin E",
-  "featureLine": "Mask / pack · ₹114/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 96 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "150 ml × 2 pack",
-   "pricePer100": "₹114/100ml",
-   "format": "Mask / pack",
-   "keyIngredients": "vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (96 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Oriflame Cosmetics — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 96 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/kl175ow0/scrub/z/w/d/150-essential-fairness-face-mask-and-scrub-with-vitamin-e-b3-original-imagy9y7ug8u5xtn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kl175ow0/scrub/w/x/n/75-essential-fairness-face-mask-and-scrub-with-vitamin-e-b3-original-imagy8zuxfsrkcqz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kws5hu80/scrub/x/u/k/75-glow-essentials-mask-scrub-with-vitamins-e-b3-oriflame-original-imag9dz3qzhjzt57.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/e/l/n/75-glow-essentials-mask-scrub-with-vitamins-e-b3-75ml-oriflame-original-imagwy3ktuzwsuh2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/r/2/n/75-optimals-exfoliating-face-scrub-oriflame-sweden-original-imagggwd2kvtgchu.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/oriflame-sweden-essential-fairness-face-mask-scrub-vitamin-e-b3-pack-2/p/itmcdf5e5ce930e2",
-  "buyStore": "Flipkart",
-  "title": "Oriflame Sweden Essential Fairness Face Mask and Scrub with Vitam …",
-  "tags": [
-   "scope:face",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-e",
-   "claim:whitening-claim",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Oriflame Cosmetics",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://corporate.oriflame.com/"
-   },
-   "buyers": "4.3★ from 96 ratings"
-  }
- },
- {
   "id": "beardo-itmb89b5d86e301e",
   "brand": "Beardo",
   "model": "Charcoal Peel Off Mask for Men | Face Mask for Glowing Ski …",
@@ -4659,7 +4388,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Marico — Established / listed Indian FMCG house",
    "declaredManufacturer": "HCP Wellness Pvt Ltd Ahmedabad (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 21,295 ratings"
+   "buyerEvidence": "4.1★ from 21,295 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/2/d/m/60-peel-off-mask-purifying-cleansing-black-peel-off-mask-face-original-imahgafabegrchak.jpeg?q=90",
@@ -4680,6 +4410,8 @@ const CTPRODUCTS = [
    "aud:men",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:secondary"
   ],
@@ -4713,6 +4445,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     }
    ],
@@ -5704,6 +5437,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:korean",
+   "claim:scars",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -6284,6 +6019,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -6391,6 +6127,7 @@ const CTPRODUCTS = [
    "format:peel",
    "ing:collagen",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -6596,6 +6333,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "ing:collagen",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
@@ -6810,6 +6548,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:acne",
    "claim:hydrating",
+   "claim:scars",
    "aud:women",
    "rating:none",
    "store:flipkart",
@@ -6917,6 +6656,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:charcoal",
    "claim:water-resistant",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7026,6 +6766,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:charcoal",
    "claim:water-resistant",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7136,6 +6877,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:water-resistant",
    "claim:lightweight",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7245,6 +6987,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:water-resistant",
    "claim:lightweight",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7354,6 +7097,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:charcoal",
    "claim:water-resistant",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7466,6 +7210,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:water-resistant",
    "claim:lightweight",
+   "claim:makeup",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -7570,6 +7315,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -8134,6 +7880,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -8287,9 +8034,120 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "just-herbs-itm7edb1dd650b98",
+  "brand": "Just Herbs",
+  "model": "Green Tea, Mint & Cucumber base Glowing Skin Sheet Mask",
+  "price": 112,
+  "capacityLine": "20 g",
+  "materialLine": "niacinamide + green tea + cucumber",
+  "featureLine": "Sheet mask · Paraben-free · ₹560/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 61 ratings"
+  ],
+  "cons": [
+   "Only 4 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 5.4
+  },
+  "fullSpec": {
+   "quantity": "20 g",
+   "pricePer100": "₹560/100g",
+   "format": "Sheet mask",
+   "keyIngredients": "niacinamide, green tea, cucumber (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (61 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: GREEN TEA, MINT, CUCUMBER, NIACINAMIDE",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Marico — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 61 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/4/q/y/20-green-tea-mint-cucumber-base-glowing-skin-sheet-mask-sheet-original-imagkk2e7rfhqcab.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/6/l/s/20-green-tea-mint-cucumber-base-glowing-skin-sheet-mask-sheet-original-imagkk2eny8vjx47.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/9/e/w/20-green-tea-mint-cucumber-base-glowing-skin-sheet-mask-sheet-original-imagkk2egmctkzn7.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/y/o/k/20-green-tea-mint-cucumber-base-glowing-skin-sheet-mask-sheet-original-imagkk2enxzhed7c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/o/y/3/20-green-tea-mint-cucumber-base-glowing-skin-sheet-mask-sheet-original-imagkk2edfhfbmqz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/just-herbs-green-tea-mint-cucumber-base-glowing-skin-sheet-mask/p/itm7edb1dd650b98",
+  "buyStore": "Flipkart",
+  "title": "Just Herbs Green Tea, Mint & Cucumber base Glowing Skin Sheet Mask",
+  "tags": [
+   "scope:unstated",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "ing:niacinamide",
+   "ing:green-tea",
+   "ing:cucumber",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "GREEN TEA, MINT, CUCUMBER, NIACINAMIDE",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.25,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Marico",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://marico.com/india/brands"
+   },
+   "buyers": "4.3★ from 61 ratings"
+  }
+ },
+ {
   "id": "herbital-itm43c04f66b8cc0",
   "brand": "HERBITAL",
-  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4pc",
   "price": 209,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -8338,7 +8196,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/herbital-glowing-sheet-mask-combo-hydrating-nourishing-facial-face-masks-4pc/p/itm43c04f66b8cc0",
   "buyStore": "Flipkart",
-  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4pc",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8351,6 +8209,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -8400,7 +8259,7 @@ const CTPRODUCTS = [
  {
   "id": "herbital-itm8f171050683fb",
   "brand": "HERBITAL",
-  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4Pcs",
   "price": 209,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -8449,7 +8308,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/herbital-glowing-sheet-mask-combo-hydrating-nourishing-facial-face-masks-4pcs/p/itm8f171050683fb",
   "buyStore": "Flipkart",
-  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4Pcs",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8465,6 +8324,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -8514,7 +8374,7 @@ const CTPRODUCTS = [
  {
   "id": "herbital-itm18a9a805f9a1e",
   "brand": "HERBITAL",
-  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "model": "Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks Pack 4",
   "price": 209,
   "capacityLine": "25 g",
   "materialLine": "charcoal",
@@ -8563,7 +8423,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/herbital-glowing-sheet-mask-combo-hydrating-nourishing-facial-face-masks-pack-4/p/itm18a9a805f9a1e",
   "buyStore": "Flipkart",
-  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial F …",
+  "title": "HERBITAL Glowing Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks Pack 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8626,7 +8486,7 @@ const CTPRODUCTS = [
  {
   "id": "ridoy-itmdee57f5000294",
   "brand": "Ridoy",
-  "model": "Face Mask For Women | sheet mask for glowing skin | Superio …",
+  "model": "Face Mask For Women | sheet mask for glowing skin | Superior Quality Face Mask",
   "price": 140,
   "capacityLine": "80 g",
   "materialLine": "charcoal + clay/mud",
@@ -8675,7 +8535,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ridoy-face-mask-women-sheet-glowing-skin-superior-quality/p/itmdee57f5000294",
   "buyStore": "Flipkart",
-  "title": "Ridoy Face Mask For Women | sheet mask for glowing skin | Superio …",
+  "title": "Ridoy Face Mask For Women | sheet mask for glowing skin | Superior Quality Face Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8739,7 +8599,7 @@ const CTPRODUCTS = [
  {
   "id": "herbital-itmb998596a18859",
   "brand": "HERBITAL",
-  "model": "Face Sheet Mask Combo Hydrating & Nourishing Facial Face …",
+  "model": "Face Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4 Pack",
   "price": 208,
   "capacityLine": "100 g (pack of 4)",
   "materialLine": "Key ingredients not stated",
@@ -8788,7 +8648,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/herbital-face-sheet-mask-combo-hydrating-nourishing-facial-masks-4-pack/p/itmb998596a18859",
   "buyStore": "Flipkart",
-  "title": "HERBITAL Face Sheet Mask Combo Hydrating & Nourishing Facial Face …",
+  "title": "HERBITAL Face Sheet Mask Combo Hydrating & Nourishing Facial Face Sheet Masks 4 Pack",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8847,9 +8707,121 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "saffron-naturals-itm1eb9fd2e0bfbc",
+  "brand": "Saffron Naturals",
+  "model": "Bamboo Charcoal & Strawberry Serum Face Sheet Mask SET OF 4",
+  "price": 200,
+  "capacityLine": "100 ml",
+  "materialLine": "saffron + charcoal",
+  "featureLine": "Sheet mask · Paraben-free · ₹200/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "saffron, charcoal (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.7/5 (15 ratings, Flipkart)",
+   "madeIn": "INDIA",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 15 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/l0mr7gw0/face-pack/l/4/b/100-bamboo-charcoal-strawberry-serum-face-sheet-mask-set-of-4-original-imagcdhqssyjvvzv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/l0pm3680/face-pack/x/l/f/100-bamboo-charcoal-strawberry-serum-face-sheet-mask-set-of-4-original-imagcfpsghf6eydd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/l0lbrm80/face-pack/b/r/f/50-bamboo-charcoal-strawberry-serum-face-sheet-mask-for-face-original-imagcchgv7dghdkz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/l0lbrm80/face-pack/q/4/d/50-bamboo-charcoal-strawberry-serum-face-sheet-mask-for-face-original-imagcchggwszdptz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/l0zm64w0/face-pack/h/l/5/100-bamboo-charcoal-strawberry-serum-face-sheet-mask-set-of-4-original-imagcnh2dqzmxuku.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/saffron-naturals-bamboo-charcoal-strawberry-serum-face-sheet-mask-set-4/p/itm1eb9fd2e0bfbc",
+  "buyStore": "Flipkart",
+  "title": "Saffron Naturals Bamboo Charcoal & Strawberry Serum Face Sheet Mask SET OF 4",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:peel",
+   "format:wash",
+   "format:kit",
+   "ing:saffron",
+   "ing:charcoal",
+   "ing:strawberry",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 15 ratings"
+  }
+ },
+ {
   "id": "glowseren-itm5717fcd65330d",
   "brand": "glowseren",
-  "model": "Velvet Finish Smooth Touch Skin Refining Sheet Mask (25 …",
+  "model": "Velvet Finish Smooth Touch Skin Refining Sheet Mask",
   "price": 67,
   "capacityLine": "25 g",
   "materialLine": "charcoal",
@@ -8898,7 +8870,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/glowseren-velvet-finish-smooth-touch-skin-refining-sheet-mask/p/itm5717fcd65330d",
   "buyStore": "Flipkart",
-  "title": "glowseren Velvet Finish Smooth Touch Skin Refining Sheet Mask (25 …",
+  "title": "glowseren Velvet Finish Smooth Touch Skin Refining Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -8958,7 +8930,7 @@ const CTPRODUCTS = [
  {
   "id": "glowseren-itm3a3298dca1d74",
   "brand": "glowseren",
-  "model": "Skin Nourish Sheet Mask (25 g)",
+  "model": "Skin Nourish Sheet Mask",
   "price": 89,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -9007,7 +8979,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/glowseren-skin-nourish-sheet-mask/p/itm3a3298dca1d74",
   "buyStore": "Flipkart",
-  "title": "glowseren Skin Nourish Sheet Mask (25 g)",
+  "title": "glowseren Skin Nourish Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -9066,7 +9038,7 @@ const CTPRODUCTS = [
  {
   "id": "ridoy-itmeeb08ed5006b0",
   "brand": "Ridoy",
-  "model": "Face Mask For Women | facial mask sheet | Upgraded Collagen …",
+  "model": "Face Mask For Women | facial mask sheet | Upgraded Collagen Serum Facial Mask",
   "price": 132,
   "capacityLine": "180 g",
   "materialLine": "clay/mud + neem",
@@ -9115,7 +9087,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ridoy-face-mask-women-facial-sheet-upgraded-collagen-serum/p/itmeeb08ed5006b0",
   "buyStore": "Flipkart",
-  "title": "Ridoy Face Mask For Women | facial mask sheet | Upgraded Collagen …",
+  "title": "Ridoy Face Mask For Women | facial mask sheet | Upgraded Collagen Serum Facial Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -9177,7 +9149,7 @@ const CTPRODUCTS = [
  {
   "id": "chelica-itmc2aeabda0c9f7",
   "brand": "CHELICA",
-  "model": "Softening & Smoothening Face Mask Sheet PAck Of 6,( S,A,C …",
+  "model": "Softening & Smoothening Face Mask Sheet PAck Of 6,( S,A,C,O,C,R)",
   "price": 530,
   "capacityLine": "1080 g (pack of 6)",
   "materialLine": "snail mucin + rose",
@@ -9226,7 +9198,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/chelica-softening-smoothening-face-mask-sheet-pack-6-s-a-c-o-c-r/p/itmc2aeabda0c9f7",
   "buyStore": "Flipkart",
-  "title": "CHELICA Softening & Smoothening Face Mask Sheet PAck Of 6,( S,A,C …",
+  "title": "CHELICA Softening & Smoothening Face Mask Sheet PAck Of 6,( S,A,C,O,C,R)",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -9292,7 +9264,7 @@ const CTPRODUCTS = [
  {
   "id": "chelica-itm757a3aa1a410f",
   "brand": "CHELICA",
-  "model": "KOREAN Skin Brightening FACE MASK SHEET PACK OF 8 (240 g)",
+  "model": "KOREAN Skin Brightening FACE MASK SHEET PACK OF 8",
   "price": 782,
   "capacityLine": "1920 g (pack of 8)",
   "materialLine": "rose",
@@ -9341,7 +9313,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/chelica-korean-skin-brightening-face-mask-sheet-pack-8/p/itm757a3aa1a410f",
   "buyStore": "Flipkart",
-  "title": "CHELICA KOREAN Skin Brightening FACE MASK SHEET PACK OF 8 (240 g)",
+  "title": "CHELICA KOREAN Skin Brightening FACE MASK SHEET PACK OF 8",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -9632,7 +9604,7 @@ const CTPRODUCTS = [
  {
   "id": "ridoy-itmebc2d90a96e1d",
   "brand": "Ridoy",
-  "model": "Face Mask Sheet | sheet mask for men | Advanced Personal Sk …",
+  "model": "Face Mask Sheet | sheet mask for men | Advanced Personal Skincare & Everyday",
   "price": 140,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -9681,7 +9653,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/ridoy-face-mask-sheet-men-advanced-personal-skincare-everyday/p/itmebc2d90a96e1d",
   "buyStore": "Flipkart",
-  "title": "Ridoy Face Mask Sheet | sheet mask for men | Advanced Personal Sk …",
+  "title": "Ridoy Face Mask Sheet | sheet mask for men | Advanced Personal Skincare & Everyday",
   "tags": [
    "scope:face",
    "format:serum",
@@ -9738,7 +9710,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmfb2592e2d3113",
   "brand": "MasKing",
-  "model": "Beauty Summer Facial Sheet Mask for Skin Moisturising and …",
+  "model": "Beauty Summer Facial Sheet Mask for Skin Moisturising and Calming Natural Serum of Aloe Ve…",
   "price": 123,
   "capacityLine": "80 ml (pack of 2)",
   "materialLine": "aloe vera + cucumber",
@@ -9786,7 +9758,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-summer-facial-sheet-mask-skin-moisturising-calming-natural-serum-aloe-vera-cucumber-women-men/p/itmfb2592e2d3113",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Summer Facial Sheet Mask for Skin Moisturising and …",
+  "title": "MasKing Beauty Summer Facial Sheet Mask for Skin Moisturising and Calming Natural Serum of Aloe Vera and Cucumber for Women and Men",
   "tags": [
    "scope:face",
    "format:serum",
@@ -9852,7 +9824,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm92a7b40cb1205",
   "brand": "MasKing",
-  "model": "Beauty Bamboo Facial Sheet Mask of Rice, Algae & Pearl Co …",
+  "model": "Beauty Bamboo Facial Sheet Mask of Rice, Algae & Pearl Combo Pack of 2",
   "price": 130,
   "capacityLine": "80 ml (pack of 2)",
   "materialLine": "rice water",
@@ -9902,7 +9874,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-bamboo-facial-sheet-mask-rice-algae-pearl-combo-pack-2/p/itm92a7b40cb1205",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Bamboo Facial Sheet Mask of Rice, Algae & Pearl Co …",
+  "title": "MasKing Beauty Bamboo Facial Sheet Mask of Rice, Algae & Pearl Combo Pack of 2",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -9962,7 +9934,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmac603b61d4439",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Green Tea (20 ml)",
+  "model": "Beauty Facial Sheet Mask Green Tea",
   "price": 51,
   "capacityLine": "20 ml",
   "materialLine": "green tea + aloe vera",
@@ -10010,7 +9982,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-green-tea/p/itmac603b61d4439",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Green Tea (20 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Green Tea",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -10073,7 +10045,7 @@ const CTPRODUCTS = [
  {
   "id": "purenso-itmeb992a588c748",
   "brand": "PURENSO",
-  "model": "Select - Dry Facial Sheet Mask (100Pcs x 1 Pack) (100 g)",
+  "model": "Select - Dry Facial Sheet Mask (100Pcs x 1 Pack)",
   "price": 533,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "clay/mud",
@@ -10122,7 +10094,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/purenso-select-dry-facial-sheet-mask-100pcs-x-1-pack/p/itmeb992a588c748",
   "buyStore": "Flipkart",
-  "title": "PURENSO Select - Dry Facial Sheet Mask (100Pcs x 1 Pack) (100 g)",
+  "title": "PURENSO Select - Dry Facial Sheet Mask (100Pcs x 1 Pack)",
   "tags": [
    "scope:both",
    "format:gel",
@@ -10139,6 +10111,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:toxin-free",
@@ -10189,11 +10162,11 @@ const CTPRODUCTS = [
  {
   "id": "purenso-itm653f60474ed53",
   "brand": "PURENSO",
-  "model": "Select - Dry Facial Sheet Mask (50Pcs x 1 Pack) (50 ml)",
+  "model": "Select - Dry Facial Sheet Mask (50Pcs x 1 Pack)",
   "price": 337,
-  "capacityLine": "50 ml",
+  "capacityLine": "50 g",
   "materialLine": "green tea + clay/mud",
-  "featureLine": "Sheet mask · Paraben-free · ₹674/100ml",
+  "featureLine": "Sheet mask · Paraben-free · ₹674/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -10208,8 +10181,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹674/100ml",
+   "quantity": "50 g",
+   "pricePer100": "₹674/100g",
    "format": "Sheet mask",
    "keyIngredients": "green tea, clay/mud (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -10238,7 +10211,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/purenso-select-dry-facial-sheet-mask-50pcs-x-1-pack/p/itm653f60474ed53",
   "buyStore": "Flipkart",
-  "title": "PURENSO Select - Dry Facial Sheet Mask (50Pcs x 1 Pack) (50 ml)",
+  "title": "PURENSO Select - Dry Facial Sheet Mask (50Pcs x 1 Pack)",
   "tags": [
    "scope:face",
    "format:stick",
@@ -10303,7 +10276,7 @@ const CTPRODUCTS = [
  {
   "id": "neycare-itm4dad447e84cad",
   "brand": "Neycare",
-  "model": "sheet mask for dry skin mix fruits sheet mask pack of 1 ( …",
+  "model": "sheet mask for dry skin mix fruits sheet mask pack of 1",
   "price": 202,
   "capacityLine": "25 g",
   "materialLine": "hyaluronic acid",
@@ -10352,7 +10325,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/neycare-sheet-mask-dry-skin-mix-fruits-pack-1/p/itm4dad447e84cad",
   "buyStore": "Flipkart",
-  "title": "Neycare sheet mask for dry skin mix fruits sheet mask pack of 1 ( …",
+  "title": "Neycare sheet mask for dry skin mix fruits sheet mask pack of 1",
   "tags": [
    "scope:face",
    "format:serum",
@@ -10416,7 +10389,7 @@ const CTPRODUCTS = [
  {
   "id": "neycare-itm15526e37d0f24",
   "brand": "Neycare",
-  "model": "soft and skin care hydrate smooth look facial sheet mask …",
+  "model": "soft and skin care hydrate smooth look facial sheet mask pack of 1",
   "price": 202,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -10465,7 +10438,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/neycare-soft-skin-care-hydrate-smooth-look-facial-sheet-mask-pack-1/p/itm15526e37d0f24",
   "buyStore": "Flipkart",
-  "title": "Neycare soft and skin care hydrate smooth look facial sheet mask …",
+  "title": "Neycare soft and skin care hydrate smooth look facial sheet mask pack of 1",
   "tags": [
    "scope:face",
    "format:gel",
@@ -10534,7 +10507,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itmabcb584c5563e",
   "brand": "VIQEHAA",
-  "model": "2 PCS VITAMIN C Soothing Mask,Hydro-Lock Face Sheet Mask …",
+  "model": "2 PCS VITAMIN C Soothing Mask,Hydro-Lock Face Sheet Mask",
   "price": 127,
   "capacityLine": "50 g (pack of 2)",
   "materialLine": "vitamin C + charcoal + licorice",
@@ -10583,7 +10556,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-2-pcs-vitamin-c-soothing-mask-hydro-lock-face-sheet-mask/p/itmabcb584c5563e",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 2 PCS VITAMIN C Soothing Mask,Hydro-Lock Face Sheet Mask …",
+  "title": "VIQEHAA 2 PCS VITAMIN C Soothing Mask,Hydro-Lock Face Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -10658,7 +10631,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itma4233df33b361",
   "brand": "VIQEHAA",
-  "model": "1 PCS Black Pearl Sheet Mask Hydrating Korean Beauty Shee …",
+  "model": "1 PCS Black Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "price": 85,
   "capacityLine": "25 g",
   "materialLine": "vitamin C",
@@ -10707,7 +10680,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-black-pearl-sheet-mask-hydrating-korean-beauty/p/itma4233df33b361",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Black Pearl Sheet Mask Hydrating Korean Beauty Shee …",
+  "title": "VIQEHAA 1 PCS Black Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -10722,6 +10695,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -10778,7 +10752,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm579e9137a8552",
   "brand": "VIQEHAA",
-  "model": "1 PCS Hyaluronic acid Moisturizing Face Sheet Mask (25 g)",
+  "model": "1 PCS Hyaluronic acid Moisturizing Face Sheet Mask",
   "price": 90,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -10827,7 +10801,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-hyaluronic-acid-moisturizing-face-sheet-mask/p/itm579e9137a8552",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Hyaluronic acid Moisturizing Face Sheet Mask (25 g)",
+  "title": "VIQEHAA 1 PCS Hyaluronic acid Moisturizing Face Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -10841,6 +10815,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:dark-spots",
    "claim:hydrating",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -10897,7 +10872,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm887f7959e349d",
   "brand": "VIQEHAA",
-  "model": "1 PCS Gold pearl Sheet Mask for Reducing Acne, Enlarged P …",
+  "model": "1 PCS Gold pearl Sheet Mask for Reducing Acne, Enlarged Pores",
   "price": 80,
   "capacityLine": "25 g",
   "materialLine": "vitamin C",
@@ -10946,7 +10921,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-gold-pearl-sheet-mask-reducing-acne-enlarged-pores/p/itm887f7959e349d",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Gold pearl Sheet Mask for Reducing Acne, Enlarged P …",
+  "title": "VIQEHAA 1 PCS Gold pearl Sheet Mask for Reducing Acne, Enlarged Pores",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -10965,6 +10940,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:korean",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -11021,7 +10997,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm3d367bead9af5",
   "brand": "VIQEHAA",
-  "model": "1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "model": "1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "price": 84,
   "capacityLine": "25 g",
   "materialLine": "vitamin C",
@@ -11070,7 +11046,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-gold-pearl-sheet-mask-hydrating-korean-beauty/p/itm3d367bead9af5",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "title": "VIQEHAA 1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -11140,7 +11116,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm97212f020ec1f",
   "brand": "VIQEHAA",
-  "model": "1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "model": "1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "price": 80,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide + charcoal",
@@ -11189,7 +11165,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-gold-pearl-sheet-mask-hydrating-korean-beauty/p/itm97212f020ec1f",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "title": "VIQEHAA 1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -11263,7 +11239,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm2d5e1ccbda151",
   "brand": "VIQEHAA",
-  "model": "1 PCS Hyaluronic acid Facial sheet Mask 25g (25 g)",
+  "model": "1 PCS Hyaluronic acid Facial sheet Mask 25g",
   "price": 127,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + hyaluronic acid + charcoal",
@@ -11312,7 +11288,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-hyaluronic-acid-facial-sheet-mask-25g/p/itm2d5e1ccbda151",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 PCS Hyaluronic acid Facial sheet Mask 25g (25 g)",
+  "title": "VIQEHAA 1 PCS Hyaluronic acid Facial sheet Mask 25g",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -11328,6 +11304,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -11385,7 +11362,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itm8536d8e85756e",
   "brand": "Lacto Calamine",
-  "model": "Hyaluronic Acid Face Sheet Mask | Instant Hydratio …",
+  "model": "Hyaluronic Acid Face Sheet Mask | Instant Hydration |Glycolic Acid & D-Panthenol",
   "price": 60,
   "capacityLine": "30 g",
   "materialLine": "glycolic acid + hyaluronic acid",
@@ -11435,7 +11412,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-hyaluronic-acid-face-sheet-mask-instant-hydration-glycolic-d-panthenol/p/itm8536d8e85756e",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Hyaluronic Acid Face Sheet Mask | Instant Hydratio …",
+  "title": "Lacto Calamine Hyaluronic Acid Face Sheet Mask | Instant Hydration |Glycolic Acid & D-Panthenol",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -11494,7 +11471,7 @@ const CTPRODUCTS = [
  {
   "id": "jashikumi-itmf5b6a67a04baa",
   "brand": "Jashikumi",
-  "model": "Skin Softening Sheet Mask (25 g)",
+  "model": "Skin Softening Sheet Mask",
   "price": 87,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -11543,7 +11520,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/jashikumi-skin-softening-sheet-mask/p/itmf5b6a67a04baa",
   "buyStore": "Flipkart",
-  "title": "Jashikumi Skin Softening Sheet Mask (25 g)",
+  "title": "Jashikumi Skin Softening Sheet Mask",
   "tags": [
    "scope:face",
    "format:essence",
@@ -11556,6 +11533,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -11605,11 +11583,11 @@ const CTPRODUCTS = [
  {
   "id": "afaraxia-itmddee00e310fc3",
   "brand": "AFARAXIA",
-  "model": "Deep Hydration for all skin type sheet mask (25 ml)",
+  "model": "Deep Hydration for all skin type sheet mask",
   "price": 218,
-  "capacityLine": "100 ml (pack of 4)",
+  "capacityLine": "408 g (pack of 4)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Sheet mask · Paraben-free · ₹218/100ml",
+  "featureLine": "Sheet mask · Paraben-free · ₹53/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -11624,8 +11602,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "25 ml × 4 pack",
-   "pricePer100": "₹218/100ml",
+   "quantity": "102 g × 4 pack",
+   "pricePer100": "₹53/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -11654,7 +11632,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/afaraxia-deep-hydration-all-skin-type-sheet-mask/p/itmddee00e310fc3",
   "buyStore": "Flipkart",
-  "title": "AFARAXIA Deep Hydration for all skin type sheet mask (25 ml)",
+  "title": "AFARAXIA Deep Hydration for all skin type sheet mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -11670,10 +11648,11 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
-   "size:standard",
+   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -11719,7 +11698,7 @@ const CTPRODUCTS = [
  {
   "id": "afaraxia-itm2e62385a0d7a5",
   "brand": "AFARAXIA",
-  "model": "Fruit Face Sheet Mask With Serum For Women and Men (12 m …",
+  "model": "Fruit Face Sheet Mask With Serum For Women and Men",
   "price": 231,
   "capacityLine": "100 g",
   "materialLine": "rice water + green tea + clay/mud",
@@ -11768,7 +11747,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/afaraxia-fruit-face-sheet-mask-serum-women-men/p/itm2e62385a0d7a5",
   "buyStore": "Flipkart",
-  "title": "AFARAXIA Fruit Face Sheet Mask With Serum For Women and Men (12 m …",
+  "title": "AFARAXIA Fruit Face Sheet Mask With Serum For Women and Men",
   "tags": [
    "scope:face",
    "format:cream",
@@ -11842,7 +11821,7 @@ const CTPRODUCTS = [
  {
   "id": "afaraxia-itm56c8c1f264928",
   "brand": "AFARAXIA",
-  "model": "best Facial Sheet Mask for Men & Women Korean Sheet Mask …",
+  "model": "best Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "price": 215,
   "capacityLine": "100 ml (pack of 4)",
   "materialLine": "salicylic acid (BHA) + charcoal",
@@ -11891,7 +11870,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/afaraxia-best-facial-sheet-mask-men-women-korean/p/itm56c8c1f264928",
   "buyStore": "Flipkart",
-  "title": "AFARAXIA best Facial Sheet Mask for Men & Women Korean Sheet Mask …",
+  "title": "AFARAXIA best Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:cream",
@@ -11910,6 +11889,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -11959,7 +11939,7 @@ const CTPRODUCTS = [
  {
   "id": "afaraxia-itm33fd2fd6433f0",
   "brand": "AFARAXIA",
-  "model": "New Facial Sheet Mask for Men & Women Korean Sheet Mask …",
+  "model": "New Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "price": 218,
   "capacityLine": "102 g",
   "materialLine": "clay/mud",
@@ -12008,7 +11988,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/afaraxia-new-facial-sheet-mask-men-women-korean/p/itm33fd2fd6433f0",
   "buyStore": "Flipkart",
-  "title": "AFARAXIA New Facial Sheet Mask for Men & Women Korean Sheet Mask …",
+  "title": "AFARAXIA New Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:stick",
@@ -12027,6 +12007,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -12076,7 +12057,7 @@ const CTPRODUCTS = [
  {
   "id": "afaraxia-itm808060ed59837",
   "brand": "AFARAXIA",
-  "model": "Facial Sheet Mask for Men & Women Korean Sheet Mask (25 …",
+  "model": "Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "price": 215,
   "capacityLine": "25 ml",
   "materialLine": "salicylic acid (BHA) + charcoal",
@@ -12125,7 +12106,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/afaraxia-facial-sheet-mask-men-women-korean/p/itm808060ed59837",
   "buyStore": "Flipkart",
-  "title": "AFARAXIA Facial Sheet Mask for Men & Women Korean Sheet Mask (25 …",
+  "title": "AFARAXIA Facial Sheet Mask for Men & Women Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:cream",
@@ -12142,6 +12123,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -12191,7 +12173,7 @@ const CTPRODUCTS = [
  {
   "id": "maryville-itmae659852247bf",
   "brand": "Maryville",
-  "model": "facial new sheet mask easy to use super perfect pack of …",
+  "model": "facial new sheet mask easy to use super perfect pack of 1",
   "price": 140,
   "capacityLine": "227 g",
   "materialLine": "charcoal + clay/mud",
@@ -12240,7 +12222,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/maryville-facial-new-sheet-mask-easy-use-super-perfect-pack-1/p/itmae659852247bf",
   "buyStore": "Flipkart",
-  "title": "Maryville facial new sheet mask easy to use super perfect pack of …",
+  "title": "Maryville facial new sheet mask easy to use super perfect pack of 1",
   "tags": [
    "scope:both",
    "format:sheet-mask",
@@ -12308,11 +12290,11 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm667757a67bd92",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Pomegranate Pack Of 4 (80 ml)",
+  "model": "Beauty Facial Sheet Mask Pomegranate Pack Of 4",
   "price": 190,
-  "capacityLine": "320 ml (pack of 4)",
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Sheet mask · ₹59/100ml",
+  "featureLine": "Sheet mask",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -12326,8 +12308,8 @@ const CTPRODUCTS = [
    "experience": 5.1
   },
   "fullSpec": {
-   "quantity": "80 ml × 4 pack",
-   "pricePer100": "₹59/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -12357,13 +12339,12 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-pomegranate-pack-4/p/itm667757a67bd92",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Pomegranate Pack Of 4 (80 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Pomegranate Pack Of 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
    "format:kit",
    "aud:unisex",
-   "size:xl",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -12409,7 +12390,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmac508320284f7",
   "brand": "MasKing",
-  "model": "Beauty Bamboo Charcoal Facial Sheet Mask of Lemon, Rose & …",
+  "model": "Beauty Bamboo Charcoal Facial Sheet Mask of Lemon, Rose & Tomato Combo Pack of 3",
   "price": 191,
   "capacityLine": "195 ml (pack of 3)",
   "materialLine": "rose + charcoal",
@@ -12457,7 +12438,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-bamboo-charcoal-facial-sheet-mask-lemon-rose-tomato-combo-pack-3/p/itmac508320284f7",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Bamboo Charcoal Facial Sheet Mask of Lemon, Rose & …",
+  "title": "MasKing Beauty Bamboo Charcoal Facial Sheet Mask of Lemon, Rose & Tomato Combo Pack of 3",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -12524,7 +12505,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm5db215ff2e1a0",
   "brand": "MasKing",
-  "model": "Facial Sheet Mask Avocado Pack Of 4 (80 ml)",
+  "model": "Facial Sheet Mask Avocado Pack Of 4",
   "price": 190,
   "capacityLine": "320 ml (pack of 4)",
   "materialLine": "aloe vera",
@@ -12572,7 +12553,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-facial-sheet-mask-avocado-pack-4/p/itm5db215ff2e1a0",
   "buyStore": "Flipkart",
-  "title": "MasKing Facial Sheet Mask Avocado Pack Of 4 (80 ml)",
+  "title": "MasKing Facial Sheet Mask Avocado Pack Of 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -12758,7 +12739,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm253508271b29e",
   "brand": "VIQEHAA",
-  "model": "4pcs Gold pearl Sheet Mask for Reducing Acne, Enlarged Po …",
+  "model": "4pcs Gold pearl Sheet Mask for Reducing Acne, Enlarged Pores",
   "price": 166,
   "capacityLine": "100 g (pack of 4)",
   "materialLine": "vitamin C + rose + clay/mud",
@@ -12807,7 +12788,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-4pcs-gold-pearl-sheet-mask-reducing-acne-enlarged-pores/p/itm253508271b29e",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 4pcs Gold pearl Sheet Mask for Reducing Acne, Enlarged Po …",
+  "title": "VIQEHAA 4pcs Gold pearl Sheet Mask for Reducing Acne, Enlarged Pores",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -12888,7 +12869,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm36d9c8ef0f2fa",
   "brand": "VIQEHAA",
-  "model": "2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "model": "2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet",
   "price": 172,
   "capacityLine": "50 g (pack of 2)",
   "materialLine": "vitamin C + retinol",
@@ -12937,7 +12918,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-2-pcs-gold-pearl-sheet-mask-hydrating-korean-beauty/p/itm36d9c8ef0f2fa",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "title": "VIQEHAA 2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -12955,6 +12936,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -13011,7 +12993,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itm94f80510930c7",
   "brand": "VIQEHAA",
-  "model": "2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "model": "2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "price": 169,
   "capacityLine": "50 g (pack of 2)",
   "materialLine": "vitamin C + turmeric",
@@ -13060,7 +13042,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-2-pcs-gold-pearl-sheet-mask-hydrating-korean-beauty/p/itm94f80510930c7",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "title": "VIQEHAA 2 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13132,7 +13114,7 @@ const CTPRODUCTS = [
  {
   "id": "viqehaa-itmb7ea0b1577f23",
   "brand": "VIQEHAA",
-  "model": "1 pcs Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "model": "1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet",
   "price": 141,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + charcoal + ubtan",
@@ -13181,7 +13163,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/viqehaa-1-pcs-gold-pearl-sheet-mask-hydrating-korean-beauty/p/itmb7ea0b1577f23",
   "buyStore": "Flipkart",
-  "title": "VIQEHAA 1 pcs Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet …",
+  "title": "VIQEHAA 1 PCS Gold Pearl Sheet Mask Hydrating Korean Beauty Sheet",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13204,6 +13186,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -13261,7 +13244,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmf1e912404eecf",
   "brand": "MasKing",
-  "model": "Strawberry and glow Facial sheet mask for Glowing skin, m …",
+  "model": "Strawberry and glow Facial sheet mask for Glowing skin, men and women pack of 2",
   "price": 110,
   "capacityLine": "80 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
@@ -13309,7 +13292,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-strawberry-glow-facial-sheet-mask-glowing-skin-men-women-pack-2/p/itmf1e912404eecf",
   "buyStore": "Flipkart",
-  "title": "MasKing Strawberry and glow Facial sheet mask for Glowing skin, m …",
+  "title": "MasKing Strawberry and glow Facial sheet mask for Glowing skin, men and women pack of 2",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13372,7 +13355,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm3af49c257536b",
   "brand": "MasKing",
-  "model": "Pomegranate and Glow Facial Sheet Mask for Glowing skin, …",
+  "model": "Pomegranate and Glow Facial Sheet Mask for Glowing skin, men and women,pack of 2",
   "price": 110,
   "capacityLine": "200 g (pack of 2)",
   "materialLine": "rose + clay/mud + licorice",
@@ -13421,7 +13404,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-pomegranate-glow-facial-sheet-mask-glowing-skin-men-women-pack-2/p/itm3af49c257536b",
   "buyStore": "Flipkart",
-  "title": "MasKing Pomegranate and Glow Facial Sheet Mask for Glowing skin, …",
+  "title": "MasKing Pomegranate and Glow Facial Sheet Mask for Glowing skin, men and women,pack of 2",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13488,7 +13471,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmcb874c867b21e",
   "brand": "MasKing",
-  "model": "Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit fo …",
+  "model": "Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit for Skin Lightening Ideal for Women…",
   "price": 79,
   "capacityLine": "20 ml",
   "materialLine": "Key ingredients not stated",
@@ -13536,7 +13519,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-bamboo-facial-sheet-mask-orange-lemon-grapefruit-skin-lightening-ideal-women-men-pack-1/p/itmcb874c867b21e",
   "buyStore": "Flipkart",
-  "title": "MasKing Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit fo …",
+  "title": "MasKing Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit for Skin Lightening Ideal for Women & Men Pack of 1",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13597,7 +13580,7 @@ const CTPRODUCTS = [
  {
   "id": "woongmi-itm1020aba1143e0",
   "brand": "WOONGMI",
-  "model": "Korean Facial sheet mask face masks men and women (25 g)",
+  "model": "Korean Facial sheet mask face masks men and women",
   "price": 284,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -13646,7 +13629,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/woongmi-korean-facial-sheet-mask-face-masks-men-women/p/itm1020aba1143e0",
   "buyStore": "Flipkart",
-  "title": "WOONGMI Korean Facial sheet mask face masks men and women (25 g)",
+  "title": "WOONGMI Korean Facial sheet mask face masks men and women",
   "tags": [
    "scope:face",
    "format:cream",
@@ -13705,7 +13688,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-batra-s-itm36bf1d7dfe1e7",
   "brand": "Dr. Batra's",
-  "model": "PRO+ Hydrafresh Sheet Mask ,Deep Hydration & Refreshin …",
+  "model": "PRO+ Hydrafresh Sheet Mask ,Deep Hydration & Refreshing Glow for All Skin",
   "price": 89,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -13753,7 +13736,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/batra-s-pro-hydrafresh-sheet-mask-deep-hydration-refreshing-glow-all-skin/p/itm36bf1d7dfe1e7",
   "buyStore": "Flipkart",
-  "title": "Dr Batra's PRO+ Hydrafresh Sheet Mask ,Deep Hydration & Refreshin …",
+  "title": "Dr Batra's PRO+ Hydrafresh Sheet Mask ,Deep Hydration & Refreshing Glow for All Skin",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13761,6 +13744,7 @@ const CTPRODUCTS = [
    "format:peel",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -13811,7 +13795,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-batra-s-itm769ff98a6cb92",
   "brand": "Dr. Batra's",
-  "model": "PRO+ Clear Skin Sheet Mask | Deep Hydration & Brighten …",
+  "model": "PRO+ Clear Skin Sheet Mask | Deep Hydration & Brightening for Healthy Glow",
   "price": 89,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -13859,7 +13843,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/batra-s-pro-clear-skin-sheet-mask-deep-hydration-brightening-healthy-glow/p/itm769ff98a6cb92",
   "buyStore": "Flipkart",
-  "title": "Dr Batra's PRO+ Clear Skin Sheet Mask | Deep Hydration & Brighten …",
+  "title": "Dr Batra's PRO+ Clear Skin Sheet Mask | Deep Hydration & Brightening for Healthy Glow",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -13918,7 +13902,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmcb1485364616a",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask (100 ml)",
+  "model": "Beauty Facial Sheet Mask",
   "price": 212,
   "capacityLine": "500 ml (pack of 5)",
   "materialLine": "green tea + aloe vera",
@@ -13968,7 +13952,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask/p/itmcb1485364616a",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask (100 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -14033,7 +14017,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmd3f4a458b30bd",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Aloe Vera Pack Of 3 (60 ml)",
+  "model": "Beauty Facial Sheet Mask Aloe Vera Pack Of 3",
   "price": 139,
   "capacityLine": "180 ml (pack of 3)",
   "materialLine": "aloe vera",
@@ -14083,7 +14067,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-aloe-vera-pack-3/p/itmd3f4a458b30bd",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Aloe Vera Pack Of 3 (60 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Aloe Vera Pack Of 3",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -14211,6 +14195,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -14261,7 +14246,7 @@ const CTPRODUCTS = [
  {
   "id": "huda-crush-itmf4888b8bb9ed4",
   "brand": "HUDA CRUSH",
-  "model": "Face Mask Sheets for Women & Girls – Deep Cleansing Wh …",
+  "model": "Face Mask Sheets for Women & Girls – Deep Cleansing White Spa Facial Paper",
   "price": 1150,
   "capacityLine": "60 g",
   "materialLine": "Key ingredients not stated",
@@ -14311,7 +14296,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/huda-crush-face-mask-sheets-women-girls-deep-cleansing-white-spa-facial-paper/p/itmf4888b8bb9ed4",
   "buyStore": "Flipkart",
-  "title": "HUDA CRUSH Face Mask Sheets for Women & Girls – Deep Cleansing Wh …",
+  "title": "HUDA CRUSH Face Mask Sheets for Women & Girls – Deep Cleansing White Spa Facial Paper",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -14370,7 +14355,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itm06096b6c804c6",
   "brand": "GABBU",
-  "model": "Best Serum Facial sheet Mask for Skin Glowing for Women and …",
+  "model": "Best Serum Facial sheet Mask for Skin Glowing for Women and Men",
   "price": 226,
   "capacityLine": "20 g",
   "materialLine": "rice water + papaya + neem",
@@ -14419,7 +14404,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-best-serum-facial-sheet-mask-skin-glowing-women-men/p/itm06096b6c804c6",
   "buyStore": "Flipkart",
-  "title": "GABBU Best Serum Facial sheet Mask for Skin Glowing for Women and …",
+  "title": "GABBU Best Serum Facial sheet Mask for Skin Glowing for Women and Men",
   "tags": [
    "scope:face",
    "format:serum",
@@ -14488,7 +14473,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmc61ffc41d2635",
   "brand": "GABBU",
-  "model": "best Face Sheet Mask With Serum For Women and Men All Skin …",
+  "model": "best Face Sheet Mask With Serum For Women and Men All Skin Types",
   "price": 224,
   "capacityLine": "20 g",
   "materialLine": "rice water + aloe vera + saffron",
@@ -14537,7 +14522,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-best-face-sheet-mask-serum-women-men-all-skin-types/p/itmc61ffc41d2635",
   "buyStore": "Flipkart",
-  "title": "GABBU best Face Sheet Mask With Serum For Women and Men All Skin …",
+  "title": "GABBU best Face Sheet Mask With Serum For Women and Men All Skin Types",
   "tags": [
    "scope:face",
    "format:gel",
@@ -14609,7 +14594,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itm51fd817f187e2",
   "brand": "GABBU",
-  "model": "Face Sheet Mask With Serum For Women and Men All Skin Types …",
+  "model": "Face Sheet Mask With Serum For Women and Men All Skin Types*2*",
   "price": 212,
   "capacityLine": "20 g",
   "materialLine": "papaya",
@@ -14658,7 +14643,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-face-sheet-mask-serum-women-men-all-skin-types-2/p/itm51fd817f187e2",
   "buyStore": "Flipkart",
-  "title": "GABBU Face Sheet Mask With Serum For Women and Men All Skin Types …",
+  "title": "GABBU Face Sheet Mask With Serum For Women and Men All Skin Types*2*",
   "tags": [
    "scope:face",
    "format:serum",
@@ -14722,11 +14707,11 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itma6901d05c54d0",
   "brand": "GABBU",
-  "model": "Facial sheet Mask for Skin Glowing for Women and Men (20 ml …",
+  "model": "Facial sheet Mask for Skin Glowing for Women and Men",
   "price": 212,
-  "capacityLine": "20 ml",
+  "capacityLine": "40 g",
   "materialLine": "green tea + papaya",
-  "featureLine": "Sheet mask · Paraben-free · ₹1060/100ml",
+  "featureLine": "Sheet mask · Paraben-free · ₹530/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -14741,8 +14726,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "20 ml",
-   "pricePer100": "₹1060/100ml",
+   "quantity": "40 g",
+   "pricePer100": "₹530/100g",
    "format": "Sheet mask",
    "keyIngredients": "green tea, papaya (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -14771,7 +14756,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-facial-sheet-mask-skin-glowing-women-men/p/itma6901d05c54d0",
   "buyStore": "Flipkart",
-  "title": "GABBU Facial sheet Mask for Skin Glowing for Women and Men (20 ml …",
+  "title": "GABBU Facial sheet Mask for Skin Glowing for Women and Men",
   "tags": [
    "scope:face",
    "format:cream",
@@ -14836,7 +14821,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmb95b7198d640a",
   "brand": "GABBU",
-  "model": "Sheet Mask With Serum For Women and Men | All Skin Types So …",
+  "model": "Sheet Mask With Serum For Women and Men | All Skin Types Soft and Healthy Skin",
   "price": 226,
   "capacityLine": "130 g",
   "materialLine": "charcoal + papaya",
@@ -14885,7 +14870,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-sheet-mask-serum-women-men-all-skin-types-soft-healthy/p/itmb95b7198d640a",
   "buyStore": "Flipkart",
-  "title": "GABBU Sheet Mask With Serum For Women and Men | All Skin Types So …",
+  "title": "GABBU Sheet Mask With Serum For Women and Men | All Skin Types Soft and Healthy Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -14950,7 +14935,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itm153332235e65d",
   "brand": "GABBU",
-  "model": "Face Sheet Mask With Serum For Women and Men All Skin Types …",
+  "model": "Face Sheet Mask With Serum For Women and Men All Skin Types ..",
   "price": 212,
   "capacityLine": "20 g",
   "materialLine": "papaya + ubtan",
@@ -14999,7 +14984,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-face-sheet-mask-serum-women-men-all-skin-types/p/itm153332235e65d",
   "buyStore": "Flipkart",
-  "title": "GABBU Face Sheet Mask With Serum For Women and Men All Skin Types …",
+  "title": "GABBU Face Sheet Mask With Serum For Women and Men All Skin Types ..",
   "tags": [
    "scope:both",
    "format:serum",
@@ -15066,7 +15051,7 @@ const CTPRODUCTS = [
  {
   "id": "vcare-itm9e3328be3d97b",
   "brand": "Vcare",
-  "model": "Aloe & Cucumber Sheet Mask, 30 ml, Pack of 3 (90 ml)",
+  "model": "Aloe & Cucumber Sheet Mask, 30 ml, Pack of 3",
   "price": 174,
   "capacityLine": "90 ml (pack of 3)",
   "materialLine": "aloe vera + cucumber",
@@ -15114,7 +15099,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/vcare-aloe-cucumber-sheet-mask-30-ml-pack-3/p/itm9e3328be3d97b",
   "buyStore": "Flipkart",
-  "title": "Vcare Aloe & Cucumber Sheet Mask, 30 ml, Pack of 3 (90 ml)",
+  "title": "Vcare Aloe & Cucumber Sheet Mask, 30 ml, Pack of 3",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -15174,7 +15159,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itmdd9792d11b8a1",
   "brand": "Lacto Calamine",
-  "model": "Green Tea Face Sheet Mask | Instant Hydration | Gl …",
+  "model": "Green Tea Face Sheet Mask | Instant Hydration | Glycolic Acid & D-Panthenol",
   "price": 60,
   "capacityLine": "30 g",
   "materialLine": "glycolic acid + green tea",
@@ -15224,7 +15209,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-green-tea-face-sheet-mask-instant-hydration-glycolic-acid-d-panthenol/p/itmdd9792d11b8a1",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Green Tea Face Sheet Mask | Instant Hydration | Gl …",
+  "title": "Lacto Calamine Green Tea Face Sheet Mask | Instant Hydration | Glycolic Acid & D-Panthenol",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -15283,7 +15268,7 @@ const CTPRODUCTS = [
  {
   "id": "latixmat-itm1ddf50f014b35",
   "brand": "Latixmat",
-  "model": "SHEET MASK WITH SERUM THAT HYDRATES THE SKIN (20 g)",
+  "model": "SHEET MASK WITH SERUM THAT HYDRATES THE SKIN",
   "price": 284,
   "capacityLine": "20 g",
   "materialLine": "clay/mud",
@@ -15332,7 +15317,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/latixmat-sheet-mask-serum-hydrates-skin/p/itm1ddf50f014b35",
   "buyStore": "Flipkart",
-  "title": "Latixmat SHEET MASK WITH SERUM THAT HYDRATES THE SKIN (20 g)",
+  "title": "Latixmat SHEET MASK WITH SERUM THAT HYDRATES THE SKIN",
   "tags": [
    "scope:face",
    "format:cream",
@@ -15400,11 +15385,11 @@ const CTPRODUCTS = [
  {
   "id": "aurasylph-itm5c1a3de82039c",
   "brand": "Aurasylph",
-  "model": "Korean Hyaluronic Acid Face Sheet Mask, Deep Hydrating, …",
+  "model": "Korean Hyaluronic Acid Face Sheet Mask, Deep Hydrating, Each 22ml Pack of 1",
   "price": 50,
-  "capacityLine": "Quantity not stated",
+  "capacityLine": "22 ml",
   "materialLine": "hyaluronic acid",
-  "featureLine": "Sheet mask",
+  "featureLine": "Sheet mask · ₹227/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "Well-reviewed: 4.3★ from 165 ratings"
@@ -15420,8 +15405,8 @@ const CTPRODUCTS = [
    "experience": 6
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "22 ml",
+   "pricePer100": "₹227/100ml",
    "format": "Sheet mask",
    "keyIngredients": "hyaluronic acid (per listing)",
    "freeFrom": "Not stated in listing",
@@ -15451,14 +15436,16 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/aurasylph-korean-hyaluronic-acid-face-sheet-mask-deep-hydrating-each-22ml-pack-1/p/itm5c1a3de82039c",
   "buyStore": "Flipkart",
-  "title": "Aurasylph Korean Hyaluronic Acid Face Sheet Mask, Deep Hydrating, …",
+  "title": "Aurasylph Korean Hyaluronic Acid Face Sheet Mask, Deep Hydrating, Each 22ml Pack of 1",
   "tags": [
    "scope:face",
    "format:sheet-mask",
+   "format:kit",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:korean",
    "aud:unisex",
+   "size:travel",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -15504,7 +15491,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itmfcb54e5ac5303",
   "brand": "Dr. Rashel",
-  "model": "VITAMIN C SHEET MASK WITH SERUM CONTAINS NIACINAMIDE WH …",
+  "model": "VITAMIN C SHEET MASK WITH SERUM CONTAINS NIACINAMIDE WHICH HELPS IN BRIGHTENING & AGE DEFY…",
   "price": 300,
   "capacityLine": "40 g",
   "materialLine": "vitamin C + niacinamide",
@@ -15552,7 +15539,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-vitamin-c-sheet-mask-serum-contains-niacinamide-which-helps-brightening-age-defying/p/itmfcb54e5ac5303",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL VITAMIN C SHEET MASK WITH SERUM CONTAINS NIACINAMIDE WH …",
+  "title": "DR.RASHEL VITAMIN C SHEET MASK WITH SERUM CONTAINS NIACINAMIDE WHICH HELPS IN BRIGHTENING & AGE DEFYING",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -15615,7 +15602,7 @@ const CTPRODUCTS = [
  {
   "id": "aurova-itmad40e004060d0",
   "brand": "AUROVA",
-  "model": "Facial sheet Mask for Skin Glowing for Women and Men Combo …",
+  "model": "Facial sheet Mask for Skin Glowing for Women and Men Combo Pack of 4",
   "price": 150,
   "capacityLine": "320 ml (pack of 4)",
   "materialLine": "Key ingredients not stated",
@@ -15663,7 +15650,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/aurova-facial-sheet-mask-skin-glowing-women-men-combo-pack-4/p/itmad40e004060d0",
   "buyStore": "Flipkart",
-  "title": "AUROVA Facial sheet Mask for Skin Glowing for Women and Men Combo …",
+  "title": "AUROVA Facial sheet Mask for Skin Glowing for Women and Men Combo Pack of 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -15727,7 +15714,7 @@ const CTPRODUCTS = [
  {
   "id": "sanfe-itm9c0a53050aeda",
   "brand": "Sanfe",
-  "model": "Papaya Face Sheet Mask 25gm Pack of 4| For radiant & glowin …",
+  "model": "Papaya Face Sheet Mask 25gm Pack of 4| For radiant & glowing skin",
   "price": 147,
   "capacityLine": "100 g (pack of 4)",
   "materialLine": "papaya",
@@ -15777,7 +15764,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/sanfe-papaya-face-sheet-mask-25gm-pack-4-radiant-glowing-skin/p/itm9c0a53050aeda",
   "buyStore": "Flipkart",
-  "title": "Sanfe Papaya Face Sheet Mask 25gm Pack of 4| For radiant & glowin …",
+  "title": "Sanfe Papaya Face Sheet Mask 25gm Pack of 4| For radiant & glowing skin",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -15840,7 +15827,7 @@ const CTPRODUCTS = [
  {
   "id": "everyuth-naturals-itm5dd2b83b9fd38",
   "brand": "Everyuth Naturals",
-  "model": "Assorted Pack of 3 Sheet masks 25ml (75 ml)",
+  "model": "Assorted Pack of 3 Sheet masks 25ml",
   "price": 129,
   "capacityLine": "75 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
@@ -15889,7 +15876,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/everyuth-naturals-assorted-pack-3-sheet-masks-25ml/p/itm5dd2b83b9fd38",
   "buyStore": "Flipkart",
-  "title": "Everyuth Naturals Assorted Pack of 3 Sheet masks 25ml (75 ml)",
+  "title": "Everyuth Naturals Assorted Pack of 3 Sheet masks 25ml",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -15947,7 +15934,7 @@ const CTPRODUCTS = [
  {
   "id": "mooyam-itmd78946aa6f090",
   "brand": "Mooyam",
-  "model": "base face sheet mask glass skin (125 g)",
+  "model": "base face sheet mask glass skin",
   "price": 156,
   "capacityLine": "125 g",
   "materialLine": "Key ingredients not stated",
@@ -15997,7 +15984,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mooyam-base-face-sheet-mask-glass-skin/p/itmd78946aa6f090",
   "buyStore": "Flipkart",
-  "title": "Mooyam base face sheet mask glass skin (125 g)",
+  "title": "Mooyam base face sheet mask glass skin",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -16063,7 +16050,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmcae5425fb18dc",
   "brand": "GABBU",
-  "model": "Best Facial Sheet Mask for Skin Hydrating & Glowing skin (4 …",
+  "model": "Best Facial Sheet Mask for Skin Hydrating & Glowing skin",
   "price": 246,
   "capacityLine": "20 g",
   "materialLine": "charcoal + papaya + neem",
@@ -16112,7 +16099,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-best-facial-sheet-mask-skin-hydrating-glowing/p/itmcae5425fb18dc",
   "buyStore": "Flipkart",
-  "title": "GABBU Best Facial Sheet Mask for Skin Hydrating & Glowing skin (4 …",
+  "title": "GABBU Best Facial Sheet Mask for Skin Hydrating & Glowing skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -16180,7 +16167,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itm5755f33c6f651",
   "brand": "GABBU",
-  "model": "New Serum Facial sheet Mask for Skin Glowing for Women and …",
+  "model": "New Serum Facial sheet Mask for Skin Glowing for Women and Men",
   "price": 325,
   "capacityLine": "100 g",
   "materialLine": "papaya",
@@ -16229,7 +16216,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-new-serum-facial-sheet-mask-skin-glowing-women-men/p/itm5755f33c6f651",
   "buyStore": "Flipkart",
-  "title": "GABBU New Serum Facial sheet Mask for Skin Glowing for Women and …",
+  "title": "GABBU New Serum Facial sheet Mask for Skin Glowing for Women and Men",
   "tags": [
    "scope:face",
    "format:cream",
@@ -16295,7 +16282,7 @@ const CTPRODUCTS = [
  {
   "id": "gabbu-itmfd6a9ed013518",
   "brand": "GABBU",
-  "model": "New Sheet Mask With Serum For Women and Men All Skin Types …",
+  "model": "New Sheet Mask With Serum For Women and Men All Skin Types Healthy Skin",
   "price": 322,
   "capacityLine": "40 ml",
   "materialLine": "papaya",
@@ -16344,7 +16331,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/gabbu-new-sheet-mask-serum-women-men-all-skin-types-healthy/p/itmfd6a9ed013518",
   "buyStore": "Flipkart",
-  "title": "GABBU New Sheet Mask With Serum For Women and Men All Skin Types …",
+  "title": "GABBU New Sheet Mask With Serum For Women and Men All Skin Types Healthy Skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -16408,7 +16395,7 @@ const CTPRODUCTS = [
  {
   "id": "winry-itmdce1654c27f80",
   "brand": "winry",
-  "model": "Trendy All Skin Type Pomegranate Sheet Mask (20 g)",
+  "model": "Trendy All Skin Type Pomegranate Sheet Mask",
   "price": 140,
   "capacityLine": "20 g",
   "materialLine": "rice water + rose + clay/mud",
@@ -16457,7 +16444,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/winry-trendy-all-skin-type-pomegranate-sheet-mask/p/itmdce1654c27f80",
   "buyStore": "Flipkart",
-  "title": "winry Trendy All Skin Type Pomegranate Sheet Mask (20 g)",
+  "title": "winry Trendy All Skin Type Pomegranate Sheet Mask",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -16476,6 +16463,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:exfoliating",
    "claim:korean",
+   "claim:overnight",
    "skin:dry",
    "skin:combination",
    "skin:all",
@@ -16527,7 +16515,7 @@ const CTPRODUCTS = [
  {
   "id": "maryville-itm0976ba3a4de1b",
   "brand": "Maryville",
-  "model": "Sheet Mask For Glowing Skin & Hydration, Face Sheet Mas …",
+  "model": "Sheet Mask For Glowing Skin & Hydration, Face Sheet Mask",
   "price": 232,
   "capacityLine": "20 g",
   "materialLine": "papaya",
@@ -16576,7 +16564,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/maryville-sheet-mask-glowing-skin-hydration-face/p/itm0976ba3a4de1b",
   "buyStore": "Flipkart",
-  "title": "Maryville Sheet Mask For Glowing Skin & Hydration, Face Sheet Mas …",
+  "title": "Maryville Sheet Mask For Glowing Skin & Hydration, Face Sheet Mask",
   "tags": [
    "scope:face",
    "format:gel",
@@ -16641,7 +16629,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-vs-itma16c79f9027bc",
   "brand": "DR.VS",
-  "model": "Collagen Face Mask, Korean Glass Skin Hydrogel Mask for Dee …",
+  "model": "Collagen Face Mask, Korean Glass Skin Hydrogel Mask for Deep Hydration",
   "price": 46,
   "capacityLine": "33 ml",
   "materialLine": "Key ingredients not stated",
@@ -16689,7 +16677,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-vs-collagen-face-mask-korean-glass-skin-hydrogel-mask-deep-hydration/p/itma16c79f9027bc",
   "buyStore": "Flipkart",
-  "title": "DR.VS Collagen Face Mask, Korean Glass Skin Hydrogel Mask for Dee …",
+  "title": "DR.VS Collagen Face Mask, Korean Glass Skin Hydrogel Mask for Deep Hydration",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -16753,7 +16741,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm89e5b39c246d0",
   "brand": "MasKing",
-  "model": "Facial Sheet Mask of Watermelon & Muskmelon for Skin Refr …",
+  "model": "Facial Sheet Mask of Watermelon & Muskmelon for Skin Refreshing",
   "price": 338,
   "capacityLine": "180 g (pack of 3)",
   "materialLine": "sandalwood + rose + clay/mud",
@@ -16802,7 +16790,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-facial-sheet-mask-watermelon-muskmelon-skin-refreshing/p/itm89e5b39c246d0",
   "buyStore": "Flipkart",
-  "title": "MasKing Facial Sheet Mask of Watermelon & Muskmelon for Skin Refr …",
+  "title": "MasKing Facial Sheet Mask of Watermelon & Muskmelon for Skin Refreshing",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -16819,6 +16807,7 @@ const CTPRODUCTS = [
    "ing:licorice",
    "ing:beetroot",
    "ing:watermelon",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -16983,7 +16972,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm4e10051ee4aba",
   "brand": "MasKing",
-  "model": "Superfood Pumpkin facial sheet mask for glowing Skin and …",
+  "model": "Superfood Pumpkin facial sheet mask for glowing Skin and Hydrating, Pack of 4",
   "price": 206,
   "capacityLine": "600 g (pack of 4)",
   "materialLine": "clay/mud",
@@ -17032,7 +17021,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-superfood-pumpkin-facial-sheet-mask-glowing-skin-hydrating-pack-4/p/itm4e10051ee4aba",
   "buyStore": "Flipkart",
-  "title": "MasKing Superfood Pumpkin facial sheet mask for glowing Skin and …",
+  "title": "MasKing Superfood Pumpkin facial sheet mask for glowing Skin and Hydrating, Pack of 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -17049,6 +17038,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -17099,7 +17089,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmb194bfc30bf46",
   "brand": "MasKing",
-  "model": "Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit fo …",
+  "model": "Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit for Skin Lightening Ideal for Women…",
   "price": 202,
   "capacityLine": "300 g (pack of 3)",
   "materialLine": "rose + charcoal",
@@ -17148,7 +17138,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-bamboo-facial-sheet-mask-orange-lemon-grapefruit-skin-lightening-ideal-women-men-pack-3/p/itmb194bfc30bf46",
   "buyStore": "Flipkart",
-  "title": "MasKing Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit fo …",
+  "title": "MasKing Bamboo Facial Sheet Mask of Orange, Lemon & Grapefruit for Skin Lightening Ideal for Women & Men Pack of 3",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -17316,7 +17306,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itm1d7225a126bc4",
   "brand": "rorec",
-  "model": "Face sheet mask combo Aloevera blueberry honey olive pomegr …",
+  "model": "Face sheet mask combo Aloevera blueberry honey olive pomegrenate and cucumber",
   "price": 220,
   "capacityLine": "180 g",
   "materialLine": "aloe vera + honey + cucumber",
@@ -17364,7 +17354,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-face-sheet-mask-combo-aloevera-blueberry-honey-olive-pomegrenate-cucumber/p/itm1d7225a126bc4",
   "buyStore": "Flipkart",
-  "title": "rorec Face sheet mask combo Aloevera blueberry honey olive pomegr …",
+  "title": "rorec Face sheet mask combo Aloevera blueberry honey olive pomegrenate and cucumber",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -17423,7 +17413,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itma1f2f1a596363",
   "brand": "rorec",
-  "model": "Facial sheet mask unisex for glowing skin combo (120 g)",
+  "model": "Facial sheet mask unisex for glowing skin combo",
   "price": 220,
   "capacityLine": "120 g",
   "materialLine": "Key ingredients not stated",
@@ -17471,7 +17461,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-facial-sheet-mask-unisex-glowing-skin-combo/p/itma1f2f1a596363",
   "buyStore": "Flipkart",
-  "title": "rorec Facial sheet mask unisex for glowing skin combo (120 g)",
+  "title": "rorec Facial sheet mask unisex for glowing skin combo",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -17533,7 +17523,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itm92a83c2390aa4",
   "brand": "rorec",
-  "model": "Serum face sheet mask for instant glowing skin (180 g)",
+  "model": "Serum face sheet mask for instant glowing skin",
   "price": 229,
   "capacityLine": "180 g",
   "materialLine": "Key ingredients not stated",
@@ -17581,7 +17571,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-serum-face-sheet-mask-instant-glowing-skin/p/itm92a83c2390aa4",
   "buyStore": "Flipkart",
-  "title": "rorec Serum face sheet mask for instant glowing skin (180 g)",
+  "title": "rorec Serum face sheet mask for instant glowing skin",
   "tags": [
    "scope:face",
    "format:serum",
@@ -17643,7 +17633,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itme274f3820f9f1",
   "brand": "rorec",
-  "model": "Face sheet mask unisex for glowing skin combo korean (120 g …",
+  "model": "Face sheet mask unisex for glowing skin combo korean",
   "price": 204,
   "capacityLine": "120 g",
   "materialLine": "Key ingredients not stated",
@@ -17691,7 +17681,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-face-sheet-mask-unisex-glowing-skin-combo-korean/p/itme274f3820f9f1",
   "buyStore": "Flipkart",
-  "title": "rorec Face sheet mask unisex for glowing skin combo korean (120 g …",
+  "title": "rorec Face sheet mask unisex for glowing skin combo korean",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -17961,7 +17951,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-sasaki-complete-skin-care-itmcef554ad9fee6",
   "brand": "DR.SASAKI COMPLETE SKIN CARE",
-  "model": "Aloe Vera Serum Sheet Mask | Hydrati …",
+  "model": "Aloe Vera Serum Sheet Mask | Hydrating & Soothing Facial Mask",
   "price": 280,
   "capacityLine": "900 ml (pack of 6)",
   "materialLine": "aloe vera",
@@ -18010,7 +18000,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-sasaki-complete-skin-care-aloe-vera-serum-sheet-mask-hydrating-soothing-facial/p/itmcef554ad9fee6",
   "buyStore": "Flipkart",
-  "title": "DR.SASAKI COMPLETE SKIN CARE Aloe Vera Serum Sheet Mask | Hydrati …",
+  "title": "DR.SASAKI COMPLETE SKIN CARE Aloe Vera Serum Sheet Mask | Hydrating & Soothing Facial Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -18074,7 +18064,7 @@ const CTPRODUCTS = [
  {
   "id": "reimichi-itm33ac0f3ebe3fd",
   "brand": "REIMICHI",
-  "model": "Sheet Mask With Serum For Women And Men | All Skin Types …",
+  "model": "Sheet Mask With Serum For Women And Men | All Skin Types | Soft And Healthy Skin",
   "price": 316,
   "capacityLine": "80 g (pack of 2)",
   "materialLine": "charcoal",
@@ -18123,7 +18113,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/reimichi-sheet-mask-serum-women-men-all-skin-types-soft-healthy/p/itm33ac0f3ebe3fd",
   "buyStore": "Flipkart",
-  "title": "REIMICHI Sheet Mask With Serum For Women And Men | All Skin Types …",
+  "title": "REIMICHI Sheet Mask With Serum For Women And Men | All Skin Types | Soft And Healthy Skin",
   "tags": [
    "scope:face",
    "format:gel",
@@ -18188,7 +18178,7 @@ const CTPRODUCTS = [
  {
   "id": "renee-itma429d12a62962",
   "brand": "Renee",
-  "model": "Hyaluronic & Aloe Sheet Mask (20 ml)",
+  "model": "Hyaluronic & Aloe Sheet Mask",
   "price": 139,
   "capacityLine": "20 ml",
   "materialLine": "hyaluronic acid + aloe vera + cucumber",
@@ -18230,7 +18220,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#9 on list, strong evidence); niacinamide (#17 on list, strong evidence); sodium hyaluronate (#20 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — niacinamide #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/w/h/o/20-hyaluronic-aloe-sheet-mask-sheet-mask-renee-original-imahg4jvys5cvhvv.jpeg?q=90",
@@ -18241,7 +18232,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/renee-hyaluronic-aloe-sheet-mask/p/itma429d12a62962",
   "buyStore": "Flipkart",
-  "title": "Renee Hyaluronic & Aloe Sheet Mask (20 ml)",
+  "title": "Renee Hyaluronic & Aloe Sheet Mask",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -18251,6 +18242,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:cucumber",
+   "ing:lavender",
    "claim:hydrating",
    "skin:all",
    "free:paraben",
@@ -18259,6 +18251,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -18293,6 +18287,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -18300,6 +18295,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -18307,6 +18303,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -18314,6 +18311,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -18321,6 +18319,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -18328,6 +18327,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -18335,6 +18335,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -18360,7 +18361,7 @@ const CTPRODUCTS = [
  {
   "id": "twasa-itme2d1d99490ddf",
   "brand": "Twasa",
-  "model": "Sheet Mask (Fruit, Tomato, Pomegranate, Watermelon, Blueber …",
+  "model": "Sheet Mask (Fruit, Tomato, Pomegranate, Watermelon, Blueberry& Strawberry Combo)",
   "price": 374,
   "capacityLine": "720 ml (pack of 6)",
   "materialLine": "snail mucin",
@@ -18409,7 +18410,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/twasa-sheet-mask-fruit-tomato-pomegranate-watermelon-blueberry-strawberry-combo/p/itme2d1d99490ddf",
   "buyStore": "Flipkart",
-  "title": "Twasa Sheet Mask (Fruit, Tomato, Pomegranate, Watermelon, Blueber …",
+  "title": "Twasa Sheet Mask (Fruit, Tomato, Pomegranate, Watermelon, Blueberry& Strawberry Combo)",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -18485,7 +18486,7 @@ const CTPRODUCTS = [
  {
   "id": "twasa-itma147edcf99fee",
   "brand": "Twasa",
-  "model": "Natural Face Sheet Mask For Skin| Korean Face Sheet Mask fo …",
+  "model": "Natural Face Sheet Mask For Skin| Korean Face Sheet Mask for Men & Women | Combo",
   "price": 571,
   "capacityLine": "360 g (pack of 6)",
   "materialLine": "peptides + snail mucin",
@@ -18534,7 +18535,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/twasa-natural-face-sheet-mask-skin-korean-men-women-combo/p/itma147edcf99fee",
   "buyStore": "Flipkart",
-  "title": "Twasa Natural Face Sheet Mask For Skin| Korean Face Sheet Mask fo …",
+  "title": "Twasa Natural Face Sheet Mask For Skin| Korean Face Sheet Mask for Men & Women | Combo",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -18607,7 +18608,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itm9d4da1f72f54d",
   "brand": "Lacto Calamine",
-  "model": "Vitamin C Face Sheet Mask | Instant Hydration |Gly …",
+  "model": "Vitamin C Face Sheet Mask | Instant Hydration |Glycolic Acid & D-Panthenol",
   "price": 67,
   "capacityLine": "25 ml",
   "materialLine": "vitamin C + glycolic acid",
@@ -18656,7 +18657,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-vitamin-c-face-sheet-mask-instant-hydration-glycolic-acid-d-panthenol/p/itm9d4da1f72f54d",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Vitamin C Face Sheet Mask | Instant Hydration |Gly …",
+  "title": "Lacto Calamine Vitamin C Face Sheet Mask | Instant Hydration |Glycolic Acid & D-Panthenol",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -18715,7 +18716,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itmba29b95e2b6cf",
   "brand": "rorec",
-  "model": "Skin Naturals, White, Face Serum Sheet Mask Facial Face she …",
+  "model": "Skin Naturals, White, Face Serum Sheet Mask Facial Face sheet mask skin care",
   "price": 359,
   "capacityLine": "360 g",
   "materialLine": "Key ingredients not stated",
@@ -18763,7 +18764,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-skin-naturals-white-face-serum-sheet-mask-facial-care/p/itmba29b95e2b6cf",
   "buyStore": "Flipkart",
-  "title": "rorec Skin Naturals, White, Face Serum Sheet Mask Facial Face she …",
+  "title": "rorec Skin Naturals, White, Face Serum Sheet Mask Facial Face sheet mask skin care",
   "tags": [
    "scope:face",
    "format:serum",
@@ -18828,7 +18829,7 @@ const CTPRODUCTS = [
  {
   "id": "eiliaz-itm5978f396ccefe",
   "brand": "eiliaz",
-  "model": "Face Mask Sheet Cotton Facial Sheet Mask Deep Cleansing ( …",
+  "model": "Face Mask Sheet Cotton Facial Sheet Mask Deep Cleansing ( 20 PCS )",
   "price": 117,
   "capacityLine": "20 g",
   "materialLine": "clay/mud",
@@ -18877,7 +18878,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/eiliaz-face-mask-sheet-cotton-facial-deep-cleansing-20-pcs/p/itm5978f396ccefe",
   "buyStore": "Flipkart",
-  "title": "eiliaz Face Mask Sheet Cotton Facial Sheet Mask Deep Cleansing ( …",
+  "title": "eiliaz Face Mask Sheet Cotton Facial Sheet Mask Deep Cleansing ( 20 PCS )",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -19008,6 +19009,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -19175,7 +19177,7 @@ const CTPRODUCTS = [
  {
   "id": "missmoniks-itm9efb632feadcd",
   "brand": "MISSMONIKS",
-  "model": "Aroma Pearl Facial Sheet Mask | Korean Sheet Mask (25 …",
+  "model": "Aroma Pearl Facial Sheet Mask | Korean Sheet Mask",
   "price": 114,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -19224,7 +19226,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/missmoniks-aroma-pearl-facial-sheet-mask-korean/p/itm9efb632feadcd",
   "buyStore": "Flipkart",
-  "title": "MISSMONIKS Aroma Pearl Facial Sheet Mask | Korean Sheet Mask (25 …",
+  "title": "MISSMONIKS Aroma Pearl Facial Sheet Mask | Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19289,7 +19291,7 @@ const CTPRODUCTS = [
  {
   "id": "missmoniks-itm4b73b95bdf8e8",
   "brand": "MISSMONIKS",
-  "model": "Aroma Power Whitening Hydra Facial Sheet Mask | Korean …",
+  "model": "Aroma Power Whitening Hydra Facial Sheet Mask | Korean Sheet Mask",
   "price": 83,
   "capacityLine": "25 g",
   "materialLine": "clay/mud",
@@ -19338,7 +19340,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/missmoniks-aroma-power-whitening-hydra-facial-sheet-mask-korean/p/itm4b73b95bdf8e8",
   "buyStore": "Flipkart",
-  "title": "MISSMONIKS Aroma Power Whitening Hydra Facial Sheet Mask | Korean …",
+  "title": "MISSMONIKS Aroma Power Whitening Hydra Facial Sheet Mask | Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19525,7 +19527,7 @@ const CTPRODUCTS = [
  {
   "id": "missmoniks-itm7f447ca6eb2f8",
   "brand": "MISSMONIKS",
-  "model": "Oxy O2 Face Serum Sheet Mask 25 gm (25 g)",
+  "model": "Oxy O2 Face Serum Sheet Mask 25 gm",
   "price": 126,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -19574,7 +19576,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/missmoniks-oxy-o2-face-serum-sheet-mask-25-gm/p/itm7f447ca6eb2f8",
   "buyStore": "Flipkart",
-  "title": "MISSMONIKS Oxy O2 Face Serum Sheet Mask 25 gm (25 g)",
+  "title": "MISSMONIKS Oxy O2 Face Serum Sheet Mask 25 gm",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19638,7 +19640,7 @@ const CTPRODUCTS = [
  {
   "id": "missmoniks-itmfbf3744c64086",
   "brand": "MISSMONIKS",
-  "model": "Aroma Aloe Vera Facial Sheet Mask | Korean Sheet Mask …",
+  "model": "Aroma Aloe Vera Facial Sheet Mask | Korean Sheet Mask",
   "price": 83,
   "capacityLine": "25 g",
   "materialLine": "aloe vera + clay/mud + rosehip",
@@ -19687,7 +19689,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/missmoniks-aroma-aloe-vera-facial-sheet-mask-korean/p/itmfbf3744c64086",
   "buyStore": "Flipkart",
-  "title": "MISSMONIKS Aroma Aloe Vera Facial Sheet Mask | Korean Sheet Mask …",
+  "title": "MISSMONIKS Aroma Aloe Vera Facial Sheet Mask | Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19755,7 +19757,7 @@ const CTPRODUCTS = [
  {
   "id": "missmoniks-itm42b01d96f42af",
   "brand": "MISSMONIKS",
-  "model": "Aroma Oxy O2 Facial Sheet Mask | Korean Sheet Mask (25 …",
+  "model": "Aroma Oxy O2 Facial Sheet Mask | Korean Sheet Mask",
   "price": 112,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
@@ -19804,7 +19806,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/missmoniks-aroma-oxy-o2-facial-sheet-mask-korean/p/itm42b01d96f42af",
   "buyStore": "Flipkart",
-  "title": "MISSMONIKS Aroma Oxy O2 Facial Sheet Mask | Korean Sheet Mask (25 …",
+  "title": "MISSMONIKS Aroma Oxy O2 Facial Sheet Mask | Korean Sheet Mask",
   "tags": [
    "scope:face",
    "format:serum",
@@ -19978,7 +19980,7 @@ const CTPRODUCTS = [
  {
   "id": "vcare-itm0d49d1519caab",
   "brand": "Vcare",
-  "model": "Saffron & Goat’s Milk Sheet Mask, 30 ml, Pack of 3 (90 ml)",
+  "model": "Saffron & Goat’s Milk Sheet Mask, 30 ml, Pack of 3",
   "price": 167,
   "capacityLine": "90 ml (pack of 3)",
   "materialLine": "saffron",
@@ -20026,7 +20028,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/vcare-saffron-goats-milk-sheet-mask-30-ml-pack-3/p/itm0d49d1519caab",
   "buyStore": "Flipkart",
-  "title": "Vcare Saffron & Goat’s Milk Sheet Mask, 30 ml, Pack of 3 (90 ml)",
+  "title": "Vcare Saffron & Goat’s Milk Sheet Mask, 30 ml, Pack of 3",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -20086,7 +20088,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm54d7a1d72d4ac",
   "brand": "MasKing",
-  "model": "Glowing Hydrating Face Mask for Women – Pack of 10 Moistu …",
+  "model": "Glowing Hydrating Face Mask for Women – Pack of 10 Moisturizing Sheet Masks",
   "price": 378,
   "capacityLine": "20 g",
   "materialLine": "rice water + green tea + honey",
@@ -20135,7 +20137,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-glowing-hydrating-face-mask-women-pack-10-moisturizing-sheet-masks/p/itm54d7a1d72d4ac",
   "buyStore": "Flipkart",
-  "title": "MasKing Glowing Hydrating Face Mask for Women – Pack of 10 Moistu …",
+  "title": "MasKing Glowing Hydrating Face Mask for Women – Pack of 10 Moisturizing Sheet Masks",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -20201,7 +20203,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmf3918007e50fc",
   "brand": "MasKing",
-  "model": "Face Mask Combo Pack of 10 Natural Hydrating,Nourishing & …",
+  "model": "Face Mask Combo Pack of 10 Natural Hydrating,Nourishing & Smoothing Sheet Masks",
   "price": 386,
   "capacityLine": "20 ml",
   "materialLine": "rice water + green tea + tea tree",
@@ -20250,7 +20252,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-face-mask-combo-pack-10-natural-hydrating-nourishing-smoothing-sheet-masks/p/itmf3918007e50fc",
   "buyStore": "Flipkart",
-  "title": "MasKing Face Mask Combo Pack of 10 Natural Hydrating,Nourishing & …",
+  "title": "MasKing Face Mask Combo Pack of 10 Natural Hydrating,Nourishing & Smoothing Sheet Masks",
   "tags": [
    "scope:face",
    "format:serum",
@@ -20273,6 +20275,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -20323,7 +20326,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmc6bf5fa0cedee",
   "brand": "MasKing",
-  "model": "Superfood Facial Sheet Mask Combo Pack of 10 – Hydration …",
+  "model": "Superfood Facial Sheet Mask Combo Pack of 10 – Hydration & Brightening",
   "price": 412,
   "capacityLine": "20 g",
   "materialLine": "aloe vera + cucumber",
@@ -20372,7 +20375,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-superfood-facial-sheet-mask-combo-pack-10-hydration-brightening/p/itmc6bf5fa0cedee",
   "buyStore": "Flipkart",
-  "title": "MasKing Superfood Facial Sheet Mask Combo Pack of 10 – Hydration …",
+  "title": "MasKing Superfood Facial Sheet Mask Combo Pack of 10 – Hydration & Brightening",
   "tags": [
    "scope:face",
    "format:serum",
@@ -20382,6 +20385,8 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:aloe-vera",
    "ing:cucumber",
+   "ing:lavender",
+   "ing:calendula",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:hydrating",
@@ -20436,11 +20441,11 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmc0a5d7fbe5b3b",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Strawberry Pack Of 1 (20 ml)",
+  "model": "Beauty Facial Sheet Mask Strawberry Pack Of 1",
   "price": 45,
-  "capacityLine": "20 ml",
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Sheet mask · ₹225/100ml",
+  "featureLine": "Sheet mask",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20454,8 +20459,8 @@ const CTPRODUCTS = [
    "experience": 5
   },
   "fullSpec": {
-   "quantity": "20 ml",
-   "pricePer100": "₹225/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -20485,14 +20490,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-strawberry-pack-1/p/itmc0a5d7fbe5b3b",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Strawberry Pack Of 1 (20 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Strawberry Pack Of 1",
   "tags": [
    "scope:face",
    "format:sheet-mask",
    "format:kit",
    "ing:strawberry",
    "aud:unisex",
-   "size:travel",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -20538,11 +20542,11 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm432b8de2f4eed",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Strawberry Pack Of 5 (100 ml)",
+  "model": "Beauty Facial Sheet Mask Strawberry Pack Of 5",
   "price": 226,
-  "capacityLine": "500 ml (pack of 5)",
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Sheet mask · ₹45/100ml",
+  "featureLine": "Sheet mask",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -20556,8 +20560,8 @@ const CTPRODUCTS = [
    "experience": 6.2
   },
   "fullSpec": {
-   "quantity": "100 ml × 5 pack",
-   "pricePer100": "₹45/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -20587,14 +20591,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-strawberry-pack-5/p/itm432b8de2f4eed",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Strawberry Pack Of 5 (100 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Strawberry Pack Of 5",
   "tags": [
    "scope:face",
    "format:sheet-mask",
    "format:kit",
    "ing:strawberry",
    "aud:unisex",
-   "size:xl",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -20965,6 +20968,121 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cellby-soaps-itmef733670dd906",
+  "brand": "cellby soaps",
+  "model": "CELLBY Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask",
+  "price": 48,
+  "capacityLine": "34 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask · Paraben-free · ₹141/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.7★ from 56 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 6.6
+  },
+  "fullSpec": {
+   "quantity": "34 ml",
+   "pricePer100": "₹141/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.7/5 (56 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 56 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/p/e/r/34-cellby-bio-collagen-overnight-korean-glass-skin-hydrogel-face-original-imahptg5twx2rc2x.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/h/4/l/34-cellby-bio-collagen-overnight-korean-glass-skin-hydrogel-face-original-imahptg58pdambrz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/y/n/s/34-cellby-bio-collagen-overnight-korean-glass-skin-hydrogel-face-original-imahptg5af3ruhgv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/m/t/j/34-cellby-bio-collagen-overnight-korean-glass-skin-hydrogel-face-original-imahptg5ggkykwnu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/g/j/g/34-cellby-bio-collagen-overnight-korean-glass-skin-hydrogel-face-original-imahptg57xwqhdhk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cellby-soaps-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask/p/itmef733670dd906",
+  "buyStore": "Flipkart",
+  "title": "cellby soaps CELLBY Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask",
+  "tags": [
+   "scope:face",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "ing:collagen",
+   "claim:korean",
+   "claim:overnight",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 56 ratings"
+  }
+ },
+ {
   "id": "melomuse-itm66d4349b35f60",
   "brand": "MELOMUSE",
   "model": "Bio Collagen Face Mask Overnight Mask for Glass Skin Hyd …",
@@ -21031,6 +21149,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -21082,7 +21201,7 @@ const CTPRODUCTS = [
  {
   "id": "mancode-itm459819e375fc3",
   "brand": "Mancode",
-  "model": "Green Tea Facial Sheet Mask for Men & Women Korean Sheet …",
+  "model": "Green Tea Facial Sheet Mask for Men & Women Korean Sheet Mask Pack of 3",
   "price": 148,
   "capacityLine": "225 ml (pack of 3)",
   "materialLine": "green tea",
@@ -21132,7 +21251,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mancode-green-tea-facial-sheet-mask-men-women-korean-pack-3/p/itm459819e375fc3",
   "buyStore": "Flipkart",
-  "title": "MANCODE Green Tea Facial Sheet Mask for Men & Women Korean Sheet …",
+  "title": "MANCODE Green Tea Facial Sheet Mask for Men & Women Korean Sheet Mask Pack of 3",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -21193,11 +21312,11 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm38df98ab46fcf",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Rice Pack Of 4 (80 ml)",
+  "model": "Beauty Facial Sheet Mask Rice Pack Of 4",
   "price": 173,
-  "capacityLine": "320 ml (pack of 4)",
+  "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
-  "featureLine": "Sheet mask · ₹54/100ml",
+  "featureLine": "Sheet mask",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -21211,8 +21330,8 @@ const CTPRODUCTS = [
    "experience": 5.8
   },
   "fullSpec": {
-   "quantity": "80 ml × 4 pack",
-   "pricePer100": "₹54/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Sheet mask",
    "keyIngredients": "rice water (per listing)",
    "freeFrom": "Not stated in listing",
@@ -21242,14 +21361,13 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-rice-pack-4/p/itm38df98ab46fcf",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Rice Pack Of 4 (80 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Rice Pack Of 4",
   "tags": [
    "scope:face",
    "format:sheet-mask",
    "format:kit",
    "ing:rice-water",
    "aud:unisex",
-   "size:xl",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -21295,7 +21413,7 @@ const CTPRODUCTS = [
  {
   "id": "bio-reach-itm9d1a1a0eca948",
   "brand": "Bio Reach",
-  "model": "VITAMIN C FACE SERUM SHEET MASK | BRIGHTENS SKIN | FIGH …",
+  "model": "VITAMIN C FACE SERUM SHEET MASK | BRIGHTENS SKIN | FIGHTS AGING | PACK OF 3",
   "price": 156,
   "capacityLine": "180 ml (pack of 3)",
   "materialLine": "vitamin C",
@@ -21343,7 +21461,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bio-reach-vitamin-c-face-serum-sheet-mask-brightens-skin-fights-aging-pack-3/p/itm9d1a1a0eca948",
   "buyStore": "Flipkart",
-  "title": "Bio Reach VITAMIN C FACE SERUM SHEET MASK | BRIGHTENS SKIN | FIGH …",
+  "title": "Bio Reach VITAMIN C FACE SERUM SHEET MASK | BRIGHTENS SKIN | FIGHTS AGING | PACK OF 3",
   "tags": [
    "scope:face",
    "format:serum",
@@ -21405,7 +21523,7 @@ const CTPRODUCTS = [
  {
   "id": "rorec-itm65fa5c4a8a358",
   "brand": "rorec",
-  "model": "Natural Facial sheet mask combo face masks men and women (1 …",
+  "model": "Natural Facial sheet mask combo face masks men and women",
   "price": 198,
   "capacityLine": "180 g",
   "materialLine": "Key ingredients not stated",
@@ -21453,7 +21571,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/rorec-natural-facial-sheet-mask-combo-face-masks-men-women/p/itm65fa5c4a8a358",
   "buyStore": "Flipkart",
-  "title": "rorec Natural Facial sheet mask combo face masks men and women (1 …",
+  "title": "rorec Natural Facial sheet mask combo face masks men and women",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -21620,7 +21738,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm22d2a21cba621",
   "brand": "MasKing",
-  "model": "Beauty Facial sheet Mask for Skin Lightening, Glowing, No …",
+  "model": "Beauty Facial sheet Mask for Skin Lightening, Glowing, Nourishing and Brightening for wome…",
   "price": 382,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -21648,7 +21766,7 @@ const CTPRODUCTS = [
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (5,771 ratings, Flipkart)",
@@ -21671,13 +21789,15 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-skin-lightening-glowing-nourishing-brightening-women-men-combo-pack-10/p/itm22d2a21cba621",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial sheet Mask for Skin Lightening, Glowing, No …",
+  "title": "MasKing Beauty Facial sheet Mask for Skin Lightening, Glowing, Nourishing and Brightening for women and men Combo Pack of 10",
   "tags": [
    "scope:face",
    "format:sheet-mask",
+   "format:kit",
    "claim:brightening",
    "claim:whitening-claim",
-   "aud:unisex",
+   "claim:hydrating",
+   "aud:women",
    "rating:4.0",
    "store:flipkart",
    "inci:partial"
@@ -21688,7 +21808,7 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false,
+   "women": true,
    "inci": "partial",
    "inciSrc": null,
    "pharma": false
@@ -21780,6 +21900,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:peel",
    "claim:brightening",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -21829,7 +21950,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmcc409a7d4aadb",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Kiwi (20 ml)",
+  "model": "Beauty Facial Sheet Mask Kiwi",
   "price": 52,
   "capacityLine": "20 ml",
   "materialLine": "aloe vera",
@@ -21877,7 +21998,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-kiwi/p/itmcc409a7d4aadb",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Kiwi (20 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Kiwi",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -22051,7 +22172,7 @@ const CTPRODUCTS = [
  {
   "id": "o3-itm6a67eca9ebcd8",
   "brand": "O3+",
-  "model": "Facialist Youth Radiance Sheet Mask with Glycolic Acid for Fi …",
+  "model": "Facialist Youth Radiance Sheet Mask with Glycolic Acid for Fine Lines, Wrinkles & Glowing …",
   "price": 139,
   "capacityLine": "30 g",
   "materialLine": "glycolic acid",
@@ -22099,7 +22220,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/o3-facialist-youth-radiance-sheet-mask-glycolic-acid-fine-lines-wrinkles-glowing-skin-ideal-all-types/p/itm6a67eca9ebcd8",
   "buyStore": "Flipkart",
-  "title": "O3+ Facialist Youth Radiance Sheet Mask with Glycolic Acid for Fi …",
+  "title": "O3+ Facialist Youth Radiance Sheet Mask with Glycolic Acid for Fine Lines, Wrinkles & Glowing Skin Ideal for All Skin Types",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -22160,7 +22281,7 @@ const CTPRODUCTS = [
  {
   "id": "renee-itm9bf881a759094",
   "brand": "Renee",
-  "model": "Niacinamide Sheet Mask (20 ml)",
+  "model": "Niacinamide Sheet Mask",
   "price": 129,
   "capacityLine": "20 ml",
   "materialLine": "niacinamide",
@@ -22203,7 +22324,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#6 on list, strong evidence); glycerin (#8 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 16 ratings"
+   "buyerEvidence": "4.3★ from 16 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/l/w/1/20-niacinamide-sheet-mask-sheet-mask-renee-original-imagqy5ukjqzvedg.jpeg?q=90",
@@ -22214,7 +22336,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/renee-niacinamide-sheet-mask/p/itm9bf881a759094",
   "buyStore": "Flipkart",
-  "title": "Renee Niacinamide Sheet Mask (20 ml)",
+  "title": "Renee Niacinamide Sheet Mask",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -22234,6 +22356,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -22267,6 +22391,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -22274,6 +22399,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22281,6 +22407,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -22288,6 +22415,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -22340,7 +22468,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itm1657cc42d070a",
   "brand": "Dr. Rashel",
-  "model": "DE-TAN SHEET MASK WITH SERUM | FIGHTS TAN & REJUVENATES …",
+  "model": "DE-TAN SHEET MASK WITH SERUM | FIGHTS TAN & REJUVENATES DULLNESS",
   "price": 240,
   "capacityLine": "80 g",
   "materialLine": "aloe vera",
@@ -22390,7 +22518,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-de-tan-sheet-mask-serum-fights-tan-rejuvenates-dullness/p/itm1657cc42d070a",
   "buyStore": "Flipkart",
-  "title": "DR.RASHEL DE-TAN SHEET MASK WITH SERUM | FIGHTS TAN & REJUVENATES …",
+  "title": "DR.RASHEL DE-TAN SHEET MASK WITH SERUM | FIGHTS TAN & REJUVENATES DULLNESS",
   "tags": [
    "scope:unstated",
    "format:serum",
@@ -22453,7 +22581,7 @@ const CTPRODUCTS = [
  {
   "id": "lacasa-beauty-care-itm98ecbe15e870c",
   "brand": "LACASA BEAUTY CARE",
-  "model": "Collagen Face Sheet Mask | Korean Face sheet M …",
+  "model": "Collagen Face Sheet Mask | Korean Face sheet Mask for Radiant Skin",
   "price": 70,
   "capacityLine": "34 g",
   "materialLine": "Key ingredients not stated",
@@ -22501,7 +22629,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacasa-beauty-care-collagen-face-sheet-mask-korean-radiant-skin/p/itm98ecbe15e870c",
   "buyStore": "Flipkart",
-  "title": "LACASA BEAUTY CARE Collagen Face Sheet Mask | Korean Face sheet M …",
+  "title": "LACASA BEAUTY CARE Collagen Face Sheet Mask | Korean Face sheet Mask for Radiant Skin",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -22564,7 +22692,7 @@ const CTPRODUCTS = [
  {
   "id": "everyuth-naturals-itm3690b9898466a",
   "brand": "Everyuth Naturals",
-  "model": "Rejuvenating Cucumber and Aloe VeraSheet Mask. …",
+  "model": "Rejuvenating Cucumber and Aloe VeraSheet Mask.",
   "price": 100,
   "capacityLine": "75 ml",
   "materialLine": "aloe vera + cucumber",
@@ -22613,7 +22741,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/everyuth-naturals-rejuvenating-cucumber-aloe-verasheet-mask/p/itm3690b9898466a",
   "buyStore": "Flipkart",
-  "title": "Everyuth Naturals Rejuvenating Cucumber and Aloe VeraSheet Mask. …",
+  "title": "Everyuth Naturals Rejuvenating Cucumber and Aloe VeraSheet Mask.",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -22672,7 +22800,7 @@ const CTPRODUCTS = [
  {
   "id": "yilest-itmbb7f82a5829c9",
   "brand": "YILEST",
-  "model": "biodance collagen sheet mask for hydration,radiant glow,da …",
+  "model": "biodance collagen sheet mask for hydration,radiant glow,damage repair",
   "price": 55,
   "capacityLine": "34 ml",
   "materialLine": "niacinamide + hyaluronic acid + green tea",
@@ -22711,7 +22839,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#4 on list, strong evidence); aloe barbadensis leaf extract (#5 on list, moderate evidence); hyaluronic acid (#6 on list, moderate evidence); centella asiatica extract (#8 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 21 ratings"
+   "buyerEvidence": "4.1★ from 21 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI, centella asiatica extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/3/y/f/34-biodance-collagen-sheet-mask-for-hydration-radiant-glow-original-imahnyugxajvfmyy.jpeg?q=90",
@@ -22722,7 +22851,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/yilest-biodance-collagen-sheet-mask-hydration-radiant-glow-damage-repair/p/itmbb7f82a5829c9",
   "buyStore": "Flipkart",
-  "title": "YILEST biodance collagen sheet mask for hydration,radiant glow,da …",
+  "title": "YILEST biodance collagen sheet mask for hydration,radiant glow,damage repair",
   "tags": [
    "scope:unstated",
    "format:sheet-mask",
@@ -22749,6 +22878,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -22781,6 +22913,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22788,6 +22921,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -22795,6 +22929,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -22802,6 +22937,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -22809,6 +22945,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -22816,6 +22953,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -22844,6 +22982,117 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 21 ratings"
+  }
+ },
+ {
+  "id": "a-ashetica-itme6ac205ef33da",
+  "brand": "A'Ashetica",
+  "model": "Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask, Collagen Face Mask",
+  "price": 6000,
+  "capacityLine": "34 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask · Paraben-free · ₹17647/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "34 ml",
+   "pricePer100": "₹17647/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/j/n/9/3-0-face-pace-sheet-mask-a-ashetica-original-imahz2chr4qfhz2h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/t/7/p/34-collagen-glass-skin-overnight-mask-for-long-lasting-hydration-original-imahhzq8jfqpg8az.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/2/u/s/38-0-bio-collagen-korean-face-mask-deep-hydration-night-hydrogel-original-imahmux5y2tw6fj2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/c/4/n/6-0-face-pace-sheet-mask-a-ashetica-original-imahz28hw6krthdy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/p/y/6-0-face-pace-sheet-mask-a-ashetica-original-imahz28dwetpymyd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/a-ashetica-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-collagen-mask/p/itme6ac205ef33da",
+  "buyStore": "Flipkart",
+  "title": "A'Ashetica Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask, Collagen Face Mask",
+  "tags": [
+   "scope:face",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:sleeping-mask",
+   "format:pack",
+   "format:peel",
+   "format:kit",
+   "ing:collagen",
+   "claim:hydrating",
+   "claim:korean",
+   "claim:overnight",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -22913,6 +23162,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -23586,6 +23836,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -23807,6 +24058,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24028,6 +24280,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24473,6 +24726,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -24804,6 +25058,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -26018,6 +26273,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -26681,6 +26937,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -27014,6 +27271,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -27681,6 +27939,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -28012,6 +28271,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -28680,6 +28940,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -28790,6 +29051,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -29236,6 +29498,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -29458,6 +29721,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -29568,6 +29832,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -30008,6 +30273,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -30899,6 +31165,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -31119,6 +31386,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -31341,6 +31609,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -32009,6 +32278,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -32118,6 +32388,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -33007,6 +33278,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:anti-aging",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -33340,6 +33612,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -33787,6 +34060,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:pores",
+   "claim:cooling",
    "skin:dry",
    "skin:normal",
    "skin:all",
@@ -34011,6 +34285,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -34563,6 +34838,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -35011,6 +35287,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -37456,6 +37733,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:pack",
    "format:peel",
+   "ing:calendula",
    "claim:brightening",
    "skin:all",
    "free:paraben",
@@ -37566,6 +37844,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -38151,7 +38430,7 @@ const CTPRODUCTS = [
  {
   "id": "enn-itmf0d7ede9cae19",
   "brand": "ENN",
-  "model": "Radiance Shot Sheet Mask | Enriched With Vitamin C & Niacinam …",
+  "model": "Radiance Shot Sheet Mask | Enriched With Vitamin C & Niacinamide",
   "price": 70,
   "capacityLine": "50 g (pack of 2)",
   "materialLine": "vitamin C + niacinamide + rice water",
@@ -38200,7 +38479,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/enn-radiance-shot-sheet-mask-enriched-vitamin-c-niacinamide/p/itmf0d7ede9cae19",
   "buyStore": "Flipkart",
-  "title": "ENN Radiance Shot Sheet Mask | Enriched With Vitamin C & Niacinam …",
+  "title": "ENN Radiance Shot Sheet Mask | Enriched With Vitamin C & Niacinamide",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -41814,7 +42093,7 @@ const CTPRODUCTS = [
  {
   "id": "moika-itmabfcc3d6e0827",
   "brand": "MOIKA",
-  "model": "KOREAN Moisturization & Nourishment FACE MASK SHEET PACK OF …",
+  "model": "KOREAN Moisturization & Nourishment FACE MASK SHEET PACK OF (.9)",
   "price": 637,
   "capacityLine": "60 g",
   "materialLine": "green tea + charcoal",
@@ -41863,7 +42142,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/moika-korean-moisturization-nourishment-face-mask-sheet-pack-9/p/itmabfcc3d6e0827",
   "buyStore": "Flipkart",
-  "title": "MOIKA KOREAN Moisturization & Nourishment FACE MASK SHEET PACK OF …",
+  "title": "MOIKA KOREAN Moisturization & Nourishment FACE MASK SHEET PACK OF (.9)",
   "tags": [
    "scope:face",
    "format:stick",
@@ -41880,6 +42159,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:normal",
@@ -41932,11 +42212,11 @@ const CTPRODUCTS = [
  {
   "id": "moika-itmcf3dcffcb5d3e",
   "brand": "MOIKA",
-  "model": "Deep Cleansing KOREAN FACE MASK SHEET PACK OF (9) (225 ml)",
+  "model": "Deep Cleansing KOREAN FACE MASK SHEET PACK OF (9)",
   "price": 642,
-  "capacityLine": "2025 ml (pack of 9)",
+  "capacityLine": "2025 g (pack of 9)",
   "materialLine": "charcoal + clay/mud",
-  "featureLine": "Sheet mask · Paraben-free · ₹32/100ml",
+  "featureLine": "Sheet mask · Paraben-free · ₹32/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
@@ -41951,8 +42231,8 @@ const CTPRODUCTS = [
    "experience": 0
   },
   "fullSpec": {
-   "quantity": "225 ml × 9 pack",
-   "pricePer100": "₹32/100ml",
+   "quantity": "225 g × 9 pack",
+   "pricePer100": "₹32/100g",
    "format": "Sheet mask",
    "keyIngredients": "charcoal, clay/mud (per listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
@@ -41981,7 +42261,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/moika-deep-cleansing-korean-face-mask-sheet-pack-9/p/itmcf3dcffcb5d3e",
   "buyStore": "Flipkart",
-  "title": "MOIKA Deep Cleansing KOREAN FACE MASK SHEET PACK OF (9) (225 ml)",
+  "title": "MOIKA Deep Cleansing KOREAN FACE MASK SHEET PACK OF (9)",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -42459,6 +42739,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:collagen",
    "claim:brightening",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -42551,7 +42832,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Sparrow life sciences (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 10,759 ratings"
+   "buyerEvidence": "4★ from 10,759 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/v/o/100-rice-ceramide-korean-glass-skin-peel-off-mask-paraben-free-original-imahpas7h5gmfpsm.jpeg?q=90",
@@ -42573,6 +42855,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:secondary",
    "inci:no-fragrance"
@@ -42607,6 +42890,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -42614,6 +42898,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -42929,6 +43214,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -43053,6 +43339,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -43103,7 +43390,7 @@ const CTPRODUCTS = [
  {
   "id": "glamberg-itmefac648f8a523",
   "brand": "Glamberg",
-  "model": "White Lotus Face Serum Sheet Mask hydrating and refreshi …",
+  "model": "White Lotus Face Serum Sheet Mask hydrating and refreshing suits all skin types",
   "price": 264,
   "capacityLine": "25 g",
   "materialLine": "turmeric + sandalwood",
@@ -43152,7 +43439,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/glamberg-white-lotus-face-serum-sheet-mask-hydrating-refreshing-suits-all-skin-types/p/itmefac648f8a523",
   "buyStore": "Flipkart",
-  "title": "Glamberg White Lotus Face Serum Sheet Mask hydrating and refreshi …",
+  "title": "Glamberg White Lotus Face Serum Sheet Mask hydrating and refreshing suits all skin types",
   "tags": [
    "scope:face",
    "format:serum",
@@ -43167,6 +43454,8 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -43217,7 +43506,7 @@ const CTPRODUCTS = [
  {
   "id": "maryville-itm83dc8e099eea3",
   "brand": "Maryville",
-  "model": "soft and smooth new sheet mask new look pack of 1 (20 g …",
+  "model": "soft and smooth new sheet mask new look pack of 1",
   "price": 232,
   "capacityLine": "20 g",
   "materialLine": "papaya",
@@ -43266,7 +43555,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/maryville-soft-smooth-new-sheet-mask-look-pack-1/p/itm83dc8e099eea3",
   "buyStore": "Flipkart",
-  "title": "Maryville soft and smooth new sheet mask new look pack of 1 (20 g …",
+  "title": "Maryville soft and smooth new sheet mask new look pack of 1",
   "tags": [
    "scope:face",
    "format:gel",
@@ -43573,7 +43862,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itm8e586b4fc773e",
   "brand": "MasKing",
-  "model": "Superfood Coconut Sheet Mask for Skin glowing, hydrating …",
+  "model": "Superfood Coconut Sheet Mask for Skin glowing, hydrating for Women (Pack 01)",
   "price": 60,
   "capacityLine": "150 g (pack of 2)",
   "materialLine": "turmeric + saffron + rose",
@@ -43622,7 +43911,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-superfood-coconut-sheet-mask-skin-glowing-hydrating-women-pack-01/p/itm8e586b4fc773e",
   "buyStore": "Flipkart",
-  "title": "MasKing Superfood Coconut Sheet Mask for Skin glowing, hydrating …",
+  "title": "MasKing Superfood Coconut Sheet Mask for Skin glowing, hydrating for Women (Pack 01)",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -43862,6 +44151,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -44299,6 +44589,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -44390,7 +44681,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "RSH Global Pvt. Ltd 159 Mahamayatala, Garia Main Road, Ph No: 8697725279, Kolkata - 700098 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 1,619 ratings"
+   "buyerEvidence": "4.4★ from 1,619 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI, sodium ascorbyl phosphate #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/r/s/a/85-vitamin-c-pink-clay-face-mask-for-glowing-skin-with-vitamin-e-original-imahfctfejtgy7gj.jpeg?q=90",
@@ -44412,6 +44704,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -44446,6 +44740,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -44453,6 +44748,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -44460,6 +44756,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -44467,6 +44764,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -44474,6 +44772,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -44481,6 +44780,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -44488,6 +44788,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -44495,6 +44796,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -44502,6 +44804,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -44509,6 +44812,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -44532,7 +44836,7 @@ const CTPRODUCTS = [
  {
   "id": "lacto-calamine-itm21b7bcdb6a6dd",
   "brand": "Lacto Calamine",
-  "model": "Face Sheet Masks | Brightens, Hydrates & Clarifies …",
+  "model": "Face Sheet Masks | Brightens, Hydrates & Clarifies | 6 Pcs",
   "price": 308,
   "capacityLine": "1080 g (pack of 6)",
   "materialLine": "vitamin C + glycolic acid + hyaluronic acid",
@@ -44582,7 +44886,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/lacto-calamine-face-sheet-masks-brightens-hydrates-clarifies-6-pcs/p/itm21b7bcdb6a6dd",
   "buyStore": "Flipkart",
-  "title": "Lacto Calamine Face Sheet Masks | Brightens, Hydrates & Clarifies …",
+  "title": "Lacto Calamine Face Sheet Masks | Brightens, Hydrates & Clarifies | 6 Pcs",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -44829,6 +45133,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -44882,7 +45187,7 @@ const CTPRODUCTS = [
  {
   "id": "mancode-itm9ad9e4cf61f7c",
   "brand": "Mancode",
-  "model": "Charcoal Facial Sheet Mask for Men & Women Korean Sheet M …",
+  "model": "Charcoal Facial Sheet Mask for Men & Women Korean Sheet Mask Pack of 3",
   "price": 141,
   "capacityLine": "225 ml (pack of 3)",
   "materialLine": "charcoal",
@@ -44932,7 +45237,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mancode-charcoal-facial-sheet-mask-men-women-korean-pack-3/p/itm9ad9e4cf61f7c",
   "buyStore": "Flipkart",
-  "title": "MANCODE Charcoal Facial Sheet Mask for Men & Women Korean Sheet M …",
+  "title": "MANCODE Charcoal Facial Sheet Mask for Men & Women Korean Sheet Mask Pack of 3",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -45111,7 +45416,7 @@ const CTPRODUCTS = [
  {
   "id": "mirabelle-cosmetics-korea-itme4fa51c7007f9",
   "brand": "MIRABELLE COSMETICS KOREA",
-  "model": "Healing skin Facial Sheet Mask ( Pack o …",
+  "model": "Healing skin Facial Sheet Mask ( Pack of 10 )",
   "price": 428,
   "capacityLine": "25 ml",
   "materialLine": "aloe vera + charcoal",
@@ -45161,7 +45466,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/mirabelle-cosmetics-korea-healing-skin-facial-sheet-mask-pack-10/p/itme4fa51c7007f9",
   "buyStore": "Flipkart",
-  "title": "MIRABELLE COSMETICS KOREA Healing skin Facial Sheet Mask ( Pack o …",
+  "title": "MIRABELLE COSMETICS KOREA Healing skin Facial Sheet Mask ( Pack of 10 )",
   "tags": [
    "scope:face",
    "format:oil",
@@ -45172,6 +45477,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:aloe-vera",
    "ing:charcoal",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:oil-control",
    "claim:korean",
@@ -45326,7 +45632,7 @@ const CTPRODUCTS = [
  {
   "id": "dr-rashel-itm970b6cbfe219c",
   "brand": "Dr. Rashel",
-  "model": "ALOE VERA SHEET MASK WITH SERUM THAT MOISTURIZE, SOOTH …",
+  "model": "ALOE VERA SHEET MASK WITH SERUM THAT MOISTURIZE, SOOTHE SKIN & BALANCE SKIN OIL (PACK OF 2…",
   "price": 302,
   "capacityLine": "40 g (pack of 2)",
   "materialLine": "aloe vera",
@@ -45376,7 +45682,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/dr-rashel-aloe-vera-sheet-mask-serum-moisturize-soothe-skin-balance-oil-pack-2-20g-2/p/itm970b6cbfe219c",
   "buyStore": "Flipkart",
-  "title": "Dr. Rashel ALOE VERA SHEET MASK WITH SERUM THAT MOISTURIZE, SOOTH …",
+  "title": "Dr. Rashel ALOE VERA SHEET MASK WITH SERUM THAT MOISTURIZE, SOOTHE SKIN & BALANCE SKIN OIL (PACK OF 2) - 20g*2",
   "tags": [
    "scope:face",
    "format:serum",
@@ -46037,6 +46343,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -46267,6 +46574,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -46383,6 +46691,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -46720,6 +47029,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -46947,6 +47257,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:acne",
    "claim:pores",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -47501,6 +47812,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -47613,6 +47925,8 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:korean",
+   "claim:odour",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -48482,7 +48796,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -49477,7 +49790,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -51796,6 +52108,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -53342,6 +53655,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -54120,6 +54434,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -54789,6 +55104,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:exfoliating",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "free:paraben",
@@ -57170,6 +57486,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -57177,6 +57494,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -57184,6 +57502,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -57191,6 +57510,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -57198,6 +57518,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -57205,6 +57526,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -57212,6 +57534,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -57219,6 +57542,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -57226,6 +57550,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -57324,6 +57649,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -58589,122 +58915,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "glamveda-itm278236077f1a4",
-  "brand": "Glamveda",
-  "model": "Pure Glow Gold Peel Off Mask & Hybrid Sunscreen Lotion S …",
-  "price": 247,
-  "capacityLine": "120 g",
-  "materialLine": "turmeric + saffron + vitamin E",
-  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹206/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 4 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.7
-  },
-  "fullSpec": {
-   "quantity": "120 g",
-   "pricePer100": "₹206/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "turmeric, saffron, vitamin E (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (10 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Gold bhasam, Orange peel, turmeric & saffron , Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 10 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/c/o/pure-glow-gold-peel-off-mask-hybrid-sunscreen-lotion-spf-50-pa-original-imahcjpfevb5knjn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/p/3/e/pure-glow-gold-peel-off-mask-hybrid-sunscreen-lotion-spf-50-pa-original-imahcjpfdtsbn5bv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/o/z/f/pure-glow-gold-peel-off-mask-hybrid-sunscreen-lotion-spf-50-pa-original-imahcjpfayzxmszd.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/i/f/pure-glow-gold-peel-off-mask-hybrid-sunscreen-lotion-spf-50-pa-original-imahcjpf3vvsnk24.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/o/m/b/activated-charcoal-peel-off-mask-hybrid-sunscreen-lotion-spf-50-original-imahew3kqwzgar7g.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glamveda-pure-glow-gold-peel-off-mask-hybrid-sunscreen-lotion-spf-50-pa-moisturize-protect-120gm/p/itm278236077f1a4",
-  "buyStore": "Flipkart",
-  "title": "GLAMVEDA Pure Glow Gold Peel Off Mask & Hybrid Sunscreen Lotion S …",
-  "tags": [
-   "scope:unstated",
-   "format:lotion",
-   "format:peel-off",
-   "format:pack",
-   "format:peel",
-   "format:kit",
-   "spf:50",
-   "pa:+++",
-   "sun:hybrid",
-   "ing:turmeric",
-   "ing:saffron",
-   "ing:vitamin-e",
-   "ing:gold",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "free:paraben",
-   "free:sulfate",
-   "free:vegan",
-   "aud:kids",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Gold bhasam, Orange peel, turmeric & saffron , Vitamin E",
-   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.25,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 10 ratings"
-  }
- },
- {
   "id": "unbranded-itmee6fef3723299",
   "brand": "Unbranded",
   "model": "7days natural Activated Charcoal Peel Off Mask For Tan Removal & …",
@@ -58982,6 +59192,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -59100,6 +59311,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -59218,6 +59430,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -59327,6 +59540,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:collagen",
    "ing:charcoal",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59442,6 +59656,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:collagen",
    "ing:charcoal",
+   "claim:overnight",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -59481,6 +59696,118 @@ const CTPRODUCTS = [
    "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 0.22,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "pud-itm0ffc4c5d82aab",
+  "brand": "PUD",
+  "model": "TRADERS Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask for Deep Hydration",
+  "price": 118,
+  "capacityLine": "10 g",
+  "materialLine": "retinol",
+  "featureLine": "Mask / pack · ₹1180/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "10 g",
+   "pricePer100": "₹1180/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-mask/1/r/7/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahjfgxs8ste6pe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-mask/t/4/q/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahjfgxdzzzn7dc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/z/f/34-bio-collagen-overnight-face-mask-korean-glass-skin-vitamin-e-original-imahj5mktmzcm4wf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-mask/g/s/d/34-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-original-imahjfgxfxzyjzuv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/m/c/34-bio-collagen-overnight-hydrogel-face-mask-hydrating-pore-original-imahhdz9zq58vnfg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/pud-traders-bio-collagen-overnight-korean-glass-skin-hydrogel-face-mask-deep-hydration/p/itm0ffc4c5d82aab",
+  "buyStore": "Flipkart",
+  "title": "PUD TRADERS Bio-Collagen Overnight Korean Glass Skin Hydrogel Face Mask for Deep Hydration",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:toner",
+   "format:patch",
+   "format:kit",
+   "ing:retinol",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:korean",
+   "claim:overnight",
+   "claim:cooling",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -59570,6 +59897,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -59686,6 +60014,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -59919,6 +60248,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60029,6 +60359,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:lightweight",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60137,6 +60468,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60246,6 +60578,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60353,6 +60686,7 @@ const CTPRODUCTS = [
    "format:peel",
    "ing:collagen",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60468,6 +60802,7 @@ const CTPRODUCTS = [
    "ing:clay",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60577,6 +60912,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60687,6 +61023,7 @@ const CTPRODUCTS = [
    "ing:sandalwood",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60797,6 +61134,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -60911,6 +61249,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -61021,6 +61360,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61131,6 +61471,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61241,6 +61582,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61350,6 +61692,7 @@ const CTPRODUCTS = [
    "ing:probiotics",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61456,6 +61799,7 @@ const CTPRODUCTS = [
    "format:peel",
    "ing:collagen",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61505,7 +61849,7 @@ const CTPRODUCTS = [
  {
   "id": "naosucura-itm6af2ee62613e8",
   "brand": "Naosucura",
-  "model": "1 Pc Overnight Bio Collagen Hydrogel Face Mask for Smoo …",
+  "model": "1 Pc Overnight Bio Collagen Hydrogel Face Mask for Smooth Fresh & Radiant Skin",
   "price": 115,
   "capacityLine": "34 g",
   "materialLine": "hyaluronic acid",
@@ -61554,7 +61898,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/naosucura-1-pc-overnight-bio-collagen-hydrogel-face-mask-smooth-fresh-radiant-skin/p/itm6af2ee62613e8",
   "buyStore": "Flipkart",
-  "title": "Naosucura 1 Pc Overnight Bio Collagen Hydrogel Face Mask for Smoo …",
+  "title": "Naosucura 1 Pc Overnight Bio Collagen Hydrogel Face Mask for Smooth Fresh & Radiant Skin",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -61567,6 +61911,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61676,6 +62021,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -61791,6 +62137,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -61903,6 +62250,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -62011,6 +62359,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -62170,7 +62519,7 @@ const CTPRODUCTS = [
  {
   "id": "masking-itmc099bab86025c",
   "brand": "MasKing",
-  "model": "Beauty Facial Sheet Mask Potato (20 ml)",
+  "model": "Beauty Facial Sheet Mask Potato",
   "price": 42,
   "capacityLine": "20 ml",
   "materialLine": "aloe vera",
@@ -62218,7 +62567,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/masking-beauty-facial-sheet-mask-potato/p/itmc099bab86025c",
   "buyStore": "Flipkart",
-  "title": "MasKing Beauty Facial Sheet Mask Potato (20 ml)",
+  "title": "MasKing Beauty Facial Sheet Mask Potato",
   "tags": [
    "scope:face",
    "format:sheet-mask",
@@ -62675,6 +63024,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -62722,101 +63072,161 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "garnier-b0chyjmhxg",
-  "brand": "Garnier",
-  "model": "Skin Naturals, Cleansing Water for Waterproof Makeup, 125ml & Garnier Skin Naturals, Face …",
-  "price": 284,
-  "capacityLine": "28 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack · ₹1014/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "id": "celimax-b0fkbdh81t",
+  "brand": "CELIMAX",
+  "model": "The Real Noni Refresh Clay Mask 120G",
+  "price": 1648,
+  "capacityLine": "120 g",
+  "materialLine": "clay/mud",
+  "featureLine": "Mask / pack · ₹1373/100g",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (CELIMAX official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "kaolin high on the INCI list (limited evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.8
+   "ingredients": 4.7,
+   "skin": 6.4,
+   "trust": 5.5,
+   "experience": 0
   },
   "fullSpec": {
-   "quantity": "28 g",
-   "pricePer100": "₹1014/100g",
+   "quantity": "120 g",
+   "pricePer100": "₹1373/100g",
    "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "clay/mud (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
+   "benefit": "Not stated in listing",
    "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "CELIMAX official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://www.celimax.com/au/product/358ee0b4-ec3b-4be8-9ac9-5d3258a40a88",
+   "inciMatchedName": "The Real Noni Refresh Clay Mask 120g (name match 100%)",
+   "inciList": "Water, Kaolin (CI 77004), Glycerin, Bentonite (CI 77004), Propanediol, Alcohol Denat., 1,2-Hexanediol, Dipropylene Glycol, Iron Oxides (CI 77492), Morinda Citrifolia Fruit Extract, Iron Oxides (CI 77499), Citric Acid, Xanthan Gum, Butylene Glycol, Betula Platyphylla Japonica Juice, Ethylhexylglycerin, Morinda Citrifolia Extract, Fragrance, Allantoin, Saponaria Officinalis Extract, Kigelia Africana Fruit Extract\"}]}]",
+   "evidenceActives": "kaolin (#2 on list, limited evidence); glycerin (#3 on list, strong evidence); bentonite (#4 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
-   "https://m.media-amazon.com/images/I/61ezbJ8rUoL._AC_UL320_.jpg"
+   "https://m.media-amazon.com/images/I/51JQxgkIXfL._SL1500_.jpg"
   ],
-  "buyUrl": "https://www.amazon.in/dp/B0CHYJMHXG",
+  "buyUrl": "https://www.amazon.in/dp/B0FKBDH81T",
   "buyStore": "Amazon",
-  "title": "Garnier Skin Naturals, Cleansing Water for Waterproof Makeup, 125ml & Garnier Skin Naturals, Face Mask, Hydrating, Brightening & Anti-Dark Spots, Bright Complete, 1 pc, 28g",
+  "title": "CELIMAX The Real Noni Refresh Clay Mask 120G",
   "tags": [
-   "scope:face",
-   "format:wash",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:water-resistant",
+   "scope:unstated",
+   "format:clay-mask",
+   "ing:clay",
+   "claim:cooling",
    "aud:unisex",
-   "size:travel",
-   "rating:4.5",
+   "size:standard",
+   "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
    "freefrom": false,
-   "natural": true,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "CELIMAX official website (www.celimax.com, AU site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.celimax.com/au/product/358ee0b4-ec3b-4be8-9ac9-5d3258a40a88",
+   "inciSourceRegion": "AU",
+   "inciMatchedTitle": "The Real Noni Refresh Clay Mask 120g",
+   "inciMatchScore": 1,
+   "inciText": "Water, Kaolin (CI 77004), Glycerin, Bentonite (CI 77004), Propanediol, Alcohol Denat., 1,2-Hexanediol, Dipropylene Glycol, Iron Oxides (CI 77492), Morinda Citrifolia Fruit Extract, Iron Oxides (CI 77499), Citric Acid, Xanthan Gum, Butylene Glycol, Betula Platyphylla Japonica Juice, Ethylhexylglycerin, Morinda Citrifolia Extract, Fragrance, Allantoin, Saponaria Officinalis Extract, Kigelia Africana Fruit Extract\"}]}]",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "bentonite",
+     "grade": "C",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
-    "parent": "L'Oréal",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
    },
-   "buyers": "4.6★ from 0 ratings"
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -63304,6 +63714,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -63311,6 +63722,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -64221,6 +64633,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:brightening",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -64322,6 +64735,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -64364,113 +64778,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "xinson-b0fv3gs7jy",
-  "brand": "XINSON",
-  "model": "Facial Mask + Essence Combo – Rice Repair, Gold Foil, Kiwi Fruit, Cherry Whitening, Lavend…",
-  "price": 139,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid + rice water",
-  "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mask / pack",
-   "keyIngredients": "hyaluronic acid, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Ru6uIZRmL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FV3GS7JY",
-  "buyStore": "Amazon",
-  "title": "XINSON Facial Mask + Essence Combo – Rice Repair, Gold Foil, Kiwi Fruit, Cherry Whitening, Lavender Soothing & Hyaluronic Acid | Hydrating, Whitening, Firming & Brightening Peel-Off Face Mask Set (Rice)",
-  "tags": [
-   "scope:face",
-   "format:essence",
-   "format:peel-off",
-   "format:peel",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:rice-water",
-   "ing:cherry-acerola",
-   "ing:gold",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -64532,6 +64839,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -64731,6 +65039,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -65138,6 +65447,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -65180,115 +65490,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "k-derma-b0f8j7d118",
-  "brand": "K Derma",
-  "model": "Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cream, Rice…",
-  "price": 750,
-  "capacityLine": "1520 ml",
-  "materialLine": "ceramides + rice water",
-  "featureLine": "Mask / pack · ₹49/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "1520 ml",
-   "pricePer100": "₹49/100ml",
-   "format": "Mask / pack",
-   "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61pwhxqHVAL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F8J7D118",
-  "buyStore": "Amazon",
-  "title": "K DERMA Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cream, Rice Water and Ceramide Complex, 1520ml",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:ceramides",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:korean",
-   "skin:all",
-   "free:fragrance",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -65751,6 +65952,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -66247,7 +66449,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#5 on list, strong evidence); sodium hyaluronate (#15 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FdTg2nLtL._AC_UL320_.jpg"
@@ -66263,6 +66466,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -66297,6 +66502,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -66304,6 +66510,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -66311,6 +66518,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -66318,6 +66526,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -66325,6 +66534,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -66332,6 +66542,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -67262,110 +67473,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0gcd9566d",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Face Serum 15 ML & Red Sandalwood Face Mask 50 Gram Combo | Ayurvedic Night Seru…",
-  "price": 948,
-  "capacityLine": "50 g",
-  "materialLine": "saffron + sandalwood + clay/mud",
-  "featureLine": "Mask / pack · ₹1896/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1896/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "saffron, sandalwood, clay/mud, kumkumadi (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714AvJEkADL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GCD9566D",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Face Serum 15 ML & Red Sandalwood Face Mask 50 Gram Combo | Ayurvedic Night Serum with Saffron, Manjistha & Sandalwood + Natural Clay Face Pack for Glowing & Clear-Looking Skin",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:clay-mask",
-   "format:pack",
-   "format:kit",
-   "ing:saffron",
-   "ing:sandalwood",
-   "ing:clay",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
   "id": "gold-b0hdhx19kl",
   "brand": "Gold",
   "model": "Retinol Face Mask for Skin Care – Luxurious Anti Aging Facial Sheet Treatment with Retinol…",
@@ -67466,207 +67573,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0btvnr5fp",
-  "brand": "Unbranded",
-  "model": "Papaya Face Scrub, Cream, Gel And Face Mask 500ml Each Papaya Facial kit Men And Women",
-  "price": 469,
-  "capacityLine": "500 ml",
-  "materialLine": "papaya",
-  "featureLine": "Mask / pack · ₹94/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹94/100ml",
-   "format": "Mask / pack",
-   "keyIngredients": "papaya (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ozc61mXWL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BTVNR5FP",
-  "buyStore": "Amazon",
-  "title": "Papaya Face Scrub, Cream, Gel And Face Mask 500ml Each Papaya Facial kit Men And Women",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:cream",
-   "format:scrub",
-   "format:kit",
-   "ing:papaya",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "atomy-b0hfjk9w2p",
-  "brand": "Atomy",
-  "model": "Evening Care 4-Step Skincare Set - Deep Cleanser, Foam Cleanser, Peeling Gel, Peel-Off Mas…",
-  "price": 3895,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61sWzEgP-8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HFJK9W2P",
-  "buyStore": "Amazon",
-  "title": "Atomy Evening Care 4-Step Skincare Set - Deep Cleanser, Foam Cleanser, Peeling Gel, Peel-Off Mask | Face Cleansing, Exfoliating & Skin Brightening Kit",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:foam",
-   "format:peel-off",
-   "format:peel",
-   "format:wash",
-   "format:kit",
-   "claim:brightening",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "hyphen-b0f3p9v3zm",
   "brand": "Hyphen",
   "model": "Ice Dunk Instant Cooling Face Mask with 31% Skin Cooling Actives | 3% Caffeine - Instant D…",
@@ -67721,6 +67627,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -68082,12 +67989,12 @@ const CTPRODUCTS = [
    "Made by Piramal Pharma (Consumer Products) (dermatology / pharma maker)"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 4 ingredients named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 8,
+   "trust": 8.3,
    "experience": 1.6
   },
   "fullSpec": {
@@ -68104,9 +68011,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Vitamin C, Hyaluronic Acid, Green Tea Face, Panthenol & Glycolic acid",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Piramal Pharma (Consumer Products) — Dermatology / pharmaceutical manufacturer",
@@ -68133,7 +68040,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:3.5",
    "store:amazon",
-   "inci:none",
+   "inci:partial",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -68143,23 +68050,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Vitamin C, Hyaluronic Acid, Green Tea Face, Panthenol & Glycolic acid",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.75,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -68432,6 +68339,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -68534,6 +68442,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -69573,12 +69482,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 1 ingredient named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.6
   },
   "fullSpec": {
@@ -69595,9 +69504,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Niacinamide",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "O3+ Professional — Indian D2C brand with its own product company",
@@ -69618,12 +69527,13 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
+   "claim:scars",
    "skin:all",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -69632,23 +69542,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Niacinamide",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -70798,6 +70708,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -70899,6 +70810,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -70996,6 +70908,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -71051,12 +70964,12 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing"
+   "Only 1 ingredient named — formula unscored"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 5,
+   "trust": 5.3,
    "experience": 2.6
   },
   "fullSpec": {
@@ -71073,9 +70986,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lactic acid",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "O3+ Professional — Indian D2C brand with its own product company",
@@ -71096,7 +71009,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -71105,23 +71018,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lactic acid",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -71197,6 +71110,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -71389,7 +71303,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool (−0.3)",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbyl glucoside #17 on INCI; Aging — ascorbyl glucoside #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51YlOxHau1L._AC_UL320_.jpg"
@@ -71411,6 +71326,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -71444,6 +71361,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71451,6 +71369,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -71458,6 +71377,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -71465,6 +71385,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -71472,6 +71393,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -71674,6 +71596,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -72180,6 +72103,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:low",
    "store:amazon",
@@ -72679,6 +72603,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:3.5",
    "store:amazon",
@@ -72780,6 +72705,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -73490,7 +73416,6 @@ const CTPRODUCTS = [
   "title": "Quench Mud Sheet Mask with Cica Herb Repair | Korean Face Mask for Oily Skin| Benefit of Clay & Sheet Mask | Tightens Pores & Controls Excess Oil | Made in Korea (Pack of 1, 23ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:kit",
@@ -74089,6 +74014,7 @@ const CTPRODUCTS = [
    "format:sheet-mask",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -74496,6 +74422,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -74599,6 +74526,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -75104,6 +75032,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -76133,6 +76062,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "rating:4.5",
@@ -76837,6 +76767,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -77041,6 +76972,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -77535,6 +77467,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -77940,6 +77873,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -78138,6 +78072,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "rating:4.5",
@@ -78240,6 +78175,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -78340,6 +78276,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -78444,6 +78381,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:fragrance",
    "aud:unisex",
    "rating:4.0",
@@ -78599,14 +78537,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -78623,9 +78561,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Natural",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -78646,11 +78584,12 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:fragrance",
    "aud:unisex",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -78659,23 +78598,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Natural",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -79143,6 +79082,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -79245,6 +79185,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -79348,6 +79289,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -79852,6 +79794,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -80252,6 +80195,7 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "ing:gold",
    "claim:korean",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -80559,6 +80503,7 @@ const CTPRODUCTS = [
    "claim:whitening-claim",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -80958,6 +80903,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -81055,8 +81001,10 @@ const CTPRODUCTS = [
    "format:serum",
    "format:sheet-mask",
    "format:kit",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:soothing",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -81161,6 +81109,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -81261,6 +81210,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "rating:4.5",
@@ -81765,6 +81715,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -81905,6 +81856,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -81912,6 +81864,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -81919,6 +81872,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -81926,6 +81880,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -81933,6 +81888,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -82212,6 +82168,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:dry",
    "aud:unisex",
    "rating:none",
@@ -82711,6 +82668,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "ing:probiotics",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -82863,13 +82821,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 3.2
   },
   "fullSpec": {
@@ -82886,9 +82844,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: All benefits in one sheet: ✿ Pore Minimizing ✿ Deep Hydration ✿ Firming ✿ Radiance Key Ingredients: ✿ Low-Molecular Weight Collagen: Minimizing pores and increasing skin elasticity ✿ Galactomyces: Improving skin tone and texture ✿ Oligo Hyaluronic Acid: Penetrating into the deeper layers of the skin to provide hydration ✿ Niacinamide: Brightening the skin For best results, use as an overnight slee",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -82907,11 +82865,12 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -82920,23 +82879,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "All benefits in one sheet: ✿ Pore Minimizing ✿ Deep Hydration ✿ Firming ✿ Radiance Key Ingredients: ✿ Low-Molecular Weight Collagen: Minimizing pores and increasing skin elasticity ✿ Galactomyces: Improving skin tone and texture ✿ Oligo Hyaluronic Acid: Penetrating into the deeper layers of the skin to provide hydration ✿ Niacinamide: Brightening the skin For best results, use as an overnight slee",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.6,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -83010,6 +82969,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -83110,6 +83070,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -83354,9 +83315,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0c8y1tskz",
-  "brand": "Unbranded",
-  "model": "SKIN1004 Madagascar Centella Poremizing Quick Clay Stick Mask 27g – Face Mask with 5 Clays…",
+  "id": "skin1004-b0c8y1tskz",
+  "brand": "Skin1004",
+  "model": "Madagascar Centella Poremizing Quick Clay Stick Mask 27g – Face Mask with 5 Clays & Red Be…",
   "price": 1529,
   "capacityLine": "27 g",
   "materialLine": "centella/cica + clay/mud",
@@ -83803,7 +83764,8 @@ const CTPRODUCTS = [
    "evidenceActives": "kaolin (#2 on list, limited evidence); bentonite (#3 on list, limited evidence); aloe barbadensis leaf extract (#9 on list, moderate evidence); glycerin (#15 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #17 on INCI; Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Hbz9HE7RL._AC_UL320_.jpg"
@@ -83821,6 +83783,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -83855,6 +83819,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -83862,6 +83827,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -83869,6 +83835,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -83876,6 +83843,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -83883,6 +83851,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -83890,6 +83859,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -84161,7 +84131,6 @@ const CTPRODUCTS = [
   "title": "XYST Activated Charcoal Clay Mask for De-tan (50g) | Face Pack to Unclog Pores, Remove Impurities, 100% Vegan | Removes Excess Oil & Dirt | For Men & Women | Derma-tested For All Skin Type",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "ing:charcoal",
@@ -84659,7 +84628,8 @@ const CTPRODUCTS = [
    "evidenceActives": "kaolin (#2 on list, limited evidence); glycerin (#3 on list, strong evidence); bentonite (#4 on list, limited evidence); niacinamide (#11 on list, strong evidence); hyaluronic acid (#25 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI, sodium ascorbyl phosphate #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41pwwa51gFL._AC_UL320_.jpg"
@@ -84680,6 +84650,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -84714,6 +84686,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -84721,6 +84694,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -84728,6 +84702,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -84735,6 +84710,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -84742,6 +84718,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -84749,6 +84726,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -84756,6 +84734,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -84763,6 +84742,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -84770,6 +84750,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -84777,6 +84758,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -84855,6 +84837,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:tea-tree",
    "ing:clay",
+   "ing:chamomile",
    "claim:dark-spots",
    "claim:acne",
    "skin:oily",
@@ -85256,7 +85239,8 @@ const CTPRODUCTS = [
    "evidenceActives": "kaolin (#2 on list, limited evidence); glycerin (#3 on list, strong evidence); bentonite (#6 on list, limited evidence); niacinamide (#9 on list, strong evidence); sodium hyaluronate (#31 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61D5jmA9cgL._SL1500_.jpg",
@@ -85286,6 +85270,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -85319,6 +85305,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -85326,6 +85313,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -85333,6 +85321,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -85340,6 +85329,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -85347,6 +85337,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -85354,6 +85345,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -85361,6 +85353,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -85368,6 +85361,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -85375,6 +85369,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -85382,6 +85377,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -85389,6 +85385,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -85396,6 +85393,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -85895,7 +85893,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine Coffee De Tan Face Pack Mask with Kaolin Clay, Multani Mitti & Bentonite Clay | Removes Tan, Cleanses Pores & Controls Excess Oil | For All Skin Types (100gm)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "ing:caffeine",
@@ -86048,6 +86045,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -86055,6 +86053,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -86062,6 +86061,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -86069,6 +86069,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -86076,6 +86077,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -86363,7 +86365,6 @@ const CTPRODUCTS = [
   "title": "Serbian Blue Clay Powder | Natural Healing Clay for Men & Women | Helps Reduce Acne, Blemishes & Excess Oil | Deep Cleansing Face Mask for Detoxified, Clear & Balanced Skin | 150g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -86769,7 +86770,6 @@ const CTPRODUCTS = [
   "title": "Plum 5% Niacinamide & Kaolin Clay Cloud Whip Face Mask with Rice water 50g | Removes excess oil, Brightens skin,Deeply hydrates",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:rice-water",
@@ -87283,7 +87283,6 @@ const CTPRODUCTS = [
   "title": "TYC Green Clay Face Mask With Niacinamide, Probiotics, Neem | Anti-Acne And Pore Cleansing Clay Mask For Oily, Acne-Prone Skin And Helps To Reduce Excess Oil | 100 gm Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "format:kit",
@@ -87438,6 +87437,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -87445,6 +87445,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -87452,6 +87453,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -87459,6 +87461,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -87466,6 +87469,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -87473,6 +87477,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -87480,6 +87485,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -87487,6 +87493,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -87560,6 +87567,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:clay",
+   "ing:sea-salt",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -87662,6 +87670,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "format:pack",
    "ing:clay",
+   "ing:sea-salt",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
@@ -89638,6 +89647,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -89645,6 +89655,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -89652,6 +89663,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89659,6 +89671,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -89666,6 +89679,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -89673,6 +89687,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "pigment"
     }
    ],
@@ -90264,7 +90279,8 @@ const CTPRODUCTS = [
    "evidenceActives": "kaolin (#2 on list, limited evidence); bentonite (#4 on list, limited evidence); sodium hyaluronate (#18 on list, moderate evidence); glycerin (#22 on list, strong evidence); charcoal powder (#24 on list, limited evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — avena sativa kernel extract #9 on INCI, beta-glucan #26 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pAE2z4woL._AC_UL320_.jpg"
@@ -90287,6 +90303,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -90320,6 +90337,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -90327,6 +90345,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -90334,6 +90353,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "oat"
     },
     {
@@ -90341,6 +90361,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -90348,6 +90369,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -90355,6 +90377,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -90362,6 +90385,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -90369,6 +90393,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -90376,6 +90401,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -90383,6 +90409,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 33,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -90574,7 +90601,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -90584,6 +90610,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "rating:4.0",
@@ -91902,12 +91929,12 @@ const CTPRODUCTS = [
   "title": "Mi Nature Glacial Marine Oceanic Clay Powder 227g (8oz) | Pure Natural Mineral Clay for Face Mask & Scrub | Deep Cleansing for Pore Care & Exfoliation | Resealable Zip Lock Pouch",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:powder",
    "format:wash",
    "ing:clay",
+   "ing:magnesium",
    "claim:acne",
    "claim:pores",
    "claim:hydrating",
@@ -93045,6 +93072,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -94062,6 +94090,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "ing:clay",
    "claim:pores",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -94463,6 +94492,7 @@ const CTPRODUCTS = [
    "format:clay-mask",
    "ing:clay",
    "claim:pores",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -96471,6 +96501,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:charcoal",
    "claim:pores",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:3.5",
@@ -96574,6 +96605,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -96872,6 +96904,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -96929,13 +96962,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 3.2
   },
   "fullSpec": {
@@ -96952,9 +96985,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Collagen",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -96972,11 +97005,12 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -96985,23 +97019,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Collagen",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -97073,6 +97107,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -97175,6 +97210,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -97274,6 +97310,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -97377,6 +97414,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -97577,6 +97615,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:paraben",
    "aud:unisex",
    "rating:4.5",
@@ -97676,6 +97715,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -97976,6 +98016,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:overnight",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -98474,6 +98516,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:pack",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -99092,6 +99135,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -99147,13 +99191,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 1
   },
   "fullSpec": {
@@ -99170,9 +99214,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: NOT",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -99194,10 +99238,11 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -99206,23 +99251,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "NOT",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -99293,6 +99338,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -99394,6 +99440,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -99590,6 +99637,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:lightweight",
    "claim:korean",
+   "claim:overnight",
    "skin:dry",
    "skin:sensitive",
    "free:sensitive-safe",
@@ -99797,6 +99845,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.0",
@@ -99898,6 +99947,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -99952,13 +100002,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 3.8
   },
   "fullSpec": {
@@ -99975,9 +100025,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Bio-Collagen",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -100003,7 +100053,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -100012,23 +100062,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Bio-Collagen",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -100200,6 +100250,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -100296,6 +100347,7 @@ const CTPRODUCTS = [
    "format:sheet-mask",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -100394,6 +100446,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -100792,6 +100845,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -100896,6 +100950,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -101111,6 +101166,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:no-white-cast",
    "claim:korean",
+   "claim:overnight",
    "skin:combination",
    "skin:sensitive",
    "skin:normal",
@@ -101214,6 +101270,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -101319,6 +101376,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -101517,6 +101575,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -101620,6 +101679,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -101717,6 +101777,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -102615,6 +102676,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -103017,6 +103079,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -103116,6 +103179,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -103413,6 +103477,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -103513,6 +103578,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:paraben",
    "aud:unisex",
    "rating:none",
@@ -103616,6 +103682,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -103714,6 +103781,8 @@ const CTPRODUCTS = [
    "ing:watermelon",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:overnight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -104020,6 +104089,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -104124,6 +104194,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -104225,6 +104296,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -104327,6 +104399,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -104523,6 +104596,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -104625,6 +104699,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -104727,6 +104802,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -104921,6 +104997,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "ing:alpha-arbutin",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -105320,6 +105397,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:paraben",
    "aud:unisex",
    "rating:4.5",
@@ -105517,6 +105595,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:collagen",
    "claim:hydrating",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -105709,6 +105788,8 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "ing:collagen",
+   "ing:lavender",
+   "ing:calendula",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -106409,7 +106490,8 @@ const CTPRODUCTS = [
    "evidenceActives": "curcuma longa root extract (#5 on list, limited evidence); niacinamide (#14 on list, strong evidence); hyaluronic acid (#24 on list, moderate evidence); panthenol (#28 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI; Aging — retinol #35 on INCI; Irritation — panthenol #28 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511AP0wUcTL._AC_UL320_.jpg"
@@ -106433,6 +106515,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -106466,6 +106552,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -106473,6 +106560,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -106480,6 +106568,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -106487,6 +106576,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -106494,6 +106584,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -106501,6 +106592,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -106508,6 +106600,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -106515,6 +106608,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 35,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -107023,6 +107117,7 @@ const CTPRODUCTS = [
    "format:peel",
    "format:wash",
    "ing:charcoal",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:3.5",
@@ -107128,6 +107223,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:3.5",
@@ -107229,6 +107325,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -107318,7 +107415,8 @@ const CTPRODUCTS = [
    "evidenceActives": "curcuma longa root extract (#5 on list, limited evidence); charcoal powder (#10 on list, limited evidence); kojic acid (#14 on list, moderate evidence); niacinamide (#16 on list, strong evidence); panthenol (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — kojic acid #14 on INCI, niacinamide #16 on INCI; Aging — retinol #15 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51SX7znI0WL._AC_UL320_.jpg"
@@ -107337,10 +107435,15 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:de-tan",
    "claim:pores",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -107374,6 +107477,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -107381,6 +107485,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -107388,6 +107493,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -107395,6 +107501,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -107402,6 +107509,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -107409,6 +107517,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -107416,6 +107525,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -107423,6 +107533,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -107430,6 +107541,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -107437,6 +107549,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -107520,7 +107633,8 @@ const CTPRODUCTS = [
    "evidenceActives": "curcuma longa root extract (#5 on list, limited evidence); hyaluronic acid (#15 on list, moderate evidence); niacinamide (#17 on list, strong evidence); panthenol (#22 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #17 on INCI; Dark spots — alpha-arbutin #16 on INCI, niacinamide #17 on INCI; Aging — retinol #18 on INCI; Irritation — panthenol #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NYw3ubldL._AC_UL320_.jpg"
@@ -107541,6 +107655,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -107574,6 +107692,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -107581,6 +107700,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -107588,6 +107708,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -107595,6 +107716,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -107602,6 +107724,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -107609,6 +107732,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -107616,6 +107740,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -107623,6 +107748,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -107630,6 +107756,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -110153,6 +110280,7 @@ const CTPRODUCTS = [
    "format:wash",
    "claim:whitening-claim",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -110255,6 +110383,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -111049,6 +111178,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "ing:honey",
+   "ing:apricot",
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -111463,6 +111593,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -112467,6 +112598,7 @@ const CTPRODUCTS = [
    "ing:charcoal",
    "claim:pores",
    "claim:oil-control",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -112865,6 +112997,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -113066,6 +113199,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "rating:4.5",
@@ -113262,7 +113396,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Peel Off Mask for Face | Deep Cleansing Facial Mask with Activated Charcoal | Helps Remove Dirt, Excess Oil & Surface Impurities | Easy Peel Off Face Mask for Men & Women | Daily Skincare (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -113780,6 +113913,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -113980,6 +114114,7 @@ const CTPRODUCTS = [
    "format:powder",
    "claim:brightening",
    "claim:de-tan",
+   "claim:cooling",
    "aud:women",
    "size:xl",
    "rating:none",
@@ -114076,6 +114211,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:peel-off",
    "format:peel",
+   "ing:calendula",
    "claim:brightening",
    "claim:pores",
    "claim:hydrating",
@@ -114281,6 +114417,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -114378,7 +114515,6 @@ const CTPRODUCTS = [
   "title": "Gelatin and Sandalwood Face pack Powder 150g | DIY Peel-Off Face Mask for Smooth, Bright & Refreshed Skin Facial Care for Men & Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -114390,6 +114526,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:clay",
    "ing:milk",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -114694,6 +114831,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -114799,6 +114937,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -115098,6 +115237,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -115297,6 +115437,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -115604,6 +115745,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -115704,6 +115846,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "skin:dry",
    "aud:unisex",
    "size:standard",
@@ -115808,6 +115951,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -115910,6 +116054,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
+   "claim:cooling",
    "aud:unisex",
    "size:xl",
    "rating:none",
@@ -116620,6 +116765,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -116723,6 +116869,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -116822,6 +116969,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:lightweight",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -116923,6 +117071,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -117026,6 +117175,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:3.5",
@@ -117126,6 +117276,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -117224,6 +117375,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -117326,6 +117478,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -117431,6 +117584,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -117529,6 +117683,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -117627,6 +117782,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -117728,6 +117884,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -117827,6 +117984,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:lightweight",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -117926,6 +118084,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -118031,6 +118190,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -118129,6 +118289,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -118228,6 +118389,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -118329,6 +118491,7 @@ const CTPRODUCTS = [
    "ing:rice-water",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -118431,6 +118594,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -118532,6 +118696,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -118635,6 +118800,8 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:overnight",
+   "claim:cooling",
    "skin:dry",
    "aud:women",
    "rating:none",
@@ -118737,6 +118904,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -118840,6 +119008,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -118942,6 +119111,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -119043,6 +119213,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -119142,6 +119313,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:tea-tree",
    "claim:acne",
+   "claim:overnight",
    "skin:oily",
    "skin:acne-prone",
    "aud:unisex",
@@ -119247,6 +119419,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "free:paraben",
    "free:vegan",
    "aud:women",
@@ -119361,6 +119534,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:lightweight",
+   "claim:overnight",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -119465,6 +119639,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -119567,6 +119742,7 @@ const CTPRODUCTS = [
    "ing:kojic-acid",
    "ing:turmeric",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -119666,6 +119842,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -119767,6 +119944,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -119809,104 +119987,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "the-face-shop-b0fn79qd35",
-  "brand": "The Face Shop",
-  "model": "Vitamin C Lip Sleeping Mask (5g) - Smooths & Softens Dry Lips - Hydrating Lip Balm - Overn…",
-  "price": 515,
-  "capacityLine": "5 g",
-  "materialLine": "vitamin C",
-  "featureLine": "Mask / pack · ₹10300/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "5 g",
-   "pricePer100": "₹10300/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41POpMrqeRL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FN79QD35",
-  "buyStore": "Amazon",
-  "title": "The Face Shop Vitamin C Lip Sleeping Mask (5g) - Smooths & Softens Dry Lips - Hydrating Lip Balm - Overnight Lip Care - Korean Skin Care",
-  "tags": [
-   "scope:face",
-   "format:balm",
-   "format:sleeping-mask",
-   "ing:vitamin-c",
-   "claim:hydrating",
-   "claim:korean",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "LG Household & Health Care",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.lghnh.com/en/company/brand.jsp"
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -119970,6 +120050,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -120066,6 +120147,7 @@ const CTPRODUCTS = [
    "scope:face",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -120166,6 +120248,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -120261,6 +120344,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "ing:collagen",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -120378,6 +120462,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:korean",
    "claim:dry-skin-relief",
+   "claim:scars",
+   "claim:overnight",
    "skin:oily",
    "skin:combination",
    "free:paraben",
@@ -120477,6 +120563,7 @@ const CTPRODUCTS = [
   "title": "Yog Nidra Face Mask for Over Night Skin Repair and Glow, 50 gm | Over-Night Skin Barrier Repair & Hydration Mask, Contains Chamomile & Ashwagandha",
   "tags": [
    "scope:face",
+   "ing:chamomile",
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
@@ -120578,6 +120665,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -120682,6 +120770,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -120782,6 +120871,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -120885,6 +120975,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -120988,6 +121079,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -121088,6 +121180,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -121184,6 +121277,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -121281,6 +121375,7 @@ const CTPRODUCTS = [
    "scope:face",
    "ing:hyaluronic-acid",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -121381,6 +121476,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -121483,6 +121579,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -121587,6 +121684,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -121683,6 +121781,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:watermelon",
    "claim:hydrating",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:4.5",
@@ -121781,6 +121880,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -121881,6 +121981,8 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:overnight",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -121983,6 +122085,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -122085,6 +122188,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -122189,6 +122293,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:soothing",
+   "claim:overnight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -122285,6 +122391,8 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:stretch-marks",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -122381,6 +122489,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:pack",
    "format:wash",
+   "claim:overnight",
    "skin:sensitive",
    "free:vegan",
    "free:sensitive-safe",
@@ -122489,6 +122598,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -122591,6 +122701,7 @@ const CTPRODUCTS = [
    "claim:de-tan",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -122694,6 +122805,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -122792,6 +122904,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -122890,6 +123003,7 @@ const CTPRODUCTS = [
    "format:sleeping-mask",
    "ing:honey",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -122995,6 +123109,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -123096,6 +123211,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -123195,6 +123311,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:collagen",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -123301,6 +123418,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -123404,6 +123522,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -123506,6 +123625,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -123707,6 +123827,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -123753,8 +123874,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "-pky-b09jyxxvhb",
-  "brand": "[PKY]",
+  "id": "pky-b09jyxxvhb",
+  "brand": "PKY",
   "model": "Pyunkang Yul Sleeping Mask for Creating Moisture Barrier during Night, Ceramide and Hyalur…",
   "price": 1575,
   "capacityLine": "120 ml",
@@ -123799,7 +123920,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.amazon.in/dp/B09JYXXVHB",
   "buyStore": "Amazon",
-  "title": "[PKY] Pyunkang Yul Sleeping Mask for Creating Moisture Barrier during Night, Ceramide and Hyaluronic Acid for Skin Hydration, Zero Irritation, Korean Skincare (120ml)",
+  "title": "PKY Pyunkang Yul Sleeping Mask for Creating Moisture Barrier during Night, Ceramide and Hyaluronic Acid for Skin Hydration, Zero Irritation, Korean Skincare (120ml)",
   "tags": [
    "scope:unstated",
    "format:sleeping-mask",
@@ -123915,6 +124036,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124017,6 +124139,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124119,6 +124242,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124219,6 +124343,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124323,6 +124448,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -124419,6 +124545,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:sleeping-mask",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -124515,6 +124642,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:sleeping-mask",
    "format:wash",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -124616,6 +124744,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124717,6 +124846,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -124818,6 +124948,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -124922,6 +125053,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -125029,6 +125161,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -125130,6 +125263,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -125231,6 +125365,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -125334,6 +125469,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -125528,6 +125664,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:coconut",
    "claim:anti-aging",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -125630,6 +125767,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -125732,6 +125870,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -125832,6 +125971,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:barrier",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -125936,6 +126076,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "rating:4.5",
@@ -126035,6 +126176,7 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -126139,6 +126281,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -126242,6 +126385,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -126344,6 +126488,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -126449,6 +126594,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:none",
@@ -126549,6 +126695,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:dry",
    "aud:unisex",
    "rating:none",
@@ -126649,6 +126796,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:collagen",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -126748,6 +126896,7 @@ const CTPRODUCTS = [
    "ing:turmeric",
    "claim:brightening",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -126845,6 +126994,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -126946,6 +127096,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -127047,6 +127198,7 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:pores",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -127152,6 +127304,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -127253,6 +127406,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -127352,6 +127506,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -127453,6 +127608,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:low",
@@ -127562,6 +127718,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "free:fragrance",
    "aud:unisex",
    "rating:4.0",
@@ -127666,6 +127823,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -127768,6 +127926,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -127871,6 +128030,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -127969,6 +128129,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -128073,6 +128234,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -128172,6 +128334,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -128273,6 +128436,7 @@ const CTPRODUCTS = [
    "ing:collagen",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -128470,7 +128634,9 @@ const CTPRODUCTS = [
    "format:oil",
    "format:sleeping-mask",
    "ing:aloe-vera",
+   "ing:lavender",
    "claim:brightening",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:4.5",
@@ -128572,6 +128738,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:collagen",
    "claim:hydrating",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -128672,6 +128839,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -128773,6 +128941,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -128882,6 +129051,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:korean",
+   "claim:overnight",
    "free:derm",
    "aud:unisex",
    "rating:4.0",
@@ -128982,6 +129152,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -129085,6 +129256,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -129188,6 +129360,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -129291,6 +129464,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "size:large",
    "rating:4.5",
@@ -129392,6 +129566,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -129492,6 +129667,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -129592,6 +129768,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:unisex",
@@ -129696,6 +129873,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -130609,6 +130787,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -130815,10 +130994,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "size:standard",
@@ -131431,6 +131612,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -131438,6 +131620,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -131445,6 +131628,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -131452,6 +131636,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -131459,6 +131644,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -131760,7 +131946,8 @@ const CTPRODUCTS = [
    "evidenceActives": "curcuma longa root extract (#5 on list, limited evidence); charcoal powder (#10 on list, limited evidence); kojic acid (#14 on list, moderate evidence); niacinamide (#16 on list, strong evidence); panthenol (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 56 ratings"
+   "buyerEvidence": "4.5★ from 56 ratings",
+   "concernBasis": "Acne — niacinamide #16 on INCI; Dark spots — kojic acid #14 on INCI, niacinamide #16 on INCI; Aging — retinol #15 on INCI; Irritation — panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/y/a/w/100-de-tan-face-wash-for-men-women-with-charcoal-lactic-kojic-original-imahzhurkahhtncz.jpeg?q=90",
@@ -131793,6 +131980,10 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -131826,6 +132017,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -131833,6 +132025,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -131840,6 +132033,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -131847,6 +132041,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -131854,6 +132049,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -131861,6 +132057,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -131868,6 +132065,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -131875,6 +132073,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -131882,6 +132081,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -131889,6 +132089,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -132279,116 +132480,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-algar-itm0b5a88a337981",
-  "brand": "Dr. Algar",
-  "model": "10% AHA BHA Body Scrub + De-Tan Face Pack | Deep Exfoli …",
-  "price": 202,
-  "capacityLine": "350 g",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Mask / pack · Paraben-free · ₹58/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 3 ratings"
-  ],
-  "cons": [
-   "Only 2 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.7
-  },
-  "fullSpec": {
-   "quantity": "350 g",
-   "pricePer100": "₹58/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: AHA BHA Body Scrub, De-Tan Face Pack",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/n/d/10-aha-bha-body-scrub-de-tan-face-pack-deep-exfoliation-tan-original-imahf52qphcj5ny8.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/r/z/9/200-10-aha-bha-body-scrub-dr-algar-original-imahfyqrujgxhvh6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/5/4/i/200-10-aha-bha-body-scrub-dr-algar-original-imahfyqrns9fbnzz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/d/b/b/150-skin-radiance-face-mask-brazilian-purple-clay-kaolin-clay-original-imahezk5grcdmqp4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/m/4/e/150-skin-radiance-face-mask-brazilian-purple-clay-kaolin-clay-original-imahezk5wuryfkv5.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dr-algar-10-aha-bha-body-scrub-de-tan-face-pack-deep-exfoliation-tan-removal-combo/p/itm0b5a88a337981",
-  "buyStore": "Flipkart",
-  "title": "Dr. Algar 10% AHA BHA Body Scrub + De-Tan Face Pack | Deep Exfoli …",
-  "tags": [
-   "scope:both",
-   "format:pack",
-   "format:scrub",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "AHA BHA Body Scrub, De-Tan Face Pack",
-   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 3 ratings"
   }
  },
  {
@@ -133061,6 +133152,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -133369,6 +133461,7 @@ const CTPRODUCTS = [
    "format:peel",
    "ing:collagen",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -134408,6 +134501,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -135641,6 +135735,7 @@ const CTPRODUCTS = [
    "format:peel",
    "ing:charcoal",
    "ing:clay",
+   "ing:magnesium",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -135759,6 +135854,7 @@ const CTPRODUCTS = [
    "format:wash",
    "ing:sandalwood",
    "ing:rose",
+   "ing:sugar",
    "claim:brightening",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -135913,6 +136009,127 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 767 ratings"
+  }
+ },
+ {
+  "id": "kuja-care-itm49fce478d1f94",
+  "brand": "Kuja Care",
+  "model": "Haneul Water Ritual Cica + Glycolic Acid Jelly Sheet Mask-Hydrate, Pack of 10",
+  "price": 1205,
+  "capacityLine": "250 g",
+  "materialLine": "glycolic acid + hyaluronic acid + centella/cica",
+  "featureLine": "Sheet mask · Paraben-free · ₹482/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹482/100g",
+   "format": "Sheet mask",
+   "keyIngredients": "glycolic acid, hyaluronic acid, centella/cica, turmeric, sandalwood (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/p/o/250-haneul-water-ritual-cica-glycolic-acid-jelly-sheet-mask-original-imahmzh8jqmtwfau.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/l/w/25-haneul-water-ritual-cica-glycolic-acid-jelly-sheet-mask-original-imahmzh8ypyyhwfs.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/o/z/o/25-haneul-water-ritual-cica-glycolic-acid-jelly-sheet-mask-original-imahmzh8nqge3bqk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/u/v/50-ginger-detox-foot-pad-toner-men-body-detox-foot-patches-original-imahzxh8vgnx4fjc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/9/a/25-haneul-water-ritual-cica-glycolic-acid-jelly-sheet-mask-original-imahnr7hkustgb64.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/kuja-care-haneul-water-ritual-cica-glycolic-acid-jelly-sheet-mask-hydrate-pack-10/p/itm49fce478d1f94",
+  "buyStore": "Flipkart",
+  "title": "Kuja Care Haneul Water Ritual Cica + Glycolic Acid Jelly Sheet Mask-Hydrate, Pack of 10",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "format:stick",
+   "format:oil",
+   "format:sheet-mask",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "format:pads",
+   "format:patch",
+   "format:wash",
+   "format:kit",
+   "ing:glycolic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "ing:turmeric",
+   "ing:sandalwood",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:overnight",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -136244,6 +136461,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -136251,6 +136469,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -136440,6 +136659,7 @@ const CTPRODUCTS = [
    "ing:kojic-acid",
    "ing:papaya",
    "ing:lemon",
+   "ing:sugar",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -136605,128 +136825,6 @@ const CTPRODUCTS = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "everyuth-naturals-itmc2c561f978f3a",
-  "brand": "Everyuth Naturals",
-  "model": "Chocolate Scrub,Neem Face Wash & Peel Off Mask …",
-  "price": 377,
-  "capacityLine": "150 g (pack of 3)",
-  "materialLine": "aloe vera + charcoal + clay/mud",
-  "featureLine": "Mask / pack · Paraben-free · ₹251/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.3,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g × 3 pack",
-   "pricePer100": "₹251/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "aloe vera, charcoal, clay/mud, walnut, neem, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Neem Extract, Chocolate Extract, Walnut Shell Particles, Aloe Vera Extract, Activated Charcoal, Glycerin, Vitamin E, Purifying Clay, Aqua, Fragrance Base",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Zydus Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/3/8/chocolate-scrub-neem-face-wash-peel-off-mask-3-chocolate-scrub-original-imahnwqfj53hhmpg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/8/r/y/50-face-scrub-everyuth-original-imahjpzwbq4nkajr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/l/j/s/200-atural-advanced-golden-glow-peel-off-mask-for-instant-glow-original-imahyhaaeh59yfkb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/d/w/y/200-atural-advanced-golden-glow-peel-off-mask-for-instant-glow-original-imahyhaa4gpsze85.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/u/4/s/200-atural-advanced-golden-glow-peel-off-mask-for-instant-glow-original-imahyhaazde74mkq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/everyuth-naturals-chocolate-scrub-neem-face-wash-peel-off-mask/p/itmc2c561f978f3a",
-  "buyStore": "Flipkart",
-  "title": "Everyuth Naturals Chocolate Scrub,Neem Face Wash & Peel Off Mask …",
-  "tags": [
-   "scope:face",
-   "format:clay-mask",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:wash",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:charcoal",
-   "ing:clay",
-   "ing:walnut",
-   "ing:neem",
-   "ing:vitamin-e",
-   "ing:glycerin",
-   "ing:lemon",
-   "ing:cherry-acerola",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:paraben",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Neem Extract, Chocolate Extract, Walnut Shell Particles, Aloe Vera Extract, Activated Charcoal, Glycerin, Vitamin E, Purifying Clay, Aqua, Fragrance Base",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.7,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Zydus Wellness",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.zyduswellness.com/"
    },
    "buyers": "No buyer ratings yet"
   }
@@ -136900,7 +136998,6 @@ const CTPRODUCTS = [
   "title": "Ourcares D-Tan Face Pack | Enriched with Aloe Vera, Zinc Oxide & …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -136912,11 +137009,13 @@ const CTPRODUCTS = [
    "ing:papaya",
    "ing:zinc",
    "ing:lemon",
+   "ing:sugar",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
    "claim:acne",
    "claim:hydrating",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -137025,6 +137124,7 @@ const CTPRODUCTS = [
    "ing:kojic-acid",
    "ing:papaya",
    "ing:lemon",
+   "ing:sugar",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -137728,6 +137828,8 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:exfoliating",
    "claim:korean",
+   "claim:scars",
+   "claim:overnight",
    "skin:oily",
    "skin:acne-prone",
    "skin:all",
@@ -138162,6 +138264,7 @@ const CTPRODUCTS = [
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
+   "claim:scars",
    "skin:all",
    "aud:unisex",
    "rating:4.0",
@@ -138855,6 +138958,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -139560,6 +139664,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:de-tan",
    "claim:oil-control",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -139799,110 +139904,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hccnwd3n",
-  "brand": "Unbranded",
-  "model": "Herbal Glow Face Pack Trio | Amba Haldi, Mulethi & Orange Peel Powder | 100g Each | Total …",
-  "price": 499,
-  "capacityLine": "100 g",
-  "materialLine": "turmeric + licorice",
-  "featureLine": "Mask / pack · ₹499/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹499/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "turmeric, licorice (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61MRiazDHAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCCNWD3N",
-  "buyStore": "Amazon",
-  "title": "Herbal Glow Face Pack Trio | Amba Haldi, Mulethi & Orange Peel Powder | 100g Each | Total 300g | 100% Natural Face Mask Kit for DIY Skincare, Cleansing, Brightening & Radiant Looking Skin",
-  "tags": [
-   "scope:face",
-   "format:pack",
-   "format:peel",
-   "format:powder",
-   "format:wash",
-   "format:kit",
-   "ing:turmeric",
-   "ing:licorice",
-   "claim:brightening",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -140480,6 +140481,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:exfoliating",
+   "claim:odour",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -140581,6 +140583,7 @@ const CTPRODUCTS = [
    "ing:turmeric",
    "claim:brightening",
    "claim:dark-spots",
+   "claim:overnight",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -140782,10 +140785,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -140883,10 +140888,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:barrier",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cracked-heels",
    "free:vegan",
    "aud:unisex",
    "rating:4.5",
@@ -140984,9 +140991,11 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "rating:none",
@@ -141083,10 +141092,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:barrier",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cracked-heels",
    "free:vegan",
    "aud:unisex",
    "rating:3.5",
@@ -141183,6 +141194,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:milk",
    "claim:exfoliating",
@@ -141284,6 +141296,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -141384,7 +141397,9 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "free:vegan",
@@ -141484,6 +141499,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:coconut",
    "claim:exfoliating",
@@ -141543,14 +141559,14 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 4 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -141567,9 +141583,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lactic Acid (AHA), Glycolic Acid (AHA), Calendula Officinalis Flower Extract, Camellia Sinensis (Green Tea) Leaf Extract & many more",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -141585,13 +141601,15 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:hydrating",
    "claim:exfoliating",
    "aud:unisex",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -141600,23 +141618,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lactic Acid (AHA), Glycolic Acid (AHA), Calendula Officinalis Flower Extract, Camellia Sinensis (Green Tea) Leaf Extract & many more",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -141684,9 +141702,11 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "rating:none",
@@ -141784,6 +141804,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -141885,6 +141906,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -141986,6 +142008,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:pack",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -142089,12 +142112,15 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
    "claim:exfoliating",
+   "claim:cracked-heels",
+   "claim:cooling",
    "skin:dry",
    "aud:unisex",
    "rating:4.0",
@@ -142192,10 +142218,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "size:travel",
@@ -142294,6 +142322,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -142394,6 +142423,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "claim:exfoliating",
@@ -142493,6 +142523,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -142592,6 +142623,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:milk",
    "claim:exfoliating",
@@ -142694,6 +142726,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -142794,6 +142827,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -142894,7 +142928,9 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "free:vegan",
@@ -142994,6 +143030,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -143094,6 +143131,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:peel",
    "ing:glycolic-acid",
+   "claim:makeup",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -143190,6 +143228,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -143290,10 +143329,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:unisex",
    "rating:none",
@@ -143392,6 +143433,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:cherry-acerola",
    "claim:exfoliating",
@@ -143493,6 +143535,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -143595,10 +143638,12 @@ const CTPRODUCTS = [
    "format:peel",
    "format:patch",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cracked-heels",
    "skin:dry",
    "free:vegan",
    "aud:kids",
@@ -143698,7 +143743,9 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "free:vegan",
@@ -143756,13 +143803,13 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 1.3
   },
   "fullSpec": {
@@ -143779,9 +143826,9 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Lavender",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -143797,6 +143844,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -143804,7 +143852,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -143813,23 +143861,23 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Lavender",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -143897,7 +143945,9 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "free:vegan",
@@ -144000,9 +144050,11 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:patch",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:hydrating",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "skin:dry",
    "free:vegan",
    "aud:kids",
@@ -144101,6 +144153,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:pack",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -144201,6 +144254,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -144301,7 +144355,9 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
+   "ing:lavender",
    "claim:exfoliating",
    "claim:korean",
    "free:vegan",
@@ -144401,10 +144457,12 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:barrier",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cracked-heels",
    "free:vegan",
    "aud:unisex",
    "rating:none",
@@ -144501,6 +144559,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:milk",
    "claim:exfoliating",
@@ -144603,6 +144662,7 @@ const CTPRODUCTS = [
    "format:peel-off",
    "format:peel",
    "format:kit",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "claim:exfoliating",
    "claim:korean",
@@ -144703,6 +144763,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:milk",
    "claim:exfoliating",
@@ -144804,6 +144865,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:peel-off",
    "format:peel",
+   "format:foot-peel",
    "ing:glycolic-acid",
    "ing:milk",
    "claim:exfoliating",

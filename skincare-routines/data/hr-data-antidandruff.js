@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const HAIRPRODUCTS = [
  {
@@ -557,7 +557,7 @@ const HAIRPRODUCTS = [
   "model": "Australian Tea Tree Anti Dandruff Shampoo For Women & Men With Cooling Menthol",
   "price": 168,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Tea tree",
+  "materialLine": "Tea tree + Peppermint / menthol",
   "featureLine": "Shampoo",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -577,7 +577,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree (named on listing)",
+   "keyIngredients": "Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -610,6 +610,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:women",
    "rating:4.0",
@@ -1082,6 +1083,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -1089,6 +1091,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1096,6 +1099,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1103,6 +1107,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1110,6 +1115,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1117,6 +1123,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1124,6 +1131,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -1131,6 +1139,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -1138,6 +1147,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -1275,6 +1285,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1282,6 +1293,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1289,6 +1301,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -1296,6 +1309,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1303,6 +1317,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -1310,6 +1325,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -1317,6 +1333,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -1466,6 +1483,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -1473,6 +1491,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1480,6 +1499,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1487,6 +1507,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1494,6 +1515,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -1501,6 +1523,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -1508,6 +1531,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -1515,6 +1539,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -1522,6 +1547,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -2080,6 +2106,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2087,6 +2114,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -2094,6 +2122,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2101,6 +2130,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -2108,6 +2138,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -2115,6 +2146,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2122,6 +2154,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -2129,7 +2162,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -2485,7 +2527,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo Cool Menthol For Men & Wom …",
   "price": 121,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -2506,7 +2548,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -2538,6 +2580,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:men",
    "rating:4.0",
@@ -2821,8 +2864,8 @@ const HAIRPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
-   "inciSourceUrl": "https://www.themancompany.com/products/anti-dandruff-shampoo",
-   "inciMatchedName": "Anti-Dandruff Shampoo for Men | Salicylic Acid | Flake Control from First Wash (100ml) (name match 89%)",
+   "inciSourceUrl": "https://www.themancompany.com/products/anti-dandruff-shampoo-for-men-100ml-2",
+   "inciMatchedName": "Anti-Dandruff Shampoo for Men (100ml) (name match 100%)",
    "listingIngredientLine": "Salicylic Acid, Climbazole, Piroctone Olamine (as printed on the Flipkart listing — incomplete, not scored)",
    "inciList": "Aqua, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Decyl Glucoside, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Gluconamido Amodimethicone and Trideceth-7 and Trideceth-8, Salicylic Acid, Ethylene Glycol MonoStearate, PEG-150 Distearate, Cetylpyridinium Chloride & Climbazole, Glycerin, Parfum, Phenoxyethanol, Sodium PCA, Sodium Benzoate, Piroctone Olamine, Sodium Hydroxide, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Capryloyl Salicylic Acid, Sodium Gluconate, L-Arginine, Cocodimonium Hydroxypropyl Hydrolyzed Wheat Protein and D Panthenol",
    "evidenceActives": "salicylic acid (#11 on list, moderate evidence); piroctone olamine (#19 on list, moderate evidence)",
@@ -2871,10 +2914,10 @@ const HAIRPRODUCTS = [
    "inci": "full",
    "inciSource": "The Man Company official website (www.themancompany.com) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://www.themancompany.com/products/anti-dandruff-shampoo",
+   "inciSourceUrl": "https://www.themancompany.com/products/anti-dandruff-shampoo-for-men-100ml-2",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Anti-Dandruff Shampoo for Men | Salicylic Acid | Flake Control from First Wash (100ml)",
-   "inciMatchScore": 0.89,
+   "inciMatchedTitle": "Anti-Dandruff Shampoo for Men (100ml)",
+   "inciMatchScore": 1,
    "inciText": "Aqua, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Decyl Glucoside, Dimethiconol (and) TEA-Dodecylbenzenesulfonate, Gluconamido Amodimethicone and Trideceth-7 and Trideceth-8, Salicylic Acid, Ethylene Glycol MonoStearate, PEG-150 Distearate, Cetylpyridinium Chloride & Climbazole, Glycerin, Parfum, Phenoxyethanol, Sodium PCA, Sodium Benzoate, Piroctone Olamine, Sodium Hydroxide, Polyquaternium-10, Guar Hydroxypropyltrimonium Chloride, Capryloyl Salicylic Acid, Sodium Gluconate, L-Arginine, Cocodimonium Hydroxypropyl Hydrolyzed Wheat Protein and D Panthenol",
    "inciUnverified": null,
    "inciNote": null,
@@ -2886,6 +2929,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -2893,6 +2937,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -2900,6 +2945,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2907,6 +2953,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -2914,6 +2961,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -2921,6 +2969,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -3367,6 +3416,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3374,6 +3424,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -3381,20 +3432,39 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "acrylates/c10-30 alkyl acrylate crosspolymer",
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -3402,6 +3472,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -3639,6 +3710,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3646,6 +3718,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -3653,6 +3726,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -3660,6 +3734,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "teaTreeDandruff"
     }
    ],
@@ -3803,6 +3878,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -3810,6 +3886,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -3817,6 +3894,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -4280,7 +4358,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo Cool Menthol For Men & Women",
   "price": 121,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -4301,7 +4379,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -4333,6 +4411,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:women",
    "rating:4.0",
@@ -6181,7 +6260,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -6224,6 +6303,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -6299,7 +6379,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -6342,6 +6422,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -6417,7 +6498,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Zinc, Zinc pyrithione (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -6457,6 +6538,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -6880,7 +6962,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -6923,6 +7005,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -8238,7 +8321,7 @@ const HAIRPRODUCTS = [
   "model": "Korean Mildly Acidic Scalp Cleansing Sweet Floral Perfume Shampoo",
   "price": 1498,
   "capacityLine": "3000 ml (pack of 6)",
-  "materialLine": "Green tea + Ginseng + Rosemary",
+  "materialLine": "Green tea + Ginseng + Chamomile",
   "featureLine": "Shampoo · ₹50/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -8258,7 +8341,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹50/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Ginseng, Rosemary (named on listing)",
+   "keyIngredients": "Green tea, Ginseng, Chamomile, Lavender, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -8294,7 +8377,10 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "ing:green-tea",
    "ing:ginseng",
+   "ing:chamomile",
+   "ing:lavender",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "free:vegan",
@@ -9137,7 +9223,7 @@ const HAIRPRODUCTS = [
   "model": "Hibiscus, Basil and Tridax Procumbens Hair Shampoo, Anti Dandruff.",
   "price": 351,
   "capacityLine": "280 ml",
-  "materialLine": "Hibiscus",
+  "materialLine": "Hibiscus + Oud",
   "featureLine": "Shampoo · Sulfate/SLS-free · ₹125/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -9157,7 +9243,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹125/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Hibiscus (named on listing)",
+   "keyIngredients": "Hibiscus, Oud (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -9190,6 +9276,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:hibiscus",
+   "ing:oud",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:dryness",
@@ -9339,6 +9426,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -9346,6 +9434,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -9353,6 +9442,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -9360,6 +9450,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -10134,6 +10225,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10141,6 +10233,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -10148,6 +10241,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -10155,6 +10249,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     }
    ],
@@ -10389,7 +10484,7 @@ const HAIRPRODUCTS = [
   "model": "AROMATHERAPY Oil Balance Shampoo, For Oily Scalp & Anti-Dandruff, Makes Hair Bouncy & Volu…",
   "price": 121,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Vitamin B5 / panthenol + Lemon + Panthenol",
+  "materialLine": "Vitamin B5 / panthenol + Lemon + Lavender",
   "featureLine": "Shampoo",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -10410,7 +10505,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin B5 / panthenol, Lemon, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin B5 / panthenol, Lemon, Lavender, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Volume / body (seller claim — not clinical proof)",
@@ -10445,6 +10540,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:vitamin-b5-panthenol",
    "ing:lemon",
+   "ing:lavender",
    "ing:panthenol",
    "concern:dandruff",
    "concern:oily-scalp",
@@ -11225,6 +11321,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -11232,6 +11329,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -11469,6 +11567,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -11476,6 +11575,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -11483,13 +11583,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "zea mays starch",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "panthenol",
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -11497,6 +11607,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -11631,6 +11742,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -11638,6 +11750,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -11645,6 +11758,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -11652,6 +11766,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -14101,6 +14216,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -14108,13 +14224,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -14122,6 +14248,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -14129,6 +14256,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -14136,6 +14264,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -14143,6 +14272,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -14542,7 +14672,6 @@ const HAIRPRODUCTS = [
   "title": "Elsa Clarifying Shampoo | Deep Scalp Cleansing | Removes Excess Oil & Build Up",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:kit",
    "format:shampoo",
@@ -15283,7 +15412,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹177/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Neem, Hibiscus (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Neem, Calendula, Hibiscus (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair growth (claim) (seller claim — not clinical proof)",
@@ -15318,6 +15447,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:neem",
+   "ing:calendula",
    "ing:hibiscus",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -15576,6 +15706,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -15583,6 +15714,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "onion"
     },
     {
@@ -15590,6 +15722,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -15597,6 +15730,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -16178,6 +16312,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -16185,6 +16320,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -16192,6 +16328,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -16199,6 +16336,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -16206,6 +16344,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -16593,7 +16732,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Papaya (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -16626,6 +16765,7 @@ const HAIRPRODUCTS = [
    "ing:papaya",
    "concern:dryness",
    "concern:shine",
+   "concern:odour",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -17146,7 +17286,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹182/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk, Olive, Amla, Hibiscus, Fenugreek, Castor oil (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Olive, Amla, Hibiscus, Fenugreek, Castor oil, Oud (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -17187,6 +17327,7 @@ const HAIRPRODUCTS = [
    "ing:hibiscus",
    "ing:fenugreek",
    "ing:castor-oil",
+   "ing:oud",
    "concern:dandruff",
    "concern:hair-fall",
    "hair:all",
@@ -19909,6 +20050,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -19916,6 +20058,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -19923,6 +20066,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -19930,6 +20074,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -19937,6 +20082,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -19944,6 +20090,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -20300,7 +20447,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.5,
+   "ingredients": 4.6,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 7.9
@@ -20378,6 +20525,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -20385,13 +20533,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruff"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "guar hydroxypropyltrimonium chloride",
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -20399,6 +20557,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -20538,6 +20697,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -20545,7 +20705,24 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "oryza sativa starch",
+     "grade": "C",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -20693,7 +20870,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Control Shampoo with Zinc + Menthol, Reduce Dandruff & Itchy Scalp",
   "price": 249,
   "capacityLine": "400 ml",
-  "materialLine": "Zinc",
+  "materialLine": "Zinc + Peppermint / menthol",
   "featureLine": "Shampoo · ₹62/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -20714,7 +20891,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹62/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc (named on listing)",
+   "keyIngredients": "Zinc, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -20746,6 +20923,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:zinc",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "hair:all",
@@ -21298,6 +21476,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     }
    ],
@@ -21412,6 +21591,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     }
    ],
@@ -21842,6 +22022,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -21849,6 +22030,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -21856,6 +22038,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -21863,6 +22046,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -21870,6 +22054,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -22465,7 +22650,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.5,
+   "ingredients": 4.6,
    "skin": 5.9,
    "trust": 5.5,
    "experience": 7.9
@@ -22543,6 +22728,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -22550,13 +22736,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruff"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "guar hydroxypropyltrimonium chloride",
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -22564,6 +22760,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -23635,6 +23832,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -23642,6 +23840,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -23649,6 +23848,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -23696,7 +23896,7 @@ const HAIRPRODUCTS = [
   "model": "Khadi Amla Reetha Shikakai Bhringraj Shampoo Best Anti Hailfall & Anti Dandruff",
   "price": 77,
   "capacityLine": "630 ml",
-  "materialLine": "Almond + Bhringraj + Amla",
+  "materialLine": "Almond + Lavender + Bhringraj",
   "featureLine": "Shampoo · Paraben-free · ₹12/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -23715,7 +23915,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹12/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Almond, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Almond, Lavender, Bhringraj, Amla (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
@@ -23749,6 +23949,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:almond",
+   "ing:lavender",
    "ing:bhringraj",
    "ing:amla",
    "concern:dandruff",
@@ -23806,7 +24007,7 @@ const HAIRPRODUCTS = [
   "model": "Dandruff Control Shampoo For Rough, Dandruff Prone Hair | Shampoo 300 ml | 100% Vegan | No…",
   "price": 488,
   "capacityLine": "300 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Formaldehyde",
   "featureLine": "Shampoo · ₹163/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -23827,7 +24028,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹163/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Formaldehyde (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -23860,6 +24061,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "format:wax",
+   "ing:formaldehyde",
    "concern:dandruff",
    "free:vegan",
    "free:toxin-free",
@@ -25063,6 +25265,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -25070,6 +25273,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -25077,6 +25281,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -25084,7 +25289,16 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -25311,6 +25525,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -25318,13 +25533,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -25332,6 +25557,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -25339,6 +25565,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -25346,7 +25573,16 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "charcoal powder",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -25444,7 +25680,6 @@ const HAIRPRODUCTS = [
   "title": "Kronzam Anti Dandruff Shampoo for Men & Women | Reduces Dandruff Itching|Strong Hair",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:rosemary",
    "ing:onion",
@@ -25493,6 +25728,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -25500,6 +25736,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -25507,6 +25744,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -25514,13 +25752,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "panthenol",
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -26021,7 +26269,7 @@ const HAIRPRODUCTS = [
   "model": "Premium All Hair Types Anti-Dandruff Neem Hair",
   "price": 353,
   "capacityLine": "1000 ml",
-  "materialLine": "Neem",
+  "materialLine": "Neem + Peppermint / menthol",
   "featureLine": "Shampoo · ₹35/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -26041,7 +26289,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹35/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
+   "keyIngredients": "Neem, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Smoothing / straightening, Premature greying (claim) (seller claim — not clinical proof)",
@@ -26073,6 +26321,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:neem",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:smoothing",
    "concern:greying",
@@ -26136,7 +26385,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -26146,7 +26395,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹33/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Caffeine, Aloe vera, Neem, Biotin (named on listing)",
+   "keyIngredients": "Caffeine, Aloe vera, Neem, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -26182,6 +26431,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:neem",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-growth",
    "concern:damage-repair",
@@ -26221,10 +26471,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26232,6 +26491,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -26286,7 +26546,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -26296,7 +26556,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹8/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Neem, Keratin, Biotin (named on listing)",
+   "keyIngredients": "Green tea, Neem, Keratin, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -26333,6 +26593,7 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "ing:keratin",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -26374,10 +26635,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26385,6 +26655,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -26429,7 +26700,7 @@ const HAIRPRODUCTS = [
   "model": "Deep Scalp Cleansing Menthol Shampoo",
   "price": 351,
   "capacityLine": "1000 ml",
-  "materialLine": "Onion",
+  "materialLine": "Onion + Peppermint / menthol",
   "featureLine": "Shampoo · ₹35/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -26439,7 +26710,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -26449,7 +26720,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹35/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Onion (named on listing)",
+   "keyIngredients": "Onion, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -26482,6 +26753,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:onion",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -26523,10 +26795,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26534,6 +26815,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -26689,7 +26971,7 @@ const HAIRPRODUCTS = [
   "model": "Herbal Cool Menthol Anti-Dandruff Hair Shampoo",
   "price": 351,
   "capacityLine": "1000 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹35/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -26699,7 +26981,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -26709,7 +26991,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹35/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -26741,6 +27023,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:smoothing",
@@ -26779,10 +27062,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26790,6 +27082,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -26844,7 +27137,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -26854,7 +27147,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹9/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Rosemary, Onion, Keratin, Batana oil (named on listing)",
+   "keyIngredients": "Green tea, Rosemary, Onion, Keratin, Batana oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -26893,6 +27186,7 @@ const HAIRPRODUCTS = [
    "ing:onion",
    "ing:keratin",
    "ing:batana-oil",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -26933,10 +27227,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26944,6 +27247,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -27010,7 +27314,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Charcoal, Bhringraj, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -27042,6 +27346,7 @@ const HAIRPRODUCTS = [
    "ing:bhringraj",
    "ing:fenugreek",
    "concern:dandruff",
+   "concern:odour",
    "hair:all",
    "aud:women",
    "size:large",
@@ -27820,6 +28125,7 @@ const HAIRPRODUCTS = [
    "format:gel",
    "format:kit",
    "format:shampoo",
+   "format:keratin-treatment",
    "ing:tea-tree",
    "concern:dandruff",
    "aud:unisex",
@@ -27871,7 +28177,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo-200ml With Neem, Ginger & Calendula | Clear Scalp Dandruff",
   "price": 143,
   "capacityLine": "200 ml",
-  "materialLine": "Neem",
+  "materialLine": "Neem + Calendula",
   "featureLine": "Shampoo · ₹72/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -27890,7 +28196,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹72/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
+   "keyIngredients": "Neem, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
@@ -27922,6 +28228,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:neem",
+   "ing:calendula",
    "concern:dandruff",
    "concern:dryness",
    "hair:dry",
@@ -28385,7 +28692,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo-(2x200ml)With Neem, Ginger&Calendula |Clear Scalp Dandruff",
   "price": 459,
   "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Lactic acid + Neem",
+  "materialLine": "Lactic acid + Neem + Calendula",
   "featureLine": "Shampoo · Paraben-free · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -28406,7 +28713,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹115/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lactic acid, Neem (named on listing)",
+   "keyIngredients": "Lactic acid, Neem, Calendula (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -28441,6 +28748,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:lactic-acid",
    "ing:neem",
+   "ing:calendula",
    "concern:dandruff",
    "concern:hair-fall",
    "hair:all",
@@ -28584,6 +28892,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -28591,6 +28900,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -28598,6 +28908,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28605,6 +28916,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28612,6 +28924,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     }
    ],
@@ -29150,7 +29463,16 @@ const HAIRPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": 0.7,
    "recognised": 0.78,
-   "actives": [],
+   "actives": [
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    }
+   ],
    "support": [
     "cocamidopropyl betaine"
    ],
@@ -29304,6 +29626,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -29311,6 +29634,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29318,6 +29642,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -29325,6 +29650,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -29332,6 +29658,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -29339,6 +29666,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -29346,7 +29674,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -29403,7 +29740,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹14/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Zinc, Glycerin (named on listing)",
+   "keyIngredients": "Tea tree, Zinc, Glycerin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -29437,6 +29774,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:zinc",
    "ing:glycerin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "free:paraben",
@@ -30013,7 +30351,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo with Natural Ingredients | 100% Dandruff Reduction",
   "price": 223,
   "capacityLine": "250 ml",
-  "materialLine": "Salicylic acid (BHA) + Biotin",
+  "materialLine": "Salicylic acid (BHA) + Biotin + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹89/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -30033,7 +30371,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Biotin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -30066,6 +30404,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:salicylic-acid-bha",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "free:paraben",
@@ -30676,7 +31015,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo (Pack of 2) | Reduces Dandruff & Strengthens Hair",
   "price": 459,
   "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Tea tree + Rosemary + Amla",
+  "materialLine": "Tea tree + Lavender + Rosemary",
   "featureLine": "Shampoo · ₹115/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -30697,7 +31036,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹115/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Rosemary, Amla (named on listing)",
+   "keyIngredients": "Tea tree, Lavender, Rosemary, Amla (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Shine / gloss (seller claim — not clinical proof)",
@@ -30732,6 +31071,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:tea-tree",
+   "ing:lavender",
    "ing:rosemary",
    "ing:amla",
    "concern:dandruff",
@@ -30789,7 +31129,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Hair Shampoo 480ml | 100% Dandruff Reduction Cooling Menthol",
   "price": 970,
   "capacityLine": "480 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹202/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -30809,7 +31149,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹202/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -30841,6 +31181,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:dryness",
    "concern:smoothing",
@@ -31220,7 +31561,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo, 100ml",
   "price": 750,
   "capacityLine": "100 ml",
-  "materialLine": "Tea tree + Aloe vera",
+  "materialLine": "Tea tree + Aloe vera + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹750/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -31240,7 +31581,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹750/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -31276,6 +31617,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -31332,7 +31674,7 @@ const HAIRPRODUCTS = [
   "model": "Cool Menthol Shampoo for Itchy & Flaky Scalp",
   "price": 348,
   "capacityLine": "1000 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹35/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -31342,7 +31684,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -31352,7 +31694,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹35/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -31384,6 +31726,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:smoothing",
@@ -31422,10 +31765,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -31433,6 +31785,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -31588,7 +31941,7 @@ const HAIRPRODUCTS = [
   "model": "Daily use Anti Dandruff Shampoo | Tea tree , Neem oil & menthol",
   "price": 449,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Tea tree + Neem",
+  "materialLine": "Tea tree + Neem + Peppermint / menthol",
   "featureLine": "Shampoo",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -31607,7 +31960,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Neem (named on listing)",
+   "keyIngredients": "Tea tree, Neem, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -31642,6 +31995,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:tea-tree",
    "ing:neem",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "rating:4.0",
@@ -32096,6 +32450,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -32103,6 +32458,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -32110,6 +32466,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -32117,6 +32474,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -32124,6 +32482,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -32131,6 +32490,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32138,6 +32498,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -32145,7 +32506,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -32818,6 +33188,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -32825,6 +33196,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -32832,6 +33204,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -32839,7 +33212,16 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -33920,10 +34302,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹493/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Ginseng, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Ginseng, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Silicone-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -33956,12 +34338,14 @@ const HAIRPRODUCTS = [
    "ing:zinc",
    "ing:ginseng",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:odour",
    "hair:all",
    "free:silicone",
    "free:vegan",
@@ -34000,6 +34384,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -34007,6 +34392,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -34014,6 +34400,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -34021,6 +34408,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -34028,6 +34416,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -34035,6 +34424,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -34670,7 +35060,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹98/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin E, Coconut, Rosemary, Onion, Keratin (named on listing)",
+   "keyIngredients": "Vitamin E, Coconut, Rosemary, Onion, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Thinning / density, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -34707,6 +35097,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:onion",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:thinning",
@@ -34872,7 +35263,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo with Cooling Menthol | 100% Dandruff Reduction",
   "price": 223,
   "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹89/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -34893,7 +35284,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -34924,6 +35315,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "free:paraben",
@@ -35236,7 +35628,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹98/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -35275,6 +35667,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:amla",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -35354,7 +35747,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹98/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -35392,6 +35785,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:amla",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -35820,7 +36214,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹98/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -35859,6 +36253,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:amla",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -38461,7 +38856,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Zinc, Zinc pyrithione, Amla, Batana oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, Thick / coarse hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -38502,6 +38897,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:thick",
    "hair:all",
@@ -42181,7 +42577,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Zinc, Zinc pyrithione, Rosemary, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair growth (claim), Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -42222,6 +42618,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:all",
    "free:paraben",
    "aud:women",
@@ -43500,7 +43897,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Neem, Vitamin E, Zinc, Zinc pyrithione, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -43545,6 +43942,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -44554,154 +44952,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "neutriderm-itm21cdafe1ac4e0",
-  "brand": "Neutriderm",
-  "model": "Anti-Dandruff Shampoo Scalp Care & Vitamin E Moisturizing Lotion for Dry Skin",
-  "price": 788,
-  "capacityLine": "245 ml",
-  "materialLine": "Vitamin E + Glycerin + Dimethicone / silicones",
-  "featureLine": "Shampoo · Paraben-free · ₹322/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 96 ratings"
-  ],
-  "cons": [
-   "Added fragrance (parfum): fragrance",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 3.4,
-   "skin": 6.4,
-   "trust": 5.5,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "245 ml",
-   "pricePer100": "₹322/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Vitamin E, Glycerin, Dimethicone / silicones (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Dry hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (96 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Purified water, caprylic triglyceride, glyceryl stearate, cetearyl alcohol, glycerin, PEG-20 stearate, dimethicone, sodium PCA, tocopherol, carbomer, fragrance, phenoxyethanol, benzoic acid, sodium hydroxide, preservatives.",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 96 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/p/l/e/245-anti-dandruff-shampoo-scalp-care-vitamin-e-moisturizing-original-imahm9sf78b5pez9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/m/1/7/245-anti-dandruff-shampoo-scalp-care-vitamin-e-moisturizing-original-imahm9sfrwvmrgmh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/4/s/245-city-shield-combo-vitamin-e-moisturising-lotion-125ml-detox-original-imahhxnxdpbpnemy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/s/w/d/245-anti-dandruff-shampoo-scalp-care-vitamin-e-moisturizing-original-imahm9sfscvv8tn2.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/c/a/3/245-anti-dandruff-shampoo-scalp-care-vitamin-e-moisturizing-original-imahm9sfa7ucwgfj.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/neutriderm-anti-dandruff-shampoo-scalp-care-vitamin-e-moisturizing-lotion-dry-skin/p/itm21cdafe1ac4e0",
-  "buyStore": "Flipkart",
-  "title": "Neutriderm Anti-Dandruff Shampoo Scalp Care & Vitamin E Moisturizing Lotion for Dry Skin",
-  "tags": [
-   "area:both",
-   "format:lotion",
-   "format:wash",
-   "format:shampoo",
-   "ing:vitamin-e",
-   "ing:glycerin",
-   "ing:dimethicone-silicones",
-   "concern:dandruff",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "concern:scalp-health",
-   "hair:dry",
-   "hair:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:full"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": "Purified water, caprylic triglyceride, glyceryl stearate, cetearyl alcohol, glycerin, PEG-20 stearate, dimethicone, sodium PCA, tocopherol, carbomer, fragrance, phenoxyethanol, benzoic acid, sodium hydroxide, preservatives.",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
-   "recognised": 0.93,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "dimethicone",
-     "grade": "B",
-     "position": 7,
-     "core": false,
-     "src": "thermalProtect"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "dimethicone",
-    "sodium pca"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 0.8,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 96 ratings"
-  }
- },
- {
   "id": "ilaaj-itm5fdd468e1b190",
   "brand": "ilaaj",
   "model": "Damage Hair Repair Shampoo | For Itchy & Flaky Scalp Care | With Pyrithione Zinc",
@@ -45245,6 +45495,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -45252,6 +45503,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -45259,6 +45511,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -45266,6 +45519,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -45273,6 +45527,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -45280,6 +45535,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -45431,7 +45687,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹23/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Green tea, Aloe vera, Vitamin E, Vitamin B5 / panthenol, Zinc, Glycerin, Argan oil, Zinc pyrithione, Onion, Bhringraj, Amla, Keratin, Biotin, Panthenol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Green tea, Aloe vera, Vitamin E, Vitamin B5 / panthenol, Zinc, Glycerin, Argan oil, Zinc pyrithione, Onion, Bhringraj, Amla, Keratin, Biotin, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Shine / gloss (seller claim — not clinical proof)",
@@ -45480,6 +45736,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:biotin",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -45556,7 +45813,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹84/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Tea tree, Aloe vera, Neem, Vitamin E, Vitamin B5 / panthenol, Glycerin, Olive, Piroctone olamine, Rosemary, Biotin, Hydrolysed protein, Panthenol (named on listing)",
+   "keyIngredients": "Green tea, Tea tree, Aloe vera, Neem, Vitamin E, Vitamin B5 / panthenol, Glycerin, Olive, Piroctone olamine, Rosemary, Biotin, Hydrolysed protein, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -45603,6 +45860,7 @@ const HAIRPRODUCTS = [
    "ing:biotin",
    "ing:hydrolysed-protein",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -45660,7 +45918,7 @@ const HAIRPRODUCTS = [
   "model": "Khadi Advanced Anti-Dandruff Shampoo with ZPTO, Omega, & Lavender Essential Oil",
   "price": 158,
   "capacityLine": "210 ml",
-  "materialLine": "Zinc pyrithione + Bhringraj + Amla",
+  "materialLine": "Lavender + Zinc pyrithione + Bhringraj",
   "featureLine": "Shampoo · Paraben-free · ₹75/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -45680,7 +45938,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹75/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc pyrithione, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Lavender, Zinc pyrithione, Bhringraj, Amla (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -45713,6 +45971,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:shampoo",
+   "ing:lavender",
    "ing:zinc-pyrithione",
    "ing:bhringraj",
    "ing:amla",
@@ -45993,7 +46252,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -46003,7 +46262,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹33/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Hyaluronic acid, Collagen, Keratin (named on listing)",
+   "keyIngredients": "Hyaluronic acid, Collagen, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -46040,6 +46299,7 @@ const HAIRPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:collagen",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:frizz",
@@ -46080,10 +46340,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46091,6 +46360,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -46341,6 +46611,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -46348,6 +46619,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -46507,7 +46779,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹448/100ml",
    "format": "Lotion",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Glycerin, Jojoba, Fenugreek (named on listing)",
+   "keyIngredients": "Tea tree, Glycerin, Jojoba, Chamomile, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair (seller claim — not clinical proof)",
@@ -46544,6 +46816,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:glycerin",
    "ing:jojoba",
+   "ing:chamomile",
    "ing:fenugreek",
    "concern:dandruff",
    "concern:damage-repair",
@@ -47043,7 +47316,7 @@ const HAIRPRODUCTS = [
   "model": "Dandruff Removal Lotion | Tea Tree Extract & Menthol | Instant Dandruff Relief",
   "price": 349,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Tea tree",
+  "materialLine": "Tea tree + Peppermint / menthol",
   "featureLine": "Lotion",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -47062,7 +47335,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Lotion",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree (named on listing)",
+   "keyIngredients": "Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -47095,6 +47368,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:lotion",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "rating:3.5",
@@ -47452,111 +47726,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "the-plant-fix-plix-itmcb0a5d5d3bd73",
-  "brand": "The Plant Fix Plix",
-  "model": "Neem Anti-Dandruff Advanced Shampoo, Conditioner, Serum & Lotion",
-  "price": 1333,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Neem",
-  "featureLine": "Shampoo",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 69 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 5.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (69 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico (Plix) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 69 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/x/g/neem-anti-dandruff-advanced-shampoo-conditioner-serum-lotion-4-original-imahdzrmswgxzhga.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/f/6/t/50-neem-anti-dandruff-advanced-serum-3-dandelix-pro-pale-non-original-imahdnxvnsz7tftn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/h/y/neem-anti-dandruff-advanced-hair-oil-shampoo-conditioner-3-b2b-original-imahdny4rdzh93yg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/c/0/a/neem-anti-dandruff-advanced-shampoo-conditioner-serum-lotion-4-original-imahdzrmtysdzhyu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/r/1/8/neem-anti-dandruff-advanced-shampoo-conditioner-serum-lotion-4-original-imahdzrmvnmyjhg2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/plant-fix-plix-neem-anti-dandruff-advanced-shampoo-conditioner-serum-lotion/p/itmcb0a5d5d3bd73",
-  "buyStore": "Flipkart",
-  "title": "The Plant Fix Plix Neem Anti-Dandruff Advanced Shampoo, Conditioner, Serum & Lotion",
-  "tags": [
-   "area:scalp",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "format:shampoo",
-   "format:conditioner",
-   "ing:neem",
-   "concern:dandruff",
-   "aud:women",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico (Plix)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "4.3★ from 69 ratings"
-  }
- },
- {
   "id": "sc-skinocrown-itm2ebdd94c74203",
   "brand": "SC SKINOCROWN",
   "model": "Anti-Dandruff | Helps Reduce Visible Dandruff Flakes Without Drying Hair",
@@ -47616,6 +47785,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "format:keratin-treatment",
    "ing:gold",
    "ing:fenugreek",
    "concern:dandruff",
@@ -48445,7 +48615,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Bhringraj, Amla (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -48480,6 +48650,7 @@ const HAIRPRODUCTS = [
    "concern:scalp-itch",
    "concern:hair-fall",
    "concern:dryness",
+   "concern:detangling",
    "hair:all",
    "free:paraben",
    "free:vegan",
@@ -48519,6 +48690,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48526,6 +48698,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48533,6 +48706,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48540,6 +48714,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48547,6 +48722,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -48564,119 +48740,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "soulflower-itma2870fabd8af1",
-  "brand": "Soulflower",
-  "model": "Anti Dandruff Serum & Shampoo | Removes Dandruff, Controls Itchy & Flaky Scalp",
-  "price": 549,
-  "capacityLine": "150 ml",
-  "materialLine": "Salicylic acid (BHA) + Tea tree + Lemon",
-  "featureLine": "Shampoo · Paraben-free · ₹366/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.5★ from 14 ratings"
-  ],
-  "cons": [
-   "Only 5 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹366/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Lemon, Piroctone olamine (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (14 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 2% Salicylic Acid, Piroctone Olamine, Tea Tree, Dandrilys, Lemon",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 14 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/j/u/t/150-anti-dandruff-serum-shampoo-removes-dandruff-controls-itchy-original-imahkqegzjm7whyj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/2/6/n/150-anti-dandruff-serum-shampoo-removes-dandruff-controls-itchy-original-imahkqeggzzmdhgn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/x/4/7/150-anti-dandruff-serum-shampoo-removes-dandruff-controls-itchy-original-imahkqegjmb284hf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/e/v/d/50-2-salicylic-acid-anti-dandruff-serum-with-tea-tree-oil-itchy-original-imahdmgwwe9za5h5.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/soulflower-anti-dandruff-serum-shampoo-removes-dandruff-controls-itchy-flaky-scalp/p/itma2870fabd8af1",
-  "buyStore": "Flipkart",
-  "title": "Soulflower Anti Dandruff Serum & Shampoo | Removes Dandruff, Controls Itchy & Flaky Scalp",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:wash",
-   "format:shampoo",
-   "ing:salicylic-acid-bha",
-   "ing:tea-tree",
-   "ing:lemon",
-   "ing:piroctone-olamine",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:hair-fall",
-   "concern:shine",
-   "hair:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "2% Salicylic Acid, Piroctone Olamine, Tea Tree, Dandrilys, Lemon",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 14 ratings"
   }
  },
  {
@@ -48785,6 +48848,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48792,6 +48856,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -48799,6 +48864,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48806,6 +48872,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -48813,6 +48880,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48820,6 +48888,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48827,6 +48896,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -48834,6 +48904,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -48841,13 +48912,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "teaTreeDandruff"
+    },
+    {
+     "name": "eclipta prostrata extract",
+     "grade": "C",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "bhringraj"
     },
     {
      "name": "hydrolyzed keratin",
      "grade": "C",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -48855,6 +48936,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 38,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -48917,7 +48999,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹140/100ml",
    "format": "Conditioner",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Neem, Olive, Dimethicone / silicones (named on listing)",
+   "keyIngredients": "Tea tree, Neem, Olive, Lavender, Dimethicone / silicones (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -48954,6 +49036,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:neem",
    "ing:olive",
+   "ing:lavender",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:hair-fall",
@@ -49447,7 +49530,16 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -49583,7 +49675,16 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -50185,125 +50286,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "hirapara-itmafae83ff0e430",
-  "brand": "HIRAPARA",
-  "model": "Dandruff Defense Shampoo & Hair Oil for Strong, Healthy Hair",
-  "price": 366,
-  "capacityLine": "600 ml",
-  "materialLine": "Coconut + Milk + Bhringraj",
-  "featureLine": "Shampoo · ₹61/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "600 ml",
-   "pricePer100": "₹61/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Coconut, Milk, Bhringraj, Amla, Keratin, Hydrolysed protein (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Flaxseed",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/p/g/k/500-dandruff-control-shampoo-with-nourishing-hair-oil-for-strong-original-imahguguq74zrgjg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/u/e/a/300-anti-dandruff-shampoo-reduces-up-to-100-dandruff-strengthens-original-imahgs3rdgujw2cp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/s/c/0/200-advansed-gold-flaxseed-hair-oil-made-with-pure-coconut-oil-original-imahgs4fqpdrgthu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/v/g/m/200-advansed-gold-flaxseed-hair-oil-made-with-pure-coconut-oil-original-imahgs4ye7bd3q9p.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/e/w/y/250-coconut-milk-shampoo-jegathees-meena-original-imahpdzhk773afau.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/hirapara-dandruff-defense-shampoo-hair-oil-strong-healthy/p/itmafae83ff0e430",
-  "buyStore": "Flipkart",
-  "title": "HIRAPARA Dandruff Defense Shampoo & Hair Oil for Strong, Healthy Hair",
-  "tags": [
-   "area:both",
-   "format:oil",
-   "format:wash",
-   "format:shampoo",
-   "ing:coconut",
-   "ing:milk",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:keratin",
-   "ing:hydrolysed-protein",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:hair-fall",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Flaxseed",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "soulflower-itm4be032f70cf38",
   "brand": "Soulflower",
   "model": "Anti Dandruff Shampoo for Itchy & Flaky Scalp with Salicylic Acid, Tea Tree",
@@ -50476,6 +50458,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "format:keratin-treatment",
    "ing:keratin",
    "concern:dandruff",
    "concern:hair-fall",
@@ -50749,7 +50732,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Cooling Mint",
   "price": 89,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Other",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -50767,7 +50750,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Other",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -50798,6 +50781,7 @@ const HAIRPRODUCTS = [
   "title": "HIMALAYA Anti-Dandruff Cooling Mint",
   "tags": [
    "area:scalp",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "rating:4.0",
@@ -51566,6 +51550,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -52879,7 +52864,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹224/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Hyaluronic acid, Zinc, Zinc pyrithione, Piroctone olamine, Climbazole, Keratin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Hyaluronic acid, Zinc, Zinc pyrithione, Piroctone olamine, Climbazole, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Curl definition (seller claim — not clinical proof)",
@@ -52919,6 +52904,7 @@ const HAIRPRODUCTS = [
    "ing:piroctone-olamine",
    "ing:climbazole",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-fall",
@@ -55438,7 +55424,7 @@ const HAIRPRODUCTS = [
   "model": "Dandruff Control Shampoo Repairs Scalp Paraben & Sulphate Free",
   "price": 721,
   "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Formaldehyde",
   "featureLine": "Shampoo · Sulfate/SLS-free · ₹361/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -55458,7 +55444,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹361/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Formaldehyde (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -55492,6 +55478,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:wax",
+   "ing:formaldehyde",
    "concern:dandruff",
    "concern:hair-fall",
    "free:sulfate",
@@ -56529,7 +56516,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo - Upto 100% Dandruff Reduction | Salicylic Acid, Biotin",
   "price": 133,
   "capacityLine": "250 ml",
-  "materialLine": "Salicylic acid (BHA) + Biotin",
+  "materialLine": "Salicylic acid (BHA) + Biotin + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹53/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -56549,7 +56536,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹53/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Biotin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -56582,6 +56569,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:salicylic-acid-bha",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "hair:all",
@@ -56688,7 +56676,6 @@ const HAIRPRODUCTS = [
   "title": "Kronzam Professional Anti Dandruff Shampoo | Advanced Scalp Care | Removes Dandruff",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -56743,6 +56730,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -56750,6 +56738,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -56757,6 +56746,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -56764,13 +56754,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "panthenol",
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -56859,7 +56859,6 @@ const HAIRPRODUCTS = [
   "title": "Kronzam Anti Dandruff Hair Shampoo | Sulfate Free Formula | For All Hair Types",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
@@ -56909,6 +56908,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -56916,6 +56916,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -56923,6 +56924,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -56930,13 +56932,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 12,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "panthenol",
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -57300,6 +57312,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57307,6 +57320,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57314,6 +57328,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -57321,6 +57336,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -57328,7 +57344,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -57813,6 +57838,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57820,6 +57846,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57827,6 +57854,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -57834,6 +57862,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -57841,7 +57870,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -57985,6 +58023,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -57992,6 +58031,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -57999,6 +58039,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -58006,6 +58047,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -58013,7 +58055,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -58157,6 +58208,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58164,6 +58216,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58171,6 +58224,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -58178,6 +58232,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -58185,7 +58240,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -58328,6 +58392,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58335,6 +58400,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58342,6 +58408,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -58349,6 +58416,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -58356,7 +58424,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -58500,6 +58577,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58507,6 +58585,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58514,6 +58593,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -58521,6 +58601,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -58528,7 +58609,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -58670,6 +58760,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -58677,6 +58768,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -58684,6 +58776,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -58691,6 +58784,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -58698,7 +58792,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -58881,7 +58984,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹130/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Vitamin B5 / panthenol, Glycerin, Rosemary, Batana oil, Panthenol (named on listing)",
+   "keyIngredients": "Neem, Vitamin B5 / panthenol, Glycerin, Sea salt, Rosemary, Batana oil, Panthenol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
@@ -58918,6 +59021,7 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
+   "ing:sea-salt",
    "ing:rosemary",
    "ing:batana-oil",
    "ing:panthenol",
@@ -58960,7 +59064,7 @@ const HAIRPRODUCTS = [
    "inciUnverified": "Sea Salt , (SLES) , (SLS) ,Glycerin (Pro-Vitamin B5) With Essential Oils",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": 0.5,
+   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -59072,6 +59176,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -59079,6 +59184,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -59086,6 +59192,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -59093,6 +59200,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -59100,7 +59208,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairOils"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -60401,7 +60518,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹39/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Neem, Rosemary, Onion, Keratin (named on listing)",
+   "keyIngredients": "Neem, Rosemary, Onion, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -60437,6 +60554,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:onion",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-fall",
@@ -61780,7 +61898,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Lemon, Rosemary (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Lemon, Lavender, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp health (seller claim — not clinical proof)",
@@ -61816,6 +61934,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:lemon",
+   "ing:lavender",
    "ing:rosemary",
    "concern:dandruff",
    "concern:scalp-health",
@@ -62502,7 +62621,6 @@ const HAIRPRODUCTS = [
   "title": "Kronzam Anti Dandruff Shampoo with Salicylic Acid |Scalp Purifying & Oil Control Formula",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:kit",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -62552,6 +62670,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -62559,6 +62678,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -62566,6 +62686,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -62573,13 +62694,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "panthenol",
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -62828,6 +62959,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -62835,6 +62967,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -62842,6 +62975,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -62849,6 +62983,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -62856,6 +62991,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -62863,6 +62999,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -62870,6 +63007,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -62877,6 +63015,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -64856,7 +64995,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -64900,6 +65039,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -66154,7 +66294,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Neem, Vitamin E (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -66194,6 +66334,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -66978,7 +67119,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Charcoal, Neem, Vitamin E, Rosemary (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -67022,6 +67163,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -67331,7 +67473,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Apple cider vinegar, Batana oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -67377,6 +67519,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -69096,7 +69239,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Apple cider vinegar (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -69139,6 +69282,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -69680,7 +69824,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹86/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), AHA, Hyaluronic acid, Probiotics, Piroctone olamine (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), AHA, Hyaluronic acid, Probiotics, Piroctone olamine, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
@@ -69713,11 +69857,13 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:shampoo",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:hyaluronic-acid",
    "ing:probiotics",
    "ing:piroctone-olamine",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:frizz",
@@ -70218,6 +70364,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -70225,6 +70372,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -70232,20 +70380,39 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruff"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
+    },
+    {
+     "name": "silica",
+     "grade": "C",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "acrylates/c10-30 alkyl acrylate crosspolymer",
      "grade": "C",
      "position": 31,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -70253,6 +70420,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -70877,6 +71045,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -70957,7 +71126,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem, Coconut, Olive (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss, Premature greying (claim) (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss, Premature greying (claim), Humidity resistant (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -70996,6 +71165,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:greying",
+   "concern:humidity",
    "hair:all",
    "free:paraben",
    "aud:women",
@@ -71255,7 +71425,7 @@ const HAIRPRODUCTS = [
  },
  {
   "id": "park-daniel-itmde5823088a097",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Active Reetha Anti Dandruff Hair Oil Controls Hair Fall For Damage Repair Hair Oil",
   "price": 300,
   "capacityLine": "200 ml",
@@ -71522,6 +71692,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:olive",
    "concern:dandruff",
    "hair:all",
@@ -71964,6 +72135,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -72487,6 +72659,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:shine",
    "hair:all",
@@ -72589,6 +72762,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "concern:dandruff",
    "concern:hair-fall",
@@ -72794,6 +72968,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:onion",
    "ing:hibiscus",
    "concern:dandruff",
@@ -73224,6 +73399,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:bhringraj",
    "ing:amla",
    "concern:dandruff",
@@ -73441,6 +73617,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:texture-spray",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-growth",
@@ -73547,6 +73724,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:neem",
    "ing:almond",
@@ -73769,6 +73947,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "concern:dandruff",
    "hair:all",
@@ -73981,6 +74160,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:oil",
+   "format:beard-oil",
    "ing:olive",
    "ing:onion",
    "ing:bhringraj",
@@ -74425,6 +74605,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:bhringraj",
    "concern:dandruff",
@@ -74533,6 +74714,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:hair-mask",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:amla",
    "ing:castor-oil",
@@ -74818,7 +75000,7 @@ const HAIRPRODUCTS = [
   "model": "Dandruff Solve Oil Soothing Solution For Dandruff And Itchy Scalp. Hair Oil",
   "price": 601,
   "capacityLine": "100 ml",
-  "materialLine": "Rosemary + Bhringraj",
+  "materialLine": "Rosemary + Bhringraj + Peppermint / menthol",
   "featureLine": "Oil · ₹601/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -74838,7 +75020,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹601/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Bhringraj (named on listing)",
+   "keyIngredients": "Rosemary, Bhringraj, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration (seller claim — not clinical proof)",
@@ -74871,6 +75053,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:rosemary",
    "ing:bhringraj",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -74978,6 +75161,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:ubtan",
    "ing:onion",
    "concern:dandruff",
@@ -75086,6 +75270,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:ubtan",
    "ing:rosemary",
    "ing:onion",
@@ -75146,7 +75331,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Oil 150ML Hair Oil",
   "price": 221,
   "capacityLine": "150 ml",
-  "materialLine": "Neem",
+  "materialLine": "Neem + Lavender",
   "featureLine": "Oil · ₹147/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -75165,7 +75350,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹147/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
+   "keyIngredients": "Neem, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -75196,7 +75381,9 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
+   "ing:lavender",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -75515,6 +75702,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:dryness",
    "hair:all",
@@ -75618,6 +75806,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:jojoba",
    "ing:onion",
@@ -75733,6 +75922,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-growth",
@@ -75838,6 +76028,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -75947,6 +76138,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "ing:coconut",
    "concern:dandruff",
@@ -76275,6 +76467,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:tea-tree",
    "ing:neem",
    "concern:dandruff",
@@ -76330,7 +76523,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Hair Oil, Reduce Scalp Itching, Flaky Hair & Irritation Hair Oil",
   "price": 220,
   "capacityLine": "100 ml",
-  "materialLine": "Coconut + Lemon",
+  "materialLine": "Coconut + Lemon + Musk",
   "featureLine": "Oil · Paraben-free · ₹220/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -76351,7 +76544,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹220/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Lemon (named on listing)",
+   "keyIngredients": "Coconut, Lemon, Musk (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -76384,6 +76577,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:coconut",
    "ing:lemon",
+   "ing:musk",
    "concern:dandruff",
    "concern:scalp-itch",
    "hair:all",
@@ -76488,6 +76682,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:dryness",
    "hair:all",
@@ -76593,6 +76788,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:hair-mask",
+   "format:beard-oil",
    "ing:saffron",
    "ing:neem",
    "ing:coconut",
@@ -76716,6 +76912,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:rice-water",
    "ing:rosemary",
    "concern:dandruff",
@@ -77730,6 +77927,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -77737,6 +77935,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -77744,13 +77943,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -77758,6 +77967,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -77765,6 +77975,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -77772,6 +77983,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -77779,6 +77991,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -78015,6 +78228,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -78022,6 +78236,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -78029,6 +78244,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -78036,6 +78252,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     }
    ],
@@ -78962,7 +79179,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹91/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Rose, Piroctone olamine, Rosemary, Amla, Biotin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Rose, Piroctone olamine, Rosemary, Amla, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -79002,6 +79219,7 @@ const HAIRPRODUCTS = [
    "ing:rosemary",
    "ing:amla",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -79274,6 +79492,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79281,13 +79500,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "glycerin",
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -79295,6 +79524,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -79302,6 +79532,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79309,6 +79540,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -79316,6 +79548,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -79323,6 +79556,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -79380,7 +79614,7 @@ const HAIRPRODUCTS = [
   "model": "Tea Tree Scalp Shampoo for Dandruff | Stops Itchiness, Reduces Flakes & Oil",
   "price": 2479,
   "capacityLine": "600 ml (pack of 6)",
-  "materialLine": "Tea tree + Aloe vera",
+  "materialLine": "Tea tree + Aloe vera + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹413/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -79402,7 +79636,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹413/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -79439,6 +79673,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -79487,6 +79722,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -79494,6 +79730,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -79501,6 +79738,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -79508,6 +79746,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "teaTreeDandruff"
     },
     {
@@ -79515,6 +79754,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -79522,6 +79762,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -79871,6 +80112,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "format:keratin-treatment",
    "ing:honey",
    "ing:vitamin-b5-panthenol",
    "ing:gold",
@@ -82343,7 +82585,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo for Daily Use | Up To 100% Dandruff Reduction",
   "price": 223,
   "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹89/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -82363,7 +82605,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -82394,6 +82636,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "hair:oily",
@@ -82661,7 +82904,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo | Deep Cleansing & 100% Dandruff Reduction",
   "price": 223,
   "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹89/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -82681,7 +82924,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -82713,6 +82956,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "free:paraben",
@@ -84220,6 +84464,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -84227,6 +84472,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -84234,6 +84480,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -84241,6 +84488,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -85051,7 +85299,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampo| Dandruff Reduction | For All Hair Types (100ml)",
   "price": 607,
   "capacityLine": "600 ml (pack of 6)",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹101/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -85071,7 +85319,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹101/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Frizz control (seller claim — not clinical proof)",
@@ -85104,6 +85352,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:frizz",
@@ -85598,7 +85847,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo Remove Flakes, Soothes Itchy Scalp & Reduces Dandruff",
   "price": 238,
   "capacityLine": "100 ml",
-  "materialLine": "Neem + Zinc + Zinc pyrithione",
+  "materialLine": "Neem + Zinc + Calendula",
   "featureLine": "Shampoo · Paraben-free · ₹238/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -85617,7 +85866,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹238/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Zinc, Zinc pyrithione, Piroctone olamine (named on listing)",
+   "keyIngredients": "Neem, Zinc, Calendula, Zinc pyrithione, Piroctone olamine (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -85651,6 +85900,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:neem",
    "ing:zinc",
+   "ing:calendula",
    "ing:zinc-pyrithione",
    "ing:piroctone-olamine",
    "concern:dandruff",
@@ -85936,7 +86186,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-hairfall Shampoo|Sulfate & Paraben Free|Prevents Dandruff & Itchi Scalp",
   "price": 140,
   "capacityLine": "600 ml",
-  "materialLine": "Aloe vera + Neem + Rosemary",
+  "materialLine": "Aloe vera + Neem + Chamomile",
   "featureLine": "Shampoo · Paraben-free · ₹23/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -85955,7 +86205,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹23/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Neem, Rosemary, Onion (named on listing)",
+   "keyIngredients": "Aloe vera, Neem, Chamomile, Rosemary, Onion (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -85990,6 +86240,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:aloe-vera",
    "ing:neem",
+   "ing:chamomile",
    "ing:rosemary",
    "ing:onion",
    "concern:dandruff",
@@ -86547,7 +86798,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Tea tree, Aloe vera, Neem, Vitamin E, Rosemary, Amla, Keratin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -86592,6 +86843,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -88300,6 +88552,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:mist",
    "format:oil",
+   "format:hair-perfume",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -88594,7 +88847,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -88623,6 +88876,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "concern:dandruff",
+   "concern:odour",
    "hair:all",
    "free:paraben",
    "aud:women",
@@ -88725,6 +88979,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:serum",
    "format:oil",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "concern:dandruff",
    "concern:dryness",
@@ -88878,6 +89133,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -88885,6 +89141,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -88892,6 +89149,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -88899,6 +89157,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -89329,6 +89588,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:serum",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "ing:glycerin",
    "ing:rosemary",
@@ -89380,6 +89640,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89387,6 +89648,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -90098,7 +90360,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹598/100ml",
    "format": "Serum",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Piroctone olamine, Rosemary (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Piroctone olamine, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -90136,6 +90398,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:piroctone-olamine",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -90184,6 +90447,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -90191,6 +90455,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -90198,6 +90463,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -90205,6 +90471,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     },
     {
@@ -90212,6 +90479,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -90219,6 +90487,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     }
    ],
@@ -90361,6 +90630,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -90397,119 +90667,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 18 ratings"
-  }
- },
- {
-  "id": "coco-itm0fa2b5b44bb09",
-  "brand": "COCO",
-  "model": "CRUSH Hair Repair Serum & Anti-Dandruff Shampoo | Repairs Damage, Fights Dandruff",
-  "price": 250,
-  "capacityLine": "115 ml",
-  "materialLine": "Tea tree + Neem + Almond",
-  "featureLine": "Shampoo · ₹217/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "115 ml",
-   "pricePer100": "₹217/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Neem, Almond, Coconut, Rosemary, Sesame oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Damage repair (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Rosemary Oil, Peppermint Oil, Lavender Oil, Virgin Coconut Oil, Alkanet root, Sesame Oil, Sweet Almond Oil - in Hair Repair Serum, Tea Tree Extracts, Rosemary Extracts, Neem Oil, Camphor Oil - in Shampoo",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/b/3/e/65-0-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-original-imahpgayxqknhxf9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/h/z/p/215-0-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-original-imahpgay3g6wkfzh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/z/r/g/215-0-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-original-imahpgayb3zj7vfy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/t/l/u/215-0-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-original-imahpgayjynyjqsg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/l/c/e/115-0-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-original-imahpgay5kdcckxz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/coco-crush-hair-repair-serum-anti-dandruff-shampoo-repairs-damage-fights-dandruff/p/itm0fa2b5b44bb09",
-  "buyStore": "Flipkart",
-  "title": "COCO CRUSH Hair Repair Serum & Anti-Dandruff Shampoo | Repairs Damage, Fights Dandruff",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:oil",
-   "format:shampoo",
-   "ing:tea-tree",
-   "ing:neem",
-   "ing:almond",
-   "ing:coconut",
-   "ing:rosemary",
-   "ing:sesame-oil",
-   "concern:dandruff",
-   "concern:damage-repair",
-   "hair:damaged",
-   "hair:all",
-   "free:vegan",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Rosemary Oil, Peppermint Oil, Lavender Oil, Virgin Coconut Oil, Alkanet root, Sesame Oil, Sweet Almond Oil - in Hair Repair Serum, Tea Tree Extracts, Rosemary Extracts, Neem Oil, Camphor Oil - in Shampoo",
-   "inciNote": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -91468,6 +91625,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -91475,6 +91633,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -91482,6 +91641,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -91489,6 +91649,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -91496,6 +91657,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     }
    ],
@@ -92363,6 +92525,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -92370,6 +92533,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -92377,6 +92541,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     }
    ],
@@ -92633,7 +92798,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹510/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Almond, Vitamin E, Coconut, Castor oil, Sesame oil (named on listing)",
+   "keyIngredients": "Tea tree, Almond, Vitamin E, Coconut, Castor oil, Sesame oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Damage repair, Dryness / hydration, Shine / gloss, Premature greying (claim), Scalp health (seller claim — not clinical proof)",
@@ -92671,6 +92836,7 @@ const HAIRPRODUCTS = [
    "ing:coconut",
    "ing:castor-oil",
    "ing:sesame-oil",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -94078,6 +94244,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -94240,7 +94407,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Caffeine, Rosemary, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -94275,6 +94442,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "concern:oily-scalp",
    "concern:hair-fall",
+   "concern:oil-absorbing",
    "hair:all",
    "aud:women",
    "size:standard",
@@ -94944,6 +95112,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sawPalmetto"
     },
     {
@@ -94951,6 +95120,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -94958,6 +95128,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -94965,6 +95136,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -94972,6 +95144,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     },
     {
@@ -94979,6 +95152,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -94986,6 +95160,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -94993,6 +95168,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     }
    ],
@@ -95492,7 +95668,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -95524,6 +95700,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:all",
    "free:vegan",
@@ -95945,6 +96122,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:kit",
    "format:shampoo",
+   "format:beard-oil",
    "concern:dandruff",
    "concern:hair-growth",
    "concern:damage-repair",
@@ -95954,113 +96132,6 @@ const HAIRPRODUCTS = [
    "hair:all",
    "aud:women",
    "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "fidore-itm84f26e0f88b5d",
-  "brand": "FIDORE",
-  "model": "Anti Dandruff Shampoo Hair Growth & Stem Cell Hair Growth Serum For Men & Women",
-  "price": 1107,
-  "capacityLine": "300 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · ₹369/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 3 pack",
-   "pricePer100": "₹369/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Frizz control, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/o/x/y/100-anti-dandruff-shampoo-hair-growth-stem-cell-hair-growth-original-imahkvn9mfgyvx5f.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/w/x/0/100-anti-dandruff-shampoo-hair-growth-stem-cell-hair-growth-original-imahkvn9md4jnkby.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/s/h/y/100-anti-dandruff-shampoo-hair-growth-stem-cell-hair-growth-original-imahkvn9zemukekq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/t/x/9/100-anti-dandruff-shampoo-hair-growth-stem-cell-hair-growth-original-imahkvn9mmzghmma.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-serum/0/o/b/100-anti-dandruff-shampoo-hair-growth-stem-cell-hair-growth-original-imahkvn9qutzyxwp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/fidore-anti-dandruff-shampoo-hair-growth-stem-cell-serum-men-women/p/itm84f26e0f88b5d",
-  "buyStore": "Flipkart",
-  "title": "FIDORE Anti Dandruff Shampoo Hair Growth & Stem Cell Hair Growth Serum For Men & Women",
-  "tags": [
-   "area:both",
-   "format:serum",
-   "format:kit",
-   "format:shampoo",
-   "concern:dandruff",
-   "concern:hair-growth",
-   "concern:frizz",
-   "concern:smoothing",
-   "hair:all",
-   "aud:women",
-   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -96366,7 +96437,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Piroctone olamine, Climbazole (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Damage repair, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Damage repair, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Curly hair, Straight hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -96404,6 +96475,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:oily",
    "hair:curly",
@@ -96741,6 +96813,7 @@ const HAIRPRODUCTS = [
   "title": "Conscious Chemist Anti-Dandruff Scalp Exfoliator for Flakes & Itchy Scalp",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "aud:unisex",
@@ -96778,6 +96851,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -97379,7 +97453,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹3995/100ml",
    "format": "Serum",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Argan oil, Keratin, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Scalp health (seller claim — not clinical proof)",
@@ -97412,11 +97486,13 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:oil",
    "format:kit",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:argan-oil",
    "ing:keratin",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:thinning",
@@ -97791,6 +97867,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -97798,6 +97875,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -97805,6 +97883,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     }
    ],
@@ -97884,6 +97963,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:lotion",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:hibiscus",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -97964,7 +98044,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹360/100ml",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Glycolic acid, Coffee, Turmeric, Keratin (named on listing)",
+   "keyIngredients": "Glycolic acid, Coffee, Turmeric, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Scalp build-up / clarifying, Scalp health (seller claim — not clinical proof)",
@@ -97998,10 +98078,13 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:hair-mask",
+   "format:scalp-scrub",
+   "format:keratin-treatment",
    "ing:glycolic-acid",
    "ing:coffee",
    "ing:turmeric",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:scalp-buildup",
    "concern:scalp-health",
    "aud:unisex",
@@ -98040,6 +98123,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -98066,7 +98150,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp Scrub - Upto 99% Dandruff Reduction, with Natural AHAs, Coconut & Sugar",
   "price": 549,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Coconut",
+  "materialLine": "Coconut + Sugar",
   "featureLine": "Scalp scrub",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -98087,7 +98171,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut (named on listing)",
+   "keyIngredients": "Coconut, Sugar (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -98119,7 +98203,9 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:coconut",
+   "ing:sugar",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:dryness",
@@ -98225,6 +98311,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:scrub",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -98337,6 +98424,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:women",
@@ -98441,6 +98529,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -98659,6 +98748,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:coffee",
    "ing:turmeric",
    "ing:argan-oil",
@@ -98779,6 +98869,7 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:turmeric",
    "concern:scalp-buildup",
    "concern:damage-repair",
@@ -98883,6 +98974,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:wash",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:scalp-buildup",
    "concern:dryness",
@@ -98957,7 +99049,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Curly hair, Wavy hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -98991,6 +99083,7 @@ const HAIRPRODUCTS = [
    "concern:scalp-itch",
    "concern:frizz",
    "concern:dryness",
+   "concern:detangling",
    "hair:dry",
    "hair:curly",
    "hair:wavy",
@@ -99095,6 +99188,7 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -99210,6 +99304,7 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -99296,7 +99391,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair growth (claim) (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair growth (claim), Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -99324,9 +99419,11 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:kit",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-growth",
+   "concern:detangling",
    "hair:all",
    "aud:women",
    "rating:none",
@@ -99618,7 +99715,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -99647,6 +99744,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:frizz",
@@ -99656,6 +99754,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -99732,7 +99831,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -99771,6 +99870,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -99847,7 +99947,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -99885,6 +99985,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -99961,7 +100062,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -99991,6 +100092,7 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -100003,6 +100105,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -100113,6 +100216,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-mask",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:hibiscus",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -100350,6 +100454,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:bhringraj",
    "ing:amla",
    "concern:dandruff",
@@ -100471,6 +100576,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:rosemary",
    "ing:amla",
    "concern:dandruff",
@@ -100560,7 +100666,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -100590,6 +100696,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:hair-fall",
@@ -100601,6 +100708,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -100706,6 +100814,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:kit",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -100809,6 +100918,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -100926,6 +101036,7 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -101043,6 +101154,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -101159,6 +101271,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -101243,7 +101356,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹359/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Charcoal, Argan oil, Jojoba (named on listing)",
+   "keyIngredients": "Tea tree, Charcoal, Argan oil, Jojoba, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying (seller claim — not clinical proof)",
@@ -101276,10 +101389,12 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "ing:tea-tree",
    "ing:charcoal",
    "ing:argan-oil",
    "ing:jojoba",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:kids",
@@ -101381,6 +101496,7 @@ const HAIRPRODUCTS = [
   "title": "DZOGAX Relaxation -Silicone Scalp Scrubber for Deep Cleaning, Dandruff Prevention",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -101482,6 +101598,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:thinning",
@@ -101592,6 +101709,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -101678,7 +101796,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection, Beard growth (claim) (seller claim — not clinical proof)",
    "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -101709,6 +101827,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:hair-spray",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:rosemary",
    "ing:dimethicone-silicones",
    "concern:dandruff",
@@ -101723,6 +101842,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:volume",
    "concern:colour-protect",
+   "concern:beard-growth",
    "hair:damaged",
    "hair:coloured",
    "hair:all",
@@ -101798,7 +101918,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying (seller claim — not clinical proof)",
+   "hairConcern": "Scalp build-up / clarifying, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -101826,7 +101946,9 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:kit",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
+   "concern:detangling",
    "aud:women",
    "rating:none",
    "store:flipkart",
@@ -101895,7 +102017,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹217/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Tea tree, Charcoal, Titanium dioxide, Glycerin, Rosemary, Bhringraj, Amla, Fenugreek (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, Tea tree, Charcoal, Titanium dioxide, Glycerin, Chamomile, Rosemary, Bhringraj, Amla, Fenugreek, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair growth (claim), Damage repair, Scalp health (seller claim — not clinical proof)",
@@ -101933,6 +102055,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -101940,10 +102063,12 @@ const HAIRPRODUCTS = [
    "ing:charcoal",
    "ing:titanium-dioxide",
    "ing:glycerin",
+   "ing:chamomile",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
    "ing:fenugreek",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -102056,6 +102181,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "ing:caffeine",
    "ing:coffee",
    "ing:lemon",
@@ -102164,6 +102290,7 @@ const HAIRPRODUCTS = [
   "title": "Etezaxist hair scalp scrubber, scalp exfoliator | dandruff removal, prevents hair loss",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -102268,6 +102395,7 @@ const HAIRPRODUCTS = [
   "title": "Etszaz Shower Hair Scalp Scrubber Exfoliator for Dandruff Removal",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -102367,9 +102495,9 @@ const HAIRPRODUCTS = [
   "title": "ESZAZX co-friendly with Soft Silicon Bristles, Hair Scalp Scrubber",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:kit",
    "format:shampoo",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -102582,6 +102710,7 @@ const HAIRPRODUCTS = [
   "title": "MYN Hair Scalp Scrubber, Scalp Exfoliator | Dandruff Removal, Prevents Hair loss",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -102687,6 +102816,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -102796,6 +102926,7 @@ const HAIRPRODUCTS = [
   "title": "Etszaz Scalp Scrubber and Exfoliator for Dandruff and Dry Scalps with Ergonomic Design",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:dryness",
@@ -102898,6 +103029,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:kit",
    "format:shampoo",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "hair:all",
@@ -103000,6 +103132,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:kit",
    "format:shampoo",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -103107,6 +103240,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -103215,6 +103349,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -103334,6 +103469,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -103569,6 +103705,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:dimethicone-silicones",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -103689,6 +103826,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:neem",
    "ing:hibiscus",
    "concern:dandruff",
@@ -103811,6 +103949,8 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:hair-mask",
+   "format:scalp-scrub",
+   "format:hair-perfume",
    "ing:amla",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -103924,6 +104064,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:hair-spray",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:rosemary",
    "ing:dimethicone-silicones",
    "concern:dandruff",
@@ -104044,6 +104185,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -104161,6 +104303,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-growth",
@@ -104274,6 +104417,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -104596,6 +104740,7 @@ const HAIRPRODUCTS = [
   "title": "Kwaanie Hair Scalp Scrubber, Scalp Exfoliator | Dandruff Removal,",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:women",
@@ -105684,6 +105829,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:shampoo",
+   "format:keratin-treatment",
    "ing:argan-oil",
    "ing:jojoba",
    "ing:rosemary",
@@ -105993,7 +106139,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹88/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Rosemary, Onion (named on listing)",
+   "keyIngredients": "Tea tree, Rosemary, Onion, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair growth (claim), Volume / body (seller claim — not clinical proof)",
@@ -106028,6 +106174,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:rosemary",
    "ing:onion",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-growth",
    "concern:volume",
@@ -106767,7 +106914,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Onion, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Shine / gloss, Premature greying (claim) (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Shine / gloss, Premature greying (claim), Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -106803,6 +106950,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:shine",
    "concern:greying",
+   "concern:odour",
    "hair:all",
    "aud:women",
    "size:large",
@@ -109589,7 +109737,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Charcoal, Neem, Vitamin E, Rosemary, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -109634,6 +109782,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -110186,7 +110335,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Aloe vera, Charcoal, Neem, Vitamin E, Rosemary, Amla, Keratin, Hydrolysed protein (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -110232,6 +110381,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:volume",
+   "concern:odour",
    "hair:dry",
    "hair:all",
    "free:paraben",
@@ -111715,7 +111865,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Shine / gloss, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Shine / gloss, Scalp health, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -111750,6 +111900,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:shine",
    "concern:scalp-health",
+   "concern:odour",
    "hair:all",
    "aud:women",
    "size:large",
@@ -114577,7 +114728,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo for Sensitive Scalp�",
   "price": 734,
   "capacityLine": "1800 ml (pack of 6)",
-  "materialLine": "Tea tree + Aloe vera",
+  "materialLine": "Tea tree + Aloe vera + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹41/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -114597,7 +114748,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹41/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -114634,6 +114785,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "ing:tea-tree",
    "ing:aloe-vera",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -114710,7 +114862,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹141/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk, Onion, Amla (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Onion, Amla, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -114747,6 +114899,7 @@ const HAIRPRODUCTS = [
    "ing:milk",
    "ing:onion",
    "ing:amla",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -114800,7 +114953,7 @@ const HAIRPRODUCTS = [
   "model": "Premium quality Menthol Daily Anti-Dandruff Shampoo",
   "price": 351,
   "capacityLine": "1000 ml",
-  "materialLine": "Neem",
+  "materialLine": "Neem + Peppermint / menthol",
   "featureLine": "Shampoo · ₹35/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -114810,7 +114963,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.9,
+   "ingredients": 4,
    "skin": 6.3,
    "trust": 5.5,
    "experience": 0
@@ -114820,7 +114973,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹35/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
+   "keyIngredients": "Neem, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -114853,6 +115006,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:neem",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:smoothing",
    "concern:shine",
@@ -114890,10 +115044,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -114901,6 +115064,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -114945,7 +115109,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo for Greasy Hair",
   "price": 732,
   "capacityLine": "300 ml",
-  "materialLine": "Onion",
+  "materialLine": "Onion + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹244/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -114965,7 +115129,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹244/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Onion (named on listing)",
+   "keyIngredients": "Onion, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -114998,6 +115162,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:onion",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "hair:all",
@@ -115517,7 +115682,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹141/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -115551,6 +115716,7 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "ing:coconut",
    "ing:milk",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -115733,7 +115899,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹141/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk, Amla, Keratin, Hydrolysed protein, Henna (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Amla, Keratin, Hydrolysed protein, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
@@ -115771,6 +115937,7 @@ const HAIRPRODUCTS = [
    "ing:keratin",
    "ing:hydrolysed-protein",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -115845,7 +116012,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹64/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Onion, Amla, Henna (named on listing)",
+   "keyIngredients": "Neem, Onion, Amla, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -115883,6 +116050,7 @@ const HAIRPRODUCTS = [
    "ing:onion",
    "ing:amla",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -115956,7 +116124,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹64/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Onion, Amla, Henna (named on listing)",
+   "keyIngredients": "Neem, Onion, Amla, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -115994,6 +116162,7 @@ const HAIRPRODUCTS = [
    "ing:onion",
    "ing:amla",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -116067,7 +116236,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹141/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk, Amla, Henna (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Amla, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -116103,6 +116272,7 @@ const HAIRPRODUCTS = [
    "ing:milk",
    "ing:amla",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -116174,7 +116344,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹37/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Milk, Amla, Henna (named on listing)",
+   "keyIngredients": "Coconut, Milk, Amla, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -116209,6 +116379,7 @@ const HAIRPRODUCTS = [
    "ing:milk",
    "ing:amla",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -116280,7 +116451,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹141/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Coconut, Milk, Keratin (named on listing)",
+   "keyIngredients": "Neem, Coconut, Milk, Keratin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -116315,6 +116486,7 @@ const HAIRPRODUCTS = [
    "ing:coconut",
    "ing:milk",
    "ing:keratin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "aud:women",
@@ -116484,7 +116656,7 @@ const HAIRPRODUCTS = [
   "model": "Shampoo - Anti Dandruff & Anti Lice",
   "price": 372,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Lavender",
   "featureLine": "Shampoo · ₹372/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -116505,7 +116677,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹372/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -116537,6 +116709,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:shampoo",
+   "ing:lavender",
    "concern:dandruff",
    "concern:hair-fall",
    "hair:all",
@@ -116714,7 +116887,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹36/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Rosemary, Onion (named on listing)",
+   "keyIngredients": "Tea tree, Rosemary, Onion, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -116750,6 +116923,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:rosemary",
    "ing:onion",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "hair:all",
@@ -116823,7 +116997,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹243/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Centella / cica, Aloe vera, Milk, Biotin (named on listing)",
+   "keyIngredients": "Centella / cica, Aloe vera, Milk, Lavender, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
@@ -116858,6 +117032,7 @@ const HAIRPRODUCTS = [
    "ing:centella-cica",
    "ing:aloe-vera",
    "ing:milk",
+   "ing:lavender",
    "ing:biotin",
    "concern:dandruff",
    "concern:hair-fall",
@@ -116934,10 +117109,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹121/100ml",
    "format": "Dry shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Centella / cica, Aloe vera, Honey, Gold (named on listing)",
+   "keyIngredients": "Centella / cica, Aloe vera, Honey, Gold, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -116970,11 +117145,11 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:honey",
    "ing:gold",
+   "ing:lavender",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:frizz",
-   "concern:dryness",
    "concern:smoothing",
    "concern:shine",
    "hair:all",
@@ -117675,6 +117850,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -117682,6 +117858,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -117689,6 +117866,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -117696,6 +117874,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -117703,6 +117882,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -118171,7 +118351,7 @@ const HAIRPRODUCTS = [
   "model": "Coconut Vanilla Shampoo Bar| Solid Hair Cleanser for Dandruff Control",
   "price": 133,
   "capacityLine": "100 ml",
-  "materialLine": "Coconut",
+  "materialLine": "Coconut + Lavender",
   "featureLine": "Shampoo · ₹133/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -118192,7 +118372,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹133/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut (named on listing)",
+   "keyIngredients": "Coconut, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Damage repair, Dryness / hydration, Smoothing / straightening, Colour protection, Scalp health (seller claim — not clinical proof)",
@@ -118225,6 +118405,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:coconut",
+   "ing:lavender",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -118275,121 +118456,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4.6★ from 11 ratings"
-  }
- },
- {
-  "id": "allen-s-itme5bd7baa4ae8f",
-  "brand": "Allen's",
-  "model": "ARNICA PLUS - S Shampoo (pack of 4) Anti Dandruff & Scalp Cleanser",
-  "price": 393,
-  "capacityLine": "1600 ml (pack of 4)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · ₹25/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 56 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.7
-  },
-  "fullSpec": {
-   "quantity": "400 ml × 4 pack",
-   "pricePer100": "₹25/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Colour protection (seller claim — not clinical proof)",
-   "hairType": "Damaged hair, Coloured / chemically treated, All hair types",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (56 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 56 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/l58iaa80/hair-treatment/a/7/q/400-arnica-plus-s-shampoo-pack-of-4-anti-dandruff-scalp-cleanser-original-imagfxsgspf2v7wg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l51d30w0/hair-treatment/n/t/a/200-arnicaplus-s-anti-dandruff-shampoo-pack-of-2-allen-s-original-imagfsz9sp3m8ggy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-shampoo/x/s/a/300-arnicaplus-s-anti-dandruff-shampoo-100-ml-allen-s-original-imahyuj9mtknv25q.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/t/y/1/100-best-amla-100gm-powder-for-hair-hair-growth-sidhaveena-original-imahphw4jg7snkxg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/u/b/q/100-arnica-plus-hair-vitalizer-100ml-pack-of-2-allen-s-original-imahfhb5ycmxbgqa.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/allen-s-arnica-plus-s-shampoo-pack-4-anti-dandruff-scalp-cleanser/p/itme5bd7baa4ae8f",
-  "buyStore": "Flipkart",
-  "title": "Allen's ARNICA PLUS - S Shampoo (pack of 4) Anti Dandruff & Scalp Cleanser",
-  "tags": [
-   "area:both",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:frizz",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:volume",
-   "concern:colour-protect",
-   "hair:damaged",
-   "hair:coloured",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 56 ratings"
   }
  },
  {
@@ -121055,7 +121121,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹142/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Climbazole, Fenugreek (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Climbazole, Fenugreek, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -121094,6 +121160,7 @@ const HAIRPRODUCTS = [
    "ing:aloe-vera",
    "ing:climbazole",
    "ing:fenugreek",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:frizz",
@@ -121209,6 +121276,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:shampoo",
+   "format:keratin-treatment",
    "ing:onion",
    "ing:curry-leaf",
    "ing:keratin",
@@ -122480,7 +122548,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp Cleanse Anti Dandruff Shampoo",
   "price": 811,
   "capacityLine": "300 ml",
-  "materialLine": "Onion",
+  "materialLine": "Onion + Peppermint / menthol",
   "featureLine": "Shampoo · ₹270/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -122500,7 +122568,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹270/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Onion (named on listing)",
+   "keyIngredients": "Onion, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Damage repair, Smoothing / straightening (seller claim — not clinical proof)",
@@ -122533,6 +122601,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:onion",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -123576,7 +123645,7 @@ const HAIRPRODUCTS = [
   "model": "Keshrakshak Sat Reetha Shampoo Anti Dandruff And Anti Hair Fall",
   "price": 119,
   "capacityLine": "210 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹57/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -123596,7 +123665,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹57/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
@@ -123629,6 +123698,8 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:conditioner",
+   "format:keratin-treatment",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "hair:all",
@@ -123734,6 +123805,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:shampoo",
+   "format:keratin-treatment",
    "ing:salicylic-acid-bha",
    "ing:argan-oil",
    "ing:biotin",
@@ -125422,7 +125494,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1162/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Glycerin, Jojoba, Redensyl, Bhringraj, Amla, Brahmi (named on listing)",
+   "keyIngredients": "Rice water, Glycerin, Jojoba, Redensyl, Bhringraj, Amla, Brahmi, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Dryness / hydration, Premature greying (claim), Washes out easily (seller claim — not clinical proof)",
@@ -125461,6 +125533,7 @@ const HAIRPRODUCTS = [
    "ing:bhringraj",
    "ing:amla",
    "ing:brahmi",
+   "ing:peppermint-menthol",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:dryness",
@@ -125694,6 +125767,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:jojoba",
    "ing:coconut",
@@ -126132,6 +126206,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:bhringraj",
    "concern:dandruff",
    "concern:hair-fall",
@@ -126933,6 +127008,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:rosemary",
    "ing:onion",
    "concern:dandruff",
@@ -127392,6 +127468,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:shampoo",
    "format:hair-tonic",
+   "format:keratin-treatment",
    "ing:titanium-dioxide",
    "ing:rosemary",
    "ing:bhringraj",
@@ -128661,6 +128738,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -128668,6 +128746,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -128675,6 +128754,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     }
    ],
@@ -128725,7 +128805,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Vitamin B5 / panthenol, Biotin, Hydrolysed protein, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -128756,6 +128836,7 @@ const HAIRPRODUCTS = [
    "ing:panthenol",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:all",
    "free:vegan",
@@ -129498,7 +129579,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹14/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Jojoba, Mineral oil, Onion (named on listing)",
+   "keyIngredients": "Jojoba, Mineral oil, Onion, Cedarwood (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Volume / body (seller claim — not clinical proof)",
@@ -129533,6 +129614,7 @@ const HAIRPRODUCTS = [
    "ing:jojoba",
    "ing:mineral-oil",
    "ing:onion",
+   "ing:cedarwood",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:hair-fall",
@@ -129923,7 +130005,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹907/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Caffeine, Aloe vera, Glycerin, Coconut, Rosemary, Onion, Bhringraj, Fenugreek (named on listing)",
+   "keyIngredients": "Caffeine, Aloe vera, Glycerin, Coconut, Rosemary, Onion, Bhringraj, Fenugreek, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
@@ -129964,6 +130046,7 @@ const HAIRPRODUCTS = [
    "ing:onion",
    "ing:bhringraj",
    "ing:fenugreek",
+   "ing:peppermint-menthol",
    "concern:oily-scalp",
    "concern:hair-growth",
    "concern:dryness",
@@ -131565,6 +131648,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -131572,6 +131656,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -131619,7 +131704,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Curl definition, Detangling (seller claim — not clinical proof)",
    "hairType": "Curly hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -131655,6 +131740,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:curl-definition",
+   "concern:detangling",
    "hair:curly",
    "hair:damaged",
    "hair:coloured",
@@ -133005,7 +133091,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Amino acids (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -133042,6 +133128,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:smoothing",
+   "concern:detangling",
    "hair:damaged",
    "hair:all",
    "free:paraben",
@@ -134599,7 +134686,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Peptides, Rice water, Tea tree, Coconut, Rosemary, Onion (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -134644,6 +134731,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:all",
    "free:paraben",
    "aud:women",
@@ -134835,7 +134923,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Rosemary (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -134871,6 +134959,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:shine",
+   "concern:detangling",
    "hair:damaged",
    "hair:all",
    "free:paraben",
@@ -135133,6 +135222,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -135140,6 +135230,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135147,6 +135238,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     }
    ],
@@ -135400,6 +135492,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135407,6 +135500,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -135414,6 +135508,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -135658,6 +135753,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -135665,6 +135761,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -135672,6 +135769,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -136037,6 +136135,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136044,6 +136143,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136051,6 +136151,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136058,6 +136159,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136065,6 +136167,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136072,6 +136175,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     }
    ],
@@ -136416,6 +136520,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136423,6 +136528,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -136430,6 +136536,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136437,6 +136544,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -136444,6 +136552,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -136451,6 +136560,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -136458,6 +136568,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -136465,6 +136576,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -136472,6 +136584,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -136479,6 +136592,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -136486,6 +136600,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -136493,6 +136608,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -136500,6 +136616,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -137576,7 +137693,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Hair Mask/without Steel Tin",
   "price": 648,
   "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Hair mask / spa · ₹648/100g",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -137597,7 +137714,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹648/100g",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -137630,6 +137747,7 @@ const HAIRPRODUCTS = [
    "format:powder",
    "format:hair-mask",
    "format:texture-spray",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:damage-repair",
    "concern:dryness",
@@ -138244,7 +138362,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹183/100g",
    "format": "Clay",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Tea tree, Bhringraj, Amla (named on listing)",
+   "keyIngredients": "Niacinamide, Tea tree, Bhringraj, Amla, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Volume / body (seller claim — not clinical proof)",
@@ -138284,6 +138402,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:bhringraj",
    "ing:amla",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:frizz",
@@ -139155,7 +139274,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹124/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Jojoba, Coconut, Olive, Rosemary, Castor oil (named on listing)",
+   "keyIngredients": "Jojoba, Coconut, Olive, Lavender, Rosemary, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
@@ -139188,9 +139307,11 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:jojoba",
    "ing:coconut",
    "ing:olive",
+   "ing:lavender",
    "ing:rosemary",
    "ing:castor-oil",
    "concern:dandruff",
@@ -139305,6 +139426,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:jojoba",
    "ing:olive",
    "ing:onion",
@@ -139425,6 +139547,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
    "ing:castor-oil",
@@ -139535,6 +139658,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "concern:dandruff",
    "concern:hair-growth",
@@ -139642,6 +139766,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:almond",
    "ing:castor-oil",
    "concern:dandruff",
@@ -139751,6 +139876,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:almond",
    "concern:dandruff",
    "concern:hair-growth",
@@ -139858,6 +139984,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "concern:dandruff",
    "concern:dryness",
@@ -139963,6 +140090,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:neem",
    "ing:ubtan",
@@ -140292,6 +140420,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:vitamin-e",
    "ing:argan-oil",
@@ -140404,6 +140533,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:argan-oil",
    "concern:dandruff",
    "concern:hair-fall",
@@ -140455,9 +140585,9 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "park-itmfbnyg4vwyjfhz",
-  "brand": "PARK",
-  "model": "DANIEL Premium ONION Herbal Hair oil- For Hair Regrowth, Anti Dandruff, Treat hair loss an…",
+  "id": "park-daniel-itmfbnyg4vwyjfhz",
+  "brand": "Park Daniel",
+  "model": "Premium ONION Herbal Hair oil- For Hair Regrowth, Anti Dandruff, Treat hair loss and Thick…",
   "price": 213,
   "capacityLine": "100 ml",
   "materialLine": "Onion",
@@ -141481,6 +141611,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:turmeric",
    "ing:almond",
    "ing:vitamin-e",
@@ -141695,6 +141826,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:shampoo",
+   "format:beard-oil",
    "ing:bhringraj",
    "concern:dandruff",
    "concern:hair-fall",
@@ -141802,6 +141934,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:bhringraj",
    "ing:brahmi",
    "ing:fenugreek",
@@ -141912,6 +142045,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:bhringraj",
    "concern:dandruff",
    "concern:hair-fall",
@@ -142141,6 +142275,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:coconut",
    "ing:bhringraj",
@@ -142365,6 +142500,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:olive",
    "ing:bhringraj",
    "ing:amla",
@@ -143579,6 +143715,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:argan-oil",
    "ing:coconut",
    "ing:rosemary",
@@ -144672,7 +144809,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Vitamin E, Coconut, Gold, Onion, Amla, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -144701,6 +144838,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:almond",
    "ing:vitamin-e",
    "ing:coconut",
@@ -144714,6 +144852,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:all",
    "aud:women",
@@ -144765,7 +144904,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Regrowth for Men & Women - 60ml | Controls Hair fall & Dandruff Hair Oil",
   "price": 163,
   "capacityLine": "60 ml",
-  "materialLine": "Almond + Coconut + Rosemary",
+  "materialLine": "Almond + Coconut + Lavender",
   "featureLine": "Oil · ₹272/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -144784,7 +144923,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹272/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Almond, Coconut, Rosemary, Bhringraj, Amla, Sesame oil, Mustard oil (named on listing)",
+   "keyIngredients": "Almond, Coconut, Lavender, Rosemary, Bhringraj, Amla, Sesame oil, Mustard oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Premature greying (claim) (seller claim — not clinical proof)",
@@ -144815,8 +144954,10 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
+   "ing:lavender",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -144929,6 +145070,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:turmeric",
    "ing:neem",
    "ing:argan-oil",
@@ -145056,6 +145198,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "ing:amla",
    "concern:dandruff",
@@ -145344,7 +145487,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹195/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Neem, Jojoba, Rosemary, Onion, Bhringraj, Fenugreek, Sesame oil (named on listing)",
+   "keyIngredients": "Tea tree, Neem, Jojoba, Lavender, Rosemary, Onion, Bhringraj, Fenugreek, Sesame oil (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Shine / gloss, Scalp health (seller claim — not clinical proof)",
@@ -145378,6 +145521,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:neem",
    "ing:jojoba",
+   "ing:lavender",
    "ing:rosemary",
    "ing:onion",
    "ing:bhringraj",
@@ -145881,7 +146025,7 @@ const HAIRPRODUCTS = [
   "model": "Natural Jbuti Hair Oil For Hair Growth & Anti Dandruff Hair Oil",
   "price": 65,
   "capacityLine": "200 ml",
-  "materialLine": "Coconut",
+  "materialLine": "Coconut + Lavender",
   "featureLine": "Oil · ₹33/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -145900,7 +146044,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹33/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut (named on listing)",
+   "keyIngredients": "Coconut, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Shine / gloss (seller claim — not clinical proof)",
@@ -145931,7 +146075,9 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
+   "ing:lavender",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -146692,6 +146838,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "ing:mineral-oil",
    "ing:rosemary",
@@ -146775,7 +146922,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Saffron, Neem, Vitamin E, Coconut, Biotin (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Damage repair, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Damage repair, Dryness / hydration, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -146814,6 +146961,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:shine",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "free:paraben",
@@ -147123,6 +147271,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "ing:rosemary",
    "ing:onion",
@@ -147557,6 +147706,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:tea-tree",
    "ing:ubtan",
    "ing:coconut",
@@ -147871,7 +148021,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem, Bhringraj, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Hair fall / shedding, Hair growth (claim), Smoothing / straightening, Scalp health, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Itchy scalp, Hair fall / shedding, Hair growth (claim), Smoothing / straightening, Scalp health, Restylable / no flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -147910,6 +148060,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:scalp-health",
    "concern:restyle",
+   "concern:odour",
    "hair:all",
    "aud:women",
    "size:xl",
@@ -148247,6 +148398,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "concern:dandruff",
    "concern:hair-fall",
@@ -148460,6 +148612,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:onion",
    "concern:dandruff",
    "concern:hair-growth",
@@ -148564,6 +148717,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "concern:dandruff",
    "concern:hair-fall",
@@ -148672,6 +148826,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:ubtan",
    "ing:coconut",
    "ing:onion",
@@ -148711,119 +148866,6 @@ const HAIRPRODUCTS = [
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "satvayush-itm27a712e3906ab",
-  "brand": "Satvayush",
-  "model": "Herbal Virgin Coconut Anti Dandruff Shampoo & Coconut Cold Pressed Hair Growth Hair Oil",
-  "price": 426,
-  "capacityLine": "310 ml",
-  "materialLine": "Coconut + Rosemary + Onion",
-  "featureLine": "Shampoo · Paraben-free · ₹137/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "310 ml",
-   "pricePer100": "₹137/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Rosemary, Onion, Hibiscus, Curry leaf, Henna (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Thinning / density, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/t/n/r/310-herbal-virgin-coconut-anti-dandruff-shampoo-coconut-cold-original-imah6fykxacrrwwp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/h/s/e/600-mahabhringrajoil-on-on-hair-oil-pack-of-3-200-ml-each-original-imagvhgzhj9mdyw9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/y/p/w/200-khadi-rosemary-henna-hair-growth-oil-sls-paraben-free-herbal-original-imahag24cchnufxu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/q/y/h/100-0-neeli-bringadi-hair-oil-for-hair-growth-hair-fall-dandruff-original-imahp87zfm3armhy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/e/b/a/300-khadi-sweet-almond-oil-cold-pressed-for-face-skin-hair-and-original-imahe46e6dcfzpkg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/satvayush-herbal-virgin-coconut-anti-dandruff-shampoo-cold-pressed-hair-growth-oil/p/itm27a712e3906ab",
-  "buyStore": "Flipkart",
-  "title": "Satvayush Herbal Virgin Coconut Anti Dandruff Shampoo & Coconut Cold Pressed Hair Growth Hair Oil",
-  "tags": [
-   "area:scalp",
-   "format:oil",
-   "format:shampoo",
-   "ing:coconut",
-   "ing:rosemary",
-   "ing:onion",
-   "ing:hibiscus",
-   "ing:curry-leaf",
-   "ing:henna",
-   "concern:dandruff",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "hair:all",
-   "free:paraben",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -148896,6 +148938,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:ubtan",
    "ing:coconut",
    "ing:rosemary",
@@ -149014,6 +149057,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:argan-oil",
    "ing:coconut",
    "ing:onion",
@@ -149128,6 +149172,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:kit",
    "format:texture-spray",
+   "format:beard-oil",
    "ing:coconut",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -149237,6 +149282,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:aloe-vera",
    "ing:neem",
    "ing:almond",
@@ -149788,7 +149834,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹389/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Licorice, Coconut, Olive, Onion, Bhringraj, Amla, Hibiscus, Brahmi, Fenugreek, Curry leaf, Sesame oil (named on listing)",
+   "keyIngredients": "Neem, Licorice, Coconut, Olive, Onion, Bhringraj, Amla, Hibiscus, Brahmi, Fenugreek, Curry leaf, Sesame oil, Vetiver (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Premature greying (claim) (seller claim — not clinical proof)",
@@ -149831,6 +149877,7 @@ const HAIRPRODUCTS = [
    "ing:fenugreek",
    "ing:curry-leaf",
    "ing:sesame-oil",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -150045,6 +150092,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:vitamin-e",
    "ing:jojoba",
@@ -150157,6 +150205,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:mineral-oil",
    "ing:bhringraj",
    "ing:sesame-oil",
@@ -150382,6 +150431,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:amla",
    "concern:dandruff",
    "concern:hair-fall",
@@ -150459,7 +150509,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹111/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Rose, Neem, Almond, Rosemary, Bhringraj, Amla, Hibiscus, Curry leaf, Castor oil, Henna, Sesame oil (named on listing)",
+   "keyIngredients": "Aloe vera, Rose, Neem, Almond, Rosemary, Bhringraj, Amla, Hibiscus, Curry leaf, Castor oil, Henna, Sesame oil, Vetiver (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
@@ -150505,6 +150555,7 @@ const HAIRPRODUCTS = [
    "ing:castor-oil",
    "ing:henna",
    "ing:sesame-oil",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -150611,6 +150662,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "ing:rosemary",
    "ing:onion",
@@ -150724,6 +150776,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:rosemary",
    "ing:onion",
@@ -150839,6 +150892,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "ing:mineral-oil",
    "ing:onion",
@@ -150948,6 +151002,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:coconut",
    "ing:rosemary",
    "ing:onion",
@@ -151060,6 +151115,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:hibiscus",
    "ing:curry-leaf",
@@ -151170,6 +151226,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
    "ing:rosemary",
@@ -151282,6 +151339,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:oil",
+   "format:beard-oil",
    "ing:mineral-oil",
    "ing:onion",
    "ing:hibiscus",
@@ -151504,6 +151562,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:onion",
    "ing:bhringraj",
    "ing:amla",
@@ -151695,7 +151754,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹63/100g",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water, Vitamin E, Coconut, Rosemary, Bhringraj, Amla, Hibiscus, Fenugreek, Castor oil, Sesame oil (named on listing)",
+   "keyIngredients": "Rice water, Vitamin E, Coconut, Rosemary, Bhringraj, Amla, Hibiscus, Fenugreek, Castor oil, Sesame oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
@@ -151737,6 +151796,7 @@ const HAIRPRODUCTS = [
    "ing:fenugreek",
    "ing:castor-oil",
    "ing:sesame-oil",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -151961,6 +152021,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
    "ing:rosemary",
@@ -152074,6 +152135,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
    "ing:rosemary",
@@ -152188,6 +152250,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:kit",
+   "format:beard-oil",
    "ing:avocado",
    "ing:rosemary",
    "ing:hibiscus",
@@ -152199,235 +152262,6 @@ const HAIRPRODUCTS = [
    "hair:all",
    "aud:women",
    "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "satvayush-itm4afbece2337a2",
-  "brand": "Satvayush",
-  "model": "Herbal Onion Shampoo & Onion Hibiscus Anti Dandruff Hair Growth Hair Oil",
-  "price": 709,
-  "capacityLine": "1260 ml (pack of 3)",
-  "materialLine": "Rosemary + Onion + Hibiscus",
-  "featureLine": "Shampoo · Paraben-free · ₹56/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "420 ml × 3 pack",
-   "pricePer100": "₹56/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Onion, Hibiscus, Henna (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/q/u/t/420-herbal-onion-shampoo-onion-hibiscus-anti-dandruff-hair-original-imah2jhhhzwhh9j6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/4/3/g/herbal-white-onion-shampoo-hair-growth-hair-fall-control-sls-original-imah2jgzafwe2knh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/q/x/r/herbal-white-onion-shampoo-hair-growth-hair-fall-control-sls-original-imah2jgzdkrwrk2h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/3/r/p/420-herbal-coconut-total-repair-shampoo-onion-hibiscus-hair-original-imah27tx88bmezwv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/x/y/k/420-herbal-coconut-total-repair-shampoo-onion-hibiscus-hair-original-imah27txejthzgtg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/satvayush-herbal-onion-shampoo-hibiscus-anti-dandruff-hair-growth-oil/p/itm4afbece2337a2",
-  "buyStore": "Flipkart",
-  "title": "Satvayush Herbal Onion Shampoo & Onion Hibiscus Anti Dandruff Hair Growth Hair Oil",
-  "tags": [
-   "area:scalp",
-   "format:oil",
-   "format:kit",
-   "format:shampoo",
-   "ing:rosemary",
-   "ing:onion",
-   "ing:hibiscus",
-   "ing:henna",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "hair:all",
-   "free:paraben",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "satvayush-itm779ea0c03368d",
-  "brand": "Satvayush",
-  "model": "Herbal Red Onion Shampoo & Onion Hibiscus Anti Dandruff Hair Growth Hair Oil",
-  "price": 560,
-  "capacityLine": "1260 ml (pack of 3)",
-  "materialLine": "Rosemary + Onion + Bhringraj",
-  "featureLine": "Shampoo · ₹44/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "420 ml × 3 pack",
-   "pricePer100": "₹44/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Onion, Bhringraj, Hibiscus, Curry leaf, Henna (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/u/f/q/420-herbal-red-onion-shampoo-onion-hibiscus-anti-dandruff-hair-original-imah29drasrhpzze.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/s/y/p/herbal-red-onion-shampoo-sls-paraben-free-anti-dandruff-hair-original-imah29dh8zdw9kq9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shampoo/s/n/s/herbal-red-onion-shampoo-sls-paraben-free-anti-dandruff-hair-original-imah29dhq85qvfh5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/x/y/k/420-herbal-coconut-total-repair-shampoo-onion-hibiscus-hair-original-imah27txejthzgtg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-oil/3/r/p/420-herbal-coconut-total-repair-shampoo-onion-hibiscus-hair-original-imah27tx88bmezwv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/satvayush-herbal-red-onion-shampoo-hibiscus-anti-dandruff-hair-growth-oil/p/itm779ea0c03368d",
-  "buyStore": "Flipkart",
-  "title": "Satvayush Herbal Red Onion Shampoo & Onion Hibiscus Anti Dandruff Hair Growth Hair Oil",
-  "tags": [
-   "area:scalp",
-   "format:oil",
-   "format:kit",
-   "format:shampoo",
-   "ing:rosemary",
-   "ing:onion",
-   "ing:bhringraj",
-   "ing:hibiscus",
-   "ing:curry-leaf",
-   "ing:henna",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "hair:all",
-   "free:mineral-oil",
-   "free:oil-free",
-   "aud:women",
-   "size:xl",
    "rating:none",
    "store:flipkart",
    "inci:none"
@@ -152648,6 +152482,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:onion",
    "ing:hibiscus",
    "concern:dandruff",
@@ -152705,7 +152540,7 @@ const HAIRPRODUCTS = [
   "model": "Hibiscus Hair Oil for Hair Regrowth with Black seed oil for Men & Women - 60ml | Controls …",
   "price": 170,
   "capacityLine": "60 ml",
-  "materialLine": "Almond + Coconut + Rosemary",
+  "materialLine": "Almond + Coconut + Lavender",
   "featureLine": "Oil · ₹283/100ml",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -152724,7 +152559,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹283/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Almond, Coconut, Rosemary, Bhringraj, Amla, Hibiscus, Sesame oil, Mustard oil (named on listing)",
+   "keyIngredients": "Almond, Coconut, Lavender, Rosemary, Bhringraj, Amla, Hibiscus, Sesame oil, Mustard oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Thinning / density, Premature greying (claim) (seller claim — not clinical proof)",
@@ -152755,8 +152590,10 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:coconut",
+   "ing:lavender",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -152870,6 +152707,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:hibiscus",
    "concern:dandruff",
    "concern:hair-fall",
@@ -153083,6 +152921,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:almond",
    "ing:bhringraj",
    "ing:amla",
@@ -153301,6 +153140,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:hair-mask",
+   "format:beard-oil",
    "ing:onion",
    "ing:hibiscus",
    "concern:dandruff",
@@ -153642,6 +153482,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "format:beard-oil",
    "ing:neem",
    "ing:coconut",
    "concern:dandruff",
@@ -153899,6 +153740,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -153906,6 +153748,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     },
     {
@@ -153913,6 +153756,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -154251,6 +154095,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -154258,6 +154103,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -154445,7 +154291,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Redensyl, Anagain, Baicapil, Bhringraj, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
    "audience": "Marketed for women",
@@ -154481,6 +154327,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:all",
    "free:vegan",
    "aud:women",
@@ -157618,7 +157465,7 @@ const HAIRPRODUCTS = [
   "model": "Menz Anti Dandruff Styling Hair Cream Hair Cream",
   "price": 341,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Cream",
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -157636,7 +157483,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
@@ -157667,6 +157514,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:cream",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:dryness",
    "hair:curly",
@@ -159048,6 +158896,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -159055,6 +158904,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -159062,6 +158912,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -159069,6 +158920,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -159076,6 +158928,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -159209,6 +159062,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -159216,6 +159070,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -159223,6 +159078,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -159230,6 +159086,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -159237,6 +159094,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -159516,7 +159374,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹19/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin B5 / panthenol, Zinc, Zinc pyrithione, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin B5 / panthenol, Zinc, Zinc pyrithione, Panthenol, Cedarwood, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body (seller claim — not clinical proof)",
@@ -159553,6 +159411,8 @@ const HAIRPRODUCTS = [
    "ing:zinc",
    "ing:zinc-pyrithione",
    "ing:panthenol",
+   "ing:cedarwood",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:damage-repair",
@@ -159740,7 +159600,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Olive, Amino acids (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -159779,6 +159639,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:damaged",
    "hair:all",
    "aud:women",
@@ -161173,6 +161034,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -161180,6 +161042,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -161187,6 +161050,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -161277,6 +161141,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:mist",
+   "format:hair-perfume",
    "ing:rosemary",
    "concern:dandruff",
    "hair:all",
@@ -161388,6 +161253,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "format:leave-in",
+   "format:hair-perfume",
    "ing:coffee",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -163255,6 +163121,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -163262,6 +163129,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -163693,7 +163561,6 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin | Fights Dandruff, Flakes & Itchy Scalp | Non-Drying Formula | Suitable for All Hair Types | Men & Women | 250 ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -163806,7 +163673,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -163911,7 +163777,6 @@ const HAIRPRODUCTS = [
   "title": "Zohair Anti-Dandruff Shampoo, 100ml | With Piroctone Olamine, Ichthyol Pale, Wheat Protein & Pro-Vitamin B5 | Reduce Dandruff & Scalp Flakes | Nourishes Hair & Scalp | Reducing Split Ends",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:vitamin-b5-panthenol",
@@ -164284,6 +164149,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -164291,13 +164157,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "kaolin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "amodimethicone",
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -164305,13 +164181,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "glycerin",
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -164319,6 +164205,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -164326,6 +164213,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -164333,6 +164221,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -164340,6 +164229,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 51,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -164347,6 +164237,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 64,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -164414,7 +164305,7 @@ const HAIRPRODUCTS = [
   "model": "Dandruff Removal Shampoo | Itching Control | Hair Fall Control | 200 ml",
   "price": 349,
   "capacityLine": "200 ml",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Calendula",
   "featureLine": "Shampoo · ₹175/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -164433,7 +164324,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹175/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -164462,6 +164353,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:lemon",
+   "ing:calendula",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -164673,7 +164565,6 @@ const HAIRPRODUCTS = [
   "title": "Hair Cleanser for Gentle Scalp Cleansing & Fresh-Looking Hair, 250 ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -164771,7 +164662,6 @@ const HAIRPRODUCTS = [
   "title": "Nature Herbal Seven Green Triangle Shampoo Bar Soap with multyfunction, Oil Control, Dandruff Removal, Smoothening, Platycladus Usman Grass Hair Care 100g (Pack Of 1)",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:kit",
    "format:shampoo",
    "concern:dandruff",
@@ -164848,7 +164738,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹166/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera, Neem, Zinc, Lemon, Bhringraj, Amla, Brahmi, Fenugreek, Henna (named on listing)",
+   "keyIngredients": "Aloe vera, Neem, Zinc, Lemon, Lavender, Bhringraj, Amla, Brahmi, Fenugreek, Henna, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Dryness / hydration, Colour protection (seller claim — not clinical proof)",
@@ -164884,11 +164774,13 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "ing:zinc",
    "ing:lemon",
+   "ing:lavender",
    "ing:bhringraj",
    "ing:amla",
    "ing:brahmi",
    "ing:fenugreek",
    "ing:henna",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -165655,7 +165547,7 @@ const HAIRPRODUCTS = [
   "model": "Charcoal Shampoo For Oily Scalp To Eliminate Dandruff, Improve Hair Growth with Peppermint…",
   "price": 359,
   "capacityLine": "250 ml",
-  "materialLine": "Charcoal",
+  "materialLine": "Charcoal + Peppermint / menthol",
   "featureLine": "Shampoo · ₹144/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -165673,7 +165565,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹144/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Charcoal (named on listing)",
+   "keyIngredients": "Charcoal, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair growth (claim), Shine / gloss (seller claim — not clinical proof)",
@@ -165701,6 +165593,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:charcoal",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:hair-growth",
@@ -165955,7 +165848,7 @@ const HAIRPRODUCTS = [
   "model": "Professional Oil Control Shampoo For Oily Hair And Scalp Anti Dandruff With Natural Lemon …",
   "price": 499,
   "capacityLine": "1000 ml",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -165974,7 +165867,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹50/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Dryness / hydration (seller claim — not clinical proof)",
@@ -166003,6 +165896,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:shampoo",
    "ing:lemon",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:dryness",
@@ -166573,7 +166467,7 @@ const HAIRPRODUCTS = [
   "model": "Charcoal Shampoo For Oily Scalp To Eliminate Dandruff, Improve Hair Growth with Peppermint…",
   "price": 269,
   "capacityLine": "300 ml",
-  "materialLine": "Charcoal",
+  "materialLine": "Charcoal + Peppermint / menthol",
   "featureLine": "Shampoo · ₹90/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -166592,7 +166486,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹90/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Charcoal (named on listing)",
+   "keyIngredients": "Charcoal, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair growth (claim), Shine / gloss (seller claim — not clinical proof)",
@@ -166621,9 +166515,9 @@ const HAIRPRODUCTS = [
   "title": "Charcoal Shampoo For Oily Scalp To Eliminate Dandruff, Improve Hair Growth with Peppermint & Clove | Healthy and Shiny Hair - 300ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:charcoal",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -166785,7 +166679,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo Pack of 2 for Oily Scalp | Tulsi, Lemon & Calendula Extract | Helps …",
   "price": 649,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Calendula",
   "featureLine": "Shampoo",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -166805,7 +166699,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Calendula (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -166834,6 +166728,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:lemon",
+   "ing:calendula",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -167085,6 +166980,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -167092,6 +166988,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -167099,6 +166996,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -167106,6 +167004,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -167113,6 +167012,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -167120,6 +167020,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -167127,6 +167028,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -167220,7 +167122,6 @@ const HAIRPRODUCTS = [
   "title": "Aloe Vera Anti-Dandruff Shampoo with Vitamin E | Scalp Soothing Shampoo for Itchy Scalp, Flake Control & Hair Nourishment | Hydrating Daily Hair Cleanser for Men & Women | 200ml",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:aloe-vera",
@@ -167578,6 +167479,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -167585,6 +167487,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -167592,6 +167495,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -167599,6 +167503,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -167606,6 +167511,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -167613,6 +167519,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -167620,6 +167527,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -167627,6 +167535,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -167634,7 +167543,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -167681,7 +167599,7 @@ const HAIRPRODUCTS = [
   "model": "No Nonsense Daily Shampoo for Men 200ml | For Healthy, Clean Scalp | Anti-inflammatory Pep…",
   "price": 248,
   "capacityLine": "200 ml",
-  "materialLine": "Tea tree + Charcoal",
+  "materialLine": "Tea tree + Charcoal + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹124/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -167699,7 +167617,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹124/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Charcoal (named on listing)",
+   "keyIngredients": "Tea tree, Charcoal, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -167728,6 +167646,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:tea-tree",
    "ing:charcoal",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "free:paraben",
    "aud:men",
@@ -167779,7 +167698,7 @@ const HAIRPRODUCTS = [
   "model": "Studio Professional Scalp Balance Shampoo for Men | Salon-Grade Scalp Care at Home | Deep …",
   "price": 340,
   "capacityLine": "200 ml",
-  "materialLine": "Climbazole",
+  "materialLine": "Climbazole + Peppermint / menthol",
   "featureLine": "Shampoo · ₹170/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -167797,7 +167716,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹170/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Climbazole (named on listing)",
+   "keyIngredients": "Climbazole, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Scalp health (seller claim — not clinical proof)",
@@ -167823,10 +167742,10 @@ const HAIRPRODUCTS = [
   "title": "Beardo Studio Professional Scalp Balance Shampoo for Men | Salon-Grade Scalp Care at Home | Deep Cleansing Shampoo with Climbazole & Menthol | Helps Control Dandruff, Excess Oil & Itchy Scalp | 200ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:climbazole",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -167902,7 +167821,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for men",
@@ -167935,6 +167854,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:frizz",
    "concern:shine",
+   "concern:detangling",
    "aud:men",
    "rating:4.0",
    "store:amazon",
@@ -171038,7 +170958,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹523/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Charcoal, Rosemary (named on listing)",
+   "keyIngredients": "Tea tree, Charcoal, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying (seller claim — not clinical proof)",
@@ -171068,6 +170988,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:charcoal",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -171327,7 +171248,7 @@ const HAIRPRODUCTS = [
   "model": "Dry Shampoo | 100% Natural Ingredients Like Rice Starch | Instantly Refresh & Add Volume |…",
   "price": 699,
   "capacityLine": "200 ml",
-  "materialLine": "Rice water",
+  "materialLine": "Rice water + Starch / rice powder",
   "featureLine": "Dry shampoo · ₹350/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -171347,10 +171268,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹350/100ml",
    "format": "Dry shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water (named on listing)",
+   "keyIngredients": "Rice water, Starch / rice powder (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Volume / body (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -171376,8 +171297,8 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:dry-shampoo",
    "ing:rice-water",
+   "ing:starch-rice-powder",
    "concern:dandruff",
-   "concern:dryness",
    "concern:volume",
    "hair:all",
    "aud:unisex",
@@ -171726,6 +171647,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -171733,6 +171655,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -171740,6 +171663,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -171747,6 +171671,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -171754,6 +171679,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -171761,6 +171687,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -171768,6 +171695,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -171775,6 +171703,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -171782,6 +171711,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -171826,7 +171756,7 @@ const HAIRPRODUCTS = [
   "model": "Australian Tea Tree Anti-Dandruff Shampoo with Cool Menthol - 200ml | Salicylic Acid, Redu…",
   "price": 316,
   "capacityLine": "200 ml",
-  "materialLine": "Salicylic acid (BHA) + Tea tree",
+  "materialLine": "Salicylic acid (BHA) + Tea tree + Peppermint / menthol",
   "featureLine": "Shampoo · ₹158/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -171844,7 +171774,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹158/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -171874,6 +171804,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "hair:all",
    "aud:unisex",
@@ -173152,7 +173083,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 3.4,
+   "ingredients": 3.5,
    "skin": 5.4,
    "trust": 5.5,
    "experience": 2.9
@@ -173225,10 +173156,19 @@ const HAIRPRODUCTS = [
    "recognised": 0.88,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -173236,6 +173176,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -173631,7 +173572,6 @@ const HAIRPRODUCTS = [
   "title": "Olivia Lime Anti-Dandruff Shampoo | Fights Dandruff & Scalp Issues | Removes Excess Oil & Toxins | Maintains pH Balance | Restores Shine & Strengthens Hair | For Healthy Hair | 500ml (Pack of 2)",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:kit",
    "format:shampoo",
@@ -174839,7 +174779,6 @@ const HAIRPRODUCTS = [
   "title": "CARYA Premium Anti-Dandruff Shampoo with Zinc, Tea Tree & Neem | Controls Flakes, Itching & Excess Oil | Gentle Yet Effective Cleanser for Men & Women",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:tea-tree",
@@ -178119,7 +178058,7 @@ const HAIRPRODUCTS = [
   "model": "KERA FINE ANTI DANDRUFF HAIR SHAMPOO | 250ML | SAFE FOR SENSITIVE SCALP COOLING MENTHOL RE…",
   "price": 555,
   "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹222/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -178138,7 +178077,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹222/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -178169,6 +178108,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "free:paraben",
    "aud:unisex",
@@ -179320,6 +179260,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -179327,6 +179268,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -179334,6 +179276,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -179341,6 +179284,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -179348,6 +179292,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -179355,6 +179300,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -179362,6 +179308,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -179369,6 +179316,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -179376,7 +179324,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -179638,7 +179595,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo with Zinc + Menthol for Men & women- 400ml | Cooling & Refreshing Fo…",
   "price": 249,
   "capacityLine": "400 ml",
-  "materialLine": "Zinc + Zinc pyrithione",
+  "materialLine": "Zinc + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · ₹62/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -179657,7 +179614,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹62/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -179683,11 +179640,11 @@ const HAIRPRODUCTS = [
   "title": "Mancode Anti-Dandruff Shampoo with Zinc + Menthol for Men & women- 400ml | Cooling & Refreshing Formula with Zinc Pyrithione to Control Dandruff, Itchy Scalp & Excess Oil | Deep Cleansing Hair Shampoo for Strong, Flake-Free Hair",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:zinc",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -179740,7 +179697,7 @@ const HAIRPRODUCTS = [
   "model": "Thyme Intensive Anti-Dandruff Scalp Shampoo | Zinc Pyrithione ≤1% | Stops Flakes, Reduces …",
   "price": 239,
   "capacityLine": "15 ml",
-  "materialLine": "Zinc + Zinc pyrithione",
+  "materialLine": "Zinc + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · ₹1593/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -179760,10 +179717,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1593/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -179793,10 +179750,12 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:zinc",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:smoothing",
+   "concern:odour",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -180052,7 +180011,7 @@ const HAIRPRODUCTS = [
   "model": "Thyme Intensive Anti-Dandruff Scalp Shampoo | Zinc Pyrithione ≤1% | Stops Flakes, Reduces …",
   "price": 2229,
   "capacityLine": "100 ml",
-  "materialLine": "Zinc + Zinc pyrithione",
+  "materialLine": "Zinc + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · ₹2229/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -180071,10 +180030,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹2229/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -180100,10 +180059,12 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:zinc",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:smoothing",
+   "concern:odour",
    "aud:unisex",
    "size:standard",
    "rating:3.5",
@@ -180359,7 +180320,7 @@ const HAIRPRODUCTS = [
   "model": "Thyme Intensive Anti-Dandruff Scalp Shampoo | Zinc Pyrithione ≤1% | Stops Flakes, Reduces …",
   "price": 4000,
   "capacityLine": "250 ml",
-  "materialLine": "Zinc + Zinc pyrithione",
+  "materialLine": "Zinc + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · ₹1600/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -180378,10 +180339,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1600/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -180407,10 +180368,12 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:zinc",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:smoothing",
+   "concern:odour",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -181289,7 +181252,7 @@ const HAIRPRODUCTS = [
   "model": "Thyme Intensive Anti-Dandruff Scalp Shampoo | Zinc Pyrithione ≤1% | Stops Flakes, Reduces …",
   "price": 8000,
   "capacityLine": "500 ml",
-  "materialLine": "Zinc + Zinc pyrithione",
+  "materialLine": "Zinc + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · ₹1600/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -181308,10 +181271,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1600/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Zinc, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -181337,10 +181300,12 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:zinc",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:smoothing",
+   "concern:odour",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -182454,6 +182419,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:wash",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -182531,7 +182497,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Niacinamide, Rosemary, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Dryness / hydration, Smoothing / straightening, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -182569,6 +182535,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:dryness",
    "concern:smoothing",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:oily",
    "aud:unisex",
@@ -182620,7 +182587,7 @@ const HAIRPRODUCTS = [
   "model": "Fall Fighter Scalp Scrub | Deep Cleanse & Detox Scalp Exfoliator for Dandruff & Buildup Re…",
   "price": 499,
   "capacityLine": "30 g",
-  "materialLine": "Rosemary",
+  "materialLine": "Sea salt + Rosemary",
   "featureLine": "Scalp scrub · Sulfate/SLS-free · ₹1663/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -182639,7 +182606,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1663/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Sea salt, Rosemary (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying (seller claim — not clinical proof)",
@@ -182667,6 +182634,8 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:texture-spray",
+   "format:scalp-scrub",
+   "ing:sea-salt",
    "ing:rosemary",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -182769,6 +182738,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:scalp-health",
@@ -182871,6 +182841,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:charcoal",
    "ing:argan-oil",
    "ing:jojoba",
@@ -183029,7 +183000,7 @@ const HAIRPRODUCTS = [
   "model": "Activated Charcoal Anti Dandruff Scrub Shampoo with Rosemary Mint for itchy, flaky scalp (…",
   "price": 526,
   "capacityLine": "200 ml",
-  "materialLine": "Charcoal + Rosemary",
+  "materialLine": "Charcoal + Rosemary + Peppermint / menthol",
   "featureLine": "Shampoo · ₹263/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -183048,7 +183019,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹263/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Charcoal, Rosemary (named on listing)",
+   "keyIngredients": "Charcoal, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -183078,6 +183049,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:charcoal",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "aud:unisex",
@@ -184381,6 +184353,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "aud:women",
@@ -184420,6 +184393,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -184427,6 +184401,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -184795,7 +184770,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:gel",
-   "format:oil",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -184850,7 +184824,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Cream for Men, Anti-Dandruff Action, Classic Gloss Finish, Enriched with Lemon Tea Tr…",
   "price": 279,
   "capacityLine": "100 g",
-  "materialLine": "Tea tree + Lemon",
+  "materialLine": "Tea tree + Lemon + Peppermint / menthol",
   "featureLine": "Cream · ₹279/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -184870,7 +184844,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹279/100g",
    "format": "Cream",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Lemon (named on listing)",
+   "keyIngredients": "Tea tree, Lemon, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Shine / gloss (seller claim — not clinical proof)",
@@ -184899,6 +184873,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "ing:tea-tree",
    "ing:lemon",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:shine",
    "aud:men",
@@ -185541,6 +185516,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -185548,6 +185524,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -185555,6 +185532,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -185562,6 +185540,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -185569,6 +185548,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -186357,7 +186337,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹200/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Tea tree (named on listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Tea tree, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -186393,6 +186373,7 @@ const HAIRPRODUCTS = [
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
+   "ing:lavender",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -186850,7 +186831,7 @@ const HAIRPRODUCTS = [
   "model": "DANDRAGONE Anti-Dandruff Shampoo | With Hinokitiol, Salicylic Acid, Ichthyol Pale & Mentho…",
   "price": 699,
   "capacityLine": "200 ml",
-  "materialLine": "Salicylic acid (BHA)",
+  "materialLine": "Salicylic acid (BHA) + Peppermint / menthol",
   "featureLine": "Shampoo · ₹350/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -186869,7 +186850,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹350/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -186897,6 +186878,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:salicylic-acid-bha",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "aud:women",
@@ -187058,113 +187040,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "dermistry-b0gjqqh25b",
-  "brand": "Dermistry",
-  "model": "Anti-Dandruff Contol Hair Shampoo & Serum Climbazole Piroctone 2% Salicylic Acid for Dryne…",
-  "price": 886,
-  "capacityLine": "250 ml",
-  "materialLine": "Salicylic acid (BHA) + Piroctone olamine + Climbazole",
-  "featureLine": "Shampoo · ₹354/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹354/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Piroctone olamine, Climbazole (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Oily hair / scalp, Curly hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51C+t2GUBAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJQQH25B",
-  "buyStore": "Amazon",
-  "title": "Dermistry Anti-Dandruff Contol Hair Shampoo & Serum Climbazole Piroctone 2% Salicylic Acid for Dryness Flakes Itching Exfoliates Oily Itchy Scalp For Dry Frizzy Curly All Hair Type Men Women 250ML",
-  "tags": [
-   "area:both",
-   "format:serum",
-   "format:shampoo",
-   "ing:salicylic-acid-bha",
-   "ing:piroctone-olamine",
-   "ing:climbazole",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:frizz",
-   "concern:dryness",
-   "hair:dry",
-   "hair:oily",
-   "hair:curly",
-   "hair:all",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -187969,7 +187844,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo 100ml with 2% Salicylic Acid | Dandruff Control Shampoo | Itchy Scal…",
   "price": 149,
   "capacityLine": "100 ml",
-  "materialLine": "Salicylic acid (BHA) + Hydrolysed protein",
+  "materialLine": "Salicylic acid (BHA) + Lavender + Hydrolysed protein",
   "featureLine": "Shampoo · ₹149/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -187989,7 +187864,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹149/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Hydrolysed protein (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Lavender, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -188017,6 +187892,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:salicylic-acid-bha",
+   "ing:lavender",
    "ing:hydrolysed-protein",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -188160,6 +188036,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -188167,6 +188044,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -188174,13 +188052,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -188188,6 +188076,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -188195,6 +188084,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -188202,6 +188092,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -188209,6 +188100,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -188864,7 +188756,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -188891,6 +188783,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
+   "concern:oil-absorbing",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -189658,7 +189551,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Panthenol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density (seller claim — not clinical proof)",
@@ -189688,6 +189581,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -189742,7 +189636,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Castor & Mint Hair Growth Serum 30ml | Hair Strengthening & Scalp Care Oil with R…",
   "price": 599,
   "capacityLine": "30 ml",
-  "materialLine": "Rosemary + Castor oil",
+  "materialLine": "Rosemary + Castor oil + Peppermint / menthol",
   "featureLine": "Serum · ₹1997/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -189762,7 +189656,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1997/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Castor oil (named on listing)",
+   "keyIngredients": "Rosemary, Castor oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Scalp health (seller claim — not clinical proof)",
@@ -189792,6 +189686,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:rosemary",
    "ing:castor-oil",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -192462,7 +192357,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Lavender Amla Hair Oil for Hair Growth & Hair Fall Control | Anti Dandruff, Dry S…",
   "price": 199,
   "capacityLine": "100 ml",
-  "materialLine": "Rosemary + Amla",
+  "materialLine": "Lavender + Rosemary + Amla",
   "featureLine": "Oil · ₹199/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -192481,7 +192376,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹199/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary, Amla (named on listing)",
+   "keyIngredients": "Lavender, Rosemary, Amla (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
@@ -192508,6 +192403,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:oil",
+   "ing:lavender",
    "ing:rosemary",
    "ing:amla",
    "concern:dandruff",
@@ -193925,7 +193821,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Hibiscus, Fenugreek, Curry leaf (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -193957,6 +193853,7 @@ const HAIRPRODUCTS = [
    "concern:oily-scalp",
    "concern:hair-fall",
    "concern:hair-growth",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -194630,7 +194527,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Colloidal oatmeal, Green tea, Aloe vera, Neem, Shea butter, Argan oil, Coconut, Fenugreek, Castor oil (named on listing)",
    "freeFrom": "Silicone-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -194672,6 +194569,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:scalp-health",
+   "concern:detangling",
    "free:silicone",
    "free:derm",
    "aud:unisex",
@@ -194745,7 +194643,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Argan oil, Marula oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -194783,6 +194681,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -194835,7 +194734,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp & Hair Mask Mud Spa (500ml) | Anti Hair Fall & Dandruff Control | Deep Conditioning …",
   "price": 1149,
   "capacityLine": "500 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Hair mask / spa · ₹230/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -194855,7 +194754,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹230/100ml",
    "format": "Hair mask / spa",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Scalp health (seller claim — not clinical proof)",
@@ -194882,6 +194781,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:hair-mask",
+   "ing:sea-salt",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:scalp-health",
@@ -194953,7 +194853,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹237/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Almond, Coconut, Bhringraj, Amla, Hibiscus (named on listing)",
+   "keyIngredients": "Almond, Coconut, Bhringraj, Amla, Hibiscus, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration (seller claim — not clinical proof)",
@@ -194985,6 +194885,7 @@ const HAIRPRODUCTS = [
    "ing:bhringraj",
    "ing:amla",
    "ing:hibiscus",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:dryness",
@@ -197089,7 +196990,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rice water, Neem, Rosemary, Sesame oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Smoothing / straightening, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -197123,6 +197024,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:smoothing",
    "concern:shine",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -197998,7 +197900,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree, Coconut, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -198037,6 +197939,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:frizz",
    "concern:dryness",
+   "concern:odour",
    "hair:oily",
    "aud:women",
    "size:large",
@@ -198087,7 +197990,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo Cool Menthol For Men & Women - 340 ML",
   "price": 303,
   "capacityLine": "340 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹89/100ml",
   "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
@@ -198099,7 +198002,7 @@ const HAIRPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 4.5,
+   "ingredients": 4.6,
    "skin": 4.8,
    "trust": 5.5,
    "experience": 2.9
@@ -198109,10 +198012,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹89/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -198137,7 +198040,9 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:kit",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
+   "concern:odour",
    "hair:coloured",
    "aud:women",
    "size:xl",
@@ -198170,10 +198075,19 @@ const HAIRPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
+    },
+    {
      "name": "zinc pyrithione",
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -198181,6 +198095,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -198188,6 +198103,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -198589,7 +198505,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹207/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Climbazole (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Climbazole, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Scalp health (seller claim — not clinical proof)",
@@ -198621,6 +198537,7 @@ const HAIRPRODUCTS = [
    "ing:zinc-pyrithione",
    "ing:piroctone-olamine",
    "ing:climbazole",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -198662,6 +198579,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -198669,6 +198587,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -198676,6 +198595,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -198683,6 +198603,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -198690,6 +198611,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -198697,6 +198619,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -198704,6 +198627,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -198711,7 +198635,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -199475,6 +199408,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -199482,6 +199416,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -199489,13 +199424,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -199503,6 +199448,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -199510,6 +199456,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -199517,6 +199464,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -199524,6 +199472,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -199757,7 +199706,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo Powder 50g | Travel-Friendly | Powder-to-Foam for Itchy Scalp & Flak…",
   "price": 949,
   "capacityLine": "50 g",
-  "materialLine": "Tea tree + Zinc",
+  "materialLine": "Tea tree + Zinc + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹1898/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -199776,7 +199725,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1898/100g",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Zinc (named on listing)",
+   "keyIngredients": "Tea tree, Zinc, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -199808,6 +199757,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:tea-tree",
    "ing:zinc",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "free:paraben",
@@ -200281,7 +200231,7 @@ const HAIRPRODUCTS = [
   "model": "Professional Oil Control Shampoo For Oily Hair And Scalp Anti Dandruff With Natural Lemon …",
   "price": 157,
   "capacityLine": "200 ml",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹79/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -200300,7 +200250,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹79/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Dryness / hydration (seller claim — not clinical proof)",
@@ -200329,6 +200279,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:shampoo",
    "ing:lemon",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:dryness",
@@ -200810,7 +200761,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -200838,6 +200789,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:oily-scalp",
    "concern:shine",
+   "concern:odour",
    "hair:oily",
    "aud:unisex",
    "size:xl",
@@ -201212,7 +201164,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Hyaluronic acid, Vitamin B5 / panthenol, Lemon, Keratin, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -201253,6 +201205,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:shine",
+   "concern:odour",
    "hair:dry",
    "hair:oily",
    "hair:damaged",
@@ -201944,7 +201897,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dryness / hydration, Smoothing / straightening, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -201972,6 +201925,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "concern:dryness",
    "concern:smoothing",
+   "concern:odour",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -202211,6 +202165,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairOils"
     },
     {
@@ -202218,6 +202173,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -202225,6 +202181,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -202232,6 +202189,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -202239,6 +202197,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -202246,6 +202205,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -202253,6 +202213,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -202260,6 +202221,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -202267,6 +202229,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "teaTreeDandruff"
     }
    ],
@@ -203537,7 +203500,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹499/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Colloidal oatmeal, Collagen, Aloe vera, Vitamin B5 / panthenol, Keratin, Biotin, Panthenol (named on listing)",
+   "keyIngredients": "Colloidal oatmeal, Collagen, Aloe vera, Vitamin B5 / panthenol, Lavender, Keratin, Biotin, Panthenol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
    "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Smoothing / straightening, Scalp health (seller claim — not clinical proof)",
@@ -203573,6 +203536,7 @@ const HAIRPRODUCTS = [
    "ing:collagen",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "ing:lavender",
    "ing:keratin",
    "ing:biotin",
    "ing:panthenol",
@@ -204264,7 +204228,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "AHA, Vitamin E, Argan oil, Olive, Onion, Keratin, Dimethicone / silicones (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health, Detangling (seller claim — not clinical proof)",
    "hairType": "Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -204309,6 +204273,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:scalp-health",
+   "concern:detangling",
    "hair:coloured",
    "hair:all",
    "free:paraben",
@@ -205345,7 +205310,6 @@ const HAIRPRODUCTS = [
   "title": "Fix My Curls Clarifying Shampoo | With AHA 0.1% + BHA 0.2%, Green Tea & Aloe Vera | Removes Buildup & Excess Oil | For Curly & Wavy Hair | Weekly Scalp Detox | 100ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:conditioner",
@@ -205559,7 +205523,6 @@ const HAIRPRODUCTS = [
   "title": "Cafune Clarifying Shampoo 150ml | Deep Scalp Cleansing Shampoo | Removes Excess Oil & Build Up | Fresh Clean Hair Feel | Suitable for All Hair Types",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "concern:scalp-buildup",
@@ -206739,6 +206702,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -206746,6 +206710,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -206753,6 +206718,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -206760,6 +206726,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -206767,6 +206734,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -209144,6 +209112,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -209151,6 +209120,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -209158,6 +209128,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -210259,7 +210230,6 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Shampoo | Helps Reduce Dandruff & Flakes | Scalp Clarifying Formula | pH Balanced | ZPTO, Neem & Rosemary Extracts | Non-Drying & Hydrating | For Clean, Healthy Scalp & Smooth Hair | Unisex | Suitable for All Hair Types",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
@@ -211527,6 +211497,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -211534,6 +211505,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -211541,6 +211513,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -211548,6 +211521,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     }
    ],
@@ -213467,7 +213441,7 @@ const HAIRPRODUCTS = [
   "model": "Blue Medicated Anti-Dandruff Shampoo with Menthol, Maximum Strength, Selenium Sulfide 1%, …",
   "price": 2198,
   "capacityLine": "325 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Peppermint / menthol",
   "featureLine": "Shampoo · ₹676/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -213487,7 +213461,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹676/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -213514,6 +213488,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "size:xl",
@@ -213973,105 +213948,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "sathritha-b0gdq5hqg3",
-  "brand": "Sathritha",
-  "model": "Ayurvedic Hair Cleanser 400ml, Herbal Reetha Shampoo for Hairfall Control, Dandruff Care &…",
-  "price": 399,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · ₹100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹100/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Premature greying (claim) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51IKzSfh9fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GDQ5HQG3",
-  "buyStore": "Amazon",
-  "title": "Sathritha Ayurvedic Hair Cleanser 400ml, Herbal Reetha Shampoo for Hairfall Control, Dandruff Care & White Hairs, Helps Improve Thick, Strong Hair for Men & Women, 200ml X 2 | Since 1881",
-  "tags": [
-   "area:scalp",
-   "format:wash",
-   "format:shampoo",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "concern:greying",
-   "aud:women",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
   }
  },
  {
@@ -215765,7 +215641,6 @@ const HAIRPRODUCTS = [
   "title": "Anti Dandruff Shampoo with Zinc Pyrithione Tea Tree Extract & Biotin for Flake Control Itchy Scalp Care Men Women 250ml (Pack of 1)",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:kit",
    "format:shampoo",
@@ -216090,7 +215965,6 @@ const HAIRPRODUCTS = [
   "title": "Pure Nutrition Tea Tree Anti-Dandruff Conditioner, 200ml | With Salicylic Acid & Zinc Pyrithione | Sulphate & Paraben Free | Controls Flakes & Itching | For All Hair Types",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:conditioner",
    "format:texture-spray",
@@ -216613,7 +216487,6 @@ const HAIRPRODUCTS = [
   "title": "FCL T-Shampoo For Dandruff, Itchy Scalp, Scalp Psoriasis & Seborrheic Dermatitis | Removes Excess Oil & Flake Free Scalp | Anti Dandruff Shampoo | Sulphate & Paraben Free | For Sensitive Skin - 200 ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -216669,7 +216542,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp Scrub with Natural AHAs, Coconut & Sugar | Get Up To 99% Dandruff Reduction | Dandru…",
   "price": 549,
   "capacityLine": "250 g",
-  "materialLine": "Coconut",
+  "materialLine": "Coconut + Sugar",
   "featureLine": "Scalp scrub · Paraben-free · ₹220/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -216688,7 +216561,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹220/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut (named on listing)",
+   "keyIngredients": "Coconut, Sugar (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -216715,7 +216588,9 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:coconut",
+   "ing:sugar",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -216816,6 +216691,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
    "aud:unisex",
    "size:large",
@@ -216914,6 +216790,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -217014,6 +216891,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:kit",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -217067,7 +216945,7 @@ const HAIRPRODUCTS = [
   "model": "Scalp Scrub 100gm | Purifying Hair & Scalp Exfoliator for Dandruff, Dry Scalp & Build‑Up |…",
   "price": 719,
   "capacityLine": "100 g",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Sea salt",
   "featureLine": "Scalp scrub · ₹719/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -217086,7 +216964,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹719/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Dryness / hydration (seller claim — not clinical proof)",
@@ -217113,6 +216991,8 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
+   "ing:sea-salt",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:dryness",
@@ -217312,6 +217192,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:coconut",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -217407,6 +217288,7 @@ const HAIRPRODUCTS = [
   "title": "Hair Scalp Scrubber, Scalp Exfoliator | Dandruff Removal, Prevents Hair loss (Green)",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:hair-fall",
@@ -217708,7 +217590,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:lotion",
-   "format:oil",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -218454,6 +218335,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     }
    ],
@@ -218810,10 +218692,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹2339/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Piroctone olamine, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Tea tree, Piroctone olamine, Hydrolysed protein, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -218847,6 +218729,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:piroctone-olamine",
    "ing:hydrolysed-protein",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -218854,6 +218737,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:odour",
    "hair:all",
    "free:paraben",
    "free:silicone",
@@ -219875,7 +219759,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:hair-tonic",
@@ -221589,7 +221472,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Scalp Serum With Tea Tree & Rosemary Extracts 50ml | No parabens, No dyes",
   "price": 419,
   "capacityLine": "50 ml",
-  "materialLine": "Tea tree + Rosemary",
+  "materialLine": "Tea tree + Rosemary + Peppermint / menthol",
   "featureLine": "Serum · Paraben-free · ₹838/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -221608,7 +221491,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹838/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Rosemary (named on listing)",
+   "keyIngredients": "Tea tree, Rosemary, Peppermint / menthol, Vetiver (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Restylable / no flakes (seller claim — not clinical proof)",
@@ -221645,6 +221528,8 @@ const HAIRPRODUCTS = [
    "format:texture-spray",
    "ing:tea-tree",
    "ing:rosemary",
+   "ing:peppermint-menthol",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:restyle",
@@ -222018,7 +221903,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -222047,6 +221932,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:all",
    "aud:unisex",
@@ -222597,220 +222483,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "bare-anatomy-b0f5kqh5bl",
-  "brand": "Bare Anatomy",
-  "model": "Expert Anti-Dandruff Shampoo 250ml + Bare Anatomy Advanced Hair Growth Serum 30ml | Thick …",
-  "price": 1099,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · ₹440/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹440/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51CGqoBNsQL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F5KQH5BL",
-  "buyStore": "Amazon",
-  "title": "Bare Anatomy Expert Anti-Dandruff Shampoo 250ml + Bare Anatomy Advanced Hair Growth Serum 30ml | Thick Density | Hair growth & Hair fall control serum for Women & Men | Dandruff Reduction | Targets Oily Scalp & Sheds Dry Flakes",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:shampoo",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:dryness",
-   "hair:oily",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "bare-anatomy-b0d5cz54hn",
-  "brand": "Bare Anatomy",
-  "model": "Expert Anti-Dandruff Shampoo 250ml + Bare Anatomy Advanced Hair Growth Serum 30ml | Thick …",
-  "price": 1113,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · ₹445/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹445/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp, Damaged hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51vjR2MywML._SL1001_.jpg",
-   "https://m.media-amazon.com/images/I/51QuF+V4vkL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61nGduMTt5L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/71PqiL0k3VL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61AJUn5cpeL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D5CZ54HN",
-  "buyStore": "Amazon",
-  "title": "Bare Anatomy Expert Anti-Dandruff Shampoo 250ml + Bare Anatomy Advanced Hair Growth Serum 30ml | Thick Density | Hair growth & Hair fall control serum for Women & Men | Dandruff Reduction | Targets Oily Scalp & Sheds Dry Flakes",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:kit",
-   "format:shampoo",
-   "concern:dandruff",
-   "concern:oily-scalp",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:thinning",
-   "concern:damage-repair",
-   "concern:dryness",
-   "hair:oily",
-   "hair:damaged",
-   "hair:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
   "id": "the-body-shop-b0bgmckd1c",
   "brand": "The Body Shop",
   "model": "Ginger Scalp Serum",
@@ -222932,7 +222604,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Shine / gloss, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Shine / gloss, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -222966,6 +222638,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:shine",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:oily",
    "hair:all",
@@ -223217,7 +222890,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary Hair Growth Serum | Hair Fall Control with 2% Redensyl, Procapil, AnaGain, Argini…",
   "price": 399,
   "capacityLine": "30 ml",
-  "materialLine": "Peptides + Redensyl + Procapil",
+  "materialLine": "Peptides + Copper peptide + Redensyl",
   "featureLine": "Serum · ₹1330/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -223236,10 +222909,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1330/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Peptides, Redensyl, Procapil, Anagain, Rosemary (named on listing)",
+   "keyIngredients": "Peptides, Copper peptide, Redensyl, Procapil, Anagain, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -223269,6 +222942,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:texture-spray",
    "ing:peptides",
+   "ing:copper-peptide",
    "ing:redensyl",
    "ing:procapil",
    "ing:anagain",
@@ -223280,6 +222954,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:damaged",
    "hair:all",
@@ -224346,6 +224021,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -224353,6 +224029,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -224360,6 +224037,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -224367,6 +224045,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -224374,6 +224053,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -224381,6 +224061,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     }
    ],
@@ -225219,7 +224900,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Redensyl, Procapil, Anagain (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, Curly hair, Wavy hair, Damaged hair, Coloured / chemically treated, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -225257,6 +224938,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:volume",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:curly",
    "hair:wavy",
@@ -225536,7 +225218,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Amla, Brahmi (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -225571,6 +225253,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:shine",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:oily",
    "hair:damaged",
@@ -225850,7 +225533,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Mineral oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Damage repair, Dryness / hydration, Smoothing / straightening, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -225887,6 +225570,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:damaged",
    "aud:unisex",
    "size:travel",
@@ -228916,7 +228600,7 @@ const HAIRPRODUCTS = [
   "model": "Kids Hair Oil for Kids, Extra Virgin Coconut & Mint, 100ml | Ginger, Wintergreen & Brahmi.…",
   "price": 299,
   "capacityLine": "100 ml",
-  "materialLine": "Coconut + Brahmi",
+  "materialLine": "Coconut + Brahmi + Peppermint / menthol",
   "featureLine": "Oil · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -228935,7 +228619,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹299/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Coconut, Brahmi (named on listing)",
+   "keyIngredients": "Coconut, Brahmi, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Itchy scalp, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
@@ -228964,6 +228648,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:coconut",
    "ing:brahmi",
+   "ing:peppermint-menthol",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:restyle",
@@ -229649,7 +229334,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹293/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem, Mineral oil, Bhringraj (named on listing)",
+   "keyIngredients": "Neem, Mineral oil, Bhringraj, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
@@ -229683,6 +229368,7 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "ing:mineral-oil",
    "ing:bhringraj",
+   "ing:vetiver",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-growth",
@@ -231098,7 +230784,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Vitamin E (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -231127,6 +230813,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -232468,7 +232155,7 @@ const HAIRPRODUCTS = [
   "model": "ChillTress Hair Cream | Argan & Peppermint Natural Hair Cream for Dandruff & Hair Fall | N…",
   "price": 795,
   "capacityLine": "40 g",
-  "materialLine": "Argan oil",
+  "materialLine": "Argan oil + Peppermint / menthol",
   "featureLine": "Leave-in · ₹1988/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -232488,7 +232175,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1988/100g",
    "format": "Leave-in",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Argan oil (named on listing)",
+   "keyIngredients": "Argan oil, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Dryness / hydration (seller claim — not clinical proof)",
@@ -232517,6 +232204,7 @@ const HAIRPRODUCTS = [
    "format:cream",
    "format:leave-in",
    "ing:argan-oil",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:dryness",
@@ -233062,6 +232750,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -233069,6 +232758,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "sawPalmetto"
     }
    ],
@@ -233218,6 +232908,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -233679,7 +233370,7 @@ const HAIRPRODUCTS = [
   "model": "Kids Anti-Dandruff Shampoo, 200ml Pack of 2 | Wintergreen, Mint & Activated Charcoal, For …",
   "price": 309,
   "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Charcoal + Coconut",
+  "materialLine": "Charcoal + Coconut + Peppermint / menthol",
   "featureLine": "Shampoo · Sulfate/SLS-free · ₹77/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -233698,7 +233389,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹77/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Charcoal, Coconut (named on listing)",
+   "keyIngredients": "Charcoal, Coconut, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -233729,6 +233420,7 @@ const HAIRPRODUCTS = [
    "format:conditioner",
    "ing:charcoal",
    "ing:coconut",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -233976,6 +233668,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -233983,6 +233676,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -233990,13 +233684,23 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "glycerin"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "guar hydroxypropyltrimonium chloride",
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -234004,6 +233708,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 44,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -234011,6 +233716,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 70,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -234692,13 +234398,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "charcoal powder",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     },
     {
      "name": "caffeine",
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "caffeineHair"
     },
     {
@@ -234706,6 +234422,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -234713,6 +234430,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -234720,6 +234438,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -235272,6 +234991,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -235279,6 +234999,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -235286,13 +235007,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "piroctone olamine",
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -235300,6 +235031,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -235307,6 +235039,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -235314,6 +235047,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     },
     {
@@ -235321,6 +235055,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -236375,7 +236110,7 @@ const HAIRPRODUCTS = [
   "model": "Intense Repair Shampoo with Reetha, Shikakai & Calendula 100ml(Pack of 2)| Dry, Damaged an…",
   "price": 299,
   "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Calendula",
   "featureLine": "Shampoo · Sulfate/SLS-free · ₹150/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -236394,7 +236129,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹150/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Calendula (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Frizz control, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
@@ -236423,6 +236158,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:kit",
    "format:shampoo",
+   "ing:calendula",
    "concern:frizz",
    "concern:damage-repair",
    "concern:dryness",
@@ -236597,7 +236333,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹125/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Green tea, Mineral oil, Hibiscus, Biotin (named on listing)",
+   "keyIngredients": "Green tea, Mineral oil, Hibiscus, Biotin, Formaldehyde (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair fall / shedding, Damage repair, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -236634,6 +236370,7 @@ const HAIRPRODUCTS = [
    "ing:mineral-oil",
    "ing:hibiscus",
    "ing:biotin",
+   "ing:formaldehyde",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -236696,7 +236433,7 @@ const HAIRPRODUCTS = [
   "model": "Aromatherapy, Oil Balance Shampoo, For Oily Scalp & Anti- Dandruff, Makes Hair Bouncy & Vo…",
   "price": 209,
   "capacityLine": "200 ml",
-  "materialLine": "Vitamin B5 / panthenol + Lemon + Panthenol",
+  "materialLine": "Vitamin B5 / panthenol + Lemon + Lavender",
   "featureLine": "Shampoo · ₹105/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -236715,7 +236452,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹105/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin B5 / panthenol, Lemon, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin B5 / panthenol, Lemon, Lavender, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Volume / body (seller claim — not clinical proof)",
@@ -236744,6 +236481,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:vitamin-b5-panthenol",
    "ing:lemon",
+   "ing:lavender",
    "ing:panthenol",
    "concern:dandruff",
    "concern:oily-scalp",
@@ -237049,7 +236787,6 @@ const HAIRPRODUCTS = [
   "title": "Deep Cleanse Shampoo in Pack of 2-200ml in both bottles enriched by Lemon and Thyme Extract for Oily Hair, Anti-Dandruff",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:kit",
    "format:shampoo",
@@ -237602,108 +237339,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "passion-b0cf1qhj5j",
-  "brand": "Passion",
-  "model": "Indulge Pink Mania Face Cleanser & Anti-Dandruff & Hair Fall Control Shampoo | Purifying &…",
-  "price": 722,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + AHA + Green tea",
-  "featureLine": "Shampoo",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), AHA, Green tea, Turmeric (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61QliXntk0L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CF1QHJ5J",
-  "buyStore": "Amazon",
-  "title": "Passion Indulge Pink Mania Face Cleanser & Anti-Dandruff & Hair Fall Control Shampoo | Purifying & Oil Controlling with AHA BHA, Turmeric & Green Tea",
-  "tags": [
-   "area:scalp",
-   "format:wash",
-   "format:shampoo",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "ing:green-tea",
-   "ing:turmeric",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "nezal-b0hgnw7tb4",
   "brand": "Nezal",
   "model": "Neem Tulsi Shampoo, 500ml | Dandruff Control, Scalp Care",
@@ -238157,7 +237792,6 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Shampoo with Salicylic Acid, Piroctone Olamine & Biotin | Scalp Cleansing Shampoo for Dandruff, Flakes & Excess Oil | Non-Drying Hair Care Formula | Suitable for Men & Women | 250 ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -240550,105 +240184,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "khadi-b0d9twxd2c",
-  "brand": "Khadi",
-  "model": "100% Pure & Natural Herbal Red Onion Hair Shampoo Sulphate & Paraben Free Hair Cleanser fo…",
-  "price": 189,
-  "capacityLine": "400 ml",
-  "materialLine": "Onion",
-  "featureLine": "Shampoo · Paraben-free · ₹47/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹47/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Onion (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71IvrQB3aYL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D9TWXD2C",
-  "buyStore": "Amazon",
-  "title": "Khadi 100% Pure & Natural Herbal Red Onion Hair Shampoo Sulphate & Paraben Free Hair Cleanser for Hair Fall & Dandruff Control, For Women & Men - 400Ml with Khadi India Logo",
-  "tags": [
-   "area:scalp",
-   "format:wash",
-   "format:shampoo",
-   "ing:onion",
-   "concern:dandruff",
-   "concern:hair-fall",
-   "free:paraben",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
   "id": "harida-herbal-b0f6jzm3p1",
   "brand": "Harida Herbal",
   "model": "Red Onion Hair Shampoo | Onion Extract Shampoo for Hair Growth, Hair Fall Control | Anti-D…",
@@ -241730,7 +241265,6 @@ const HAIRPRODUCTS = [
   "title": "Prime Caf-une Clarifying Conditioning Shampoo | Deep Scalp Cleanse & Lightweight Hydration | Removes Build-Up & Excess Oil | Sulphate-Free | For All Hair Types",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -242703,7 +242237,7 @@ const HAIRPRODUCTS = [
   "model": "Dry Shampoo | 100% Natural Ingredients Like Rice Starch | Instantly Refresh & Add Volume |…",
   "price": 849,
   "capacityLine": "200 ml",
-  "materialLine": "Rice water",
+  "materialLine": "Rice water + Starch / rice powder",
   "featureLine": "Dry shampoo · ₹425/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -242722,10 +242256,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹425/100ml",
    "format": "Dry shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rice water (named on listing)",
+   "keyIngredients": "Rice water, Starch / rice powder (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Volume / body (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -242755,8 +242289,8 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "format:dry-shampoo",
    "ing:rice-water",
+   "ing:starch-rice-powder",
    "concern:dandruff",
-   "concern:dryness",
    "concern:volume",
    "hair:all",
    "aud:unisex",
@@ -242830,7 +242364,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Odour / fragrance / freshness, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -242857,7 +242391,8 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "format:dry-shampoo",
-   "concern:dryness",
+   "concern:odour",
+   "concern:oil-absorbing",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -245630,7 +245165,6 @@ const HAIRPRODUCTS = [
   "title": "Zohair Anti-Dandruff Shampoo | With Piroctone Olamine, Ichthyol Pale, Wheat Protein & Pro-Vitamin B5 | Reduce Dandruff & Scalp Flakes | Nourishes Hair & Scalp | 100ml | pack of 2",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:kit",
    "format:shampoo",
@@ -245685,108 +245219,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "the-phrase-b0ddclvy3m",
-  "brand": "The pHrase",
-  "model": "Unisex Anti Dandruff Shampoo 200ml and Scalp Serum 100ml with with Salicylic Acid | Ayurve…",
-  "price": 398,
-  "capacityLine": "200 ml",
-  "materialLine": "Salicylic acid (BHA)",
-  "featureLine": "Shampoo · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Okkr+5VEL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DDCLVY3M",
-  "buyStore": "Amazon",
-  "title": "Unisex Anti Dandruff Shampoo 200ml and Scalp Serum 100ml with with Salicylic Acid | Ayurvedic & Herbal | Controls Flakes Soothes, Dry Itchy Scalp, Hair Roots & Improves Hair Texture",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:shampoo",
-   "format:texture-spray",
-   "ing:salicylic-acid-bha",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:dryness",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -249480,106 +248912,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "jovees-b0hglz7kdp",
-  "brand": "Jovees",
-  "model": "Herbal Thyme & Tea Tree Anti Dandruff Shampoo 300ml And AHA Natural Fruit Extracts Conditi…",
-  "price": 507,
-  "capacityLine": "300 ml",
-  "materialLine": "AHA + Tea tree",
-  "featureLine": "Shampoo · ₹169/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹169/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "AHA, Tea tree (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51G9ecieR6L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HGLZ7KDP",
-  "buyStore": "Amazon",
-  "title": "Jovees Herbal Thyme & Tea Tree Anti Dandruff Shampoo 300ml And AHA Natural Fruit Extracts Conditioner For Smooth, Silky And Tangle Free Hair 300ml",
-  "tags": [
-   "area:scalp",
-   "format:shampoo",
-   "format:conditioner",
-   "ing:aha",
-   "ing:tea-tree",
-   "concern:dandruff",
-   "concern:smoothing",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Jovees Herbal Care India",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.jovees.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "top-quality-store-b0c28hk6tz",
   "brand": "Top Quality Store",
   "model": "Anti-Dandruff Shampoo 200ml Made With Amla, Tea Tree, Rosemary, Neem Extract",
@@ -250174,6 +249506,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -250181,6 +249514,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -250188,6 +249522,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -250195,6 +249530,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -250202,6 +249538,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -250209,6 +249546,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -251193,7 +250531,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹275/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Zinc, Lemon, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Tea tree, Zinc, Lemon, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -251227,6 +250565,7 @@ const HAIRPRODUCTS = [
    "ing:zinc",
    "ing:lemon",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "size:large",
@@ -253262,7 +252601,6 @@ const HAIRPRODUCTS = [
   "title": "100% Organic Professional Anti Dandruff Shampoo for Women and Men | Free from Paraben and Sulphate",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:conditioner",
@@ -253321,7 +252659,7 @@ const HAIRPRODUCTS = [
   "model": "Professional Dandruff Care Shampoo with ZPTO & Menthol, No Paraben, No PEG, No Mineral Oil…",
   "price": 499,
   "capacityLine": "300 ml",
-  "materialLine": "Mineral oil + Zinc pyrithione",
+  "materialLine": "Mineral oil + Zinc pyrithione + Peppermint / menthol",
   "featureLine": "Shampoo · Paraben-free · ₹166/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -253341,7 +252679,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹166/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Mineral oil, Zinc pyrithione (named on listing)",
+   "keyIngredients": "Mineral oil, Zinc pyrithione, Peppermint / menthol (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -253371,6 +252709,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:mineral-oil",
    "ing:zinc-pyrithione",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "free:paraben",
    "aud:unisex",
@@ -253825,6 +253164,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -253832,6 +253172,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
     },
     {
@@ -253839,6 +253180,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -253846,6 +253188,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -253853,6 +253196,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -253860,6 +253204,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -253867,6 +253212,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -253874,6 +253220,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "thermalProtect"
     }
    ],
@@ -254271,6 +253618,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:walnut",
    "ing:curry-leaf",
    "concern:dandruff",
@@ -254375,6 +253723,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:pha",
@@ -254478,6 +253827,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -254577,6 +253927,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:coffee",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -254675,6 +254026,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -254781,6 +254133,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
    "aud:unisex",
    "size:large",
@@ -254818,6 +254171,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -254825,6 +254179,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -254832,6 +254187,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -254839,13 +254195,31 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "C",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "salicylic acid",
      "grade": "B",
      "position": 44,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -254853,6 +254227,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 46,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -254954,6 +254329,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -255052,6 +254428,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -255152,6 +254529,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
    "aud:unisex",
    "size:large",
@@ -255248,6 +254626,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
    "concern:thinning",
    "concern:dryness",
@@ -255348,6 +254727,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:scalp-health",
@@ -255402,7 +254782,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Lotion for Men [60ml] | Instant Itch Relief & Cooling with Menthol & Tea Tre…",
   "price": 349,
   "capacityLine": "60 ml",
-  "materialLine": "Tea tree",
+  "materialLine": "Tea tree + Peppermint / menthol",
   "featureLine": "Lotion · ₹582/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -255421,7 +254801,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹582/100ml",
    "format": "Lotion",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree (named on listing)",
+   "keyIngredients": "Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -255450,6 +254830,7 @@ const HAIRPRODUCTS = [
    "format:lotion",
    "format:oil",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "aud:men",
@@ -256402,7 +255783,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Advanced Tonic 100ml Scalp Serum Spray For Men & Women | Niacinamide 3%, Thy…",
   "price": 299,
   "capacityLine": "100 ml",
-  "materialLine": "Niacinamide",
+  "materialLine": "Niacinamide + Peppermint / menthol",
   "featureLine": "Spray · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -256422,7 +255803,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹299/100ml",
    "format": "Spray",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Niacinamide (named on listing)",
+   "keyIngredients": "Niacinamide, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -256451,8 +255832,8 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -256603,7 +255984,7 @@ const HAIRPRODUCTS = [
   "model": "Intant Dandruff Removal Gel, Anti Dandruff | Soothes Itchy Scalp | Reduces Flakes & Irrita…",
   "price": 359,
   "capacityLine": "100 g",
-  "materialLine": "Lemon",
+  "materialLine": "Lemon + Peppermint / menthol",
   "featureLine": "Gel · ₹359/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -256622,7 +256003,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹359/100g",
    "format": "Gel",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
+   "keyIngredients": "Lemon, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair growth (claim), Restylable / no flakes (seller claim — not clinical proof)",
@@ -256651,6 +256032,7 @@ const HAIRPRODUCTS = [
    "format:gel",
    "format:wash",
    "ing:lemon",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-growth",
@@ -256754,7 +256136,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:serum",
-   "format:oil",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -257235,7 +256616,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Smoothing / straightening (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Smoothing / straightening, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -257262,7 +256643,6 @@ const HAIRPRODUCTS = [
   "title": "Sri Sri Tattva Anti Dandruff Shampoo | Removes Dandruff from Source | Helps Soothe Scalp, Itching, and Irritation | For Men & Women - 200 ml | Pack Of 2",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:kit",
    "format:shampoo",
    "format:texture-spray",
@@ -257272,6 +256652,7 @@ const HAIRPRODUCTS = [
    "concern:scalp-buildup",
    "concern:oily-scalp",
    "concern:smoothing",
+   "concern:detangling",
    "aud:women",
    "size:xl",
    "rating:4.0",
@@ -258575,7 +257956,6 @@ const HAIRPRODUCTS = [
   "title": "Aaranyam’s Scalp Revitalizer Shampoo Bar Infused with 2% Salicylic Acid-Aaranyam’s Scalp Revitalizer Shampoo Bar, infused with 2% Salicylic Acid, is a natural and environmentally conscious hair care solution. Crafted to balance excess oil, calm the scalp, and reduce dandruff, this shampoo bar provides a gentle yet effective cleanse. Free from parabens and sulfates, it leaves your scalp feeling refreshed and healthy after every wash.",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -258797,7 +258177,6 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Shampoo | Dandruff Reduction After First Wash | Dandruff Reduction After First Wash | 2% Salicylic Acid & Hydrolyzed Silk Protein",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -258875,7 +258254,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹125/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Zinc pyrithione, Piroctone olamine, Biotin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Zinc pyrithione, Piroctone olamine, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -258907,6 +258286,7 @@ const HAIRPRODUCTS = [
    "ing:zinc-pyrithione",
    "ing:piroctone-olamine",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "size:large",
@@ -259349,6 +258729,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -259356,6 +258737,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -259363,6 +258745,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -259658,7 +259041,6 @@ const HAIRPRODUCTS = [
   "title": "Hair Shine Shampoo Anti Dandruff Hair Fall Control Shampoo With Neem & Aloevera Natural Extract | Strengthen & Nourished Hair Paraben & Sulphate Free 300ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:neem",
@@ -259741,7 +259123,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), AHA, Tea tree (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -259769,7 +259151,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:serum",
-   "format:oil",
    "format:shampoo",
    "format:conditioner",
    "format:hair-mask",
@@ -259784,6 +259165,7 @@ const HAIRPRODUCTS = [
    "concern:frizz",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:dry",
    "free:vegan",
    "aud:women",
@@ -260034,6 +259416,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -260041,6 +259424,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -260088,7 +259472,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA) (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Dryness / hydration, Smoothing / straightening, Scalp health, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Dryness / hydration, Smoothing / straightening, Scalp health, Restylable / no flakes, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -260125,6 +259509,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:scalp-health",
    "concern:restyle",
+   "concern:odour",
    "hair:oily",
    "hair:all",
    "aud:women",
@@ -260168,108 +259553,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "root-botanie-b0fgjf5qn7",
-  "brand": "Root botanie",
-  "model": "FOLLIWISE Men Hair Vital Serum + Anti-Pollution Dandruff Protect Scalp Cleanser | Strength…",
-  "price": 1049,
-  "capacityLine": "230 ml",
-  "materialLine": "Redensyl + Procapil",
-  "featureLine": "Serum · Sulfate/SLS-free · ₹456/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "230 ml",
-   "pricePer100": "₹456/100ml",
-   "format": "Serum",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Redensyl, Procapil (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71dc1kt8htL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FGJF5QN7",
-  "buyStore": "Amazon",
-  "title": "FOLLIWISE Men Hair Vital Serum + Anti-Pollution Dandruff Protect Scalp Cleanser | Strengthens Roots, Balances Oil & Scalp Health | Redensyl®, Procapil™, Exosomes | Sulphate-Free, 230ml",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:oil",
-   "format:wash",
-   "ing:redensyl",
-   "ing:procapil",
-   "concern:dandruff",
-   "concern:scalp-health",
-   "free:sulfate",
-   "aud:men",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -260706,7 +259989,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -260741,6 +260024,7 @@ const HAIRPRODUCTS = [
    "concern:oily-scalp",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -262060,7 +261344,6 @@ const HAIRPRODUCTS = [
   "title": "Anti Dandruff Shampoo, 200 ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:piroctone-olamine",
@@ -262331,7 +261614,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Charcoal (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, Oily hair / scalp, Curly hair, Straight hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -262358,7 +261641,6 @@ const HAIRPRODUCTS = [
   "title": "VEDICDERM Plasma Bamboo Charcoal Shampoo 200ml | Clinically Proven For Scalp Psoriasis, Dandruff & Sensitivity | Relieves Itching, Flaking & Dryness | SLS, Paraben & Irritants Free|Daily Hair Cleanser",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
@@ -262369,6 +261651,7 @@ const HAIRPRODUCTS = [
    "concern:oily-scalp",
    "concern:hair-growth",
    "concern:dryness",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:oily",
    "hair:curly",
@@ -262622,7 +261905,7 @@ const HAIRPRODUCTS = [
   "model": "Organic Argan Oil Shampoo for Dry Hair and Scalp. The Only pH 5.5 Balanced Dandruff Shampo…",
   "price": 2840,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Argan oil",
+  "materialLine": "Argan oil + Lavender",
   "featureLine": "Shampoo",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -262641,7 +261924,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Argan oil (named on listing)",
+   "keyIngredients": "Argan oil, Lavender (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
@@ -262670,6 +261953,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:shampoo",
    "ing:argan-oil",
+   "ing:lavender",
    "concern:dandruff",
    "concern:dryness",
    "hair:dry",
@@ -263409,6 +262693,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -263416,6 +262701,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -263423,6 +262709,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -263430,6 +262717,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -263437,6 +262725,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     },
     {
@@ -263444,6 +262733,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -263451,6 +262741,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -263458,6 +262749,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -264114,7 +263406,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Growth Scalp Treatment - Rosemary & Peppermint Oil Blend (1 fl oz)",
   "price": 399,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Oil",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -264134,7 +263426,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair growth (claim) (seller claim — not clinical proof)",
@@ -264162,6 +263454,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:hair-growth",
    "aud:unisex",
    "rating:none",
@@ -265239,7 +264532,7 @@ const HAIRPRODUCTS = [
   "model": "Herbal Rosemary Water with Mint Hair Growth Spray, Hair Fall Control & Regrowth Mist, Anti…",
   "price": 99,
   "capacityLine": "200 ml",
-  "materialLine": "Rosemary",
+  "materialLine": "Rosemary + Peppermint / menthol",
   "featureLine": "Leave-in · ₹50/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -265259,7 +264552,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹50/100ml",
    "format": "Leave-in",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair fall / shedding, Hair growth (claim) (seller claim — not clinical proof)",
@@ -265290,6 +264583,7 @@ const HAIRPRODUCTS = [
    "format:leave-in",
    "format:hair-tonic",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -265433,6 +264727,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -265440,6 +264735,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -265447,6 +264743,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -265454,6 +264751,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -265461,6 +264759,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     },
     {
@@ -265468,6 +264767,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -265475,6 +264775,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -265482,6 +264783,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -265986,6 +265288,7 @@ const HAIRPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:hair-tonic",
+   "format:hair-perfume",
    "ing:rosemary",
    "ing:fenugreek",
    "concern:dandruff",
@@ -266473,7 +265776,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Caffeine, Rice water, Mineral oil, Redensyl, Procapil, Anagain, Baicapil, Biotin, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Smoothing / straightening, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Smoothing / straightening, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -266516,6 +265819,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:oily",
    "aud:women",
    "size:travel",
@@ -266701,7 +266005,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem, Vitamin B5 / panthenol, Keratin, Panthenol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Frizz control, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Frizz control, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Detangling (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -266741,6 +266045,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:detangling",
    "free:sulfate",
    "aud:unisex",
    "rating:4.0",
@@ -268897,7 +268202,7 @@ const HAIRPRODUCTS = [
   "model": "Herbal Hair Growth Serum for Men & Women | Overnight Scalp Treatment with Bhringraj, Hibis…",
   "price": 997,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Peptides + Bhringraj + Hibiscus",
+  "materialLine": "Peptides + Copper peptide + Bhringraj",
   "featureLine": "Leave-in",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -268917,7 +268222,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Leave-in",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Peptides, Bhringraj, Hibiscus (named on listing)",
+   "keyIngredients": "Peptides, Copper peptide, Bhringraj, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Hair fall / shedding, Hair growth (claim), Thinning / density (seller claim — not clinical proof)",
@@ -268946,6 +268251,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:leave-in",
    "ing:peptides",
+   "ing:copper-peptide",
    "ing:bhringraj",
    "ing:hibiscus",
    "concern:hair-fall",
@@ -269399,6 +268705,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -269406,6 +268713,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -270650,7 +269958,7 @@ const HAIRPRODUCTS = [
   "model": "Advanced Anti-Dandruff Khadi Shampoo with ZPTO, Omega, and Lavender | Controls Dandruff, S…",
   "price": 299,
   "capacityLine": "420 ml",
-  "materialLine": "Zinc pyrithione",
+  "materialLine": "Lavender + Zinc pyrithione",
   "featureLine": "Shampoo · Paraben-free · ₹71/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -270669,7 +269977,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹71/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Zinc pyrithione (named on listing)",
+   "keyIngredients": "Lavender, Zinc pyrithione (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -270696,6 +270004,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:shampoo",
+   "ing:lavender",
    "ing:zinc-pyrithione",
    "concern:dandruff",
    "free:paraben",
@@ -270996,6 +270305,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:serum",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -271093,6 +270403,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:rosemary",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -271198,6 +270509,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "ing:turmeric",
    "ing:panthenol",
    "concern:dandruff",
@@ -271299,9 +270611,9 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Herbal Scalp Scrub 100g | Deep Cleansing Scalp Exfoliator, For Dandruff, Excess Oil & Product Buildup, Refreshing Herbal Hair Care, For Men & Women",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:scrub",
    "format:wash",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -271400,6 +270712,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "concern:scalp-buildup",
    "aud:unisex",
    "size:standard",
@@ -271674,7 +270987,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Smoothing / straightening, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Smoothing / straightening, Scalp health, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -271702,6 +271015,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:smoothing",
    "concern:scalp-health",
+   "concern:odour",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -272340,108 +271654,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "neutriderm-b0gjdt9q8k",
-  "brand": "Neutriderm",
-  "model": "Anti-Dandruff Shampoo -Scalp Care & Neutriderm Moisturizing Lotion with Vitamin E for Dry …",
-  "price": 1950,
-  "capacityLine": "120 ml",
-  "materialLine": "Vitamin E",
-  "featureLine": "Shampoo · ₹1625/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹1625/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
-   "hairType": "Dry hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71AExBC35VL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJDT9Q8K",
-  "buyStore": "Amazon",
-  "title": "Neutriderm Anti-Dandruff Shampoo -Scalp Care & Neutriderm Moisturizing Lotion with Vitamin E for Dry Skin (120ml +125ml)",
-  "tags": [
-   "area:scalp",
-   "format:lotion",
-   "format:shampoo",
-   "ing:vitamin-e",
-   "concern:dandruff",
-   "concern:dryness",
-   "concern:scalp-health",
-   "hair:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "mnt-b0dgy4h11r",
   "brand": "MNT",
   "model": "Tea Tree Anti-Dandruff Scalp Serum 100 ml for Dry & Frizzy Hair | Pre Shampoo Treatment fo…",
@@ -272649,7 +271861,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Scalp Spray for Itchy & Flaky Scalp | Rosemary, Tea Tree & Lavender Scalp Mi…",
   "price": 239,
   "capacityLine": "200 ml",
-  "materialLine": "Tea tree + Rosemary",
+  "materialLine": "Tea tree + Lavender + Rosemary",
   "featureLine": "Leave-in · ₹120/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -272668,7 +271880,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹120/100ml",
    "format": "Leave-in",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Rosemary (named on listing)",
+   "keyIngredients": "Tea tree, Lavender, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying (seller claim — not clinical proof)",
@@ -272698,6 +271910,7 @@ const HAIRPRODUCTS = [
    "format:leave-in",
    "format:hair-spray",
    "ing:tea-tree",
+   "ing:lavender",
    "ing:rosemary",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -273483,7 +272696,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹300/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Vitamin B5 / panthenol, Allantoin, Panthenol (named on listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Vitamin B5 / panthenol, Allantoin, Magnesium, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Hair fall / shedding, Frizz control, Damage repair, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -273513,7 +272726,6 @@ const HAIRPRODUCTS = [
   "title": "Ronagen Daily Detox Shampoo | Hard Water Defence with Chelating Technology, 1.5% Salicylic Acid, Niacinamide & Panthenol | Removes Hard Water Mineral Build-Up, Deep Scalp Cleansing Shampoo for Men & Women | Healthy Scalp & Softer Hair | 200ml",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
@@ -273521,6 +272733,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:allantoin",
+   "ing:magnesium",
    "ing:panthenol",
    "concern:scalp-buildup",
    "concern:oily-scalp",
@@ -273631,6 +272844,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:shampoo",
+   "format:scalp-scrub",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -273716,7 +272930,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹333/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin C, Salicylic acid (BHA), Vitamin B5 / panthenol, Piroctone olamine, Panthenol (named on listing)",
+   "keyIngredients": "Vitamin C, Salicylic acid (BHA), Vitamin B5 / panthenol, Piroctone olamine, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness, Hair fall / shedding, Damage repair, Scalp health (seller claim — not clinical proof)",
@@ -273746,13 +272960,13 @@ const HAIRPRODUCTS = [
   "title": "Cincinnus Anti Dandruff Shampoo with Red Algae, Salicylic Acid, Sophora & Vitamin C, B5 | Controls Dandruff, Itchy & Flaky Scalp | Gentle Daily Use Shampoo for All Hair Types (300ml)",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:piroctone-olamine",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -273970,7 +273184,6 @@ const HAIRPRODUCTS = [
   "title": "Anti Dandruff Shampoo with 2% Salicylic Acid 200ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -274695,6 +273908,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:wash",
    "format:shampoo",
+   "format:keratin-treatment",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
@@ -274764,7 +273978,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Shampoo | Dandruff Reduction After First Wash | ZPTO-Free | pH balance | 2% …",
   "price": 199,
   "capacityLine": "200 ml",
-  "materialLine": "Salicylic acid (BHA) + Zinc pyrithione + Hydrolysed protein",
+  "materialLine": "Salicylic acid (BHA) + Lavender + Zinc pyrithione",
   "featureLine": "Shampoo · ₹100/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -274784,7 +273998,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹100/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Lavender, Zinc pyrithione, Hydrolysed protein (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Thinning / density (seller claim — not clinical proof)",
@@ -274813,6 +274027,7 @@ const HAIRPRODUCTS = [
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
+   "ing:lavender",
    "ing:zinc-pyrithione",
    "ing:hydrolysed-protein",
    "concern:dandruff",
@@ -274903,8 +274118,8 @@ const HAIRPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
-   "inciSourceUrl": "https://bareanatomy.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-750ml",
-   "inciMatchedName": "Anti Dandruff Shampoo With Salicylic Acid, Piroctone Olamine & Biotin - 750 ml (name match 81%)",
+   "inciSourceUrl": "https://bareanatomy.com/products/expert-anti-dandruff-shampoo",
+   "inciMatchedName": "Anti Dandruff Shampoo With Salicylic Acid, Piroctone Olamine & Biotin - 250 ml (name match 100%)",
    "inciList": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
    "evidenceActives": "piroctone olamine (#10 on list, moderate evidence); salicylic acid (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−0.8); Essential oil / volatile sensitiser: menthol (−0.3)",
@@ -274959,10 +274174,10 @@ const HAIRPRODUCTS = [
    "inci": "full",
    "inciSource": "Bare Anatomy official website (bareanatomy.com) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://bareanatomy.com/products/anti-dandruff-shampoo-with-salicylic-acid-biotin-750ml",
+   "inciSourceUrl": "https://bareanatomy.com/products/expert-anti-dandruff-shampoo",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Anti Dandruff Shampoo With Salicylic Acid, Piroctone Olamine & Biotin - 750 ml",
-   "inciMatchScore": 0.81,
+   "inciMatchedTitle": "Anti Dandruff Shampoo With Salicylic Acid, Piroctone Olamine & Biotin - 250 ml",
+   "inciMatchScore": 1,
    "inciText": "Water, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Propanediol, Dimethiconol, Glycerin, TEA-Dodecylbenzenesulfonate, Acrylates Copolymer , Perfume, Piroctone Olamine, Salicylic Acid, Epilobium Angustifolium Extract, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Nasturtium Officinale Extract, Salvia Officinalis (Sage) Leaf Extract, Niacin, Biotin, Aloe Barbadensis Leaf Extract, Menthol, Cocos Nucifera (Coconut) Milk Protein, Stearamidopropyl Dimethylamine, Glycol Stearate, Guar Hydroxypropyltrimonium chloride, Mica,Titanium Dioxide,Tin Oxide, PEG-45M, Sodium Chloride, Citric acid, Phenoxyethanol, Sodium Benzoate, Disodium EDTA",
    "inciUnverified": null,
    "inciNote": null,
@@ -274974,6 +274189,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -274981,6 +274197,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -274988,6 +274205,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -274995,6 +274213,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -275002,6 +274221,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -275009,6 +274229,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -275016,6 +274237,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -275023,6 +274245,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -275030,7 +274253,16 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -275264,6 +274496,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -275271,13 +274504,23 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "dandruffIndia"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     },
     {
      "name": "polyquaternium-7",
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -275285,6 +274528,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -275292,6 +274536,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -276237,6 +275482,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -276244,6 +275490,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -276251,6 +275498,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -276258,6 +275506,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     },
     {
@@ -276265,6 +275514,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     },
     {
@@ -276272,6 +275522,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     }
    ],
@@ -276415,7 +275666,7 @@ const HAIRPRODUCTS = [
   "model": "Anti-Dandruff Hair Serum for Scalp with Tea Tree & Peppermint Essential Oils | Reduce Flak…",
   "price": 405,
   "capacityLine": "30 ml",
-  "materialLine": "Tea tree",
+  "materialLine": "Tea tree + Peppermint / menthol",
   "featureLine": "Serum · ₹1350/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -276434,7 +275685,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1350/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree (named on listing)",
+   "keyIngredients": "Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -276462,6 +275713,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:serum",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:women",
    "size:travel",
@@ -276638,7 +275890,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Aloe vera, Fenugreek (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -276667,6 +275919,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "hair:all",
    "aud:unisex",
@@ -277423,6 +276676,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -277430,6 +276684,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -277437,6 +276692,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     }
    ],
@@ -279593,13 +278849,13 @@ const HAIRPRODUCTS = [
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No ingredient list published on the listing",
+   "Only 2 ingredients named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
    "ingredients": 0,
    "skin": 0,
-   "trust": 3.5,
+   "trust": 3.8,
    "experience": 1.9
   },
   "fullSpec": {
@@ -279617,9 +278873,9 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Water, Rosemary",
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
@@ -279646,7 +278902,7 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:partial"
   ],
   "filters": {
    "freefrom": false,
@@ -279654,23 +278910,23 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "partial",
    "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
    "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
+   "inciUnverified": "Water, Rosemary",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
-   "recognised": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -280236,7 +279492,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Coconut, Rosemary, Onion, Bhringraj, Amla, Brahmi, Castor oil (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Dryness / hydration, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -280278,6 +279534,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:dryness",
+   "concern:oil-absorbing",
    "aud:women",
    "size:large",
    "rating:4.5",
@@ -281255,6 +280512,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -281262,6 +280520,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -281269,6 +280528,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -281276,6 +280536,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -281283,6 +280544,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     }
    ],
@@ -282376,6 +281638,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:cream",
    "format:oil",
+   "format:keratin-treatment",
    "ing:coconut",
    "ing:keratin",
    "concern:dandruff",
@@ -284615,7 +283878,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Green tea, Almond, Redensyl, Procapil, Anagain, Baicapil, Hibiscus (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Thinning / density, Damage repair, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair fall / shedding, Thinning / density, Damage repair, Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -284658,6 +283921,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "aud:women",
@@ -285342,7 +284606,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem, Onion, Bhringraj, Amla, Hibiscus, Curry leaf (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -285385,6 +284649,7 @@ const HAIRPRODUCTS = [
    "concern:damage-repair",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:damaged",
    "aud:women",
    "size:travel",
@@ -285739,7 +285004,7 @@ const HAIRPRODUCTS = [
   "model": "Aqua Range | Cedarwood & Rice Water Hair Growth Spray -200ml | Non-Oily Rice Water Mist Fo…",
   "price": 229,
   "capacityLine": "200 ml",
-  "materialLine": "Rice water",
+  "materialLine": "Rice water + Cedarwood",
   "featureLine": "Spray · ₹115/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -285758,7 +285023,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹115/100ml",
    "format": "Spray",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Rice water (named on listing)",
+   "keyIngredients": "Rice water, Cedarwood (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Hair growth (claim), Frizz control, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
@@ -285786,6 +285051,7 @@ const HAIRPRODUCTS = [
    "area:both",
    "format:mist",
    "ing:rice-water",
+   "ing:cedarwood",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-fall",
@@ -285968,7 +285234,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Damage repair, Dryness / hydration, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, Curly hair, Wavy hair, Damaged hair, Textured / afro hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -285997,6 +285263,7 @@ const HAIRPRODUCTS = [
    "concern:oily-scalp",
    "concern:damage-repair",
    "concern:dryness",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:curly",
    "hair:wavy",
@@ -286052,7 +285319,7 @@ const HAIRPRODUCTS = [
   "model": "Nuyantra Pro Ayurvedic Hair Growth Serum | Dandruff Care l 40ml | Hair Growth Serum | Neem…",
   "price": 449,
   "capacityLine": "40 ml",
-  "materialLine": "Neem",
+  "materialLine": "Neem + Cedarwood",
   "featureLine": "Serum · ₹1123/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -286071,7 +285338,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1123/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Neem (named on listing)",
+   "keyIngredients": "Neem, Cedarwood (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Hair growth (claim) (seller claim — not clinical proof)",
@@ -286099,6 +285366,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:serum",
    "ing:neem",
+   "ing:cedarwood",
    "concern:dandruff",
    "concern:hair-growth",
    "aud:women",
@@ -286596,7 +285864,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Zinc, Zinc pyrithione, Keratin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Scalp health, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Dry hair, Damaged hair, Coloured / chemically treated",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -286624,7 +285892,6 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:both",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
@@ -286637,6 +285904,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:scalp-health",
+   "concern:odour",
    "hair:dry",
    "hair:damaged",
    "hair:coloured",
@@ -286835,7 +286103,6 @@ const HAIRPRODUCTS = [
   "title": "Procalp-AD Anti Dandruff Shampoo | Piroctone Olamine & Propolis Scalp Treatment for Itchy, Flaky & Oily Scalp | Advanced Flake Control Formula | For Men & Women | 250ml",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:shampoo",
    "ing:glycerin",
    "ing:propolis",
@@ -286999,7 +286266,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Shampoo with Salicylic Acid & Menthol, 250ml | Vintage Style, Unique Triangl…",
   "price": 199,
   "capacityLine": "250 ml",
-  "materialLine": "Salicylic acid (BHA)",
+  "materialLine": "Salicylic acid (BHA) + Peppermint / menthol",
   "featureLine": "Shampoo · ₹80/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -287018,7 +286285,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹80/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA) (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -287046,6 +286313,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:shampoo",
    "ing:salicylic-acid-bha",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:unisex",
    "size:large",
@@ -287145,6 +286413,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:powder",
+   "format:scalp-scrub",
    "ing:coffee",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -287201,7 +286470,7 @@ const HAIRPRODUCTS = [
   "model": "Hair & Scalp Scrub for Dandruff & Build-Up | Anti-Dandruff Exfoliator | Brahmi Amla Pink H…",
   "price": 529,
   "capacityLine": "Quantity not stated",
-  "materialLine": "Amla + Brahmi + Moringa",
+  "materialLine": "Sea salt + Amla + Brahmi",
   "featureLine": "Scalp scrub · Paraben-free",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -287220,7 +286489,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Amla, Brahmi, Moringa (named on listing)",
+   "keyIngredients": "Sea salt, Amla, Brahmi, Moringa (named on listing)",
    "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying (seller claim — not clinical proof)",
@@ -287247,6 +286516,8 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
+   "ing:sea-salt",
    "ing:amla",
    "ing:brahmi",
    "ing:moringa",
@@ -287346,6 +286617,7 @@ const HAIRPRODUCTS = [
   "title": "Biolage ScalpSync Concentrate –Scalp Exfoliating & Purifying Treatment, Clarifies Build-Up & Balances Scalp for upto 72hrs-With Fermented Tea Blend & Glycolic Acid, 200ml",
   "tags": [
    "area:scalp",
+   "format:scalp-scrub",
    "ing:glycolic-acid",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -287509,7 +286781,7 @@ const HAIRPRODUCTS = [
   "model": "Coffee & Glycolic Acid Scalp Scrub 50g – Anti Dandruff, Detox & Exfoliating Treatment for …",
   "price": 359,
   "capacityLine": "50 g",
-  "materialLine": "Glycolic acid + Coffee",
+  "materialLine": "Glycolic acid + Coffee + Peppermint / menthol",
   "featureLine": "Scalp scrub · ₹718/100g",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -287528,7 +286800,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹718/100g",
    "format": "Scalp scrub",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Glycolic acid, Coffee (named on listing)",
+   "keyIngredients": "Glycolic acid, Coffee, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp build-up / clarifying, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -287555,8 +286827,10 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:glycolic-acid",
    "ing:coffee",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -287631,7 +286905,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹2880/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Aloe vera, Vitamin B5 / panthenol, Panthenol (named on listing)",
+   "keyIngredients": "Tea tree, Aloe vera, Vitamin B5 / panthenol, Sea salt, Panthenol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Scalp health (seller claim — not clinical proof)",
@@ -287661,9 +286935,11 @@ const HAIRPRODUCTS = [
    "format:scrub",
    "format:wash",
    "format:texture-spray",
+   "format:scalp-scrub",
    "ing:tea-tree",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
+   "ing:sea-salt",
    "ing:panthenol",
    "concern:dandruff",
    "concern:scalp-buildup",
@@ -287767,6 +287043,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:scrub",
    "format:kit",
+   "format:scalp-scrub",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-buildup",
@@ -287871,6 +287148,7 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:scrub",
+   "format:scalp-scrub",
    "ing:yuja-yuzu",
    "concern:scalp-buildup",
    "aud:unisex",
@@ -287942,7 +287220,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹878/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Aloe vera, Allantoin, Glycerin, Ketoconazole, Piroctone olamine, Rosemary (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Aloe vera, Allantoin, Glycerin, Ketoconazole, Piroctone olamine, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -287982,6 +287260,7 @@ const HAIRPRODUCTS = [
    "ing:ketoconazole",
    "ing:piroctone-olamine",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -288022,6 +287301,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -288029,6 +287309,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -288036,6 +287317,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -288043,6 +287325,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -288050,6 +287333,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -288057,6 +287341,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -288064,6 +287349,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -288071,7 +287357,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -288302,6 +287597,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -288309,6 +287605,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -288316,6 +287613,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -288323,6 +287621,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -288330,6 +287629,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -288590,7 +287890,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Salicylic acid (BHA), Piroctone olamine, Climbazole (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -288614,12 +287914,14 @@ const HAIRPRODUCTS = [
   "tags": [
    "area:scalp",
    "format:serum",
+   "format:scalp-scrub",
    "ing:salicylic-acid-bha",
    "ing:piroctone-olamine",
    "ing:climbazole",
    "concern:dandruff",
    "concern:hair-fall",
    "concern:restyle",
+   "concern:oil-absorbing",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -289391,7 +288693,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Neem (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -289418,6 +288720,7 @@ const HAIRPRODUCTS = [
    "ing:neem",
    "concern:dandruff",
    "concern:oily-scalp",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -289672,7 +288975,7 @@ const HAIRPRODUCTS = [
   "model": "Ginger and Vetiver Anti-Dandruff Hair Tonic | Soothes Scalp, Fights Dandruff Flakes | 100m…",
   "price": 299,
   "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Vetiver",
   "featureLine": "Hair / scalp tonic · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -289691,7 +288994,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹299/100ml",
    "format": "Hair / scalp tonic",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -289719,6 +289022,7 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:toner",
    "format:hair-tonic",
+   "ing:vetiver",
    "concern:dandruff",
    "free:toxin-free",
    "aud:unisex",
@@ -290424,7 +289728,6 @@ const HAIRPRODUCTS = [
   "title": "Oily Dandruff Shampoo, 2% Salicylic Acid, 2% ZPTO and Tea Tree Extract, For Oily Scalp, Anti-Dandruff Shampoo",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -290534,7 +289837,6 @@ const HAIRPRODUCTS = [
   "title": "Anti-Dandruff Shampoo with 2% Salicylic Acid | Helps Reduce Dandruff & Itchy Scalp | ZPTO-Free | pH Balanced | For Men & Women - 100ML",
   "tags": [
    "area:scalp",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "ing:salicylic-acid-bha",
@@ -292742,7 +292044,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "Not stated in listing",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Panthenol (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Vitamin B5 / panthenol, Panthenol, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density (seller claim — not clinical proof)",
@@ -292772,6 +292074,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:vitamin-b5-panthenol",
    "ing:panthenol",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -293643,7 +292946,7 @@ const HAIRPRODUCTS = [
   "model": "Rosemary & 2% Biotin Hair Growth Serum | Hair Fall Control & Root Strengthening | Improves…",
   "price": 419,
   "capacityLine": "30 ml",
-  "materialLine": "Argan oil + Rosemary + Bhringraj",
+  "materialLine": "Argan oil + Lavender + Rosemary",
   "featureLine": "Serum · ₹1397/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -293662,10 +292965,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1397/100ml",
    "format": "Serum",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Argan oil, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
+   "keyIngredients": "Argan oil, Lavender, Rosemary, Bhringraj, Amla, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Smoothing / straightening, Shine / gloss, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -293692,6 +292995,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "format:texture-spray",
    "ing:argan-oil",
+   "ing:lavender",
    "ing:rosemary",
    "ing:bhringraj",
    "ing:amla",
@@ -293707,6 +293011,7 @@ const HAIRPRODUCTS = [
    "concern:smoothing",
    "concern:shine",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "aud:women",
@@ -294076,7 +293381,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹237/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Climbazole (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Climbazole, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -294109,6 +293414,7 @@ const HAIRPRODUCTS = [
    "ing:zinc-pyrithione",
    "ing:piroctone-olamine",
    "ing:climbazole",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "free:sulfate",
    "free:ph-balanced",
@@ -294148,6 +293454,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -294155,6 +293462,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "dandruff"
     },
     {
@@ -294162,6 +293470,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -294169,6 +293478,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -294176,6 +293486,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "dandruffIndia"
     },
     {
@@ -294183,6 +293494,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -294190,6 +293502,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -294197,7 +293510,16 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "hairCleansing"
     }
    ],
    "support": [
@@ -295252,112 +294574,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0gjqv17px",
-  "brand": "Unbranded",
-  "model": "\" Dermistry Anti-Dandruff Contol Hair Shampoo & Mask Climbazole Piroctone ZPTO for Dryness…",
-  "price": 961,
-  "capacityLine": "400 ml",
-  "materialLine": "Zinc pyrithione + Piroctone olamine + Climbazole",
-  "featureLine": "Shampoo · ₹240/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹240/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Zinc pyrithione, Piroctone olamine, Climbazole (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Oily hair / scalp, Curly hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61o9Gqjp-sL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJQV17PX",
-  "buyStore": "Amazon",
-  "title": "\" Dermistry Anti-Dandruff Contol Hair Shampoo & Mask Climbazole Piroctone ZPTO for Dryness Flakes Itching Exfoliates Oily Itchy Scalp For Dry Frizzy Curly All Hair Type Men Women 400ML\"",
-  "tags": [
-   "area:both",
-   "format:shampoo",
-   "ing:zinc-pyrithione",
-   "ing:piroctone-olamine",
-   "ing:climbazole",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:frizz",
-   "concern:dryness",
-   "hair:dry",
-   "hair:oily",
-   "hair:curly",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
   "id": "mnt-b0ck5n3jk4",
   "brand": "MNT",
   "model": "Rosemary Shampoo With Methi Dana For Hair Fall Control & Hair Growth | Shampoo For Hair Gr…",
@@ -295802,7 +295018,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Rosemary, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Shine / gloss, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -295837,6 +295053,7 @@ const HAIRPRODUCTS = [
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:shine",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -295873,6 +295090,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -295880,6 +295098,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "rosemary"
     },
     {
@@ -295887,6 +295106,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -296023,6 +295243,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -296030,6 +295251,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -296037,6 +295259,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "agaCosmeceuticals"
     },
     {
@@ -296044,6 +295267,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "agaCosmeceuticals"
     },
     {
@@ -296051,6 +295275,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "caffeineHair"
     },
     {
@@ -296058,6 +295283,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     },
     {
@@ -296065,6 +295291,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -296072,6 +295299,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "rosemary"
     }
    ],
@@ -296340,7 +295568,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Redensyl, Anagain, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -296374,6 +295602,7 @@ const HAIRPRODUCTS = [
    "ing:anagain",
    "ing:rosemary",
    "concern:oily-scalp",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:all",
    "aud:women",
@@ -297420,6 +296649,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -297427,6 +296657,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -297434,6 +296665,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -297441,6 +296673,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -297448,6 +296681,7 @@ const HAIRPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -297455,6 +296689,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairOils"
     }
    ],
@@ -297856,6 +297091,7 @@ const HAIRPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:hair-tonic",
+   "format:hair-perfume",
    "concern:scalp-itch",
    "concern:hair-fall",
    "concern:hair-growth",
@@ -297910,7 +297146,7 @@ const HAIRPRODUCTS = [
   "model": "Hair Tonic Rosemary Peppermint Lavender - 200ml | Help treated Hair Safe | No Harsh Chemic…",
   "price": 999,
   "capacityLine": "200 ml",
-  "materialLine": "Rosemary",
+  "materialLine": "Lavender + Rosemary + Peppermint / menthol",
   "featureLine": "Hair / scalp tonic · ₹500/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -297930,7 +297166,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹500/100ml",
    "format": "Hair / scalp tonic",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Rosemary (named on listing)",
+   "keyIngredients": "Lavender, Rosemary, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Dryness / hydration (seller claim — not clinical proof)",
@@ -297958,7 +297194,9 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:toner",
    "format:hair-tonic",
+   "ing:lavender",
    "ing:rosemary",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:dryness",
    "free:vegan",
@@ -298636,7 +297874,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Peptides, Caffeine, Rice water, Almond, Vitamin E, Redensyl, Anagain, Baicapil, Hibiscus, Biotin (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -298680,6 +297918,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "aud:women",
    "size:travel",
@@ -300669,7 +299908,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair growth (claim), Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair growth (claim), Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -300697,6 +299936,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:hair-growth",
    "concern:shine",
+   "concern:odour",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -301450,7 +300690,7 @@ const HAIRPRODUCTS = [
   "model": "Sandalwood & Vetiver Hair Oil for Scalp Cooling & Itch Relief, 180ml | Herbal Hair Oil for…",
   "price": 239,
   "capacityLine": "180 ml",
-  "materialLine": "Sandalwood",
+  "materialLine": "Sandalwood + Vetiver",
   "featureLine": "Oil · ₹133/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -301469,10 +300709,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹133/100ml",
    "format": "Oil",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Sandalwood (named on listing)",
+   "keyIngredients": "Sandalwood, Vetiver (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Itchy scalp, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -301497,9 +300737,11 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:oil",
    "ing:sandalwood",
+   "ing:vetiver",
    "concern:scalp-itch",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "aud:women",
    "size:large",
    "rating:3.5",
@@ -303236,108 +302478,6 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "ravel-b0h9rynzz1",
-  "brand": "Ravel",
-  "model": "PRO Anti-Dandruff Shampoo (150ml) + Anti-Dandruff Conditioner (150ml) + Anti-Dandruff Loti…",
-  "price": 1461,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Shampoo · Paraben-free · ₹974/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹974/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81Jep1WUU0L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H9RYNZZ1",
-  "buyStore": "Amazon",
-  "title": "Ravel PRO Anti-Dandruff Shampoo (150ml) + Anti-Dandruff Conditioner (150ml) + Anti-Dandruff Lotion (50ml) | Helps reduces Itchiness & Prevents Dandruff | Paraben-Free, Color-Safe | For Men & Women | Suitable for all Hair Types",
-  "tags": [
-   "area:scalp",
-   "format:lotion",
-   "format:shampoo",
-   "format:conditioner",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "hair:all",
-   "free:paraben",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "sbm-mart-b0gw89xw2d",
   "brand": "SBM MART",
   "model": "125ml Styling Cream for Scalp Care, Anti-Dandruff, Non-Greasy Hair Styling Agent",
@@ -303561,7 +302701,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Scalp health, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Scalp health, Hold (styling), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -303592,6 +302732,7 @@ const HAIRPRODUCTS = [
    "concern:scalp-health",
    "concern:hold",
    "concern:restyle",
+   "concern:oil-absorbing",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -303735,6 +302876,7 @@ const HAIRPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -303742,6 +302884,7 @@ const HAIRPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -304391,10 +303534,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1600/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Tea tree, Piroctone olamine, Hydrolysed protein (named on listing)",
+   "keyIngredients": "Tea tree, Piroctone olamine, Hydrolysed protein, Peppermint / menthol (named on listing)",
    "freeFrom": "Sulfate/SLS-free, Paraben-free, Silicone-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
    "hairType": "All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -304428,6 +303571,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "ing:piroctone-olamine",
    "ing:hydrolysed-protein",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:oily-scalp",
@@ -304435,6 +303579,7 @@ const HAIRPRODUCTS = [
    "concern:dryness",
    "concern:smoothing",
    "concern:shine",
+   "concern:odour",
    "hair:all",
    "free:paraben",
    "free:silicone",
@@ -304487,7 +303632,7 @@ const HAIRPRODUCTS = [
   "model": "Australian Tea Tree & Salicylic Acid Anti-Dandruff Shampoo with Cool Menthol | Up to 100% …",
   "price": 514,
   "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Salicylic acid (BHA) + Tea tree",
+  "materialLine": "Salicylic acid (BHA) + Tea tree + Peppermint / menthol",
   "featureLine": "Shampoo · ₹129/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -304505,7 +303650,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹129/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -304535,6 +303680,7 @@ const HAIRPRODUCTS = [
    "format:shampoo",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "hair:all",
@@ -304835,7 +303981,6 @@ const HAIRPRODUCTS = [
   "title": "Relyne Anti-Dandruff Shampoo | Up To 100% Dandruff Reduction | Sulphate & Paraben Free | Salicylic Acid, 3X Plant Protein Complex & Pro-Vitamin B5 | Non-Drying Formula | Stronger, Smoother Hair | Unisex | 200 ml",
   "tags": [
    "area:both",
-   "format:oil",
    "format:wash",
    "format:shampoo",
    "format:texture-spray",
@@ -305643,7 +304788,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹145/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Tea tree, Lemon (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Tea tree, Lemon, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Scalp health (seller claim — not clinical proof)",
@@ -305674,6 +304819,7 @@ const HAIRPRODUCTS = [
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "ing:lemon",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:scalp-health",
@@ -305719,108 +304865,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "ethereal-petal-b0fgkqwrcz",
-  "brand": "Ethereal Petal",
-  "model": "ScalPure Anti Dandruff Hair Shampoo – Scalp Detox & Flake Control Cleanser with Salicylic …",
-  "price": 565,
-  "capacityLine": "250 ml",
-  "materialLine": "Salicylic acid (BHA) + Neem + Apple cider vinegar",
-  "featureLine": "Shampoo · ₹226/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹226/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Neem, Apple cider vinegar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61xxu4APv-L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FGKQWRCZ",
-  "buyStore": "Amazon",
-  "title": "ScalPure Anti Dandruff Hair Shampoo – Scalp Detox & Flake Control Cleanser with Salicylic Acid, Neem & Apple Cider Vinegar – Anti-Itch Formula for Men & Women – 250ml",
-  "tags": [
-   "area:scalp",
-   "format:wash",
-   "format:shampoo",
-   "ing:salicylic-acid-bha",
-   "ing:neem",
-   "ing:apple-cider-vinegar",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -306330,7 +305374,7 @@ const HAIRPRODUCTS = [
   "model": "by GHC Anti Dandruff Shampoo with Aloe Vera & Menthol for Itchy Scalp & Dandruff Control |…",
   "price": 349,
   "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Aloe vera",
+  "materialLine": "Aloe vera + Peppermint / menthol",
   "featureLine": "Shampoo · ₹87/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -306349,7 +305393,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹87/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
+   "keyIngredients": "Aloe vera, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration (seller claim — not clinical proof)",
@@ -306381,6 +305425,7 @@ const HAIRPRODUCTS = [
    "format:kit",
    "format:shampoo",
    "ing:aloe-vera",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -306433,7 +305478,7 @@ const HAIRPRODUCTS = [
   "model": "Clinical RootX Scalp Serum | Peptide Complex for Hair Growth | Grey Hair Reduction | Parab…",
   "price": 1599,
   "capacityLine": "50 ml",
-  "materialLine": "PHA + Peptides + Amino acids",
+  "materialLine": "PHA + Peptides + Copper peptide",
   "featureLine": "Serum · Paraben-free · ₹3198/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -306452,10 +305497,10 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹3198/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "PHA, Peptides, Amino acids (named on listing)",
+   "keyIngredients": "PHA, Peptides, Copper peptide, Amino acids (named on listing)",
    "freeFrom": "Paraben-free, Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Hair fall / shedding, Hair growth (claim), Dryness / hydration, Premature greying (claim), Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Hair fall / shedding, Hair growth (claim), Dryness / hydration, Premature greying (claim), Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Unisex / not stated",
@@ -306485,12 +305530,14 @@ const HAIRPRODUCTS = [
    "format:serum",
    "ing:pha",
    "ing:peptides",
+   "ing:copper-peptide",
    "ing:amino-acids",
    "concern:hair-fall",
    "concern:hair-growth",
    "concern:dryness",
    "concern:greying",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "free:paraben",
    "free:fragrance",
    "aud:unisex",
@@ -306848,7 +305895,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Scalp Serum | 50 Ml | Herbal Scalp Care Formula With Ajwain Mint Oil And Pom…",
   "price": 1400,
   "capacityLine": "50 ml",
-  "materialLine": "Vitamin E",
+  "materialLine": "Vitamin E + Peppermint / menthol",
   "featureLine": "Serum · ₹2800/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -306867,7 +305914,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹2800/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Vitamin E (named on listing)",
+   "keyIngredients": "Vitamin E, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Dryness / hydration, Scalp health (seller claim — not clinical proof)",
@@ -306900,6 +305947,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:oil",
    "ing:vitamin-e",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:dryness",
@@ -307255,7 +306303,7 @@ const HAIRPRODUCTS = [
   "model": "Refresh Scalp Essence for Dandruff & Itchy Scalp | Anti-Dandruff Leave-On Serum | Tea Tree…",
   "price": 1400,
   "capacityLine": "25 ml",
-  "materialLine": "Tea tree + Witch hazel + Rosemary",
+  "materialLine": "Tea tree + Witch hazel + Chamomile",
   "featureLine": "Serum · ₹5600/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -307275,7 +306323,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹5600/100ml",
    "format": "Serum",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Witch hazel, Rosemary (named on listing)",
+   "keyIngredients": "Tea tree, Witch hazel, Chamomile, Rosemary (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp (seller claim — not clinical proof)",
@@ -307306,6 +306354,7 @@ const HAIRPRODUCTS = [
    "format:oil",
    "ing:tea-tree",
    "ing:witch-hazel",
+   "ing:chamomile",
    "ing:rosemary",
    "concern:dandruff",
    "concern:scalp-itch",
@@ -307556,7 +306605,7 @@ const HAIRPRODUCTS = [
   "model": "Anti Dandruff Hair Growth Serum| Pre-Shampoo Treatment with Indian Gooseberry Extracts, Eu…",
   "price": 598,
   "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
+  "materialLine": "Chamomile",
   "featureLine": "Shampoo · ₹1993/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -307574,7 +306623,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹1993/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "Chamomile (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Itchy scalp, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
@@ -307603,6 +306652,7 @@ const HAIRPRODUCTS = [
    "format:serum",
    "format:wash",
    "format:shampoo",
+   "ing:chamomile",
    "concern:dandruff",
    "concern:scalp-itch",
    "concern:hair-growth",
@@ -307678,7 +306728,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Dry hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -307708,6 +306758,7 @@ const HAIRPRODUCTS = [
    "concern:dandruff",
    "concern:dryness",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:dry",
    "aud:women",
    "size:large",
@@ -307854,119 +306905,12 @@ const HAIRPRODUCTS = [
   }
  },
  {
-  "id": "dermistry-b0gjqdx323",
-  "brand": "Dermistry",
-  "model": "Anti-Dandruff Contol Shampoo Mask & Hair Serum Climbazole Piroctone ZPTO for Dryness Flake…",
-  "price": 1393,
-  "capacityLine": "450 ml",
-  "materialLine": "Zinc pyrithione + Piroctone olamine + Climbazole",
-  "featureLine": "Shampoo · ₹310/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "450 ml",
-   "pricePer100": "₹310/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Zinc pyrithione, Piroctone olamine, Climbazole (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Frizz control, Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp, Curly hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+zmTQsDcL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJQDX323",
-  "buyStore": "Amazon",
-  "title": "Dermistry Anti-Dandruff Contol Shampoo Mask & Hair Serum Climbazole Piroctone ZPTO for Dryness Flakes Itching Exfoliates Oily Itchy Scalp For Frizzy Curly All Hair Type Men Women 450ML",
-  "tags": [
-   "area:both",
-   "format:serum",
-   "format:shampoo",
-   "ing:zinc-pyrithione",
-   "ing:piroctone-olamine",
-   "ing:climbazole",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:frizz",
-   "concern:dryness",
-   "hair:oily",
-   "hair:curly",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0h7z6zw21",
   "brand": "Unbranded",
   "model": "Anti-Dandruff Spray 100ml | Advanced Scalp Tonic with Niacinamide 3%, Thyme, Peppermint & …",
   "price": 299,
   "capacityLine": "100 ml",
-  "materialLine": "Niacinamide",
+  "materialLine": "Niacinamide + Peppermint / menthol",
   "featureLine": "Spray · ₹299/100ml",
   "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
@@ -307986,7 +306930,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹299/100ml",
    "format": "Spray",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Niacinamide (named on listing)",
+   "keyIngredients": "Niacinamide, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes, Oily scalp / greasiness (seller claim — not clinical proof)",
@@ -308014,9 +306958,9 @@ const HAIRPRODUCTS = [
    "area:scalp",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:hair-tonic",
    "ing:niacinamide",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "concern:oily-scalp",
    "aud:women",
@@ -308260,120 +307204,6 @@ const HAIRPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h7fj84m3",
-  "brand": "Unbranded",
-  "model": "Hair Growth Serum + Anti Dandruff & Hair Fall Control Shampoo | Rosemary, Castor, Bhringra…",
-  "price": 799,
-  "capacityLine": "40 ml",
-  "materialLine": "Tea tree + Neem + Rosemary",
-  "featureLine": "Shampoo · Sulfate/SLS-free · ₹1998/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹1998/100ml",
-   "format": "Shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Tea tree, Neem, Rosemary, Bhringraj, Amla, Castor oil (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Hair fall / shedding, Hair growth (claim), Dryness / hydration (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51z9AmfEgCL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/716yv3MMaaL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61YgTOyx-vL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61mmlHiu5lL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61Pbm4Q9xTL._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7FJ84M3",
-  "buyStore": "Amazon",
-  "title": "Hair Growth Serum + Anti Dandruff & Hair Fall Control Shampoo | Rosemary, Castor, Bhringraj, Tea Tree, Neem & more| Reduces Hair Fall & Controls Dandruff | Sulphate Free (40ml + 100ml)",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:wash",
-   "format:kit",
-   "format:shampoo",
-   "ing:tea-tree",
-   "ing:neem",
-   "ing:rosemary",
-   "ing:bhringraj",
-   "ing:amla",
-   "ing:castor-oil",
-   "concern:dandruff",
-   "concern:scalp-itch",
-   "concern:hair-fall",
-   "concern:hair-growth",
-   "concern:dryness",
-   "free:sulfate",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -309147,7 +307977,7 @@ const HAIRPRODUCTS = [
    "pricePer100": "₹120/100ml",
    "format": "Shampoo",
    "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Biotin (named on listing)",
+   "keyIngredients": "Salicylic acid (BHA), Zinc pyrithione, Piroctone olamine, Biotin, Peppermint / menthol (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "hairConcern": "Dandruff / flakes (seller claim — not clinical proof)",
@@ -309178,6 +308008,7 @@ const HAIRPRODUCTS = [
    "ing:zinc-pyrithione",
    "ing:piroctone-olamine",
    "ing:biotin",
+   "ing:peppermint-menthol",
    "concern:dandruff",
    "aud:women",
    "size:large",
@@ -310376,7 +309207,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Mineral oil, Redensyl, Procapil, Anagain, Baicapil, Dimethicone / silicones (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Scalp health (seller claim — not clinical proof)",
+   "hairConcern": "Oily scalp / greasiness, Hair growth (claim), Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Oily hair / scalp, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -310415,6 +309246,7 @@ const HAIRPRODUCTS = [
    "concern:hair-growth",
    "concern:dryness",
    "concern:scalp-health",
+   "concern:oil-absorbing",
    "hair:oily",
    "hair:all",
    "free:vegan",
@@ -311602,7 +310434,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Itchy scalp, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Thinning / density, Damage repair, Dryness / hydration, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -311640,6 +310472,7 @@ const HAIRPRODUCTS = [
    "concern:thinning",
    "concern:damage-repair",
    "concern:dryness",
+   "concern:oil-absorbing",
    "hair:damaged",
    "aud:women",
    "size:travel",
@@ -312635,7 +311468,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Tea tree (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Hair fall / shedding (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Hair fall / shedding, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Not stated in listing",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -312663,6 +311496,7 @@ const HAIRPRODUCTS = [
    "ing:tea-tree",
    "concern:dandruff",
    "concern:hair-fall",
+   "concern:oil-absorbing",
    "aud:women",
    "size:xl",
    "rating:4.0",
@@ -314578,7 +313412,7 @@ const HAIRPRODUCTS = [
    "keyIngredients": "Almond, Vitamin E, Olive (named on listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Premature greying (claim), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairConcern": "Dandruff / flakes, Oily scalp / greasiness, Hair fall / shedding, Hair growth (claim), Frizz control, Damage repair, Split ends, Dryness / hydration, Smoothing / straightening, Shine / gloss, Premature greying (claim), Restylable / no flakes, Absorbs oil / between washes (seller claim — not clinical proof)",
    "hairType": "Damaged hair, All hair types",
    "regulated": "Not stated in listing",
    "audience": "Marketed for women",
@@ -314622,6 +313456,7 @@ const HAIRPRODUCTS = [
    "concern:shine",
    "concern:greying",
    "concern:restyle",
+   "concern:oil-absorbing",
    "hair:damaged",
    "hair:all",
    "aud:women",

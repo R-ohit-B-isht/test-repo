@@ -7,8 +7,9 @@ const BODY = 'body';
 const BOTH = 'both';
 const HAIR = 'hair';
 
-const CORE_FACETS = ['inci', 'scope', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
-const SUN_FACETS = ['inci', 'scope', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+// `target` (skin concern: acne / dark spots / aging / irritation) is derived from the verified INCI and product type, not seller copy.
+const CORE_FACETS = ['inci', 'scope', 'target', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+const SUN_FACETS = ['inci', 'scope', 'target', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
 // Hair pages swap face/body scope for scalp/lengths, skin type for hair type, and benefit claims for hair concerns.
 const HAIR_FACETS = ['inci', 'area', 'format', 'ing', 'concern', 'free', 'hair', 'aud', 'size', 'rating', 'store'];
 
@@ -221,7 +222,7 @@ export const CATEGORIES = [
   },
   {
     id: 'peptideserum', label: 'Peptide & collagen serum', kicker: 'SERUM', zone: FACE,
-    blurb: 'Signal-peptide and collagen serums, ampoules and boosters for firmness and fine lines — Matrixyl, Argireline, copper peptides, multi-peptide blends.',
+    blurb: 'Signal-peptide and collagen serums, ampoules and boosters for firmness and fine lines — Matrixyl, Argireline, copper peptides, multi-peptide blends — plus PDRN / exosome repair shots.',
     file: 'nx-data-peptideserum.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
     featured: ['ing:peptides', 'ing:collagen', 'ing:copper-peptide', 'ing:matrixyl', 'ing:argireline', 'ing:hyaluronic-acid', 'ing:niacinamide', 'ing:retinol', 'format:serum', 'format:ampoule', 'claim:anti-aging', 'claim:korean', 'skin:mature'],
   },
@@ -230,6 +231,12 @@ export const CATEGORIES = [
     blurb: 'Azelaic acid gels, creams and serums (10–20%) for redness, acne and post-acne marks — the pregnancy-safe active dermatologists reach for.',
     file: 'nx-data-azelaic.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
     featured: ['ing:azelaic-acid', 'ing:niacinamide', 'ing:salicylic-acid-bha', 'ing:tranexamic-acid', 'format:gel', 'format:cream', 'format:serum', 'claim:acne', 'claim:dark-spots', 'claim:soothing', 'skin:acne-prone', 'skin:sensitive'],
+  },
+  {
+    id: 'calmserum', label: 'Calming / barrier serum', kicker: 'SERUM', zone: FACE,
+    blurb: 'Soothing and barrier-repair serums and ampoules for reactive, red or compromised skin — centella / cica, heartleaf, mugwort, panthenol, ceramides, probiotics, oat. Exfoliating, vitamin C, retinoid and brightening serums stay on their own pages.',
+    file: 'nx-data-calmserum.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['target:irritation', 'ing:centella-cica', 'ing:heartleaf', 'ing:ceramides', 'ing:panthenol', 'ing:probiotics', 'ing:colloidal-oatmeal', 'ing:hyaluronic-acid', 'format:serum', 'format:ampoule', 'claim:korean', 'skin:sensitive', 'inci:full'],
   },
   {
     id: 'sheetmask', label: 'Sheet masks', kicker: 'MASK', zone: FACE,
@@ -336,6 +343,13 @@ export const CATEGORIES = [
     featured: ['format:beard-oil', 'format:beard-wash', 'format:beard-balm', 'format:oil', 'ing:argan-oil', 'ing:jojoba', 'ing:almond', 'ing:castor-oil', 'ing:cedarwood', 'ing:vitamin-e', 'concern:beard-growth', 'concern:beard-itch', 'concern:dryness', 'free:sulfate', 'free:paraben'],
   },
 ];
+
+// Every skin (face / body) page leads its quick-filter row with the four concern chips so the same filter is one tap away everywhere.
+const CONCERN_CHIPS = ['target:acne', 'target:dark-spots', 'target:aging', 'target:irritation'];
+for (const cat of CATEGORIES) {
+  if (!cat.facets.includes('target')) continue;
+  cat.featured = [...CONCERN_CHIPS, ...cat.featured.filter((t) => !CONCERN_CHIPS.includes(t))];
+}
 
 export const ZONE_LABELS = { face: 'FACE', body: 'BODY', both: 'FACE + BODY', hair: 'HAIR' };
 

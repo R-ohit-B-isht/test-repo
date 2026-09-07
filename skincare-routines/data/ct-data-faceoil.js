@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -287,6 +287,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -437,119 +438,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "glamure-itm2054d04ba135e",
-  "brand": "GLAMURE",
-  "model": "Night Repair Serum Duo with Kumkumadi & Clarifying, Ayurv …",
-  "price": 477,
-  "capacityLine": "30 ml",
-  "materialLine": "salicylic acid (BHA) + kumkumadi",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹1590/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 3 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.7
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1590/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), kumkumadi (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/8/e/o/night-repair-serum-duo-with-kumkumadi-clarifying-ayurvedic-original-imahmhfwchwqjwhx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/y/d/s/night-repair-serum-duo-with-kumkumadi-clarifying-ayurvedic-original-imahmhfpxh6pkvfm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/l/q/night-repair-serum-duo-with-kumkumadi-clarifying-ayurvedic-original-imahmhfperqeuqbh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/a/4/s/night-repair-serum-duo-with-kumkumadi-clarifying-ayurvedic-original-imahmhfwxyzeq7qg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/o/e/30-kumkumadi-face-serum-with-5-saffron-3-vitamin-c-2-niacinamide-original-imahg6mfkq9zu4yh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glamure-night-repair-serum-duo-kumkumadi-clarifying-ayurvedic-exfoliating-pm-routine-glowing-skin-acne-marks/p/itm2054d04ba135e",
-  "buyStore": "Flipkart",
-  "title": "GLAMURE Night Repair Serum Duo with Kumkumadi & Clarifying, Ayurv …",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:pack",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 3 ratings"
-  }
- },
- {
   "id": "cos-iq-itm96659e2a2848c",
   "brand": "Cos-Iq",
   "model": "Granactive Retinoid 1% In Squalane Anti Ageing Face Serum …",
@@ -591,7 +479,8 @@ const CTPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "COSIQ — Indian D2C brand with its own product company",
    "declaredManufacturer": "Cos-IQ, R.I. Ayurveda Research Labs, Dilshad Garden Industrial Area, G.T. Road, Delhi 110095, care@mycosiq.com (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 81 ratings"
+   "buyerEvidence": "4★ from 81 ratings",
+   "concernBasis": "Aging — hydroxypinacolone retinoate #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/s/-original-imahehdyjeeyak36.jpeg?q=90",
@@ -612,6 +501,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:aging",
    "inci:full"
   ],
   "filters": {
@@ -644,6 +534,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -651,6 +542,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -719,7 +611,8 @@ const CTPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "COSIQ — Indian D2C brand with its own product company",
    "declaredManufacturer": "Cos-IQ, R.I. Ayurveda Research Labs, Dilshad Garden Industrial Area, G.T. Road, Delhi 110095, care@mycosiq.com (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 181 ratings"
+   "buyerEvidence": "4★ from 181 ratings",
+   "concernBasis": "Aging — hydroxypinacolone retinoate #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/f/4/-original-imahehdyp7hyqxaj.jpeg?q=90",
@@ -738,6 +631,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:aging",
    "inci:full"
   ],
   "filters": {
@@ -770,6 +664,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -777,6 +672,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -784,6 +680,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -1305,6 +1202,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:exfoliating",
+   "claim:scars",
    "free:vegan",
    "aud:women",
    "size:standard",
@@ -1428,6 +1326,7 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "claim:ayurvedic",
    "claim:spf-claim",
+   "claim:overnight",
    "skin:all",
    "free:sulfate",
    "aud:women",
@@ -2150,17 +2049,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "petrolatum + kojic acid + aloe vera",
   "featureLine": "Scrub / exfoliant · ₹1438/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: dmdm hydantoin",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 2.7,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -2177,13 +2076,14 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: DM Water 65%, Kumkumadi Oil 2%, Saffron Extract 0.02%, Avocado Oil 1.3%, Olive Oil 2.5%, Wheatgerm Oil 1.5%, Cocoa Butter 2%, LLP 3%, IPM 4.5%, Emulsifying Wax 1.5%, GMS 2%, Stearic Acid 1.5%, Ginol 16 1.5%, Aloe Vera Extract 4%, Glycerin 2%, Propylene Glycol 2.5%, Beetroot Extract 2%,Soya Protein Extract 1%, Rose Water 2%, Carbopol 0.25%, EDTA 0.1%, Phenoxyethanol 0.35%, DMDM Hydantoin 0.1%, Frag",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "DM Water 65%, Kumkumadi Oil 2%, Saffron Extract 0.02%, Avocado Oil 1.3%, Olive Oil 2.5%, Wheatgerm Oil 1.5%, Cocoa Butter 2%, LLP 3%, IPM 4.5%, Emulsifying Wax 1.5%, GMS 2%, Stearic Acid 1.5%, Ginol 16 1.5%, Aloe Vera Extract 4%, Glycerin 2%, Propylene Glycol 2.5%, Beetroot Extract 2%,Soya Protein Extract 1%, Rose Water 2%, Carbopol 0.25%, EDTA 0.1%, Phenoxyethanol 0.35%, DMDM Hydantoin 0.1%, Fragrance 0.3%",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/2/j/50-kumkumadi-saffron-night-ratri-glow-cream-for-glowing-skin-for-original-imahqngmap2c2ps7.jpeg?q=90",
@@ -2206,12 +2106,14 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:whitening-claim",
    "claim:exfoliating",
+   "claim:odour",
    "skin:all",
    "aud:women",
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:partial"
+   "target:irritation",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -2220,27 +2122,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "DM Water 65%, Kumkumadi Oil 2%, Saffron Extract 0.02%, Avocado Oil 1.3%, Olive Oil 2.5%, Wheatgerm Oil 1.5%, Cocoa Butter 2%, LLP 3%, IPM 4.5%, Emulsifying Wax 1.5%, GMS 2%, Stearic Acid 1.5%, Ginol 16 1.5%, Aloe Vera Extract 4%, Glycerin 2%, Propylene Glycol 2.5%, Beetroot Extract 2%,Soya Protein Extract 1%, Rose Water 2%, Carbopol 0.25%, EDTA 0.1%, Phenoxyethanol 0.35%, DMDM Hydantoin 0.1%, Frag",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "DM Water 65%, Kumkumadi Oil 2%, Saffron Extract 0.02%, Avocado Oil 1.3%, Olive Oil 2.5%, Wheatgerm Oil 1.5%, Cocoa Butter 2%, LLP 3%, IPM 4.5%, Emulsifying Wax 1.5%, GMS 2%, Stearic Acid 1.5%, Ginol 16 1.5%, Aloe Vera Extract 4%, Glycerin 2%, Propylene Glycol 2.5%, Beetroot Extract 2%,Soya Protein Extract 1%, Rose Water 2%, Carbopol 0.25%, EDTA 0.1%, Phenoxyethanol 0.35%, DMDM Hydantoin 0.1%, Fragrance 0.3%",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 0.79,
-   "actives": [],
-   "support": [],
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -2511,7 +2459,8 @@ const CTPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#22 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.6★ from 47 ratings"
+   "buyerEvidence": "3.6★ from 47 ratings",
+   "concernBasis": "Acne — niacinamide #12 on INCI; Dark spots — kojic dipalmitate #5 on INCI, alpha-arbutin #6 on INCI, niacinamide #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/g/y/50-kumkumadi-night-cream-for-skin-lightening-and-brightening-original-imagrubfghg7mypv.jpeg?q=90",
@@ -2538,6 +2487,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -2567,10 +2518,19 @@ const CTPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
      "name": "kojic dipalmitate",
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -2578,6 +2538,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -2585,6 +2546,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2592,6 +2554,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2599,6 +2562,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2606,6 +2570,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2613,6 +2578,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -3701,6 +3667,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -3739,6 +3706,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -3746,6 +3714,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -3753,6 +3722,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -3848,6 +3818,7 @@ const CTPRODUCTS = [
    "ing:jojoba",
    "claim:brightening",
    "claim:ayurvedic",
+   "claim:overnight",
    "free:vegan",
    "aud:unisex",
    "size:travel",
@@ -4117,17 +4088,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "kumkumadi",
   "featureLine": "Toner · Paraben-free · ₹2723/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 3.6
   },
   "fullSpec": {
@@ -4144,11 +4114,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (5 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Kumakumadi oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Kumakumadi oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 5 ratings"
   },
@@ -4176,8 +4146,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -4186,22 +4155,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Kumakumadi oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Kumakumadi oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -4603,6 +4572,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:oily",
    "aud:women",
    "size:travel",
@@ -5036,6 +5006,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:argan-oil",
    "ing:jojoba",
+   "ing:apricot",
    "claim:brightening",
    "claim:anti-aging",
    "claim:ayurvedic",
@@ -5364,6 +5335,7 @@ const CTPRODUCTS = [
    "format:pack",
    "format:kit",
    "ing:rosehip",
+   "ing:apricot",
    "claim:brightening",
    "claim:anti-aging",
    "claim:ayurvedic",
@@ -6017,6 +5989,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:lemon",
+   "ing:apricot",
    "claim:ayurvedic",
    "skin:all",
    "free:toxin-free",
@@ -6072,18 +6045,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "kumkumadi",
   "featureLine": "Toner · Paraben-free · ₹847/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -6100,11 +6072,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Kumkumadi oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Kumkumadi oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -6131,8 +6103,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -6141,22 +6112,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": true,
    "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Kumkumadi oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Kumkumadi oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -6487,18 +6458,17 @@ const CTPRODUCTS = [
   "capacityLine": "80 g",
   "materialLine": "kumkumadi",
   "featureLine": "Oil · Paraben-free · ₹215/100g",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -6515,11 +6485,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "kumkumadi oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: kumkumadi oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -6552,8 +6522,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -6562,22 +6531,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "kumkumadi oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "kumkumadi oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -6601,18 +6570,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "rosehip",
   "featureLine": "Oil · ₹892/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 10 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 5
   },
   "fullSpec": {
@@ -6629,11 +6598,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.5/5 (10 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Pure Rosehip oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Pure Rosehip oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 10 ratings"
   },
@@ -6657,8 +6626,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -6667,22 +6635,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Pure Rosehip oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Pure Rosehip oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -6808,6 +6776,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -6884,6 +6853,7 @@ const CTPRODUCTS = [
    "format:oil",
    "claim:pores",
    "claim:oil-control",
+   "claim:makeup",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -6941,7 +6911,7 @@ const CTPRODUCTS = [
    "Well-reviewed: 5★ from 14 ratings"
   ],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -6964,7 +6934,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "5/5 (14 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: ✅100% Pure Rosehip Seed Oil (Rosa Canina Seed Oil)",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -6996,6 +6966,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -7027,7 +6998,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "✅100% Pure Rosehip Seed Oil (Rosa Canina Seed Oil)",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -7275,7 +7246,7 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.4★ from 15 ratings"
   ],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -7298,7 +7269,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (15 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: 100% Pure Kumkumadi Oil (INDIA)",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -7352,7 +7323,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "100% Pure Kumkumadi Oil (INDIA)",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -7377,17 +7348,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "kumkumadi",
   "featureLine": "Oil · Paraben-free · ₹400/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 5.3
   },
   "fullSpec": {
@@ -7404,11 +7374,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.1/5 (148 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Kumkumadi Face Glowing Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Kumkumadi Face Glowing Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.1★ from 148 ratings"
   },
@@ -7435,8 +7405,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -7445,22 +7414,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Kumkumadi Face Glowing Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Kumkumadi Face Glowing Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -7591,17 +7560,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Oil",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 6.1
   },
   "fullSpec": {
@@ -7618,11 +7586,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (609 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Sea Buckthorn Face Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Sea Buckthorn Face Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "We Naturals (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 609 ratings"
@@ -7648,8 +7616,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -7658,22 +7625,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Specifications › Composition",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Sea Buckthorn Face Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Sea Buckthorn Face Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -7905,6 +7872,118 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 5 ratings"
+  }
+ },
+ {
+  "id": "fraileno-itm22dc555cfbebc",
+  "brand": "FRAILENO",
+  "model": "Skin Glow Radiance Brightening and Whitening Care kumkumadi body massage oil",
+  "price": 73,
+  "capacityLine": "200 ml",
+  "materialLine": "kumkumadi",
+  "featureLine": "Oil · ₹37/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹37/100ml",
+   "format": "Oil",
+   "keyIngredients": "kumkumadi (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/7/t/q/200-skin-glow-radiance-brightening-and-whitening-care-kumkumadi-original-imahghdqfbzah5ja.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/a/p/u/400-vitamin-c-400-ml-essence-body-massage-oil-relaxing-your-body-original-imah5heyehxgbn4c.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/c/b/y/200-sexy-maasage-oil-every-skin-brightening-oil-massage-oil-for-original-imahgacncgfaxfht.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/b/v/z/200-sexy-body-massage-oil-pack-of-1-body-massage-oil-for-romance-original-imahgacrhyggtqjy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/l/f/m/450-orange-body-oil-skin-non-sticky-for-daily-use-after-bath-original-imahfny2h7tbn2uj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/fraileno-skin-glow-radiance-brightening-whitening-care-kumkumadi-body-massage-oil/p/itm22dc555cfbebc",
+  "buyStore": "Flipkart",
+  "title": "FRAILENO Skin Glow Radiance Brightening and Whitening Care kumkumadi body massage oil",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "ing:kumkumadi",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -8232,18 +8311,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "sandalwood + kumkumadi",
   "featureLine": "Oil · Paraben-free · ₹2543/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.6★ from 77 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 6.5
   },
   "fullSpec": {
@@ -8260,11 +8339,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.6/5 (77 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Kumkumadi Essential Oil 30 ml",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Kumkumadi Essential Oil 30 ml",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 77 ratings"
   },
@@ -8294,8 +8373,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -8304,22 +8382,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Kumkumadi Essential Oil 30 ml",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Kumkumadi Essential Oil 30 ml",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -8564,7 +8642,7 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
@@ -8588,7 +8666,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: 100% Ayurvedic Herbal Oil Blend",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -8645,7 +8723,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "100% Ayurvedic Herbal Oil Blend",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -8673,7 +8751,7 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Only headline actives are listed — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
@@ -8697,7 +8775,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: Saffron (Kesar) Extract : Sandalwood Extract : Manjistha : Licorice (Mulethi) : Lotus Extract",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -8755,7 +8833,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Saffron (Kesar) Extract : Sandalwood Extract : Manjistha : Licorice (Mulethi) : Lotus Extract",
-   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -8947,6 +9025,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9060,6 +9139,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9172,6 +9252,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9285,6 +9366,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -9491,6 +9573,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:oil",
    "ing:kumkumadi",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -9768,7 +9851,7 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Only headline actives are listed — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -9791,7 +9874,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "3.8/5 (11 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: Licorice (Mulethi) Extract",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -9847,7 +9930,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Licorice (Mulethi) Extract",
-   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -10033,6 +10116,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -10412,18 +10496,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "saffron + sandalwood + rosehip",
   "featureLine": "Oil · Paraben-free · ₹5610/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 5 ingredients named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.6,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -10440,11 +10523,11 @@ const CTPRODUCTS = [
    "skinType": "Dry Skin, Combination Skin, Normal Skin",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Shea butter, Saffron oil, sandalwood extract, Rosehip oil, Ginseng oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Shea butter, Saffron oil, sandalwood extract, Rosehip oil, Ginseng oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -10474,6 +10557,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:stretch-marks",
    "skin:dry",
    "skin:combination",
    "skin:normal",
@@ -10483,8 +10567,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -10493,35 +10576,25 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Shea butter, Saffron oil, sandalwood extract, Rosehip oil, Ginseng oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Shea butter, Saffron oil, sandalwood extract, Rosehip oil, Ginseng oil",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
-   "actives": [
-    {
-     "name": "shea butter",
-     "grade": "B",
-     "position": 1,
-     "core": false,
-     "src": "petrolatum"
-    }
-   ],
-   "support": [
-    "shea butter"
-   ],
+   "actives": [],
+   "support": [],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -11137,6 +11210,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:kumkumadi",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "claim:soothing",
@@ -11194,18 +11268,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "sandalwood + kumkumadi",
   "featureLine": "Serum · ₹1557/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -11222,11 +11295,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Sandalwood Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Sandalwood Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -11256,8 +11329,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -11266,22 +11338,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Sandalwood Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Sandalwood Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -11752,7 +11824,7 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.8★ from 14 ratings"
   ],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -11775,7 +11847,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.8/5 (14 ratings, Flipkart)",
    "madeIn": "India",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: Rosa canina (Rosehip) Oil* Ingredient from Organic Farming. 100% of the total ingredients are from organic farming. Cosmos organic certified by Ecocert Greenlife according to COSMOS standard.",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -11800,6 +11872,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:oily",
    "skin:all",
    "free:vegan",
@@ -11830,7 +11903,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Rosa canina (Rosehip) Oil* Ingredient from Organic Farming. 100% of the total ingredients are from organic farming. Cosmos organic certified by Ecocert Greenlife according to COSMOS standard.",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -12061,18 +12134,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rose + rosehip",
   "featureLine": "Serum · Paraben-free · ₹1017/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -12089,11 +12161,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Pure Rare Rosehip Seed Oil Only",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Pure Rare Rosehip Seed Oil Only",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -12119,6 +12191,9 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:sulfate",
@@ -12127,8 +12202,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -12137,22 +12211,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Pure Rare Rosehip Seed Oil Only",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Pure Rare Rosehip Seed Oil Only",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -12537,6 +12611,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:oil",
    "ing:rosehip",
+   "ing:apricot",
    "claim:hydrating",
    "aud:unisex",
    "size:large",
@@ -12745,6 +12820,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -12857,6 +12934,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:hydrating",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13177,6 +13255,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:barrier",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13285,6 +13364,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13393,6 +13474,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13506,6 +13589,7 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13615,6 +13699,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13724,6 +13810,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:pores",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13834,6 +13921,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:barrier",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13943,6 +14031,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:pores",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -14046,6 +14136,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:oil",
    "ing:rosehip",
+   "ing:lavender",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -14101,13 +14192,14 @@ const CTPRODUCTS = [
   "featureLine": "Oil · ₹2890/100ml",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "rosa canina fruit oil high on the INCI list (moderate evidence)",
    "No fragrance / flagged irritant on the INCI list"
   ],
   "cons": [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
+   "ingredients": 2.9,
    "skin": 7,
    "trust": 5.5,
    "experience": 3.3
@@ -14129,7 +14221,7 @@ const CTPRODUCTS = [
    "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Rosehip Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "evidenceActives": "rosa canina fruit oil (#1 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 8 ratings"
@@ -14155,6 +14247,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:lightweight",
+   "claim:scars",
    "skin:dry",
    "skin:sensitive",
    "skin:all",
@@ -14192,7 +14285,16 @@ const CTPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": 0.7,
    "recognised": 1,
-   "actives": [],
+   "actives": [
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -14539,18 +14641,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rose + rosehip",
   "featureLine": "Oil · ₹1857/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 5★ from 7 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 6.3
   },
   "fullSpec": {
@@ -14567,11 +14669,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "5/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Rose Hip Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Rose Hip Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "5★ from 7 ratings"
   },
@@ -14599,8 +14701,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -14609,22 +14710,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Rose Hip Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Rose Hip Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -14699,6 +14800,8 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:rosehip",
    "claim:anti-aging",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -14752,18 +14855,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rose + rosehip",
   "featureLine": "Oil · ₹1910/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.5★ from 11 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 5
   },
   "fullSpec": {
@@ -14780,11 +14883,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.5/5 (11 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Rose Hip Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Rose Hip Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 11 ratings"
   },
@@ -14810,8 +14913,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -14820,22 +14922,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Rose Hip Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Rose Hip Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -14966,17 +15068,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rose + rosehip",
   "featureLine": "Oil · ₹1450/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 4.2
   },
   "fullSpec": {
@@ -14993,11 +15094,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (13 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Rose Hip Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Rose Hip Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 13 ratings"
   },
@@ -15021,8 +15122,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -15031,22 +15131,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Rose Hip Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Rose Hip Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -15070,18 +15170,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rosehip",
   "featureLine": "Oil · ₹1380/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 0
   },
   "fullSpec": {
@@ -15098,11 +15197,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Pure Rosehip oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Pure Rosehip oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -15129,8 +15228,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -15139,22 +15237,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Pure Rosehip oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Pure Rosehip oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -15234,6 +15332,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:acne",
+   "claim:scars",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -15447,6 +15546,7 @@ const CTPRODUCTS = [
    "ing:turmeric",
    "ing:rosehip",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:brightening",
    "claim:hydrating",
    "skin:oily",
@@ -15560,6 +15660,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:dark-circles",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -15666,6 +15767,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
+   "claim:stretch-marks",
+   "claim:scars",
    "skin:all",
    "skin:mature",
    "aud:women",
@@ -15770,6 +15873,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:rose",
    "ing:rosehip",
+   "ing:lavender",
    "claim:dark-spots",
    "skin:all",
    "aud:women",
@@ -15876,8 +15980,10 @@ const CTPRODUCTS = [
    "ing:sandalwood",
    "ing:rose",
    "ing:rosehip",
+   "ing:lavender",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -16035,7 +16141,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf48rsf8ynxyyq",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Organic Rosehip oil and Avocado oil - Natural & Undil …",
   "price": 121,
   "capacityLine": "200 ml (pack of 2)",
@@ -16308,6 +16414,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:rosehip",
    "ing:argan-oil",
+   "ing:calendula",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -16369,7 +16476,7 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 3 ratings"
   ],
   "cons": [
-   "Only headline actives are listed — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -16392,7 +16499,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.3/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: Rosehip Extract",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -16422,6 +16529,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:scars",
    "skin:dry",
    "skin:all",
    "free:paraben",
@@ -16454,7 +16562,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Rosehip Extract",
-   "inciNote": "Only headline actives are listed — no base / preservative ingredients, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -16577,7 +16685,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf48rs79gh52t4",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Organic Rosehip oil and Coconut oil - Natural & Undil …",
   "price": 126,
   "capacityLine": "200 ml (pack of 2)",
@@ -16686,7 +16794,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf48rsbqvx5ysg",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Organic Rosehip oil and Castor oil - Natural & Undilu …",
   "price": 150,
   "capacityLine": "100 ml",
@@ -16745,6 +16853,7 @@ const CTPRODUCTS = [
    "ing:rose",
    "ing:rosehip",
    "ing:argan-oil",
+   "ing:lavender",
    "claim:hydrating",
    "skin:oily",
    "skin:dry",
@@ -16797,7 +16906,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf48rsqh9d4hkf",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Organic Rosehip oil - Natural & Undiluted combo of 2 …",
   "price": 171,
   "capacityLine": "200 ml (pack of 2)",
@@ -17122,17 +17231,16 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rosehip",
   "featureLine": "Oil",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 5.7
   },
   "fullSpec": {
@@ -17149,11 +17257,11 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (302 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Pure Rosehip Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Pure Rosehip Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Silvercloud Ventures (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.1★ from 302 ratings"
@@ -17175,8 +17283,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -17185,22 +17292,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Specifications › Composition",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Pure Rosehip Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Pure Rosehip Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -17435,17 +17542,16 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "rose",
   "featureLine": "Oil · Paraben-free · ₹1970/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 1.8
   },
   "fullSpec": {
@@ -17462,11 +17568,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "3.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Pure Natural Rose Hip Seed Oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Pure Natural Rose Hip Seed Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "3.7★ from 3 ratings"
   },
@@ -17498,8 +17604,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -17508,22 +17613,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Pure Natural Rose Hip Seed Oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Pure Natural Rose Hip Seed Oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -18020,9 +18125,11 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "ing:vitamin-e",
    "ing:jojoba",
+   "ing:aluminium-salts",
    "claim:dark-spots",
    "claim:oil-control",
    "claim:exfoliating",
+   "claim:cracked-heels",
    "free:paraben",
    "free:vegan",
    "aud:unisex",
@@ -18185,18 +18292,18 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "squalane",
   "featureLine": "Oil · ₹35000/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.4★ from 97 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 6
   },
   "fullSpec": {
@@ -18213,11 +18320,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.4/5 (97 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Natural Squalane Oil (derived from Olives)",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Natural Squalane Oil (derived from Olives)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.4★ from 97 ratings"
   },
@@ -18240,8 +18347,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -18250,22 +18356,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Natural Squalane Oil (derived from Olives)",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Natural Squalane Oil (derived from Olives)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -18289,17 +18395,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "squalane",
   "featureLine": "Oil · ₹13200/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "No fragrance / flagged irritant on the INCI list"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 4.8
   },
   "fullSpec": {
@@ -18316,11 +18421,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (40 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Natural Squalane Oil (derived from Olives)",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: Natural Squalane Oil (derived from Olives)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.2★ from 40 ratings"
   },
@@ -18343,8 +18448,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -18353,22 +18457,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "Natural Squalane Oil (derived from Olives)",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "Natural Squalane Oil (derived from Olives)",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -19360,7 +19464,7 @@ const CTPRODUCTS = [
    "Well-reviewed: 4.3★ from 1,066 ratings"
   ],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -19383,7 +19487,7 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (1,066 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Specifications › Composition",
    "inciList": "Unverified seller line: 100% pure Coconut oil",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -19432,7 +19536,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "100% pure Coconut oil",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -19774,7 +19878,7 @@ const CTPRODUCTS = [
   "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Short list wrapped in marketing wording — formula unscored",
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
@@ -19797,7 +19901,7 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.2/5 (240 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
    "inciList": "Unverified seller line: 100% pure Coconut oil",
    "evidenceActives": "Unscored — no verified INCI list",
@@ -19853,7 +19957,7 @@ const CTPRODUCTS = [
    "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "100% pure Coconut oil",
-   "inciNote": "Short list wrapped in marketing wording — a seller highlight, not the declared list, so formula and safety are unscored",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -19878,18 +19982,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "kumkumadi",
   "featureLine": "Wash / cleanser · Paraben-free · ₹427/100ml",
-  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.6★ from 461 ratings"
   ],
   "cons": [
+   "Only 1 ingredient named — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 2.1,
-   "skin": 7,
-   "trust": 5.5,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 7.6
   },
   "fullSpec": {
@@ -19906,11 +20010,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.6/5 (461 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "kumkumadi oil",
-   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "inciList": "Unverified seller line: kumkumadi oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 461 ratings"
   },
@@ -19946,8 +20050,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:full",
-   "inci:no-fragrance"
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -19956,22 +20059,22 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "full",
-   "inciSrc": "listing",
+   "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
-   "inci": "full",
+   "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": "kumkumadi oil",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.7,
+   "inciText": null,
+   "inciUnverified": "kumkumadi oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
    "support": [],
@@ -20163,6 +20266,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:ayurvedic",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -20271,6 +20375,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -20490,6 +20595,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -21021,6 +21127,7 @@ const CTPRODUCTS = [
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:lightweight",
    "skin:all",
@@ -21344,6 +21451,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:stretch-marks",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -21464,12 +21572,14 @@ const CTPRODUCTS = [
    "ing:squalane",
    "ing:shea-butter",
    "ing:vitamin-e",
+   "ing:lavender",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:spf-claim",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -22408,7 +22518,8 @@ const CTPRODUCTS = [
    "evidenceActives": "tocopherol (#21 on list, moderate evidence); squalane (#28 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.5★ from 4,389 ratings"
+   "buyerEvidence": "4.5★ from 4,389 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI; Irritation — panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/f/r/400-spanish-squalane-niacinamide-glow-body-lotion-with-cocoa-original-imah6h63razbzpfj.jpeg?q=90",
@@ -22443,6 +22554,9 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -22476,6 +22590,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22483,6 +22598,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -22490,6 +22606,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -22497,6 +22614,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -22504,6 +22622,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -22511,13 +22630,23 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "vitc"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "striae"
     },
     {
      "name": "squalane",
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -22823,6 +22952,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:overnight",
    "skin:dry",
    "skin:normal",
    "skin:all",
@@ -23450,6 +23580,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:korean",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -23492,114 +23623,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gfxm1g9p",
-  "brand": "Unbranded",
-  "model": "Vitamin C Serum in Solid Gel with fast absorbing formula. hyaluronic acid for Anti pimple,…",
-  "price": 199,
-  "capacityLine": "100 g",
-  "materialLine": "vitamin C + hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹199/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹199/100g",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71zI3KXxTQL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GFXM1G9P",
-  "buyStore": "Amazon",
-  "title": "Vitamin C Serum in Solid Gel with fast absorbing formula. hyaluronic acid for Anti pimple, Acne Free Skin, Aloe Vera extract for face Anti Ageing, Face Oil & Serum for Dry Skin and Oily Skin, Fairness & Face Glow | 100 Gm",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "format:oil",
-   "ing:vitamin-c",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:lightweight",
-   "skin:oily",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -23868,6 +23891,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "free:fragrance",
    "free:non-comedogenic",
    "aud:unisex",
@@ -23880,110 +23904,6 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": true,
    "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gcd9566d",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Face Serum 15 ML & Red Sandalwood Face Mask 50 Gram Combo | Ayurvedic Night Seru…",
-  "price": 948,
-  "capacityLine": "50 g",
-  "materialLine": "saffron + sandalwood + clay/mud",
-  "featureLine": "Mask / pack · ₹1896/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1896/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "saffron, sandalwood, clay/mud, kumkumadi (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714AvJEkADL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GCD9566D",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Face Serum 15 ML & Red Sandalwood Face Mask 50 Gram Combo | Ayurvedic Night Serum with Saffron, Manjistha & Sandalwood + Natural Clay Face Pack for Glowing & Clear-Looking Skin",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:clay-mask",
-   "format:pack",
-   "format:kit",
-   "ing:saffron",
-   "ing:sandalwood",
-   "ing:clay",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
    "derm": false,
    "men": false,
    "women": false,
@@ -24179,6 +24099,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:oil-control",
    "claim:ayurvedic",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -24469,7 +24390,8 @@ const CTPRODUCTS = [
    "evidenceActives": "squalane (#3 on list, moderate evidence); tocopheryl acetate (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Aging — bakuchiol #8 on INCI, retinal #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AIbuS1RyL._AC_UL320_.jpg"
@@ -24490,6 +24412,7 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -24524,6 +24447,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -24531,6 +24455,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -24538,6 +24463,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bakuchiol"
     },
     {
@@ -24545,6 +24471,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -24605,7 +24532,8 @@ const CTPRODUCTS = [
    "evidenceActives": "tocopherol (#7 on list, moderate evidence); rosa canina fruit oil (#13 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Dark spots — sodium ascorbyl phosphate #14 on INCI; Aging — retinol #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IDs9rgD0L._AC_UL320_.jpg"
@@ -24625,6 +24553,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -24659,6 +24589,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -24666,6 +24597,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -24673,6 +24605,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -24680,6 +24613,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -24687,6 +24621,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -24758,6 +24693,7 @@ const CTPRODUCTS = [
    "format:serum",
    "ing:retinol",
    "ing:squalane",
+   "ing:chamomile",
    "claim:anti-aging",
    "claim:lightweight",
    "aud:women",
@@ -25051,7 +24987,8 @@ const CTPRODUCTS = [
    "evidenceActives": "squalane (#7 on list, moderate evidence); tetrahexyldecyl ascorbate (#9 on list, moderate evidence); tocopherol (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Dark spots — tetrahexyldecyl ascorbate #9 on INCI; Aging — tetrahexyldecyl ascorbate #9 on INCI, retinol #10 on INCI; Irritation — bisabolol #8 on INCI, avena sativa kernel extract #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Q6R8iG-wL._AC_UL320_.jpg"
@@ -25071,6 +25008,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -25105,6 +25045,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -25112,6 +25053,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -25119,6 +25061,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -25126,6 +25069,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -25133,6 +25077,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -25140,6 +25085,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "oat"
     }
    ],
@@ -25304,7 +25250,8 @@ const CTPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#4 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Aging — bakuchiol #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71w-lk--UdL._AC_UL320_.jpg"
@@ -25321,6 +25268,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -25355,6 +25303,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "bakuchiol"
     },
     {
@@ -25362,6 +25311,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -25369,6 +25319,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -26158,6 +26109,7 @@ const CTPRODUCTS = [
    "ing:kumkumadi",
    "claim:brightening",
    "claim:barrier",
+   "claim:overnight",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -27174,6 +27126,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:barrier",
    "claim:ayurvedic",
+   "claim:stretch-marks",
    "aud:unisex",
    "size:travel",
    "rating:low",
@@ -27585,6 +27538,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:bakuchiol",
    "ing:rosehip",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -29218,7 +29172,8 @@ const CTPRODUCTS = [
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51oscTJciQL._AC_UL320_.jpg"
@@ -29243,6 +29198,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -29277,6 +29234,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29284,6 +29242,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -29291,6 +29250,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -29298,6 +29258,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -29305,6 +29266,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -29312,6 +29274,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -29319,6 +29282,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "centella"
     },
     {
@@ -29326,6 +29290,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -29822,7 +29787,6 @@ const CTPRODUCTS = [
   "title": "Matte Finish Face Moisturizer with 5% Niacinamide | For Oil Control, Brightening & Hydrating Skin | with 2% Rice Water, 2% Olive Squalane, 1% Ceramide Complex & 1% Hydrolyzed Collagen | All Skin Types | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:collagen",
@@ -29835,6 +29799,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:combination",
    "skin:normal",
@@ -30443,7 +30408,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:squalane",
    "ing:glycerin",
@@ -30547,13 +30511,13 @@ const CTPRODUCTS = [
   "title": "Moody AcneXpert Oil Free Moisturiser With Green Tea & Squalane | Reduces Blemishes, Excess Oil & Acne Marks For Radiant & Even Skin Tone | Non-Greasy & Light Weight Moisturizer For All Skin Type, 50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:green-tea",
    "ing:squalane",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:scars",
    "skin:all",
    "free:oil-free",
    "aud:unisex",
@@ -30946,7 +30910,8 @@ const CTPRODUCTS = [
    "evidenceActives": "tocopheryl acetate (#39 on list, moderate evidence); squalane (#40 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51foCdo5DeL._AC_UL320_.jpg"
@@ -30968,6 +30933,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -31002,6 +30969,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -31009,6 +30977,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -31016,6 +30985,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -31023,6 +30993,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -31030,6 +31001,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -31037,6 +31009,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -31044,6 +31017,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -31051,6 +31025,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -31058,6 +31033,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -31065,6 +31041,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -31072,6 +31049,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -31079,6 +31057,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -31086,6 +31065,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 38,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -31093,6 +31073,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 39,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -31100,6 +31081,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 40,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -31107,6 +31089,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 41,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -31712,6 +31695,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:barrier",
    "claim:ayurvedic",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -32325,6 +32309,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:stretch-marks",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -33563,6 +33548,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -35450,6 +35436,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:squalane",
    "ing:rosehip",
+   "ing:sugar",
    "claim:brightening",
    "claim:lightweight",
    "skin:all",
@@ -37653,6 +37640,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:lightweight",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -38754,6 +38742,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -39154,6 +39144,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "size:large",
    "rating:4.0",
@@ -39853,6 +39844,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -39950,6 +39943,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "claim:oil-control",
+   "claim:makeup",
    "skin:oily",
    "aud:women",
    "rating:none",
@@ -40147,6 +40141,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:turmeric",
+   "ing:calendula",
    "claim:brightening",
    "claim:dark-spots",
    "aud:unisex",
@@ -40360,6 +40355,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:makeup",
    "skin:oily",
    "skin:combination",
    "skin:all",
@@ -40463,6 +40459,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -41484,6 +41482,7 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:squalane",
    "ing:rosehip",
+   "ing:sugar",
    "claim:brightening",
    "claim:lightweight",
    "skin:all",
@@ -41789,6 +41788,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:acne",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -42704,6 +42704,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:barrier",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -43308,11 +43309,13 @@ const CTPRODUCTS = [
    "format:oil",
    "format:kit",
    "ing:rosehip",
+   "ing:apricot",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:standard",
@@ -45130,6 +45133,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:argan-oil",
    "ing:jojoba",
+   "ing:apricot",
    "claim:hydrating",
    "free:paraben",
    "aud:unisex",
@@ -45449,109 +45453,6 @@ const CTPRODUCTS = [
   "filters": {
    "actives": false,
    "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0cr7pk72t",
-  "brand": "Unbranded",
-  "model": "Jojoba Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radiant skin, ant…",
-  "price": 535,
-  "capacityLine": "30 ml (pack of 2)",
-  "materialLine": "vitamin E",
-  "featureLine": "Serum · Paraben-free · ₹1783/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 ml × 2 pack",
-   "pricePer100": "₹1783/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin E (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61BD8Pr4+OL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CR7PK72T",
-  "buyStore": "Amazon",
-  "title": "Jojoba Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radiant skin, anti-aging serum with vitamin E. (Pack of 2) -15ml & 30 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:vitamin-e",
-   "ing:jojoba",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "free:paraben",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
    "natural": true,
    "derm": false,
    "men": false,
@@ -46861,6 +46762,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -47360,6 +47262,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -47558,6 +47461,8 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -47758,6 +47663,8 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -47862,6 +47769,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -49291,6 +49199,8 @@ const CTPRODUCTS = [
    "ing:vitamin-e",
    "claim:brightening",
    "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -50504,6 +50414,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:whitening-claim",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -51004,6 +50915,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:dark-circles",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -51103,6 +51015,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -51201,6 +51114,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:stretch-marks",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -51798,6 +51712,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -51997,6 +51912,9 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:rosehip",
    "claim:anti-aging",
+   "claim:stretch-marks",
+   "claim:scars",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -52296,6 +52214,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -52590,6 +52509,8 @@ const CTPRODUCTS = [
    "format:oil",
    "ing:rosehip",
    "claim:brightening",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -52882,6 +52803,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:hydrating",
    "claim:barrier",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -53177,6 +53099,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:acne",
+   "claim:stretch-marks",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -53579,6 +53502,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:oily",
    "skin:all",
    "aud:unisex",
@@ -54174,6 +54098,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:acne",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -54468,6 +54393,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -54863,6 +54790,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -54962,6 +54890,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:brightening",
    "claim:hydrating",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -55254,6 +55183,7 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -55864,6 +55794,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:oily",
    "skin:sensitive",
    "skin:all",
@@ -56471,6 +56402,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -56968,7 +56901,7 @@ const CTPRODUCTS = [
   "buyStore": "Amazon",
   "title": "Anti Acne Nabhi Oil for Men & Women 30ml Herbal Belly Button Oil for Acne & Pimple Care Ayurvedic Skin Nourishing Formula with Rosehip Oil Sea Buckthorn Daily Face Care & Healthy Looking Skin",
   "tags": [
-   "scope:face",
+   "scope:both",
    "format:oil",
    "ing:rosehip",
    "ing:sea-buckthorn",
@@ -58292,6 +58225,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
+   "claim:overnight",
    "skin:dry",
    "free:vegan",
    "aud:unisex",
@@ -59098,6 +59032,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:pores",
    "claim:water-resistant",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -59413,6 +59348,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:soothing",
    "claim:dry-skin-relief",
+   "claim:scars",
    "skin:oily",
    "skin:combination",
    "skin:sensitive",
@@ -61428,9 +61364,11 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:squalane",
+   "ing:sugar",
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -62830,6 +62768,7 @@ const CTPRODUCTS = [
    "ing:olive",
    "claim:anti-aging",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -62977,107 +62916,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0h996q665",
-  "brand": "Unbranded",
-  "model": "Face Moisturiser and Face Oil with Chebula, Squalane and Pentavitin for Deep Nourishment a…",
-  "price": 3599,
-  "capacityLine": "30 ml",
-  "materialLine": "squalane",
-  "featureLine": "Oil · ₹11997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹11997/100ml",
-   "format": "Oil",
-   "keyIngredients": "squalane (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71ri+SEwJPL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H996Q665",
-  "buyStore": "Amazon",
-  "title": "Face Moisturiser and Face Oil with Chebula, Squalane and Pentavitin for Deep Nourishment and Barrier Repair, for Very Dry Skin, 30ml + 30ml",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "ing:squalane",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "biocule-b0bxl69zb6",
   "brand": "biocule",
   "model": "RESTORE Night Recovery Face Oil with Sugar Squalane, Buriti & Hemp Oils, Natural Facial Oi…",
@@ -63129,9 +62967,11 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:squalane",
+   "ing:sugar",
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:overnight",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -63636,6 +63476,8 @@ const CTPRODUCTS = [
    "scope:face",
    "format:oil",
    "ing:squalane",
+   "ing:sugar",
+   "ing:apricot",
    "claim:anti-aging",
    "claim:barrier",
    "claim:lightweight",
@@ -63952,6 +63794,9 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:stretch-marks",
+   "claim:scars",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -64053,6 +63898,7 @@ const CTPRODUCTS = [
    "ing:squalane",
    "ing:vitamin-e",
    "ing:jojoba",
+   "ing:chamomile",
    "claim:hydrating",
    "claim:spf-claim",
    "skin:all",
@@ -64164,6 +64010,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:korean",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:unisex",
@@ -64777,6 +64624,7 @@ const CTPRODUCTS = [
    "ing:shea-butter",
    "ing:vitamin-e",
    "ing:coconut",
+   "ing:chamomile",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -64999,6 +64847,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:lightweight",
    "claim:dry-skin-relief",
+   "claim:scars",
    "skin:oily",
    "skin:sensitive",
    "skin:all",
@@ -65762,108 +65611,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sonark-s-b0bjd6mpwf",
-  "brand": "SONARK'S",
-  "model": "NISARGA HERBS Ayurvedic Face Oil (20ml) – Gentle Daily Moisturizer for Oily & Combination …",
-  "price": 266,
-  "capacityLine": "20 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹1330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "20 ml",
-   "pricePer100": "₹1330/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71V2L4OCFKL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BJD6MPWF",
-  "buyStore": "Amazon",
-  "title": "SONARK'S NISARGA HERBS Ayurvedic Face Oil (20ml) – Gentle Daily Moisturizer for Oily & Combination Skin – Natural Lightweight Serum to Promote Even Skin Tone, Radiant Glow & Lock in Moisture",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:oil",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:ayurvedic",
-   "skin:oily",
-   "skin:combination",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
   "id": "deve-b07ry8vlyr",
   "brand": "Deve",
   "model": "Herbes Kumkumadi Face Oil (Tailam) with Glass Dropper | Traditionally Extracted | Pure | S…",
@@ -66217,6 +65964,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:oil-control",
    "claim:soothing",
+   "claim:stretch-marks",
    "skin:dry",
    "skin:normal",
    "aud:unisex",
@@ -67522,6 +67270,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:oil",
+   "ing:lavender",
    "claim:brightening",
    "claim:dark-spots",
    "claim:lightweight",
@@ -67841,6 +67590,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "claim:anti-aging",
    "claim:acne",
+   "claim:scars",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -67942,6 +67692,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:squalane",
    "claim:hydrating",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -68045,6 +67796,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:lightweight",
+   "claim:makeup",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -68517,105 +68269,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "pilgrim-b0dd3pmdxk",
-  "brand": "Pilgrim",
-  "model": "2-IN-1 Blush Duo 9g | Highly Pigmented, Long-lasting, Buildable & Blendable | Goodness of …",
-  "price": 418,
-  "capacityLine": "9 g",
-  "materialLine": "squalane + rosehip",
-  "featureLine": "Oil · ₹4644/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "9 g",
-   "pricePer100": "₹4644/100g",
-   "format": "Oil",
-   "keyIngredients": "squalane, rosehip (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Heavenly Secrets — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614axXBd25L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DD3PMDXK",
-  "buyStore": "Amazon",
-  "title": "Pilgrim 2-IN-1 Blush Duo 9g | Highly Pigmented, Long-lasting, Buildable & Blendable | Goodness of Rosehip Oil & Hydrating Squalane | All Skin Types | Shade Coral Rumba-02",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:squalane",
-   "ing:rosehip",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Heavenly Secrets",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://discoverpilgrim.com/"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0f5pwvhrk",
   "brand": "Unbranded",
   "model": "The Bare Bar Nightfall Restorative Night Facial Oil - 30ml I For All Skin Types 30 ml (Pac…",
@@ -68869,6 +68522,7 @@ const CTPRODUCTS = [
    "scope:unstated",
    "ing:aloe-vera",
    "ing:squalane",
+   "ing:chamomile",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -69077,6 +68731,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:squalane",
    "ing:watermelon",
+   "ing:chamomile",
    "claim:brightening",
    "claim:acne",
    "claim:pores",
@@ -69087,6 +68742,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:long-lasting",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -69199,6 +68855,7 @@ const CTPRODUCTS = [
    "format:oil",
    "format:balm",
    "format:peel",
+   "format:body-wax",
    "ing:urea",
    "ing:turmeric",
    "ing:squalane",
@@ -69209,6 +68866,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:lightweight",
+   "claim:cracked-heels",
    "skin:dry",
    "skin:sensitive",
    "free:derm",
@@ -69527,6 +69185,7 @@ const CTPRODUCTS = [
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -69983,22 +69642,24 @@ const CTPRODUCTS = [
  },
  {
   "id": "bio-oil-b08fqysqnn",
-  "brand": "Bio-Oil",
+  "brand": "Bio Oil",
   "model": "Moisturizing Body Lotion for Dry Skin with Jojoba Oil | Rosehip Oil | Shea Oil and Hyaluro…",
   "price": 599,
   "capacityLine": "175 ml",
   "materialLine": "hyaluronic acid + rosehip + shea butter",
   "featureLine": "Oil · ₹342/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bio-Oil official website (www.bio-oil.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "rosa canina fruit oil high on the INCI list (moderate evidence); simmondsia chinensis seed oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.6,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 2.6
   },
   "fullSpec": {
@@ -70015,13 +69676,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bio-Oil official website (www.bio-oil.com) — product page › Ingredients",
+   "inciSourceUrl": "https://www.bio-oil.com/in/en/products/BL/information",
+   "inciMatchedName": "Bio-Oil Body Lotion (name match 100%)",
+   "inciList": "Aqua, Dimethicone, Isopropyl Palmitate, Ethylhexyl Cocoate, Isododecane, Isopropyl Myristate, Urea, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Pentylene Glycol, Dicaprylyl Carbonate, Polyglyceryl-3 Diisostearate, Sodium Lactate, Dipentaerythrityl Hexacaprylate/Hexacaprate, Gluconolactone, Rosa Canina Fruit Oil, Simmondsia Chinensis Seed Oil, Calendula Officinalis Extract, Butyrospermum Parkii Oil, Helianthus Annuus Seed Oil, Glycine Soja Oil, Isostearyl Isostearate, Bisabolol, Octyldodecyl PCA, Retinyl Palmitate, Tocopheryl Acetate, Linoleic Acid, Linolenic Acid, Tocopherol, Sodium PCA, Sodium Hyaluronate, Lactic Acid, Stearalkonium Hectorite, Propylene Carbonate",
+   "evidenceActives": "rosa canina fruit oil (#16 on list, moderate evidence); simmondsia chinensis seed oil (#17 on list, moderate evidence); helianthus annuus seed oil (#20 on list, moderate evidence); tocopheryl acetate (#26 on list, moderate evidence); tocopherol (#29 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518cjuqaGjL._AC_UL320_.jpg"
@@ -70043,7 +69707,10 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -70052,25 +69719,136 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Bio-Oil official website (www.bio-oil.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.bio-oil.com/in/en/products/BL/information",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Bio-Oil Body Lotion",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Dimethicone, Isopropyl Palmitate, Ethylhexyl Cocoate, Isododecane, Isopropyl Myristate, Urea, Polyglyceryl-2 Dipolyhydroxystearate, Glycerin, Pentylene Glycol, Dicaprylyl Carbonate, Polyglyceryl-3 Diisostearate, Sodium Lactate, Dipentaerythrityl Hexacaprylate/Hexacaprate, Gluconolactone, Rosa Canina Fruit Oil, Simmondsia Chinensis Seed Oil, Calendula Officinalis Extract, Butyrospermum Parkii Oil, Helianthus Annuus Seed Oil, Glycine Soja Oil, Isostearyl Isostearate, Bisabolol, Octyldodecyl PCA, Retinyl Palmitate, Tocopheryl Acetate, Linoleic Acid, Linolenic Acid, Tocopherol, Sodium PCA, Sodium Hyaluronate, Lactic Acid, Stearalkonium Hectorite, Propylene Carbonate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "gluconolactone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 25,
+     "core": false,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 32,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "urea",
+    "glycerin",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -70329,7 +70107,8 @@ const CTPRODUCTS = [
    "evidenceActives": "squalane (#9 on list, moderate evidence); simmondsia chinensis seed oil (#10 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — ceramide np #7 on INCI, avena sativa kernel extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41EgP3MtTaL._AC_UL320_.jpg"
@@ -70354,6 +70133,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -70387,6 +70167,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -70394,6 +70175,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -70401,6 +70183,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "oat"
     },
     {
@@ -70408,6 +70191,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -70415,6 +70199,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -70847,6 +70632,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -70854,6 +70640,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -70861,6 +70648,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -70868,6 +70656,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -70875,6 +70664,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -70882,6 +70672,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -70889,6 +70680,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -70896,6 +70688,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -70903,6 +70696,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -70930,18 +70724,19 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "saffron + sandalwood + rosehip",
   "featureLine": "Serum · ₹1953/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); rosa canina fruit oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Well-reviewed: 4.7★ from 3 ratings"
   ],
   "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 4.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 5
   },
   "fullSpec": {
@@ -70958,11 +70753,11 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.7/5 (3 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
    "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Sesame Oil, Kumkumadi Tailam, Almond Oil, Olive Oil, Rosehip Oil, Saffron Extract, Lotus Extract, Kasturi Manjal Extract, Manjistha Extract, Licorice Extract, Sandalwood Extract, Vetiver Extract, Bakuchi Seed Oil, Geranium Oil, Vitamin E",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciList": "Sesame Oil, Kumkumadi Tailam, Almond Oil, Olive Oil, Rosehip Oil, Saffron Extract, Lotus Extract, Kasturi Manjal Extract, Manjistha Extract, Licorice Extract, Sandalwood Extract, Vetiver Extract, Bakuchi Seed Oil, Geranium Oil, Vitamin E",
+   "evidenceActives": "prunus amygdalus dulcis oil (#3 on list, moderate evidence); rosa canina fruit oil (#5 on list, moderate evidence); tocopherol (#15 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 3 ratings"
   },
@@ -70998,7 +70793,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -71007,24 +70803,49 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "partial",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
+   "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
    "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Sesame Oil, Kumkumadi Tailam, Almond Oil, Olive Oil, Rosehip Oil, Saffron Extract, Lotus Extract, Kasturi Manjal Extract, Manjistha Extract, Licorice Extract, Sandalwood Extract, Vetiver Extract, Bakuchi Seed Oil, Geranium Oil, Vitamin E",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
+   "inciText": "Sesame Oil, Kumkumadi Tailam, Almond Oil, Olive Oil, Rosehip Oil, Saffron Extract, Lotus Extract, Kasturi Manjal Extract, Manjistha Extract, Licorice Extract, Sandalwood Extract, Vetiver Extract, Bakuchi Seed Oil, Geranium Oil, Vitamin E",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
    "recognised": 0.93,
-   "actives": [],
+   "actives": [
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
    "support": [],
    "formulaNotes": [],
    "flags": [],
@@ -72398,112 +72219,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "plix-b0fpgh2ckf",
-  "brand": "PLIX-",
-  "model": "THE PLANT FIX Watermelon Hydra-Cool Body Lotion + Dual Sunscreen Combo | SPF 50 PA++++ | C…",
-  "price": 749,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C + ceramides + squalane",
-  "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, ceramides, squalane (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/710pUcw2WqL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FPGH2CKF",
-  "buyStore": "Amazon",
-  "title": "PLIX- THE PLANT FIX Watermelon Hydra-Cool Body Lotion + Dual Sunscreen Combo | SPF 50 PA++++ | Ceramides + Squalane + Vitamin C | Broad Spectrum UVA, UVB Protection | Lightweight Hydration | For All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:kit",
-   "spf:50",
-   "pa:++++",
-   "ing:vitamin-c",
-   "ing:ceramides",
-   "ing:squalane",
-   "ing:watermelon",
-   "claim:hydrating",
-   "claim:broad-spectrum",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
   "id": "mineral-b0h5kq8lnm",
   "brand": "Mineral",
   "model": "Sunscreen SPF 50 PA+++ | Broad Spectrum UVA & UVB Protection | With Zinc Oxide, Squalane &…",
@@ -72665,6 +72380,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:acne",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -73603,6 +73319,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:overnight",
    "skin:sensitive",
    "skin:all",
    "free:sensitive-safe",

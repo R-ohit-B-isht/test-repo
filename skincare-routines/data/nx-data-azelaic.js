@@ -1,6 +1,4313 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
+ {
+  "id": "anua-itm6b035adefab0c",
+  "brand": "Anua",
+  "model": "10% Azelaic Acid + Hyaluron Serum for Clear, Calm Skin",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.3★ from 27 ratings"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (27 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 27 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/d/q/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5q8ebadhhe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qsyshngev.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/f/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qxavpunvy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/0/x/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qbqnybqwk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-hyaluron-serum-clear-calm-skin/p/itm6b035adefab0c",
+  "buyStore": "Flipkart",
+  "title": "ANUA 10% Azelaic Acid + Hyaluron Serum for Clear, Calm Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 27 ratings"
+  }
+ },
+ {
+  "id": "anua-itmb23ecab6426c0",
+  "brand": "Anua",
+  "model": "Redness Soothing Serum with Azelaic Acid 10% & Hyaluron | For Sensitive Skin",
+  "price": 1495,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹4983/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4983/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 86%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 5 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/e/30-azelaic-acid-10-hyaluron-serum-to-reduce-redness-rejuveol-original-imahpfu5grnqgj95.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/9/s/30-azelaic-acid-10-hyaluron-redness-soothing-serum-korean-face-original-imahphd8qsvcyfut.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/7/x/30-azelaic-acid-10-hyaluron-serum-for-sensitive-acne-prone-skin-original-imahd5tajbrwjpyf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-redness-soothing-serum-azelaic-acid-10-hyaluron-sensitive-skin/p/itmb23ecab6426c0",
+  "buyStore": "Flipkart",
+  "title": "ANUA Redness Soothing Serum with Azelaic Acid 10% & Hyaluron | For Sensitive Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:all",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.86,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 5 ratings"
+  }
+ },
+ {
+  "id": "anua-itmcf9ce738733ab",
+  "brand": "Anua",
+  "model": "Redness Relief Serum | 10% Azelaic Acid + Hyaluronic Acid | Lightweight & Hydrating",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.5/5 (12 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 80%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 12 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/v/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcsjt8yygp3h4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/k/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpvww4fkk7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-redness-relief-serum-10-azelaic-acid-hyaluronic-lightweight-hydrating/p/itmcf9ce738733ab",
+  "buyStore": "Flipkart",
+  "title": "ANUA Redness Relief Serum | 10% Azelaic Acid + Hyaluronic Acid | Lightweight & Hydrating",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.8,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 12 ratings"
+  }
+ },
+ {
+  "id": "anua-itm9db00c75c53db",
+  "brand": "Anua",
+  "model": "Soothing Serum with Azelaic Acid 10% & Hyaluron | Skin Clarity & Hydration",
+  "price": 1495,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹4983/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.3★ from 16 ratings"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4983/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (16 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 80%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 16 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/v/30-soothing-serum-with-azelaic-acid-10-hyaluron-skin-clarity-original-imahcsjsweyknf4y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/d/f/30-niacinamide-10-txa-4-face-serum-even-skin-tone-pore-care-original-imahaag2zwptk7k7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-soothing-serum-azelaic-acid-10-hyaluron-skin-clarity-hydration/p/itm9db00c75c53db",
+  "buyStore": "Flipkart",
+  "title": "ANUA Soothing Serum with Azelaic Acid 10% & Hyaluron | Skin Clarity & Hydration",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.8,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 16 ratings"
+  }
+ },
+ {
+  "id": "anua-itm3f8c53099eaa8",
+  "brand": "Anua",
+  "model": "Acne Care & Redness Relief Serum – Azelaic Acid 10%",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.3
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (8 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 91%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 8 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/8/p/30-acne-care-redness-relief-serum-azelaic-acid-10-anua-original-imahd5ubchfgc8p5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/n/f/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4pgrug34u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/t/y/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4xwrzhjhr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/8/g/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4zkc2bz3g.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/5/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4zu3czfvn.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-acne-care-redness-relief-serum-azelaic-acid-10/p/itm3f8c53099eaa8",
+  "buyStore": "Flipkart",
+  "title": "ANUA Acne Care & Redness Relief Serum – Azelaic Acid 10%",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.91,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 8 ratings"
+  }
+ },
+ {
+  "id": "anua-itmc51b6097784f2",
+  "brand": "Anua",
+  "model": "azelaic acid 10+ hyaluron redness soothing serum",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · Paraben-free · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Zinc (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Korean / K-beauty, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 82%)",
+   "listingIngredientLine": "10% Azelaic Acid: A proven multitasker—anti-inflammatory, antibacterial, and effective for acne, rosacea, and hyperpigmentation, Zinc PCA & Niacinamide: Help regulate sebum, reduce inflammation, and enhance skin tone, Hyaluronic Acid: Deeply hydrates by retaining water, improving skin texture and co (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/3/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-original-imahf5bp6td9nzna.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/9/0/30-azelaic-acid-10-serum-with-hyaluronic-acid-redness-relief-original-imahd5tbba5znjar.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/q/30-10-azelaic-acid-treatment-serum-for-acne-redness-and-oil-original-imahcx5zgztfhr6u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-hyaluron-redness-soothing-serum/p/itmc51b6097784f2",
+  "buyStore": "Flipkart",
+  "title": "ANUA azelaic acid 10+ hyaluron redness soothing serum",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:serum",
+   "format:pack",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:zinc",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.82,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm3923b256379e5",
+  "brand": "Anua",
+  "model": "Azelaic Acid 10% + Hyaluron Serum for Sensitive & Acne-Prone Skin | Calms Redness | Hydrat…",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Salicylic acid (BHA) + Azelaic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, Acne-prone, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 86%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/7/x/30-azelaic-acid-10-hyaluron-serum-for-sensitive-acne-prone-skin-original-imahd5tajbrwjpyf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/2/q/30-azelaic-acid-10-face-serum-with-niacinamide-and-hazel-extract-original-imahpczyyfggqt52.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-hyaluron-serum-sensitive-acne-prone-skin-calms-redness-hydrates/p/itm3923b256379e5",
+  "buyStore": "Flipkart",
+  "title": "ANUA Azelaic Acid 10% + Hyaluron Serum for Sensitive & Acne-Prone Skin | Calms Redness | Hydrates",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.86,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm2272d45a2d4c4",
+  "brand": "Anua",
+  "model": "Multi-Action Soothing Serum – Azelaic Acid 10% + Hyaluronic Acid",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, Acne-prone, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 77%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/h/b/30-multi-action-soothing-serum-azelaic-acid-10-hyaluronic-acid-original-imahbvdehvwkdk3a.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/l/r/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhpaneegrgr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/f/d/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhpr7zsdbwx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/m/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhphme7te9n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-multi-action-soothing-serum-azelaic-acid-10-hyaluronic/p/itm2272d45a2d4c4",
+  "buyStore": "Flipkart",
+  "title": "ANUA Multi-Action Soothing Serum – Azelaic Acid 10% + Hyaluronic Acid",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.77,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm5472f9383e139",
+  "brand": "Anua",
+  "model": "10% Azelaic Acid Treatment Serum for Acne, Redness, and Oil Control",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 95%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/q/30-10-azelaic-acid-treatment-serum-for-acne-redness-and-oil-original-imahcx5zgztfhr6u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/v/30-soothing-serum-with-azelaic-acid-10-hyaluron-skin-clarity-original-imahcsjsweyknf4y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-treatment-serum-acne-redness-oil-control/p/itm5472f9383e139",
+  "buyStore": "Flipkart",
+  "title": "ANUA 10% Azelaic Acid Treatment Serum for Acne, Redness, and Oil Control",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 3 ratings"
+  }
+ },
+ {
+  "id": "anua-itmb5d6fe1c067c5",
+  "brand": "Anua",
+  "model": "Azelaic Acid 10% Serum with Hyaluronic Acid – Redness Relief & Skin Brightening",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/9/0/30-azelaic-acid-10-serum-with-hyaluronic-acid-redness-relief-original-imahd5tbba5znjar.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/v/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcsjt8yygp3h4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-serum-hyaluronic-redness-relief-skin-brightening/p/itmb5d6fe1c067c5",
+  "buyStore": "Flipkart",
+  "title": "ANUA Azelaic Acid 10% Serum with Hyaluronic Acid – Redness Relief & Skin Brightening",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itmaa47bda946af9",
+  "brand": "Anua",
+  "model": "Azelaic Acid Serum for Rednes",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 2.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 3 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/k/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpvww4fkk7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-serum-rednes/p/itmaa47bda946af9",
+  "buyStore": "Flipkart",
+  "title": "ANUA Azelaic Acid Serum for Rednes",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 3 ratings"
+  }
+ },
+ {
+  "id": "anua-itm69e24d89f7ea8",
+  "brand": "Anua",
+  "model": "10% Azelaic Acid & Hyaluronic Serum for Even Skin Tone",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/g/30-10-azelaic-acid-hyaluronic-serum-for-even-skin-tone-anua-original-imahcsk7rvefwywj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/k/v/30-soothing-serum-with-azelaic-acid-10-hyaluron-skin-clarity-original-imahcsjsweyknf4y.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/1/30-calming-serum-with-azelaic-acid-niacinamide-and-cica-anua-original-imahd5ubfzrayw4h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-hyaluronic-serum-even-skin-tone/p/itm69e24d89f7ea8",
+  "buyStore": "Flipkart",
+  "title": "ANUA 10% Azelaic Acid & Hyaluronic Serum for Even Skin Tone",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm4f6e6f4a44d8f",
+  "brand": "Anua",
+  "model": "Azelaic Acid Serum for Hydration and Blemish Control",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/d/q/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5q8ebadhhe.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qsyshngev.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/f/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qxavpunvy.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/0/x/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qbqnybqwk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-serum-hydration-blemish-control/p/itm4f6e6f4a44d8f",
+  "buyStore": "Flipkart",
+  "title": "ANUA Azelaic Acid Serum for Hydration and Blemish Control",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itmed9cbdb08099c",
+  "brand": "Anua",
+  "model": "10% Azelaic Acid Serum – Brightening & Anti-Blemish Formula with Hyaluronic Hydration",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/q/30-10-azelaic-acid-serum-brightening-anti-blemish-formula-with-original-imahhggnsh9xeckk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/g/30-10-azelaic-acid-hyaluronic-serum-for-even-skin-tone-anua-original-imahcsk7rvefwywj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-serum-brightening-anti-blemish-formula-hyaluronic-hydration/p/itmed9cbdb08099c",
+  "buyStore": "Flipkart",
+  "title": "ANUA 10% Azelaic Acid Serum – Brightening & Anti-Blemish Formula with Hyaluronic Hydration",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm4f456f1a7d671",
+  "brand": "Anua",
+  "model": "Calming Serum with Azelaic Acid, Niacinamide, and Cica",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Korean / K-beauty, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluron",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/1/30-calming-serum-with-azelaic-acid-niacinamide-and-cica-anua-original-imahd5ubfzrayw4h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/k/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpvww4fkk7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-calming-serum-azelaic-acid-niacinamide-cica/p/itm4f456f1a7d671",
+  "buyStore": "Flipkart",
+  "title": "ANUA Calming Serum with Azelaic Acid, Niacinamide, and Cica",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:korean",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluron",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm272fca716d2da",
+  "brand": "Anua",
+  "model": "Azelaic Acid 10% | Cica & Hyaluronic Acid | 30ml",
+  "price": 1495,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
+  "featureLine": "Scrub · ₹4983/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4983/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Hyaluron",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/f/s/30-azelaic-acid-10-cica-hyaluronic-acid-30ml-anua-original-imahpukuux8dzyzt.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-serum-original-imahpfhcfg8kruk4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/g/30-cica-hyaluronic-acid-korean-face-serum-30ml-anua-original-imahptnuj8tzydgx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/f/w/30-blemish-care-oil-control-korean-skincare-30ml-anua-serum-original-imahpffyufqhb9sf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/d/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-serum-original-imahpfhcypm4j4wg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-cica-hyaluronic-30ml/p/itm272fca716d2da",
+  "buyStore": "Flipkart",
+  "title": "ANUA Azelaic Acid 10% | Cica & Hyaluronic Acid | 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Hyaluron",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-itm073d69b47274a",
+  "brand": "Anua",
+  "model": "Skin Calming Serum – Azelaic Acid 10% & Hyaluronic Acid",
+  "price": 1645,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹5483/100ml",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5483/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 73%)",
+   "listingIngredientLine": "Hyaluron (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/q/30-10-azelaic-acid-treatment-serum-for-acne-redness-and-oil-original-imahcx5zgztfhr6u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/r/30-niacinamide-10-txa-4-dark-spot-correcting-serum-anua-original-imahezq7wdgdvvex.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/x/h/30-pdrn-ha-100-serum-boost-skin-hydration-elasticity-korean-original-imahcsmunxmpzunx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-skin-calming-serum-azelaic-acid-10-hyaluronic/p/itm073d69b47274a",
+  "buyStore": "Flipkart",
+  "title": "ANUA Skin Calming Serum – Azelaic Acid 10% & Hyaluronic Acid",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 0.73,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.3★ from 3 ratings"
+  }
+ },
+ {
+  "id": "anua-itm56e9ff71fd8b2",
+  "brand": "Anua",
+  "model": "HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
+  "price": 915,
+  "capacityLine": "250 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · Paraben-free · ₹366/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹366/100ml",
+   "format": "Serum",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Heartleaf (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/y/8/280-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-original-imahpf6v5xenp5aj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/m/j/280-heartleaf-77-soothing-toner-250ml-niacinamide-10-txa-4-serum-original-imahpf73z6ut9hvf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/h/l/t/250-heartleaf-77-calming-purifing-soothing-toner-anua-original-imaha24f4mw9xzdj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-men-women/p/itm56e9ff71fd8b2",
+  "buyStore": "Flipkart",
+  "title": "ANUA HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:heartleaf",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
  {
   "id": "foxtale-itm939a253688f62",
   "brand": "Foxtale",
@@ -42,7 +4349,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 1,220 ratings"
+   "buyerEvidence": "3.9★ from 1,220 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/o/x/g/15-acne-spot-corrector-gel-with-azelaic-acid-aha-bha-treats-original-imahggpsy8wf53n7.jpeg?q=90",
@@ -66,6 +4374,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -149,7 +4460,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "7Days Organic Pvt LTD (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 632 ratings"
+   "buyerEvidence": "4.4★ from 632 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/e/l/30-acne-control-face-serum-with-2-salicylic-acid-azelaic-acid-original-imahmjy2bhgmch5p.jpeg?q=90",
@@ -171,6 +4483,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -254,7 +4569,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/l/15-acne-spot-corrector-gel-salicylic-acid-spot-treatment-with-original-imahpnzz8yggd4z5.jpeg?q=90",
@@ -288,6 +4604,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -370,7 +4689,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/0/j/15-2-salicylic-acid-acne-spot-treatment-gel-with-azelaic-acid-original-imahzw3fz8z8uvdx.jpeg?q=90",
@@ -407,6 +4727,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -489,7 +4812,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/b/6/15-rapid-action-acne-spot-corrector-gel-15g-with-2-salicylic-original-imahzw3fdhqemtec.jpeg?q=90",
@@ -523,6 +4847,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -605,7 +4932,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/8/l/15-fast-acting-pimple-spot-gel-with-2-salicylic-acid-niacinamide-original-imahpartbqgcbxjn.jpeg?q=90",
@@ -636,6 +4964,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -718,7 +5049,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -746,6 +5078,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -828,7 +5163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/4/15-acne-treatment-gel-salicylic-acid-niacinamide-azelaic-acid-original-imahpasfeuu6xwtu.jpeg?q=90",
@@ -857,6 +5193,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -939,7 +5278,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -967,6 +5307,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1049,7 +5392,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/b/15-pimple-spot-gel-with-salicylic-acid-azelaic-acid-for-acne-original-imahpatydcvvvfpc.jpeg?q=90",
@@ -1078,6 +5422,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1160,7 +5507,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/g/15-fast-acne-spot-gel-with-azelaic-acid-for-blemish-control-original-imahparsdzqzf2r7.jpeg?q=90",
@@ -1188,6 +5536,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1270,7 +5621,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/b/2/15-pimple-spot-treatment-gel-salicylic-acid-azelaic-acid-sulfur-original-imahpas3uka76c6g.jpeg?q=90",
@@ -1297,6 +5649,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1379,7 +5734,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/z/h/15-fast-acting-acne-spot-gel-with-bha-sulfur-azelaic-acid-blend-original-imahpasfwr9txhfc.jpeg?q=90",
@@ -1407,6 +5763,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1489,7 +5848,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/d/a/15-professional-acne-spot-corrector-gel-2-bha-niacinamide-original-imahparkhba4zuqx.jpeg?q=90",
@@ -1518,6 +5878,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1600,7 +5963,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/7/15-acne-spot-corrector-with-sulfur-azelaic-acid-for-fast-pimple-original-imahpas6ugz5rgze.jpeg?q=90",
@@ -1629,6 +5993,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1711,7 +6078,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/o/i/15-fast-acting-acne-spot-gel-with-2-bha-sulfur-azelaic-acid-for-original-imahpas5uzy8xzay.jpeg?q=90",
@@ -1739,6 +6107,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -1821,7 +6192,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/x/f/15-fast-acting-acne-spot-treatment-gel-salicylic-acid-azelaic-original-imahzzhj7zf9ndbp.jpeg?q=90",
@@ -1849,6 +6221,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -1931,7 +6306,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 15 ratings"
+   "buyerEvidence": "4.4★ from 15 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/4/v/20-anti-acne-gel-azelia-gel-original-imah84snhzzrgx6b.jpeg?q=90",
@@ -1952,6 +6328,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -2036,7 +6415,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Era Botanics Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 6,712 ratings"
+   "buyerEvidence": "3.9★ from 6,712 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — product type, azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — product type, azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/n/-original-imahmxfckd2fz7gj.jpeg?q=90",
@@ -2059,6 +6439,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -2092,6 +6475,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -2099,6 +6483,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2106,6 +6491,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -2113,6 +6499,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -2120,6 +6507,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -2183,7 +6571,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/r/15-advanced-acne-corrector-gel-15g-salicylic-acid-azelaic-acid-original-imahzzh8dydvfmgg.jpeg?q=90",
@@ -2212,6 +6601,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -2294,7 +6686,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/m/z/15-acne-spot-corrector-gel-with-2-salicylic-acid-2-azelaic-acid-original-imahzv4xrud6fpx5.jpeg?q=90",
@@ -2333,6 +6726,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -2414,7 +6810,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Era Botanics private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 1,872 ratings"
+   "buyerEvidence": "4★ from 1,872 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #4 on INCI; Dark spots — product type, azelaic acid #4 on INCI; Irritation — product type, azelaic acid #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/i/w/-original-imahmxfcszekgxxp.jpeg?q=90",
@@ -2435,6 +6832,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -2467,6 +6867,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     }
    ],
@@ -2529,7 +6930,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 50 ratings"
+   "buyerEvidence": "5★ from 50 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/1/0/30-6-azelaic-acid-4-niacinamide-clarifying-face-serum-for-acne-original-imahhh95tqk6yheg.jpeg?q=90",
@@ -2559,6 +6961,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -2646,7 +7051,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); zinc pca (#9 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 44 ratings"
+   "buyerEvidence": "4.9★ from 44 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, zinc pca #9 on INCI; Dark spots — product type, niacinamide #2 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/6/y/d/1-clarifying-serum-with-dead-sea-minerals-niacinamide-azelaic-original-imah8sye329jybdk.jpeg?q=90",
@@ -2676,6 +7082,9 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -2709,6 +7118,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2716,6 +7126,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -2723,6 +7134,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -2730,6 +7142,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -2737,6 +7150,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -2800,7 +7214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 11 ratings"
+   "buyerEvidence": "3.7★ from 11 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/p/p/30-azelaic-acid-10-serum-with-niacinamide-hyaluronic-acid-30ml-original-imahzgfzwsehfxtx.jpeg?q=90",
@@ -2831,6 +7246,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -2912,7 +7330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/f/30-azelaic-acid-redness-relief-clear-complexion-serum-winym-original-imahns93f3afqep8.jpeg?q=90",
@@ -2953,6 +7372,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3035,7 +7457,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/3/g/30-azelaic-acid-20-cream-for-daily-skin-care-skinoren-original-imahqnfwshw5fd54.jpeg?q=90",
@@ -3064,6 +7487,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3146,7 +7572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/8/p/30-10-azelaic-acid-serum-targeted-acne-prone-skin-with-original-imahhyjybassjs5z.jpeg?q=90",
@@ -3179,6 +7606,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -3260,7 +7690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/j/4/30-azelaic-acid-redness-relief-daily-glow-face-serum-winym-original-imahns939vqpfyd8.jpeg?q=90",
@@ -3297,6 +7728,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3378,7 +7812,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/r/m/30-azelaic-acid-redness-relief-calm-glow-serum-winym-original-imahns93cyvkkkxx.jpeg?q=90",
@@ -3415,6 +7850,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3497,7 +7935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/q/r/10-10-azelaic-acid-serum-mini-size-with-niacinamide-rejuveol-original-imahq63sbw5ngkjv.jpeg?q=90",
@@ -3525,6 +7964,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -3607,7 +8049,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/m/7/30-20-azelaic-acid-face-cream-for-dark-spot-care-skinoren-original-imahqnffdbvqgzva.jpeg?q=90",
@@ -3636,6 +8079,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3718,7 +8164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/g/d/30-azelaic-acid-face-cream-for-dark-spots-blemishes-skinoren-original-imahqneu2wqgpzgc.jpeg?q=90",
@@ -3747,6 +8194,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3829,7 +8279,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -3857,6 +8308,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -3939,7 +8393,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/2/b/30-azelaic-acid-20-cream-for-acne-uneven-skin-tone-skinoren-original-imahqnf5rcjyzwxz.jpeg?q=90",
@@ -3968,6 +8423,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -4050,7 +8508,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/u/g/30-azelaic-acid-20-cream-for-uneven-skin-tone-care-skinoren-original-imahqnefnuwnkgb7.jpeg?q=90",
@@ -4079,6 +8538,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -4160,7 +8622,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/z/g/30-glowinfinity-azelaic-acid-barrier-support-facial-serum-original-imahq8yathjwucg2.jpeg?q=90",
@@ -4187,6 +8650,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -4269,7 +8735,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/f/30-20-azelaic-acid-face-cream-for-blemish-care-skinoren-original-imahqneezsykssyt.jpeg?q=90",
@@ -4298,6 +8765,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -4379,7 +8849,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/i/r/30-skinbloom-azelaic-acid-daily-skin-glow-serum-jashikumi-original-imahq8yaftuxcdtw.jpeg?q=90",
@@ -4407,6 +8878,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -4489,7 +8963,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/n/e/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecnv8ucaa9.jpeg?q=90",
@@ -4518,6 +8993,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -4600,7 +9078,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/e/3/30-glowmaster-azelaic-acid-moisture-barrier-serum-jashikumi-original-imahq8yajhz2drud.jpeg?q=90",
@@ -4627,6 +9106,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -4709,7 +9191,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/o/u/15-salicylic-acid-acne-gel-with-azelaic-acid-for-smooth-clear-original-imahpatpc8jqrdhr.jpeg?q=90",
@@ -4737,6 +9220,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -4819,7 +9305,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/r/m/30-daily-repairing-face-serum-with-niacinamide-10-and-azelaic-original-imahnrfwuzjuhdhm.jpeg?q=90",
@@ -4854,6 +9341,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -4936,7 +9426,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/w/r/30-12-niacinamide-face-serum-with-azelaic-acid-reduces-acne-original-imah8pusxhsvwjtk.jpeg?q=90",
@@ -4968,6 +9459,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5050,7 +9544,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -5077,6 +9572,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5159,7 +9657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/3/s/30-anti-acne-face-serum-with-azelaic-acid-ramicos-original-imaheyedmfmfmnha.jpeg?q=90",
@@ -5195,6 +9694,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5277,7 +9779,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/l/15-fast-acting-acne-spot-gel-with-salicylic-acid-azelaic-acid-original-imahparqkprzjped.jpeg?q=90",
@@ -5305,6 +9808,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5387,7 +9893,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 30 ratings"
+   "buyerEvidence": "4.8★ from 30 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/t/7/30-tranexamic-pigmentation-corrector-serum-with-3-tranexamic-original-imahpvmdnekghywm.jpeg?q=90",
@@ -5413,6 +9920,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -5450,131 +9960,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.8★ from 30 ratings"
-  }
- },
- {
-  "id": "anua-itmc51b6097784f2",
-  "brand": "Anua",
-  "model": "azelaic acid 10+ hyaluron redness soothing serum",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · Paraben-free · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Zinc (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Korean / K-beauty, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: 10% Azelaic Acid: A proven multitasker—anti-inflammatory, antibacterial, and effective for acne, rosacea, and hyperpigmentation, Zinc PCA & Niacinamide: Help regulate sebum, reduce inflammation, and enhance skin tone, Hyaluronic Acid: Deeply hydrates by retaining water, improving skin texture and comfort, Gentle Calming Complex™: Combines soothing agents like centella asiatica, aloe, and more to r",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/3/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-original-imahf5bp6td9nzna.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/9/0/30-azelaic-acid-10-serum-with-hyaluronic-acid-redness-relief-original-imahd5tbba5znjar.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/r/30-niacinamide-10-txa-4-dark-spot-correcting-serum-anua-original-imahezq7wdgdvvex.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-hyaluron-redness-soothing-serum/p/itmc51b6097784f2",
-  "buyStore": "Flipkart",
-  "title": "ANUA azelaic acid 10+ hyaluron redness soothing serum",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "format:pack",
-   "format:wash",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:zinc",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:korean",
-   "claim:scars",
-   "skin:sensitive",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "10% Azelaic Acid: A proven multitasker—anti-inflammatory, antibacterial, and effective for acne, rosacea, and hyperpigmentation, Zinc PCA & Niacinamide: Help regulate sebum, reduce inflammation, and enhance skin tone, Hyaluronic Acid: Deeply hydrates by retaining water, improving skin texture and comfort, Gentle Calming Complex™: Combines soothing agents like centella asiatica, aloe, and more to r",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.5,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5620,7 +10005,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/b/15-acne-spot-gel-with-azelaic-acid-for-spot-correction-rosebrite-original-imahparpzmcpmrgt.jpeg?q=90",
@@ -5658,6 +10044,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5740,7 +10129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -5769,6 +10159,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5851,7 +10244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/y/1/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-spot-original-imahpashqbhzzfz4.jpeg?q=90",
@@ -5880,6 +10274,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -5962,7 +10359,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -5989,6 +10387,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -6072,7 +10473,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/e/30-azelaic-acid-10-hyaluron-serum-to-reduce-redness-rejuveol-original-imahpfu5grnqgj95.jpeg?q=90",
@@ -6103,6 +10505,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -6185,7 +10590,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "JANKI HERBALS PVT. LTD. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/s/c/30-derma-optimist-acne-enemy-face-serum-acne-acne-marks-original-imahz4gyfpanwjep.jpeg?q=90",
@@ -6219,6 +10625,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -6301,7 +10710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/x/4/15-2-salicylic-acid-anti-acne-gel-for-men-women-helps-reduce-original-imahzm64vxcg9qjd.jpeg?q=90",
@@ -6326,6 +10736,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -6408,7 +10821,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/s/r/30-azelaic-acid-serum-for-bright-radiant-glow-rejuveol-original-imahq9jyrzggzkhc.jpeg?q=90",
@@ -6435,6 +10849,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -6517,7 +10934,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/l/z/30-clearglow-azelaic-acid-hydrating-brightening-daily-face-serum-original-imahq8yauvrhywwd.jpeg?q=90",
@@ -6544,6 +10962,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -6626,7 +11047,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/i/g/30-pureradiance-azelaic-acid-hyaluronic-redness-soothing-facial-original-imahq8yayar6mtvv.jpeg?q=90",
@@ -6654,6 +11076,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -6738,7 +11163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#3 on list, strong evidence); salicylic acid (#5 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, salicylic acid #5 on INCI; Dark spots — product type, azelaic acid #3 on INCI; Irritation — product type, azelaic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/w/30-salicylic-acid-and-azelaic-acid-face-serum-for-acne-pimples-original-imahzvyguhs7csuh.jpeg?q=90",
@@ -6767,6 +11193,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -6799,6 +11228,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -6806,6 +11236,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -6867,7 +11298,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/z/4/15-salicylic-acid-acne-spot-gel-with-azelaic-acid-for-smooth-original-imahparrsyp9tbdx.jpeg?q=90",
@@ -6897,6 +11329,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -6979,7 +11414,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/q/15-acne-spot-corrector-gel-with-sulfur-azelaic-acid-for-breakout-original-imahparspkwefdjh.jpeg?q=90",
@@ -7008,6 +11444,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -7033,123 +11472,6 @@ const NXPRODUCTS = [
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm56e9ff71fd8b2",
-  "brand": "Anua",
-  "model": "HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
-  "price": 944,
-  "capacityLine": "250 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · Paraben-free · ₹378/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹378/100ml",
-   "format": "Serum",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Rose, Glycerin, Heartleaf (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: NATURAL",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/y/8/280-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-original-imahpf6v5xenp5aj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/f/m/j/280-heartleaf-77-soothing-toner-250ml-niacinamide-10-txa-4-serum-original-imahpf73z6ut9hvf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/u/g/i/20-nail-damage-treatment-cream-for-broken-nails-and-repair-care-original-imahj4g7canrdsss.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/4/8/a/280-heartleaf-77-hyaluron-toner-250ml-peach-70-niacin-serum-30-original-imahpf8scdvsrgvp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-heartleaf-77-hyaluron-toner-250ml-azelaic-acid-serum-30ml-men-women/p/itm56e9ff71fd8b2",
-  "buyStore": "Flipkart",
-  "title": "ANUA HEARTLEAF 77+ HYALURON TONER 250ML+ AZELAIC ACID SERUM 30ML Men & Women",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:serum",
-   "format:toner",
-   "format:pack",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:rose",
-   "ing:glycerin",
-   "ing:heartleaf",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:lightweight",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "NATURAL",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -7206,7 +11528,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/a/t/u/50-acne-scars-face-cream-with-salicylic-acid-azelaic-acid-original-imahqk7gxqhmpsev.jpeg?q=90",
@@ -7232,6 +11555,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -7314,7 +11640,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/j/h/15-acne-gel-with-salicylic-acid-niacinamide-azelaic-acid-for-original-imahpatqhznqnyxq.jpeg?q=90",
@@ -7342,6 +11669,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -7424,7 +11754,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/m/z/15-nineless-azelaic-acid-cream-for-clear-skin-mini-size-rejuveol-original-imahputwssdzyzrz.jpeg?q=90",
@@ -7450,6 +11781,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -7532,7 +11866,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/1/4/10-10-azelaic-acid-serum-mini-size-with-dropper-rejuveol-original-imahq5q7n4hj8qqn.jpeg?q=90",
@@ -7558,6 +11893,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -7640,7 +11978,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/g/h/15-acne-spot-corrector-gel-with-2-salicylic-acid-azelaic-acid-original-imahzqr2tsngdkye.jpeg?q=90",
@@ -7680,6 +12019,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -7763,7 +12105,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#1 on list, strong evidence); niacinamide (#2 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 6 ratings"
+   "buyerEvidence": "3.7★ from 6 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Dark spots — product type, azelaic acid #1 on INCI, niacinamide #2 on INCI; Irritation — product type, azelaic acid #1 on INCI, aloe barbadensis leaf extract #6 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/3/x/30-10-azelaic-acid-face-serum-with-2-niacinamide-for-acne-original-imahmrwkjgzy5hsx.jpeg?q=90",
@@ -7801,6 +12144,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -7833,6 +12179,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -7840,6 +12187,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -7847,6 +12195,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7854,6 +12203,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -7861,6 +12211,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -7868,6 +12219,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -7930,7 +12282,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4 ratings"
+   "buyerEvidence": "4★ from 4 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/j/t/280-heartleaf-77-soothing-toner-250ml-azelic-acid-10-hyaluron-original-imahp9zjh2gzg7vh.jpeg?q=90",
@@ -7958,6 +12311,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -8038,7 +12394,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "WEDERM PRIVATE LIMITED PLOT NO.360 PHASE-9 INDUSTRIAL AREA MOHALI SAS NAGAR PUNJAB-160062 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 4,143 ratings"
+   "buyerEvidence": "4★ from 4,143 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/t/a/20-pigmentation-removal-cream-kojic-acid-azelaic-acid-reduces-original-imahnfzu7gabxfqp.jpeg?q=90",
@@ -8059,6 +12416,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -8142,7 +12502,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 169 ratings"
+   "buyerEvidence": "5★ from 169 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/l/n/-original-imahqw7ph4ysxrby.jpeg?q=90",
@@ -8169,6 +12530,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -8252,7 +12616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#6 on list, strong evidence); tranexamic acid (#7 on list, moderate evidence); azelaic acid (#8 on list, strong evidence); alpha-arbutin (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 19 ratings"
+   "buyerEvidence": "3.7★ from 19 ratings",
+   "concernBasis": "Acne — product type, niacinamide #6 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, tranexamic acid #7 on INCI, azelaic acid #8 on INCI, ethyl ascorbic acid #9 on INCI, alpha-arbutin #10 on INCI, kojic dipalmitate #11 on INCI, kojic acid #12 on INCI; Aging — ethyl ascorbic acid #9 on INCI; Irritation — product type, azelaic acid #8 on INCI, aloe barbadensis leaf extract #14 on INCI, panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/5/9/30-10-azelaic-acid-5-tranexamic-acid-pigmentation-corrector-original-imahncgss8wg7du7.jpeg?q=90",
@@ -8284,6 +12649,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -8316,6 +12685,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8323,6 +12693,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -8330,6 +12701,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -8337,6 +12709,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -8344,6 +12717,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -8351,6 +12725,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -8358,6 +12733,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -8365,6 +12741,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -8372,6 +12749,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -8379,6 +12757,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -8386,6 +12765,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -8393,6 +12773,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -8400,6 +12781,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -8463,7 +12845,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/l/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfarffzhzp.jpeg?q=90",
@@ -8497,6 +12880,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -8579,7 +12965,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/h/7/30-clearfix-advanced-anti-acne-face-serum-for-acne-prone-skin-10-original-imahzrryfrvqgjzf.jpeg?q=90",
@@ -8612,6 +12999,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -8695,7 +13085,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); salicylic acid (#3 on list, strong evidence); azelaic acid (#4 on list, strong evidence); mandelic acid (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 97 ratings"
+   "buyerEvidence": "4.2★ from 97 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, salicylic acid #3 on INCI, azelaic acid #4 on INCI; Dark spots — product type, niacinamide #2 on INCI, azelaic acid #4 on INCI; Irritation — product type, azelaic acid #4 on INCI, aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/w/y/30-anti-acne-serum-niacinamide-salicylic-azelaic-acid-fights-original-imahmgmz7aefhxfy.jpeg?q=90",
@@ -8738,6 +13129,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -8770,6 +13164,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -8777,6 +13172,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -8784,6 +13180,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -8791,6 +13188,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -8798,6 +13196,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8805,6 +13204,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -8866,7 +13266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/9/s/30-azelaic-acid-10-hyaluron-redness-soothing-serum-korean-face-original-imahphd8qsvcyfut.jpeg?q=90",
@@ -8895,6 +13296,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -8977,7 +13381,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/2/c/15-acne-spot-corrector-gel-2-bha-salicylic-acid-niacinamide-original-imahzwbcqsupfjun.jpeg?q=90",
@@ -9009,6 +13414,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -9090,7 +13498,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/b/j/99-5-strawberry-lubricant-cream-for-girls-to-grow-beauty-skin-original-imah97hzsrky9gpz.jpeg?q=90",
@@ -9127,6 +13536,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -9211,7 +13623,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); salicylic acid (#5 on list, strong evidence); mandelic acid (#6 on list, moderate evidence); azelaic acid (#7 on list, strong evidence); zinc pca (#8 on list, moderate evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #5 on INCI, azelaic acid #7 on INCI, zinc pca #8 on INCI, melaleuca alternifolia leaf oil #9 on INCI; Dark spots — product type, niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — product type, azelaic acid #7 on INCI, panthenol #11 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/q/3/30-pore-reset-anti-acne-and-oil-control-serum-with-salicylic-original-imahpsgpsvuzd6he.jpeg?q=90",
@@ -9260,6 +13673,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -9291,6 +13707,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -9298,6 +13715,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -9305,6 +13723,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -9312,6 +13731,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -9319,6 +13739,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -9326,6 +13747,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -9333,6 +13755,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -9340,6 +13763,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -9347,6 +13771,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -9354,6 +13779,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -9361,6 +13787,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -9433,7 +13860,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 17,015 ratings"
+   "buyerEvidence": "4★ from 17,015 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/a/o/-original-imahnfya6rzdh5hv.jpeg?q=90",
@@ -9455,6 +13883,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -9537,7 +13968,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/3/15-acne-control-spot-corrector-gel-2-salicylic-acid-with-original-imahzx9sm6stg2hf.jpeg?q=90",
@@ -9571,6 +14003,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -9653,7 +14088,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/0/o/15-acne-spot-corrector-gel-2-salicylic-acid-bha-acne-treatment-original-imahzyhdkenhqcfp.jpeg?q=90",
@@ -9686,6 +14122,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -9768,7 +14207,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Trassally D-45, Noida (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/f/q/30-feb-elvn-10-azelaic-acid-face-serum-for-all-skin-types-clear-original-imahhpqgm5chrc3a.jpeg?q=90",
@@ -9791,6 +14231,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -9873,7 +14316,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/o/a/15-acne-spot-corrector-gel-20ml-2-salicylic-acid-bha-niacinamide-original-imahzyhbjf73vqpq.jpeg?q=90",
@@ -9906,6 +14350,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -9988,7 +14435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/a/30-azelaic-acid-20-cream-for-acne-dark-spots-skinoren-original-imahqnecaxymwjgg.jpeg?q=90",
@@ -10017,6 +14465,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -10099,7 +14550,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/s/f/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4j2cvtskf2.jpeg?q=90",
@@ -10127,6 +14579,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -10208,7 +14663,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "YAP COSDEWRM LABORATORIES (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 3 ratings"
+   "buyerEvidence": "4★ from 3 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/p/7/30-silkera-10-mna-serum-ycl-original-imahz2mdx8wjrkkj.jpeg?q=90",
@@ -10230,6 +14686,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -10267,346 +14726,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 3 ratings"
-  }
- },
- {
-  "id": "anua-itmaa47bda946af9",
-  "brand": "Anua",
-  "model": "Azelaic Acid Serum for Rednes",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 2.8
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-serum-rednes/p/itmaa47bda946af9",
-  "buyStore": "Flipkart",
-  "title": "ANUA Azelaic Acid Serum for Rednes",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 3 ratings"
-  }
- },
- {
-  "id": "anua-itmcf9ce738733ab",
-  "brand": "Anua",
-  "model": "Redness Relief Serum | 10% Azelaic Acid + Hyaluronic Acid | Lightweight & Hydrating",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.5/5 (12 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 12 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/v/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcsjt8yygp3h4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-redness-relief-serum-10-azelaic-acid-hyaluronic-lightweight-hydrating/p/itmcf9ce738733ab",
-  "buyStore": "Flipkart",
-  "title": "ANUA Redness Relief Serum | 10% Azelaic Acid + Hyaluronic Acid | Lightweight & Hydrating",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 12 ratings"
-  }
- },
- {
-  "id": "anua-itm073d69b47274a",
-  "brand": "Anua",
-  "model": "Skin Calming Serum – Azelaic Acid 10% & Hyaluronic Acid",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0.8
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.3/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/r/l/30-niacinamide-10-txa-4-serum-for-hyperpigmentation-dark-spots-original-imahd2kftfpx6u8c.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/r/30-niacinamide-10-txa-4-dark-spot-correcting-serum-anua-original-imahezq7wdgdvvex.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/3/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-original-imahf5bp6td9nzna.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-skin-calming-serum-azelaic-acid-10-hyaluronic/p/itm073d69b47274a",
-  "buyStore": "Flipkart",
-  "title": "ANUA Skin Calming Serum – Azelaic Acid 10% & Hyaluronic Acid",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:low",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.3★ from 3 ratings"
   }
  },
  {
@@ -10652,7 +14771,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/i/f/q/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahgxq4xpgukee3.jpeg?q=90",
@@ -10678,6 +14798,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -10703,121 +14826,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm4f6e6f4a44d8f",
-  "brand": "Anua",
-  "model": "Azelaic Acid Serum for Hydration and Blemish Control",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/d/q/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5q8ebadhhe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qsyshngev.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/f/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qxavpunvy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/0/x/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qbqnybqwk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-serum-hydration-blemish-control/p/itm4f6e6f4a44d8f",
-  "buyStore": "Flipkart",
-  "title": "ANUA Azelaic Acid Serum for Hydration and Blemish Control",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -10875,7 +14883,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/z/a/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jcmsn4hsh.jpeg?q=90",
@@ -10903,6 +14912,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -10985,7 +14997,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/w/6/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jfnznj4sy.jpeg?q=90",
@@ -11017,6 +15030,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -11042,241 +15058,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itmb5d6fe1c067c5",
-  "brand": "Anua",
-  "model": "Azelaic Acid 10% Serum with Hyaluronic Acid – Redness Relief & Skin Brightening",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/9/0/30-azelaic-acid-10-serum-with-hyaluronic-acid-redness-relief-original-imahd5tbba5znjar.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/v/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcsjt8yygp3h4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-serum-hyaluronic-redness-relief-skin-brightening/p/itmb5d6fe1c067c5",
-  "buyStore": "Flipkart",
-  "title": "ANUA Azelaic Acid 10% Serum with Hyaluronic Acid – Redness Relief & Skin Brightening",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itmed9cbdb08099c",
-  "brand": "Anua",
-  "model": "10% Azelaic Acid Serum – Brightening & Anti-Blemish Formula with Hyaluronic Hydration",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Korean / K-beauty, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/q/30-10-azelaic-acid-serum-brightening-anti-blemish-formula-with-original-imahhggnsh9xeckk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/w/c/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjp9yfh8yvz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/g/30-10-azelaic-acid-hyaluronic-serum-for-even-skin-tone-anua-original-imahcsk7rvefwywj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-serum-brightening-anti-blemish-formula-hyaluronic-hydration/p/itmed9cbdb08099c",
-  "buyStore": "Flipkart",
-  "title": "ANUA 10% Azelaic Acid Serum – Brightening & Anti-Blemish Formula with Hyaluronic Hydration",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:korean",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -11334,7 +15115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/d/x/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jhxtuzmxd.jpeg?q=90",
@@ -11362,6 +15144,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -11444,7 +15229,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/d/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jhjzgrpgf.jpeg?q=90",
@@ -11472,6 +15258,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -11554,7 +15343,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/r/h/30-hydrating-acne-serum-with-niacinamide-salicylic-azelaic-acid-original-imahhavpehvgm2hc.jpeg?q=90",
@@ -11585,6 +15375,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -11667,7 +15460,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/h/7/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jx5uvh288.jpeg?q=90",
@@ -11695,6 +15489,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -11777,7 +15574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/2/u/30-azelaic-acid-acne-serum-with-niacinamide-5-salicylic-acid-original-imahhavpykw3fkuk.jpeg?q=90",
@@ -11811,6 +15609,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -11893,7 +15694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/g/4/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jgs7vwmpm.jpeg?q=90",
@@ -11921,6 +15723,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12003,7 +15808,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/g/v/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jhcxh9hbf.jpeg?q=90",
@@ -12031,6 +15837,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12113,7 +15922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -12140,6 +15950,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12222,7 +16035,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -12249,6 +16063,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12331,7 +16148,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/7/l/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jha6mbvgc.jpeg?q=90",
@@ -12360,6 +16178,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12442,7 +16263,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/z/o/30-niacinamide-acne-serum-with-azelaic-salicylic-hyaluronic-acid-original-imahhavpu4xpmhcu.jpeg?q=90",
@@ -12475,6 +16297,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -12557,7 +16382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/l/h/30-niacinamide-5-acne-serum-with-azelaic-acid-hyaluronic-acid-original-imahhavpmz5nr5dg.jpeg?q=90",
@@ -12587,6 +16413,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -12669,7 +16498,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/y/w/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jdamhgst9.jpeg?q=90",
@@ -12697,6 +16527,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12779,7 +16612,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/o/0/j/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahgysjntkzx5cy.jpeg?q=90",
@@ -12805,6 +16639,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12887,7 +16724,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/h/i/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahjfqcqkfkfbmz.jpeg?q=90",
@@ -12913,6 +16751,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -12995,7 +16836,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -13022,6 +16864,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13104,7 +16949,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -13131,6 +16977,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13213,7 +17062,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/l/l/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jdvgfhk5u.jpeg?q=90",
@@ -13241,6 +17091,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13323,7 +17176,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/m/y/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jfxfxhng3.jpeg?q=90",
@@ -13351,6 +17205,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13433,7 +17290,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/y/n/30-hyaluronic-acid-acne-serum-with-niacinamide-azelaic-acid-original-imahhavphkcgf4ur.jpeg?q=90",
@@ -13462,6 +17320,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -13544,7 +17405,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -13571,6 +17433,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13653,7 +17518,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/j/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4j8tkzugsn.jpeg?q=90",
@@ -13681,6 +17547,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13763,7 +17632,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/v/m/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4j4xhstfcw.jpeg?q=90",
@@ -13791,6 +17661,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -13873,7 +17746,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/30-advanced-retinol-serum-7-niacinamide-for-acne-marks-30ml-original-imahhavpza5duhwq.jpeg?q=90",
@@ -13906,6 +17780,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -13988,7 +17865,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/f/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jban6e86f.jpeg?q=90",
@@ -14016,6 +17894,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14098,7 +17979,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/u/3/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4j7rdp7pmp.jpeg?q=90",
@@ -14126,6 +18008,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14208,7 +18093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/2/j/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jnjswmzz8.jpeg?q=90",
@@ -14236,6 +18122,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14318,7 +18207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/9/a/30-clear-skin-acne-serum-with-niacinamide-salicylic-azelaic-acid-original-imahhavp48qfugav.jpeg?q=90",
@@ -14348,6 +18238,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -14430,7 +18323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/s/a/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jznscg5zc.jpeg?q=90",
@@ -14458,6 +18352,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14540,7 +18437,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/p/e/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jsz2yczre.jpeg?q=90",
@@ -14568,6 +18466,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14650,7 +18551,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/f/c/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jg5zhcrkr.jpeg?q=90",
@@ -14678,6 +18580,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -14715,121 +18620,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itmb23ecab6426c0",
-  "brand": "Anua",
-  "model": "Redness Soothing Serum with Azelaic Acid 10% & Hyaluron | For Sensitive Skin",
-  "price": 1495,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹4983/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4983/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4/5 (5 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 5 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/i/e/30-azelaic-acid-10-hyaluron-serum-to-reduce-redness-rejuveol-original-imahpfu5grnqgj95.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/9/s/30-azelaic-acid-10-hyaluron-redness-soothing-serum-korean-face-original-imahphd8qsvcyfut.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/7/x/30-azelaic-acid-10-hyaluron-serum-for-sensitive-acne-prone-skin-original-imahd5tajbrwjpyf.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-redness-soothing-serum-azelaic-acid-10-hyaluron-sensitive-skin/p/itmb23ecab6426c0",
-  "buyStore": "Flipkart",
-  "title": "ANUA Redness Soothing Serum with Azelaic Acid 10% & Hyaluron | For Sensitive Skin",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:sensitive",
-   "skin:all",
-   "free:vegan",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 5 ratings"
   }
  },
  {
@@ -14877,7 +18667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#3 on list, strong evidence); niacinamide (#6 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 187 ratings"
+   "buyerEvidence": "4.1★ from 187 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #3 on INCI, niacinamide #6 on INCI; Irritation — product type, azelaic acid #3 on INCI, centella asiatica extract #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/2/u/-original-imahhgmggezwhgzb.jpeg?q=90",
@@ -14913,6 +18704,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -14946,6 +18740,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -14953,6 +18748,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -14960,6 +18756,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -14967,6 +18764,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -15030,7 +18828,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 1 ratings"
+   "buyerEvidence": "5★ from 1 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/h/25-acne-fix-serum-with-2-salicylic-acid-4-niacinamide-with-original-imahhx89gghee7k8.jpeg?q=90",
@@ -15058,6 +18857,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -15095,234 +18897,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "5★ from 1 ratings"
-  }
- },
- {
-  "id": "anua-itm3f8c53099eaa8",
-  "brand": "Anua",
-  "model": "Acne Care & Redness Relief Serum – Azelaic Acid 10%",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4/5 (8 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 8 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/8/p/30-acne-care-redness-relief-serum-azelaic-acid-10-anua-original-imahd5ubchfgc8p5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/n/f/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4pgrug34u.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/t/y/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4xwrzhjhr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/8/g/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4zkc2bz3g.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/5/w/30-redness-relief-serum-10-azelaic-acid-hyaluronic-acid-original-imahcpj4zu3czfvn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-acne-care-redness-relief-serum-azelaic-acid-10/p/itm3f8c53099eaa8",
-  "buyStore": "Flipkart",
-  "title": "ANUA Acne Care & Redness Relief Serum – Azelaic Acid 10%",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 8 ratings"
-  }
- },
- {
-  "id": "anua-itm6b035adefab0c",
-  "brand": "Anua",
-  "model": "10% Azelaic Acid + Hyaluron Serum for Clear, Calm Skin",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 27 ratings"
-  ],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (27 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 27 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/d/q/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5q8ebadhhe.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/e/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qsyshngev.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/f/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qxavpunvy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/0/x/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahcx5qbqnybqwk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-hyaluron-serum-clear-calm-skin/p/itm6b035adefab0c",
-  "buyStore": "Flipkart",
-  "title": "ANUA 10% Azelaic Acid + Hyaluron Serum for Clear, Calm Skin",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 27 ratings"
   }
  },
  {
@@ -15368,7 +18942,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/l/j/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jh8qjhsfg.jpeg?q=90",
@@ -15396,6 +18971,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -15477,7 +19055,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 31 ratings"
+   "buyerEvidence": "4.2★ from 31 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/c/g/60-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhu7dks9rkjmf.jpeg?q=90",
@@ -15505,6 +19084,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -15585,7 +19167,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 21 ratings"
+   "buyerEvidence": "4★ from 21 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/p/7/30-aczee-10-azelaic-acid-serum-30-ml-pack-of-1-aczee-original-imahcqftzbmenywt.jpeg?q=90",
@@ -15610,6 +19193,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -15647,122 +19233,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 21 ratings"
-  }
- },
- {
-  "id": "anua-itm9db00c75c53db",
-  "brand": "Anua",
-  "model": "Soothing Serum with Azelaic Acid 10% & Hyaluron | Skin Clarity & Hydration",
-  "price": 1495,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹4983/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 16 ratings"
-  ],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4983/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (16 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 16 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/r/30-niacinamide-10-txa-4-dark-spot-correcting-serum-anua-original-imahezq7wdgdvvex.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/u/9/30-hydrating-face-serum-with-pdrn-100-ha-capsules-korean-skin-original-imahcsmrg4ysbmq4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/d/f/30-niacinamide-10-txa-4-face-serum-even-skin-tone-pore-care-original-imahaag2zwptk7k7.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-soothing-serum-azelaic-acid-10-hyaluron-skin-clarity-hydration/p/itm9db00c75c53db",
-  "buyStore": "Flipkart",
-  "title": "ANUA Soothing Serum with Azelaic Acid 10% & Hyaluron | Skin Clarity & Hydration",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 16 ratings"
   }
  },
  {
@@ -15807,7 +19277,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/d/v/30-azelaic-acid-10-serum-with-hyaluronic-acid-niacinamide-original-imahnvekdfx6bvhd.jpeg?q=90",
@@ -15833,6 +19304,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -15914,7 +19388,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/w/s/10-azelaic-acid-hyaluron-redness-soothing-serum-rejuveol-original-imahqaaefj3zrhfr.jpeg?q=90",
@@ -15935,6 +19410,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -15960,235 +19438,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm5472f9383e139",
-  "brand": "Anua",
-  "model": "10% Azelaic Acid Treatment Serum for Acne, Redness, and Oil Control",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 1.8
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.7/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/l/q/30-10-azelaic-acid-treatment-serum-for-acne-redness-and-oil-original-imahcx5zgztfhr6u.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/r/30-skin-calming-serum-azelaic-acid-10-hyaluronic-acid-anua-original-imahcsk6jfujve68.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-treatment-serum-acne-redness-oil-control/p/itm5472f9383e139",
-  "buyStore": "Flipkart",
-  "title": "ANUA 10% Azelaic Acid Treatment Serum for Acne, Redness, and Oil Control",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 3 ratings"
-  }
- },
- {
-  "id": "anua-itm69e24d89f7ea8",
-  "brand": "Anua",
-  "model": "10% Azelaic Acid & Hyaluronic Serum for Even Skin Tone",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/l/g/30-10-azelaic-acid-hyaluronic-serum-for-even-skin-tone-anua-original-imahcsk7rvefwywj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/b/j/30-azelaic-acid-serum-for-hydration-and-blemish-control-anua-original-imahd5ubkwbe8ndg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/1/30-calming-serum-with-azelaic-acid-niacinamide-and-cica-anua-original-imahd5ubfzrayw4h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-10-azelaic-acid-hyaluronic-serum-even-skin-tone/p/itm69e24d89f7ea8",
-  "buyStore": "Flipkart",
-  "title": "ANUA 10% Azelaic Acid & Hyaluronic Serum for Even Skin Tone",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -16246,7 +19495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/j/o/30-glownature-azelaic-acid-daily-facial-repair-serum-jashikumi-original-imahq8yagdqccysx.jpeg?q=90",
@@ -16273,6 +19523,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -16298,127 +19551,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm3923b256379e5",
-  "brand": "Anua",
-  "model": "Azelaic Acid 10% + Hyaluron Serum for Sensitive & Acne-Prone Skin | Calms Redness | Hydrat…",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Salicylic acid (BHA) + Azelaic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, Acne-prone, All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/7/x/30-azelaic-acid-10-hyaluron-serum-for-sensitive-acne-prone-skin-original-imahd5tajbrwjpyf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/4/v/30-ultimate-spot-duo-niacinamide-10-txa-4-serum-azelaic-acid-10-original-imahfpyj8nt3segr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/r/7/30-pdrn-serum-with-100-hyaluronic-capsules-for-dry-dull-aging-original-imahcsmrzydjjj5q.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/p/v/30-10-azelaic-acid-hyaluron-serum-for-clear-calm-skin-anua-original-imahd5ubh3ky3ph3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-hyaluron-serum-sensitive-acne-prone-skin-calms-redness-hydrates/p/itm3923b256379e5",
-  "buyStore": "Flipkart",
-  "title": "ANUA Azelaic Acid 10% + Hyaluron Serum for Sensitive & Acne-Prone Skin | Calms Redness | Hydrates",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:sensitive",
-   "skin:acne-prone",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -16476,7 +19608,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/a/t/30-crystalfresh-azelaic-acid-daily-face-care-serum-jashikumi-original-imahq8ya6jmyqjge.jpeg?q=90",
@@ -16501,6 +19634,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -16583,7 +19719,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/o/d/30-skinpure-azelaic-acid-daily-glow-enhancing-serum-jashikumi-original-imahq8yazah6ytce.jpeg?q=90",
@@ -16609,6 +19746,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -16691,7 +19831,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/i/x/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4ja5raqh5b.jpeg?q=90",
@@ -16724,6 +19865,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -16805,7 +19949,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Skinaa Private Limited, B4-176A, Near One stop Cafe opposite to Chitrakoot Stadium Chitrakoot, Vaishali Nagar, Jaipur, Rajasthan 302021 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 19 ratings"
+   "buyerEvidence": "3.9★ from 19 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/o/b/-original-imahz6mxmzyvgghg.jpeg?q=90",
@@ -16827,6 +19972,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -16909,7 +20057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/u/i/30-salicylic-acid-face-serum-for-acne-pimples-oil-control-dark-original-imahnnu672bdbx4e.jpeg?q=90",
@@ -16943,6 +20092,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -17025,7 +20177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/p/2/90-anti-acne-serum-pack-of-3-niacinamide-salicylic-azelaic-acid-original-imahcn67nnzpfgff.jpeg?q=90",
@@ -17062,6 +20215,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17141,7 +20297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 17,015 ratings"
+   "buyerEvidence": "4★ from 17,015 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/g/10-12-niacinamide-azelaic-acid-serum-for-clear-and-bright-skin-enriched-transparent-original-imahhknqdvgeu5jy.png?q=90",
@@ -17168,6 +20325,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17250,7 +20410,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/v/s/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jsnetqyvp.jpeg?q=90",
@@ -17278,6 +20439,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17360,7 +20524,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/m/r/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jbaksghch.jpeg?q=90",
@@ -17388,6 +20553,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17470,7 +20638,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/g/o/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jrxxxqxur.jpeg?q=90",
@@ -17498,6 +20667,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17580,7 +20752,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/z/6/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jeqypnfwd.jpeg?q=90",
@@ -17608,6 +20781,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17690,7 +20866,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/7/m/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jkea7b3yt.jpeg?q=90",
@@ -17718,6 +20895,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17800,7 +20980,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/w/q/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jmmswba3a.jpeg?q=90",
@@ -17828,6 +21009,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -17910,7 +21094,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/f/1/30-azelaic-acid-complex-niacinamide-serum-neravine-original-imahnsdwge6pmdbf.jpeg?q=90",
@@ -17948,6 +21133,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -18030,7 +21218,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/m/r/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jz9guzbwx.jpeg?q=90",
@@ -18058,6 +21247,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -18140,7 +21332,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/d/1/30-niacinamide-5-face-serum-for-acne-azelaic-acid-hyaluronic-original-imahhavpcvchaxh5.jpeg?q=90",
@@ -18169,6 +21362,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -18192,124 +21388,6 @@ const NXPRODUCTS = [
    "inciText": null,
    "inciUnverified": "Snail Secretion Filtrate, Hyaluronic Acid, Ceramide",
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm4f456f1a7d671",
-  "brand": "Anua",
-  "model": "Calming Serum with Azelaic Acid, Niacinamide, and Cica",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, Acne-prone, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/1/30-calming-serum-with-azelaic-acid-niacinamide-and-cica-anua-original-imahd5ubfzrayw4h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/7/p/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpehabumtc.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/q/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpyp8aaqgh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/z/y/30-azelaic-acid-serum-for-rednes-anua-original-imahcsjpr4cgzmfj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/d/f/30-niacinamide-10-txa-4-face-serum-even-skin-tone-pore-care-original-imahaag2zwptk7k7.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-calming-serum-azelaic-acid-niacinamide-cica/p/itm4f456f1a7d671",
-  "buyStore": "Flipkart",
-  "title": "ANUA Calming Serum with Azelaic Acid, Niacinamide, and Cica",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:sensitive",
-   "skin:acne-prone",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
    "actives": [],
@@ -18369,7 +21447,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/p/8/30-acne-face-serum-with-niacinamide-5-hyaluronic-acid-azelaic-original-imahhc4jjuztgzsg.jpeg?q=90",
@@ -18400,6 +21479,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -18425,122 +21507,6 @@ const NXPRODUCTS = [
    "inciNote": null,
    "declarationConfidence": null,
    "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-itm2272d45a2d4c4",
-  "brand": "Anua",
-  "model": "Multi-Action Soothing Serum – Azelaic Acid 10% + Hyaluronic Acid",
-  "price": 1645,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹5483/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5483/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, Acne-prone, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/h/b/30-multi-action-soothing-serum-azelaic-acid-10-hyaluronic-acid-original-imahbvdehvwkdk3a.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/l/r/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhpaneegrgr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/f/d/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhpr7zsdbwx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/u/m/30-azelaic-acid-10-hyaluron-redness-soothing-serum-facial-serum-original-imahbnhphme7te9n.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/g/b/30-redness-soothing-serum-with-azelaic-acid-10-hyaluron-for-original-imahcsjsfhdwsczu.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-multi-action-soothing-serum-azelaic-acid-10-hyaluronic/p/itm2272d45a2d4c4",
-  "buyStore": "Flipkart",
-  "title": "ANUA Multi-Action Soothing Serum – Azelaic Acid 10% + Hyaluronic Acid",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:sensitive",
-   "skin:acne-prone",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -18600,7 +21566,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#4 on list, strong evidence); tranexamic acid (#6 on list, moderate evidence); alpha-arbutin (#8 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 1,747 ratings"
+   "buyerEvidence": "4.2★ from 1,747 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, niacinamide #4 on INCI; Dark spots — product type, azelaic acid #2 on INCI, niacinamide #4 on INCI, tranexamic acid #6 on INCI, alpha-arbutin #8 on INCI, 4-butylresorcinol #14 on INCI; Irritation — product type, azelaic acid #2 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/i/h/30-tran-zelaic-pigmentation-corrector-serum-with-tranexamic-acid-original-imah4m4ywtsk4cbz.jpeg?q=90",
@@ -18630,6 +21597,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -18663,6 +21633,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -18670,6 +21641,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -18677,6 +21649,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -18684,6 +21657,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -18691,6 +21665,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -18698,6 +21673,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -18705,6 +21681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -18712,6 +21689,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -18719,6 +21697,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -18784,7 +21763,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 62 ratings"
+   "buyerEvidence": "4.7★ from 62 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/6/e/30-0-active-14-niacinamide-serum-with-azelaic-acid-clarifying-original-imahh85prrqxrwct.jpeg?q=90",
@@ -18810,6 +21790,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -18891,7 +21874,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Pure Cosmeceuticals Pvt. Ltd. F, 18, Rd Number 2, Vishwakarma Industrial Area, Jaipur, Rajasthan 302013 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 36 ratings"
+   "buyerEvidence": "4★ from 36 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/b/y/35-porebright-serum-with-azelaic-acid-betaine-even-skin-tone-original-imahbgzr4zthszwh.jpeg?q=90",
@@ -18912,6 +21896,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -18994,7 +21981,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/7/p/30-aczit-12-niacinamide-face-serum-30-ml-with-3-pad-azelaic-acid-original-imahmny54ammyhfd.jpeg?q=90",
@@ -19022,6 +22010,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19102,7 +22093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/z/8/20-12-niacinamide-serum-with-azelaic-acid-reduce-acne-marks-in-original-imahqkcbmfkbehmf.jpeg?q=90",
@@ -19127,6 +22119,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19168,7 +22163,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "skiom-itmd56c131ada372",
-  "brand": "SKIOM",
+  "brand": "Skiom",
   "model": "Anti Acne Cream for all Skin types Oil Control Cream with Azelaic Acid, Niacinamide & Tri-…",
   "price": 965,
   "capacityLine": "30 g",
@@ -19209,7 +22204,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/9/g/30-acne-skiom-original-imahhft27gbnrdzh.jpeg?q=90",
@@ -19239,6 +22235,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19321,7 +22320,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/m/j/30-pureessence-azelaic-acid-skin-renewal-face-serum-jashikumi-original-imahq8ya74hzxhp3.jpeg?q=90",
@@ -19345,6 +22345,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19426,7 +22429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 3 ratings"
+   "buyerEvidence": "3.3★ from 3 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/w/4/30-clarifying-face-serum-with-12-niacinamide-azelaic-acid-original-imahhf9yqcsgaheu.jpeg?q=90",
@@ -19460,6 +22464,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -19543,7 +22550,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 124 ratings"
+   "buyerEvidence": "4.3★ from 124 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/d/o/30-serum-azelaic-acid-vitamin-c-ferulic-acid-reduces-original-imahdvt8rqba7gbm.jpeg?q=90",
@@ -19577,6 +22585,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -19660,7 +22671,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 18 ratings"
+   "buyerEvidence": "4.5★ from 18 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/5/d/30-skya-amvel-sr-skin-brightening-complex-serum-with-kojic-acid-original-imahgxwsguhyejq5.jpeg?q=90",
@@ -19691,6 +22703,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -19771,7 +22786,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 17,015 ratings"
+   "buyerEvidence": "4★ from 17,015 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/u/i/a/60-12-niacinamide-serum-with-azelaic-acid-reduce-acne-marks-14-original-imahkfy48deufqpz.jpeg?q=90",
@@ -19793,6 +22809,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19875,7 +22894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/l/u/99-65-herbal-intimate-whitening-for-toening-shine-skin-floral-original-imah2n64sxz2gzad.jpeg?q=90",
@@ -19909,6 +22929,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -19992,7 +23015,8 @@ const NXPRODUCTS = [
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Anapure Biocos Plot no:911, Phase 2 Ind. Area, 1, 160002 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 37 ratings"
+   "buyerEvidence": "4.3★ from 37 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — product type, niacinamide #2 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — product type, azelaic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/o/h/-original-imahmxfbzhzjbmnj.jpeg?q=90",
@@ -20014,6 +23038,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -20045,6 +23072,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -20052,6 +23080,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -20059,6 +23088,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -20066,6 +23096,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -20073,6 +23104,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -20145,7 +23177,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/c/d/30-pore-bright-night-cream-with-azelaic-acid-niacinamide-original-imahn4nrygkmbnu5.jpeg?q=90",
@@ -20185,6 +23218,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -20268,7 +23304,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); tranexamic acid (#6 on list, moderate evidence); zinc pca (#10 on list, moderate evidence); lactic acid (#15 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI; Dark spots — product type, niacinamide #4 on INCI, tranexamic acid #6 on INCI; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/c/b/30-even-tone-clarity-azelaic-acid-serum-yafe-original-imahqruruhqw358g.jpeg?q=90",
@@ -20291,6 +23328,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -20323,6 +23363,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -20330,6 +23371,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -20337,6 +23379,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -20344,6 +23387,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -20351,6 +23395,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -20358,6 +23403,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -20365,6 +23411,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -20372,6 +23419,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -20379,6 +23427,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -20443,7 +23492,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Pure Cosmeceuticals Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 42 ratings"
+   "buyerEvidence": "4.1★ from 42 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/p/a/35-porebright-serum-14-azelaic-acid-1-betaine-salicylate-oat-original-imahbgzrssbq3ffn.jpeg?q=90",
@@ -20469,6 +23519,9 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -20551,7 +23604,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/p/15-2-salicylic-acid-acne-spot-gel-with-niacinamide-azelaic-acid-original-imahparckzwduhgy.jpeg?q=90",
@@ -20579,6 +23633,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -20661,7 +23718,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/z/s/30-saserazelaic10-30ml-sarstae-original-imahhft3gwdjfj7p.jpeg?q=90",
@@ -20694,6 +23752,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -20776,7 +23837,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/t/15-acne-removal-gel-salicylic-acid-azelaic-acid-niacinamide-spot-original-imahzyhag6qhsh2f.jpeg?q=90",
@@ -20808,6 +23870,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -20890,7 +23955,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/d/g/15-fast-acne-spot-gel-with-salicylic-acid-azelaic-acid-blend-original-imahpasfuksjes8q.jpeg?q=90",
@@ -20919,6 +23985,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21001,7 +24070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/2/15-salicylic-acid-acne-gel-with-azelaic-acid-for-bright-smooth-original-imahpartxcyakyet.jpeg?q=90",
@@ -21031,6 +24101,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21113,7 +24186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/l/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-original-imahpatqyhpzz3zz.jpeg?q=90",
@@ -21141,6 +24215,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21223,7 +24300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -21251,6 +24329,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21332,7 +24413,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 6 ratings"
+   "buyerEvidence": "3.7★ from 6 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/l/j/60-2-in-1-face-serum-with-10-azelaic-acid-2-niacinamide-30ml-x-2-original-imahpnvx9e9fa3br.jpeg?q=90",
@@ -21364,6 +24446,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21444,7 +24529,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 8 ratings"
+   "buyerEvidence": "4★ from 8 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/l/u/12-korean-nineless-10-azelaic-acid-serum-targeted-acne-prone-original-imahmf9hrx3rqshy.jpeg?q=90",
@@ -21466,6 +24552,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -21549,7 +24638,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Esthetic Insights Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 14 ratings"
+   "buyerEvidence": "4.4★ from 14 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/v/q/c/30-1-kojic-acid-10-azelaic-acid-brightening-serum-concentrate-original-imagueaxzhgfxutg.jpeg?q=90",
@@ -21575,6 +24665,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21612,120 +24705,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 14 ratings"
-  }
- },
- {
-  "id": "anua-itm272fca716d2da",
-  "brand": "Anua",
-  "model": "Azelaic Acid 10% | Cica & Hyaluronic Acid | 30ml",
-  "price": 1495,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
-  "featureLine": "Scrub · ₹4983/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4983/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Hyaluron",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/f/s/30-azelaic-acid-10-cica-hyaluronic-acid-30ml-anua-original-imahpukuux8dzyzt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-serum-original-imahpfhcfg8kruk4.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/b/g/30-cica-hyaluronic-acid-korean-face-serum-30ml-anua-original-imahptnuj8tzydgx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/f/w/30-blemish-care-oil-control-korean-skincare-30ml-anua-serum-original-imahpffyufqhb9sf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/d/30-azelaic-acid-10-hyaluron-redness-soothing-serum-anua-serum-original-imahpfhcypm4j4wg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/anua-azelaic-acid-10-cica-hyaluronic-30ml/p/itm272fca716d2da",
-  "buyStore": "Flipkart",
-  "title": "ANUA Azelaic Acid 10% | Cica & Hyaluronic Acid | 30ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:pack",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:exfoliating",
-   "claim:scars",
-   "skin:all",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Hyaluron",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -21771,7 +24750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/y/q/30-azelaic-acid-20-cream-for-clearer-looking-skin-skinoren-original-imahqnewhwcwacyu.jpeg?q=90",
@@ -21800,6 +24780,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21882,7 +24865,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/5/15-salicylic-acid-acne-gel-2-bha-pimple-spot-corrector-acne-original-imahzyhff6wkgj27.jpeg?q=90"
@@ -21911,6 +24895,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -21995,7 +24982,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 17 ratings"
+   "buyerEvidence": "4.3★ from 17 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/1/50-c-vit-radiance-glowing-fluid-brightening-moisturizer-for-dull-original-imahkz4vhmah4h6t.jpeg?q=90",
@@ -22030,6 +25018,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -22112,7 +25103,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 453 ratings"
+   "buyerEvidence": "4.3★ from 453 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/p/1/30-azelac-ru-liposomal-serum-brightening-for-even-skin-tone-original-imahmwycthzxehju.jpeg?q=90",
@@ -22131,6 +25123,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -22212,7 +25207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/c/l/e/50-underarm-brightening-roll-on-serum-with-azelaic-acid-for-dark-original-imahqg2vba25jfqf.jpeg?q=90",
@@ -22239,6 +25235,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -22320,7 +25319,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 8 ratings"
+   "buyerEvidence": "4.1★ from 8 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/sunscreen/a/l/2/50-epipatal-c30-anti-acne-sunscreen-with-niacinamide-azelaic-original-imahef9betsqnhqr.jpeg?q=90",
@@ -22346,6 +25346,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -22428,7 +25431,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/8/0/5/50-moonlight-bright-sleeping-face-mask-with-kojic-and-azelaic-original-imah9k3cgrgqggqz.jpeg?q=90",
@@ -22460,6 +25464,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -22542,7 +25549,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/r/6/30-20-azelaic-acid-cream-for-acne-prone-skin-skinoren-original-imahqnehhby2bgy3.jpeg?q=90",
@@ -22571,6 +25579,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -22652,7 +25663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/g/a/30-pack-of-4-anti-acne-face-serum-5-niacinamide-2-salicylic-acid-original-imahc8gd6zfqmsdm.jpeg?q=90",
@@ -22681,6 +25693,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -22763,7 +25778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/8/c/15-salicylic-acid-acne-corrector-gel-with-azelaic-acid-for-spot-original-imahparfajaxtxej.jpeg?q=90",
@@ -22791,6 +25807,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -22873,7 +25892,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -22900,6 +25920,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -22982,7 +26005,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/m/f/15-blemish-control-gel-with-2-salicylic-acid-azelaic-acid-original-imahparsjhjbadzk.jpeg?q=90",
@@ -23010,6 +26034,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -23092,7 +26119,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/4/15-pimple-spot-corrector-with-sulfur-salicylic-acid-azelaic-acid-original-imahpatzege3mgfq.jpeg?q=90",
@@ -23121,6 +26149,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -23158,6 +26189,750 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "anua-b0dg1dq2s7",
+  "brand": "Anua",
+  "model": "Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin",
+  "price": 1799,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61sSYnrc1zL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lscCKfiyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81flCbxNJ9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716m6F1D2oL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81XcdFkNONL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DG1DQ2S7",
+  "buyStore": "Amazon",
+  "title": "ANUA Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "claim:acne",
+   "claim:soothing",
+   "skin:acne-prone",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "anua-b0h7tb1wns",
+  "brand": "Anua",
+  "model": "Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin …",
+  "price": 3598,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciMatchedName": "Azelaic Acid 10 Hyaluron Redness Soothing Serum (name match 100%)",
+   "inciList": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#19 on list, strong evidence); zinc pca (#30 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, betaine salicylate #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71dATSNwpnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lscCKfiyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81flCbxNJ9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NNMU56VEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81XcdFkNONL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H7TB1WNS",
+  "buyStore": "Amazon",
+  "title": "ANUA Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:pack",
+   "format:kit",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "claim:acne",
+   "claim:soothing",
+   "skin:acne-prone",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-acid-10-hyaluron-redness-soothing-serum",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic Acid 10 Hyaluron Redness Soothing Serum",
+   "inciMatchScore": 1,
+   "inciText": "Water, Azelaic Acid, Propylene Glycol, Sodium Hydroxide, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Hydroxyethylcellulose, Betaine Salicylate, Glycerin, Biosaccharide Gum-1, Ethylhexylglycerin, Allantoin, Dipotassium Glycyrrhizate, Melia Azadirachta Leaf Extract, Camellia Sinensis Leaf Water, Sodium Hyaluronate, Melia Azadirachta Flower Extract, Niacinamide, Aloe Barbadensis Leaf Juice, Beta-Glucan, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Squalane, Zinc PCA, Butylene Glycol, Pentylene Glycol, Caprylyl/Capryl Glucoside, Hydrogenated Lecithin, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "betaine salicylate",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 19,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 30,
+     "core": true,
+     "trace": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "panthenol",
+    "glycerin",
+    "sodium hyaluronate",
+    "niacinamide",
+    "squalane",
+    "butylene glycol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "anua-b0dqkn25gs",
+  "brand": "Anua",
+  "model": "Azelaic 10 + Hyaluron Redness Soothing Pad",
+  "price": 1830,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Azelaic acid + Hyaluronic acid",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "azelaic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.5★ from 0 ratings"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://anua.us/products/azelaic-10-hyaluron-redness-soothing-pad",
+   "inciMatchedName": "Azelaic 10 Hyaluron Redness Soothing Pad (name match 100%)",
+   "inciList": "Water, Butylene Glycol, Dipropylene Glycol, Propanediol, Glycerin, Betaine, Diglycerin, Methylpropanediol, Hydroxyethyl Urea, 1,2-Hexanediol, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, Panthenol, Melia Azadirachta Leaf Extract, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA, Melia Azadirachta Flower Extract, Allantoin, Sodium Polyacrylate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Dextrin, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Azelaic Acid, Bisabolol, Dipotassium Glycyrrhizate, Zea Mays (Corn) Kernel Extract, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside, Ceramide NP, Chlorella Vulgaris Extract, Melaleuca Alternifolia (Tea Tree) Leaf Water, Squalane, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Fructan, Pinus Pinaster Bark Extract, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Glucose, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate",
+   "evidenceActives": "azelaic acid (#28 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type, panthenol #13 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61jBmdx+W+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71S0kPjWLVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TGCoYRoHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71BUfQn7fsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714o7iPo9-L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQKN25GS",
+  "buyStore": "Amazon",
+  "title": "ANUA Azelaic 10 + Hyaluron Redness Soothing Pad",
+  "tags": [
+   "scope:unstated",
+   "format:pads",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "claim:soothing",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Anua official website (anua.us, US site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://anua.us/products/azelaic-10-hyaluron-redness-soothing-pad",
+   "inciSourceRegion": "US",
+   "inciMatchedTitle": "Azelaic 10 Hyaluron Redness Soothing Pad",
+   "inciMatchScore": 1,
+   "inciText": "Water, Butylene Glycol, Dipropylene Glycol, Propanediol, Glycerin, Betaine, Diglycerin, Methylpropanediol, Hydroxyethyl Urea, 1,2-Hexanediol, Hydroxyacetophenone, Glycereth-25 PCA Isostearate, Panthenol, Melia Azadirachta Leaf Extract, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA, Melia Azadirachta Flower Extract, Allantoin, Sodium Polyacrylate, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Theobroma Cacao (Cocoa) Seed Extract, Dextrin, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Sodium Hyaluronate, Azelaic Acid, Bisabolol, Dipotassium Glycyrrhizate, Zea Mays (Corn) Kernel Extract, Centella Asiatica Extract, Centella Asiatica Leaf Extract, Centella Asiatica Root Extract, Asiatic Acid, Asiaticoside, Madecassic Acid, Madecassoside, Ceramide NP, Chlorella Vulgaris Extract, Melaleuca Alternifolia (Tea Tree) Leaf Water, Squalane, Dimethylsilanol Hyaluronate, Hydrolyzed Sodium Hyaluronate, Fructan, Pinus Pinaster Bark Extract, Potassium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Sodium Hyaluronate Crosspolymer, Glucose, Sodium Hyaluronate Dimethylsilanol, Sodium Acetylated Hyaluronate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 19,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "hydrolyzed hyaluronic acid",
+     "grade": "B",
+     "position": 25,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "azelaic"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 32,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 36,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 38,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 39,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "squalane",
+     "grade": "B",
+     "position": 42,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "sodium acetylated hyaluronate",
+     "grade": "B",
+     "position": 52,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "propanediol",
+    "glycerin",
+    "panthenol",
+    "hydrolyzed hyaluronic acid",
+    "hyaluronic acid",
+    "sodium hyaluronate",
+    "ceramide np",
+    "squalane"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -23201,7 +26976,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61W1b+sqbvL._SL1500_.jpg",
@@ -23236,6 +27012,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23316,7 +27095,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61d3ojyggRL._SL1254_.jpg",
@@ -23351,6 +27131,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23431,7 +27214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51tvkmY42EL._SL1500_.jpg"
@@ -23459,6 +27243,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23540,7 +27327,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71YLdEHuNhL._SL1500_.jpg",
@@ -23560,6 +27348,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23639,7 +27430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GwUxcIb8L._SL1500_.jpg",
@@ -23669,6 +27461,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23751,7 +27546,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71phkq-w4YL._SL1500_.jpg",
@@ -23771,6 +27567,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -23853,7 +27652,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); azelaic acid (#5 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, azelaic acid #5 on INCI; Dark spots — product type, niacinamide #4 on INCI, azelaic acid #5 on INCI; Irritation — product type, azelaic acid #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Y-3QTG7EL._SL1080_.jpg",
@@ -23879,6 +27679,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -23912,6 +27715,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -23919,6 +27723,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -23926,6 +27731,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23933,6 +27739,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -23940,6 +27747,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "peptides"
     },
     {
@@ -23947,6 +27755,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -23954,6 +27763,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -24016,7 +27826,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71iGAYIGWuL._SL1448_.jpg",
@@ -24036,6 +27847,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24117,7 +27931,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aeh0+QWeL._SL1500_.jpg"
@@ -24132,6 +27947,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24212,7 +28030,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NZBp-CAKL._SL1080_.jpg",
@@ -24239,6 +28058,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24276,211 +28098,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "purenso-b0gqlld5xn",
-  "brand": "PURENSO",
-  "model": "Select Azelaic Acid Powder 50g – Cosmetic Grade Ingredient for Cream, Serum & Lotion Makin…",
-  "price": 630,
-  "capacityLine": "50 g",
-  "materialLine": "Azelaic acid",
-  "featureLine": "Serum · ₹1260/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1260/100g",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51HplHJiMRL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/41SLmndCEcL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61TjiNX4ygL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GQLLD5XN",
-  "buyStore": "Amazon",
-  "title": "Purenso Select Azelaic Acid Powder 50g – Cosmetic Grade Ingredient for Cream, Serum & Lotion Making",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:lotion",
-   "format:serum",
-   "format:powder",
-   "ing:azelaic-acid",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "anua-b0dqkn25gs",
-  "brand": "Anua",
-  "model": "Azelaic 10 + Hyaluron Redness Soothing Pad",
-  "price": 1830,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Azelaic acid + Hyaluronic acid",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.5★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61jBmdx+W+L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71S0kPjWLVL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71TGCoYRoHL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71BUfQn7fsL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/714o7iPo9-L._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQKN25GS",
-  "buyStore": "Amazon",
-  "title": "Anua Azelaic 10 + Hyaluron Redness Soothing Pad",
-  "tags": [
-   "scope:unstated",
-   "format:pads",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "claim:soothing",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -24525,7 +28142,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eqYhUPQuL._SL1500_.jpg"
@@ -24542,6 +28160,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24623,7 +28244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/21pvCYUhhzL.jpg",
@@ -24650,6 +28272,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24730,7 +28355,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513W8C6JSkL._SL1292_.jpg",
@@ -24751,6 +28377,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24831,7 +28460,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g4-gXQQcL._SL1500_.jpg",
@@ -24858,6 +28488,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -24940,7 +28573,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Zsb8vscoL.jpg"
@@ -24956,6 +28590,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25036,7 +28673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41tHc0tt7+L.jpg",
@@ -25061,6 +28699,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25141,7 +28782,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HzG62ievL._SL1080_.jpg",
@@ -25172,6 +28814,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25252,7 +28897,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zSYgVWfXL._SL1500_.jpg",
@@ -25287,6 +28933,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25367,7 +29016,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/713nUK8IG5L._SL1500_.jpg",
@@ -25395,6 +29045,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25475,7 +29128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+MQ4lYo0L._SL1500_.jpg",
@@ -25496,6 +29150,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25576,7 +29233,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61LrAdUNwmL._SL1024_.jpg"
@@ -25603,6 +29261,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25684,7 +29345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cJGWawNLL._SL1500_.jpg",
@@ -25717,6 +29379,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25798,7 +29463,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41DOveAvnfL.jpg"
@@ -25815,6 +29481,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25896,7 +29565,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GBvsUUAkL._SL1500_.jpg"
@@ -25913,6 +29583,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -25993,7 +29666,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
+   "buyerEvidence": "3★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51atW460w-L._SL1200_.jpg"
@@ -26009,6 +29683,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26090,7 +29767,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nf5vxrnJL._SL1500_.jpg"
@@ -26107,6 +29785,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26187,7 +29868,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51F4IcQDobL._SL1080_.jpg",
@@ -26224,6 +29906,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26304,7 +29989,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nN1DDPwwL._SL1366_.jpg"
@@ -26324,6 +30010,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26404,7 +30093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d+qRGFdQL._SL1200_.jpg"
@@ -26434,6 +30124,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26514,7 +30207,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61y8SjaUFYL._SL1080_.jpg",
@@ -26546,6 +30240,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26627,7 +30324,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611baD2ZveL._SL1500_.jpg",
@@ -26660,6 +30358,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26740,7 +30441,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51smS+CkDqL._SL1500_.jpg",
@@ -26772,6 +30474,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -26809,6 +30514,471 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "derma-thrive-b0g2grws9n",
+  "brand": "Derma-Thrive",
+  "model": "Azelvit Face Serum with Liposomal Azelaic Acid 5% Retinol 0.5% Niacinamide 8% Ethyl Ascorb…",
+  "price": 1700,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Niacinamide + Retinol",
+  "featureLine": "Serum · ₹5667/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5667/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C, Niacinamide, Retinol, Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61spc-p9vBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2GRWS9N",
+  "buyStore": "Amazon",
+  "title": "Azelvit Face Serum with Liposomal Azelaic Acid 5% Retinol 0.5% Niacinamide 8% Ethyl Ascorbic Acid 5% | Acne Marks Dark Spots Pigmentation Oil Control | 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:azelaic-acid",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:oily",
+   "skin:acne-prone",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "skiom-b0g2rfklnc",
+  "brand": "Skiom",
+  "model": "Acne Shield Cream 30g | for Acne Prone Skin with Azelaic Acid & Tri-Biotic Complex | Clini…",
+  "price": 1139,
+  "capacityLine": "30 g",
+  "materialLine": "Azelaic acid",
+  "featureLine": "Oil · ₹3797/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹3797/100g",
+   "format": "Oil",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Acne-prone, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Niacinamide. Aloe Vera. Allantoin. Hyaluronic Acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ShWdV7K5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2RFKLNC",
+  "buyStore": "Amazon",
+  "title": "Acne Shield Cream 30g | for Acne Prone Skin with Azelaic Acid & Tri-Biotic Complex | Clinically Proven Reduces Acne in 28 Days & Papules by 85% | Controls Oil, Clears Pores & Fades Acne Marks | All Skin Types",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:oil",
+   "ing:azelaic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:scars",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Niacinamide. Aloe Vera. Allantoin. Hyaluronic Acid",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "zochii-b0h118sfq8",
+  "brand": "ZOCHII",
+  "model": "HushGlow Pigmentation Corrector Serum | Vitamin C, Niacinamide, Azelaic Acid, Alpha Arbuti…",
+  "price": 1520,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Niacinamide + Azelaic acid",
+  "featureLine": "Serum · Fragrance-free · ₹5067/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5067/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Niacinamide, Azelaic acid, Hyaluronic acid, Ceramides, Kojic acid, Alpha arbutin, Centella / cica, Licorice, Vitamin B5 / panthenol, Allantoin, Glycerin (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/518YQR3l4lL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H118SFQ8",
+  "buyStore": "Amazon",
+  "title": "HushGlow Pigmentation Corrector Serum | Vitamin C, Niacinamide, Azelaic Acid, Alpha Arbutin, Kojic Acid, Licorice | Helps Reduce Appearance of Dark Spots & Uneven Skin Tone | Fragrance Free | Non-Comedogenic | 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:kojic-acid",
+   "ing:alpha-arbutin",
+   "ing:centella-cica",
+   "ing:licorice",
+   "ing:vitamin-b5-panthenol",
+   "ing:allantoin",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:scars",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kaya-clinic-b01lxojc5v",
+  "brand": "Kaya Clinic",
+  "model": "Kaya Bright Day Cream – Instant Radiance & 7-Day Glow | 3% Potassium Azeloyl Diglycinate, …",
+  "price": 399,
+  "capacityLine": "50 ml",
+  "materialLine": "Vitamin C + Azelaic acid",
+  "featureLine": "Sunscreen · SPF 15 · ₹798/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹798/100ml",
+   "format": "Sunscreen",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C, Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim), Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, SPF included (seller claim — not clinical proof)",
+   "skinType": "Combination skin, Normal skin",
+   "sunProtection": "SPF 15 (as labelled)",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Whitening active Azeloyl glycine works to give you lighter and brighter skin. Antioxidant Vitamin C fights free radicals and improves skin texture. It comes with SPF 15 for UV protection against harmful effects of the sun.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51vo-90G6sL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01LXOJC5V",
+  "buyStore": "Amazon",
+  "title": "Kaya Bright Day Cream – Instant Radiance & 7-Day Glow | 3% Potassium Azeloyl Diglycinate, Provitamin C & SPF 15 | Dermatologist-Co-Created with 22 Years Expertise | 50 ml",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:toner",
+   "format:kit",
+   "spf:15",
+   "ing:vitamin-c",
+   "ing:azelaic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:combination",
+   "skin:normal",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Whitening active Azeloyl glycine works to give you lighter and brighter skin. Antioxidant Vitamin C fights free radicals and improves skin texture. It comes with SPF 15 for UV protection against harmful effects of the sun.",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.33,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Kaya Ltd (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.kaya.in/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -26852,7 +31022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); salicylic acid (#6 on list, strong evidence); azelaic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #6 on INCI, azelaic acid #7 on INCI; Dark spots — product type, niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — product type, azelaic acid #7 on INCI, bisabolol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jiCdIr5uL._AC_UL320_.jpg"
@@ -26882,6 +31053,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -26914,6 +31088,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -26921,6 +31096,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -26928,6 +31104,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -26935,6 +31112,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -26942,6 +31120,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -27002,7 +31181,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Mhg6jn+gL._SL1254_.jpg",
@@ -27037,6 +31217,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27117,7 +31300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51fXV9SOzbL._SL1200_.jpg",
@@ -27150,6 +31334,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27230,7 +31417,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JI7pJHhgL._SL1080_.jpg",
@@ -27265,6 +31453,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27345,7 +31536,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61txLhEqmfL._SL1500_.jpg",
@@ -27369,6 +31561,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27449,7 +31644,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VD-q0g1kL._SL1500_.jpg",
@@ -27484,6 +31680,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27564,7 +31763,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rlONX5A+L._SL1500_.jpg",
@@ -27595,6 +31795,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27675,7 +31878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/519VajMhs9L._SL1500_.jpg",
@@ -27706,6 +31910,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27786,7 +31993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71trLuEWDoL._SL1500_.jpg",
@@ -27819,6 +32027,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -27899,7 +32110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615E+9bZPDL._SL1500_.jpg",
@@ -27920,6 +32132,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28000,7 +32215,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61B9-Gayh1L._SL1500_.jpg",
@@ -28031,6 +32247,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28111,7 +32330,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-RoQF-wFL._SL1500_.jpg",
@@ -28135,6 +32355,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28215,7 +32438,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619v3mydinL._SL1254_.jpg",
@@ -28254,6 +32478,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28335,7 +32562,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qCTFCrzFL._SL1500_.jpg"
@@ -28352,6 +32580,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28432,7 +32663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MsGwx4b2L._SL1500_.jpg",
@@ -28459,6 +32691,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28540,7 +32775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51g4-gSuYHL._SL1500_.jpg",
@@ -28575,6 +32811,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28655,7 +32894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71EC8itZ9UL._SL1500_.jpg",
@@ -28679,6 +32919,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28759,7 +33002,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mR2jHZ5dL._SL1500_.jpg",
@@ -28790,6 +33034,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28870,7 +33117,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61y3PGTFhVL._SL1024_.jpg",
@@ -28903,6 +33151,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -28983,7 +33234,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71mZv55ZooL._SL1500_.jpg",
@@ -29005,6 +33257,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29085,7 +33340,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41q7RfPodoL._SL1200_.jpg",
@@ -29112,6 +33368,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29193,7 +33452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vwHRAB3NL._SL1024_.jpg",
@@ -29230,6 +33490,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29311,7 +33574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Ex7NATG+L._SL1500_.jpg",
@@ -29350,6 +33614,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29430,7 +33697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hOKZ2Em-L._SL1500_.jpg",
@@ -29463,6 +33731,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29543,7 +33814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512mDlBTDxL._SL1500_.jpg",
@@ -29574,6 +33846,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29654,7 +33929,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jrak-gT1L._SL1000_.jpg",
@@ -29675,6 +33951,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29756,7 +34035,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41vsm7j9jrL.jpg"
@@ -29773,6 +34053,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29853,7 +34136,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Q5ieNhyyL._SL1080_.jpg",
@@ -29887,6 +34171,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -29968,7 +34255,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81E73r6hVUL._SL1500_.jpg",
@@ -29999,6 +34287,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30079,7 +34370,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61lp+LvAvmL._SL1500_.jpg",
@@ -30102,6 +34394,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30182,7 +34477,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41zfHHWvAqL.jpg",
@@ -30199,6 +34495,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30279,7 +34578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dPyZvqtDL._SL1500_.jpg",
@@ -30317,6 +34617,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30397,7 +34700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61c3lQmyo1L._SL1500_.jpg",
@@ -30447,6 +34751,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30484,6 +34791,773 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "foxtale-b0dgxxt1vz",
+  "brand": "Foxtale",
+  "model": "12% Niacinamide Face Serum with Azelaic Acid for Oil Control, Fade Acne Marks, Acne & Dark…",
+  "price": 548,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Zinc",
+  "featureLine": "Serum · ₹1827/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); azelaic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 9,
+   "trust": 7,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1827/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Zinc (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Acne-prone, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Niacinamide, Hexylene glycol, PPG-20 Methyl Glucose Ether, Phenoxyethanol, Betaine, Glycerin, Glyceryl Glucoside, Allantoin, Azelaic acid, Ethylhexylglycerin, Lecithin, Lysolecithin, Carbomer, Aminomethyl propanol, Disodium EDTA",
+   "evidenceActives": "niacinamide (#2 on list, strong evidence); azelaic acid (#10 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI; Dark spots — product type, niacinamide #2 on INCI; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51MNnYD5d-L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DGXXT1VZ",
+  "buyStore": "Amazon",
+  "title": "Foxtale 12% Niacinamide Face Serum with Azelaic Acid for Oil Control, Fade Acne Marks, Acne & Dark Spots | Brightens & Clear Skin, For Oily, Acne Prone, & Combination Skin | Women & Men | 30 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:zinc",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:scars",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "skin:all",
+   "free:non-comedogenic",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Niacinamide, Hexylene glycol, PPG-20 Methyl Glucose Ether, Phenoxyethanol, Betaine, Glycerin, Glyceryl Glucoside, Allantoin, Azelaic acid, Ethylhexylglycerin, Lecithin, Lysolecithin, Carbomer, Aminomethyl propanol, Disodium EDTA",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 9,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "azelaic"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Foxtale Consumer",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://foxtale.in/"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "s-h-b09br3g5zm",
+  "brand": "S H",
+  "model": "SATYAM HEALTHCARE Zelo Azelaic Acid Medicated Saop",
+  "price": 147,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Azelaic acid",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51sZOHdIWfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09BR3G5ZM",
+  "buyStore": "Amazon",
+  "title": "SATYAM HEALTHCARE Zelo Azelaic Acid Medicated Saop",
+  "tags": [
+   "scope:unstated",
+   "format:bar",
+   "ing:azelaic-acid",
+   "claim:hydrating",
+   "claim:cooling",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0hhycmdht",
+  "brand": "Unbranded",
+  "model": "Azelaic Acid Serum for Face with Niacinamide & Hyaluronic Acid 30ml | Fades Dark Spots, Re…",
+  "price": 899,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹2997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2997/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Almond (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Korean / K-beauty, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51sE2VC25LL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHYCMDHT",
+  "buyStore": "Amazon",
+  "title": "Azelaic Acid Serum for Face with Niacinamide & Hyaluronic Acid 30ml | Fades Dark Spots, Reduces Pigmentation, Sunflower & Almond Oils, Lightweight Texture, Radiant Glow",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:scars",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "clariv-b0f9wdtzpz",
+  "brand": "CLARIV",
+  "model": "Pack of 2 Anti-Acne Face Serum – 2% Salicylic Acid, 5% Niacinamide & 5% Azelaic Acid – Fig…",
+  "price": 699,
+  "capacityLine": "120 ml (pack of 2)",
+  "materialLine": "Niacinamide + Salicylic acid (BHA) + Azelaic acid",
+  "featureLine": "Serum · ₹583/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "niacinamide high on the INCI list (strong evidence); salicylic acid high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "60 ml × 2 pack",
+   "pricePer100": "₹583/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Barrier repair, Soothing / calming, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "DM Water, Aloe vera Extract, Natural Betaine, Glycerine, Xanthan gum, Niacinamide, Salicylic Acid, Azelaic Acid, Caprylic Capric Triglyceride, Mandelic Acid, Cystoseira tamariscifolia extract, Sodium benzoate & Potassium sorbate salicylic acid face serum niacinamide acne serum tea tree oil face serum natural anti acne serum organic acne face serum acne healing serum lightweight acne serum acne serum for sensitive skin",
+   "evidenceActives": "niacinamide (#6 on list, strong evidence); salicylic acid (#7 on list, strong evidence); azelaic acid (#8 on list, strong evidence); mandelic acid (#10 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type, niacinamide #6 on INCI, salicylic acid #7 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #6 on INCI, azelaic acid #8 on INCI; Irritation — product type, aloe barbadensis leaf extract #2 on INCI, azelaic acid #8 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ZPwQnE8NL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F9WDTZPZ",
+  "buyStore": "Amazon",
+  "title": "Pack of 2 Anti-Acne Face Serum – 2% Salicylic Acid, 5% Niacinamide & 5% Azelaic Acid – Fights Acne, Unclogs Pores, Controls Oil & Reduces Blemishes – Ideal for Oily & Acne-Prone Skin – 60 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:oil",
+   "format:wash",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:azelaic-acid",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "free:non-comedogenic",
+   "free:hypoallergenic",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "DM Water, Aloe vera Extract, Natural Betaine, Glycerine, Xanthan gum, Niacinamide, Salicylic Acid, Azelaic Acid, Caprylic Capric Triglyceride, Mandelic Acid, Cystoseira tamariscifolia extract, Sodium benzoate & Potassium sorbate salicylic acid face serum niacinamide acne serum tea tree oil face serum natural anti acne serum organic acne face serum acne healing serum lightweight acne serum acne serum for sensitive skin",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "azelaic acid",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "azelaic"
+    },
+    {
+     "name": "mandelic acid",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unspoiled-b0bcvzhyv3",
+  "brand": "UNSPOILED",
+  "model": "0.5% Azelaic Acid + 0.5% Salicylic Acid Face Sheet Mask with Willow Bark Extracts for Acne…",
+  "price": 499,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Azelaic acid",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Combination skin, Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: salicylic acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rTdUc6i4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BCVZHYV3",
+  "buyStore": "Amazon",
+  "title": "0.5% Azelaic Acid + 0.5% Salicylic Acid Face Sheet Mask with Willow Bark Extracts for Acne Prone Skin | Treat Acne, Improve Skin Radiance and Control Oil Production (Pack of 4)",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:sheet-mask",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:azelaic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:soothing",
+   "skin:combination",
+   "skin:acne-prone",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "salicylic acid",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "pure-alchemy-b0g1kwr2ht",
+  "brand": "Pure Alchemy",
+  "model": "Pore Reset Anti-Acne Serum, 2% Salicylic Acid, 2% Potassium Azeloyl Diglycinate, 3% Niacin…",
+  "price": 519,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Salicylic acid (BHA) + Zinc",
+  "featureLine": "Serum · ₹1730/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1730/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Zinc (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Salicylic Acid. Potassium Azeloyl Diglycinate. Niacinamide. Zinc PCA. Green Tea Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XlsqJTi2L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1KWR2HT",
+  "buyStore": "Amazon",
+  "title": "Pore Reset Anti-Acne Serum, 2% Salicylic Acid, 2% Potassium Azeloyl Diglycinate, 3% Niacinamide, for Acne, Whiteheads, Dark Spots & Excess Oil, for Clear & Balanced Skin, 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:zinc",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:oily",
+   "skin:acne-prone",
+   "free:oil-free",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Salicylic Acid. Potassium Azeloyl Diglycinate. Niacinamide. Zinc PCA. Green Tea Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -30528,7 +35602,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); azelaic acid (#8 on list, strong evidence)",
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #8 on INCI; Dark spots — product type, niacinamide #2 on INCI, kojic acid #3 on INCI, azelaic acid #8 on INCI; Irritation — product type, azelaic acid #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513QXWca0CL._SL1200_.jpg",
@@ -30559,6 +35634,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -30590,6 +35668,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -30597,6 +35676,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -30604,6 +35684,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -30611,6 +35692,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -30618,6 +35700,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -30690,7 +35773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#3 on list, strong evidence); azelaic acid (#12 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — product type, azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — product type, azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613WXCVqskL._SL1200_.jpg",
@@ -30722,6 +35806,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -30755,6 +35842,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -30762,6 +35850,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -30769,6 +35858,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -30776,6 +35866,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -30783,6 +35874,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -30843,7 +35935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oXapWnt7L._SL1500_.jpg"
@@ -30878,6 +35971,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -30959,7 +36055,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jwu6oRiKL._SL1254_.jpg",
@@ -30989,6 +36086,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31069,7 +36169,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aXl9vRf9L._SL1500_.jpg",
@@ -31112,6 +36213,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31194,7 +36298,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#2 on list, strong evidence); salicylic acid (#9 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, salicylic acid #9 on INCI; Dark spots — product type, azelaic acid #2 on INCI, glycyrrhiza glabra root extract #11 on INCI; Aging — adenosine #10 on INCI; Irritation — product type, azelaic acid #2 on INCI, bisabolol #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XgU27oHdL._SL1500_.jpg",
@@ -31232,6 +36337,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -31265,6 +36374,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -31272,6 +36382,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -31279,6 +36390,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -31286,6 +36398,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -31293,6 +36406,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -31300,6 +36414,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -31307,6 +36422,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -31314,6 +36430,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -31377,7 +36494,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gDx4Gq5cL._SL1200_.jpg",
@@ -31408,6 +36526,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -31489,7 +36610,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aNWXd8EQL._SL1500_.jpg",
@@ -31515,6 +36637,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31595,7 +36720,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41V4Eox1cIL.jpg",
@@ -31613,6 +36739,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31693,7 +36822,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61z1zGfuI-L._SL1500_.jpg",
@@ -31717,6 +36847,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31797,7 +36930,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71bO1R06PHL._SL1500_.jpg",
@@ -31823,6 +36957,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -31903,7 +37040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71fFvmWF0UL._SL1500_.jpg",
@@ -31923,6 +37061,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32003,7 +37144,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/415NzVMa2-L._SL1024_.jpg",
@@ -32037,6 +37179,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32117,7 +37262,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+MO1QUwuL._SL1500_.jpg",
@@ -32139,6 +37285,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32220,7 +37369,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aPgOsSWCL._SL1500_.jpg"
@@ -32237,6 +37387,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32317,7 +37470,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61e0QQu4ENL._SL1500_.jpg",
@@ -32339,6 +37493,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32419,7 +37576,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41ZmW+iM3BL._SL1200_.jpg",
@@ -32450,6 +37608,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32531,7 +37692,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TsCjzvoFL._SL1500_.jpg",
@@ -32555,6 +37717,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32637,7 +37802,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aS95gCcTL._SL1200_.jpg",
@@ -32655,6 +37821,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32735,7 +37904,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41UCHgXM40L._SL1344_.jpg",
@@ -32772,6 +37942,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32852,7 +38025,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d7uYz-MEL._SL1500_.jpg",
@@ -32881,6 +38055,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -32960,7 +38137,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614eCfzq-GL._SL1500_.jpg",
@@ -32987,6 +38165,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33067,7 +38248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h2mSFSPaL._SL1500_.jpg",
@@ -33096,6 +38278,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33176,7 +38361,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nWKqzrH8L._SL1500_.jpg",
@@ -33219,6 +38405,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33299,7 +38488,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611m3-7NviL._SL1500_.jpg",
@@ -33334,6 +38524,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33415,7 +38608,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41r0WaWmw0L.jpg"
@@ -33432,6 +38626,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33512,7 +38709,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71uIup-aGGL._SL1500_.jpg",
@@ -33547,6 +38745,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33627,7 +38828,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51PgAsPaLGL._SL1200_.jpg",
@@ -33657,6 +38859,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33738,7 +38943,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71rH6C3vzjL._SL1500_.jpg",
@@ -33773,6 +38979,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33853,7 +39062,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71cVCZ4RHUL._SL1500_.jpg",
@@ -33889,6 +39099,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -33969,7 +39182,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C2ATvd6gL._SL1000_.jpg"
@@ -33986,6 +39200,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34066,7 +39283,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J61E2mBlL._SL1080_.jpg",
@@ -34084,6 +39302,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34164,7 +39385,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jvWwkx3+L._SL1080_.jpg",
@@ -34202,6 +39424,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34283,7 +39508,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/21lJZvH6cAL.jpg",
@@ -34297,6 +39523,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34378,7 +39607,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nf5vxrnJL._SL1500_.jpg"
@@ -34395,6 +39625,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34476,7 +39709,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FTxinAXPL._SL1448_.jpg"
@@ -34504,6 +39738,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -34541,6 +39778,460 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "my-turmerick-secret-b0h8csl72j",
+  "brand": "My Turmerick Secret",
+  "model": "Cool Cure Face & Neck Gel Moisturizer – 3% Cucumber Extract, 1.4% Witch Hazel & 1% Azelaic…",
+  "price": 245,
+  "capacityLine": "30 ml",
+  "materialLine": "Azelaic acid + Turmeric + Cucumber",
+  "featureLine": "Gel · ₹817/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹817/100ml",
+   "format": "Gel",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Azelaic acid, Turmeric, Cucumber, Witch hazel (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Cucumber Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51p2d-J5-1L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8CSL72J",
+  "buyStore": "Amazon",
+  "title": "Cool Cure Face & Neck Gel Moisturizer – 3% Cucumber Extract, 1.4% Witch Hazel & 1% Azelaic Acid | Oil-Free, Cooling Hydration Gel for Men & Women | Calms Irritation & Balances Skin, 30ml",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "ing:azelaic-acid",
+   "ing:turmeric",
+   "ing:cucumber",
+   "ing:witch-hazel",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "free:oil-free",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cucumber Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "scientifique-b0fsspgdtm",
+  "brand": "SCIENTIFIQUE",
+  "model": "™ 12% Niacinamide Face Serum – Enriched with Azelaic Acid, Hyaluronic Acid, Licorice, Aloe…",
+  "price": 449,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
+  "featureLine": "Serum · ₹1497/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1497/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Green tea, Aloe vera, Cucumber, Licorice (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cooling / refreshing, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Aloe Vera. Green Tea leaves",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61S-h4w5nZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FSSPGDTM",
+  "buyStore": "Amazon",
+  "title": "SCIENTIFIQUE™ 12% Niacinamide Face Serum – Enriched with Azelaic Acid, Hyaluronic Acid, Licorice, Aloe Vera & Green Tea Extract | Controls Excess Oil, Brightens Skin & Refines Pores | Lightweight, Non-Greasy Daily Serum for Men & Women (30 ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:azelaic-acid",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "ing:licorice",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "claim:makeup",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloe Vera. Green Tea leaves",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "conscious-chemist-b0ftzf89z2",
+  "brand": "Conscious Chemist",
+  "model": "® Rapid Relief Acne Spot Corrector Gel 15g | 2% Salicylic Acid & Azelaic Acid Acne Spot Tr…",
+  "price": 569,
+  "capacityLine": "30 g (pack of 2)",
+  "materialLine": "Salicylic acid (BHA) + Azelaic acid",
+  "featureLine": "Gel · ₹1897/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "15 g × 2 pack",
+   "pricePer100": "₹1897/100g",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Scars / marks, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51mo6fgP07L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61wReY0nM0L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61w6DLXXNSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61d4qrSgKWL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61wWgJkbVBL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FTZF89Z2",
+  "buyStore": "Amazon",
+  "title": "Conscious Chemist® Rapid Relief Acne Spot Corrector Gel 15g | 2% Salicylic Acid & Azelaic Acid Acne Spot Treatment | Pimple Removal Gel for Active Acne, Redness & Dark Spots | Fast-Acting Spot Corrector for Men & Women | Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:azelaic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:scars",
+   "claim:makeup",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "conscious-chemist-b0d1y6kchk",
+  "brand": "Conscious Chemist",
+  "model": "® 10% Azelaic Acid Cream | 50g | Face Cream for Men & Women, Moisturizer for Acne Prone Sk…",
+  "price": 287,
+  "capacityLine": "50 g",
+  "materialLine": "Azelaic acid",
+  "featureLine": "Cream · ₹574/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹574/100g",
+   "format": "Cream",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, Acne-prone, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TYPVS7pcL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61u6tKWTbqL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61IHfNgrDSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61y2icXiGhL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61S2fFogZJL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D1Y6KCHK",
+  "buyStore": "Amazon",
+  "title": "Conscious Chemist® 10% Azelaic Acid Cream | 50g | Face Cream for Men & Women, Moisturizer for Acne Prone Skin, Redness Relief, Soothe Irritation & Inflammation, All Skin Types - Azicalm",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:azelaic-acid",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -34585,7 +40276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); tranexamic acid (#3 on list, moderate evidence); azelaic acid (#9 on list, strong evidence)",
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — product type, niacinamide #2 on INCI, tranexamic acid #3 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — product type, azelaic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JzMifeYWL._SL1200_.jpg",
@@ -34616,6 +40308,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -34647,6 +40342,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -34654,6 +40350,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -34661,6 +40358,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -34668,6 +40366,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -34675,6 +40374,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -34682,6 +40382,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -34754,7 +40455,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#2 on list, strong evidence); niacinamide (#3 on list, strong evidence); mandelic acid (#9 on list, moderate evidence); alpha-arbutin (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI; Dark spots — product type, azelaic acid #2 on INCI, niacinamide #3 on INCI, kojic dipalmitate #4 on INCI, tetrahexyldecyl ascorbate #5 on INCI, glycyrrhiza glabra root extract #11 on INCI, alpha-arbutin #12 on INCI; Aging — tetrahexyldecyl ascorbate #5 on INCI; Irritation — product type, azelaic acid #2 on INCI, panthenol #6 on INCI, centella asiatica extract #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6137ujH3SGL._SL1500_.jpg",
@@ -34793,6 +40495,10 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -34825,6 +40531,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -34832,6 +40539,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -34839,6 +40547,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -34846,6 +40555,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -34853,6 +40563,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -34860,6 +40571,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -34867,6 +40579,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -34874,6 +40587,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -34881,6 +40595,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -34888,6 +40603,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -34895,6 +40611,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -34902,6 +40619,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -34909,6 +40627,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -34916,6 +40635,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -34980,7 +40700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wZBLwP67L._SL1200_.jpg",
@@ -35011,6 +40732,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -35093,7 +40817,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/718vvJM-pvL._SL1500_.jpg",
@@ -35113,6 +40838,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35193,7 +40921,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61giJSWjGsL._SL1500_.jpg",
@@ -35217,6 +40946,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35297,7 +41029,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sWt2f8eLL._SL1500_.jpg",
@@ -35329,6 +41062,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35409,7 +41145,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51J0GHNXi3L._SL1024_.jpg",
@@ -35449,6 +41186,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35531,7 +41271,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619ME6F4SSL._SL1280_.jpg"
@@ -35547,6 +41288,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35627,7 +41371,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514HphLYZML._SL1080_.jpg",
@@ -35659,6 +41404,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35739,7 +41487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51sJd7fEQDL._SL1000_.jpg",
@@ -35772,6 +41521,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35852,7 +41604,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZgXhbQ1LL._SL1254_.jpg",
@@ -35888,6 +41641,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -35968,7 +41724,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GJWRK2TfL._SL1500_.jpg",
@@ -36001,6 +41758,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36081,7 +41841,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51n6axV3cVL._SL1080_.jpg",
@@ -36115,6 +41876,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36196,7 +41960,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31dpRV5yfJL.jpg",
@@ -36225,6 +41990,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36306,7 +42074,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aPgOsSWCL._SL1500_.jpg"
@@ -36323,6 +42092,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36403,7 +42175,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71W5O+mVbtL._SL1500_.jpg",
@@ -36426,6 +42199,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36506,7 +42282,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81V4eFP5wTL._SL1500_.jpg",
@@ -36532,6 +42309,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36612,7 +42392,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rDJ3Y5bUL._SL1500_.jpg",
@@ -36649,6 +42430,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36729,7 +42513,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ljZwdFWNL._SL1080_.jpg",
@@ -36764,6 +42549,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36844,7 +42632,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uDv+xbN7L._SL1254_.jpg",
@@ -36879,6 +42668,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -36959,7 +42751,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Xl2S0ZcQL._SL1000_.jpg",
@@ -36990,6 +42783,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37071,7 +42867,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71P-uCjcr4L._SL1500_.jpg",
@@ -37108,6 +42905,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37145,112 +42945,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "anua-b0h7tb1wns",
-  "brand": "Anua",
-  "model": "Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin …",
-  "price": 3598,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Acne-prone",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71dATSNwpnL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71lscCKfiyL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81flCbxNJ9L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71NNMU56VEL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81XcdFkNONL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7TB1WNS",
-  "buyStore": "Amazon",
-  "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin (Pack of 2)",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:pack",
-   "format:kit",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "claim:acne",
-   "claim:soothing",
-   "skin:acne-prone",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -37295,7 +42989,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41hQnHGuuUL.jpg"
@@ -37312,6 +43007,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37392,7 +43090,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C4c99H5JL._SL1500_.jpg",
@@ -37419,6 +43118,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37499,7 +43201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51O1QA5N1uL._SL1080_.jpg",
@@ -37528,6 +43231,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37608,7 +43314,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71A8lyIpx-L._SL1500_.jpg",
@@ -37638,6 +43345,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37719,7 +43429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ln6O6VGYL._SL1024_.jpg",
@@ -37749,6 +43460,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37829,7 +43543,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/418VRVunerL._SL1000_.jpg",
@@ -37847,6 +43562,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -37928,7 +43646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Nd8+PXWwL._SL1329_.jpg",
@@ -37957,6 +43676,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38038,7 +43760,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617gYSSeDRL._SL1080_.jpg"
@@ -38058,6 +43781,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38139,7 +43865,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61t1FGKKoWL._SL1500_.jpg",
@@ -38166,6 +43893,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38246,7 +43976,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aXl9vRf9L._SL1500_.jpg",
@@ -38289,6 +44020,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38370,7 +44104,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/719z4gkrFJL._SL1500_.jpg"
@@ -38401,6 +44136,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38480,7 +44218,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dtUPILVbL._SL1200_.jpg",
@@ -38519,6 +44258,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38598,7 +44340,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412dJBqke7L._SL1100_.jpg",
@@ -38627,6 +44370,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38708,7 +44454,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/7185fUrBZiL._SL1500_.jpg",
@@ -38728,6 +44475,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -38810,7 +44560,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycolic acid (#3 on list, strong evidence); azelaic acid (#15 on list, strong evidence); tranexamic acid (#16 on list, moderate evidence); arbutin (#18 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #15 on INCI; Dark spots — product type, kojic dipalmitate #4 on INCI, azelaic acid #15 on INCI, tranexamic acid #16 on INCI, arbutin #18 on INCI, glycyrrhiza glabra root extract #22 on INCI; Irritation — product type, azelaic acid #15 on INCI, ceramide eos #26 on INCI, ceramide ns #27 on INCI, ceramide np #28 on INCI, ceramide ap #30 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41fMiH-cdpL._SL1080_.jpg",
@@ -38839,6 +44590,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -38872,6 +44626,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -38879,6 +44634,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -38886,6 +44642,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -38893,6 +44650,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -38900,6 +44658,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -38907,6 +44666,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -38914,6 +44674,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -38921,6 +44682,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -38928,6 +44690,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -38935,6 +44698,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -38942,6 +44706,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -38949,6 +44714,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -39014,7 +44780,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZajFnJtsL._SL1000_.jpg",
@@ -39045,6 +44812,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39124,7 +44894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LloWpF62L._SL1500_.jpg",
@@ -39149,6 +44920,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39229,7 +45003,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GI2PXf3JL._SL1500_.jpg",
@@ -39257,6 +45032,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39337,7 +45115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71dvN3amhBL._SL1500_.jpg",
@@ -39362,6 +45141,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39442,7 +45224,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41D9B9KpP1L.jpg",
@@ -39462,6 +45245,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39542,7 +45328,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71p8fKmZMlL._SL1500_.jpg",
@@ -39560,6 +45347,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39640,7 +45430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xlgn6YdBL._SL1500_.jpg",
@@ -39674,6 +45465,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39754,7 +45548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61svaOdWcgL._SL1500_.jpg",
@@ -39783,6 +45578,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39863,7 +45661,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51t3gOD1XgL._SL1080_.jpg",
@@ -39895,6 +45694,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -39976,7 +45778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AZUvtz-UL._SL1500_.jpg"
@@ -39992,6 +45795,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40072,7 +45878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61g855bW6WL._SL1254_.jpg",
@@ -40105,6 +45912,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40186,7 +45996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61OldB0HMmL._SL1500_.jpg",
@@ -40215,6 +46026,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40296,7 +46110,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41uM4YMc5+L.jpg"
@@ -40313,6 +46128,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40394,7 +46212,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sHQof3EPL._SL1500_.jpg"
@@ -40413,6 +46232,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40494,7 +46316,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pierre Fabre — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51teJmEtUVL._SL1489_.jpg",
@@ -40521,6 +46344,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -40602,7 +46428,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61B-N4wfYwL._SL1500_.jpg",
@@ -40639,6 +46466,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40719,7 +46549,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516FjWuYGeL._SL1500_.jpg",
@@ -40753,6 +46584,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40834,7 +46668,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OOL5rrWyL._SL1500_.jpg"
@@ -40859,6 +46694,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -40939,7 +46777,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41y6ZdgjNzL._SL1344_.jpg",
@@ -40975,6 +46814,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41055,7 +46897,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hm6i91ynL._SL1080_.jpg",
@@ -41088,6 +46931,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41168,7 +47014,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710lIJjwAFL._SL1500_.jpg",
@@ -41200,6 +47047,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41281,7 +47131,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/713EkXCOBZL._SL1500_.jpg",
@@ -41309,6 +47160,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41389,7 +47243,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WIGOz3wDL._SL1500_.jpg",
@@ -41418,6 +47273,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41499,7 +47357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516E4HOn0lL._SL1500_.jpg"
@@ -41516,6 +47375,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41596,7 +47458,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41rHYPNMQ-L._SL1000_.jpg",
@@ -41624,6 +47487,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41704,7 +47570,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61S6MnON5wL._SL1254_.jpg",
@@ -41741,6 +47608,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41821,7 +47691,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gZFQEDRQL._SL1500_.jpg",
@@ -41853,6 +47724,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -41933,7 +47807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+D1EEotwL._SL1500_.jpg",
@@ -41971,6 +47846,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42051,7 +47929,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61X2IiiefRL._SL1500_.jpg",
@@ -42081,6 +47960,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42161,7 +48043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51q7wtA5JIL._SL1080_.jpg"
@@ -42187,6 +48070,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42269,7 +48155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uSNJHB7-L._SL1448_.jpg",
@@ -42299,6 +48186,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42379,7 +48269,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51G1mmKvExL._SL1200_.jpg",
@@ -42413,6 +48304,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:partial"
   ],
   "filters": {
@@ -42494,7 +48388,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51S546CcSwL._SL1254_.jpg",
@@ -42527,6 +48422,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42607,7 +48505,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kBja8423L._SL1254_.jpg",
@@ -42642,6 +48541,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42721,7 +48623,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Fu8LyPLyL._SL1200_.jpg",
@@ -42751,6 +48654,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42831,7 +48737,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51H8CfwMqsL._SL1080_.jpg",
@@ -42866,6 +48773,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -42946,7 +48856,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41RI7gxX-kL._SL1440_.jpg",
@@ -42963,6 +48874,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43043,7 +48957,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61r4FHu8R-L._SL1254_.jpg",
@@ -43063,6 +48978,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43143,7 +49061,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rjp89VSUL._SL1500_.jpg",
@@ -43181,6 +49100,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43261,7 +49183,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wDITAMcEL._SL1500_.jpg"
@@ -43287,6 +49210,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43367,7 +49293,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Xq8GsdiaL._SL1500_.jpg",
@@ -43400,6 +49327,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43481,7 +49411,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dTRFB3oxL._SL1000_.jpg",
@@ -43515,6 +49446,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43595,7 +49529,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71f4ZgBDKwL._SL1254_.jpg",
@@ -43628,6 +49563,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43708,7 +49646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51k0sUGAhSL._SL1120_.jpg"
@@ -43730,6 +49669,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43811,7 +49753,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51sonZj2fwL._SL1500_.jpg"
@@ -43827,6 +49770,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -43908,7 +49854,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617p8hhujcL._SL1500_.jpg",
@@ -43937,6 +49884,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44018,7 +49968,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51PQHQtSBAL._SL1500_.jpg"
@@ -44035,6 +49986,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44115,7 +50069,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XriLrhMkL._SL1000_.jpg",
@@ -44153,6 +50108,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44234,7 +50192,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71tR-Fj5mML._SL1254_.jpg",
@@ -44272,6 +50231,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44353,7 +50315,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41achQjTtRL.jpg",
@@ -44385,6 +50348,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44465,7 +50431,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TPfFzy2BL._SL1500_.jpg"
@@ -44490,6 +50457,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44570,7 +50540,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51owAeJIUqL._SL1000_.jpg",
@@ -44599,6 +50570,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44679,7 +50653,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Qng5pA6wL._SL1254_.jpg",
@@ -44710,6 +50685,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44790,7 +50768,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nOXH2govL._SL1500_.jpg",
@@ -44827,6 +50806,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -44907,7 +50889,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nfBDkA0OL._SL1140_.jpg",
@@ -44930,6 +50913,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45010,7 +50996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TK3MkmqeL._SL1500_.jpg",
@@ -45045,6 +51032,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45126,7 +51116,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31Dy4z0H4oL.jpg",
@@ -45152,6 +51143,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45233,7 +51227,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41h+uglJ-wL.jpg"
@@ -45250,6 +51245,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45330,7 +51328,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LizV91vQL._SL1080_.jpg",
@@ -45364,6 +51363,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45445,7 +51447,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FLNGLtCbL._SL1000_.jpg",
@@ -45481,6 +51484,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45561,7 +51567,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51uDItHXGeL.jpg",
@@ -45597,6 +51604,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45677,7 +51687,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JFGpLkkWL._SL1448_.jpg",
@@ -45710,6 +51721,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45790,7 +51804,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nZFoRJRbL._SL1000_.jpg",
@@ -45807,6 +51822,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45886,7 +51904,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WmPonkcpL._SL1500_.jpg",
@@ -45913,6 +51932,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -45993,7 +52015,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iUENtkFYL._SL1222_.jpg",
@@ -46021,6 +52044,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -46101,7 +52127,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51q+IMg+v7L._SL1080_.jpg",
@@ -46129,6 +52156,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -46209,7 +52239,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mVaFmy5eL._SL1200_.jpg",
@@ -46234,6 +52265,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -46315,7 +52349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/714aI3ThNTL._SL1500_.jpg",
@@ -46357,6 +52392,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -46437,7 +52475,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type; Dark spots — product type; Irritation — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+tt+39XoL._SL1276_.jpg",
@@ -46466,6 +52505,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:none"
   ],
   "filters": {
@@ -46503,1331 +52545,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "foxtale-b0dgxxt1vz",
-  "brand": "Foxtale",
-  "model": "12% Niacinamide Face Serum with Azelaic Acid for Oil Control, Fade Acne Marks, Acne & Dark…",
-  "price": 508,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid",
-  "featureLine": "Serum · ₹1693/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1693/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Oil control / matte / non-greasy, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, Acne-prone",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51MNnYD5d-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DGXXT1VZ",
-  "buyStore": "Amazon",
-  "title": "Foxtale 12% Niacinamide Face Serum with Azelaic Acid for Oil Control, Fade Acne Marks, Acne & Dark Spots | Brightens & Clear Skin, For Oily, Acne Prone, & Combination Skin | Women & Men | 30 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:scars",
-   "skin:oily",
-   "skin:combination",
-   "skin:acne-prone",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "anua-b0dg1dq2s7",
-  "brand": "Anua",
-  "model": "Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin",
-  "price": 1567,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Azelaic acid + Hyaluronic acid + Centella / cica",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid, Hyaluronic acid, Centella / cica (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Acne-prone",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61sSYnrc1zL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DG1DQ2S7",
-  "buyStore": "Amazon",
-  "title": "Anua Azelaic Acid 10 Hyaluron Redness Soothing Serum with Cica Soothes & Calms Acne-Prone Skin",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:centella-cica",
-   "claim:acne",
-   "claim:soothing",
-   "skin:acne-prone",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "satyam-b09br3g5zm",
-  "brand": "SATYAM",
-  "model": "HEALTHCARE Zelo Azelaic Acid Medicated Saop",
-  "price": 147,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Azelaic acid",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51sZOHdIWfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09BR3G5ZM",
-  "buyStore": "Amazon",
-  "title": "SATYAM HEALTHCARE Zelo Azelaic Acid Medicated Saop",
-  "tags": [
-   "scope:unstated",
-   "ing:azelaic-acid",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "azelvit-b0g2grws9n",
-  "brand": "Azelvit",
-  "model": "Face Serum with Liposomal Azelaic Acid 5% Retinol 0.5% Niacinamide 8% Ethyl Ascorbic Acid …",
-  "price": 1700,
-  "capacityLine": "30 ml",
-  "materialLine": "Vitamin C + Niacinamide + Retinol",
-  "featureLine": "Serum · ₹5667/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5667/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Vitamin C, Niacinamide, Retinol, Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Acne / pimples, Oil control / matte / non-greasy, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61spc-p9vBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2GRWS9N",
-  "buyStore": "Amazon",
-  "title": "Azelvit Face Serum with Liposomal Azelaic Acid 5% Retinol 0.5% Niacinamide 8% Ethyl Ascorbic Acid 5% | Acne Marks Dark Spots Pigmentation Oil Control | 30ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "ing:azelaic-acid",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:scars",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hhycmdht",
-  "brand": "Unbranded",
-  "model": "Azelaic Acid Serum for Face with Niacinamide & Hyaluronic Acid 30ml | Fades Dark Spots, Re…",
-  "price": 899,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹2997/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹2997/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51sE2VC25LL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHYCMDHT",
-  "buyStore": "Amazon",
-  "title": "Azelaic Acid Serum for Face with Niacinamide & Hyaluronic Acid 30ml | Fades Dark Spots, Reduces Pigmentation, Sunflower & Almond Oils, Lightweight Texture, Radiant Glow",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0g2rfklnc",
-  "brand": "Unbranded",
-  "model": "Acne Shield Cream 30g | for Acne Prone Skin with Azelaic Acid & Tri-Biotic Complex | Clini…",
-  "price": 1139,
-  "capacityLine": "30 g",
-  "materialLine": "Azelaic acid",
-  "featureLine": "Oil · ₹3797/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹3797/100g",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Pores / blackheads, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Acne-prone, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ShWdV7K5L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2RFKLNC",
-  "buyStore": "Amazon",
-  "title": "Acne Shield Cream 30g | for Acne Prone Skin with Azelaic Acid & Tri-Biotic Complex | Clinically Proven Reduces Acne in 28 Days & Papules by 85% | Controls Oil, Clears Pores & Fades Acne Marks | All Skin Types",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:oil",
-   "ing:azelaic-acid",
-   "claim:acne",
-   "claim:pores",
-   "claim:scars",
-   "skin:acne-prone",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "hushglow-b0h118sfq8",
-  "brand": "HushGlow",
-  "model": "Pigmentation Corrector Serum | Vitamin C, Niacinamide, Azelaic Acid, Alpha Arbutin, Kojic …",
-  "price": 1520,
-  "capacityLine": "30 ml",
-  "materialLine": "Vitamin C + Niacinamide + Azelaic acid",
-  "featureLine": "Serum · Fragrance-free · ₹5067/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5067/100ml",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin C, Niacinamide, Azelaic acid, Kojic acid, Alpha arbutin, Licorice (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
-   "benefit": "Dark spots / pigmentation (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/518YQR3l4lL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H118SFQ8",
-  "buyStore": "Amazon",
-  "title": "HushGlow Pigmentation Corrector Serum | Vitamin C, Niacinamide, Azelaic Acid, Alpha Arbutin, Kojic Acid, Licorice | Helps Reduce Appearance of Dark Spots & Uneven Skin Tone | Fragrance Free | Non-Comedogenic | 30ml",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:kojic-acid",
-   "ing:alpha-arbutin",
-   "ing:licorice",
-   "claim:dark-spots",
-   "free:fragrance",
-   "free:non-comedogenic",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f9wdtzpz",
-  "brand": "Unbranded",
-  "model": "Pack of 2 Anti-Acne Face Serum – 2% Salicylic Acid, 5% Niacinamide & 5% Azelaic Acid – Fig…",
-  "price": 699,
-  "capacityLine": "120 ml (pack of 2)",
-  "materialLine": "Niacinamide + Salicylic acid (BHA) + Azelaic acid",
-  "featureLine": "Serum · ₹583/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "60 ml × 2 pack",
-   "pricePer100": "₹583/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Pores / blackheads (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Acne-prone",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ZPwQnE8NL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F9WDTZPZ",
-  "buyStore": "Amazon",
-  "title": "Pack of 2 Anti-Acne Face Serum – 2% Salicylic Acid, 5% Niacinamide & 5% Azelaic Acid – Fights Acne, Unclogs Pores, Controls Oil & Reduces Blemishes – Ideal for Oily & Acne-Prone Skin – 60 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:azelaic-acid",
-   "claim:acne",
-   "claim:pores",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0bcvzhyv3",
-  "brand": "Unbranded",
-  "model": "0.5% Azelaic Acid + 0.5% Salicylic Acid Face Sheet Mask with Willow Bark Extracts for Acne…",
-  "price": 499,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + Azelaic acid",
-  "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sheet mask",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Azelaic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Acne / pimples (seller claim — not clinical proof)",
-   "skinType": "Acne-prone",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51rTdUc6i4L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BCVZHYV3",
-  "buyStore": "Amazon",
-  "title": "0.5% Azelaic Acid + 0.5% Salicylic Acid Face Sheet Mask with Willow Bark Extracts for Acne Prone Skin | Treat Acne, Improve Skin Radiance and Control Oil Production (Pack of 4)",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "format:sheet-mask",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:azelaic-acid",
-   "claim:brightening",
-   "claim:acne",
-   "skin:acne-prone",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "pore-b0g1kwr2ht",
-  "brand": "Pore",
-  "model": "Reset Anti-Acne Serum, 2% Salicylic Acid, 2% Potassium Azeloyl Diglycinate, 3% Niacinamide…",
-  "price": 519,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Salicylic acid (BHA)",
-  "featureLine": "Serum · ₹1730/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1730/100ml",
-   "format": "Serum",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA) (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51XlsqJTi2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G1KWR2HT",
-  "buyStore": "Amazon",
-  "title": "Pore Reset Anti-Acne Serum, 2% Salicylic Acid, 2% Potassium Azeloyl Diglycinate, 3% Niacinamide, for Acne, Whiteheads, Dark Spots & Excess Oil, for Clear & Balanced Skin, 30ml",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:pores",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h8csl72j",
-  "brand": "Unbranded",
-  "model": "Cool Cure Face & Neck Gel Moisturizer – 3% Cucumber Extract, 1.4% Witch Hazel & 1% Azelaic…",
-  "price": 245,
-  "capacityLine": "30 ml",
-  "materialLine": "Azelaic acid + Cucumber + Witch hazel",
-  "featureLine": "Gel · ₹817/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹817/100ml",
-   "format": "Gel",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Azelaic acid, Cucumber, Witch hazel (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51p2d-J5-1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H8CSL72J",
-  "buyStore": "Amazon",
-  "title": "Cool Cure Face & Neck Gel Moisturizer – 3% Cucumber Extract, 1.4% Witch Hazel & 1% Azelaic Acid | Oil-Free, Cooling Hydration Gel for Men & Women | Calms Irritation & Balances Skin, 30ml",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "ing:azelaic-acid",
-   "ing:cucumber",
-   "ing:witch-hazel",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:cooling",
-   "free:oil-free",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "kaya-b01lxojc5v",
-  "brand": "Kaya",
-  "model": "Bright Day Cream – Instant Radiance & 7-Day Glow | 3% Potassium Azeloyl Diglycinate, Provi…",
-  "price": 399,
-  "capacityLine": "50 ml",
-  "materialLine": "Vitamin C",
-  "featureLine": "Sunscreen · SPF 15 · ₹798/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹798/100ml",
-   "format": "Sunscreen",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin C (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 15 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51vo-90G6sL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01LXOJC5V",
-  "buyStore": "Amazon",
-  "title": "Kaya Bright Day Cream – Instant Radiance & 7-Day Glow | 3% Potassium Azeloyl Diglycinate, Provitamin C & SPF 15 | Dermatologist-Co-Created with 22 Years Expertise | 50 ml",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "spf:15",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Kaya Ltd (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.kaya.in/"
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "scientifique-b0fsspgdtm",
-  "brand": "SCIENTIFIQUE",
-  "model": "12% Niacinamide Face Serum – Enriched with Azelaic Acid, Hyaluronic Acid, Licorice, Aloe V…",
-  "price": 449,
-  "capacityLine": "30 ml",
-  "materialLine": "Niacinamide + Azelaic acid + Hyaluronic acid",
-  "featureLine": "Serum · ₹1497/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1497/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Niacinamide, Azelaic acid, Hyaluronic acid, Green tea, Aloe vera, Licorice (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Oil control / matte / non-greasy, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61S-h4w5nZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FSSPGDTM",
-  "buyStore": "Amazon",
-  "title": "SCIENTIFIQUE™ 12% Niacinamide Face Serum – Enriched with Azelaic Acid, Hyaluronic Acid, Licorice, Aloe Vera & Green Tea Extract | Controls Excess Oil, Brightens Skin & Refines Pores | Lightweight, Non-Greasy Daily Serum for Men & Women (30 ml)",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:azelaic-acid",
-   "ing:hyaluronic-acid",
-   "ing:green-tea",
-   "ing:aloe-vera",
-   "ing:licorice",
-   "claim:brightening",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:lightweight",
-   "aud:women",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
   }
  }
 ];

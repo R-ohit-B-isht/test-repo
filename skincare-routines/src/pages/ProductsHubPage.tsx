@@ -1,6 +1,8 @@
 import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
 import { CategorySections } from '../components/hub/CategorySections';
+import { ConcernPicker } from '../components/hub/ConcernPicker';
+import { CONCERN_PARAM, concernTag, pickedConcerns } from '../domain/concern';
 import { LiveDataBadge, NumberTicker, StatusBlock } from '../components/ui/primitives';
 import { useDevPublish } from '../components/dev/devStore';
 import { useSearchParams } from 'react-router-dom';
@@ -8,11 +10,19 @@ import { SCORE_META } from '../domain/scoreMeta';
 
 export default function ProductsHubPage() {
   const manifest = useManifest();
-  const [params] = useSearchParams();
+  const [params, setParams] = useSearchParams();
+  const picked = pickedConcerns(params);
+  const setPicked = (ids: string[]) => setParams((prev) => {
+    const next = new URLSearchParams(prev);
+    next.delete(CONCERN_PARAM);
+    ids.forEach((id) => next.append(CONCERN_PARAM, concernTag(id)));
+    return next;
+  }, { replace: true });
   useDevPublish(params.get('dev') === '1', {
     page: 'products-hub',
     categories: manifest.status === 'ready' ? manifest.data.categories.length : null,
     listings: manifest.status === 'ready' ? manifest.data.total : null,
+    concerns: picked.join(','),
   });
   if (manifest.status === 'error') return <StatusBlock title="Could not load the product index" body={manifest.error} />;
   if (manifest.status === 'loading') return <StatusBlock title="Loading product categories…" />;
@@ -21,6 +31,8 @@ export default function ProductsHubPage() {
   const skin = m.categories.filter((c) => c.scopeGroup === 'scope').reduce((a, c) => ({ face: a.face + (c.byScope.face ?? 0), body: a.body + (c.byScope.body ?? 0), both: a.both + (c.byScope.both ?? 0) }), { face: 0, body: 0, both: 0 });
   const hair = m.categories.filter((c) => c.zone === 'hair').reduce((n, c) => n + c.count, 0);
   const fmt = (n: number) => n.toLocaleString('en-IN');
+  const skinCats = m.categories.filter((c) => c.facets.includes('target'));
+  const concern = { picked, labels: Object.fromEntries(m.concerns.map((c) => [c.id, c.label])) };
   return (
     <div className="pb-16">
       <Hero kicker="Product rankings · India"
@@ -51,8 +63,14 @@ export default function ProductsHubPage() {
           </div>
         }
       />
+      {m.groups.target && m.concerns.length > 0 && (
+        <div className="mt-6">
+          <ConcernPicker concerns={m.concerns} group={m.groups.target} categories={skinCats} picked={picked}
+            onToggle={(id) => setPicked(picked.includes(id) ? picked.filter((x) => x !== id) : [...picked, id])} onClear={() => setPicked([])} />
+        </div>
+      )}
       <div className="mt-6">
-        <CategorySections categories={m.categories} />
+        <CategorySections categories={m.categories} concern={concern} />
       </div>
     </div>
   );

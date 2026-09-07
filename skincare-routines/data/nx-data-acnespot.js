@@ -1,6 +1,128 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
+ {
+  "id": "goodal-itm4d086c1bba1a2",
+  "brand": "Goodal",
+  "model": "Green Tangerine Serum – Dark Spot Corrector & Hydrating Care",
+  "price": 1398,
+  "capacityLine": "40 ml",
+  "materialLine": "Vitamin C",
+  "featureLine": "Serum · ₹3495/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹3495/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Dark circles / puffiness, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: VITA C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/e/n/40-green-tangerine-serum-dark-spot-corrector-hydrating-care-original-imahds7phb7sbh7b.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/u/s/40-vita-c-serum-green-tangerine-extract-for-radiant-even-skin-original-imahds7gn5hahuu2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/k/40-green-tangerine-vitamin-c-serum-for-sensitive-skin-anti-aging-original-imahdnygaypmeckb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/i/c/m/40-green-tangerine-vita-c-dark-spot-care-serum-40ml-goodal-original-imagvz26gzfqgbyg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/m/x/40-green-tangerine-vita-c-serum-natural-antioxidant-glow-booster-original-imahds7mpdrrwmug.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/goodal-green-tangerine-serum-dark-spot-corrector-hydrating-care/p/itm4d086c1bba1a2",
+  "buyStore": "Flipkart",
+  "title": "Goodal Green Tangerine Serum – Dark Spot Corrector & Hydrating Care",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:pack",
+   "format:wash",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:scars",
+   "skin:sensitive",
+   "skin:all",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "VITA C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
  {
   "id": "dourmaa-organics-itmbcf99a22cd160",
   "brand": "DOURMAA ORGANICS",
@@ -44,7 +166,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/z/b/36-overnight-acne-pimple-patch-heal-blemishes-while-you-sleep-36-original-imahj5k3yv3xhrpz.jpeg?q=90",
@@ -72,6 +195,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -152,7 +276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 4,578 ratings"
+   "buyerEvidence": "4★ from 4,578 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/v/q/40-acne-pimple-patches-for-removing-zits-blemishes-pimples-dr-original-imahjnervmbzevx4.jpeg?q=90",
@@ -182,6 +307,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -263,7 +389,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 16,165 ratings"
+   "buyerEvidence": "3.8★ from 16,165 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/v/12-promise-face-acne-patch-pimple-healing-patch-for-face-sanfe-original-imahjjx9gq4ykqck.jpeg?q=90",
@@ -290,6 +417,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -371,7 +499,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 14 ratings"
+   "buyerEvidence": "4.1★ from 14 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/m/c/72-clear-skin-pimple-patch-invisible-fast-healing-acne-dots-for-original-imahj5gsuzpg4bhv.jpeg?q=90",
@@ -397,6 +526,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -479,7 +609,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/b/t/36-skin-tag-remover-patch-upgraded-acne-care-patch-formula-for-original-imahztxpmhxe4eg5.jpeg?q=90",
@@ -503,6 +634,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -584,7 +716,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/j/t/20-hydrocolloid-pimple-patches-with-0-5-salicylic-acid-to-reduce-original-imah4yt2kscjtwzp.jpeg?q=90",
@@ -608,6 +741,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -690,7 +824,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/b/d/l/36-pimple-patch-clear-gel-for-acne-advanced-skin-care-office-for-original-imahznahq9ayzmt5.jpeg?q=90",
@@ -714,6 +849,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -795,7 +931,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 251 ratings"
+   "buyerEvidence": "3.9★ from 251 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/5/b/g/50-acne-pimple-patch-36-hydrocolloid-waterproof-patches-for-original-imagy3xcwzrfpxnr.jpeg?q=90",
@@ -820,6 +957,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -901,7 +1039,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/6/25-advanced-acne-pimple-patch-72-patches-salicylic-acid-original-imahhcyunyus3eff.jpeg?q=90",
@@ -931,6 +1070,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1013,7 +1153,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/t/h/g/36-pimple-patch-skin-tag-remover-patch-superior-quality-acne-original-imahznagccbz2hvd.jpeg?q=90",
@@ -1036,6 +1177,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1118,7 +1260,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/b/o/7/36-pimple-patch-advanced-skin-care-acne-patches-crafted-for-original-imahznahfedaaqkv.jpeg?q=90",
@@ -1141,6 +1284,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1223,7 +1367,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/c/p/x/36-pimple-patch-acne-patch-advanced-skin-care-helps-maintain-original-imahndyr36kbt7vz.jpeg?q=90",
@@ -1251,6 +1396,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1333,7 +1479,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/e/w/36-pimple-patch-dark-spot-remover-comfortable-gentle-everyday-original-imahzu2shahuxyvm.jpeg?q=90",
@@ -1357,6 +1504,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1439,7 +1587,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/a/h/5/30-acne-pimple-patch-36-hydrocolloid-waterproof-patches-for-original-imahyxzzwydvcsqf.jpeg?q=90",
@@ -1472,6 +1621,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -1552,7 +1702,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
    "declaredManufacturer": "Kain Cosmeceuticals pvt. Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 538 ratings"
+   "buyerEvidence": "4.2★ from 538 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/l/q/20-acne-pimple-patch-with-2-salicylic-acid-2-adhesion-absorbs-original-imahjjy5umdqnhbu.jpeg?q=90",
@@ -1573,6 +1724,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -1655,7 +1807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/j/3/c/36-pimple-patch-clear-gel-for-acne-advanced-skin-care-spot-original-imahndygyz748sfe.jpeg?q=90",
@@ -1683,6 +1836,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1765,7 +1919,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/x/y/40-promise-face-acne-patch-pimple-healing-patch-for-face-smietrz-original-imahnxy2y8sgpuze.jpeg?q=90",
@@ -1787,6 +1942,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1868,7 +2024,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/0/t/36-mighty-patch-invisible-acne-patch-overnight-spot-treatment-original-imahmzgbjcbbgxug.jpeg?q=90",
@@ -1897,6 +2054,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -1978,7 +2136,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 10 ratings"
+   "buyerEvidence": "3.3★ from 10 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/5/u/b/20-spot-clearing-acne-pimple-patch-invisible-cover-with-100-original-imagtftq9dvqg8sz.jpeg?q=90",
@@ -2003,6 +2162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2083,7 +2243,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 197 ratings"
+   "buyerEvidence": "4.1★ from 197 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/0/x/17-pimple-patch-72-hydrocolloid-pimple-patches-helps-reduce-original-imahkkpf9wfqzyhs.jpeg?q=90",
@@ -2105,6 +2266,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2187,7 +2349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -2212,6 +2375,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2293,7 +2457,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/p/1/36-quick-healing-pimple-patch-transparent-acne-dots-for-face-original-imahh5r3v4hwheth.jpeg?q=90",
@@ -2325,6 +2490,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2406,7 +2572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 725 ratings"
+   "buyerEvidence": "4.2★ from 725 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/n/h/14-5-pimple-patch-hydrocolloid-and-salicylic-acid-patches-nua-original-imahhksghfhq5pms.jpeg?q=90",
@@ -2430,6 +2597,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2510,7 +2678,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 123 ratings"
+   "buyerEvidence": "4.2★ from 123 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/9/o/10-acne-pimple-patch-with-salicylic-acid-hydrocolloid-20-dots-original-imahkfbpmbjtfxfh.jpeg?q=90",
@@ -2538,6 +2707,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -2619,7 +2789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 108 ratings"
+   "buyerEvidence": "4.1★ from 108 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/6/y/30-acne-pimple-patch-72-patches-invisible-facial-dots-100-original-imahj37ayzggbvns.jpeg?q=90",
@@ -2644,6 +2815,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2725,7 +2897,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "KHYATI EXPO INDIA (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 3,765 ratings"
+   "buyerEvidence": "3.9★ from 3,765 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/s/o/-original-imahdvqssattwnpg.jpeg?q=90",
@@ -2751,6 +2924,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2833,7 +3007,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/s/a/o/36-pimple-patch-advanced-skin-care-supports-everyday-acne-care-original-imahndz6ayme4dgr.jpeg?q=90",
@@ -2859,6 +3034,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -2941,7 +3117,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/8/l/6/36-pimple-patch-acne-patch-ultra-comfort-acne-patch-smooth-daily-original-imahndyxrarpxsyh.jpeg?q=90",
@@ -2970,6 +3147,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3052,7 +3230,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/t/2/r/36-pimple-patch-advanced-skin-care-helps-cover-visible-pimples-original-imahndz7fjfggh9h.jpeg?q=90",
@@ -3080,6 +3259,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3162,7 +3342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -3185,6 +3366,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3267,7 +3449,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -3290,6 +3473,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3372,7 +3556,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/f/z/36-pimple-patch-pimple-patches-for-face-advanced-skin-care-calm-original-imahnrgftxnrugvb.jpeg?q=90",
@@ -3396,6 +3581,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3478,7 +3664,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/b/c/a/36-pimple-patch-pimple-patches-for-face-advanced-skin-care-helps-original-imahndyyvu9hmnch.jpeg?q=90",
@@ -3508,6 +3695,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3590,7 +3778,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/p/s/36-pimple-patch-dark-spot-remover-advanced-skin-care-encourages-original-imahzu2veg3chjey.jpeg?q=90",
@@ -3614,6 +3803,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3696,7 +3886,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/4/v/36-pimple-patch-advanced-skin-care-helps-maintain-fresh-for-original-imahzu2vzeergjdd.jpeg?q=90",
@@ -3720,6 +3911,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3802,7 +3994,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/0/j/36-pimple-patch-advanced-skin-care-supports-everyday-acne-care-original-imahzu2wxt5ffgzb.jpeg?q=90",
@@ -3825,6 +4018,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -3907,7 +4101,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/j/m/36-pimple-patch-acne-patch-advanced-skin-care-helps-maintain-original-imahnrg2qk8ehfeg.jpeg?q=90",
@@ -3931,6 +4126,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4013,7 +4209,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/r/v/36-pimple-patch-secure-effortless-application-protected-original-imahzu2rueyxukts.jpeg?q=90",
@@ -4036,6 +4233,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4117,7 +4315,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/c/m/36-face-acne-patch-pimple-healing-patch-for-face-myeong-original-imah4fhjvrpm2zy2.jpeg?q=90",
@@ -4140,6 +4339,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4220,7 +4420,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 1,761 ratings"
+   "buyerEvidence": "3.7★ from 1,761 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/8/o/30-pimple-acne-patch-patches-for-active-surface-acne-36-voiish-original-imahkugsccfpfv4k.jpeg?q=90",
@@ -4242,6 +4443,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4323,7 +4525,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 2,554 ratings"
+   "buyerEvidence": "3.7★ from 2,554 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/t/w/50-pimple-acne-patch-hydrocolloid-waterproof-patches-active-original-imahamy2cxgdtbav.jpeg?q=90",
@@ -4356,6 +4559,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -4437,7 +4641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 5 ratings"
+   "buyerEvidence": "3.2★ from 5 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/r/30-derma-smooth-pimple-acne-patch-patches-for-active-surface-original-imahdgfqgzfqbxjn.jpeg?q=90",
@@ -4459,6 +4664,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4541,7 +4747,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 3 ratings"
+   "buyerEvidence": "4.3★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/e/e/30-derma-smooth-acne-pimple-patch-36-patches-eaxla-original-imahdgfqugnbf8fc.jpeg?q=90",
@@ -4564,6 +4771,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4645,7 +4853,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 17 ratings"
+   "buyerEvidence": "3.8★ from 17 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/v/d/36-waterproof-pimple-patch-heal-pimples-anytime-anywhere-36-dots-original-imahgxm9kq7ktbhn.jpeg?q=90",
@@ -4670,6 +4879,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4751,7 +4961,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/d/7/36-dermasmooth-pimple-patch-ds-09-smietrz-original-imahe5vcjztffg4b.jpeg?q=90",
@@ -4774,6 +4985,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4855,7 +5067,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/x/v/20-hydrocolloid-acne-patch-for-women-men-boy-girls-acne-spot-original-imahe6n6fjnvnnr6.jpeg?q=90",
@@ -4877,6 +5090,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -4958,7 +5172,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 8 ratings"
+   "buyerEvidence": "3.6★ from 8 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/y/a/36-invisible-acne-pimple-patch-protects-and-heals-acne-overnight-original-imahj5jxnhy3gdsx.jpeg?q=90",
@@ -4985,6 +5200,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5067,7 +5283,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/e/q/10-acne-patch-pimple-patch-invisible-36patches-sizllik-original-imahmssdvsp6ersj.jpeg?q=90",
@@ -5091,6 +5308,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -5172,7 +5390,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/s/s/36-acne-pimple-patch-for-face-with-hydrocolloid-salycylic-acid-original-imah4c55nbhfkyjy.jpeg?q=90",
@@ -5199,6 +5418,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5282,7 +5502,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Imperealle (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.7★ from 29 ratings"
+   "buyerEvidence": "4.7★ from 29 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/blackhead-remover/a/h/3/36-clearfix-hydrocolloid-pimple-patch-36-patches-ultra-thin-original-imahp87umsbg8egy.jpeg?q=90",
@@ -5303,6 +5524,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5384,7 +5606,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 12 ratings"
+   "buyerEvidence": "3.9★ from 12 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/s/d/20-acne-pimple-patch-waterproof-absorbs-flattens-acne-overnight-original-imah36yp4zqzm2qj.jpeg?q=90",
@@ -5413,6 +5636,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5495,7 +5719,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 6 ratings"
+   "buyerEvidence": "4.5★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/b/c/36-hydrocolloid-acne-pimple-patch-with-salicylic-acid-gleora-original-imahmgwdgzkmgpaq.jpeg?q=90",
@@ -5520,6 +5745,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5601,7 +5827,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 3 ratings"
+   "buyerEvidence": "3★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/o/s/36-acne-pimple-patch-fast-relief-for-pimples-and-acne-spots-36-original-imahj5jtzszgg8pn.jpeg?q=90",
@@ -5625,6 +5852,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -5705,7 +5933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 18 ratings"
+   "buyerEvidence": "3.8★ from 18 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/j/t/20-hydrocolloid-pimple-patches-with-0-5-salicylic-acid-to-reduce-original-imah4yt2kscjtwzp.jpeg?q=90",
@@ -5727,6 +5956,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -5808,7 +6038,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "PH91 Pvt. Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 389 ratings"
+   "buyerEvidence": "3.9★ from 389 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/w/s/72-pimple-patches-azah-original-imahkywzwq3fvxyv.jpeg?q=90",
@@ -5827,6 +6058,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -5907,7 +6139,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 3 ratings"
+   "buyerEvidence": "2.7★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/i/m/30-derma-smooth-acne-pimple-patch-for-acne-healing-with-original-imahdgfqaauyvsne.jpeg?q=90",
@@ -5931,6 +6164,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6012,7 +6246,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 1,130 ratings"
+   "buyerEvidence": "3.7★ from 1,130 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/6/x/20-acne-pimple-patch-72-hydrocolloid-waterproof-patches-for-original-imah8nn6bmhktwbc.jpeg?q=90",
@@ -6038,6 +6273,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6120,7 +6356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/c/y/36-acne-patch36-count-with-hydrocolloid-absorbs-pus-flattens-original-imah36yphp5w4uhz.jpeg?q=90",
@@ -6151,6 +6388,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -6232,7 +6470,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 9 ratings"
+   "buyerEvidence": "3.3★ from 9 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/f/l/30-pimple-acne-patch-for-all-skin-types-absorbs-pimple-overnight-original-imah36ypz5uq6efg.jpeg?q=90",
@@ -6261,6 +6500,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -6342,7 +6582,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 9 ratings"
+   "buyerEvidence": "3.3★ from 9 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/p/x/36-pimple-patches-are-specialized-skincare-products-designed-to-original-imaheqnhmpu5yf7z.jpeg?q=90",
@@ -6363,6 +6604,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6445,7 +6687,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -6477,6 +6720,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6559,7 +6803,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/q/v/36-acne-pimple-patches-pimple-healing-patch-for-face-elvoro-original-imahh97gahdjpubk.jpeg?q=90",
@@ -6588,6 +6833,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6669,7 +6915,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 206 ratings"
+   "buyerEvidence": "3.9★ from 206 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/v/e/40-acne-pimple-patches-for-face-absorbs-pimple-suits-all-skin-original-imahkugs8x83ttt6.jpeg?q=90",
@@ -6694,6 +6941,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -6775,7 +7023,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/f/3-acne-pimple-patches-for-all-skin-types-myeong-original-imahdcebbqsvbxch.jpeg?q=90",
@@ -6798,6 +7047,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -6880,7 +7130,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 29 ratings"
+   "buyerEvidence": "4.7★ from 29 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/q/g/108-hydrocolloid-pimple-patch-108-patches-ultra-thin-invisible-original-imahpbk7beyqg2kq.jpeg?q=90",
@@ -6906,6 +7157,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -6988,7 +7240,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 29 ratings"
+   "buyerEvidence": "4.7★ from 29 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/g/c/72-hydrocolloid-pimple-patch-72-patches-ultra-thin-invisible-original-imahpbkyhqv5pm9g.jpeg?q=90",
@@ -7017,6 +7270,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7098,7 +7352,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/w/36-anti-acne-pimple-patches-for-face-waterproof-patches-for-original-imah4b8zp72tqexg.jpeg?q=90",
@@ -7120,6 +7375,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -7203,7 +7459,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 35 ratings"
+   "buyerEvidence": "4.7★ from 35 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/2/d/10-0-pimple-patch-36-count-hydrocolloid-acne-spot-covers-with-original-imahmf9rfraxbgnz.jpeg?q=90",
@@ -7235,6 +7492,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7315,7 +7573,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.5★ from 4 ratings"
+   "buyerEvidence": "2.5★ from 4 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/w/y/20-acne-patch-for-face-quick-healing-hydrocolloid-pimple-original-imahgwzgqypguq5r.jpeg?q=90",
@@ -7340,6 +7599,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -7421,7 +7681,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 208 ratings"
+   "buyerEvidence": "4★ from 208 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/h/f/36-pimple-acne-patch-hydrocolloid-waterproof-patches-active-original-imahk8c4rwcakt4a.jpeg?q=90",
@@ -7453,6 +7714,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7534,7 +7796,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/x/t/200-pimple-patch-for-women-pack-of-2-luvynk-original-imahzv378chhpbfs.jpeg?q=90",
@@ -7559,6 +7822,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -7639,7 +7903,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
    "declaredManufacturer": "Jainam Invamed Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.8★ from 237 ratings"
+   "buyerEvidence": "3.8★ from 237 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/e/19-5-acne-pimple-patch-for-face-salicylic-acid-waterproof-original-imahddnzsrpkqfhf.jpeg?q=90",
@@ -7660,6 +7925,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7741,7 +8007,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 7,925 ratings"
+   "buyerEvidence": "3.7★ from 7,925 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/0/x/j/72-acne-pimple-patch-72-patches-femisafe-original-imahfj5v5zhhht2j.jpeg?q=90",
@@ -7765,6 +8032,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7848,7 +8116,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 35 ratings"
+   "buyerEvidence": "4.7★ from 35 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/f/0/30-0-pimple-patch-108-count-hydrocolloid-acne-spot-covers-with-original-imahmf9r2pzy5seb.jpeg?q=90",
@@ -7880,6 +8149,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -7961,7 +8231,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 59 ratings"
+   "buyerEvidence": "3.5★ from 59 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/q/o/30-acne-pimple-patch-for-women-absorbs-flattens-acne-overnight-original-imah36yzhwtdajy5.jpeg?q=90",
@@ -7988,6 +8259,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -8070,7 +8342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/i/r/5-invisible-hydrocolloid-pimple-tag-remover-for-face-skin-acne-original-imahg9yh3tqwbjzc.jpeg?q=90",
@@ -8096,6 +8369,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -8178,7 +8452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/a/j/5-remove-all-skin-type-acne-patches-for-women-girls-skin-tag-original-imah4e84ghy29xhm.jpeg?q=90",
@@ -8202,6 +8477,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -8283,7 +8559,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,688 ratings"
+   "buyerEvidence": "4★ from 1,688 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/v/u/g/20-pimple-acne-patch-hydrocolloid-waterproof-patches-active-original-imahfp79uwb7y9ts.jpeg?q=90",
@@ -8316,6 +8593,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -8398,7 +8676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/3/w/36-oil-control-pimple-patch-skin-friendly-acne-patch-gabbu-original-imahnwnqdxhh5pae.jpeg?q=90",
@@ -8424,6 +8703,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -8507,7 +8787,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 35 ratings"
+   "buyerEvidence": "4.7★ from 35 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/1/3/40-0-pimple-patch-144-count-hydrocolloid-acne-spot-covers-with-original-imahmf9rbkwznmav.jpeg?q=90",
@@ -8539,6 +8820,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -8620,7 +8902,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 1,688 ratings"
+   "buyerEvidence": "4★ from 1,688 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/y/c/o/20-pimple-acne-patch-hydrocolloid-waterproof-patches-active-original-imahfp74tuursfzk.jpeg?q=90",
@@ -8653,6 +8936,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -8734,7 +9018,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/m/f/20-pimple-patches-with-0-5-salicylic-acid-to-reduce-acne-pimples-original-imahnyryaxtsectu.jpeg?q=90",
@@ -8758,6 +9043,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -8841,7 +9127,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 266 ratings"
+   "buyerEvidence": "4.3★ from 266 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/m/x/30-acne-pimple-patch-72-invisible-facial-dots-100-hydrocolloid-original-imahg86dnhams3h5.jpeg?q=90",
@@ -8867,6 +9154,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -8949,7 +9237,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/y/l/l/36-pimple-patch-advanced-skin-care-spot-protection-for-routine-original-imahndz7gxtgzggh.jpeg?q=90",
@@ -8978,6 +9267,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -9060,7 +9350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/z/c/36-pimple-patch-acne-patch-advanced-skin-care-helps-maintain-original-imahnrg24ea7hpkb.jpeg?q=90",
@@ -9089,6 +9380,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -9171,7 +9463,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/a/n/30-hydrocolloid-pimple-cover-patch-36-patches-smietrz-original-imahnwwnp8chyszb.jpeg?q=90",
@@ -9193,6 +9486,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -9274,7 +9568,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 5 ratings"
+   "buyerEvidence": "3.4★ from 5 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/a/180-acne-patch-for-scarring-blemish-treatment-non-drying-original-imahanzd4wpqyh3u.jpeg?q=90",
@@ -9297,6 +9592,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -9379,7 +9675,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/i/e/36-pimple-acne-patch-hydrocolloid-waterproof-patches-for-active-original-imah36yzpwafvqaz.jpeg?q=90",
@@ -9406,6 +9703,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -9488,7 +9786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/x/f/36-face-acne-patch-pimple-healing-patch-for-face-reimichi-original-imah4fnjum7dujba.jpeg?q=90",
@@ -9519,6 +9818,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -9601,7 +9901,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/u/w/q/36-pimple-patch-power-acne-patch-spot-coverage-formula-for-original-imahndyu8xjhywmy.jpeg?q=90",
@@ -9629,6 +9930,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -9710,7 +10012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/s/v/x/20-pimple-patch-for-face-absorbs-pimple-overnight-and-reduces-original-imagzzfehxg3mssq.jpeg?q=90",
@@ -9748,6 +10051,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -9829,7 +10133,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Jainam Invamed Pvt. Ltd.111 to 117,Shubh Industrial Estate, Chinchpada Waliv Road, Village-Gokhiware, Vasai (E) Maharashtra, 401208 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 28 ratings"
+   "buyerEvidence": "3.9★ from 28 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/g/j/120-acne-pimple-healing-patch-100-hydrocolloid-transparent-original-imahpgarz2ngb94f.jpeg?q=90",
@@ -9851,6 +10156,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -9932,7 +10238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/a/p/20-pimple-patch-acne-patch-for-face-women-face-pack-for-acne-original-imahe83vfv7zezsg.jpeg?q=90",
@@ -9961,6 +10268,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -10042,7 +10350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 17 ratings"
+   "buyerEvidence": "3.8★ from 17 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/r/j/18-0-acne-spot-patch-acne-pimple-patch-overnight-spot-cover-original-imahhvd5udhnknst.jpeg?q=90",
@@ -10072,6 +10381,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -10153,7 +10463,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/d/7/36-dermasmooth-pimple-patch-ds-09-smietrz-original-imahe5vcjztffg4b.jpeg?q=90",
@@ -10176,6 +10487,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -10258,7 +10570,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/s/6/20-acne-pimple-patch-36-dots-daryue-original-imahmechyqggrcns.jpeg?q=90",
@@ -10295,6 +10608,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -10376,7 +10690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/t/c/50-skin-tag-removal-patch-and-acne-pimple-patch-for-face-original-imahdczzcvxqnsyy.jpeg?q=90",
@@ -10404,6 +10719,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -10485,7 +10801,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/mucus-removal-device/c/x/4/dermasmooth-skin-tag-remover-patch-upgrave-original-imahdfab9zgu8fgu.jpeg?q=90",
@@ -10507,6 +10824,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -10589,7 +10907,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/u/w/25-acne-relief-patch-hyaluronic-acid-for-pimple-care-jaquline-original-imahmqcgbcbfjvrv.jpeg?q=90",
@@ -10621,6 +10940,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -10703,7 +11023,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/r/x/36-pimple-patch-skin-tag-remover-patch-advanced-skin-care-original-imahnrgf65gvxqnz.jpeg?q=90",
@@ -10726,6 +11047,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -10808,7 +11130,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/w/n/12-cica-acne-patch-with-cica-and-salicylic-acid-enn-original-imahpah6yc8ghxpj.jpeg?q=90",
@@ -10836,6 +11159,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -10918,7 +11242,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/f/q/36-pimple-patch-improved-blemish-care-formula-for-enhanced-daily-original-imahzu2qgaytzpht.jpeg?q=90",
@@ -10943,6 +11268,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11024,7 +11350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/p/0-2-ultra-thin-pimple-patch-32-patches-s2-fashion-original-imahzgum3sy695rt.jpeg?q=90",
@@ -11046,6 +11373,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11128,7 +11456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/o/h/36-pimple-patch-skin-tag-remover-patch-secure-comfortable-original-imahztxpgghptzfg.jpeg?q=90",
@@ -11152,6 +11481,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11234,7 +11564,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/v/r/c/36-pimple-patch-advanced-skin-care-supports-refreshing-for-original-imahndywy9mxfkmv.jpeg?q=90",
@@ -11261,6 +11592,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11341,7 +11673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 4,711 ratings"
+   "buyerEvidence": "4.1★ from 4,711 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/7/a/12-pimple-patch-12-furr-by-pee-safe-original-imahpefncgqnhtch.jpeg?q=90",
@@ -11366,6 +11699,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -11447,7 +11781,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/u/z/36-acnexpert-face-acne-pimple-patches-with-hydrocolloid-and-original-imahpq7vr2y2zfhh.jpeg?q=90",
@@ -11482,6 +11817,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11563,7 +11899,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Jainam Invamed Pvt. Ltd. 111-112, Shubh Industrial Estate, Waliv, Vasai East, 401208 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 868 ratings"
+   "buyerEvidence": "4★ from 868 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/q/3/8/20-acne-pimple-patch-hydrocolloid-salicylic-acid-flattens-original-imahejwgbwwcpb5f.jpeg?q=90",
@@ -11584,6 +11921,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11665,7 +12003,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1.3★ from 3 ratings"
+   "buyerEvidence": "1.3★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/0/l/30-spot-erase-micro-point-hydrocolloid-patches-for-dark-spots-original-imahm4brfggxybfy.jpeg?q=90",
@@ -11699,6 +12038,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -11780,7 +12120,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/b/d/n/36-pimple-patches-with-salicylic-acid-needle-length-patches-for-original-imahgzsxkgvypzys.jpeg?q=90",
@@ -11810,6 +12151,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -11891,7 +12233,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/r/p/u/36-pimple-corrector-patch-fast-healing-hydrocolloid-dots-peel-original-imahkug2tgzffw3t.jpeg?q=90",
@@ -11924,6 +12267,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12005,7 +12349,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/4/o/3-pimple-patch-hydrocolloid-salicylic-acid-acne-spot-treatment-original-imahmggzghryephy.jpeg?q=90",
@@ -12039,6 +12384,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12120,7 +12466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/f/6/l/3-6-pimple-patches-acne-pimple-hydrocolloid-patches-for-all-skin-original-imahdcr4qwsanbzn.jpeg?q=90",
@@ -12156,6 +12503,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12237,7 +12585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/3/y/2/5-acne-pimple-patch-hydrocolloid-salicylic-acid-flattens-pimples-original-imahdcsyazsss7bh.jpeg?q=90",
@@ -12267,6 +12616,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12348,7 +12698,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/o/f/t/5-acne-pimple-patch-for-face-with-hydrocolloid-salycylic-acid-1-original-imahdcs8gbhzujuh.jpeg?q=90",
@@ -12381,6 +12732,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12462,7 +12814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/r/y/z/5-best-acne-pimple-patch-for-acne-healing-with-hydrocolloid-original-imahgdnh7qnyefz7.jpeg?q=90",
@@ -12492,6 +12845,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12573,7 +12927,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/r/9/r/5-korean-acne-pimple-patch-for-face-with-hydrocolloid-salycylic-original-imahdcsdhbdxebe5.jpeg?q=90",
@@ -12603,6 +12958,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12684,7 +13040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/9/z/36-pimple-patches-with-salicylic-acid-needle-length-patches-peel-original-imahfkguhybycevz.jpeg?q=90",
@@ -12716,6 +13073,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12797,7 +13155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/v/b/z/5-korean-best-acne-pimple-patch-for-face-with-hydrocolloid-original-imahdcshgjt7takf.jpeg?q=90",
@@ -12825,6 +13184,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -12906,7 +13266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/4/a/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyty2zxegaq.jpeg?q=90",
@@ -12948,6 +13309,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13029,7 +13391,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/blackhead-remover/3/v/r/36-best-acne-pimple-patch-for-face-for-all-skin-type-huzurlu-original-imah4ek3fcptgg7z.jpeg?q=90",
@@ -13052,6 +13415,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13133,7 +13497,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/f/3/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyttzswaztf.jpeg?q=90",
@@ -13171,6 +13536,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13252,7 +13618,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/x/w/q/50-hydrocolloid-acne-pimple-patch-72-dots-pimple-remover-original-imahmjv5kufdfe2w.jpeg?q=90",
@@ -13287,6 +13654,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -13368,7 +13736,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/4/a/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyty2zxegaq.jpeg?q=90",
@@ -13401,6 +13770,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13482,7 +13852,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/v/x/f/3-6-pimple-patches-for-face-pimple-patch-acne-patches-for-original-imahdcryqft28evc.jpeg?q=90",
@@ -13516,6 +13887,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13596,7 +13968,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 2 ratings"
+   "buyerEvidence": "3.5★ from 2 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/i/a/s/36-invisible-hydrocolloid-acne-pimple-patch-for-face-36-dots-original-imahk4wmj497jxf9.jpeg?q=90",
@@ -13625,6 +13998,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -13706,7 +14080,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/f/v/1/10-acne-pimple-patch-reduces-acne-pimples-excess-oil-overnight-original-imahpbw78uzwp9xg.jpeg?q=90",
@@ -13737,6 +14112,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13819,7 +14195,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/f/c/72-anti-anne-pimple-care-patch-for-acne-and-blemish-treatment-original-imahz4brfb7rjxuz.jpeg?q=90"
@@ -13838,6 +14215,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -13919,7 +14297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/1/v/l/3-6-acne-pimple-patch-hydrocolloid-waterproof-patches-for-active-original-imahdcsfugkdg8zr.jpeg?q=90",
@@ -13952,6 +14331,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14032,7 +14412,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 4 ratings"
+   "buyerEvidence": "3★ from 4 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/t/w/c/36-best-pimple-patches-with-salicylic-acid-needle-length-patches-original-imahfkgwrtkdun2e.jpeg?q=90",
@@ -14058,6 +14439,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14139,7 +14521,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/6/f/b/3-pimple-patch-hydrocolloid-salicylic-acid-acne-spot-treatment-original-imahmggznmd5adhj.jpeg?q=90",
@@ -14179,6 +14562,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14260,7 +14644,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/b/v/d/36-invisible-acne-spot-patch-makeup-friendly-peel-off-mask-original-imahkugy3mcm8wym.jpeg?q=90",
@@ -14291,6 +14676,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14373,7 +14759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 65 ratings"
+   "buyerEvidence": "4.3★ from 65 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/y/b/p/20-acne-pimple-patch-72-hydrocolloid-waterproof-patches-for-original-imahdgbayvcmjn4z.jpeg?q=90",
@@ -14404,6 +14791,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14485,7 +14873,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/m/m/r/500-hydrocolloid-acne-pimple-patches-peel-off-mask-flm-beauty-original-imah8r7h6uzya3gh.jpeg?q=90",
@@ -14525,6 +14914,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -14606,7 +14996,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/h/w/n/10-acne-patches-for-face-36-pimple-patches-for-all-skin-types-1-original-imahmsnuqzhgfpkq.jpeg?q=90",
@@ -14642,6 +15033,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -14723,7 +15115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/b/b/9/36-acne-pimple-patch-dots-hydrocolloid-spot-treatment-gel-original-imahn3nuw8szvnxu.jpeg?q=90",
@@ -14755,6 +15148,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -14836,7 +15230,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/h/8/c/36-acne-pimple-patch-paste-reimichi-original-imah68z7eaepsr3f.jpeg?q=90",
@@ -14870,6 +15265,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -14951,7 +15347,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/2/f/w/36-acne-patch-hydrocolloid-acne-pimple-patch-for-covering-zits-original-imahersmrkmhhqnf.jpeg?q=90",
@@ -14991,6 +15388,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -15071,7 +15469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 7 ratings"
+   "buyerEvidence": "3.7★ from 7 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/o/p/6/100-pimple-patch-sheet-mask-aeva-original-imahm2wgdezycyjx.jpeg?q=90",
@@ -15097,6 +15496,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -15178,7 +15578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/p/f/r/36-clear-skin-pimple-patch-absorbs-pimple-overnight-reduces-original-imaha76sserdykhy.jpeg?q=90",
@@ -15212,6 +15613,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -15293,7 +15695,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/n/o/5-pimple-patch-dots-invisible-all-skin-type-acne-patches-for-original-imah4b8kgpdtgzeq.jpeg?q=90",
@@ -15324,6 +15727,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -15405,7 +15809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-removal/i/z/o/72-pimple-remover-patches-strips-huzurlu-original-imah8yzza9kxemra.jpeg?q=90",
@@ -15435,6 +15840,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -15516,7 +15922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/i/m/3/5-acne-pimple-patch-72-pcs-of-hydrocolloid-waterproof-patches-original-imahfurgffqfskhw.jpeg?q=90",
@@ -15556,6 +15963,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -15636,7 +16044,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 20 ratings"
+   "buyerEvidence": "3.2★ from 20 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/p/q/j/10-acne-pimple-patch-36-hydrocolloid-waterproof-patches-for-original-imagnxbwbkcbzdkj.jpeg?q=90",
@@ -15668,6 +16077,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -15749,7 +16159,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/x/x/3/10-waterproof-pimple-patch-for-active-surface-acne-absorbs-original-imahpbvdhsfrfd9t.jpeg?q=90",
@@ -15780,6 +16191,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -15862,7 +16274,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/3/e/36-skin-tag-remover-patch-secure-effortless-application-original-imahzu2rfzvnnczm.jpeg?q=90",
@@ -15886,6 +16299,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -15967,7 +16381,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/g/6/o/36-clear-zit-removal-patch-day-night-spot-cover-peel-off-mask-original-imahktn3jffhyakq.jpeg?q=90",
@@ -15997,6 +16412,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -16079,7 +16495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/r/a/20-moduseb-acne-spot-gel-for-active-acne-oily-skin-with-0-5-original-imahqvb7hvagurcj.jpeg?q=90",
@@ -16115,6 +16532,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -16197,7 +16615,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 359 ratings"
+   "buyerEvidence": "4.2★ from 359 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/d/6/-original-imahz8q9gxjcwzua.jpeg?q=90",
@@ -16223,6 +16642,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial",
    "inci:pharma-maker"
   ],
@@ -16305,7 +16725,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/b/36-acne-patch-pimple-patch-gives-acne-drying-deep-overnight-original-imahn5utea5jfhdn.jpeg?q=90",
@@ -16325,6 +16746,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -16407,7 +16829,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/j/v/30-lumaira-sos-acne-spot-corrector-pack-of-2-lumaira-original-imahmz34ztydq9uk.jpeg?q=90",
@@ -16436,6 +16859,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -16518,7 +16942,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/u/d/2-acne-pimple-patches-for-removing-zits-blemishes-pimples-svylam-original-imahmrmg3gmpndny.jpeg?q=90",
@@ -16545,6 +16970,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -16624,7 +17050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 14,132 ratings"
+   "buyerEvidence": "3.8★ from 14,132 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/w/d/h/15-jamun-acne-spot-corrector-gel-for-reducing-active-acne-day-enriched-transparent-original-imaguzgpct6gedzc.png?q=90",
@@ -16653,6 +17080,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -16734,7 +17162,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 13 ratings"
+   "buyerEvidence": "3.8★ from 13 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/h/g/20-spot-corrector-gel-moha-original-imahk68evxsfhd44.jpeg?q=90",
@@ -16765,6 +17194,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -16845,7 +17275,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 6 ratings"
+   "buyerEvidence": "4.2★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/v/5/15-salises-focal-treatment-acne-spot-corrector-gel-for-oily-skin-original-imahhwwqbzghdkgy.jpeg?q=90",
@@ -16877,6 +17308,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -16958,7 +17390,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Encube Ethicals Private Limited, Encube Ethicals Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.8★ from 1,203 ratings"
+   "buyerEvidence": "3.8★ from 1,203 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/g/w/15-0-acne-spot-corrector-with-salicylic-acid-for-reducing-active-original-imaherntnwa7h4h8.jpeg?q=90",
@@ -16978,6 +17411,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -17058,7 +17492,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 123 ratings"
+   "buyerEvidence": "3.7★ from 123 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/4/g/z/20-acne-spot-gel-for-acne-pimples-blackheads-whiteheads-oil-original-imahj9xugmhhrg6g.jpeg?q=90",
@@ -17077,6 +17512,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -17157,7 +17593,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 1,220 ratings"
+   "buyerEvidence": "3.9★ from 1,220 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/o/x/g/15-acne-spot-corrector-gel-with-azelaic-acid-aha-bha-treats-original-imahggpsy8wf53n7.jpeg?q=90",
@@ -17181,6 +17618,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -17264,7 +17702,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/b/n/50-anti-acne-spot-gel-intimify-original-imahp4xpxjcghfhz.jpeg?q=90",
@@ -17294,6 +17733,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -17376,7 +17816,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/i/l/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-smooth-original-imahpas5yngvgvr6.jpeg?q=90",
@@ -17404,6 +17845,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -17486,7 +17928,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -17509,6 +17952,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -17592,7 +18036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 179 ratings"
+   "buyerEvidence": "4.3★ from 179 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/q/n/10-acnexpert-overnight-spot-correcting-pen-with-salicylic-acid-original-imahn5z2g8wvhyaz.jpeg?q=90",
@@ -17626,6 +18071,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -17708,7 +18154,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/1/10-pimple-healing-spot-clearing-patch-invisible-hydrocolloid-original-imahdgabwtbwgeun.jpeg?q=90",
@@ -17731,6 +18178,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -17813,7 +18261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/v/9/15-acne-treatment-gel-with-2-salicylic-acid-for-clear-healthy-original-imahparfavvrwrqw.jpeg?q=90",
@@ -17840,6 +18289,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -17922,7 +18372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/c/a/15-fast-acne-spot-gel-with-salicylic-acid-bha-complex-rosebrite-original-imahpasfrwfvp6eh.jpeg?q=90",
@@ -17949,6 +18400,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -18030,7 +18482,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 10 ratings"
+   "buyerEvidence": "4.1★ from 10 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/1/r/15-skin-1-hour-acne-spot-relief-fast-acting-pimple-drying-lotion-original-imahh83f9gmra842.jpeg?q=90",
@@ -18064,6 +18517,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -18146,7 +18600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/3/r/15-salicylic-acid-bha-gel-for-acne-spots-stubborn-breakouts-original-imahparqhfg4seg5.jpeg?q=90",
@@ -18173,6 +18628,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -18256,7 +18712,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/l/15-acne-spot-corrector-gel-salicylic-acid-spot-treatment-with-original-imahpnzz8yggd4z5.jpeg?q=90",
@@ -18290,6 +18747,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -18371,7 +18829,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/a/x/30-anti-acne-glow-cream-acne-spot-repair-cream-cream-gabbu-original-imahz7r38j5gpzzy.jpeg?q=90",
@@ -18406,6 +18865,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -18488,7 +18948,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/r/v/15-flawlizo-acne-spot-corrector-fast-acting-biphasic-treatment-original-imahm8p3cnxzz6zz.jpeg?q=90",
@@ -18514,6 +18975,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -18595,7 +19057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/d/3/50-dark-spot-corrector-face-cream-for-women-pigmentation-repairs-original-imahjb8kurxhqawt.jpeg?q=90",
@@ -18638,6 +19101,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -18719,7 +19183,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/6/l/30-anti-acne-scar-mark-remover-removal-oil-control-treatment-original-imahz7nppd4bhvbz.jpeg?q=90",
@@ -18754,6 +19219,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -18834,7 +19300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 546 ratings"
+   "buyerEvidence": "3.8★ from 546 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/w/50-dark-spot-corrector-cream-pimple-marks-acne-scar-pigmentation-original-imah4m8hfhttvkzb.jpeg?q=90",
@@ -18863,6 +19330,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -18945,7 +19413,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/s/b/10-3-acne-treatment-gel-with-niacinamide-5-glycolic-acid-3-original-imahhwknyzdhze2s.jpeg?q=90",
@@ -18994,6 +19463,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -19075,7 +19545,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 2 ratings"
+   "buyerEvidence": "3★ from 2 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/d/g/25-spot-erase-micro-point-hydrocolloid-patches-for-dark-spots-original-imahh9gbgg7swy9h.jpeg?q=90",
@@ -19108,6 +19579,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -19188,7 +19660,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 15 ratings"
+   "buyerEvidence": "3.3★ from 15 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l4u7vrk0/body-skin-treatment/0/o/b/20-36-pimple-patches-spot-patches-acne-patch-hydrocolloid-original-imagfng76yjxsamu.jpeg?q=90",
@@ -19215,6 +19688,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -19295,7 +19769,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 167 ratings"
+   "buyerEvidence": "4★ from 167 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/h/3/i/1-salicylic-acid-pimple-patch-for-acne-quick-spot-repair-original-imahh2ggvpzts5h7.jpeg?q=90",
@@ -19324,6 +19799,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -19406,7 +19882,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 9 ratings"
+   "buyerEvidence": "4.4★ from 9 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/u/a/30-anti-blemish-gel-for-pimple-clears-pigmentation-anti-acne-original-imaggzvpnbp6hwha.jpeg?q=90",
@@ -19439,6 +19916,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -19521,7 +19999,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/0/j/15-2-salicylic-acid-acne-spot-treatment-gel-with-azelaic-acid-original-imahzw3fz8z8uvdx.jpeg?q=90",
@@ -19558,6 +20037,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -19640,7 +20120,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/w/50-face-cream-for-skin-brightening-acne-spot-care-limez-original-imahqybk75ubbh4r.jpeg?q=90",
@@ -19677,6 +20158,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -19759,7 +20241,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/b/6/15-rapid-action-acne-spot-corrector-gel-15g-with-2-salicylic-original-imahzw3fdhqemtec.jpeg?q=90",
@@ -19793,6 +20276,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -19875,7 +20359,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 7 ratings"
+   "buyerEvidence": "4.3★ from 7 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/b/h/q/20-acne-patches-with-salicylic-acid-2-shinzura-original-imahf5hfjp3xjywt.jpeg?q=90",
@@ -19908,6 +20393,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -19988,7 +20474,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 35 ratings"
+   "buyerEvidence": "4.1★ from 35 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/m/7/10-2-salicylic-acid-pimple-gel-acne-spot-treatment-for-oily-acne-original-imahmkufdhrbkke7.jpeg?q=90",
@@ -20016,6 +20503,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20097,7 +20585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/o/x/30-new-treatment-skin-care-face-acne-removal-cream-anti-acne-original-imahnfzhk29kvfsp.jpeg?q=90",
@@ -20123,6 +20612,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20205,7 +20695,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/8/l/15-fast-acting-pimple-spot-gel-with-2-salicylic-acid-niacinamide-original-imahpartbqgcbxjn.jpeg?q=90",
@@ -20236,6 +20727,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -20317,7 +20809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/y/z/30-best-acne-removal-cream-gel-anti-acne-scar-treatment-care-original-imahqt7uxhhw9kfb.jpeg?q=90",
@@ -20345,6 +20838,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20425,7 +20919,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 14 ratings"
+   "buyerEvidence": "4★ from 14 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/d/50-anti-blemish-cream-pigmentation-pimple-fine-lines-dark-spots-original-imaggzwfthna3ngh.jpeg?q=90",
@@ -20460,6 +20955,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20542,7 +21038,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/6/w/100-neem-moringa-anti-acne-gel-to-reduce-darkspots-sunburn-mark-original-imahyrrhmhvkete2.jpeg?q=90",
@@ -20585,6 +21082,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20667,7 +21165,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/e/30-treatment-skin-care-face-acne-removal-cream-anti-acne-scar-original-imahhrerzzjjpfnh.jpeg?q=90",
@@ -20702,6 +21201,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20784,7 +21284,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/x/y/60-face-care-anti-acne-treatment-cream-gabbu-cream-original-imahhrdywyfr99g6.jpeg?q=90",
@@ -20811,6 +21312,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -20891,7 +21393,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 6 ratings"
+   "buyerEvidence": "4.2★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/6/50-anti-blemish-cream-pigmentation-pimple-fine-lines-dark-spots-original-imah2qwcnqvmzjuz.jpeg?q=90",
@@ -20922,6 +21425,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21002,7 +21506,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 27 ratings"
+   "buyerEvidence": "3.5★ from 27 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/y/100-anti-acne-cream-pimple-marks-acne-scar-pigmentation-dark-original-imagk4yggqvsjfgb.jpeg?q=90",
@@ -21034,6 +21539,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21115,7 +21621,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/z/w/30-scar-mark-remover-removal-oil-control-treatment-cream-gabbu-original-imahz7nktdrjynrj.jpeg?q=90",
@@ -21158,6 +21665,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21240,7 +21748,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 7 ratings"
+   "buyerEvidence": "4.4★ from 7 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/h/h/anti-acne-cream-pimple-marks-pigmentation-acne-scar-dark-spot-original-imagkfc8zg8zyzk9.jpeg?q=90",
@@ -21272,6 +21781,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21354,7 +21864,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/g/o/50-skin-whitening-cream-for-dark-spots-deep-moisturizing-original-imahed6xn6eytuj7.jpeg?q=90",
@@ -21385,6 +21896,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -21467,7 +21979,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/o/o/15-pimple-spot-corrector-gel-with-salicylic-acid-for-blackheads-original-imahpau4wewvhrky.jpeg?q=90",
@@ -21495,6 +22008,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -21577,7 +22091,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/p/c/15-acne-spot-gel-with-2-salicylic-acid-fast-absorbing-pimple-original-imahp69qucgecjnp.jpeg?q=90",
@@ -21611,6 +22126,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21692,7 +22208,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/1/2/50-dark-spot-corrector-for-face-helps-reducing-acne-marks-original-imahkkknyr2vtype.jpeg?q=90",
@@ -21718,6 +22235,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -21800,7 +22318,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/j/t/15-acnefit-spot-gel-nerib-original-imahjypmhk3r8dgf.jpeg?q=90"
@@ -21823,6 +22342,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -21905,7 +22425,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/b/x/15-acne-spot-gel-with-sulfur-niacinamide-for-clear-complexion-original-imahpatswfhj5qn2.jpeg?q=90",
@@ -21932,6 +22453,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22014,7 +22536,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/m/l/15-pimple-removal-gel-with-salicylic-acid-niacinamide-sulfur-original-imahpatufmftnpjd.jpeg?q=90",
@@ -22041,6 +22564,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22123,7 +22647,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -22151,6 +22676,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22233,7 +22759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/j/f/15-acne-spot-corrector-with-bha-sulfur-for-active-pimples-original-imahparvz2y7tdpp.jpeg?q=90",
@@ -22261,6 +22788,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22343,7 +22871,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/l/15-acne-spot-corrector-gel-with-sulfur-for-pimples-blackheads-original-imahpasydeqghdev.jpeg?q=90",
@@ -22371,6 +22900,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22453,7 +22983,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/x/15-acne-spot-corrector-gel-with-bha-for-acne-pimples-spot-original-imahpas34kw5gwyw.jpeg?q=90",
@@ -22481,6 +23012,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22563,7 +23095,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/m/2/15-pimple-spot-treatment-gel-with-salicylic-acid-for-acne-care-original-imahpasfvmy2sxap.jpeg?q=90",
@@ -22590,6 +23123,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22672,7 +23206,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/0/2/15-pimple-spot-treatment-gel-with-niacinamide-sulfur-care-original-imahpatvbt4mzfjg.jpeg?q=90",
@@ -22699,6 +23234,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22781,7 +23317,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/w/4/15-acne-treatment-gel-salicylic-acid-niacinamide-azelaic-acid-original-imahpasfeuu6xwtu.jpeg?q=90",
@@ -22810,6 +23347,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -22892,7 +23430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/b/n/15-fast-acting-acne-spot-gel-with-2-bha-for-acne-prone-oily-skin-original-imahpasezptmfhhg.jpeg?q=90",
@@ -22921,6 +23460,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23003,7 +23543,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/x/15-salicylic-acid-acne-gel-with-sulfur-for-stubborn-breakout-original-imahparz7nj56yrb.jpeg?q=90",
@@ -23030,6 +23571,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23112,7 +23654,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -23138,6 +23681,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23220,7 +23764,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/h/x/15-salicylic-acid-acne-spot-corrector-for-deep-pore-cleansing-original-imahparq8ngxkrb2.jpeg?q=90",
@@ -23249,6 +23794,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23331,7 +23877,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/1/u/15-pimple-spot-treatment-gel-for-acne-blackheads-excess-oil-original-imahparbnqvrujm3.jpeg?q=90",
@@ -23360,6 +23907,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23442,7 +23990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/l/l/15-pimple-spot-treatment-gel-with-salicylic-acid-sulfur-formula-original-imahparv4mctuhzg.jpeg?q=90",
@@ -23469,6 +24018,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23551,7 +24101,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/v/r/15-pimple-removal-gel-with-salicylic-acid-for-spot-blemish-care-original-imahpascfxjvzuna.jpeg?q=90",
@@ -23578,6 +24129,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23660,7 +24212,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/r/3/15-pimple-spot-gel-with-salicylic-acid-for-acne-relief-blemish-original-imahpatr5fymbnxr.jpeg?q=90",
@@ -23687,6 +24240,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23769,7 +24323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/j/9/15-acne-spot-treatment-gel-with-bha-for-fast-pimple-drying-pore-original-imahpassh9gpd5cz.jpeg?q=90",
@@ -23796,6 +24351,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23878,7 +24434,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/3/o/15-acne-spot-gel-with-2-bha-for-deep-pore-purification-rosebrite-original-imahparqzxqkgecx.jpeg?q=90",
@@ -23905,6 +24462,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -23987,7 +24545,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/0/z/15-fast-acting-pimple-spot-gel-with-2-bha-for-acne-prone-skin-original-imahparmfsyzrvjh.jpeg?q=90",
@@ -24015,6 +24574,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24097,7 +24657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/1/g/15-acne-treatment-gel-with-sulfur-niacinamide-for-spot-free-original-imahpasmygwmywjk.jpeg?q=90",
@@ -24124,6 +24685,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24206,7 +24768,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -24233,6 +24796,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24315,7 +24879,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/s/7/15-professional-acne-spot-gel-with-bha-sulfur-niacinamide-original-imahparsvrfzkjv2.jpeg?q=90",
@@ -24342,6 +24907,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24424,7 +24990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/8/c/15-salicylic-acid-acne-spot-gel-for-oil-control-pimples-breakout-original-imahpasm2uugzrbt.jpeg?q=90",
@@ -24452,6 +25019,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24534,7 +25102,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/o/i/15-acne-blemish-spot-gel-with-sulfur-niacinamide-salicylic-acid-original-imahparsqpexvaf5.jpeg?q=90",
@@ -24561,6 +25130,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24643,7 +25213,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/u/m/15-acne-treatment-gel-with-sulfur-for-fast-acne-spot-relief-original-imahpasjzb5cczeb.jpeg?q=90",
@@ -24670,6 +25241,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24752,7 +25324,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/a/15-acne-spot-treatment-gel-with-niacinamide-sulfur-for-clear-original-imahpas8xnz2kxyn.jpeg?q=90",
@@ -24779,6 +25352,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24861,7 +25435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/h/15-salicylic-acid-acne-spot-gel-with-sulfur-for-daily-acne-spot-original-imahpasecgqb8qh6.jpeg?q=90",
@@ -24888,6 +25463,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -24970,7 +25546,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/w/e/15-pimple-removal-gel-with-salicylic-acid-sulfur-complex-original-imahpatxxjrqvh8z.jpeg?q=90",
@@ -24997,6 +25574,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25079,7 +25657,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/w/w/15-acne-treatment-gel-with-sulfur-for-stubborn-acne-spots-original-imahparmtrzacxdw.jpeg?q=90",
@@ -25106,6 +25685,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25188,7 +25768,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/h/n/15-acne-spot-gel-with-sulfur-for-fast-drying-pimples-rosebrite-original-imahparma5znwdhg.jpeg?q=90",
@@ -25215,6 +25796,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25297,7 +25879,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/7/w/15-pimple-control-gel-with-salicylic-acid-sulfur-blend-rosebrite-original-imahparqbs3hnqz2.jpeg?q=90",
@@ -25324,6 +25907,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25406,7 +25990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/h/2/15-acne-spot-gel-with-sulfur-for-active-pimples-blemish-original-imahpasmxpmguda5.jpeg?q=90",
@@ -25433,6 +26018,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25515,7 +26101,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/s/g/15-fast-acne-control-gel-with-bha-sulfur-niacinamide-formula-original-imahpatrsdyf8wef.jpeg?q=90",
@@ -25542,6 +26129,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25624,7 +26212,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/y/2/15-salicylic-acid-acne-gel-with-sulfur-for-stubborn-acne-spot-original-imahpat3stgmj2h9.jpeg?q=90",
@@ -25651,6 +26240,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25733,7 +26323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/h/u/15-acne-spot-treatment-gel-with-sulfur-for-active-pimples-acne-original-imahpatnyuzdfpfz.jpeg?q=90",
@@ -25761,6 +26352,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25843,7 +26435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/m/o/15-acne-spot-corrector-gel-with-sulfur-for-fast-drying-active-original-imahpatesfaewgur.jpeg?q=90",
@@ -25871,6 +26464,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -25954,7 +26548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 11 ratings"
+   "buyerEvidence": "4.5★ from 11 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/1/x/50-anti-acne-gel-ideal-for-glowing-radiant-skin-for-men-and-original-imah8hfahjys8qmj.jpeg?q=90",
@@ -25985,6 +26580,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26067,7 +26663,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -26095,6 +26692,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26177,7 +26775,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/o/j/15-professional-acne-spot-treatment-gel-with-2-salicylic-acid-original-imahpas3eurqugaz.jpeg?q=90",
@@ -26204,6 +26803,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26286,7 +26886,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/b/15-pimple-spot-gel-with-salicylic-acid-azelaic-acid-for-acne-original-imahpatydcvvvfpc.jpeg?q=90",
@@ -26315,6 +26916,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26398,7 +27000,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 15 ratings"
+   "buyerEvidence": "4.3★ from 15 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/0/50-anti-acne-spot-gel-imple-removal-gel-acne-prone-skin-intimify-original-imahhpzxtayahjje.jpeg?q=90",
@@ -26426,6 +27029,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26507,7 +27111,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 59 ratings"
+   "buyerEvidence": "3.8★ from 59 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/d/50-acne-spot-gel-for-acne-pimples-oily-skin-intimify-original-imahgu6bynu8hrwz.jpeg?q=90",
@@ -26535,6 +27140,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26617,7 +27223,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/h/d/15-acne-control-gel-with-niacinamide-sulfur-salicylic-acid-original-imahpaswjfgrp6zv.jpeg?q=90",
@@ -26644,6 +27251,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26726,7 +27334,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/5/a/15-acne-spot-treatment-with-sulfur-2-salicylic-acid-for-active-original-imahpas9yvsvswzf.jpeg?q=90",
@@ -26753,6 +27362,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26835,7 +27445,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/n/9/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-pimples-oil-original-imahpat8edm7enqw.jpeg?q=90",
@@ -26864,6 +27475,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -26946,7 +27558,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/5/6/t/15-acne-spot-corrector-with-bha-for-daily-pimple-blemish-original-imahpatgm3yhehcf.jpeg?q=90",
@@ -26974,6 +27587,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27056,7 +27670,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/5/3/15-acne-spot-treatment-with-sulfur-for-fast-acne-spot-reduction-original-imahparv9g6pjvrg.jpeg?q=90",
@@ -27083,6 +27698,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27165,7 +27781,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/w/0/15-acne-control-spot-gel-with-salicylic-acid-for-clear-healthy-original-imahpars5qthvuvj.jpeg?q=90",
@@ -27192,6 +27809,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27274,7 +27892,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/e/l/15-acne-control-spot-gel-for-pimples-excess-sebum-reduction-original-imahpasahagsgazr.jpeg?q=90",
@@ -27302,6 +27921,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27384,7 +28004,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/f/v/15-acne-control-gel-with-niacinamide-sulfur-salicylic-acid-original-imahpasefjp9atsz.jpeg?q=90",
@@ -27411,6 +28032,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27493,7 +28115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/o/c/15-acne-treatment-gel-with-sulfur-niacinamide-for-healthy-original-imahpasffux8xjtg.jpeg?q=90",
@@ -27520,6 +28143,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27602,7 +28226,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/z/9/15-salicylic-acid-spot-corrector-for-acne-marks-pimples-original-imahpatsb7fau3zy.jpeg?q=90",
@@ -27631,6 +28256,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27713,7 +28339,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/o/j/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-clear-original-imahparwg7y6e2hv.jpeg?q=90",
@@ -27741,6 +28368,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27823,7 +28451,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/w/x/15-acne-spot-treatment-gel-with-2-bha-for-healthy-looking-skin-original-imahparq7c4g4gek.jpeg?q=90",
@@ -27850,6 +28479,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -27932,7 +28562,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/e/y/15-salicylic-acid-acne-spot-gel-for-clear-smooth-looking-skin-original-imahpategdkz7gqs.jpeg?q=90",
@@ -27959,6 +28590,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28041,7 +28673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/o/15-salicylic-acid-acne-spot-corrector-gel-for-stubborn-acne-original-imahpaseaxcj2xhx.jpeg?q=90",
@@ -28069,6 +28702,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28151,7 +28785,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/e/c/15-acne-treatment-gel-with-bha-for-acne-marks-breakouts-original-imahparyzczfq7yg.jpeg?q=90",
@@ -28179,6 +28814,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28261,7 +28897,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/1/15-pimple-spot-corrector-with-salicylic-acid-for-oil-control-original-imahpas9dcs5fqeg.jpeg?q=90",
@@ -28291,6 +28928,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28373,7 +29011,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/z/v/15-acne-treatment-gel-with-salicylic-acid-sulfur-for-healthy-original-imahpau43cy66g2n.jpeg?q=90",
@@ -28400,6 +29039,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28482,7 +29122,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/2/n/15-salicylic-acid-acne-gel-with-2-bha-for-blackheads-whiteheads-original-imahpatjgnekchyy.jpeg?q=90",
@@ -28509,6 +29150,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28591,7 +29233,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/y/7/15-acne-spot-gel-with-2-salicylic-acid-for-oil-free-blemish-original-imahpathcbcmafdg.jpeg?q=90",
@@ -28619,6 +29262,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28701,7 +29345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/x/x/15-acne-spot-gel-with-salicylic-acid-for-blackhead-reduction-original-imahpatpf4uzdx37.jpeg?q=90",
@@ -28728,6 +29373,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28810,7 +29456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/2/z/15-fast-acting-acne-spot-gel-with-salicylic-acid-for-stubborn-original-imahparsqjp3hqrg.jpeg?q=90",
@@ -28837,6 +29484,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -28919,7 +29567,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/q/c/15-salicylic-acid-gel-for-acne-spots-breakouts-pore-refining-original-imahparmup4hgnah.jpeg?q=90",
@@ -28946,6 +29595,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29028,7 +29678,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/8/o/15-acne-treatment-gel-with-2-salicylic-acid-for-daily-acne-care-original-imahparp6hyqzzxz.jpeg?q=90",
@@ -29055,6 +29706,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29137,7 +29789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/h/v/15-acne-spot-corrector-gel-with-2-bha-for-fast-daily-acne-spot-original-imahpatpm7nezgve.jpeg?q=90",
@@ -29165,6 +29818,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29247,7 +29901,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/y/b/15-salicylic-acid-acne-gel-for-breakouts-spot-correction-original-imahpat8wmhhxpk9.jpeg?q=90",
@@ -29275,6 +29930,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29357,7 +30013,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/1/p/15-salicylic-acid-acne-spot-corrector-with-sulfur-for-maximum-original-imahpatghwcmjhsm.jpeg?q=90",
@@ -29385,6 +30042,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29467,7 +30125,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/z/7/15-salicylic-acid-acne-gel-for-blemishes-pimples-oil-free-skin-original-imahparwbzux8nux.jpeg?q=90",
@@ -29495,6 +30154,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29577,7 +30237,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -29604,6 +30265,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29686,7 +30348,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/h/15-pimple-spot-gel-with-salicylic-acid-for-breakouts-blemishes-original-imahpasbabhbhjpc.jpeg?q=90",
@@ -29714,6 +30377,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29796,7 +30460,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/5/d/15-acne-control-gel-with-salicylic-acid-for-pimples-pores-spot-original-imahpas5cjjhgddf.jpeg?q=90",
@@ -29824,6 +30489,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -29906,7 +30572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/o/7/15-salicylic-acid-acne-spot-gel-with-sulfur-for-daily-spot-original-imahpas2rzpzcpw8.jpeg?q=90",
@@ -29934,6 +30601,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30016,7 +30684,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -30042,6 +30711,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30124,7 +30794,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/f/15-acne-spot-treatment-with-sulfur-salicylic-acid-for-clear-skin-original-imahparrzk6f5ssz.jpeg?q=90",
@@ -30151,6 +30822,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30233,7 +30905,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/t/15-pimple-spot-gel-with-salicylic-acid-for-acne-control-routine-original-imahparp9kgywmbn.jpeg?q=90",
@@ -30260,6 +30933,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30342,7 +31016,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/r/t/15-acne-control-gel-with-bha-for-blackheads-whiteheads-care-original-imahpasgmrhngjyh.jpeg?q=90",
@@ -30369,6 +31044,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30451,7 +31127,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/l/x/15-acne-spot-treatment-gel-with-2-bha-for-stubborn-pimples-marks-original-imahparkz8rftq75.jpeg?q=90",
@@ -30478,6 +31155,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30560,7 +31238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/a/z/15-pimple-spot-corrector-gel-with-2-salicylic-acid-for-daily-original-imahpas45gzkcgqa.jpeg?q=90",
@@ -30588,6 +31267,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30670,7 +31350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/b/t/15-salicylic-acid-acne-spot-corrector-for-acne-marks-blemish-original-imahpasfaufqvtkp.jpeg?q=90",
@@ -30699,6 +31380,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30781,7 +31463,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/d/15-professional-acne-spot-corrector-gel-with-2-salicylic-acid-original-imahparvrpvznjkz.jpeg?q=90",
@@ -30809,6 +31492,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -30891,7 +31575,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/y/g/15-fast-acne-spot-gel-with-azelaic-acid-for-blemish-control-original-imahparsdzqzf2r7.jpeg?q=90",
@@ -30919,6 +31604,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31001,7 +31687,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/l/d/15-2-bha-acne-spot-corrector-for-pimples-blemishes-redness-original-imahparmufu5cshz.jpeg?q=90",
@@ -31030,6 +31717,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31112,7 +31800,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/v/d/15-pimple-spot-gel-with-2-bha-for-daily-acne-care-routine-original-imahparwgkcczdrg.jpeg?q=90",
@@ -31139,6 +31828,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31221,7 +31911,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/b/2/15-pimple-spot-treatment-gel-salicylic-acid-azelaic-acid-sulfur-original-imahpas3uka76c6g.jpeg?q=90",
@@ -31248,6 +31939,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31330,7 +32022,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/z/h/15-fast-acting-acne-spot-gel-with-bha-sulfur-azelaic-acid-blend-original-imahpasfwr9txhfc.jpeg?q=90",
@@ -31358,6 +32051,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31440,7 +32134,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/v/b/15-acne-spot-gel-with-sulfur-niacinamide-for-fast-acne-treatment-original-imahparvjhr7fn4v.jpeg?q=90",
@@ -31467,6 +32162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31549,7 +32245,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/r/o/15-acne-spot-treatment-gel-with-2-bha-for-fast-drying-stubborn-original-imahpas6fdpx5fgg.jpeg?q=90",
@@ -31576,6 +32273,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31658,7 +32356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/t/g/15-acne-spot-treatment-gel-with-sulfur-for-active-acne-relief-original-imahpatvuhewhhdq.jpeg?q=90",
@@ -31685,6 +32384,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31767,7 +32467,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/l/w/15-acne-spot-corrector-gel-with-sulfur-for-spot-drying-action-original-imahparwykwhzzff.jpeg?q=90",
@@ -31795,6 +32496,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31877,7 +32579,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/z/t/15-acne-control-gel-with-2-bha-for-pimples-spots-pore-refinement-original-imahpascfrx3jnzp.jpeg?q=90",
@@ -31904,6 +32607,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -31986,7 +32690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/j/g/15-acne-spot-treatment-with-salicylic-acid-sulfur-for-oily-skin-original-imahparcapxzanfw.jpeg?q=90",
@@ -32014,6 +32719,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32096,7 +32802,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/v/3/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-clear-acne-original-imahparfpapy9fgf.jpeg?q=90",
@@ -32124,6 +32831,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32206,7 +32914,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/d/5/15-salicylic-acid-acne-gel-with-sulfur-for-acne-prone-original-imahpasbvf3yxhqp.jpeg?q=90",
@@ -32235,6 +32944,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32317,7 +33027,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/5/g/15-acne-control-spot-gel-with-niacinamide-2-bha-for-fast-acne-original-imahpasbwnz5mvzp.jpeg?q=90",
@@ -32344,6 +33055,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32426,7 +33138,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/a/n/15-fast-acne-spot-gel-with-salicylic-acid-for-clear-radiant-original-imahpatgdsuhv2fz.jpeg?q=90",
@@ -32453,6 +33166,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32535,7 +33249,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/d/a/15-professional-acne-spot-corrector-gel-2-bha-niacinamide-original-imahparkhba4zuqx.jpeg?q=90",
@@ -32564,6 +33279,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32646,7 +33362,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/n/d/15-acne-spot-corrector-with-bha-for-pimples-acne-marks-rosebrite-original-imahpat8hgh8t4ya.jpeg?q=90",
@@ -32675,6 +33392,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32757,7 +33475,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/7/15-acne-spot-corrector-with-sulfur-azelaic-acid-for-fast-pimple-original-imahpas6ugz5rgze.jpeg?q=90",
@@ -32786,6 +33505,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32868,7 +33588,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/m/h/15-fast-acne-spot-treatment-gel-with-salicylic-acid-for-acne-original-imahpas6wkxahvph.jpeg?q=90",
@@ -32897,6 +33618,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -32979,7 +33701,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/c/9/15-fast-absorbing-acne-spot-gel-with-2-bha-for-daily-blemish-original-imahpau5wycmczrh.jpeg?q=90",
@@ -33007,6 +33730,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33089,7 +33813,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/f/i/15-acne-spot-gel-with-niacinamide-for-oil-control-acne-marks-original-imahpasf6amtkb7n.jpeg?q=90",
@@ -33118,6 +33843,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33200,7 +33926,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/4/h/15-pimple-control-gel-with-salicylic-acid-for-acne-prone-oily-original-imahparhvsugmzhg.jpeg?q=90",
@@ -33229,6 +33956,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33311,7 +34039,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/i/c/15-salicylic-acid-spot-gel-for-acne-care-oil-control-clear-skin-original-imahpasfpyfpfhg4.jpeg?q=90",
@@ -33339,6 +34068,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33421,7 +34151,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -33448,6 +34179,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33530,7 +34262,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/c/v/15-bha-acne-gel-with-salicylic-acid-niacinamide-sulfur-for-daily-original-imahparfrnm3zhqz.jpeg?q=90",
@@ -33558,6 +34291,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33640,7 +34374,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/f/0/15-salicylic-acid-acne-treatment-gel-for-pimples-pore-refining-original-imahpas3vz9wwwra.jpeg?q=90",
@@ -33667,6 +34402,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33749,7 +34485,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/z/s/15-acne-control-gel-with-2-bha-for-acne-prone-combination-skin-original-imahparrfbfzbwyw.jpeg?q=90",
@@ -33778,6 +34515,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33860,7 +34598,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/x/7/15-salicylic-acid-acne-gel-for-fast-acne-spot-treatment-original-imahpathbknd6agb.jpeg?q=90",
@@ -33887,6 +34626,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -33969,7 +34709,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/m/w/15-acne-spot-corrector-gel-with-2-salicylic-acid-niacinamide-original-imahparkwzrf92sm.jpeg?q=90",
@@ -33997,6 +34738,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34079,7 +34821,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/o/i/15-fast-acting-acne-spot-gel-with-2-bha-sulfur-azelaic-acid-for-original-imahpas5uzy8xzay.jpeg?q=90",
@@ -34107,6 +34850,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34189,7 +34933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/t/15-fast-acne-spot-treatment-with-2-salicylic-acid-for-active-original-imahpatrn23fdqag.jpeg?q=90",
@@ -34216,6 +34961,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34298,7 +35044,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/u/n/15-2-salicylic-acid-acne-gel-for-active-pimples-blemish-original-imahparq37yr3jks.jpeg?q=90",
@@ -34325,6 +35072,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34407,7 +35155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/3/w/s/15-acne-spot-gel-with-niacinamide-sulfur-for-fast-acne-spot-original-imahpaszsxf3xqhg.jpeg?q=90",
@@ -34435,6 +35184,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34517,7 +35267,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/o/15-acne-blemish-treatment-gel-with-2-bha-niacinamide-formula-original-imahparzfqnuwjrd.jpeg?q=90",
@@ -34544,6 +35295,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34626,7 +35378,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -34653,6 +35406,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34735,7 +35489,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/x/z/15-acne-treatment-spot-gel-with-2-bha-niacinamide-for-clear-skin-original-imahparmnrhhyygp.jpeg?q=90",
@@ -34762,6 +35517,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34844,7 +35600,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -34870,6 +35627,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -34952,7 +35710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/h/g/15-acne-spot-corrector-with-2-salicylic-acid-for-breakouts-acne-original-imahpartyraaryt8.jpeg?q=90",
@@ -34981,6 +35740,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35063,7 +35823,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/q/f/15-pimple-removal-gel-with-2-salicylic-acid-for-fast-spot-original-imahparkchbgwtya.jpeg?q=90",
@@ -35091,6 +35852,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35173,7 +35935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/r/0/15-acne-control-spot-gel-with-niacinamide-2-bha-for-breakout-original-imahparw9jqx8m8e.jpeg?q=90",
@@ -35200,6 +35963,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35282,7 +36046,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/m/15-acne-spot-corrector-with-2-bha-for-clear-smooth-refined-skin-original-imahparbewtwvu8z.jpeg?q=90",
@@ -35310,6 +36075,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35392,7 +36158,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/c/o/15-pimple-treatment-gel-with-salicylic-acid-for-acne-marks-original-imahpasydv3cfgyv.jpeg?q=90",
@@ -35420,6 +36187,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35502,7 +36270,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/h/u/15-fast-acting-acne-spot-corrector-with-bha-for-stubborn-original-imahpasmd5ekbhvu.jpeg?q=90",
@@ -35530,6 +36299,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35612,7 +36382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/z/z/15-acne-repair-gel-with-2-salicylic-acid-niacinamide-azelaic-original-imahparb9uefgrps.jpeg?q=90",
@@ -35641,6 +36412,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35723,7 +36495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/1/t/15-fast-acne-spot-corrector-gel-2-salicylic-acid-for-pimples-original-imahpas3jhwhu4yz.jpeg?q=90",
@@ -35751,6 +36524,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -35833,7 +36607,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/x/f/15-fast-acting-acne-spot-treatment-gel-salicylic-acid-azelaic-original-imahzzhj7zf9ndbp.jpeg?q=90",
@@ -35861,6 +36636,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -35943,7 +36719,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/h/15-acne-spot-treatment-with-2-bha-niacinamide-for-daily-use-original-imahparmkebjuchq.jpeg?q=90",
@@ -35970,6 +36747,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36052,7 +36830,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -36079,6 +36858,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36161,7 +36941,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/g/s/15-fast-acne-spot-treatment-with-salicylic-acid-technology-original-imahparwwdtbxb8u.jpeg?q=90",
@@ -36188,6 +36969,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36270,7 +37052,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/x/b/15-salicylic-acid-acne-gel-with-niacinamide-for-pimple-oil-original-imahpat73bgdcrtu.jpeg?q=90",
@@ -36298,6 +37081,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36380,7 +37164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/q/s/15-acne-spot-treatment-with-bha-for-oily-combination-skin-original-imahparv7zgtyh8h.jpeg?q=90",
@@ -36409,6 +37194,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36490,7 +37276,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 117 ratings"
+   "buyerEvidence": "4.2★ from 117 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/c/0/44-mankind-cream-anti-acne-cream-for-men-women-pack-of-2-44gm-original-imahhnhkrfzczgm5.jpeg?q=90",
@@ -36523,6 +37310,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -36605,7 +37393,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/d/x/5-skin-tag-acne-patch-dots-invisible-pimple-tag-remover-for-face-original-imaherhdjx6kysc6.jpeg?q=90",
@@ -36637,6 +37426,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -36719,7 +37509,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Nisargmitra Lifestyle Pvt. Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 150 ratings"
+   "buyerEvidence": "4.2★ from 150 ratings",
+   "concernBasis": "Acne — product type; Irritation — aloe barbadensis leaf extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/z/n/r/300-5-acne-face-body-wash-with-probiotics-collagen-peptides-original-imahhnncjhehdjd8.jpeg?q=90",
@@ -36742,6 +37533,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -36774,6 +37567,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -36781,6 +37575,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -36788,6 +37583,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -36795,6 +37591,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -36858,7 +37655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/7/m/10-acne-pimple-patches-flattens-acne-within-8-hours-absorbs-puss-original-imahpdydrpzkd2nv.jpeg?q=90",
@@ -36885,6 +37683,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -36968,7 +37767,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Cure and Care Wellness Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 236 ratings"
+   "buyerEvidence": "4.4★ from 236 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/c/10-amp-advance-gel-10-g-cureskin-original-imahn5ruuceuk6by.jpeg?q=90",
@@ -36988,6 +37788,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -37068,7 +37869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 1,749 ratings"
+   "buyerEvidence": "4.1★ from 1,749 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/q/d/-original-imahnhu2gm4grzk3.jpeg?q=90",
@@ -37096,6 +37898,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -37177,7 +37980,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kpinwy80/moisturizer-cream/z/j/v/50-cosmetics-anti-acne-gel-for-women-removing-skin-acne-50-gm-original-imag3qe9yhrzz2q4.jpeg?q=90",
@@ -37207,6 +38011,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -37288,7 +38093,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 18 ratings"
+   "buyerEvidence": "4.2★ from 18 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/p/y/50-anti-acne-gel-with-tea-tree-neem-for-acne-pimples-intimify-original-imahgu6bujzhrhru.jpeg?q=90",
@@ -37318,6 +38124,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -37399,7 +38206,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 49 ratings"
+   "buyerEvidence": "3.7★ from 49 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/r/2/50-anti-acne-gel-ideal-for-skin-care-face-pimple-intimify-gel-original-imahbh869nnfqgey.jpeg?q=90",
@@ -37429,6 +38237,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -37510,7 +38319,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/i/1/30-acne-gel-rapid-pimple-blemish-relief-pigmentation-dark-spot-original-imah2syu6pruxnuh.jpeg?q=90",
@@ -37545,6 +38355,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -37626,7 +38437,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/v/v/o/28-pack-of-2-salmon-dna-pdrn-pink-collagen-jelly-gel-mask-ad-original-imahhphqypzggpem.jpeg?q=90",
@@ -37654,6 +38466,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -37735,7 +38548,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/r/h/d/50-herbals-anti-acne-gel-oil-free-skincare-for-all-skin-types-original-imahhzkaqgxphrrh.jpeg?q=90",
@@ -37764,6 +38578,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -37846,7 +38661,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 278 ratings"
+   "buyerEvidence": "4.3★ from 278 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/e/c/30-calming-acne-gel-enriched-with-seaweed-teatrees-indus-valley-original-imahejuazzn6gtsj.jpeg?q=90",
@@ -37878,6 +38694,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -37960,7 +38777,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 6 ratings"
+   "buyerEvidence": "4.3★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/p/a/30-blemish-control-gel-pigmentation-pimple-fine-lines-scars-original-imah2sfgkx8zzubs.jpeg?q=90",
@@ -37992,6 +38810,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38074,7 +38893,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/x/30-a-lite-skin-essence-anti-acne-gel-pack-of-2-volant-gel-original-imahmd6mgmbfg4t9.jpeg?q=90",
@@ -38108,6 +38928,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38190,7 +39011,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
    "declaredManufacturer": "Fixderma India Pvt Ltd. F-170,E.P.I.P. zone,Neemrana, Disst. Alwar, Rajasthan - 301705, India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 684 ratings"
+   "buyerEvidence": "4.2★ from 684 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/d/v/20-salyzap-face-acne-gel-with-salicylic-acid-for-acne-scars-original-imahj4hmkhdyty2q.jpeg?q=90",
@@ -38212,6 +39034,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial",
    "inci:pharma-maker"
   ],
@@ -38295,7 +39118,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 15 ratings"
+   "buyerEvidence": "4.4★ from 15 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/4/v/20-anti-acne-gel-azelia-gel-original-imah84snhzzrgx6b.jpeg?q=90",
@@ -38316,6 +39140,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38396,7 +39221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 489 ratings"
+   "buyerEvidence": "4.1★ from 489 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/r/c/v/20-neem-tea-tree-anti-pimple-gel-gel-aroma-magic-original-imah5vnyz2muhhhn.jpeg?q=90",
@@ -38429,6 +39255,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -38510,7 +39337,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/0/b/30-acne-removal-cream-gel-anti-acne-scar-treatment-care-cream-original-imahpg7uyafhskkg.jpeg?q=90",
@@ -38542,6 +39370,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38624,7 +39453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 5 ratings"
+   "buyerEvidence": "4.8★ from 5 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/s/p/50-x-emirates-cream-glow-boost-skin-moisturizer-actiwow-cream-original-imahmhpyb3efmhqb.jpeg?q=90",
@@ -38654,6 +39484,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38736,7 +39567,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/v/a/30-kormesic-acne-gel-fast-acting-treatment-for-clearer-skin-original-imahevyhm9scxkgj.jpeg?q=90",
@@ -38772,6 +39604,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38853,7 +39686,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/r/50-anti-acne-gel-gkrishnanaturals-gel-original-imagzm9emqr4cubn.jpeg?q=90",
@@ -38883,6 +39717,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -38964,7 +39799,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/r/p/30-new-anti-acne-gel-fast-action-on-acne-pimples-helps-manage-original-imahejrptcbd4njf.jpeg?q=90",
@@ -38994,6 +39830,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -39076,7 +39913,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/t/30-acne-removal-cream-gel-anti-acne-scar-treatment-skin-care-original-imahhskhjatzzbbz.jpeg?q=90",
@@ -39106,6 +39944,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39187,7 +40026,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Aushadhi Wellness Pvt Ltd, Survey No. 654, Plot No. 1, Village Ravki, Ta. Lodhika, Dist. Rajkot - 360035 (Gujarat) India (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/n/q/c/60-teencleen-acne-care-gel-gel-aushadhi-original-imahnr9hynpgsrh8.jpeg?q=90",
@@ -39210,6 +40050,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39291,7 +40132,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/s/v/30-acne-removal-cream-gel-anti-acne-scar-treatment-skin-care-original-imahjpebkjh3zk6u.jpeg?q=90",
@@ -39328,6 +40170,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39409,7 +40252,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/f/3/30-acne-removal-cream-gel-for-acne-remover-age-spots-and-clean-original-imahzmezumxfa4uq.jpeg?q=90",
@@ -39442,6 +40286,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39522,7 +40367,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/klscivk0/moisturizer-cream/u/o/f/50-skin-firming-acne-clearing-gel-cream-insto-original-imagyufrqzhfdc9q.jpeg?q=90",
@@ -39545,6 +40391,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39626,7 +40473,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/r/30-acne-removal-cream-gel-anti-acne-scar-treatment-care-thtc-original-imahzmexjdrfgd8q.jpeg?q=90",
@@ -39663,6 +40511,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39744,7 +40593,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/f/m/30-acne-removal-cream-gel-anti-acne-scar-treatment-care-thtc-original-imahpf9hjc5fewyq.jpeg?q=90",
@@ -39776,6 +40626,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -39857,7 +40708,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 2 ratings"
+   "buyerEvidence": "3.5★ from 2 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/r/d/50-clarifying-pimple-gel-for-women-anti-pimple-face-gel-all-skin-original-imahhvwpbfnvcsua.jpeg?q=90",
@@ -39884,6 +40736,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -39964,7 +40817,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 329 ratings"
+   "buyerEvidence": "4★ from 329 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/n/g/50-2-salicylic-acid-6-niacinamide-acne-treatment-gel-with-oil-original-imah9fw2gyr9zxdg.jpeg?q=90",
@@ -39997,6 +40851,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -40078,7 +40933,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 142 ratings"
+   "buyerEvidence": "4★ from 142 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/p/a/20-acne-pimple-removal-cream-marks-removal-cream-intimify-original-imahfwfysq2qdujy.jpeg?q=90",
@@ -40100,6 +40956,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -40184,7 +41041,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
    "declaredManufacturer": "Era Botanics Private Limited (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 6,712 ratings"
+   "buyerEvidence": "3.9★ from 6,712 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/e/n/-original-imahmxfckd2fz7gj.jpeg?q=90",
@@ -40207,6 +41065,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -40240,6 +41101,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -40247,6 +41109,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40254,6 +41117,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -40261,6 +41125,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -40268,6 +41133,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -40330,7 +41196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/g/d/30-anti-acne-spot-cream-reduces-acne-redness-bijlan-cosmetic-original-imahpjb4bqyhdyev.jpeg?q=90",
@@ -40353,6 +41220,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -40435,7 +41303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/1/w/50-oil-free-anti-acne-gel-for-pimples-blemish-free-skin-50ml-original-imahmd5bpqez6t9r.jpeg?q=90",
@@ -40473,6 +41342,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -40555,7 +41425,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/l/5/30-kormesic-acne-gel-fast-acting-treatment-for-clearer-skin-original-imahevyhfandafej.jpeg?q=90",
@@ -40586,6 +41457,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -40667,7 +41539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 18 ratings"
+   "buyerEvidence": "4.2★ from 18 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/a/4/36-anti-acne-pimple-patch-hydrocolloid-salicylic-acid-clears-original-imahm8v4mc2cqkts.jpeg?q=90",
@@ -40689,6 +41562,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -40772,7 +41646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/h/z/100-acne-cream-for-men-latixmat-cream-original-imahzk4kcbmm3fe9.jpeg?q=90",
@@ -40807,6 +41682,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -40887,7 +41763,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 46 ratings"
+   "buyerEvidence": "4.2★ from 46 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/j/r/50-antiacne-antipimple-cream-for-acne-free-face-25-gm-pack-of-2-original-imahf483eundhtnq.jpeg?q=90",
@@ -40912,6 +41789,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -40992,7 +41870,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 754 ratings"
+   "buyerEvidence": "3.7★ from 754 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/jgiaky80/body-skin-treatment/8/g/z/30-acne-cream-bioaqua-original-imaf4qefhsfzkrd6.jpeg?q=90",
@@ -41019,6 +41898,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41102,7 +41982,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 24 ratings"
+   "buyerEvidence": "4.4★ from 24 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/6/1/25-antiacne-antipimple-cream-25-gm-herbs-zinc-pca-no-paraben-original-imaguy9gr5dkbx9w.jpeg?q=90",
@@ -41125,6 +42006,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41210,7 +42092,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylisothiazolinone (−2)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 124 ratings"
+   "buyerEvidence": "4★ from 124 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Dark spots — kojic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/6/m/50-acne-pimple-cream-khadi-organique-cream-original-imahhpbj5ce7ww4j.jpeg?q=90",
@@ -41235,6 +42118,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -41267,6 +42152,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -41274,6 +42160,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -41281,6 +42168,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -41288,6 +42176,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -41295,6 +42184,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -41371,7 +42261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/v/s/30-best-skin-acne-rejuvenation-cream-oil-control-shrink-pores-original-imahbsztmnszqb26.jpeg?q=90",
@@ -41399,6 +42290,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41480,7 +42372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/e/t/30-acne-pimple-scar-cream-anti-inflammatory-acne-pimples-original-imahf62qh5rgh3bw.jpeg?q=90",
@@ -41510,6 +42403,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41591,7 +42485,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/m/r/15-young-veda-acne-pimple-cream-15ml-youngveda-original-imahjqm9pauc7v7d.jpeg?q=90",
@@ -41624,6 +42519,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -41705,7 +42601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/j/2/30-anti-pimple-and-acne-cream-pores-acne-scar-remove-cream-original-imah3yshdgp4z8cz.jpeg?q=90",
@@ -41731,6 +42628,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41812,7 +42710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/p/x/30-acne-moisturizing-face-cream-skin-care-acne-treatment-for-man-original-imahzzbzp2fbynwa.jpeg?q=90",
@@ -41845,6 +42744,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -41926,7 +42826,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/1/q/l/30-premium-quality-acne-removal-cream-acne-cream-cream-afaraxia-original-imahpbz65krpzfks.jpeg?q=90",
@@ -41956,6 +42857,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42037,7 +42939,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/z/n/30-acne-rejuvenation-cream-for-scars-acne-pores-afaraxia-cream-original-imahdsae4ghxkcdg.jpeg?q=90",
@@ -42069,6 +42972,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42154,7 +43058,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylisothiazolinone (−2)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.7★ from 42 ratings"
+   "buyerEvidence": "3.7★ from 42 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Dark spots — kojic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/k7assy80/fairness/c/8/c/50-acne-pimple-cream-with-neem-basil-khadi-organique-original-imafpkma4uyftsdd.jpeg?q=90",
@@ -42183,6 +43088,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -42215,6 +43122,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -42222,6 +43130,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -42229,6 +43138,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -42236,6 +43146,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -42243,6 +43154,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -42320,7 +43232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 6 ratings"
+   "buyerEvidence": "4★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/x/z/22-acne-kind-anti-acne-cream-for-men-and-women-pack-of-1-22gm-original-imahkr4kmbxrqzfz.jpeg?q=90",
@@ -42352,6 +43265,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -42434,7 +43348,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/a/q/50-anti-acne-pimple-cream-for-smooth-and-glowing-skin-50gm-original-imahdub2vgkekdcw.jpeg?q=90",
@@ -42467,6 +43382,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42549,7 +43465,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Ghaziabad Uttar Pradesh (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/fairness/8/4/2/50-pimple-cream-soothes-acne-pimple-redness-provides-your-skin-original-imagqz3ygphehnha.jpeg?q=90",
@@ -42574,6 +43491,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42655,7 +43573,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/m/e/60-acne-cream-for-acne-remover-age-spots-and-clean-emijun-cream-original-imahphc5bge8reda.jpeg?q=90",
@@ -42681,6 +43600,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42761,7 +43681,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 60 ratings"
+   "buyerEvidence": "4.1★ from 60 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/q/1/60-ayurveda-neem-long-pepper-anti-acne-pimple-cream-jovees-cream-original-imah8ez7rbqjgypz.jpeg?q=90",
@@ -42789,6 +43710,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -42870,7 +43792,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/0/t/30-acne-cream-for-scars-acne-pores-cream-thtc-cream-original-imahpg7wb4khz6tn.jpeg?q=90",
@@ -42904,6 +43827,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -42985,7 +43909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/a/y/30-anti-acne-cream-for-acne-remover-age-spots-and-clean-open-original-imahpf8uhx7yzz6n.jpeg?q=90",
@@ -43018,6 +43943,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43099,7 +44025,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/g/t/30-acne-spot-gel-reduce-acne-pimples-for-women-men-gulglow99-original-imahqs2hvwmvd57j.jpeg?q=90"
@@ -43121,6 +44048,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43202,7 +44130,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/s/j/50-anti-acne-cream-for-teenage-skin-latixmat-cream-original-imahzgs5fnda5xgq.jpeg?q=90",
@@ -43233,6 +44162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43314,7 +44244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/1/z/80-green-tea-mask-stick-organic-powder-facemask-stick-clay-face-original-imagq7fqrkj8eyvq.jpeg?q=90",
@@ -43338,6 +44269,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43419,7 +44351,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/f/b/50-acne-control-cream-for-men-and-women-latixmat-cream-original-imahzgrvkhsgbscv.jpeg?q=90",
@@ -43449,6 +44382,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43530,7 +44464,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/x/z/100-acne-cream-for-men-latixmat-cream-original-imahzh5h8spfdruw.jpeg?q=90",
@@ -43560,6 +44495,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43641,7 +44577,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/q/q/6/50-best-korean-acne-cream-for-scars-acne-pores-cream-cream-original-imahzkya96vxnthj.jpeg?q=90",
@@ -43678,6 +44615,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43759,7 +44697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kr0ynbk0/face-pack/c/w/r/250-herbo-acne-cream-50g-pack-of-5-cream-ayurvedic-life-original-imag4wuj5jdgzzef.jpeg?q=90",
@@ -43792,6 +44731,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -43874,7 +44814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/9/100-pimple-cream-for-women-latixmat-cream-original-imahzk4mrvrumegx.jpeg?q=90",
@@ -43906,6 +44847,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -43987,7 +44929,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/r/c/60-acne-spot-cream-fast-acting-formula-cream-for-clearing-severe-original-imahkz243ptsu3tg.jpeg?q=90",
@@ -44016,6 +44959,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44097,7 +45041,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kuyf8nk0/face-pack/i/z/i/100-anti-acne-gel-cream-masque-prevents-6-acne-problems-cream-original-imag7yrqtjwvqgfg.jpeg?q=90",
@@ -44130,6 +45075,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44212,7 +45158,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/y/30-acne-treatment-face-body-spot-treatment-cream1-jiwoo-cream-original-imahnage7aghg9ff.jpeg?q=90",
@@ -44243,6 +45190,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44323,7 +45271,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 182 ratings"
+   "buyerEvidence": "4.1★ from 182 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/j20qv0w0/face-treatment/z/s/c/60-shiny-acne-and-pimple-cream-pack-of-2-deltas-pharma-original-imaeqft3cvskyf5a.jpeg?q=90",
@@ -44349,6 +45298,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44430,7 +45380,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 134 ratings"
+   "buyerEvidence": "4.2★ from 134 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/l/5/50-herbal-pimple-treatment-cream-zordan-cream-original-imah7zc7g6w4ye2e.jpeg?q=90",
@@ -44453,6 +45404,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44534,7 +45486,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/f/p/30-anti-acne-pimple-removing-cream-best-quality-for-pure-skin-original-imahz7nmhawyqhqz.jpeg?q=90",
@@ -44566,6 +45519,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44647,7 +45601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/j/e/30-best-acne-cream-for-scars-acne-pores-cream-gabbu-original-imahz7nedvqczdgp.jpeg?q=90",
@@ -44679,6 +45634,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44761,7 +45717,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/u/v/50-acne-zero-anti-acne-cream-50g-realmyth-gel-original-imah6wcuhsqf7hah.jpeg?q=90",
@@ -44798,6 +45755,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -44878,7 +45836,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 242 ratings"
+   "buyerEvidence": "4★ from 242 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l4fxh8w0/body-skin-treatment/h/i/8/24-hydrocolloid-acne-patch-visibly-flatten-acne-overnight-original-imagfc5nxxrzt3zr.jpeg?q=90",
@@ -44906,6 +45865,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -44987,7 +45947,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "HBK ENTERPRISE (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.7★ from 104 ratings"
+   "buyerEvidence": "3.7★ from 104 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/n/m/20-acne-pimple-patch-72-hydrocolloid-waterproof-patches-for-original-imah8nn6k772khnu.jpeg?q=90",
@@ -45009,6 +45970,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45090,7 +46052,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/q/q/30-acne-cream-for-clean-skin-face-cream-skin-care-acne-treatment-original-imahhqnzfz4thtvz.jpeg?q=90",
@@ -45118,6 +46081,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45199,7 +46163,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "ZYMO Cosmetics, Block No. 115, Santej Vadsar Road, Santej - 382721. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 1,145 ratings"
+   "buyerEvidence": "4★ from 1,145 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/z/d/20-bye-bye-acne-spot-oil-free-gel-pimple-removal-gel-acne-prone-original-imahkyy4hyrzrpgv.jpeg?q=90",
@@ -45220,6 +46185,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -45300,7 +46266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 37 ratings"
+   "buyerEvidence": "4.2★ from 37 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/body-skin-treatment/t/a/7/100-herbal-pimple-treatment-anti-acne-pimple-cream-50g-50g-original-imag6hpb5cghjvv4.jpeg?q=90",
@@ -45324,6 +46291,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45406,7 +46374,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/b/m/50-acne-pimple-cream-for-acne-marks-oil-control-clear-skin-original-imahpv3uxpvh2z8z.jpeg?q=90"
@@ -45437,6 +46406,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -45516,7 +46486,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 187 ratings"
+   "buyerEvidence": "4★ from 187 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/q/1/60-ayurveda-neem-long-pepper-anti-acne-pimple-cream-jovees-cream-original-imah8ez7rbqjgypz.jpeg?q=90",
@@ -45538,6 +46509,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45617,7 +46589,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 291 ratings"
+   "buyerEvidence": "4.2★ from 291 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/m/b/60-ayurveda-anti-acne-pimple-cream-neem-long-pepper-jovees-cream-original-imah5hkewcnhrehg.jpeg?q=90",
@@ -45646,6 +46619,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -45725,7 +46699,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 415 ratings"
+   "buyerEvidence": "4.2★ from 415 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/x/b/60-ayurveda-neem-long-pepper-anti-acne-pimple-cream-jovees-cream-original-imah8ez7gds93php.jpeg?q=90",
@@ -45750,6 +46725,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45833,7 +46809,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Aryan Herbal International Cos (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "5★ from 6 ratings"
+   "buyerEvidence": "5★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/km6mxe80/face-pack/2/m/u/11-anti-acne-cream-gel-pimple-face-gel-with-neem-tulsi-aloe-vera-original-imagf5cr7qdezqzn.jpeg?q=90",
@@ -45865,6 +46842,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -45946,7 +46924,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 352 ratings"
+   "buyerEvidence": "4.2★ from 352 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/anti-ageing/r/1/8/10-herbals-anti-blemish-black-patches-anti-acne-pimple-removal-original-imagmdkvpgruzrmr.jpeg?q=90",
@@ -45978,6 +46957,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46062,7 +47042,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#7 on list, strong evidence); salicylic acid (#22 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: benzyl alcohol, citronellol, limonene, linalool (−2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 9 ratings"
+   "buyerEvidence": "3.8★ from 9 ratings",
+   "concernBasis": "Acne — product type, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/o/3/-original-imahntax3s4xz6ge.jpeg?q=90",
@@ -46083,6 +47064,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -46114,6 +47097,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -46121,6 +47105,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46128,6 +47113,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -46135,6 +47121,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -46142,6 +47129,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "bha"
     }
    ],
@@ -46228,7 +47216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/l/2/50-acne-cream-for-blackheads-latixmat-cream-original-imahzgs5dxfkd8hd.jpeg?q=90",
@@ -46260,6 +47249,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46341,7 +47331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/2/50-anti-acne-cream-thtc-cream-original-imahyvzjgycbzsya.jpeg?q=90",
@@ -46374,6 +47365,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46455,7 +47447,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/g/v/60-pimple-remover-cream-thtc-cream-original-imah6gxzheecyz5a.jpeg?q=90",
@@ -46486,6 +47479,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46566,7 +47560,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 104 ratings"
+   "buyerEvidence": "3.8★ from 104 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/j/n/20-clear-marks-anti-acne-and-anti-pimple-cream-for-men-women-original-imah3dzvqhzfezvg.jpeg?q=90",
@@ -46587,6 +47582,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46668,7 +47664,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/v/j/60-pimple-remover-cream-60-g-thtc-cream-original-imah68xyagheyeb4.jpeg?q=90",
@@ -46701,6 +47698,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46784,7 +47782,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 24 ratings"
+   "buyerEvidence": "4.3★ from 24 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/m/s/30-vc-lipoz-spot-corrector-cream-vc-original-imahj6hwwhhzf5fr.jpeg?q=90",
@@ -46808,6 +47807,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -46887,7 +47887,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.9★ from 128 ratings"
+   "buyerEvidence": "3.9★ from 128 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/m/d/60-neem-long-pepper-anti-acne-and-pimple-cream-jovees-cream-original-imahyre3vwjpc6ye.jpeg?q=90",
@@ -46910,6 +47911,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -46992,7 +47994,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/j/y/20-dermasmooth-herbal-tag-removal-strips-safe-and-gentle-original-imahes84gbycshge.jpeg?q=90",
@@ -47017,6 +48020,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -47098,7 +48102,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/1/u/q/12-best-full-coverage-acne-spot-dark-circles-light-beige-color-original-imaherta429reag4.jpeg?q=90",
@@ -47125,6 +48130,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47207,7 +48213,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/8/p/15-anti-acne-spot-corrector-gel-2-salicylic-acid-with-original-imahzw3fkz9wtevu.jpeg?q=90",
@@ -47236,6 +48243,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47317,7 +48325,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "driddle cosmetic (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.9★ from 17 ratings"
+   "buyerEvidence": "3.9★ from 17 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/q/t/w/60-dark-spot-remover-for-face-dark-spot-corrector-cream-all-skin-original-imahduengpahxnpp.jpeg?q=90",
@@ -47338,6 +48347,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47419,7 +48429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/s/t/0/12-concealer-foundation-professional-full-coverage-flawless-original-imah85ty9mfu4u8z.jpeg?q=90",
@@ -47447,6 +48458,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47528,7 +48540,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/9/m/u/12-face-concealer-makeup-oil-control-full-cover-long-lasting-original-imah85sgbzennfcc.jpeg?q=90",
@@ -47560,6 +48573,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47641,7 +48655,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 11 ratings"
+   "buyerEvidence": "3.6★ from 11 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/y/q/dark-spot-removal-scar-removal-acne-scars-acne-marks-pimple-original-imah9ef8jh5sgcnx.jpeg?q=90",
@@ -47670,6 +48685,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47751,7 +48767,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/2/m/o/8-conceal-correct-liquid-concealer-hide-dark-spot-acne-birth-original-imagpwbmynysnkzv.jpeg?q=90",
@@ -47778,6 +48795,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47858,7 +48876,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 5 ratings"
+   "buyerEvidence": "3★ from 5 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/p/c/l/12-full-coverage-acne-spot-dark-circles-dart-beige-color-original-imags6jzaexh4reu.jpeg?q=90",
@@ -47877,6 +48896,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -47958,7 +48978,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/n/v/u/24-full-coverage-acne-spot-dark-circles-dart-beige-color-original-imahpsfmh8g9zfez.jpeg?q=90",
@@ -47985,6 +49006,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48066,7 +49088,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/y/s/100-intensive-pigmentation-cream-xentry-cream-original-imahpvuxu7wtjfqa.jpeg?q=90"
@@ -48087,6 +49110,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48168,7 +49192,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/w/o/50-dark-spot-corrector-cream-with-collagen-flixy-cream-original-imahm9z9w3qk35qu.jpeg?q=90",
@@ -48204,6 +49229,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -48285,7 +49311,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/w/a/j/6-full-coverage-acne-spot-dark-circles-honey-beige-color-original-imags6kcgk9hqcfq.jpeg?q=90",
@@ -48307,6 +49334,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48388,7 +49416,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/d/3/d/8-orange-concealer-eye-correctorfor-men-women-acne-spot-dark-original-imahh8euxfymbryu.jpeg?q=90",
@@ -48416,6 +49445,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48497,7 +49527,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/concealer/i/7/g/10-5-shades-concealer-palette-acne-marks-dark-circles-brighten-original-imah9d5ghbhnfvgy.jpeg?q=90",
@@ -48528,6 +49559,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48609,7 +49641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/i/r/30-vitamin-c-face-serum-dark-spot-corrector-brightening-glowing-original-imahh4tgtwjrwynp.jpeg?q=90"
@@ -48629,6 +49662,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48710,7 +49744,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/p/f/30-vitamin-c-10-brightening-facial-serum-hyaluronic-acid-original-imahhdp7faaz2nj7.jpeg?q=90"
@@ -48735,6 +49770,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48816,7 +49852,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/p/q/60-dark-spot-corrector-cream-with-collagen-for-face-neck-flixy-original-imahzt4ejhma3kmx.jpeg?q=90",
@@ -48838,6 +49875,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -48921,7 +49959,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 6 ratings"
+   "buyerEvidence": "4.7★ from 6 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/i/150-dark-spot-clearing-anti-pimples-spot-removal-skin-original-imah9dbkhtq6gfzr.jpeg?q=90",
@@ -48949,6 +49988,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -49030,7 +50070,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/f/8/30-vitamin-c-brightening-face-serum-with-niacinamide-collagen-original-imahh4taghrgddeq.jpeg?q=90"
@@ -49053,6 +50094,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -49134,7 +50176,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/a/t/30-vitamin-c-skin-brightening-serum-with-niacinamide-hyaluronic-original-imahh4t8stghqrcg.jpeg?q=90"
@@ -49157,6 +50200,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -49240,7 +50284,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/c/30-anti-acne-gel-oil-control-for-acne-pimples-reduce-pimples-original-imah7d4g3nbhehgp.jpeg?q=90",
@@ -49283,6 +50328,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49366,7 +50412,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 13 ratings"
+   "buyerEvidence": "4.4★ from 13 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kn3i1zk0/moisturizer-cream/m/i/1/300-papaya-gel-papaya-skin-gel-for-anti-ageing-insta-glow-acne-original-imagfuznnytk2btb.jpeg?q=90",
@@ -49399,6 +50446,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49482,7 +50530,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 10 ratings"
+   "buyerEvidence": "5★ from 10 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/s/y/1-invisible-acne-spot-patches-with-salicylic-acid-for-blemish-original-imahp9zwcnmbauaz.jpeg?q=90",
@@ -49507,6 +50556,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49589,7 +50639,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/4/a/4-hydrocolloid-salicylic-acid-acne-pimple-patches-clear-clouds-original-imahpdyrksmmvvhw.jpeg?q=90",
@@ -49614,6 +50665,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49697,7 +50749,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 32 ratings"
+   "buyerEvidence": "5★ from 32 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/b/h/1-hydrocolloid-acne-patch-pimple-patch-43-cloud-shaped-patches-original-imahqhrvuzygupfc.jpeg?q=90",
@@ -49721,6 +50774,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49803,7 +50857,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/n/q/4-hydrocolloid-salicylic-acid-acne-pimple-patches-clear-clouds-original-imahptf9xrg2wr5b.jpeg?q=90",
@@ -49828,6 +50883,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -49908,7 +50964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 3 ratings"
+   "buyerEvidence": "3.7★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/c/z/l/0-05-acne-pimple-patches-36-pack-of-2-2-shinzura-original-imahgjdgrjuydxtd.jpeg?q=90",
@@ -49942,6 +50999,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -50023,7 +51081,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/n/i/30-face-skin-care-acne-anti-wrinkle-treatment-removal-cream-original-imahdsamrzpfwybz.jpeg?q=90",
@@ -50062,6 +51121,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -50144,7 +51204,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 21 ratings"
+   "buyerEvidence": "5★ from 21 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/y/y/0-20-pimple-patches-with-salicylic-acid-12-dots-in-3-sizes-for-original-imahjgzgf2fmnba9.jpeg?q=90",
@@ -50172,6 +51233,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -50252,7 +51314,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 22 ratings"
+   "buyerEvidence": "4★ from 22 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/7/y/10-lightweight-hydrocolloid-cute-animal-shape-acne-pimple-patch-original-imahgdqppemqtb4f.jpeg?q=90",
@@ -50277,6 +51340,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -50360,7 +51424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 8 ratings"
+   "buyerEvidence": "4.3★ from 8 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/n/u/80-80-star-shape-pimple-patches-pink-yellow-perr-cherry-original-imahz3eppkmgsr6t.jpeg?q=90",
@@ -50384,6 +51449,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -50466,7 +51532,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/t/2/72-0-hydrocolloid-acne-pimple-patches-with-salicylic-acid-original-imahqxhfkdatephx.jpeg?q=90",
@@ -50492,6 +51559,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -50573,7 +51641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/s/q/20-advance-new-skin-tag-remover-patch-pimple-patches-pure-care-original-imahpgnexhcxwwfh.jpeg?q=90",
@@ -50594,6 +51663,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -50676,7 +51746,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/h/f/15-salicylic-acid-acne-spot-corrector-for-clear-smooth-refined-original-imahparc3hty2rzg.jpeg?q=90",
@@ -50704,6 +51775,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -50787,7 +51859,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 3 ratings"
+   "buyerEvidence": "4.7★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/f/u/20-hydrocolloid-pimple-patches-with-0-5-salicylic-acid-to-reduce-original-imahn6wzeb6ayjrt.jpeg?q=90",
@@ -50815,6 +51888,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -50896,7 +51970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/l/8/1/10-acne-pimple-patches-flattens-acne-within-8hrs-all-skin-types-original-imagzt7byf7szdkw.jpeg?q=90",
@@ -50925,6 +52000,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -51007,7 +52083,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/q/z/15-salicylic-acid-acne-spot-treatment-for-blackheads-pimples-original-imahparmzftsywyg.jpeg?q=90",
@@ -51035,6 +52112,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -51117,7 +52195,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/b/q/15-salicylic-acid-acne-gel-with-niacinamide-for-clear-skin-original-imahparxutnmnpp6.jpeg?q=90",
@@ -51144,6 +52223,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -51226,7 +52306,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/m/z/15-acne-spot-corrector-gel-with-2-salicylic-acid-2-azelaic-acid-original-imahzv4xrud6fpx5.jpeg?q=90",
@@ -51265,6 +52346,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -51347,7 +52429,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/q/w/15-acne-control-gel-with-2-salicylic-acid-spot-treatment-for-original-imahzw63w8v3yfd8.jpeg?q=90",
@@ -51377,6 +52460,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -51459,7 +52543,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/6/6/15-2-salicylic-acid-acne-control-gel-for-pimples-blackheads-original-imahzw5chggkvxyj.jpeg?q=90",
@@ -51491,6 +52576,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -51573,7 +52659,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -51600,6 +52687,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -51682,7 +52770,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/o/g/15-fast-acne-spot-corrector-with-salicylic-acid-for-pimples-original-imahparu3qe2x2bs.jpeg?q=90",
@@ -51711,6 +52800,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -51793,7 +52883,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/e/4/15-2-bha-acne-spot-treatment-for-fast-pimple-drying-formula-original-imahparqvf6nfqek.jpeg?q=90",
@@ -51820,6 +52911,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -51902,7 +52994,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -51930,6 +53023,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -52012,7 +53106,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/m/4/15-salicylic-acid-2-acne-spot-treatment-gel-helps-clear-clogged-original-imahzv7he63yudt7.jpeg?q=90",
@@ -52038,6 +53133,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52120,7 +53216,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/6/n/d/50-spot-clearing-acne-pimple-patch-with-100-hydrocolloid-216-original-imahnwy8ngaxzkbz.jpeg?q=90",
@@ -52144,6 +53241,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52226,7 +53324,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/g/y/2-ultra-thin-hydrocolloid-acne-patches-with-salicylic-acid-for-original-imahp7hx3fyqzdy7.jpeg?q=90",
@@ -52251,6 +53350,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -52333,7 +53433,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/z/c/30-waterproof-pimple-cover-patch-36-patches-smietrz-original-imahnwwngzma2ycd.jpeg?q=90",
@@ -52355,6 +53456,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52437,7 +53539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/t/u/50-pimple-patch-216-patches-smietrz-original-imahnwy8g5fr5aw7.jpeg?q=90",
@@ -52461,6 +53564,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52542,7 +53646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/b/q/36-pimple-patch-for-men-and-women-paste-afaraxia-original-imah5zxapxcw3haf.jpeg?q=90",
@@ -52571,6 +53676,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52653,7 +53759,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/u/g/36-pimple-patches-36-pcs-skin-protect-pimple-patches-kashtabhan-original-imahjn6vknqpjyju.jpeg?q=90",
@@ -52682,6 +53789,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -52763,7 +53871,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/b/v/d/36-invisible-acne-spot-patch-makeup-friendly-peel-off-mask-original-imahkugy3mcm8wym.jpeg?q=90",
@@ -52797,6 +53906,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -52878,7 +53988,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/z/t/b/36-acne-patch-hydrocolloid-acne-pimple-patch-for-covering-zits-original-imahersmvyngmy3j.jpeg?q=90",
@@ -52908,6 +54019,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -52990,7 +54102,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/v/m/36-acne-patch-36-pcs-skin-tag-acne-patch-dots-kashtabhan-original-imahjn5st9hfhedw.jpeg?q=90",
@@ -53019,6 +54132,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -53101,7 +54215,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/n/36-acne-patches-acen-patch-36-pcs-skin-tag-acne-patch-dots-original-imahjn6e2yfvs2wg.jpeg?q=90",
@@ -53126,6 +54241,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -53207,7 +54323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/8/t/7/10-panda-shape-pimple-patches-waterproof-absorbs-pus-oil-imelda-original-imahpbvhsatxgqsk.jpeg?q=90",
@@ -53238,6 +54355,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53319,7 +54437,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/j/s/g/3-6-pimple-patches-for-face-pimple-patch-acne-patches-for-original-imahdcry6zeyghz9.jpeg?q=90",
@@ -53352,6 +54471,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53434,7 +54554,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/i/0/45-acne-spot-pimple-patch-invisible-protection-smietrz-original-imahnxfc5uhtzvph.jpeg?q=90",
@@ -53456,6 +54577,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53538,7 +54660,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/3/u/10-zit-poof-acne-patch-for-all-skin-types-pack-of-3-108-dots-hey-original-imahqg4h9qbqhsrj.jpeg?q=90",
@@ -53567,6 +54690,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -53648,7 +54772,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/4/a/36-skin-friendly-acne-patch-invisible-spot-treatment-for-original-imahh5t9rphs5hqn.jpeg?q=90",
@@ -53675,6 +54800,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53757,7 +54883,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/p/q/x/36-pimple-patch-acne-patch-advanced-skin-care-school-travel-original-imahznagjv6bgsdv.jpeg?q=90",
@@ -53780,6 +54907,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53862,7 +54990,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/0/n/v/36-pimple-patch-dark-spot-remover-advanced-skin-care-office-for-original-imahndygjbzmg2gh.jpeg?q=90",
@@ -53885,6 +55014,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -53967,7 +55097,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/j/i/6/36-pimple-patch-pimple-patches-for-face-maximum-comfort-pimple-original-imahznagnznvqfzm.jpeg?q=90",
@@ -53991,6 +55122,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54073,7 +55205,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/b/0/3-hydrocolloid-salicylic-acid-acne-pimple-patches-for-blemish-original-imahpdybg5z6c9ct.jpeg?q=90",
@@ -54098,6 +55231,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -54180,7 +55314,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/n/d/45-clear-pimple-patch-acne-spot-cover-108-count-smietrz-original-imahnxfcgcaatzfs.jpeg?q=90",
@@ -54201,6 +55336,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54283,7 +55419,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/w/g/45-protective-pimple-patch-hydrocolloid-smietrz-original-imahnxfcrx55nxu5.jpeg?q=90",
@@ -54305,6 +55442,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54387,7 +55525,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/1/w/45-waterproof-pimple-patch-acne-care-smietrz-original-imahnxfcchgzekmv.jpeg?q=90",
@@ -54409,6 +55548,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54491,7 +55631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/z/c/30-waterproof-pimple-cover-patch-36-patches-smietrz-original-imahnwwngzma2ycd.jpeg?q=90",
@@ -54517,6 +55658,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54599,7 +55741,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/w/c/40-blemish-cover-acne-patch-72-patches-smietrz-original-imahnxy2nk8ha9xw.jpeg?q=90",
@@ -54620,6 +55763,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54702,7 +55846,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/p/h/45-pimple-patch-for-blemish-acne-smietrz-original-imahnxfcrc9yg4tq.jpeg?q=90",
@@ -54723,6 +55868,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54805,7 +55951,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/w/p/45-hydrocolloid-pimple-patch-108-count-smietrz-original-imahnxfczznzmry2.jpeg?q=90",
@@ -54827,6 +55974,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -54909,7 +56057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/5/p/45-face-acne-pimple-patch-108-count-smietrz-original-imahnxfcen2sh2bf.jpeg?q=90",
@@ -54930,6 +56079,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55012,7 +56162,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/y/r/45-pimple-patch-face-spot-treatment-smietrz-original-imahnxfcqmctw5zs.jpeg?q=90",
@@ -55033,6 +56184,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55115,7 +56267,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/j/l/45-acne-spot-cover-pimple-patch-pack-smietrz-original-imahnxfcksmpndjz.jpeg?q=90",
@@ -55136,6 +56289,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55218,7 +56372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/p/u/50-acne-patch-216-count-smietrz-original-imahnwy8mzsxjzj5.jpeg?q=90",
@@ -55245,6 +56400,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55327,7 +56483,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/d/p/1-salicylic-acid-hydrocolloid-patches-for-acne-and-pimples-43-original-imahp9zrn62tx8w8.jpeg?q=90",
@@ -55356,6 +56513,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -55438,7 +56596,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/w/c/45-acne-spot-pimple-patch-clear-dots-smietrz-original-imahnxfccb8bqszq.jpeg?q=90",
@@ -55459,6 +56618,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55540,7 +56700,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 106 ratings"
+   "buyerEvidence": "3.8★ from 106 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/x/d/60-acne-pimple-healing-patch-100-hydrocolloid-transparent-original-imahpmq7rcmuw4gd.jpeg?q=90",
@@ -55569,6 +56730,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -55651,7 +56813,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/q/t/b/36-pimple-patch-advanced-skin-care-helps-maintain-calm-for-original-imahznaggqq5bgyt.jpeg?q=90",
@@ -55675,6 +56838,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55757,7 +56921,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/j/4/2-pimple-patches-for-face-pimples-skin-tag-removal-patch-pimple-original-imahmzbpsvh2cyqv.jpeg?q=90",
@@ -55783,6 +56948,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -55865,7 +57031,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/y/b/60-best-quality-acne-gel-cream-for-face-pimples-fade-dark-spots-original-imahqfwzy5pras74.jpeg?q=90",
@@ -55893,6 +57060,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -55973,7 +57141,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 42 ratings"
+   "buyerEvidence": "4★ from 42 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/i/7/50-anti-pimple-gel-lakshmi-krishna-gel-original-imahjzdq9jv9qq74.jpeg?q=90",
@@ -55996,6 +57165,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56078,7 +57248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 3 ratings"
+   "buyerEvidence": "5★ from 3 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/j/f/30-blemish-gel-rapid-action-spot-treatment-for-clear-skin-original-imah2sfjmdmaruzz.jpeg?q=90",
@@ -56109,6 +57280,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56190,7 +57362,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/f/p/o/120-salicylic-acid-acne-treatment-face-cream-repair-pimple-spots-original-imahhmxxcqhfjhgx.jpeg?q=90",
@@ -56222,6 +57395,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56304,7 +57478,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/l/h/30-acne-removal-cream-gel-anti-acne-treatment-skin-care-face-original-imahc9m8fthcqyzm.jpeg?q=90",
@@ -56334,6 +57509,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56415,7 +57591,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/f/3/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyttzswaztf.jpeg?q=90",
@@ -56447,6 +57624,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56528,7 +57706,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/0/8/z/5-pimple-patch-acne-removal-skin-care-stickers-original-original-imah4e8yy6htghxs.jpeg?q=90",
@@ -56561,6 +57740,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -56642,7 +57822,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/w/8/w/3-6-acne-pimple-patch-invisible-facial-dots-with-100-original-imahddgrjbazy4ze.jpeg?q=90",
@@ -56682,6 +57863,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56763,7 +57945,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/n/f/3/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyttzswaztf.jpeg?q=90",
@@ -56802,6 +57985,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -56883,7 +58067,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/4/a/36-acne-absorbing-cover-patch-paste-afaraxia-original-imah5zyty2zxegaq.jpeg?q=90",
@@ -56916,6 +58101,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -56997,7 +58183,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/7/e/u/36-acne-absorbing-cover-patch-invisible-acne-patches-for-face-original-imahers35m7y7ymz.jpeg?q=90",
@@ -57035,6 +58222,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -57116,7 +58304,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/n/e/36-pimple-patches-with-salicylic-acid-adjd-original-imahnvmvqrnvxghj.jpeg?q=90",
@@ -57135,6 +58324,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -57215,7 +58405,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 29 ratings"
+   "buyerEvidence": "3.9★ from 29 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/z/4/b/20-acne-pimple-patches-36-hydrocolloid-salicylic-acid-waterproof-original-imahhvz2g4cdhm8v.jpeg?q=90",
@@ -57247,6 +58438,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -57328,7 +58520,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-skin-treatment/a/9/a/10-pimple-patches-in-different-shapes-reduces-acne-spots-and-original-imahpbvgfdhf7wrb.jpeg?q=90",
@@ -57359,6 +58552,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -57441,7 +58635,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/s/b/q/36-pimple-patch-for-men-and-women-paste-afaraxia-original-imah5zxapxcw3haf.jpeg?q=90",
@@ -57476,6 +58671,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -57557,7 +58753,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/w/u/v/72-skin-tag-acne-patch-dots-invisible-pimple-tag-remover-for-original-imahkpznfkuytbdh.jpeg?q=90",
@@ -57589,6 +58786,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -57671,7 +58869,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/s/p/30-anti-acne-gel-30g-helps-reduce-pimples-control-excess-oil-original-imahnjjfvwu7ckkm.jpeg?q=90",
@@ -57697,6 +58896,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -57779,7 +58979,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/p/p/30-say-goodbye-to-acne-fast-with-prc-herbal-pimple-patches-36-original-imahzeaz25yyvxdg.jpeg?q=90",
@@ -57803,6 +59004,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -57884,7 +59086,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/s/h/50-prolite-cica-exo-cream-dark-spot-corrector-barrier-repair-original-imahp59jafpjwkan.jpeg?q=90"
@@ -57902,6 +59105,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -57984,7 +59188,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/f/f/100-0-face-cream-for-anti-pimple-cream-soft-touch-texture-for-original-imahjyyzkr8mwbwh.jpeg?q=90",
@@ -58016,6 +59221,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58097,7 +59303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 7 ratings"
+   "buyerEvidence": "3.6★ from 7 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/o/b/30-20-vitamin-c-serum-collagen-booster-brightening-glowing-original-imahghpuh7rfpguq.jpeg?q=90",
@@ -58135,6 +59342,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58216,7 +59424,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.1★ from 7 ratings"
+   "buyerEvidence": "3.1★ from 7 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/z/r/20-vitamin-c-20-concentrate-even-skin-tone-dark-spot-corrector-original-imahhqgwvyasqy76.jpeg?q=90",
@@ -58246,6 +59455,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58328,7 +59538,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/x/l/15-acne-treatment-gel-for-pimples-with-2-salicylic-acid-formula-original-imahpasaqzfhmjcx.jpeg?q=90",
@@ -58355,6 +59566,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58437,7 +59649,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/r/m/j/80-retinol-face-serum-dark-spot-cream-for-oil-control-acne-marks-original-imahczgzzwcytjza.jpeg?q=90",
@@ -58476,6 +59689,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58558,7 +59772,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/o/u/15-salicylic-acid-acne-gel-with-azelaic-acid-for-smooth-clear-original-imahpatpc8jqrdhr.jpeg?q=90",
@@ -58586,6 +59801,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58668,7 +59884,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -58695,6 +59912,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58777,7 +59995,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/l/15-fast-acting-acne-spot-gel-with-salicylic-acid-azelaic-acid-original-imahparqkprzjped.jpeg?q=90",
@@ -58805,6 +60024,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -58887,7 +60107,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/b/15-acne-spot-gel-with-azelaic-acid-for-spot-correction-rosebrite-original-imahparpzmcpmrgt.jpeg?q=90",
@@ -58925,6 +60146,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59007,7 +60229,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/y/1/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-spot-original-imahpashqbhzzfz4.jpeg?q=90",
@@ -59036,6 +60259,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59118,7 +60342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -59145,6 +60370,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59227,7 +60453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/x/4/15-2-salicylic-acid-anti-acne-gel-for-men-women-helps-reduce-original-imahzm64vxcg9qjd.jpeg?q=90",
@@ -59252,6 +60479,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -59334,7 +60562,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/z/4/15-salicylic-acid-acne-spot-gel-with-azelaic-acid-for-smooth-original-imahparrsyp9tbdx.jpeg?q=90",
@@ -59364,6 +60593,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59446,7 +60676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/q/15-acne-spot-corrector-gel-with-sulfur-azelaic-acid-for-breakout-original-imahparspkwefdjh.jpeg?q=90",
@@ -59475,6 +60706,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59557,7 +60789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/j/h/15-acne-gel-with-salicylic-acid-niacinamide-azelaic-acid-for-original-imahpatqhznqnyxq.jpeg?q=90",
@@ -59585,6 +60818,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59667,7 +60901,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/g/h/15-acne-spot-corrector-gel-with-2-salicylic-acid-azelaic-acid-original-imahzqr2tsngdkye.jpeg?q=90",
@@ -59707,6 +60942,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59789,7 +61025,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/q/l/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfarffzhzp.jpeg?q=90",
@@ -59823,6 +61060,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -59905,7 +61143,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/2/c/15-acne-spot-corrector-gel-2-bha-salicylic-acid-niacinamide-original-imahzwbcqsupfjun.jpeg?q=90",
@@ -59937,6 +61176,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60019,7 +61259,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/e/3/15-acne-control-spot-corrector-gel-2-salicylic-acid-with-original-imahzx9sm6stg2hf.jpeg?q=90",
@@ -60053,6 +61294,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -60135,7 +61377,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/d/g/15-2-salicylic-acid-acne-spot-treatment-gel-pimple-remover-cream-original-imahzyh4gqawhugk.jpeg?q=90",
@@ -60167,6 +61410,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60249,7 +61493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/2/n/15-anti-acne-gel-2-bha-salicylic-acid-spot-corrector-pimple-original-imahzyhgdyz66hk6.jpeg?q=90",
@@ -60282,6 +61527,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60364,7 +61610,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/r/c/15-pimple-spot-corrector-gel-2-salicylic-acid-acne-treatment-original-imahzyhbfszznghy.jpeg?q=90",
@@ -60397,6 +61644,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60479,7 +61727,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/0/o/15-acne-spot-corrector-gel-2-salicylic-acid-bha-acne-treatment-original-imahzyhdkenhqcfp.jpeg?q=90",
@@ -60512,6 +61761,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60594,7 +61844,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/o/a/15-acne-spot-corrector-gel-20ml-2-salicylic-acid-bha-niacinamide-original-imahzyhbjf73vqpq.jpeg?q=90",
@@ -60627,6 +61878,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60709,7 +61961,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/y/15-acne-spot-gel-fast-acting-pimple-corrector-2-salicylic-acid-original-imahzyh9tztb2euz.jpeg?q=90",
@@ -60740,6 +61993,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60822,7 +62076,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/c/m/15-acne-treatment-gel-with-niacinamide-for-oil-control-acne-spot-original-imahpascwpbxjpg2.jpeg?q=90",
@@ -60851,6 +62106,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -60933,7 +62189,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/9/g/30-acne-skiom-original-imahhft27gbnrdzh.jpeg?q=90",
@@ -60963,6 +62220,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -61046,7 +62304,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 18 ratings"
+   "buyerEvidence": "4.5★ from 18 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/5/d/30-skya-amvel-sr-skin-brightening-complex-serum-with-kojic-acid-original-imahgxwsguhyejq5.jpeg?q=90",
@@ -61077,6 +62336,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61159,7 +62419,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/x/y/100-clearglow-anti-acne-cream-pack-of-2-elfica-cream-original-imahmh2bwnzztr3z.jpeg?q=90",
@@ -61191,6 +62452,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -61273,7 +62535,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/x/p/15-2-salicylic-acid-acne-spot-gel-with-niacinamide-azelaic-acid-original-imahparckzwduhgy.jpeg?q=90",
@@ -61301,6 +62564,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61383,7 +62647,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/a/r/15-acne-spot-corrector-gel-for-face-salicylic-acid-acne-original-imahzyhhpcgfdhrt.jpeg?q=90",
@@ -61416,6 +62681,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61498,7 +62764,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/o/t/15-acne-removal-gel-salicylic-acid-azelaic-acid-niacinamide-spot-original-imahzyhag6qhsh2f.jpeg?q=90",
@@ -61530,6 +62797,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61612,7 +62880,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/d/g/15-fast-acne-spot-gel-with-salicylic-acid-azelaic-acid-blend-original-imahpasfuksjes8q.jpeg?q=90",
@@ -61641,6 +62910,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61723,7 +62993,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/v/t/15-pimple-spot-corrector-with-salicylic-acid-for-acne-breakout-original-imahparsfeeuuhuh.jpeg?q=90",
@@ -61751,6 +63022,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61833,7 +63105,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/l/2/15-salicylic-acid-acne-gel-with-azelaic-acid-for-bright-smooth-original-imahpartxcyakyet.jpeg?q=90",
@@ -61863,6 +63136,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -61945,7 +63219,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/l/15-salicylic-acid-acne-treatment-gel-with-azelaic-acid-for-original-imahpatqyhpzz3zz.jpeg?q=90",
@@ -61973,6 +63248,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62055,7 +63331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -62083,6 +63360,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62165,7 +63443,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/r/g/15-acne-treatment-gel-2-bha-salicylic-acid-spot-corrector-clears-original-imahzyhfvzwzzfza.jpeg?q=90",
@@ -62198,6 +63477,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62280,7 +63560,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/g/e/j/15-acne-corrector-cream-salicylic-acid-acne-spot-treatment-original-imahzyh8kznpzutb.jpeg?q=90",
@@ -62313,6 +63594,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62395,7 +63677,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/y/5/15-salicylic-acid-acne-gel-2-bha-pimple-spot-corrector-acne-original-imahzyhff6wkgj27.jpeg?q=90"
@@ -62424,6 +63707,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62506,7 +63790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/n/t/15-pimple-removal-gel-acne-spot-treatment-with-salicylic-acid-original-imahzyhdswuxdbvg.jpeg?q=90",
@@ -62538,6 +63823,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62620,7 +63906,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -62646,6 +63933,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62728,7 +64016,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -62755,6 +64044,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62837,7 +64127,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/2/a/15-acne-spot-gel-with-salicylic-acid-for-healthy-clear-skin-original-imahpatkuubz3bcz.jpeg?q=90",
@@ -62864,6 +64155,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -62946,7 +64238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/0/x/15-fast-acting-acne-spot-gel-with-salicylic-acid-niacinamide-original-imahparqajnshazy.jpeg?q=90",
@@ -62974,6 +64267,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63056,7 +64350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/p/q/15-salicylic-acid-acne-treatment-gel-for-oily-skin-stubborn-acne-original-imahpas3ykd7hshh.jpeg?q=90",
@@ -63084,6 +64379,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63166,7 +64462,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -63194,6 +64491,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63276,7 +64574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/g/15-acne-spot-gel-with-salicylic-acid-niacinamide-for-oil-balance-original-imahparvjvsgxqmh.jpeg?q=90",
@@ -63303,6 +64602,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63385,7 +64685,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/7/q/s/15-acne-spot-treatment-gel-with-sulfur-for-pimples-spots-excess-original-imahpas9eduztejh.jpeg?q=90",
@@ -63414,6 +64715,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63496,7 +64798,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/2/5/15-fast-acne-spot-corrector-with-salicylic-acid-for-blackheads-original-imahparxfbazwgax.jpeg?q=90",
@@ -63524,6 +64827,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63606,7 +64910,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/j/q/15-acne-control-gel-with-bha-sulfur-niacinamide-for-spot-free-original-imahpasnvyhmevpt.jpeg?q=90",
@@ -63633,6 +64938,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63715,7 +65021,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/g/v/15-salicylic-acid-spot-treatment-gel-for-acne-redness-breakout-original-imahpas4byvanwta.jpeg?q=90",
@@ -63743,6 +65050,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63825,7 +65133,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/9/8/15-acne-spot-corrector-gel-with-salicylic-acid-sulfur-for-daily-original-imahpas3spggy722.jpeg?q=90",
@@ -63853,6 +65162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -63935,7 +65245,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/y/c/15-acne-spot-gel-with-niacinamide-azelaic-acid-for-daily-acne-original-imahpasaaynw4cpj.jpeg?q=90",
@@ -63963,6 +65274,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64045,7 +65357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/u/q/b/15-salicylic-acid-acne-spot-gel-with-2-bha-for-daily-acne-original-imahpasfmhvgfzba.jpeg?q=90",
@@ -64072,6 +65385,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64154,7 +65468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/u/m/15-acne-spot-corrector-gel-with-sulfur-for-pimples-spots-oil-original-imahpas8ac7kcfyp.jpeg?q=90",
@@ -64184,6 +65499,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64266,7 +65582,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/l/e/15-acne-treatment-gel-with-salicylic-acid-for-active-pimples-original-imahparv5kwwjggu.jpeg?q=90",
@@ -64294,6 +65611,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64376,7 +65694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/j/3/15-acne-spot-gel-with-salicylic-acid-niacinamide-sulfur-for-original-imahpascanvmyykm.jpeg?q=90",
@@ -64403,6 +65722,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64485,7 +65805,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/g/j/15-salicylic-acid-acne-gel-with-sulfur-for-deep-pore-purifying-original-imahpas5x77e95wh.jpeg?q=90",
@@ -64512,6 +65833,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64594,7 +65916,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/9/c/15-fast-acne-spot-gel-with-salicylic-acid-for-acne-pimples-original-imahpas4ce7amuwf.jpeg?q=90",
@@ -64621,6 +65944,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64703,7 +66027,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/r/j/15-salicylic-acid-acne-spot-gel-with-niacinamide-for-blemishes-original-imahpas5fymkfuag.jpeg?q=90",
@@ -64732,6 +66057,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64814,7 +66140,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/i/15-fast-acting-acne-spot-treatment-with-2-salicylic-acid-for-original-imahpas3zszfzgsn.jpeg?q=90",
@@ -64841,6 +66168,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -64923,7 +66251,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/w/h/15-acne-spot-gel-with-2-bha-for-daily-breakout-prevention-original-imahpasykkh2vusk.jpeg?q=90",
@@ -64951,6 +66280,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65033,7 +66363,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/y/3/15-fast-acne-spot-corrector-with-2-salicylic-acid-bha-for-clear-original-imahpas9btd3zzcy.jpeg?q=90",
@@ -65061,6 +66392,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65143,7 +66475,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/z/5/15-acne-control-gel-with-2-salicylic-acid-for-acne-spots-oil-original-imahpatuasz8gybp.jpeg?q=90",
@@ -65170,6 +66503,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65252,7 +66586,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/j/e/15-fast-acting-acne-spot-treatment-with-2-salicylic-acid-for-original-imahpas7r74tuxzv.jpeg?q=90",
@@ -65279,6 +66614,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65361,7 +66697,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/d/s/15-acne-spot-corrector-gel-with-2-salicylic-acid-for-acne-original-imahpassg3yz6esp.jpeg?q=90",
@@ -65389,6 +66726,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65471,7 +66809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/a/3/1/15-fast-acne-spot-gel-with-niacinamide-salicylic-acid-for-clear-original-imahpas4sdmhugsg.jpeg?q=90",
@@ -65498,6 +66837,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65580,7 +66920,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/p/m/15-salicylic-acid-acne-spot-corrector-for-oily-skin-breakout-original-imahparttgyh4ynh.jpeg?q=90",
@@ -65609,6 +66950,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65691,7 +67033,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/f/s/15-acne-spot-treatment-with-2-bha-for-smooth-healthy-looking-original-imahparz4fhu6gsz.jpeg?q=90",
@@ -65718,6 +67061,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65800,7 +67144,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/q/l/d/15-pimple-spot-gel-with-salicylic-acid-for-acne-spot-redness-original-imahpasmsnpaagzj.jpeg?q=90",
@@ -65828,6 +67173,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -65910,7 +67256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/l/c/o/15-salicylic-acid-acne-treatment-gel-with-sulfur-for-oil-control-original-imahpathzskwemap.jpeg?q=90",
@@ -65938,6 +67285,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66020,7 +67368,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/j/n/15-acne-spot-treatment-gel-with-salicylic-acid-for-acne-marks-original-imahpas4wfpkghey.jpeg?q=90",
@@ -66048,6 +67397,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66129,7 +67479,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Nature's Boon Ayurvedic Pharmacy (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.8★ from 8,216 ratings"
+   "buyerEvidence": "3.8★ from 8,216 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/v/x/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmahaxzxkutb.jpeg?q=90",
@@ -66153,6 +67504,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66235,7 +67587,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/7/c/15-acne-control-gel-with-niacinamide-for-smooth-looking-skin-original-imahparppgkq6dar.jpeg?q=90",
@@ -66262,6 +67615,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66343,7 +67697,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Anaika Industry (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4★ from 244 ratings"
+   "buyerEvidence": "4★ from 244 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/h/50-kojic-acid-dark-spot-corrector-cream-for-pigmentation-skin-original-imahjyhxxcdyxkw9.jpeg?q=90",
@@ -66364,6 +67719,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66446,7 +67802,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 22 ratings"
+   "buyerEvidence": "4.3★ from 22 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/v/i/40-sebalex-acne-creamish-sebum-regulator-gel-yuderma-gel-original-imahq5sgtx6hyf5z.jpeg?q=90",
@@ -66469,6 +67826,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66551,7 +67909,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/8/c/15-salicylic-acid-acne-corrector-gel-with-azelaic-acid-for-spot-original-imahparfajaxtxej.jpeg?q=90",
@@ -66579,6 +67938,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66661,7 +68021,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/s/d/15-acne-spot-treatment-gel-with-pore-refining-bha-formula-original-imahparxjwfn4qjg.jpeg?q=90",
@@ -66688,6 +68049,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66770,7 +68132,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/z/m/15-acne-spot-treatment-gel-with-salicylic-acid-for-oily-acne-original-imahparsys626btt.jpeg?q=90",
@@ -66799,6 +68162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66881,7 +68245,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/m/f/15-blemish-control-gel-with-2-salicylic-acid-azelaic-acid-original-imahparsjhjbadzk.jpeg?q=90",
@@ -66909,6 +68274,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -66991,7 +68357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/4/15-pimple-spot-corrector-with-sulfur-salicylic-acid-azelaic-acid-original-imahpatzege3mgfq.jpeg?q=90",
@@ -67020,6 +68387,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67102,7 +68470,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/z/5/9/15-acne-spot-gel-for-blackheads-whiteheads-pore-purifying-care-original-imahpas8qhydjhmd.jpeg?q=90",
@@ -67129,6 +68498,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67211,7 +68581,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/4/e/e/15-acne-spot-corrector-gel-for-oily-skin-breakout-control-original-imahpat8cwrzknjn.jpeg?q=90",
@@ -67240,6 +68611,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67322,7 +68694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/1/z/m/15-blemish-corrector-gel-with-salicylic-acid-acne-spot-treatment-original-imahpas382th3y5h.jpeg?q=90",
@@ -67351,6 +68724,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67433,7 +68807,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/o/4/15-acne-treatment-gel-with-bha-for-blackheads-whitehead-removal-original-imahpasyszyxxvfk.jpeg?q=90",
@@ -67461,6 +68836,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67543,7 +68919,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/n/o/f/15-acne-spot-corrector-with-salicylic-acid-for-breakouts-redness-original-imahpasewzg5ufrf.jpeg?q=90",
@@ -67572,6 +68949,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67654,7 +69032,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/s/3/15-anti-acne-gel-with-salicylic-acid-niacinamide-sulfur-spot-original-imahpas3ztkjebgd.jpeg?q=90",
@@ -67681,6 +69060,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67763,7 +69143,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -67790,6 +69171,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67872,7 +69254,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/g/w/15-acne-spot-corrector-gel-2-bha-salicylic-acid-acne-scar-pimple-original-imahzyhfhrue3cgt.jpeg?q=90",
@@ -67900,6 +69283,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -67982,7 +69366,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/j/j/15-salicylic-acid-acne-treatment-gel-for-pimples-pores-oil-original-imahparcvnphenjs.jpeg?q=90",
@@ -68010,6 +69395,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68092,7 +69478,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/t/a/y/15-salicylic-acid-acne-spot-gel-for-oily-acne-prone-skin-original-imahparvtzhutfhk.jpeg?q=90",
@@ -68121,6 +69508,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68203,7 +69591,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/c/v/15-professional-acne-spot-gel-with-2-salicylic-acid-for-acne-original-imahpatwnkhxnbex.jpeg?q=90",
@@ -68231,6 +69620,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68313,7 +69703,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/i/c/15-acne-control-gel-with-salicylic-acid-for-clear-pore-care-original-imahparzu46yp9ys.jpeg?q=90",
@@ -68340,6 +69731,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68422,7 +69814,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/f/o/15-2-bha-acne-treatment-gel-for-pimples-oil-control-clearer-skin-original-imahpark44a3epky.jpeg?q=90",
@@ -68450,6 +69843,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68529,7 +69923,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Quench Botanics — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 51 ratings"
+   "buyerEvidence": "4.1★ from 51 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/b/e/c/10-matcha-tea-clarifying-acne-patches-sheet-mask-quench-enriched-transparent-original-imah82n2yqfcyhxg.png?q=90",
@@ -68556,6 +69951,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -68636,7 +70032,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 2,342 ratings"
+   "buyerEvidence": "3.9★ from 2,342 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/o/8/60-dark-spot-corrector-for-face-yes-glow-original-imahcebgwkp8tzx5.jpeg?q=90",
@@ -68658,6 +70055,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:flipkart",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -68741,7 +70139,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/i/b/30-scar-acne-remover-cream-fades-scars-acne-marks-stretch-marks-original-imahnsfjwazchaju.jpeg?q=90",
@@ -68784,6 +70183,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68809,6 +70209,128 @@ const NXPRODUCTS = [
    "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
    "declarationConfidence": null,
    "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "jaquline-usa-itm062b04decabf8",
+  "brand": "JAQULINE USA",
+  "model": "Acne Relief Patch with Cica for Pimples",
+  "price": 200,
+  "capacityLine": "25 g",
+  "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
+  "featureLine": "Pimple patch · Paraben-free · ₹800/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹800/100g",
+   "format": "Pimple patch",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), Glycolic acid, Hyaluronic acid, Centella / cica, Hydrocolloid (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Exfoliating, Water / sweat resistant, Scars / marks, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Oily skin, All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Cica, Salicylic Acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/o/b/25-acne-relief-patch-with-cica-for-pimples-jaquline-usa-original-imahmrj8jxhuscyr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/4/m/25-acne-relief-patch-with-cica-for-pimples-jaquline-usa-original-imahmrj8yhhxh8yf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/r/f/25-acne-relief-patch-with-cica-for-pimples-jaquline-usa-original-imahmrj8fggqqag5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/p/j/25-acne-relief-patch-with-cica-for-pimples-jaquline-usa-original-imahmrj84ggajbmz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/w/x/25-acne-relief-patch-with-cica-for-pimples-jaquline-usa-original-imahmrj8backnkfr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/jaquline-usa-acne-relief-patch-cica-pimples/p/itm062b04decabf8",
+  "buyStore": "Flipkart",
+  "title": "JAQULINE USA Acne Relief Patch with Cica for Pimples",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:patch",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:hyaluronic-acid",
+   "ing:centella-cica",
+   "ing:hydrocolloid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:exfoliating",
+   "claim:water-resistant",
+   "claim:scars",
+   "claim:overnight",
+   "skin:oily",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cica, Salicylic Acid",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
    "actives": [],
    "support": [],
    "formulaNotes": [],
@@ -68864,7 +70386,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61O+IsddTrL._AC_UL320_.jpg"
@@ -68889,6 +70412,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -68969,7 +70493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71JpPX3YhAL._AC_UL320_.jpg"
@@ -68993,6 +70518,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69073,7 +70599,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -69095,6 +70622,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69175,7 +70703,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.7★ from 0 ratings"
+   "buyerEvidence": "2.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NGgls0-6L._AC_UL320_.jpg"
@@ -69196,6 +70725,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69276,7 +70806,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 0 ratings"
+   "buyerEvidence": "4.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512YJ7quoiL._AC_UL320_.jpg"
@@ -69301,6 +70832,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69382,7 +70914,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -69403,6 +70936,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69484,7 +71018,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -69506,6 +71041,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69586,7 +71122,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61p+1+md+8L._AC_UL320_.jpg"
@@ -69605,6 +71142,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69685,7 +71223,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kDH2zYyIL._AC_UL320_.jpg"
@@ -69704,6 +71243,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69784,7 +71324,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vKbU3n8sL._AC_UL320_.jpg"
@@ -69813,6 +71354,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69893,7 +71435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61YAK894sQL._AC_UL320_.jpg"
@@ -69914,6 +71457,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -69995,7 +71539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vk1EHQkOL._AC_UL320_.jpg"
@@ -70014,6 +71559,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70094,7 +71640,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -70119,6 +71666,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70199,7 +71747,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -70225,6 +71774,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70307,7 +71857,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#1 on list, strong evidence); niacinamide (#4 on list, strong evidence); melaleuca alternifolia leaf oil (#6 on list, moderate evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #1 on INCI, niacinamide #4 on INCI, melaleuca alternifolia leaf oil #6 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #5 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/7192j3tiHAL._SL1500_.jpg",
@@ -70343,6 +71894,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -70374,6 +71928,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -70381,6 +71936,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -70388,6 +71944,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -70395,6 +71952,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -70402,6 +71960,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "teaTree"
     }
    ],
@@ -70472,7 +72031,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512ItiLalJL._SL1000_.jpg",
@@ -70499,6 +72059,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70579,7 +72140,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71RnHZaFtOL._SL1500_.jpg",
@@ -70613,6 +72175,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70693,7 +72256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71YhOxG3GlL._SL1500_.jpg",
@@ -70723,6 +72287,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70803,7 +72368,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -70828,6 +72394,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -70908,7 +72475,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717ZXOYLPhL._SL1500_.jpg",
@@ -70941,6 +72509,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71021,7 +72590,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61uuJqaLOpL._SL1254_.jpg",
@@ -71047,6 +72617,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71127,7 +72698,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ln58nStrL._SL1000_.jpg",
@@ -71156,6 +72728,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71236,7 +72809,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6147K2PxGdL._SL1024_.jpg",
@@ -71259,6 +72833,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71339,7 +72914,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71ClNazJnoL._SL1500_.jpg",
@@ -71370,6 +72946,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71450,7 +73027,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61R2YgVDUaL._SL1500_.jpg",
@@ -71472,6 +73050,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71553,7 +73132,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41jH2qJml1L._SL1024_.jpg",
@@ -71582,6 +73162,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71663,7 +73244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513jR2HL9ML._SL1500_.jpg",
@@ -71689,6 +73271,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71770,7 +73353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CmmNtP4DL._SL1024_.jpg",
@@ -71801,6 +73385,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71882,7 +73467,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6177A+NI46L._SL1500_.jpg",
@@ -71907,6 +73493,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -71987,7 +73574,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1.5★ from 0 ratings"
+   "buyerEvidence": "1.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51pnocxAJZL._SL1500_.jpg",
@@ -72010,6 +73598,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72091,7 +73680,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JVQp7DIUL._SL1254_.jpg"
@@ -72117,6 +73707,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72198,7 +73789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513jR2HL9ML._SL1500_.jpg",
@@ -72224,6 +73816,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72305,7 +73898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71TdrRiTaRL._SL1500_.jpg",
@@ -72333,6 +73927,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72414,7 +74009,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gdSSwk4KL._SL1350_.jpg",
@@ -72439,6 +74035,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72520,7 +74117,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6147K2PxGdL._SL1024_.jpg",
@@ -72542,6 +74140,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72622,7 +74221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
+   "buyerEvidence": "3.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HXSf-vlQL._SL1500_.jpg",
@@ -72651,6 +74251,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72731,7 +74332,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612yqp6zJyL._SL1500_.jpg",
@@ -72761,6 +74363,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72841,7 +74444,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Qz+ooREgL._SL1500_.jpg",
@@ -72870,6 +74474,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -72950,7 +74555,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61XqqmfnusL._SL1500_.jpg",
@@ -72978,6 +74584,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73058,7 +74665,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71iLLXfPAhL._SL1500_.jpg",
@@ -73091,6 +74699,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73171,7 +74780,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518eNlMbOvL._SL1000_.jpg",
@@ -73197,6 +74807,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73277,7 +74888,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Z5mhqYu7L._SL1500_.jpg",
@@ -73299,6 +74911,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73378,7 +74991,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/3118-RGkXoL.jpg",
@@ -73405,6 +75019,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73485,7 +75100,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71E2VDLKVEL._SL1500_.jpg",
@@ -73507,6 +75123,7 @@ const NXPRODUCTS = [
    "aud:kids",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73589,7 +75206,8 @@ const NXPRODUCTS = [
    "evidenceActives": "benzoyl peroxide (#7 on list, strong evidence); niacinamide (#8 on list, strong evidence); zinc pca (#10 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type, benzoyl peroxide #7 on INCI, niacinamide #8 on INCI, zinc pca #10 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WJK8Y8GfL._SL1080_.jpg",
@@ -73614,6 +75232,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -73647,6 +75267,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -73654,6 +75275,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -73661,6 +75283,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -73668,6 +75291,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -73675,6 +75299,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -73736,7 +75361,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GQfODJwHL._SL1500_.jpg",
@@ -73762,6 +75388,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73841,7 +75468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617HhrO2A-L._SL1200_.jpg",
@@ -73872,6 +75500,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -73952,7 +75581,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.5★ from 0 ratings"
+   "buyerEvidence": "2.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wPyxKn6KL._SL1024_.jpg",
@@ -73980,6 +75610,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74060,7 +75691,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IbXrYS-6L._SL1500_.jpg"
@@ -74083,6 +75715,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74164,7 +75797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61PhSIG4tcL._SL1190_.jpg",
@@ -74188,6 +75822,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74269,7 +75904,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zgO4mqKdL._SL1080_.jpg",
@@ -74295,6 +75931,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74375,7 +76012,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51U7giqTxrL._SL1500_.jpg",
@@ -74401,6 +76039,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74482,7 +76121,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mYk-YvhLL._SL1500_.jpg",
@@ -74513,6 +76153,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74593,7 +76234,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51l1XL1Q0eL._SL1500_.jpg",
@@ -74630,6 +76272,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74710,7 +76353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61d3ojyggRL._SL1254_.jpg",
@@ -74745,6 +76389,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74825,7 +76470,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71RvsKGY4KL._SL1500_.jpg"
@@ -74844,6 +76490,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -74924,7 +76571,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bsvkbOWtL._SL1500_.jpg"
@@ -74959,6 +76607,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75039,7 +76688,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Ft9BX-0bL._SL1500_.jpg",
@@ -75065,6 +76715,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75145,7 +76796,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CiXiizCeL._SL1024_.jpg",
@@ -75173,6 +76825,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75254,7 +76907,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41aLPNBl1JL._SL1000_.jpg",
@@ -75279,6 +76933,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75360,7 +77015,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41B535f9sJL._SL1080_.jpg",
@@ -75392,6 +77048,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75471,7 +77128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71xYQHqkiZL._SL1500_.jpg",
@@ -75505,6 +77163,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75585,7 +77244,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CZNEOn1PL._SL1500_.jpg",
@@ -75613,6 +77273,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75692,7 +77353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71PRKZpRtbL._SL1500_.jpg",
@@ -75718,6 +77380,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75798,7 +77461,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71qT-q5sM4L._SL1500_.jpg",
@@ -75833,6 +77497,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -75913,7 +77578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61s2KETU4kL._SL1500_.jpg"
@@ -75940,6 +77606,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76020,7 +77687,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/418U1ijTKUL._SL1000_.jpg",
@@ -76051,6 +77719,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76131,7 +77800,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-X23bfPpL._SL1500_.jpg",
@@ -76152,6 +77822,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76232,7 +77903,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51oEnoAHd3L._SL1080_.jpg",
@@ -76256,6 +77928,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76337,7 +78010,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ekH5bX-AL._SL1200_.jpg"
@@ -76372,6 +78046,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76453,7 +78128,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hAGN5ohLL._SL1080_.jpg",
@@ -76486,6 +78162,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76566,7 +78243,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aol1zfIVL._SL1500_.jpg",
@@ -76595,6 +78273,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76675,7 +78354,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615MqGjMINL._SL1500_.jpg",
@@ -76706,6 +78386,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76786,7 +78467,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cu1PVrVwL._SL1500_.jpg",
@@ -76812,6 +78494,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76892,7 +78575,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Es3qmGicL._SL1000_.jpg",
@@ -76917,6 +78601,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -76998,7 +78683,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710Up8TsJLL._SL1500_.jpg",
@@ -77023,6 +78709,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77103,7 +78790,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RMaujVK6L._SL1000_.jpg"
@@ -77125,6 +78813,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77205,7 +78894,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71078eUqv-L._SL1500_.jpg",
@@ -77243,6 +78933,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77324,7 +79015,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sMoqwB71L._SL1350_.jpg"
@@ -77352,6 +79044,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77433,7 +79126,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hDjv64eoL._SL1254_.jpg",
@@ -77457,6 +79151,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77537,7 +79232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41WQgcYAnwL.jpg",
@@ -77556,6 +79252,7 @@ const NXPRODUCTS = [
    "aud:kids",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77636,7 +79333,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.8★ from 0 ratings"
+   "buyerEvidence": "2.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XBACQL0cL._SL1000_.jpg",
@@ -77662,6 +79360,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77743,7 +79442,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HgOk1KSDL._SL1092_.jpg",
@@ -77770,6 +79470,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77850,7 +79551,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61W-xbat1NL._SL1500_.jpg"
@@ -77882,6 +79584,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -77961,7 +79664,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GwUxcIb8L._SL1500_.jpg",
@@ -77991,6 +79695,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -78071,7 +79776,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-qw+wvbkL._SL1500_.jpg",
@@ -78108,6 +79814,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -78145,6 +79852,247 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "divah-s-b0fy65myf3",
+  "brand": "Divah's",
+  "model": "Cica Glow Spot Corrector Serum for Dark Spots Pigmentation Acne Marks Blemish Removal Skin…",
+  "price": 299,
+  "capacityLine": "15 ml",
+  "materialLine": "Centella / cica",
+  "featureLine": "Serum · ₹1993/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1993/100ml",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Oil control / matte / non-greasy, Barrier repair, Soothing / calming, Lightweight / fast-absorbing, Korean / K-beauty, Scars / marks, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Acne-prone, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51tw6+U6QBL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61fA-q6c03L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/618L+g6nwQL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61-hRejMl+L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61gs-GKSNsL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FY65MYF3",
+  "buyStore": "Amazon",
+  "title": "Divah’s Cica Glow Spot Corrector Serum for Dark Spots Pigmentation Acne Marks Blemish Removal Skin Brightening Face Glow Centella Asiatica Korean Glass Skin for Women and Men 15ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:scars",
+   "claim:makeup",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:acne-prone",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "hlreem-b0djcydkw5",
+  "brand": "Hlreem",
+  "model": "Anti-Pigmentation Serum 30ml with 2% Alpha Arbutin & Ceramide | Kakadu Plum | Blemish & Da…",
+  "price": 499,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Ceramides + Alpha arbutin",
+  "featureLine": "Serum · ₹1663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1663/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Vitamin C, Ceramides, Alpha arbutin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Dark circles / puffiness, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Combination skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71vBVz6ItNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Frnf6dj5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61dW5F1tnxL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61DT2l7ZlAL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Se8rk2QgL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJCYDKW5",
+  "buyStore": "Amazon",
+  "title": "Anti-Pigmentation Serum 30ml with 2% Alpha Arbutin & Ceramide | Kakadu Plum | Blemish & Dark Spot Treatment | Brightening, Hydrating, Anti-Aging | Essence of Canada",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "format:oil",
+   "ing:vitamin-c",
+   "ing:ceramides",
+   "ing:alpha-arbutin",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -78188,7 +80136,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sL8YFTw9L._AC_UL320_.jpg"
@@ -78215,6 +80164,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78295,7 +80245,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Jww05R8AL._AC_UL320_.jpg"
@@ -78324,6 +80275,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78404,7 +80356,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71NB89NLufL._AC_UL320_.jpg"
@@ -78431,6 +80384,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78510,7 +80464,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616fFli9TVL._AC_UL320_.jpg"
@@ -78532,6 +80487,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78612,7 +80568,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); salicylic acid (#6 on list, strong evidence); azelaic acid (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, salicylic acid #6 on INCI, azelaic acid #7 on INCI; Dark spots — niacinamide #4 on INCI, azelaic acid #7 on INCI; Irritation — azelaic acid #7 on INCI, bisabolol #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jiCdIr5uL._AC_UL320_.jpg"
@@ -78642,6 +80599,9 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -78674,6 +80634,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -78681,6 +80642,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -78688,6 +80650,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -78695,6 +80658,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -78702,6 +80666,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -78762,7 +80727,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ICeMfd9nL._AC_UL320_.jpg"
@@ -78784,6 +80750,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78864,7 +80831,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -78896,6 +80864,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -78976,7 +80945,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41rI13GFbpL._AC_UL320_.jpg"
@@ -79003,6 +80973,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79084,7 +81055,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tWCoFI4gL._AC_UL320_.jpg"
@@ -79110,6 +81082,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79191,7 +81164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -79214,6 +81188,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79294,7 +81269,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71jGO-gwaBL._AC_UL320_.jpg"
@@ -79320,6 +81296,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79401,7 +81378,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -79424,6 +81402,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79505,7 +81484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -79527,6 +81507,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79608,7 +81589,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -79631,6 +81613,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79711,7 +81694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81nh-la9KYL._AC_UL320_.jpg"
@@ -79733,6 +81717,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79813,7 +81798,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZOidYotlL._AC_UL320_.jpg"
@@ -79832,6 +81818,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -79912,7 +81899,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hd1UtiQoL._SL1000_.jpg",
@@ -79941,6 +81929,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80021,7 +82010,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lRv7g0gjL._SL1500_.jpg",
@@ -80044,6 +82034,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80124,7 +82115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41wXqovMw+L._SL1100_.jpg",
@@ -80157,6 +82149,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80238,7 +82231,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u-YaoLuKL._SL1500_.jpg",
@@ -80260,6 +82254,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial",
    "inci:pharma-maker"
   ],
@@ -80340,7 +82335,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oaj+5xNGL._SL1500_.jpg",
@@ -80362,6 +82358,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80442,7 +82439,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516G14A1O-L._SL1254_.jpg",
@@ -80482,6 +82480,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80562,7 +82561,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71evAYbhmjL._SL1500_.jpg",
@@ -80592,6 +82592,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -80672,7 +82673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+L16jiV-L._SL1500_.jpg",
@@ -80703,6 +82705,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -80783,7 +82786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51O5YPWzPFL._SL1500_.jpg",
@@ -80813,6 +82817,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -80894,7 +82899,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MTBN1p8eL._SL1500_.jpg",
@@ -80920,6 +82926,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81001,7 +83008,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615340BdFNL._SL1500_.jpg",
@@ -81025,6 +83033,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81106,7 +83115,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+Uw5FJi3L._SL1498_.jpg",
@@ -81133,6 +83143,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81213,7 +83224,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fsT52UvBL._SL1040_.jpg",
@@ -81241,6 +83253,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81322,7 +83335,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+l9ibaUoL._SL1280_.jpg",
@@ -81355,6 +83369,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81436,7 +83451,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WUpISGX5L._SL1254_.jpg",
@@ -81460,6 +83476,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81540,7 +83557,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51SiOtlDyYL._SL1500_.jpg",
@@ -81574,6 +83592,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81654,7 +83673,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51p-adY-HuL._SL1080_.jpg",
@@ -81683,6 +83703,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81763,7 +83784,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61SBbB8mnoL.jpg",
@@ -81788,6 +83810,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81869,7 +83892,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TsIk9Cr-L._SL1254_.jpg",
@@ -81896,6 +83920,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -81976,7 +84001,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l-cLFlpML._SL1500_.jpg",
@@ -82005,6 +84031,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82085,7 +84112,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kFqKDNFSL._SL1500_.jpg",
@@ -82118,6 +84146,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82199,7 +84228,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pGd1VU0WL._SL1500_.jpg",
@@ -82225,6 +84255,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82305,7 +84336,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XBACQL0cL._SL1000_.jpg",
@@ -82332,6 +84364,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82412,7 +84445,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Z7UVRZ1NL._SL1500_.jpg",
@@ -82436,6 +84470,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82516,7 +84551,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RtvEocYzL._SL1500_.jpg",
@@ -82542,6 +84578,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82622,7 +84659,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Nrei3C64L._SL1500_.jpg",
@@ -82654,6 +84692,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82733,7 +84772,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico (Plix) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41wDnDZ5qLL._SL1080_.jpg",
@@ -82758,6 +84798,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82839,7 +84880,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51TrxzBukPL._SL1080_.jpg",
@@ -82861,6 +84903,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -82941,7 +84984,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61doR3ManuL._SL1080_.jpg",
@@ -82973,6 +85017,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83053,7 +85098,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Mhg6jn+gL._SL1254_.jpg",
@@ -83088,6 +85134,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83168,7 +85215,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FCb9KJTML._SL1500_.jpg",
@@ -83201,6 +85249,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83282,7 +85331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -83308,6 +85358,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83389,7 +85440,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -83416,6 +85468,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83496,7 +85549,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bfaoro+1L._SL1500_.jpg",
@@ -83522,6 +85576,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83603,7 +85658,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tcB1up9zL._SL1500_.jpg"
@@ -83630,6 +85686,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83711,7 +85768,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81DziR6dsYL._SL1500_.jpg",
@@ -83742,6 +85800,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83822,7 +85881,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51q3b3kv8UL._SL1200_.jpg",
@@ -83857,6 +85917,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -83938,7 +85999,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71S4ZFLq2YL._SL1500_.jpg",
@@ -83966,6 +86028,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84046,7 +86109,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FCjv8VxRL._SL1500_.jpg",
@@ -84082,6 +86146,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84162,7 +86227,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51fXV9SOzbL._SL1200_.jpg",
@@ -84195,6 +86261,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84275,7 +86342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IGuYYTexL._SL1000_.jpg",
@@ -84303,6 +86371,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84383,7 +86452,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61B8jtkShYL._SL1500_.jpg",
@@ -84408,6 +86478,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84488,7 +86559,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rXkJa-wfL._SL1500_.jpg",
@@ -84514,6 +86586,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84594,7 +86667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/91pJQ1cwz0L._SL1500_.jpg",
@@ -84617,6 +86691,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84698,7 +86773,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41PbufSRDJL._SL1080_.jpg",
@@ -84722,6 +86798,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84802,7 +86879,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.5★ from 0 ratings"
+   "buyerEvidence": "2.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iFTt1GYyL._SL1500_.jpg",
@@ -84835,6 +86913,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -84915,7 +86994,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51yCsC1NzrL._SL1500_.jpg",
@@ -84937,6 +87017,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85017,7 +87098,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61YekiWoshL._SL1500_.jpg",
@@ -85038,6 +87120,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85118,7 +87201,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71bP4NlQUSL._SL1500_.jpg",
@@ -85147,6 +87231,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85228,7 +87313,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J40aArBXL._SL1000_.jpg",
@@ -85255,6 +87341,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85336,7 +87423,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -85361,6 +87449,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85442,7 +87531,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -85469,6 +87559,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85549,7 +87640,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61rilJRq2qL._SL1500_.jpg",
@@ -85584,6 +87676,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85664,7 +87757,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516I+SrqX+L.jpg",
@@ -85685,6 +87779,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85766,7 +87861,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qDVDa+3WL.jpg",
@@ -85793,6 +87889,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85873,7 +87970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ik86tsb2L._SL1024_.jpg",
@@ -85903,6 +88001,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -85984,7 +88083,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lUlLbE4YL._SL1254_.jpg",
@@ -86014,6 +88114,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86095,7 +88196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aKZYOs4xL._SL1000_.jpg",
@@ -86121,6 +88223,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86202,7 +88305,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nt0-ubkZL._SL1500_.jpg",
@@ -86231,6 +88335,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86311,7 +88416,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71hWAP+miuL._SL1500_.jpg",
@@ -86334,6 +88440,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86416,7 +88523,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71KMu3NVDmL._SL1500_.jpg",
@@ -86442,6 +88550,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86522,7 +88631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5143yNXeICL._SL1100_.jpg",
@@ -86553,6 +88663,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86633,7 +88744,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61PKt91zr1L._SL1500_.jpg",
@@ -86669,6 +88781,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86749,7 +88862,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51MWslLLGOL._SL1500_.jpg",
@@ -86782,6 +88896,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86862,7 +88977,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AGZfle+bL._SL1000_.jpg",
@@ -86889,6 +89005,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -86969,7 +89086,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71bE5lCygqL._SL1500_.jpg",
@@ -86991,6 +89109,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87072,7 +89191,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -87097,6 +89217,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87178,7 +89299,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -87204,6 +89326,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87285,7 +89408,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611+SUDGLgL._SL1500_.jpg",
@@ -87320,6 +89444,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87401,7 +89526,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cwHduqF3L._SL1500_.jpg",
@@ -87433,6 +89559,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87514,7 +89641,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71WlXRV2lNL._SL1500_.jpg",
@@ -87541,6 +89669,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87621,7 +89750,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ee65HugLL._SL1263_.jpg",
@@ -87647,6 +89777,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87727,7 +89858,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71EC8itZ9UL._SL1500_.jpg",
@@ -87751,6 +89883,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87831,7 +89964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dPyZvqtDL._SL1500_.jpg",
@@ -87869,6 +90003,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -87949,7 +90084,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31WAnfrdQUL.jpg",
@@ -87973,6 +90109,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -88010,6 +90147,345 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hiper-skin-b0f9yn4p9j",
+  "brand": "HiPer Skin",
+  "model": "HiPer Succinic Zit Fix Acne Spot Corrector Gel (10 mL) for Pimple Reduction | Controls Oil…",
+  "price": 299,
+  "capacityLine": "10 ml",
+  "materialLine": "Salicylic acid (BHA) + Ceramides + Sulfur",
+  "featureLine": "Oil · ₹2990/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹2990/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Ceramides, Sulfur (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Acne-prone",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31W0EqYKYuL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F9YN4P9J",
+  "buyStore": "Amazon",
+  "title": "HiPer Succinic Zit Fix Acne Spot Corrector Gel (10 mL) for Pimple Reduction | Controls Oil, Non Drying/Tingling & Soothes Inflammation | Advanced 5-Active Action with Salicylic Acid, Sulphur, Ceramides, Succinic Acid & Postbiotics (10ml)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:oil",
+   "ing:salicylic-acid-bha",
+   "ing:ceramides",
+   "ing:sulfur",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "skin:acne-prone",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hlreem-b0djcxln5d",
+  "brand": "Hlreem",
+  "model": "Anti-Aging Serum 30ml with 1% Retinol, Ceramide & Centella | Anti-Wrinkle, Fine Line & Dar…",
+  "price": 499,
+  "capacityLine": "30 ml",
+  "materialLine": "Retinol + Ceramides + Centella / cica",
+  "featureLine": "Serum · ₹1663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1663/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol, Ceramides, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BHNfQ4TPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71VkODlYhsL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Tma3Pq4PL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61i+WAnm2AL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61M-hMQOqEL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJCXLN5D",
+  "buyStore": "Amazon",
+  "title": "Anti-Aging Serum 30ml with 1% Retinol, Ceramide & Centella | Anti-Wrinkle, Fine Line & Dark Spot Treatment | Brightening & Radiant Skin | Essence of Canada",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "ing:retinol",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "bie-beauty-in-everything-b0g1tk2tsg",
+  "brand": "BiE (BEAUTY IN EVERYTHING)",
+  "model": "BiE Zero Dark Spot Corrector & Anti-Pigmentation Serum For Radiant Glow | With Chromabrigh…",
+  "price": 1665,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Centella / cica + Sea buckthorn",
+  "featureLine": "Serum · ₹5550/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5550/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Centella / cica, Sea buckthorn (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Lightweight / fast-absorbing, Scars / marks, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51v0Z4uTcFL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/51HV01-zyeL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61e2-+1H2sL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/612yNf5EYAL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71NDb4r4P+L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1TK2TSG",
+  "buyStore": "Amazon",
+  "title": "BiE Zero Dark Spot Corrector & Anti-Pigmentation Serum For Radiant Glow | With Chromabright® & Centella Asiatica | Treats Dark Spots, Melasma & Hyperpigmentation | Improves Skin Tone & Brightens | 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "ing:sea-buckthorn",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:lightweight",
+   "claim:scars",
+   "claim:cooling",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
   }
  },
  {
@@ -88053,7 +90529,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.9★ from 0 ratings"
+   "buyerEvidence": "2.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513ZryYAiwL._AC_UL320_.jpg"
@@ -88073,6 +90550,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88153,7 +90631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61EGr+sp8jL._AC_UL320_.jpg"
@@ -88174,6 +90653,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88255,7 +90735,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61EBb-Z5AIL._AC_UL320_.jpg"
@@ -88277,6 +90758,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial",
    "inci:pharma-maker"
   ],
@@ -88358,7 +90840,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HX5LZ2SzL._AC_UL320_.jpg"
@@ -88384,6 +90867,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88464,7 +90948,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WWN7p79gL._AC_UL320_.jpg"
@@ -88491,6 +90976,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88571,7 +91057,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.1★ from 0 ratings"
+   "buyerEvidence": "3.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41EcdNV2eeL._AC_UL320_.jpg"
@@ -88592,6 +91079,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88672,7 +91160,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ip7W7nqDL._AC_UL320_.jpg"
@@ -88691,6 +91180,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88772,7 +91262,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81OLUHJ7mcL._AC_UL320_.jpg"
@@ -88799,6 +91290,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88880,7 +91372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -88901,6 +91394,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -88982,7 +91476,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89003,6 +91498,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89083,7 +91579,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WlYLzg6EL._AC_UL320_.jpg"
@@ -89108,6 +91605,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89188,7 +91686,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51QfnjNLYNL._AC_UL320_.jpg"
@@ -89211,6 +91710,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89291,7 +91791,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61q002uYpTL._AC_UL320_.jpg"
@@ -89324,6 +91825,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89405,7 +91907,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89426,6 +91929,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89507,7 +92011,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89529,6 +92034,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89610,7 +92116,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89632,6 +92139,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89713,7 +92221,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89736,6 +92245,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89817,7 +92327,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -89839,6 +92350,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -89918,7 +92430,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51nrxJME2mL._AC_UL320_.jpg"
@@ -89945,6 +92458,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90025,7 +92539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61MtfWJnKuL._AC_UL320_.jpg"
@@ -90050,6 +92565,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90130,7 +92646,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71SuyX67ymL._AC_UL320_.jpg"
@@ -90157,6 +92674,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90237,7 +92755,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710Pvkla10L._SL1500_.jpg",
@@ -90263,6 +92782,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90343,7 +92863,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ld07lY7yL._SL1500_.jpg",
@@ -90382,6 +92903,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90462,7 +92984,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71LXl10lq3L._SL1500_.jpg",
@@ -90495,6 +93018,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90575,7 +93099,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ct23XvcRL._SL1080_.jpg",
@@ -90607,6 +93132,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90688,7 +93214,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); azelaic acid (#8 on list, strong evidence)",
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #8 on INCI; Dark spots — niacinamide #2 on INCI, kojic acid #3 on INCI, azelaic acid #8 on INCI; Irritation — azelaic acid #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513QXWca0CL._SL1200_.jpg",
@@ -90719,6 +93246,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -90750,6 +93280,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -90757,6 +93288,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -90764,6 +93296,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -90771,6 +93304,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -90778,6 +93312,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -90848,7 +93383,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61B1Xm03ReL._SL1000_.jpg",
@@ -90867,6 +93403,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -90947,7 +93484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -90973,6 +93511,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -91054,7 +93593,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Mankind Pharma (listed) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41S37CjblqL._SL1000_.jpg",
@@ -91084,6 +93624,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -91165,7 +93706,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.3★ from 0 ratings"
+   "buyerEvidence": "2.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41sCcQZdtCL._SL1500_.jpg",
@@ -91188,6 +93730,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91268,7 +93811,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+Uw5FJi3L._SL1498_.jpg",
@@ -91296,6 +93840,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91377,7 +93922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41jH2qJml1L._SL1024_.jpg",
@@ -91403,6 +93949,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91484,7 +94031,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51EHYowOxNL.jpg",
@@ -91516,6 +94064,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91597,7 +94146,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+2eFHoRXL._SL1280_.jpg",
@@ -91624,6 +94174,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91704,7 +94255,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lFbrnge-L._SL1500_.jpg",
@@ -91735,6 +94287,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91815,7 +94368,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lFbrnge-L._SL1500_.jpg",
@@ -91846,6 +94400,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -91926,7 +94481,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DwLbfqXoL._SL1254_.jpg",
@@ -91965,6 +94521,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92045,7 +94602,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Cq5BxLwlL._SL1500_.jpg",
@@ -92067,6 +94625,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92147,7 +94706,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61xLLsR2JmL._SL1500_.jpg",
@@ -92173,6 +94733,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92254,7 +94815,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515QZsD5L1L._SL1255_.jpg"
@@ -92272,6 +94834,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92353,7 +94916,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61S11FXZEaL._SL1500_.jpg",
@@ -92378,6 +94942,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92458,7 +95023,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5196zw2cKAL._SL1000_.jpg",
@@ -92482,6 +95048,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92562,7 +95129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717-qsacWZL._SL1500_.jpg",
@@ -92588,6 +95156,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -92670,7 +95239,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#3 on list, strong evidence); azelaic acid (#12 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #3 on INCI, azelaic acid #12 on INCI; Dark spots — azelaic acid #12 on INCI, glycyrrhiza glabra root extract #16 on INCI; Irritation — azelaic acid #12 on INCI, panthenol #20 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613WXCVqskL._SL1200_.jpg",
@@ -92702,6 +95272,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -92735,6 +95308,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -92742,6 +95316,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -92749,6 +95324,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -92756,6 +95332,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -92763,6 +95340,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -92825,7 +95403,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613eEFbjg+L._SL1200_.jpg",
@@ -92858,6 +95437,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -92939,7 +95519,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmUeshLFL._SL1500_.jpg",
@@ -92967,6 +95548,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93046,7 +95628,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71oXapWnt7L._SL1500_.jpg"
@@ -93081,6 +95664,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93161,7 +95745,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AmVKAw3KL._SL1080_.jpg",
@@ -93194,6 +95779,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93274,7 +95860,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qYXw4J8bL._SL1500_.jpg",
@@ -93296,6 +95883,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93377,7 +95965,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51shxXYExFL._SL1200_.jpg",
@@ -93409,6 +95998,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -93490,7 +96080,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gDOJr3klL._SL1500_.jpg",
@@ -93525,6 +96116,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93605,7 +96197,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/713R6K+KUmL._SL1500_.jpg",
@@ -93628,6 +96221,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93709,7 +96303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41LxaOYY01L.jpg",
@@ -93738,6 +96333,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93819,7 +96415,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -93844,6 +96441,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -93925,7 +96523,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -93951,6 +96550,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94031,7 +96631,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Fo-TUXyRL._SL1500_.jpg",
@@ -94052,6 +96653,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94132,7 +96734,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71RJq+37DgL._SL1500_.jpg"
@@ -94167,6 +96770,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94248,7 +96852,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jwu6oRiKL._SL1254_.jpg",
@@ -94278,6 +96883,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94358,7 +96964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71QCCBjX31L._SL1500_.jpg",
@@ -94387,6 +96994,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94424,123 +97032,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "dermistry-b0fj8lftgh",
-  "brand": "DERMISTRY",
-  "model": "2% Salicylic Acid 2% Zinc Face Serum & Oil Free Water Based Moisturizer Gel for Oil Contro…",
-  "price": 618,
-  "capacityLine": "80 ml",
-  "materialLine": "Salicylic acid (BHA) + Zinc",
-  "featureLine": "Serum · ₹773/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹773/100ml",
-   "format": "Serum",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Zinc (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Acne-prone, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51JbL5eFmAL._SL1020_.jpg",
-   "https://m.media-amazon.com/images/I/61P08DUqbVL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61JA7EO8RUL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71HJhTwXT5L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/611QP9G2pOL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ8LFTGH",
-  "buyStore": "Amazon",
-  "title": "Dermistry 2% Salicylic Acid 2% Zinc Face Serum & Oil Free Water Based Moisturizer Gel for Oil Control Pimples Acne Spots Clears Open Pores Dark Spots Scars Marks For Oily Acne Prone Skin 80ml",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:zinc",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:scars",
-   "skin:oily",
-   "skin:acne-prone",
-   "skin:all",
-   "free:oil-free",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -94583,7 +97074,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61sd3HnQ0fL._SL1500_.jpg"
@@ -94617,6 +97109,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94697,7 +97190,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QIdui3dXL._SL1080_.jpg",
@@ -94726,6 +97220,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94806,7 +97301,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tHlSNyCkL._SL1024_.jpg",
@@ -94837,6 +97333,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -94917,7 +97414,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mdvtHQrKL._SL1500_.jpg"
@@ -94941,6 +97439,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95022,7 +97521,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Esl7A7k7L._SL1344_.jpg",
@@ -95047,6 +97547,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95127,7 +97628,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FvQ1zATkL._SL1500_.jpg",
@@ -95161,6 +97663,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95241,7 +97744,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/710ebgjTsnL._SL1500_.jpg"
@@ -95267,6 +97771,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95349,7 +97854,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51qDwU2GriL._SL1080_.jpg",
@@ -95376,6 +97882,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95456,7 +97963,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71wwcl6kaQL._SL1254_.jpg",
@@ -95493,6 +98001,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95573,7 +98082,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61w+b8627ZL._SL1500_.jpg",
@@ -95597,6 +98107,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95678,7 +98189,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -95705,6 +98217,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95784,7 +98297,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Blossom Kochhar Aroma Magic — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51vv+heaYTL._SL1080_.jpg",
@@ -95816,6 +98330,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95895,7 +98410,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/712TVFpkiOL._SL1500_.jpg",
@@ -95914,6 +98430,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -95994,7 +98511,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61w+b8627ZL._SL1500_.jpg",
@@ -96018,6 +98536,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96098,7 +98617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616TtXBuh7L._SL1195_.jpg",
@@ -96121,6 +98641,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96201,7 +98722,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mM9n+hLJL._SL1500_.jpg",
@@ -96226,6 +98748,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96306,7 +98829,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vgr5arCFL._SL1500_.jpg",
@@ -96332,6 +98856,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96412,7 +98937,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618NqH37+qL._SL1500_.jpg"
@@ -96436,6 +98962,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96516,7 +99043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71hd9vPv-zL._SL1500_.jpg",
@@ -96554,6 +99082,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96634,7 +99163,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61E2nwDsGaL._SL1200_.jpg",
@@ -96662,6 +99192,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96742,7 +99273,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/713yH1zHl4L._SL1500_.jpg",
@@ -96771,6 +99303,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96852,7 +99385,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -96878,6 +99412,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -96958,7 +99493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mSd+KfhKL._SL1294_.jpg",
@@ -96991,6 +99527,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -97072,7 +99609,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -97098,6 +99636,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -97178,7 +99717,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d7uYz-MEL._SL1500_.jpg",
@@ -97207,6 +99747,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -97287,7 +99828,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h2mSFSPaL._SL1500_.jpg",
@@ -97316,6 +99858,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -97397,7 +99940,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61z6fJI4m7L._SL1500_.jpg",
@@ -97425,6 +99969,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -97463,6 +100008,561 @@ const NXPRODUCTS = [
     "url": "https://www.kenvue.com/our-brands"
    },
    "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "plix-the-plant-fix-b0cmdcl6yb",
+  "brand": "PLIX - THE PLANT FIX",
+  "model": "Acne Patch Transparent, Waterproof with 0.5% Salicylic Acid | Ultra-thin with 100% Hydroco…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Salicylic acid (BHA) + Hydrocolloid",
+  "featureLine": "Pimple patch",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Pimple patch",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Hydrocolloid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Soothing / calming, Water / sweat resistant, No white cast, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51joxC+a4QL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CMDCL6YB",
+  "buyStore": "Amazon",
+  "title": "PLIX - THE PLANT FIX Acne Patch Transparent, Waterproof with 0.5% Salicylic Acid | Ultra-thin with 100% Hydrocolloid | For Pimple Skin | 2 Sizes |36 patches",
+  "tags": [
+   "scope:unstated",
+   "format:patch",
+   "ing:salicylic-acid-bha",
+   "ing:hydrocolloid",
+   "claim:acne",
+   "claim:soothing",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:overnight",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "khadi-natural-herbal-b0974mq9j5",
+  "brand": "Khadi Natural Herbal",
+  "model": "Aloe Vera Gel for Face & Hair |Anti Acne & Anti Pigmentation, Anti Pimple Herbal Aloe vera…",
+  "price": 480,
+  "capacityLine": "360 g (pack of 2)",
+  "materialLine": "Aloe vera",
+  "featureLine": "Gel · ₹133/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "180 g × 2 pack",
+   "pricePer100": "₹133/100g",
+   "format": "Gel",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Aloe vera",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71YlemXA-QS._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0974MQ9J5",
+  "buyStore": "Amazon",
+  "title": "Khadi Natural Herbal Aloe Vera Gel for Face & Hair |Anti Acne & Anti Pigmentation, Anti Pimple Herbal Aloe vera Gel For Skin Moisturizing & Nourishing, Pack Of 2",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:pads",
+   "format:kit",
+   "ing:aloe-vera",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "skin:all",
+   "aud:kids",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloe vera",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Khadi Natural Healthcare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://khadinatural.com/"
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hlreem-b0djcxrs3r",
+  "brand": "Hlreem",
+  "model": "Anti-Aging Serum with 1% Retinol, Ceramide & Centella | 30ml | Essence of Canada | Anti-Wr…",
+  "price": 699,
+  "capacityLine": "30 ml",
+  "materialLine": "Retinol + Ceramides + Centella / cica",
+  "featureLine": "Serum · ₹2330/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2330/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Retinol, Ceramides, Centella / cica (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71ynR0vIMML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61oURxeT8wL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Tma3Pq4PL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61i+WAnm2AL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61M-hMQOqEL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJCXRS3R",
+  "buyStore": "Amazon",
+  "title": "Anti-Aging Serum with 1% Retinol, Ceramide & Centella | 30ml | Essence of Canada | Anti-Wrinkle, Brightening, Fine Line & Dark Spot Treatment | Radiant & Glowing Skin",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "ing:retinol",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hlreem-b0djcy33dq",
+  "brand": "Hlreem",
+  "model": "Pore & Sebum Control Serum 30ml | Niacinamide 10% + Zinc PCA 1% with Ceramide | Oil Contro…",
+  "price": 499,
+  "capacityLine": "30 ml",
+  "materialLine": "Niacinamide + Ceramides + Zinc",
+  "featureLine": "Serum · ₹1663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1663/100ml",
+   "format": "Serum",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Niacinamide, Ceramides, Zinc (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Lightweight / fast-absorbing, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Acne-prone, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71rUUnwZRWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71DYCyL64XL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/710WqmYrpCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61TCOmR5Q4L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/6129QaEqZsL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJCY33DQ",
+  "buyStore": "Amazon",
+  "title": "Pore & Sebum Control Serum 30ml | Niacinamide 10% + Zinc PCA 1% with Ceramide | Oil Control, Brightening & Acne Serum | Blackhead, Blemish & Dark Spot Treatment | Glowing Skin",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:zinc",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:scars",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "conscious-chemist-b0ftzf89z2",
+  "brand": "Conscious Chemist",
+  "model": "® Rapid Relief Acne Spot Corrector Gel 15g | 2% Salicylic Acid & Azelaic Acid Acne Spot Tr…",
+  "price": 569,
+  "capacityLine": "30 g (pack of 2)",
+  "materialLine": "Salicylic acid (BHA) + Azelaic acid",
+  "featureLine": "Gel · ₹1897/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "15 g × 2 pack",
+   "pricePer100": "₹1897/100g",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Salicylic acid (BHA), Azelaic acid (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Scars / marks, Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51mo6fgP07L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61wReY0nM0L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61w6DLXXNSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61d4qrSgKWL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61wWgJkbVBL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FTZF89Z2",
+  "buyStore": "Amazon",
+  "title": "Conscious Chemist® Rapid Relief Acne Spot Corrector Gel 15g | 2% Salicylic Acid & Azelaic Acid Acne Spot Treatment | Pimple Removal Gel for Active Acne, Redness & Dark Spots | Fast-Acting Spot Corrector for Men & Women | Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:azelaic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:scars",
+   "claim:makeup",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "3.7★ from 0 ratings"
   }
  },
  {
@@ -97506,7 +100606,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Citzam6LL._AC_UL320_.jpg"
@@ -97528,6 +100629,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -97608,7 +100710,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DriMKuAYL._AC_UL320_.jpg"
@@ -97632,6 +100735,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -97712,7 +100816,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/519L8vsghkL._AC_UL320_.jpg"
@@ -97740,6 +100845,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -97820,7 +100926,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TyK6e2FYL._AC_UL320_.jpg"
@@ -97848,6 +100955,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -97929,7 +101037,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41o3rASEoCL._AC_UL320_.jpg"
@@ -97951,6 +101060,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98032,7 +101142,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -98055,6 +101166,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98136,7 +101248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -98158,6 +101271,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98238,7 +101352,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l-cLFlpML._AC_UL320_.jpg"
@@ -98262,6 +101377,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98343,7 +101459,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -98366,6 +101483,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98446,7 +101564,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mmGlbK8gL._AC_UL320_.jpg"
@@ -98466,6 +101585,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98547,7 +101667,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51stAoLwDFL._AC_UL320_.jpg"
@@ -98569,6 +101690,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98649,7 +101771,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.3★ from 0 ratings"
+   "buyerEvidence": "2.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516CFsvDO3L._AC_UL320_.jpg"
@@ -98674,6 +101797,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98754,7 +101878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51iSvKXmTeL._SL1500_.jpg",
@@ -98779,6 +101904,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98859,7 +101985,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71qpvMPb1xL._SL1500_.jpg",
@@ -98890,6 +102017,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -98970,7 +102098,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/211tqTsQLdL.jpg"
@@ -98986,6 +102115,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -99066,7 +102196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51f7EcA6kiL._SL1254_.jpg",
@@ -99095,6 +102226,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -99176,7 +102308,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); azelaic acid (#9 on list, strong evidence)",
    "safetyFlags": "EU-declared fragrance allergen: benzyl alcohol (−0.5)",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #2 on INCI, azelaic acid #9 on INCI; Dark spots — niacinamide #2 on INCI, tranexamic acid #3 on INCI, kojic acid #4 on INCI, azelaic acid #9 on INCI; Irritation — azelaic acid #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61JzMifeYWL._SL1200_.jpg",
@@ -99207,6 +102340,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -99238,6 +102374,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -99245,6 +102382,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -99252,6 +102390,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -99259,6 +102398,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -99266,6 +102406,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -99273,6 +102414,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -99343,7 +102485,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616Nxp0nRqL._SL1254_.jpg",
@@ -99369,6 +102512,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -99449,7 +102593,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yhG1rWrML._SL1500_.jpg",
@@ -99483,6 +102628,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -99563,7 +102709,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61a7Wgvl0uL._SL1000_.jpg",
@@ -99592,6 +102739,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -99672,7 +102820,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+Uw5FJi3L._SL1498_.jpg",
@@ -99707,6 +102856,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -99787,7 +102937,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Pmnb6jAiL._SL1024_.jpg",
@@ -99813,6 +102964,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -99893,7 +103045,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61M+wjvU+ML._SL1500_.jpg",
@@ -99922,6 +103075,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100003,7 +103157,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71o+9u9MzhL._SL1500_.jpg",
@@ -100032,6 +103187,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100112,7 +103268,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41pu8QEApgL._SL1280_.jpg",
@@ -100140,6 +103297,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100221,7 +103379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iwitd7rlL._SL1500_.jpg",
@@ -100252,6 +103411,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100333,7 +103493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J40aArBXL._SL1000_.jpg",
@@ -100359,6 +103520,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100439,7 +103601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gdBoYXJBL._SL1080_.jpg",
@@ -100470,6 +103633,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100551,7 +103715,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J40aArBXL._SL1000_.jpg",
@@ -100577,6 +103742,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100658,7 +103824,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ex9UgQHcL._SL1280_.jpg",
@@ -100686,6 +103853,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100767,7 +103935,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31pp-V4T6uL.jpg",
@@ -100795,6 +103964,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100875,7 +104045,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-BmzC4A6L._SL1500_.jpg",
@@ -100904,6 +104075,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -100984,7 +104156,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71qKTNpDqqL._SL1500_.jpg",
@@ -101005,6 +104178,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101085,7 +104259,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61oZ605Y-4L._SL1500_.jpg",
@@ -101112,6 +104287,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101192,7 +104368,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Fgh3LjjfL._SL1024_.jpg",
@@ -101220,6 +104397,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101300,7 +104478,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Jbsf+6zWL._SL1254_.jpg",
@@ -101330,6 +104509,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101410,7 +104590,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.4★ from 0 ratings"
+   "buyerEvidence": "3.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71ufsYQSSKL._SL1500_.jpg",
@@ -101439,6 +104620,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101519,7 +104701,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61UKic9qLTL._SL1000_.jpg",
@@ -101548,6 +104731,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101628,7 +104812,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6115BfEeQ1L._SL1500_.jpg",
@@ -101656,6 +104841,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101736,7 +104922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aft3xD5xL._SL1500_.jpg",
@@ -101767,6 +104954,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -101848,7 +105036,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ytwaJtZrL._SL1500_.jpg",
@@ -101884,6 +105073,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -101965,7 +105155,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ENo-9zeRL._SL1080_.jpg",
@@ -101994,6 +105185,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102074,7 +105266,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616aOe9kDjL._SL1500_.jpg",
@@ -102103,6 +105296,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102183,7 +105377,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618fN5Q5m2L._SL1080_.jpg",
@@ -102210,6 +105405,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102291,7 +105487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71XRX22AAPL._SL1500_.jpg"
@@ -102317,6 +105514,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102397,7 +105595,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gb6ED4AzL._SL1500_.jpg",
@@ -102421,6 +105620,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102502,7 +105702,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -102530,6 +105731,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102611,7 +105813,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -102637,6 +105840,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102717,7 +105921,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512nVvb+JxL._SL1080_.jpg",
@@ -102754,6 +105959,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102834,7 +106040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61U8FfEftpL._SL1254_.jpg",
@@ -102863,6 +106070,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -102943,7 +106151,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kfWFKj5PL._SL1500_.jpg",
@@ -102972,6 +106181,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103053,7 +106263,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51y7sY6RLXL._SL1500_.jpg",
@@ -103086,6 +106297,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103167,7 +106379,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31hv4ere4yL.jpg",
@@ -103189,6 +106402,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103270,7 +106484,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5148K3pRTVL._SL1500_.jpg",
@@ -103301,6 +106516,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103383,7 +106599,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81cONX-9NAL._SL1500_.jpg",
@@ -103408,6 +106625,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -103490,7 +106708,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51N3jM-fq9L._SL1000_.jpg",
@@ -103514,6 +106733,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103595,7 +106815,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cipla Health — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512xh7Iw3-L._SL1000_.jpg",
@@ -103634,6 +106855,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -103715,7 +106937,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61odetdSZML._SL1500_.jpg",
@@ -103739,6 +106962,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103819,7 +107043,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81CYDiKy50L._SL1500_.jpg",
@@ -103851,6 +107076,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -103931,7 +107157,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81eaWZRPrIL._SL1500_.jpg",
@@ -103960,6 +107187,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104040,7 +107268,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Qe9zyA5uL._SL1500_.jpg",
@@ -104062,6 +107291,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104142,7 +107372,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GLii9E16L._SL1500_.jpg",
@@ -104183,6 +107414,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104263,7 +107495,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61IaAKUs7EL._SL1024_.jpg",
@@ -104287,6 +107520,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104367,7 +107601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51amJbbMOBL._SL1000_.jpg",
@@ -104391,6 +107626,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104471,7 +107707,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514fV0tDMaL._SL1080_.jpg",
@@ -104501,6 +107738,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104581,7 +107819,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51CcmBrJVdL._SL1080_.jpg",
@@ -104605,6 +107844,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104686,7 +107926,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+wJPPh6uL._SL1500_.jpg",
@@ -104717,6 +107958,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104798,7 +108040,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61dmTHReR5L._SL1500_.jpg",
@@ -104824,6 +108067,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -104904,7 +108148,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RMaujVK6L._SL1000_.jpg"
@@ -104927,6 +108172,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105008,7 +108254,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41GB2vGOeqL._SL1080_.jpg"
@@ -105023,6 +108270,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105104,7 +108352,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514jRskve4L.jpg",
@@ -105130,6 +108379,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105211,7 +108461,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WBc3U1EZL._SL1500_.jpg",
@@ -105240,6 +108491,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105320,7 +108572,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pD1UAAxRL._SL1500_.jpg",
@@ -105347,6 +108600,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105428,7 +108682,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J40aArBXL._SL1000_.jpg",
@@ -105454,6 +108709,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105538,7 +108794,8 @@ const NXPRODUCTS = [
    "evidenceActives": "salicylic acid (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylisothiazolinone (−2)",
    "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #4 on INCI; Dark spots — kojic acid #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XpKIJMPKL._SL1100_.jpg",
@@ -105564,6 +108821,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -105596,6 +108855,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -105603,6 +108863,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -105610,6 +108871,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -105617,6 +108879,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -105624,6 +108887,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -105700,7 +108964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61amrtC5Y6L._SL1500_.jpg",
@@ -105729,6 +108994,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105809,7 +109075,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pQx-H3OHL._SL1500_.jpg",
@@ -105832,6 +109099,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -105913,7 +109181,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -105939,6 +109208,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -106019,7 +109289,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KYptQLlaL._SL1080_.jpg",
@@ -106055,6 +109326,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -106136,7 +109408,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -106161,6 +109434,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -106241,7 +109515,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bMlusPFuL._SL1500_.jpg",
@@ -106274,6 +109549,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -106354,7 +109630,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71AV-aD88jL._AC_UL320_.jpg"
@@ -106381,6 +109658,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -106461,7 +109739,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nCTZ3uhwL._AC_UL320_.jpg"
@@ -106483,6 +109762,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -106562,7 +109842,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Quench Botanics — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71qoWGm+DfL._AC_UL320_.jpg"
@@ -106591,6 +109872,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -106670,7 +109952,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZmyfqdqpL._AC_UL320_.jpg"
@@ -106693,6 +109976,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -106775,7 +110059,8 @@ const NXPRODUCTS = [
    "evidenceActives": "centella asiatica extract (#2 on list, moderate evidence); salicylic acid (#6 on list, strong evidence); niacinamide (#7 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #6 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI, glycyrrhiza glabra root extract #13 on INCI; Irritation — centella asiatica extract #2 on INCI, panthenol #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dx3a4tHpL._AC_UL320_.jpg"
@@ -106796,6 +110081,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -106828,6 +110116,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -106835,6 +110124,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -106842,6 +110132,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -106849,6 +110140,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -106856,6 +110148,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -106863,6 +110156,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -106870,6 +110164,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "pigment"
     }
    ],
@@ -106932,7 +110227,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -106953,6 +110249,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107034,7 +110331,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71y-rQjuEiL._AC_UL320_.jpg"
@@ -107056,6 +110354,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107136,7 +110435,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kdk+yi0qL._AC_UL320_.jpg"
@@ -107161,6 +110461,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107241,7 +110542,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fC1jmPmwL._AC_UL320_.jpg"
@@ -107267,6 +110569,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107348,7 +110651,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-ydS4qr7L._AC_UL320_.jpg"
@@ -107368,6 +110672,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107448,7 +110753,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41mTICnQdFL._AC_UL320_.jpg"
@@ -107473,6 +110779,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107553,7 +110860,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Owvd-ZPAL._AC_UL320_.jpg"
@@ -107581,6 +110889,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107661,7 +110970,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71VcLsR8RiL._AC_UL320_.jpg"
@@ -107682,6 +110992,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107762,7 +111073,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81tEfIXd+NL._AC_UL320_.jpg"
@@ -107785,6 +111097,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107865,7 +111178,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51AaWOlUMoL._SL1024_.jpg"
@@ -107888,6 +111202,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -107968,7 +111283,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81tGNGaO9NL._AC_UL320_.jpg"
@@ -107996,6 +111312,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -108076,7 +111393,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VL-BI33ZL._AC_UL320_.jpg"
@@ -108101,6 +111419,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -108183,7 +111502,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZmXMADcBL._SL1500_.jpg",
@@ -108217,6 +111537,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -108296,7 +111617,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Bio Veda Action Research — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kMuwba-FL._SL1000_.jpg"
@@ -108322,6 +111644,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -108402,7 +111725,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71-X23bfPpL._SL1500_.jpg",
@@ -108431,6 +111755,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -108510,7 +111835,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71TqrD2tYdL._SL1500_.jpg",
@@ -108537,6 +111863,7 @@ const NXPRODUCTS = [
    "aud:men",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -108617,7 +111944,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LaqcoA+fL._SL1040_.jpg",
@@ -108641,6 +111969,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -108721,7 +112050,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41po1cMA21L.jpg",
@@ -108748,6 +112078,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -108828,7 +112159,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GIARQGoIL._SL1280_.jpg",
@@ -108861,6 +112193,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -108941,7 +112274,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61x3k1kWI6L._SL1040_.jpg",
@@ -108965,6 +112299,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109046,7 +112381,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61es8oRyjTL._SL1500_.jpg",
@@ -109072,6 +112408,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109153,7 +112490,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eJep+Q5DL._SL1254_.jpg",
@@ -109181,6 +112519,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109262,7 +112601,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WYekC5x7L._SL1001_.jpg",
@@ -109286,6 +112626,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109367,7 +112708,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51thTP6AMKL.jpg",
@@ -109391,6 +112733,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109472,7 +112815,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HTn-Y3avL._SL1024_.jpg",
@@ -109498,6 +112842,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109579,7 +112924,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61J40aArBXL._SL1000_.jpg",
@@ -109605,6 +112951,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109685,7 +113032,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CRIqb6moL._SL1500_.jpg",
@@ -109715,6 +113063,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109796,7 +113145,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31pp-V4T6uL.jpg",
@@ -109824,6 +113174,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -109905,7 +113256,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WYekC5x7L._SL1001_.jpg",
@@ -109930,6 +113282,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110011,7 +113364,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41jH2qJml1L._SL1024_.jpg",
@@ -110039,6 +113393,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110120,7 +113475,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/5196zw2cKAL._SL1000_.jpg",
@@ -110143,6 +113499,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110223,7 +113580,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61VlimqsqzL._SL1500_.jpg",
@@ -110247,6 +113605,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110328,7 +113687,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516hkYJTX2L._SL1000_.jpg",
@@ -110354,6 +113714,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110435,7 +113796,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lZOX4LVfL._SL1500_.jpg",
@@ -110467,6 +113829,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110548,7 +113911,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IR9WjbtiL._SL1254_.jpg",
@@ -110573,6 +113937,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110654,7 +114019,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -110680,6 +114046,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110760,7 +114127,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511WUXFfDiL._SL1080_.jpg",
@@ -110784,6 +114152,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110863,7 +114232,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "ITC Ltd — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dtUPILVbL._SL1200_.jpg",
@@ -110902,6 +114272,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -110982,7 +114353,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31hDo+gm4cL._SL1000_.jpg",
@@ -111011,6 +114383,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111092,7 +114465,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "ISDIN — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LTgYpzaZL._SL1200_.jpg",
@@ -111127,6 +114501,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -111209,7 +114584,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kenvue — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612ym5BQ5+L._SL1500_.jpg",
@@ -111231,6 +114607,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -111313,7 +114690,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/719TNh41rCL._SL1500_.jpg",
@@ -111338,6 +114716,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111418,7 +114797,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CPJKI++4L._SL1500_.jpg",
@@ -111447,6 +114827,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111527,7 +114908,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61eDcDQX3gL._SL1500_.jpg",
@@ -111557,6 +114939,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111637,7 +115020,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/510TGc5dtdL._SL1000_.jpg",
@@ -111663,6 +115047,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111744,7 +115129,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -111770,6 +115156,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111851,7 +115238,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DWz7OxJSL._SL1500_.jpg"
@@ -111874,6 +115262,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -111953,7 +115342,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412dJBqke7L._SL1100_.jpg",
@@ -111982,6 +115372,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112062,7 +115453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
+   "buyerEvidence": "3.5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eFannRfzL._SL1500_.jpg",
@@ -112093,6 +115485,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112173,7 +115566,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41W7iRAS5+L._SL1100_.jpg",
@@ -112201,6 +115595,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112281,7 +115676,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jYsqOHzjL._SL1080_.jpg",
@@ -112306,6 +115702,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112387,7 +115784,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zzawBqMPL._SL1500_.jpg",
@@ -112412,6 +115810,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112492,7 +115891,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WR5SaNNJL._SL1500_.jpg",
@@ -112516,6 +115916,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112596,7 +115997,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ay5XaVwcL._SL1500_.jpg",
@@ -112623,6 +116025,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112703,7 +116106,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71OcF0kcIcL._SL1500_.jpg",
@@ -112736,6 +116140,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112818,7 +116223,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/519ULkjSKgL._SL1500_.jpg"
@@ -112835,6 +116241,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -112916,7 +116323,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Cipla Health — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51DESaIRa5L._SL1000_.jpg",
@@ -112944,6 +116352,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -113025,7 +116434,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51opj1muWDL.jpg",
@@ -113047,6 +116457,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113128,7 +116539,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81CYDiKy50L._SL1500_.jpg",
@@ -113160,6 +116572,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113241,7 +116654,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nmXXtxGML._SL1500_.jpg",
@@ -113272,6 +116686,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113352,7 +116767,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jmUnFvwxL._SL1080_.jpg",
@@ -113378,6 +116794,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113458,7 +116875,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81adfJNm4eS._SL1500_.jpg",
@@ -113479,6 +116897,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113559,7 +116978,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81N9lTjqMAL._SL1500_.jpg"
@@ -113584,6 +117004,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113664,7 +117085,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613xVXqJSAL._SL1500_.jpg",
@@ -113693,6 +117115,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113773,7 +117196,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/714RgPyi0TL._SL1500_.jpg",
@@ -113795,6 +117219,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113875,7 +117300,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611KfE072PL._SL1500_.jpg",
@@ -113898,6 +117324,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -113979,7 +117406,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51toMX8KcVL._SL1024_.jpg"
@@ -113994,6 +117422,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114074,7 +117503,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JnsfL5ZGL._SL1000_.jpg",
@@ -114098,6 +117528,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114177,7 +117608,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Puig (majority owner) — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41uICRjsZQL._SL1000_.jpg",
@@ -114198,6 +117630,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114279,7 +117712,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/713R6K+KUmL._SL1500_.jpg",
@@ -114303,6 +117737,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114383,7 +117818,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71dkU5QzeSL._SL1500_.jpg",
@@ -114412,6 +117848,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114493,7 +117930,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XEtLP2sNL._SL1024_.jpg",
@@ -114520,6 +117958,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114600,7 +118039,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71MFCQHyUpL._SL1500_.jpg",
@@ -114631,6 +118071,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114711,7 +118152,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71zc+muI2SL._SL1254_.jpg",
@@ -114742,6 +118184,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -114824,7 +118267,8 @@ const NXPRODUCTS = [
    "evidenceActives": "azelaic acid (#15 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type, azelaic acid #15 on INCI; Dark spots — kojic dipalmitate #4 on INCI, azelaic acid #15 on INCI, tranexamic acid #16 on INCI, arbutin #18 on INCI, glycyrrhiza glabra root extract #22 on INCI; Irritation — azelaic acid #15 on INCI, ceramide eos #26 on INCI, ceramide ns #27 on INCI, ceramide np #28 on INCI, ceramide ap #30 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41fMiH-cdpL._SL1080_.jpg",
@@ -114853,6 +118297,9 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -114886,6 +118333,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -114893,6 +118341,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -114900,6 +118349,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -114907,6 +118357,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "azelaic"
     },
     {
@@ -114914,6 +118365,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "tranexamic"
     },
     {
@@ -114921,6 +118373,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -114928,6 +118381,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -114935,6 +118389,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -114942,6 +118397,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -114949,6 +118405,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -114956,6 +118413,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -114963,6 +118421,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -115028,7 +118487,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nfNOeLmnL._SL1500_.jpg",
@@ -115052,6 +118512,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115132,7 +118593,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ij1U1ny5L._SL1500_.jpg",
@@ -115162,6 +118624,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115242,7 +118705,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ruEilra1L._SL1080_.jpg",
@@ -115268,6 +118732,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115348,7 +118813,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BEGf5EnZL._SL1500_.jpg",
@@ -115375,6 +118841,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115455,7 +118922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71On71kgZvL._SL1500_.jpg",
@@ -115479,6 +118947,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115559,7 +119028,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717-qsacWZL._SL1500_.jpg",
@@ -115585,6 +119055,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115666,7 +119137,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419JnECEu-L.jpg",
@@ -115694,6 +119166,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115774,7 +119247,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71fmIfWYr2L._SL1500_.jpg",
@@ -115805,6 +119279,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115886,7 +119361,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IxEpcRR6L._SL1500_.jpg",
@@ -115908,6 +119384,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -115990,7 +119467,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Fixderma India (dermatology company) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qu9iPiXTL._SL1200_.jpg",
@@ -116024,6 +119502,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -116106,7 +119585,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -116132,6 +119612,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -116213,7 +119694,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Pierre Fabre — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51teJmEtUVL._SL1489_.jpg",
@@ -116240,6 +119722,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none",
    "inci:pharma-maker"
   ],
@@ -116321,7 +119804,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51eielE0DoL._SL1024_.jpg",
@@ -116357,6 +119841,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -116437,7 +119922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71+D1EEotwL._SL1500_.jpg",
@@ -116475,6 +119961,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -116555,7 +120042,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71euuKeS4tL._SL1500_.jpg",
@@ -116588,6 +120076,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -116667,7 +120156,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Deconstruct Skincare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41xddhOP24L._AC_UL320_.jpg"
@@ -116690,6 +120180,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -116770,7 +120261,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tElDkmIOL._AC_UL320_.jpg"
@@ -116791,6 +120283,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -116873,7 +120366,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#13 on list, strong evidence)",
    "safetyFlags": "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RBvPr88HL._AC_UL320_.jpg"
@@ -116896,6 +120390,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -116928,6 +120424,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -116935,6 +120432,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -116942,6 +120440,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -116949,6 +120448,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -116956,6 +120456,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -116963,6 +120464,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -117044,7 +120546,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61yb0yG8JhL._AC_UL320_.jpg"
@@ -117068,6 +120571,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117148,7 +120652,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IYYQUm4GL._AC_UL320_.jpg"
@@ -117173,6 +120678,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117254,7 +120760,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -117277,6 +120784,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117358,7 +120866,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -117380,6 +120889,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117461,7 +120971,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61es8oRyjTL._AC_UL320_.jpg"
@@ -117483,6 +120994,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117564,7 +121076,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VFujVytxL._AC_UL320_.jpg"
@@ -117591,6 +121104,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117672,7 +121186,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VFujVytxL._AC_UL320_.jpg"
@@ -117699,6 +121214,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117780,7 +121296,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -117802,6 +121319,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117883,7 +121401,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -117904,6 +121423,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -117984,7 +121504,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71jydBM5kuL._AC_UL320_.jpg"
@@ -118011,6 +121532,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118092,7 +121614,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617dIZ5EaQL._AC_UL320_.jpg"
@@ -118114,6 +121637,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118195,7 +121719,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._AC_UL320_.jpg"
@@ -118218,6 +121743,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118298,7 +121824,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61bSn9CDZQL._AC_UL320_.jpg"
@@ -118319,6 +121846,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118399,7 +121927,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/712zTvB2hpL._AC_UL320_.jpg"
@@ -118421,6 +121950,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118501,7 +122031,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61UBcvia+EL._AC_UL320_.jpg"
@@ -118523,6 +122054,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118603,7 +122135,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.1★ from 0 ratings"
+   "buyerEvidence": "3.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61v3QJhogoL._AC_UL320_.jpg"
@@ -118637,6 +122170,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -118720,7 +122254,8 @@ const NXPRODUCTS = [
    "evidenceActives": "niacinamide (#4 on list, strong evidence); melaleuca alternifolia leaf oil (#6 on list, moderate evidence); salicylic acid (#7 on list, strong evidence); sulfur (#8 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Essential oil / volatile sensitiser: melaleuca alternifolia leaf oil, mentha piperita oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — product type, niacinamide #4 on INCI, melaleuca alternifolia leaf oil #6 on INCI, salicylic acid #7 on INCI, sulfur #8 on INCI; Dark spots — niacinamide #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41mB2a7qKjL._SL1080_.jpg",
@@ -118745,6 +122280,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -118776,6 +122313,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -118783,6 +122321,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "teaTree"
     },
     {
@@ -118790,6 +122329,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -118797,6 +122337,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -118804,6 +122345,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -118811,6 +122353,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     }
    ],
@@ -118893,7 +122436,8 @@ const NXPRODUCTS = [
    "evidenceActives": "centella asiatica extract (#11 on list, moderate evidence); salicylic acid (#13 on list, strong evidence)",
    "safetyFlags": "Hard abrasive particles (face): polyethylene (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type, salicylic acid #13 on INCI; Irritation — centella asiatica extract #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Dlvm8NpeL._SL1417_.jpg",
@@ -118924,6 +122468,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -118956,6 +122502,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -118963,6 +122510,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -118970,6 +122518,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -118977,6 +122526,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -119047,7 +122597,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41c8kKnlGeL._SL1080_.jpg",
@@ -119073,6 +122624,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -119153,7 +122705,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iFNGRcU-L._SL1500_.jpg",
@@ -119172,6 +122725,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -119252,7 +122806,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51G1mmKvExL._SL1200_.jpg",
@@ -119286,6 +122841,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -119366,7 +122922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.3★ from 0 ratings"
+   "buyerEvidence": "3.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Jgfkiw+LS._SL1080_.jpg",
@@ -119392,6 +122949,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -119472,7 +123030,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611QPuYP5fL._SL1500_.jpg",
@@ -119503,6 +123062,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:partial"
   ],
   "filters": {
@@ -119583,7 +123143,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71zFWdhpUPL._SL1500_.jpg",
@@ -119606,6 +123167,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -119686,7 +123248,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/614JXLa8wBL._SL1254_.jpg",
@@ -119712,6 +123275,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -119793,7 +123357,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Pmnb6jAiL._SL1024_.jpg",
@@ -119819,6 +123384,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -119900,7 +123466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mNihKYHOL._SL1280_.jpg"
@@ -119921,6 +123488,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120002,7 +123570,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WBc3U1EZL._SL1500_.jpg",
@@ -120029,6 +123598,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120109,7 +123679,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/719gcO+NI8L._SL1500_.jpg",
@@ -120139,6 +123710,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120220,7 +123792,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71mul-9giUL._SL1500_.jpg",
@@ -120246,6 +123819,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120326,7 +123900,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41jH2qJml1L._SL1024_.jpg",
@@ -120354,6 +123929,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120435,7 +124011,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61DWz7OxJSL._SL1500_.jpg"
@@ -120456,6 +124033,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120536,7 +124114,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61p4yY1udYL._SL1500_.jpg",
@@ -120565,6 +124144,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120645,7 +124225,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71idfhxd+qL._SL1500_.jpg",
@@ -120682,6 +124263,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120763,7 +124345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41sDm-PFM1L._SL1080_.jpg",
@@ -120789,6 +124372,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120869,7 +124453,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QTPlfi6oL._SL1000_.jpg",
@@ -120898,6 +124483,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -120978,7 +124564,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HlUAHXPgL._SL1500_.jpg",
@@ -121008,6 +124595,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121089,7 +124677,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71KFk1DDWQL._SL1448_.jpg",
@@ -121115,6 +124704,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121196,7 +124786,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618Y3NQtReL._SL1024_.jpg",
@@ -121226,6 +124817,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121306,7 +124898,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gH49VdlLL._SL1080_.jpg",
@@ -121334,6 +124927,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121414,7 +125008,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61W-xbat1NL._SL1500_.jpg",
@@ -121450,6 +125045,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121529,7 +125125,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Estée Lauder Companies — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41N278qaxbL._SL1232_.jpg",
@@ -121551,6 +125148,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121632,7 +125230,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51S546CcSwL._SL1254_.jpg",
@@ -121665,6 +125264,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121745,7 +125345,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/7150dpPdzxL._SL1500_.jpg",
@@ -121779,6 +125380,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121859,7 +125461,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514CxGl1LsL._SL1100_.jpg"
@@ -121885,6 +125488,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -121965,7 +125569,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LZwNMv3nL._SL1024_.jpg",
@@ -121990,6 +125595,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122071,7 +125677,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71uv665NeTL._SL1500_.jpg",
@@ -122098,6 +125705,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122179,7 +125787,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -122205,6 +125814,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122286,7 +125896,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61NmJAI7xUL._SL1254_.jpg",
@@ -122312,6 +125923,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122393,7 +126005,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51l4Ja-7KmL._SL1000_.jpg",
@@ -122423,6 +126036,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122504,7 +126118,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61SkU0CcgJL._SL1500_.jpg",
@@ -122537,6 +126152,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122617,7 +126233,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kBja8423L._SL1254_.jpg",
@@ -122652,6 +126269,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122732,7 +126350,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ib6l2QMpL._SL1500_.jpg"
@@ -122757,6 +126376,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122838,7 +126458,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Nln8X-gQL._SL1169_.jpg",
@@ -122863,6 +126484,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -122943,7 +126565,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wjexJnQVL._SL1000_.jpg",
@@ -122971,6 +126594,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123051,7 +126675,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Hto7RIf7L._SL1500_.jpg",
@@ -123083,6 +126708,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123163,7 +126789,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31eMLRrz7GL.jpg"
@@ -123180,6 +126807,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123260,7 +126888,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Y4cuBAwEL._SL1500_.jpg",
@@ -123288,6 +126917,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123368,7 +126998,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rqlUlhZwL._SL1500_.jpg",
@@ -123388,6 +127019,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123468,7 +127100,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71xFl0y7REL._SL1500_.jpg",
@@ -123497,6 +127130,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123577,7 +127211,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zcR8-x3NL._SL1000_.jpg",
@@ -123601,6 +127236,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123681,7 +127317,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51RwfRusQwL._SL1500_.jpg",
@@ -123709,6 +127346,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123790,7 +127428,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Esl7A7k7L._SL1344_.jpg",
@@ -123820,6 +127459,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -123900,7 +127540,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51v6dS-XZrL._SL1000_.jpg",
@@ -123928,6 +127569,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124009,7 +127651,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qYZoE4bBL._SL1200_.jpg",
@@ -124029,6 +127672,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124109,7 +127753,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2.8★ from 0 ratings"
+   "buyerEvidence": "2.8★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wspbLIeNL._SL1162_.jpg"
@@ -124128,6 +127773,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124209,7 +127855,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41fGCJfse7L.jpg",
@@ -124237,6 +127884,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124317,7 +127965,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61nGmeAb9VL._SL1500_.jpg",
@@ -124349,6 +127998,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124429,7 +128079,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KMiiTdY+L._SL1000_.jpg",
@@ -124456,6 +128107,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124536,7 +128188,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41oy3Yl+GwL._SL1080_.jpg",
@@ -124563,6 +128216,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124642,7 +128296,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Kaya Ltd (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CUKCIty5L._SL1500_.jpg",
@@ -124666,6 +128321,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124745,7 +128401,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Fu8LyPLyL._SL1200_.jpg",
@@ -124775,6 +128432,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124856,7 +128514,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71nTgtK0g+L._SL1500_.jpg",
@@ -124883,6 +128542,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -124963,7 +128623,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
+   "buyerEvidence": "3★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61h7aPMQMUL._SL1500_.jpg",
@@ -124991,6 +128652,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125072,7 +128734,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Jep0kN8YL._SL1500_.jpg",
@@ -125099,6 +128762,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125180,7 +128844,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kjvaTCCdL._SL1001_.jpg"
@@ -125203,6 +128868,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125283,7 +128949,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LEcglpDDL._SL1000_.jpg",
@@ -125311,6 +128978,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125391,7 +129059,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61f6HXMS70L._SL1500_.jpg"
@@ -125413,6 +129082,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125494,7 +129164,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41AwQrKoggL.jpg",
@@ -125522,6 +129193,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125602,7 +129274,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+bhquFEyL._SL1500_.jpg",
@@ -125634,6 +129307,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125713,7 +129387,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Lotus Herbals — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kVcBz88VL._SL1500_.jpg",
@@ -125740,6 +129415,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125820,7 +129496,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51rjp89VSUL._SL1500_.jpg",
@@ -125858,6 +129535,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -125938,7 +129616,8 @@ const NXPRODUCTS = [
    "evidenceActives": "Unscored — no verified INCI list",
    "safetyFlags": "Unscored — no verified INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — product type (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QX5e5UdJL._SL1500_.jpg",
@@ -125978,6 +129657,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:none"
   ],
   "filters": {
@@ -126015,305 +129695,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "plix-b0cmdcl6yb",
-  "brand": "PLIX",
-  "model": "THE PLANT FIX Acne Patch Transparent, Waterproof with 0.5% Salicylic Acid | Ultra-thin wit…",
-  "price": 294,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + Hydrocolloid",
-  "featureLine": "Pimple patch",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Pimple patch",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Salicylic acid (BHA), Hydrocolloid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Water / sweat resistant, No white cast (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Marico — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51joxC+a4QL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CMDCL6YB",
-  "buyStore": "Amazon",
-  "title": "PLIX - THE PLANT FIX Acne Patch Transparent, Waterproof with 0.5% Salicylic Acid | Ultra-thin with 100% Hydrocolloid | For Pimple Skin | 2 Sizes |36 patches",
-  "tags": [
-   "scope:unstated",
-   "format:patch",
-   "ing:salicylic-acid-bha",
-   "ing:hydrocolloid",
-   "claim:acne",
-   "claim:water-resistant",
-   "claim:no-white-cast",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Marico",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://marico.com/india/brands"
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "hiper-b0f9yn4p9j",
-  "brand": "HiPer",
-  "model": "Succinic Zit Fix Acne Spot Corrector Gel (10 mL) for Pimple Reduction | Controls Oil, Non …",
-  "price": 299,
-  "capacityLine": "10 ml",
-  "materialLine": "Salicylic acid (BHA) + Ceramides + Sulfur",
-  "featureLine": "Oil · ₹2990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2990/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Salicylic acid (BHA), Ceramides, Sulfur (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Acne / pimples, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31W0EqYKYuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F9YN4P9J",
-  "buyStore": "Amazon",
-  "title": "HiPer Succinic Zit Fix Acne Spot Corrector Gel (10 mL) for Pimple Reduction | Controls Oil, Non Drying/Tingling & Soothes Inflammation | Advanced 5-Active Action with Salicylic Acid, Sulphur, Ceramides, Succinic Acid & Postbiotics (10ml)",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:oil",
-   "ing:salicylic-acid-bha",
-   "ing:ceramides",
-   "ing:sulfur",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:soothing",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "khadi-natural-b0974mq9j5",
-  "brand": "Khadi Natural",
-  "model": "Herbal Aloe Vera Gel for Face & Hair |Anti Acne & Anti Pigmentation, Anti Pimple Herbal Al…",
-  "price": 480,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera",
-  "featureLine": "Gel",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Gel",
-   "appliesTo": "Face (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Acne / pimples, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71YlemXA-QS.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0974MQ9J5",
-  "buyStore": "Amazon",
-  "title": "Khadi Natural Herbal Aloe Vera Gel for Face & Hair |Anti Acne & Anti Pigmentation, Anti Pimple Herbal Aloe vera Gel For Skin Moisturizing & Nourishing, Pack Of 2",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:kit",
-   "ing:aloe-vera",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "3.6★ from 0 ratings"
   }
  }
 ];

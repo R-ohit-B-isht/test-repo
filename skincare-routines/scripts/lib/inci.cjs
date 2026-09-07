@@ -111,7 +111,9 @@ const canonical = (tok) => resolve(tok).name;
 // Split declared list into tokens. Handles ", ", ";", " and ", "(and)", "•", "/" kept inside names.
 const HEADER_WORD = /^(?:ingredients?|inci|composition|contains?|key ingredients?|active ingredients?|full ingredients? list|all)$/;
 function splitRaw(text) {
-  const cleaned = text.replace(/\(and\)/gi, ',').replace(/\s+and\s+/gi, ',').replace(/[;•\n|]/g, ',')
+  // Concentration glosses use thousands separators ("Niacinamide(40,000ppm)"): that comma is not a list separator.
+  const cleaned = text.replace(/(\d),(?=\d{3}\s*(?:ppm|%|mg|µg|iu)\b)/gi, '$1')
+    .replace(/\(and\)/gi, ',').replace(/\s+and\s+/gi, ',').replace(/[;•\n|]/g, ',')
     .replace(/,\s*,+/g, ',');
   return cleaned.split(',').map(norm).filter((t) => t && t.length >= 2 && !HEADER_WORD.test(t));
 }
@@ -164,6 +166,15 @@ function isRunOn(tok) {
     if (new RegExp(`(?:^|\\s)${k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?:\\s|$)`).test(bare) && ++embedded >= 2) return true;
   }
   return false;
+}
+
+// Image-to-text copies swap the lowercase l for a capital I inside a name ("Butylene GIycoI", "Beta-GIuc an",
+// "Dipropylene GI col"). No INCI name carries a capital I after a lowercase letter or between letters of one word
+// (colour-index codes "CI 77891" and names that begin with I, such as Isopropyl, are legitimate).
+const OCR_I = /[a-z]I(?:[a-z]|\b)|\b(?!CI\b)[A-DF-Z]I[a-z]/;
+// Counted on the text as written (norm() lowercases tokens, which would hide the swap).
+function ocrSubstitutions(text) {
+  return text.replace(/\([^)]*\)/g, ' ').split(/[,;•\n|]/).filter((seg) => OCR_I.test(seg)).length;
 }
 
 function classify(text, opts = {}) {
@@ -221,6 +232,8 @@ function classify(text, opts = {}) {
   if (status === 'full' && (glued >= 2 || broken >= 2 || (glued >= 1 && broken >= 1))) { status = 'garbled'; reason = 'Ingredient names have spaces lost or brackets broken (image-to-text copy) — treated as corrupt, not scored'; }
   const runOn = tokens.filter((t, i) => !known[i] && isRunOn(t)).length;
   if (status === 'full' && runOn >= 2 && runOn / n >= 0.15) { status = 'garbled'; reason = 'Ingredient names run together with commas missing (image-to-text copy) — treated as corrupt, not scored'; }
+  const ocr = ocrSubstitutions(text);
+  if (status === 'full' && ocr >= 2) { status = 'garbled'; reason = 'Ingredient names carry l↔I letter swaps (image-to-text copy) — treated as corrupt, not scored'; }
   // A merged multi-product list cannot be attributed to one formula, so it is not scored as one.
   if (status === 'full' && multi) { status = 'partial'; reason = 'Combo listing — the ingredient text covers several products, so no single formula can be scored'; }
   if (status === 'partial' && !reason) {

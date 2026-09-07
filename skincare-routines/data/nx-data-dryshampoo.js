@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -44469,6 +44469,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -44476,6 +44477,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -44483,6 +44485,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -44490,6 +44493,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -44497,6 +44501,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -44504,6 +44509,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -126598,7 +126604,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "rootential-itm8afdd4a829bb2",
-  "brand": "rootential",
+  "brand": "Rootential",
   "model": "Dry Shampoo Spray | Instant Oil Absorber | No Water Hair Refresh | Adds Volumel Hair Spray",
   "price": 250,
   "capacityLine": "150 ml",
@@ -132903,6 +132909,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -132910,6 +132917,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -132917,6 +132925,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -132924,6 +132933,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -132931,6 +132941,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -132938,6 +132949,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -132945,6 +132957,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     }
    ],
@@ -133196,6 +133209,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -133203,6 +133217,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -133210,6 +133225,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -133217,6 +133233,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -133224,6 +133241,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -133231,6 +133249,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -133238,6 +133257,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     }
    ],
@@ -134882,6 +134902,111 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "kenra-b003unrkpw",
+  "brand": "KENRA",
+  "model": "Platinum Dry Shampoo | Oil Absorbing Spray | Instantly Revives & Refreshes Hair | Saves Ti…",
+  "price": 5069,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Rice water + Starch / rice powder",
+  "featureLine": "Dry shampoo",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Dry shampoo",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rice water, Starch / rice powder (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SMykSt5SL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/712W76W+8yL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81zl5FW96zL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81i25Yv7-yL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61pJe2SkP3L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B003UNRKPW",
+  "buyStore": "Amazon",
+  "title": "Kenra Platinum Dry Shampoo | Oil Absorbing Spray | Instantly Revives & Refreshes Hair | Saves Time & Extends Blowouts | All Hair Types | 5 oz",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:oil",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "ing:rice-water",
+   "ing:starch-rice-powder",
+   "concern:oil-absorbing",
+   "hair:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
   "id": "sanfe-b0d1n8kkyy",
   "brand": "Sanfe",
   "model": "Hair Volumizing Dry Shampoo - 25ml | Instantly refreshes & add volume | Leaves no residue",
@@ -135826,6 +135951,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -135833,6 +135959,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -135840,6 +135967,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -135847,6 +135975,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -135854,6 +135983,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -135861,6 +135991,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -137247,6 +137378,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     }
    ],
@@ -137374,6 +137506,425 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rootential-b0f2ysmg6q",
+  "brand": "Rootential",
+  "model": "Dry Shampoo Spray | Instantly Refreshes Oily Hair | Adds Volume Without Water | Lightweigh…",
+  "price": 298,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Dry shampoo · ₹199/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Dry shampoo",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Oily scalp / greasiness, Volume / body, Odour / fragrance / freshness, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Oily hair / scalp, Fine / thin hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51kOZosQVgL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61Ep4yM8M+L._SL1422_.jpg",
+   "https://m.media-amazon.com/images/I/61VAWsaSPnL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61XLYnYgRwL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61nAT2pQ07L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F2YSMG6Q",
+  "buyStore": "Amazon",
+  "title": "Dry Shampoo Spray | Instantly Refreshes Oily Hair | Adds Volume Without Water | Lightweight, No White Residue | For Men & Women | 150ml",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:oil",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "concern:scalp-buildup",
+   "concern:oily-scalp",
+   "concern:volume",
+   "concern:odour",
+   "concern:oil-absorbing",
+   "hair:oily",
+   "hair:fine",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "moxie-beauty-b0dx2j527v",
+  "brand": "MOXIE BEAUTY",
+  "model": "Cheat Day Dry Shampoo Powder, Travel-Size Spray-Free | 30g | A travel-size, spray-free pla…",
+  "price": 579,
+  "capacityLine": "30 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Dry shampoo · ₹1930/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1930/100g",
+   "format": "Dry shampoo",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71JmnFghLLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71mvYXYZgeL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71UzX5tj4DL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71OlBWzrbVL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/613VDmIWmuL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DX2J527V",
+  "buyStore": "Amazon",
+  "title": "Moxie Beauty Cheat Day Dry Shampoo Powder, Travel-Size Spray-Free | 30g | A travel-size, spray-free plant-based powder that absorbs oil instantly and boosts volume with zero visible white cast at all",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:powder",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "concern:volume",
+   "concern:oil-absorbing",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "batiste-b01n4qc32c",
+  "brand": "Batiste",
+  "model": "Instant Hair Refresh Dry Shampoo for All Hair Types, Fresh and High Loft Volume XXL Absorb…",
+  "price": 633,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Dry shampoo · ₹317/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.3★ from 0 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹317/100ml",
+   "format": "Dry shampoo",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Another way to buy ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51kQEJuowUL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01N4QC32C",
+  "buyStore": "Amazon",
+  "title": "Batiste Instant Hair Refresh Dry Shampoo for All Hair Types, Fresh and High Loft Volume XXL Absorbs Oil Between Washes, Waterless Shampoo - 200 ml",
+  "tags": [
+   "area:unstated",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "concern:volume",
+   "concern:oil-absorbing",
+   "hair:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cultivator-s-b0ccs12cmj",
+  "brand": "CULTIVATOR'S",
+  "model": "Volume Shampoo for hair wash with Amla, Reetha, Shikakai Powder |Dry Shampoo | Certified O…",
+  "price": 525,
+  "capacityLine": "250 g",
+  "materialLine": "Amla",
+  "featureLine": "Dry shampoo · ₹210/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹210/100g",
+   "format": "Dry shampoo",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Amla (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hair growth (claim), Volume / body (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61GeRy0QvKL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61K3oxnT3aL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61cO7pAdr4L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61OPC2QfXiL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51cw4ss4NRL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CCS12CMJ",
+  "buyStore": "Amazon",
+  "title": "Cultivator's Volume Shampoo for hair wash with Amla, Reetha, Shikakai Powder |Dry Shampoo | Certified Organic| Hair Cleansing|100% Natural Indian Herbs for Hair Growth - 250gm",
+  "tags": [
+   "area:scalp",
+   "format:powder",
+   "format:wash",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "ing:amla",
+   "concern:hair-growth",
+   "concern:volume",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -139828,6 +140379,226 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "batiste-b06y3z4v3c",
+  "brand": "Batiste",
+  "model": "Instant Hair Refresh Dry Shampoo Floral & Flirty Blush Fragrance, Absorb Oil Between Washe…",
+  "price": 710,
+  "capacityLine": "200 ml",
+  "materialLine": "Lavender + Musk",
+  "featureLine": "Dry shampoo · ₹355/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹355/100ml",
+   "format": "Dry shampoo",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Lavender, Musk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61tizVXh9ML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/713w9xvBheL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71VL9fYxdIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71z5D686qUL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B06Y3Z4V3C",
+  "buyStore": "Amazon",
+  "title": "Batiste Instant Hair Refresh Dry Shampoo Floral & Flirty Blush Fragrance, Absorb Oil Between Washes, Waterless Shampoo - 200 ml",
+  "tags": [
+   "area:unstated",
+   "format:powder",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "ing:lavender",
+   "ing:musk",
+   "concern:oil-absorbing",
+   "free:vegan",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "la-dor-b0gt4d5yp7",
+  "brand": "LA'DOR",
+  "model": "LADOR Tea Tree Calming Scalp Dry Shampoo 100ml | Korean Waterless Dry Shampoo Spray for Oi…",
+  "price": 1499,
+  "capacityLine": "100 ml",
+  "materialLine": "Green tea + Centella / cica + Tea tree",
+  "featureLine": "Dry shampoo · ₹1499/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹1499/100ml",
+   "format": "Dry shampoo",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Green tea, Centella / cica, Tea tree, Allantoin, Mugwort, Peppermint / menthol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Scalp health, Odour / fragrance / freshness, Absorbs oil / between washes (seller claim — not clinical proof)",
+   "hairType": "Oily hair / scalp",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TgP+ohtsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61kmtY7oNcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715PiyLWieL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ya+MdLQSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Ozxwt5FtL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GT4D5YP7",
+  "buyStore": "Amazon",
+  "title": "LADOR Tea Tree Calming Scalp Dry Shampoo 100ml | Korean Waterless Dry Shampoo Spray for Oily Hair & Sensitive Scalp | Tea Tree, Centella, Menthol & Allantoin | Instantly Refreshes Hair, Oil Control, Itchy Scalp Relief & No White Residue",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:powder",
+   "format:wash",
+   "format:shampoo",
+   "format:dry-shampoo",
+   "ing:green-tea",
+   "ing:centella-cica",
+   "ing:tea-tree",
+   "ing:allantoin",
+   "ing:mugwort",
+   "ing:peppermint-menthol",
+   "concern:scalp-itch",
+   "concern:oily-scalp",
+   "concern:scalp-health",
+   "concern:odour",
+   "concern:oil-absorbing",
+   "hair:oily",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
   "id": "bblunt-b0cr66xt86",
   "brand": "BBLUNT",
   "model": "Refresh Dry Shampoo to Instantly Refresh & Add Volume - 150 ml | Benzene-Free | Leaves No …",
@@ -139926,6 +140697,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     }
    ],
@@ -140161,6 +140933,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -140168,6 +140941,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -140175,6 +140949,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -140182,6 +140957,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -140189,6 +140965,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -140196,6 +140973,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -140203,6 +140981,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "stylingPolymers"
     }
    ],
@@ -141319,114 +142098,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "sanfe-b0dfhl12r2",
-  "brand": "Sanfe",
-  "model": "Hair Volumizing Dry Shampoo - 25ml Instant Tan & Dead Skin Removal Exfoliating Body Wash V…",
-  "price": 525,
-  "capacityLine": "25 ml",
-  "materialLine": "AHA",
-  "featureLine": "Dry shampoo · ₹2100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "25 ml",
-   "pricePer100": "₹2100/100ml",
-   "format": "Dry shampoo",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Frizz control, Smoothing / straightening, Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/416O-zJIjeL._SL1001_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DFHL12R2",
-  "buyStore": "Amazon",
-  "title": "Sanfe Hair Volumizing Dry Shampoo - 25ml Instant Tan & Dead Skin Removal Exfoliating Body Wash Visibly Removes Tan AHA Exfoliation in Minutes Smooth & Bright Skin 250ml",
-  "tags": [
-   "area:both",
-   "format:gel",
-   "format:wash",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "format:texture-spray",
-   "ing:aha",
-   "concern:scalp-itch",
-   "concern:oily-scalp",
-   "concern:frizz",
-   "concern:smoothing",
-   "concern:volume",
-   "concern:oil-absorbing",
-   "hair:oily",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "not-your-mother-s-b01lxr79uq",
   "brand": "Not Your Mother's",
   "model": "Clean Freak Tapioca Dry Shampoo, 7 Ounce",
@@ -142408,6 +143079,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -142415,6 +143087,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -142422,6 +143095,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -142429,6 +143103,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -142436,6 +143111,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -142443,6 +143119,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -142895,7 +143572,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "rootential-b0gt1mgvk8",
-  "brand": "rootential",
+  "brand": "Rootential",
   "model": "Dry Shampoo ( Pack of 2 ) Benzene-Free | Instant Oil Control Spray | No Water Hair Wash | …",
   "price": 550,
   "capacityLine": "600 ml (pack of 2)",
@@ -146998,706 +147675,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "batiste-b06y3z4v3c",
-  "brand": "Batiste",
-  "model": "Instant Hair Refresh Dry Shampoo Floral & Flirty Blush Fragrance, Absorb Oil Between Washe…",
-  "price": 720,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo · ₹360/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹360/100ml",
-   "format": "Dry shampoo",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61tizVXh9ML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B06Y3Z4V3C",
-  "buyStore": "Amazon",
-  "title": "Batiste Instant Hair Refresh Dry Shampoo Floral & Flirty Blush Fragrance, Absorb Oil Between Washes, Waterless Shampoo - 200 ml",
-  "tags": [
-   "area:unstated",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "concern:oil-absorbing",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f2ysmg6q",
-  "brand": "Unbranded",
-  "model": "Dry Shampoo Spray | Instantly Refreshes Oily Hair | Adds Volume Without Water | Lightweigh…",
-  "price": 298,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Dry shampoo",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Volume / body (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51kOZosQVgL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F2YSMG6Q",
-  "buyStore": "Amazon",
-  "title": "Dry Shampoo Spray | Instantly Refreshes Oily Hair | Adds Volume Without Water | Lightweight, No White Residue | For Men & Women | 150ml",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "concern:oily-scalp",
-   "concern:volume",
-   "hair:oily",
-   "aud:women",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.2★ from 0 ratings"
-  }
- },
- {
-  "id": "moxie-b0dx2j527v",
-  "brand": "Moxie",
-  "model": "Beauty Cheat Day Dry Shampoo Powder, Travel-Size Spray-Free | 30g | A travel-size, spray-f…",
-  "price": 579,
-  "capacityLine": "30 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo · ₹1930/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹1930/100g",
-   "format": "Dry shampoo",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71JmnFghLLL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DX2J527V",
-  "buyStore": "Amazon",
-  "title": "Moxie Beauty Cheat Day Dry Shampoo Powder, Travel-Size Spray-Free | 30g | A travel-size, spray-free plant-based powder that absorbs oil instantly and boosts volume with zero visible white cast at all",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:powder",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "concern:volume",
-   "concern:oil-absorbing",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "lador-b0gt4d5yp7",
-  "brand": "LADOR",
-  "model": "Tea Tree Calming Scalp Dry Shampoo 100ml | Korean Waterless Dry Shampoo Spray for Oily Hai…",
-  "price": 1499,
-  "capacityLine": "100 ml",
-  "materialLine": "Centella / cica + Tea tree + Allantoin",
-  "featureLine": "Dry shampoo · ₹1499/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹1499/100ml",
-   "format": "Dry shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Centella / cica, Tea tree, Allantoin, Peppermint / menthol (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Itchy scalp, Oily scalp / greasiness, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Oily hair / scalp",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TgP+ohtsL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GT4D5YP7",
-  "buyStore": "Amazon",
-  "title": "LADOR Tea Tree Calming Scalp Dry Shampoo 100ml | Korean Waterless Dry Shampoo Spray for Oily Hair & Sensitive Scalp | Tea Tree, Centella, Menthol & Allantoin | Instantly Refreshes Hair, Oil Control, Itchy Scalp Relief & No White Residue",
-  "tags": [
-   "area:scalp",
-   "format:mist",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "ing:centella-cica",
-   "ing:tea-tree",
-   "ing:allantoin",
-   "ing:peppermint-menthol",
-   "concern:scalp-itch",
-   "concern:oily-scalp",
-   "concern:oil-absorbing",
-   "hair:oily",
-   "aud:unisex",
-   "size:standard",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "kenra-b003unrkpw",
-  "brand": "Kenra",
-  "model": "Platinum Dry Shampoo | Oil Absorbing Spray | Instantly Revives & Refreshes Hair | Saves Ti…",
-  "price": 5078,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Dry shampoo",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61SMykSt5SL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B003UNRKPW",
-  "buyStore": "Amazon",
-  "title": "Kenra Platinum Dry Shampoo | Oil Absorbing Spray | Instantly Revives & Refreshes Hair | Saves Time & Extends Blowouts | All Hair Types | 5 oz",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "concern:oil-absorbing",
-   "hair:all",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "batiste-b01n4qc32c",
-  "brand": "Batiste",
-  "model": "Instant Hair Refresh Dry Shampoo for All Hair Types, Fresh and High Loft Volume XXL Absorb…",
-  "price": 980,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Dry shampoo · ₹490/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹490/100ml",
-   "format": "Dry shampoo",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Volume / body, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Another way to buy ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51kQEJuowUL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01N4QC32C",
-  "buyStore": "Amazon",
-  "title": "Batiste Instant Hair Refresh Dry Shampoo for All Hair Types, Fresh and High Loft Volume XXL Absorbs Oil Between Washes, Waterless Shampoo - 200 ml",
-  "tags": [
-   "area:unstated",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "concern:volume",
-   "concern:oil-absorbing",
-   "hair:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "cultivator-s-b0ccs12cmj",
-  "brand": "Cultivator's",
-  "model": "Volume Shampoo for hair wash with Amla, Reetha, Shikakai Powder |Dry Shampoo | Certified O…",
-  "price": 525,
-  "capacityLine": "250 g",
-  "materialLine": "Amla",
-  "featureLine": "Dry shampoo · ₹210/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "250 g",
-   "pricePer100": "₹210/100g",
-   "format": "Dry shampoo",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Amla (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hair growth (claim), Volume / body (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61GeRy0QvKL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CCS12CMJ",
-  "buyStore": "Amazon",
-  "title": "Cultivator's Volume Shampoo for hair wash with Amla, Reetha, Shikakai Powder |Dry Shampoo | Certified Organic| Hair Cleansing|100% Natural Indian Herbs for Hair Growth - 250gm",
-  "tags": [
-   "area:scalp",
-   "format:powder",
-   "format:wash",
-   "format:shampoo",
-   "format:dry-shampoo",
-   "ing:amla",
-   "concern:hair-growth",
-   "concern:volume",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
   }
  }
 ];

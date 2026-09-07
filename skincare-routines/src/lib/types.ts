@@ -26,6 +26,8 @@ export interface CategoryMeta {
   count: number;
   scopeGroup: ScopeGroup;
   byScope: Record<string, number>;
+  /** Listings per skin concern (`target:*` tag id → count); empty for hair categories, which carry no skin-concern facet. */
+  byConcern: Record<string, number>;
   stores: { flipkart: number; amazon: number };
   priceMax: number;
 }
@@ -39,6 +41,8 @@ export interface Manifest {
   routineCategoryLabels: Record<string, string>;
   zoneLabels: Record<Zone, string>;
   groups: Record<string, FacetGroupDef>;
+  /** The universal skin concerns behind the `target:*` facet, in display order. */
+  concerns: { id: string; label: string }[];
   sources: Record<string, SourceRef>;
   phases: string[];
   shards: number;

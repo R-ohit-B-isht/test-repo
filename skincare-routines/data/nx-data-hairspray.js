@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -22812,6 +22812,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -22819,6 +22820,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -28947,6 +28949,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -28954,6 +28957,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -28961,6 +28965,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28968,6 +28973,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -28975,6 +28981,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -28982,6 +28989,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -28989,6 +28997,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -29134,6 +29143,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -29141,6 +29151,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -29148,6 +29159,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -29155,6 +29167,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -29162,6 +29175,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -29169,6 +29183,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -29176,6 +29191,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -34587,7 +34603,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itm6ed96f4d05562",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Hair Spray Strong Hold 003 | No Stickness & No Residue | 24 Hour Frizz Control Hair Spray",
   "price": 348,
   "capacityLine": "250 ml",
@@ -71093,6 +71109,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -71100,6 +71117,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -71107,6 +71125,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -71114,6 +71133,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -74751,6 +74771,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -74758,6 +74779,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -74765,6 +74787,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -74772,6 +74795,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74779,6 +74803,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -74786,6 +74811,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -74793,6 +74819,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -88451,7 +88478,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itm4fa31040d1e9e",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Soft & Shine Refresher Hair Spray Instant Shine and Moisture Refreshes Hair Hair Spray",
   "price": 408,
   "capacityLine": "250 ml",
@@ -88665,6 +88692,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88672,6 +88700,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88679,6 +88708,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -88686,6 +88716,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -88693,6 +88724,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -88700,6 +88732,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88707,6 +88740,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -88847,6 +88881,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88854,6 +88889,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88861,6 +88897,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -88868,6 +88905,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -88875,6 +88913,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -88882,6 +88921,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -88889,6 +88929,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -89143,6 +89184,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89150,6 +89192,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89157,6 +89200,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89164,6 +89208,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89171,6 +89216,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89178,6 +89224,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89185,6 +89232,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -89331,6 +89379,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89338,6 +89387,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89345,6 +89395,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89352,6 +89403,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89359,6 +89411,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89366,6 +89419,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89373,6 +89427,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -89736,6 +89791,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89743,6 +89799,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89750,6 +89807,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89757,6 +89815,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89764,6 +89823,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89771,6 +89831,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89778,6 +89839,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -89925,6 +89987,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89932,6 +89995,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89939,6 +90003,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89946,6 +90011,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89953,6 +90019,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -89960,6 +90027,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -89967,6 +90035,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -90214,6 +90283,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -90221,6 +90291,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -90228,6 +90299,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90235,6 +90307,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -90242,6 +90315,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -90249,6 +90323,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "thermalProtect"
     },
     {
@@ -90256,6 +90331,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     }
    ],
@@ -103381,6 +103457,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -103388,6 +103465,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": false,
+     "trace": true,
      "src": "bhringraj"
     }
    ],
@@ -119578,6 +119656,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -119585,6 +119664,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     }
    ],
@@ -121174,6 +121254,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121181,6 +121262,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     }
    ],
@@ -128351,6 +128433,1057 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "schwarzkopf-b01dafx8tq",
+  "brand": "Schwarzkopf",
+  "model": "Professional OSiS+ Sparkler Shine Spray | Instant Shine & Lightweight Conditioning Spray f…",
+  "price": 937,
+  "capacityLine": "300 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · Silicone-free · ₹312/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹312/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Silicone-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41HP5pFgotL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/5157J2BjzJL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51odFPP3R0L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51EDVrwZWGL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61WI8F5GwwL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01DAFX8TQ",
+  "buyStore": "Amazon",
+  "title": "Schwarzkopf Professional OSiS+ Sparkler Shine Spray | Instant Shine & Lightweight Conditioning Spray for Men & Women | Anti-Frizz & Smooth Finish for All Hair Types (300 ML)",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "concern:frizz",
+   "concern:smoothing",
+   "concern:shine",
+   "hair:all",
+   "free:silicone",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mintree-b0fl7rd57t",
+  "brand": "Mintree",
+  "model": "Magic Coat Anti Humidity Hair Spray for Blow Dry & Styling with Anti Frizz Control, Heat &…",
+  "price": 1615,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹5383/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5383/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Heat protection, Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "Curly hair, Wavy hair, All hair types",
+   "regulated": "Not stated in listing",
+   "heatSealed": "Listing says to seal with a flat iron / blow-dryer — check the INCI for formaldehyde / methylene glycol before heating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71CF1WQzbNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81KA5b21YkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71V8Xcp5IAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IPbCB2QRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/815CTGkkRiL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL7RD57T",
+  "buyStore": "Amazon",
+  "title": "Mintree Magic Coat Anti Humidity Hair Spray for Blow Dry & Styling with Anti Frizz Control, Heat & UV Protection, Adds Volume | Lightweight Non-Sticky Formula for All Hair Types | 30 ml",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:heat-protectant",
+   "format:hair-spray",
+   "format:texture-spray",
+   "concern:oily-scalp",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:volume",
+   "concern:heat-protection",
+   "concern:restyle",
+   "concern:humidity",
+   "hair:curly",
+   "hair:wavy",
+   "hair:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "osis-b0c36p19w9",
+  "brand": "OSiS+",
+  "model": "Schwarzkopf Professional OSiS+ Super Shield Anti-Pollution & Humidty Hair Spray With Hydro…",
+  "price": 1275,
+  "capacityLine": "300 ml",
+  "materialLine": "Olive",
+  "featureLine": "Hair spray · ₹425/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹425/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Heat protection, Detangling (seller claim — not clinical proof)",
+   "hairType": "Coloured / chemically treated",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41KTqyBTAjL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51UHlfwM31L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61RMCxRMUXL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51b871MtCsL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61aZVE8L2PL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C36P19W9",
+  "buyStore": "Amazon",
+  "title": "Schwarzkopf Professional OSiS+ Super Shield Anti-Pollution & Humidty Hair Spray With Hydrogenated Olive Olis | Protects Coloured Hair | Adss Shine | Remove Friziness - 300ml",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:heat-protectant",
+   "format:hair-spray",
+   "ing:olive",
+   "concern:frizz",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:heat-protection",
+   "concern:detangling",
+   "hair:coloured",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vaa-u-b0gxc9v8lf",
+  "brand": "VAA-U",
+  "model": "Sea Salt Hair Spray with Sea Salt & Vitamin E | Volumizes Hair & Adds Texture | Lightweigh…",
+  "price": 160,
+  "capacityLine": "100 ml",
+  "materialLine": "Vitamin E + Sea salt",
+  "featureLine": "Hair spray · ₹160/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Vitamin E, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Dryness / hydration, Smoothing / straightening, Volume / body, Hold (styling), Matte finish, Restylable / no flakes (seller claim — not clinical proof)",
+   "hairType": "Wavy hair, Fine / thin hair, Textured / afro hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51MtGvI5H1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ZDwRePvWL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61dAHWAuvTL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61TViNNITWL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/619vUkROl2L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXC9V8LF",
+  "buyStore": "Amazon",
+  "title": "Sea Salt Hair Spray with Sea Salt & Vitamin E | Volumizes Hair & Adds Texture | Lightweight Non Sticky Styling Spray | Natural Beach Wave Look | For Men & Women | 100ml",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:hair-spray",
+   "format:texture-spray",
+   "ing:vitamin-e",
+   "ing:sea-salt",
+   "concern:oily-scalp",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:volume",
+   "concern:hold",
+   "concern:matte-finish",
+   "concern:restyle",
+   "hair:wavy",
+   "hair:fine",
+   "hair:textured",
+   "hair:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "guanzo-b0ftmfq8sy",
+  "brand": "GUANZO",
+  "model": "Enzo Hair Spray – 420ML | Hairs Styling Spray with No Stiffness and Strong Hold | All-Day …",
+  "price": 299,
+  "capacityLine": "420 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹71/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "420 ml",
+   "pricePer100": "₹71/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/411I5kK0PiL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61BVfUF+zrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51lIFRG0OxL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/41AKxqourJL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61UoiB9pSUL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FTMFQ8SY",
+  "buyStore": "Amazon",
+  "title": "Enzo Hair Spray – 420ML | Hairs Styling Spray with No Stiffness and Strong Hold | All-Day Shine & Weatherproof Styling | No Greasy Residue - Suitable for All Hair Types | Black | Pack of 1",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:kit",
+   "format:hair-spray",
+   "format:texture-spray",
+   "concern:oily-scalp",
+   "concern:shine",
+   "concern:hold",
+   "hair:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "glowhouse-b0cq8fmmy1",
+  "brand": "Glowhouse",
+  "model": "Nova Gold System Professional Hair Spray - Super Firm Hold Spray- (400 ml)",
+  "price": 189,
+  "capacityLine": "400 ml",
+  "materialLine": "Gold",
+  "featureLine": "Hair spray · ₹47/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹47/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Gold (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51wcCNgdm5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51pSSm3B24L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CQ8FMMY1",
+  "buyStore": "Amazon",
+  "title": "Glowhouse Nova Gold System Professional Hair Spray - Super Firm Hold Spray- (400 ml)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:hair-spray",
+   "ing:gold",
+   "concern:dryness",
+   "concern:shine",
+   "concern:hold",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "clubbeauty-b09hhlhhhv",
+  "brand": "ClubBeauty",
+  "model": "Lasting Hair Spray for Strong Hair With Fragrance | For Men & Women Long Pretty Hair (420 …",
+  "price": 191,
+  "capacityLine": "420 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹45/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "420 ml",
+   "pricePer100": "₹45/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31LTAxsqS5L.jpg",
+   "https://m.media-amazon.com/images/I/61FGohyT5bL.jpg",
+   "https://m.media-amazon.com/images/I/61DwtY06jKL.jpg",
+   "https://m.media-amazon.com/images/I/51pCvKYvb1L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09HHLHHHV",
+  "buyStore": "Amazon",
+  "title": "Lasting Hair Spray for Strong Hair With Fragrance | For Men & Women Long Pretty Hair (420 ml)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:wash",
+   "format:hair-spray",
+   "concern:dryness",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cd-cosmo-designs-b0g4vtl51l",
+  "brand": "CD COSMO DESIGNS",
+  "model": "Cosmo Soft & Shine Refresher Hair Spray Instant Shine and Moisture Mist Refreshes Hair, So…",
+  "price": 410,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹164/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹164/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss, Volume / body, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "Dry hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61D1LhC0TCL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G4VTL51L",
+  "buyStore": "Amazon",
+  "title": "Cosmo Soft & Shine Refresher Hair Spray Instant Shine and Moisture Mist Refreshes Hair, Soft, Smooth, and Manageable All Day Frizz Control, & Restore Natural - 250ml",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:hair-spray",
+   "format:texture-spray",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:volume",
+   "concern:humidity",
+   "hair:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "chi-b07tntlsr4",
+  "brand": "CHI",
+  "model": "Enviro 54 Firm Hold Hairspray - 340 g",
+  "price": 4209,
+  "capacityLine": "340 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹1238/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "340 g",
+   "pricePer100": "₹1238/100g",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/517XzXvrZvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71L8aMvwe5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71V7cYU2YjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EvrSUr19L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71d+neQImTL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07TNTLSR4",
+  "buyStore": "Amazon",
+  "title": "CHI Enviro 54 Firm Hold Hairspray - 340 g",
+  "tags": [
+   "area:unstated",
+   "format:hair-spray",
+   "concern:hold",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "salon-grafix-b001kys7o6",
+  "brand": "Salon Grafix",
+  "model": "Professional Shaping Hair Spray Styling Mist 10 oz (283 g)",
+  "price": 1552,
+  "capacityLine": "283 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · Fragrance-free · ₹548/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "283 g",
+   "pricePer100": "₹548/100g",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Iz1m6B2OL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61B0QwgY6jL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B001KYS7O6",
+  "buyStore": "Amazon",
+  "title": "Salon Grafix Professional Shaping Hair Spray Styling Mist 10 oz (283 g)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:hair-spray",
+   "concern:hold",
+   "free:fragrance",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
   "id": "kc-kiya-care-b0cwd6jdjs",
   "brand": "KC KIYA CARE",
   "model": "Hyaluronic Moisture Hair Spray Conditioner For Normal To Dry Hair",
@@ -132631,6 +133764,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "stylingPolymers"
     }
    ],
@@ -134986,6 +136120,950 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "got2b-b07bcfxql3",
+  "brand": "Got2B",
+  "model": "Glued Blasting Freeze Hairspray for Extreme Styling, Ultra Strong Hold Level 6, Long-Lasti…",
+  "price": 349,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹349/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹349/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615ivaUEGNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51bOUKfkkRL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51UkAnroxEL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61m1fAts4jL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/618xs4e8u0L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07BCFXQL3",
+  "buyStore": "Amazon",
+  "title": "Got2b Glued Blasting Freeze Hairspray for Extreme Styling, Ultra Strong Hold Level 6, Long-Lasting Fixation, Vegan Formula - 100ml",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:hair-spray",
+   "concern:dandruff",
+   "concern:hold",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "arata-b0b1j6bqxy",
+  "brand": "Arata",
+  "model": "Volumizing Sea Salt Hair Spray | Niacinamide & Biotin | Long-lasting Soft Hold | Matte Fin…",
+  "price": 289,
+  "capacityLine": "50 ml",
+  "materialLine": "Niacinamide + Vitamin B5 / panthenol + Magnesium",
+  "featureLine": "Hair spray · Alcohol-free · ₹578/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹578/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Niacinamide, Vitamin B5 / panthenol, Magnesium, Sea salt, Biotin, Panthenol (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Damage repair, Dryness / hydration, Shine / gloss, Volume / body, Hold (styling), Matte finish, Washes out easily (seller claim — not clinical proof)",
+   "hairType": "Wavy hair, Damaged hair, Fine / thin hair, Textured / afro hair",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+XcbfRD8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ImZoVyTTL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61MBhMQcbaL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71qYff66qWL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61GUr5GQygL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B1J6BQXY",
+  "buyStore": "Amazon",
+  "title": "Arata Volumizing Sea Salt Hair Spray | Niacinamide & Biotin | Long-lasting Soft Hold | Matte Finish | Beachy Waves | Hair Texturizing Spray for Men & Women | Drying Alcohol-Free | Derma-Tested | 50 ML",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:hair-spray",
+   "format:texture-spray",
+   "ing:niacinamide",
+   "ing:vitamin-b5-panthenol",
+   "ing:magnesium",
+   "ing:sea-salt",
+   "ing:biotin",
+   "ing:panthenol",
+   "concern:damage-repair",
+   "concern:dryness",
+   "concern:shine",
+   "concern:volume",
+   "concern:hold",
+   "concern:matte-finish",
+   "concern:wash-out",
+   "hair:wavy",
+   "hair:damaged",
+   "hair:fine",
+   "hair:textured",
+   "free:alcohol",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "gatsby-b00791ehdy",
+  "brand": "Gatsby",
+  "model": "Japan Set And Keep Hair Spray Super Hard, 250ml | Quick Drying, Long Lasting Hold, No Flak…",
+  "price": 299,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹120/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Shine / gloss, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51NTG8dlbVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61sm8rKp4dL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71O72TBBMUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NxGPMT6ZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711G-NAvtLL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00791EHDY",
+  "buyStore": "Amazon",
+  "title": "Gatsby Japan Set And Keep Hair Spray Super Hard, 250ml | Quick Drying, Long Lasting Hold, No Flaking & Natural Shine | Non Sticky & Easy Wash Off | Styling Hair Spray",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:wash",
+   "format:kit",
+   "format:hair-spray",
+   "concern:dandruff",
+   "concern:dryness",
+   "concern:shine",
+   "concern:hold",
+   "concern:restyle",
+   "hair:all",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "l-oreal-paris-b000o7lh06",
+  "brand": "L'Oreal Paris",
+  "model": "Elnett Satin Extra Strength Hair Spray, 400ml",
+  "price": 593,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹148/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹148/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hold (styling), Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51E80FJILQL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/511sTwe4HsL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61G3e8jP6eL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51bOkonSXfL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61O1kjDvyIL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B000O7LH06",
+  "buyStore": "Amazon",
+  "title": "L'Oreal Paris Elnett Satin Extra Strength Hair Spray, 400ml",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:wash",
+   "format:hair-spray",
+   "concern:hold",
+   "concern:restyle",
+   "concern:humidity",
+   "hair:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dotfusion-b0c4b8b1h9",
+  "brand": "DOTFUSION",
+  "model": "Enzo Hair Spray for Strong Hair For Men & Women Long (420 ml)",
+  "price": 78,
+  "capacityLine": "420 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹19/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "420 ml",
+   "pricePer100": "₹19/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Ckg1NE6wL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71nASGDQSOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/511Dh1zQpJL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C4B8B1H9",
+  "buyStore": "Amazon",
+  "title": "Enzo Hair Spray for Strong Hair For Men & Women Long (420 ml)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:wash",
+   "format:hair-spray",
+   "concern:dryness",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "l-oreal-paris-b009woos1m",
+  "brand": "L'Oreal Paris",
+  "model": "Elnett Satin Hairspray, 175 ml",
+  "price": 994,
+  "capacityLine": "175 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹568/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "175 ml",
+   "pricePer100": "₹568/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Smoothing / straightening, Heat protection (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71nQp2aaIdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ZdCgVxy1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jmw3kZMfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cG7KQ9xvL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B009WOOS1M",
+  "buyStore": "Amazon",
+  "title": "L'Oreal Paris Elnett Satin Hairspray, 175 ml",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:heat-protectant",
+   "format:hair-spray",
+   "concern:smoothing",
+   "concern:heat-protection",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "simco-b07ddlcww7",
+  "brand": "Simco",
+  "model": "Classic Hair Fixer, 300gm (Pack Of 2)",
+  "price": 381,
+  "capacityLine": "600 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Gel · ₹64/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "300 g × 2 pack",
+   "pricePer100": "₹64/100g",
+   "format": "Gel",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Shine / gloss, Odour / fragrance / freshness (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51eq7QNiUrL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07DDLCWW7",
+  "buyStore": "Amazon",
+  "title": "Simco Classic Hair Fixer, 300gm (Pack Of 2)",
+  "tags": [
+   "area:unstated",
+   "format:gel",
+   "format:kit",
+   "concern:dryness",
+   "concern:shine",
+   "concern:odour",
+   "hair:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "not-your-mother-s-b07c3p919v",
+  "brand": "Not Your Mother's",
+  "model": "Not Your Mothers Beach Babe Soft Waves Sea Salt Spray 8oz (2 Pack)",
+  "price": 4688,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Sea salt",
+  "featureLine": "Mist / spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Not stated in listing",
+   "hairType": "Wavy hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Rw96tBH-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715E-0QLFCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81brdUtB1FL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hFtR7CWnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/915OhpUYukL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07C3P919V",
+  "buyStore": "Amazon",
+  "title": "Not Your Mother's Not Your Mothers Beach Babe Soft Waves Sea Salt Spray 8oz (2 Pack)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:texture-spray",
+   "ing:sea-salt",
+   "hair:wavy",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "trimax-gold-b0dq93qs8b",
+  "brand": "TRIMAX GOLD",
+  "model": "Enzo Premium Hair Spray, 420ML, Curl Enhancing, Flexible Hold, Long Lasting, No Greasy Res…",
+  "price": 344,
+  "capacityLine": "840 ml (pack of 2)",
+  "materialLine": "Gold",
+  "featureLine": "Pimple patch · ₹41/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "420 ml × 2 pack",
+   "pricePer100": "₹41/100ml",
+   "format": "Pimple patch",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Gold (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Shine / gloss, Curl definition, Hold (styling), Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "Curly hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71BgLAGV59L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71geaPs4NLL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQ93QS8B",
+  "buyStore": "Amazon",
+  "title": "Enzo Premium Hair Spray, 420ML, Curl Enhancing, Flexible Hold, Long Lasting, No Greasy Residue, All-Day Shine, Suitable for All Hair Types, Hair Patch, Pack of 2",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:kit",
+   "format:hair-spray",
+   "ing:gold",
+   "concern:oily-scalp",
+   "concern:frizz",
+   "concern:shine",
+   "concern:curl-definition",
+   "concern:hold",
+   "concern:humidity",
+   "hair:curly",
+   "hair:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -142181,6 +144259,1062 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "l-oreal-paris-b0gr8mqybd",
+  "brand": "L'Oreal Paris",
+  "model": "Elnett Precious Oil Infused Hair Spray 300ml – Long Lasting Strong Hold with High Shine Fi…",
+  "price": 999,
+  "capacityLine": "300 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹333/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹333/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying, Frizz control, Smoothing / straightening, Shine / gloss, Hold (styling), Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51r4ZzcU+HL._SL1330_.jpg",
+   "https://m.media-amazon.com/images/I/81oD3pSp1+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71he38BBf3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/618ys8KuC5L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61vVJmnH2IL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GR8MQYBD",
+  "buyStore": "Amazon",
+  "title": "L’Oreal Paris Elnett Precious Oil Infused Hair Spray 300ml – Long Lasting Strong Hold with High Shine Finish & Anti-Frizz Control",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:oil",
+   "format:hair-spray",
+   "format:texture-spray",
+   "concern:scalp-buildup",
+   "concern:frizz",
+   "concern:smoothing",
+   "concern:shine",
+   "concern:hold",
+   "concern:restyle",
+   "concern:humidity",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "urbangabru-b08lpswj51",
+  "brand": "Urbangabru",
+  "model": "Unlimited Hold No Gas Hair Spray (100 ml) | Hair Styling & Hair Setting Spray | Paraben & …",
+  "price": 199,
+  "capacityLine": "100 ml",
+  "materialLine": "Aloe vera + Jojoba",
+  "featureLine": "Hair spray · Sulfate/SLS-free · ₹199/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Aloe vera, Jojoba (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Dryness / hydration, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61R6avUDCfL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61wc2nkbkrS._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61cGlZWQjbS._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61b5fvouqcS._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61ea1wUYkpS._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08LPSWJ51",
+  "buyStore": "Amazon",
+  "title": "UrbanGabru Unlimited Hold No Gas Hair Spray (100 ml) | Hair Styling & Hair Setting Spray | Paraben & Sulphate Free",
+  "tags": [
+   "area:scalp",
+   "format:mist",
+   "format:oil",
+   "format:hair-spray",
+   "ing:aloe-vera",
+   "ing:jojoba",
+   "concern:dandruff",
+   "concern:dryness",
+   "concern:hold",
+   "free:sulfate",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nishman-b0c8yvt5lc",
+  "brand": "nishman",
+  "model": "Hair Styling Spray | 24 HR Frizz Control | Ultra Strong Hold | Touchable Feel | No Crunch …",
+  "price": 395,
+  "capacityLine": "150 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹263/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹263/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Hold (styling), Matte finish, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "Textured / afro hair",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61l12Gl0COL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51x7a+LEuYL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61k+8cNEVUL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61nci98R+8L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61S5F4WrqAL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C8YVT5LC",
+  "buyStore": "Amazon",
+  "title": "Nishman Hair Styling Spray | 24 HR Frizz Control | Ultra Strong Hold | Touchable Feel | No Crunch or Stiffness | Humidity Resistant | Sweat Proof | Voluminous Hair | 150 ML",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:wash",
+   "format:shampoo",
+   "format:hair-spray",
+   "format:texture-spray",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:volume",
+   "concern:hold",
+   "concern:matte-finish",
+   "concern:humidity",
+   "hair:textured",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "urbannova-b0dxpd7j5f",
+  "brand": "urbannova",
+  "model": "Super Hold Hair Spray For Men & Women of All Hair Types | Professional Strong Hold Hair St…",
+  "price": 165,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹41/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹41/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Shine / gloss, Hold (styling), Matte finish (seller claim — not clinical proof)",
+   "hairType": "Dry hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41MeJm040jL.jpg",
+   "https://m.media-amazon.com/images/I/41kyzR8isuL.jpg",
+   "https://m.media-amazon.com/images/I/31ZoZxdiYeL.jpg",
+   "https://m.media-amazon.com/images/I/51gjnlee4QL.jpg",
+   "https://m.media-amazon.com/images/I/51jJq2DiuML.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DXPD7J5F",
+  "buyStore": "Amazon",
+  "title": "urbannova Super Hold Hair Spray For Men & Women of All Hair Types | Professional Strong Hold Hair Styling Spray | No Stiffness & Natural Finish (400 ML) (Pack of 1)",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:kit",
+   "format:hair-spray",
+   "concern:dryness",
+   "concern:shine",
+   "concern:hold",
+   "concern:matte-finish",
+   "hair:dry",
+   "hair:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "grace-lifestyle-b0dcgk1txp",
+  "brand": "GRACE LIFESTYLE",
+  "model": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (2, 300 Gms)",
+  "price": 474,
+  "capacityLine": "300 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Mist / spray · ₹158/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹158/100g",
+   "format": "Mist / spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Hold (styling), Matte finish (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61DhxnSlIvL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DCGK1TXP",
+  "buyStore": "Amazon",
+  "title": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (2, 300 Gms)",
+  "tags": [
+   "area:unstated",
+   "format:gel",
+   "format:mist",
+   "concern:oily-scalp",
+   "concern:hold",
+   "concern:matte-finish",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "grace-lifestyle-b0dbvty6y5",
+  "brand": "GRACE LIFESTYLE",
+  "model": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (1, 500, Millilitres)",
+  "price": 350,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Kit",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Kit",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Oily scalp / greasiness, Frizz control, Dryness / hydration, Smoothing / straightening, Curl definition, Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Dry hair, Curly hair, All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71wYj-O37WL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715eMAxdveL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71s6awa-9LL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Jx7qDRxhL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DBVTY6Y5",
+  "buyStore": "Amazon",
+  "title": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (1, 500, Millilitres)",
+  "tags": [
+   "area:lengths",
+   "format:kit",
+   "concern:oily-scalp",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:smoothing",
+   "concern:curl-definition",
+   "concern:hold",
+   "hair:dry",
+   "hair:curly",
+   "hair:all",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0ffnjsbx3",
+  "brand": "Unbranded",
+  "model": "HAIR HOLD SPRAY",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Hair spray",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61t4vltEdmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71keFkYCK9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qY5YqAMBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FFNJSBX3",
+  "buyStore": "Amazon",
+  "title": "HAIR HOLD SPRAY",
+  "tags": [
+   "area:unstated",
+   "format:mist",
+   "format:hair-spray",
+   "concern:hold",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "brooks-b0d39y8sn1",
+  "brand": "Brooks",
+  "model": "Powerful Hair Spray, no stickness, no flacking, powerhold & vigorous hair, 24h Holds, 250m…",
+  "price": 269,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹108/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹108/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61elFXphNcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51-PxSkaerL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71QCAHLzrlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51Q6dm59QSL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D39Y8SN1",
+  "buyStore": "Amazon",
+  "title": "Brooks Powerful Hair Spray, no stickness, no flacking, powerhold & vigorous hair, 24h Holds, 250ml, Black",
+  "tags": [
+   "area:lengths",
+   "format:gel",
+   "format:mist",
+   "format:wax",
+   "format:clay",
+   "format:pomade",
+   "format:hair-spray",
+   "concern:hold",
+   "concern:restyle",
+   "free:toxin-free",
+   "aud:men",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0hbc7bclt",
+  "brand": "Unbranded",
+  "model": "Sea Salt Spray for Hair Volumising, 100 ml | Instant Volume & Texture, Bhringraj & Ginseng…",
+  "price": 765,
+  "capacityLine": "100 ml",
+  "materialLine": "Vitamin E + Vitamin B5 / panthenol + Ginseng",
+  "featureLine": "Mist / spray · ₹765/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹765/100ml",
+   "format": "Mist / spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Vitamin E, Vitamin B5 / panthenol, Ginseng, Sea salt, Bhringraj, Panthenol (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dryness / hydration, Volume / body (seller claim — not clinical proof)",
+   "hairType": "Dry hair, Wavy hair, Textured / afro hair, All hair types",
+   "regulated": "Not stated in listing",
+   "heatSealed": "Listing says to seal with a flat iron / blow-dryer — check the INCI for formaldehyde / methylene glycol before heating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61FNuT6XnnL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61DOKak3loL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBC7BCLT",
+  "buyStore": "Amazon",
+  "title": "Sea Salt Spray for Hair Volumising, 100 ml | Instant Volume & Texture, Bhringraj & Ginseng, D Panthenol & Vit E, For Dry & Damp Hair, Textured Beach Waves",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:texture-spray",
+   "ing:vitamin-e",
+   "ing:vitamin-b5-panthenol",
+   "ing:ginseng",
+   "ing:sea-salt",
+   "ing:bhringraj",
+   "ing:panthenol",
+   "concern:dryness",
+   "concern:volume",
+   "hair:dry",
+   "hair:wavy",
+   "hair:textured",
+   "hair:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "cd-cosmo-designs-b0gcmrk16n",
+  "brand": "CD COSMO DESIGNS",
+  "model": "Cosmo Hair Spray Shine Hold 004 | Long-Lasting, Humidity-Resistant Styling Formula for All…",
+  "price": 349,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Hair spray · ₹140/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹140/100ml",
+   "format": "Hair spray",
+   "appliesTo": "Lengths & ends (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Frizz control, Dryness / hydration, Shine / gloss, Hold (styling), Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
+   "hairType": "All hair types",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51qLVqDZU2L._SL1246_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCMRK16N",
+  "buyStore": "Amazon",
+  "title": "Cosmo Hair Spray Shine Hold 004 | Long-Lasting, Humidity-Resistant Styling Formula for All Hair Types – 250ml | No Stickness & No Residue Fast Drying | 24 Hour Frizz Control",
+  "tags": [
+   "area:lengths",
+   "format:mist",
+   "format:hair-spray",
+   "concern:frizz",
+   "concern:dryness",
+   "concern:shine",
+   "concern:hold",
+   "concern:restyle",
+   "concern:humidity",
+   "hair:all",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
   "id": "mcaffeine-b0gl91j36n",
   "brand": "mCaffeine",
   "model": "Anti-Frizz Perfume Hair Spray For Instant Gloss| 31% Shine Complex with Glycolic Acid | Ad…",
@@ -142424,8 +145558,8 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "The Earth Collective official website (theearthcollective.in) — product page › Ingredients",
-   "inciSourceUrl": "https://theearthcollective.in/products/water-defence-spray-your-barrier-against-water-damage-veg-keratin-olive-wheat",
-   "inciMatchedName": "Water Defence Spray | Made for Indian Hair Against Hard Water | Veg Keratin, Olive & Wheat (name match 100%)",
+   "inciSourceUrl": "https://theearthcollective.in/products/pre-swim-water-defence-hair-spray-prevents-chlorine-damage",
+   "inciMatchedName": "Pre-Swim Water Defence Hair Spray -  Prevents Chlorine Damage (name match 100%)",
    "inciList": "Veg Keratin – Aqua, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Olive Oil, Amodimethicone & Cetrimonium Chloride & Trideceth-12, Propylene Glycol, Polysorbate 80, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol & Ethyl Hexyl Glycerine, Silicone Quaternium-16 & Undeceth-11 & Butyloctanol & Undeceth-5, D Panthenol, Disodium Edetate, Water, Fragrance",
    "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
@@ -142474,9 +145608,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "The Earth Collective official website (theearthcollective.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://theearthcollective.in/products/water-defence-spray-your-barrier-against-water-damage-veg-keratin-olive-wheat",
+   "inciSourceUrl": "https://theearthcollective.in/products/pre-swim-water-defence-hair-spray-prevents-chlorine-damage",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Water Defence Spray | Made for Indian Hair Against Hard Water | Veg Keratin, Olive & Wheat",
+   "inciMatchedTitle": "Pre-Swim Water Defence Hair Spray -  Prevents Chlorine Damage",
    "inciMatchScore": 1,
    "inciText": "Veg Keratin – Aqua, Wheat Amino Acids, Soy Amino Acids, Arginine HCL, Serine, Threonine, Olive Oil, Amodimethicone & Cetrimonium Chloride & Trideceth-12, Propylene Glycol, Polysorbate 80, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol & Ethyl Hexyl Glycerine, Silicone Quaternium-16 & Undeceth-11 & Butyloctanol & Undeceth-5, D Panthenol, Disodium Edetate, Water, Fragrance",
    "inciUnverified": null,
@@ -142929,6 +146063,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "hairCleansing"
     },
     {
@@ -142936,6 +146071,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "bhringraj"
     }
    ],
@@ -146727,6 +149863,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -146734,6 +149871,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -146741,6 +149879,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -146748,6 +149887,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -146755,6 +149895,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 30,
      "core": true,
+     "trace": false,
      "src": "stylingPolymers"
     },
     {
@@ -146762,6 +149903,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -163595,1395 +166737,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "got2b-b07bcfxql3",
-  "brand": "Got2B",
-  "model": "Glued Blasting Freeze Hairspray for Extreme Styling, Ultra Strong Hold Level 6, Long-Lasti…",
-  "price": 339,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹339/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹339/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/615ivaUEGNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07BCFXQL3",
-  "buyStore": "Amazon",
-  "title": "Got2b Glued Blasting Freeze Hairspray for Extreme Styling, Ultra Strong Hold Level 6, Long-Lasting Fixation, Vegan Formula - 100ml",
-  "tags": [
-   "area:unstated",
-   "format:hair-spray",
-   "concern:hold",
-   "free:vegan",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "arata-b0b1j6bqxy",
-  "brand": "Arata",
-  "model": "Volumizing Sea Salt Hair Spray | Niacinamide & Biotin | Long-lasting Soft Hold | Matte Fin…",
-  "price": 262,
-  "capacityLine": "50 ml",
-  "materialLine": "Niacinamide + Sea salt + Biotin",
-  "featureLine": "Hair spray · Alcohol-free · ₹524/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹524/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Niacinamide, Sea salt, Biotin (named on listing)",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Volume / body, Hold (styling), Matte finish (seller claim — not clinical proof)",
-   "hairType": "Wavy hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+XcbfRD8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B1J6BQXY",
-  "buyStore": "Amazon",
-  "title": "Arata Volumizing Sea Salt Hair Spray | Niacinamide & Biotin | Long-lasting Soft Hold | Matte Finish | Beachy Waves | Hair Texturizing Spray for Men & Women | Drying Alcohol-Free | Derma-Tested | 50 ML",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "format:texture-spray",
-   "ing:niacinamide",
-   "ing:sea-salt",
-   "ing:biotin",
-   "concern:volume",
-   "concern:hold",
-   "concern:matte-finish",
-   "hair:wavy",
-   "free:alcohol",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "schwarzkopf-b01dafx8tq",
-  "brand": "Schwarzkopf",
-  "model": "Professional OSiS+ Sparkler Shine Spray | Instant Shine & Lightweight Conditioning Spray f…",
-  "price": 787,
-  "capacityLine": "300 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹262/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹262/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41HP5pFgotL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01DAFX8TQ",
-  "buyStore": "Amazon",
-  "title": "Schwarzkopf Professional OSiS+ Sparkler Shine Spray | Instant Shine & Lightweight Conditioning Spray for Men & Women | Anti-Frizz & Smooth Finish for All Hair Types (300 ML)",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "concern:frizz",
-   "concern:smoothing",
-   "concern:shine",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "gatsby-b00791ehdy",
-  "brand": "Gatsby",
-  "model": "Japan Set And Keep Hair Spray Super Hard, 250ml | Quick Drying, Long Lasting Hold, No Flak…",
-  "price": 299,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹120/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹120/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Shine / gloss, Hold (styling), Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51NTG8dlbVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00791EHDY",
-  "buyStore": "Amazon",
-  "title": "Gatsby Japan Set And Keep Hair Spray Super Hard, 250ml | Quick Drying, Long Lasting Hold, No Flaking & Natural Shine | Non Sticky & Easy Wash Off | Styling Hair Spray",
-  "tags": [
-   "area:scalp",
-   "format:mist",
-   "format:wash",
-   "format:kit",
-   "format:hair-spray",
-   "concern:dandruff",
-   "concern:shine",
-   "concern:hold",
-   "concern:restyle",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "l-oreal-paris-b0gr8mqybd",
-  "brand": "L'Oreal Paris",
-  "model": "Elnett Precious Oil Infused Hair Spray 300ml – Long Lasting Strong Hold with High Shine Fi…",
-  "price": 999,
-  "capacityLine": "300 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹333/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹333/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Smoothing / straightening, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51r4ZzcU+HL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GR8MQYBD",
-  "buyStore": "Amazon",
-  "title": "L’Oreal Paris Elnett Precious Oil Infused Hair Spray 300ml – Long Lasting Strong Hold with High Shine Finish & Anti-Frizz Control",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "format:oil",
-   "format:hair-spray",
-   "concern:frizz",
-   "concern:smoothing",
-   "concern:shine",
-   "concern:hold",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "L'Oréal",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "l-oreal-paris-b000o7lh06",
-  "brand": "L'Oreal Paris",
-  "model": "Elnett Satin Extra Strength Hair Spray, 400ml",
-  "price": 659,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹165/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹165/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51E80FJILQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B000O7LH06",
-  "buyStore": "Amazon",
-  "title": "L'Oreal Paris Elnett Satin Extra Strength Hair Spray, 400ml",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "L'Oréal",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "urbangabru-b08lpswj51",
-  "brand": "Urbangabru",
-  "model": "Unlimited Hold No Gas Hair Spray (100 ml) | Hair Styling & Hair Setting Spray | Paraben & …",
-  "price": 199,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · Sulfate/SLS-free · ₹199/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹199/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61R6avUDCfL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08LPSWJ51",
-  "buyStore": "Amazon",
-  "title": "UrbanGabru Unlimited Hold No Gas Hair Spray (100 ml) | Hair Styling & Hair Setting Spray | Paraben & Sulphate Free",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "concern:hold",
-   "free:sulfate",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "nishman-b0c8yvt5lc",
-  "brand": "nishman",
-  "model": "Hair Styling Spray | 24 HR Frizz Control | Ultra Strong Hold | Touchable Feel | No Crunch …",
-  "price": 395,
-  "capacityLine": "150 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mist / spray · ₹263/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹263/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Hold (styling), Humidity resistant (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61l12Gl0COL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C8YVT5LC",
-  "buyStore": "Amazon",
-  "title": "Nishman Hair Styling Spray | 24 HR Frizz Control | Ultra Strong Hold | Touchable Feel | No Crunch or Stiffness | Humidity Resistant | Sweat Proof | Voluminous Hair | 150 ML",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "concern:frizz",
-   "concern:hold",
-   "concern:humidity",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "urbannova-b0dxpd7j5f",
-  "brand": "urbannova",
-  "model": "Super Hold Hair Spray For Men & Women of All Hair Types | Professional Strong Hold Hair St…",
-  "price": 165,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹41/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹41/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling), Matte finish (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41MeJm040jL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DXPD7J5F",
-  "buyStore": "Amazon",
-  "title": "urbannova Super Hold Hair Spray For Men & Women of All Hair Types | Professional Strong Hold Hair Styling Spray | No Stiffness & Natural Finish (400 ML) (Pack of 1)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:kit",
-   "format:hair-spray",
-   "concern:hold",
-   "concern:matte-finish",
-   "hair:all",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "enzo-b0c4b8b1h9",
-  "brand": "Enzo",
-  "model": "Hair Spray for Strong Hair For Men & Women Long (420 ml)",
-  "price": 78,
-  "capacityLine": "420 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹19/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "420 ml",
-   "pricePer100": "₹19/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Ckg1NE6wL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C4B8B1H9",
-  "buyStore": "Amazon",
-  "title": "Enzo Hair Spray for Strong Hair For Men & Women Long (420 ml)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "mintree-b0fl7rd57t",
-  "brand": "Mintree",
-  "model": "Magic Coat Anti Humidity Hair Spray for Blow Dry & Styling with Anti Frizz Control, Heat &…",
-  "price": 1615,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹5383/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹5383/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Volume / body, Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "heatSealed": "Listing says to seal with a flat iron / blow-dryer — check the INCI for formaldehyde / methylene glycol before heating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71CF1WQzbNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FL7RD57T",
-  "buyStore": "Amazon",
-  "title": "Mintree Magic Coat Anti Humidity Hair Spray for Blow Dry & Styling with Anti Frizz Control, Heat & UV Protection, Adds Volume | Lightweight Non-Sticky Formula for All Hair Types | 30 ml",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "format:hair-spray",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:volume",
-   "concern:restyle",
-   "concern:humidity",
-   "hair:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "l-oreal-paris-b009woos1m",
-  "brand": "L'Oreal Paris",
-  "model": "Elnett Satin Hairspray, 175 ml",
-  "price": 994,
-  "capacityLine": "175 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹568/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "175 ml",
-   "pricePer100": "₹568/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71nQp2aaIdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B009WOOS1M",
-  "buyStore": "Amazon",
-  "title": "L'Oreal Paris Elnett Satin Hairspray, 175 ml",
-  "tags": [
-   "area:unstated",
-   "format:hair-spray",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "L'Oréal",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "schwarzkopf-b0c36p19w9",
-  "brand": "Schwarzkopf",
-  "model": "Professional OSiS+ Super Shield Anti-Pollution & Humidty Hair Spray With Hydrogenated Oliv…",
-  "price": 1095,
-  "capacityLine": "300 ml",
-  "materialLine": "Olive",
-  "featureLine": "Hair spray · ₹365/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹365/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Coloured / chemically treated",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41KTqyBTAjL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C36P19W9",
-  "buyStore": "Amazon",
-  "title": "Schwarzkopf Professional OSiS+ Super Shield Anti-Pollution & Humidty Hair Spray With Hydrogenated Olive Olis | Protects Coloured Hair | Adss Shine | Remove Friziness - 300ml",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "ing:olive",
-   "concern:shine",
-   "hair:coloured",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gxc9v8lf",
-  "brand": "Unbranded",
-  "model": "Sea Salt Hair Spray with Sea Salt & Vitamin E | Volumizes Hair & Adds Texture | Lightweigh…",
-  "price": 160,
-  "capacityLine": "100 ml",
-  "materialLine": "Vitamin E + Sea salt",
-  "featureLine": "Hair spray · ₹160/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹160/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin E, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Volume / body, Restylable / no flakes (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51MtGvI5H1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXC9V8LF",
-  "buyStore": "Amazon",
-  "title": "Sea Salt Hair Spray with Sea Salt & Vitamin E | Volumizes Hair & Adds Texture | Lightweight Non Sticky Styling Spray | Natural Beach Wave Look | For Men & Women | 100ml",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "format:texture-spray",
-   "ing:vitamin-e",
-   "ing:sea-salt",
-   "concern:volume",
-   "concern:restyle",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0g5jxhw42",
   "brand": "Unbranded",
   "model": "18ml Hair Finishing Stick for frizzy hairr woman -15ml | Baby Hair fixer women | Anti Flya…",
@@ -165083,1481 +166836,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "enzo-b0ftmfq8sy",
-  "brand": "Enzo",
-  "model": "Hair Spray – 420ML | Hairs Styling Spray with No Stiffness and Strong Hold | All-Day Shine…",
-  "price": 299,
-  "capacityLine": "420 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹71/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "420 ml",
-   "pricePer100": "₹71/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Shine / gloss, Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/411I5kK0PiL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FTMFQ8SY",
-  "buyStore": "Amazon",
-  "title": "Enzo Hair Spray – 420ML | Hairs Styling Spray with No Stiffness and Strong Hold | All-Day Shine & Weatherproof Styling | No Greasy Residue - Suitable for All Hair Types | Black | Pack of 1",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:kit",
-   "format:hair-spray",
-   "concern:oily-scalp",
-   "concern:shine",
-   "concern:hold",
-   "hair:all",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dcgk1txp",
-  "brand": "Unbranded",
-  "model": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (2, 300 Gms)",
-  "price": 474,
-  "capacityLine": "300 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · ₹158/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹158/100g",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61DhxnSlIvL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DCGK1TXP",
-  "buyStore": "Amazon",
-  "title": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (2, 300 Gms)",
-  "tags": [
-   "area:unstated",
-   "concern:hold",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dbvty6y5",
-  "brand": "Unbranded",
-  "model": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (1, 500, Millilitres)",
-  "price": 350,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71wYj-O37WL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DBVTY6Y5",
-  "buyStore": "Amazon",
-  "title": "Grace Hair Fixer - Long Lasting, Strong Hold and Pleasant Fragrance (1, 500, Millilitres)",
-  "tags": [
-   "area:unstated",
-   "concern:hold",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "glowhouse-b0cq8fmmy1",
-  "brand": "Glowhouse",
-  "model": "Nova Gold System Professional Hair Spray - Super Firm Hold Spray- (400 ml)",
-  "price": 189,
-  "capacityLine": "400 ml",
-  "materialLine": "Gold",
-  "featureLine": "Hair spray · ₹47/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹47/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Gold (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51wcCNgdm5L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CQ8FMMY1",
-  "buyStore": "Amazon",
-  "title": "Glowhouse Nova Gold System Professional Hair Spray - Super Firm Hold Spray- (400 ml)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "ing:gold",
-   "concern:hold",
-   "aud:unisex",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "simco-b07ddlcww7",
-  "brand": "Simco",
-  "model": "Classic Hair Fixer, 300gm (Pack Of 2)",
-  "price": 381,
-  "capacityLine": "600 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Other · ₹64/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "300 g × 2 pack",
-   "pricePer100": "₹64/100g",
-   "format": "Other",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51eq7QNiUrL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07DDLCWW7",
-  "buyStore": "Amazon",
-  "title": "Simco Classic Hair Fixer, 300gm (Pack Of 2)",
-  "tags": [
-   "area:unstated",
-   "format:kit",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0ffnjsbx3",
-  "brand": "Unbranded",
-  "model": "HAIR HOLD SPRAY",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61t4vltEdmL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FFNJSBX3",
-  "buyStore": "Amazon",
-  "title": "HAIR HOLD SPRAY",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "concern:hold",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "brooks-b0d39y8sn1",
-  "brand": "Brooks",
-  "model": "Powerful Hair Spray, no stickness, no flacking, powerhold & vigorous hair, 24h Holds, 250m…",
-  "price": 269,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹108/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹108/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61elFXphNcL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D39Y8SN1",
-  "buyStore": "Amazon",
-  "title": "Brooks Powerful Hair Spray, no stickness, no flacking, powerhold & vigorous hair, 24h Holds, 250ml, Black",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b09hhlhhhv",
-  "brand": "Unbranded",
-  "model": "Lasting Hair Spray for Strong Hair With Fragrance | For Men & Women Long Pretty Hair (420 …",
-  "price": 191,
-  "capacityLine": "420 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹45/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "420 ml",
-   "pricePer100": "₹45/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31LTAxsqS5L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09HHLHHHV",
-  "buyStore": "Amazon",
-  "title": "Lasting Hair Spray for Strong Hair With Fragrance | For Men & Women Long Pretty Hair (420 ml)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hbc7bclt",
-  "brand": "Unbranded",
-  "model": "Sea Salt Spray for Hair Volumising, 100 ml | Instant Volume & Texture, Bhringraj & Ginseng…",
-  "price": 765,
-  "capacityLine": "100 ml",
-  "materialLine": "Vitamin B5 / panthenol + Ginseng + Sea salt",
-  "featureLine": "Mist / spray · ₹765/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹765/100ml",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Vitamin B5 / panthenol, Ginseng, Sea salt, Bhringraj, Panthenol (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dryness / hydration, Volume / body (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Wavy hair, Textured / afro hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61FNuT6XnnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBC7BCLT",
-  "buyStore": "Amazon",
-  "title": "Sea Salt Spray for Hair Volumising, 100 ml | Instant Volume & Texture, Bhringraj & Ginseng, D Panthenol & Vit E, For Dry & Damp Hair, Textured Beach Waves",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:texture-spray",
-   "ing:vitamin-b5-panthenol",
-   "ing:ginseng",
-   "ing:sea-salt",
-   "ing:bhringraj",
-   "ing:panthenol",
-   "concern:dryness",
-   "concern:volume",
-   "hair:dry",
-   "hair:wavy",
-   "hair:textured",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b07c3p919v",
-  "brand": "Unbranded",
-  "model": "Not Your Mother's Not Your Mothers Beach Babe Soft Waves Sea Salt Spray 8oz (2 Pack)",
-  "price": 4688,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Sea salt",
-  "featureLine": "Mist / spray",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mist / spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Wavy hair",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Rw96tBH-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07C3P919V",
-  "buyStore": "Amazon",
-  "title": "Not Your Mother's Not Your Mothers Beach Babe Soft Waves Sea Salt Spray 8oz (2 Pack)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:texture-spray",
-   "ing:sea-salt",
-   "hair:wavy",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "cosmo-b0gcmrk16n",
-  "brand": "Cosmo",
-  "model": "Hair Spray Shine Hold 004 | Long-Lasting, Humidity-Resistant Styling Formula for All Hair …",
-  "price": 349,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹140/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹140/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Shine / gloss, Hold (styling), Restylable / no flakes, Humidity resistant (seller claim — not clinical proof)",
-   "hairType": "All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51qLVqDZU2L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GCMRK16N",
-  "buyStore": "Amazon",
-  "title": "Cosmo Hair Spray Shine Hold 004 | Long-Lasting, Humidity-Resistant Styling Formula for All Hair Types – 250ml | No Stickness & No Residue Fast Drying | 24 Hour Frizz Control",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "format:hair-spray",
-   "concern:frizz",
-   "concern:shine",
-   "concern:hold",
-   "concern:restyle",
-   "concern:humidity",
-   "hair:all",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "CavinKare",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.cavinkare.com/brands/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cosmo-b0g4vtl51l",
-  "brand": "Cosmo",
-  "model": "Soft & Shine Refresher Hair Spray Instant Shine and Moisture Mist Refreshes Hair, Soft, Sm…",
-  "price": 410,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹164/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹164/100ml",
-   "format": "Hair spray",
-   "appliesTo": "Lengths & ends (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Frizz control, Dryness / hydration, Smoothing / straightening, Shine / gloss (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61D1LhC0TCL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G4VTL51L",
-  "buyStore": "Amazon",
-  "title": "Cosmo Soft & Shine Refresher Hair Spray Instant Shine and Moisture Mist Refreshes Hair, Soft, Smooth, and Manageable All Day Frizz Control, & Restore Natural - 250ml",
-  "tags": [
-   "area:lengths",
-   "format:mist",
-   "format:hair-spray",
-   "concern:frizz",
-   "concern:dryness",
-   "concern:smoothing",
-   "concern:shine",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "CavinKare",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.cavinkare.com/brands/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "chi-b07tntlsr4",
-  "brand": "CHI",
-  "model": "Enviro 54 Firm Hold Hairspray - 340 g",
-  "price": 4209,
-  "capacityLine": "340 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹1238/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "340 g",
-   "pricePer100": "₹1238/100g",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/517XzXvrZvL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07TNTLSR4",
-  "buyStore": "Amazon",
-  "title": "CHI Enviro 54 Firm Hold Hairspray - 340 g",
-  "tags": [
-   "area:unstated",
-   "format:hair-spray",
-   "concern:hold",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "enzo-b0dq93qs8b",
-  "brand": "Enzo",
-  "model": "Premium Hair Spray, 420ML, Curl Enhancing, Flexible Hold, Long Lasting, No Greasy Residue,…",
-  "price": 344,
-  "capacityLine": "840 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Pimple patch · ₹41/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "420 ml × 2 pack",
-   "pricePer100": "₹41/100ml",
-   "format": "Pimple patch",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Oily scalp / greasiness, Shine / gloss, Curl definition, Hold (styling) (seller claim — not clinical proof)",
-   "hairType": "Curly hair, All hair types",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41TQSJ+HtuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQ93QS8B",
-  "buyStore": "Amazon",
-  "title": "Enzo Premium Hair Spray, 420ML, Curl Enhancing, Flexible Hold, Long Lasting, No Greasy Residue, All-Day Shine, Suitable for All Hair Types, Hair Patch, Pack of 2",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:kit",
-   "format:hair-spray",
-   "concern:oily-scalp",
-   "concern:shine",
-   "concern:curl-definition",
-   "concern:hold",
-   "hair:curly",
-   "hair:all",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b001kys7o6",
-  "brand": "Unbranded",
-  "model": "Salon Grafix Professional Shaping Hair Spray Styling Mist 10 oz (283 g)",
-  "price": 1552,
-  "capacityLine": "283 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Hair spray · ₹548/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "283 g",
-   "pricePer100": "₹548/100g",
-   "format": "Hair spray",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Iz1m6B2OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B001KYS7O6",
-  "buyStore": "Amazon",
-  "title": "Salon Grafix Professional Shaping Hair Spray Styling Mist 10 oz (283 g)",
-  "tags": [
-   "area:unstated",
-   "format:mist",
-   "format:hair-spray",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
   }
  }
 ];

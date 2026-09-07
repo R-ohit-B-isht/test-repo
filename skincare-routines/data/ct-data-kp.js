@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -112,6 +112,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -119,6 +120,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -126,6 +128,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -133,6 +136,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -140,6 +144,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -147,6 +152,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -154,6 +160,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -161,6 +168,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -168,6 +176,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -175,6 +184,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     }
    ],
@@ -287,6 +297,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:kp",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:women",
    "size:large",
@@ -348,7 +359,7 @@ const CTPRODUCTS = [
    "Essential oil / volatile sensitiser: tea tree oil"
   ],
   "scores": {
-   "ingredients": 8.7,
+   "ingredients": 9.1,
    "skin": 9.5,
    "trust": 8,
    "experience": 7.6
@@ -375,7 +386,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#7 on list, moderate evidence); glycerin (#8 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.2★ from 4,920 ratings"
+   "buyerEvidence": "4.2★ from 4,920 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/e/300-tea-tree-lactic-acid-body-lotion-treats-body-acne-original-imahykh8gzhkfxa6.jpeg?q=90",
@@ -397,6 +409,7 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -430,13 +443,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -444,6 +467,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -451,6 +475,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -458,6 +483,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     }
    ],
@@ -992,6 +1018,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:dry-skin-relief",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -1196,6 +1223,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:urea",
    "claim:hydrating",
+   "claim:cracked-heels",
    "skin:dry",
    "aud:women",
    "size:standard",
@@ -1260,7 +1288,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.4,
    "trust": 4.5,
    "experience": 7.3
@@ -1287,7 +1315,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); urea (#4 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: bronopol (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 472 ratings"
+   "buyerEvidence": "4.5★ from 472 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/0/o/150-urea-cream-for-intense-moisturisation-for-thick-and-dry-skin-original-imahpz27y62h9fyf.jpeg?q=90",
@@ -1307,6 +1336,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:secondary"
   ],
@@ -1336,10 +1366,19 @@ const CTPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
      "name": "glycerin",
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1347,6 +1386,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -1354,6 +1394,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -1361,6 +1402,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -1843,7 +1885,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 6.4,
+   "ingredients": 6.7,
    "skin": 7,
    "trust": 5.5,
    "experience": 3.7
@@ -1868,7 +1910,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#5 on list, strong evidence); lactic acid (#9 on list, strong evidence); shea butter (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 10 ratings"
+   "buyerEvidence": "4.1★ from 10 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #10 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/c/b/-original-imahqhtcchwphhwg.jpeg?q=90",
@@ -1894,6 +1937,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -1927,13 +1971,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "glycerin",
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1941,6 +1995,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -1948,6 +2003,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -1955,6 +2011,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -2470,6 +2527,7 @@ const CTPRODUCTS = [
    "ing:gold",
    "claim:hydrating",
    "claim:barrier",
+   "claim:cracked-heels",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -3445,6 +3503,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:hydrating",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -3663,6 +3722,7 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "ing:coconut",
    "claim:hydrating",
+   "claim:cracked-heels",
    "skin:dry",
    "skin:all",
    "free:vegan",
@@ -3956,7 +4016,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 6.8,
+   "ingredients": 6.9,
    "skin": 7.7,
    "trust": 7,
    "experience": 7.9
@@ -4037,6 +4097,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4044,13 +4105,23 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "striae"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -4150,6 +4221,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:exfoliating",
    "claim:lightweight",
+   "claim:stretch-marks",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -4313,11 +4385,11 @@ const CTPRODUCTS = [
  {
   "id": "wow-itma02c19db6c60a",
   "brand": "Wow",
-  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (400 ml …",
+  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "price": 112,
-  "capacityLine": "400 ml",
+  "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + shea butter",
-  "featureLine": "Lotion · ₹28/100ml",
+  "featureLine": "Lotion",
   "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
    "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
@@ -4327,14 +4399,14 @@ const CTPRODUCTS = [
    "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
-   "ingredients": 6.2,
+   "ingredients": 6.3,
    "skin": 6.3,
    "trust": 7,
    "experience": 7.6
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹28/100ml",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
    "format": "Lotion",
    "keyIngredients": "lactic acid, shea butter (per listing)",
    "freeFrom": "Not stated in listing",
@@ -4364,7 +4436,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/wow-skin-science-shea-butter-lactic-acid-body-lotion/p/itma02c19db6c60a",
   "buyStore": "Flipkart",
-  "title": "WOW SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (400 ml …",
+  "title": "WOW SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -4372,7 +4444,6 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:shea-butter",
    "aud:unisex",
-   "size:xl",
    "rating:4.0",
    "store:flipkart",
    "inci:full"
@@ -4407,6 +4478,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4414,6 +4486,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -4421,13 +4494,23 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "panthenol"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "striae"
     },
     {
      "name": "butyrospermum parkii butter",
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -4562,6 +4645,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4569,6 +4653,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -4576,6 +4661,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -4785,7 +4871,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Vedic Cosmeceuticals Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 13 ratings"
+   "buyerEvidence": "4.3★ from 13 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/v/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vhzmgk9nu.jpeg?q=90",
@@ -4805,6 +4892,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -4838,6 +4927,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -4845,6 +4935,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -4852,6 +4943,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4859,6 +4951,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4866,6 +4959,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -4873,6 +4967,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -4880,6 +4975,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 36,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     }
    ],
@@ -5197,6 +5293,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:kp",
    "claim:korean",
+   "claim:odour",
    "skin:all",
    "free:paraben",
    "free:vegan",
@@ -5302,6 +5399,7 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
+   "format:body-wax",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:cocoa-butter",
@@ -5344,14 +5442,23 @@ const CTPRODUCTS = [
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.7,
-   "recognised": 0.85,
+   "recognised": 0.92,
    "actives": [
     {
      "name": "glycolic acid",
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "striae"
     }
    ],
    "support": [],
@@ -5408,7 +5515,8 @@ const CTPRODUCTS = [
    "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#8 on list, strong evidence); dimethicone (#10 on list, moderate evidence); ceramide np (#12 on list, moderate evidence); ceramide ap (#13 on list, moderate evidence); ceramide eop (#14 on list, moderate evidence); salicylic acid (#17 on list, strong evidence); cholesterol (#21 on list, moderate evidence); lactic acid (#27 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "2.8★ from 4 ratings"
+   "buyerEvidence": "2.8★ from 4 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #17 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — ceramide np #12 on INCI, ceramide ap #13 on INCI, ceramide eop #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/z/-original-imahzv83zzyw2gyz.jpeg?q=90",
@@ -5441,6 +5549,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:low",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance",
    "inci:pharma-maker"
@@ -5475,6 +5586,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -5482,6 +5594,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -5489,6 +5602,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -5496,6 +5610,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -5503,6 +5618,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5510,6 +5626,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5517,6 +5634,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5524,6 +5642,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -5531,6 +5650,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -5538,6 +5658,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -5545,6 +5666,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -5552,6 +5674,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -6027,7 +6150,7 @@ const CTPRODUCTS = [
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 6.4,
+   "ingredients": 6.5,
    "skin": 7,
    "trust": 5.5,
    "experience": 0
@@ -6052,7 +6175,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); urea (#3 on list, strong evidence); butyrospermum parkii butter (#8 on list, moderate evidence); ceramide np (#11 on list, moderate evidence); lactic acid (#12 on list, strong evidence); cholesterol (#19 on list, moderate evidence); dimethicone (#22 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — ceramide np #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/y/453-advanced-repair-body-cream-urea-enriched-unscented-body-original-imahptchgcdw3qqz.jpeg?q=90",
@@ -6082,6 +6206,7 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -6115,6 +6240,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6122,6 +6248,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -6129,6 +6256,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6136,6 +6264,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -6143,6 +6272,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -6150,6 +6280,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -6157,6 +6288,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -6164,7 +6296,16 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 28,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
     }
    ],
    "support": [
@@ -6958,6 +7099,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -6965,6 +7107,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6972,6 +7115,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6979,6 +7123,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -6986,6 +7131,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -6993,6 +7139,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -7000,6 +7147,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -7007,6 +7155,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -7014,6 +7163,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -7021,6 +7171,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     }
    ],
@@ -7127,6 +7278,7 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:urea",
    "claim:hydrating",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -7188,7 +7340,7 @@ const CTPRODUCTS = [
    "Essential oil / volatile sensitiser: tea tree oil"
   ],
   "scores": {
-   "ingredients": 8.7,
+   "ingredients": 9.1,
    "skin": 9.5,
    "trust": 8,
    "experience": 7.6
@@ -7216,7 +7368,8 @@ const CTPRODUCTS = [
    "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo herbal products,Unit II (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 4,920 ratings"
+   "buyerEvidence": "4.2★ from 4,920 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI, melaleuca alternifolia leaf oil #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/u/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfjgfffr4e.jpeg?q=90",
@@ -7236,6 +7389,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -7269,13 +7423,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -7283,6 +7447,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7290,6 +7455,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -7297,6 +7463,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "teaTree"
     }
    ],
@@ -7329,7 +7496,7 @@ const CTPRODUCTS = [
  {
   "id": "bake-itm3df683b3e9fa9",
   "brand": "BAKE",
-  "model": "Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for …",
+  "model": "Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for Rough & Uneven Skin",
   "price": 398,
   "capacityLine": "200 ml",
   "materialLine": "glycolic acid + lactic acid",
@@ -7377,7 +7544,7 @@ const CTPRODUCTS = [
   ],
   "buyUrl": "https://www.flipkart.com/bake-glycolic-acid-lactic-aha-exfoliating-body-lotion-rough-uneven-skin/p/itm3df683b3e9fa9",
   "buyStore": "Flipkart",
-  "title": "BAKE Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for …",
+  "title": "BAKE Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for Rough & Uneven Skin",
   "tags": [
    "scope:both",
    "format:cream",
@@ -7677,7 +7844,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 6.8,
+   "ingredients": 6.9,
    "skin": 7.7,
    "trust": 7,
    "experience": 6.2
@@ -7775,6 +7942,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7782,13 +7950,23 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "striae"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -7926,6 +8104,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7933,6 +8112,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -7940,6 +8120,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -8267,7 +8448,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#3 on list, strong evidence); glycerin (#5 on list, strong evidence); shea butter (#6 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 205 ratings"
+   "buyerEvidence": "4★ from 205 ratings",
+   "concernBasis": "Acne — niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI; Irritation — aloe barbadensis leaf extract #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/p/q/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahpaytcgsphtyb.jpeg?q=90",
@@ -8284,6 +8466,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:balm",
+   "format:body-wax",
    "ing:niacinamide",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -8304,6 +8487,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -8336,6 +8522,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -8343,6 +8530,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -8350,6 +8538,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8357,6 +8546,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -8364,6 +8554,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -8371,6 +8562,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -8575,6 +8767,7 @@ const CTPRODUCTS = [
    "claim:barrier",
    "claim:kp",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -8779,7 +8972,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#3 on list, strong evidence); glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#13 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 204 ratings"
+   "buyerEvidence": "4.5★ from 204 ratings",
+   "concernBasis": "Acne — niacinamide #12 on INCI, salicylic acid #13 on INCI; Dark spots — niacinamide #12 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI, panthenol #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/l/400-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzrzhzdjh5rdr.jpeg?q=90",
@@ -8812,6 +9006,9 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -8845,6 +9042,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -8852,6 +9050,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -8859,6 +9058,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -8866,6 +9066,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -8873,6 +9074,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -8880,6 +9082,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -8887,6 +9090,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -8894,6 +9098,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -8901,6 +9106,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -9193,6 +9399,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:kp",
+   "claim:ingrown",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -9287,6 +9494,7 @@ const CTPRODUCTS = [
    "scope:body",
    "format:lotion",
    "ing:salicylic-acid-bha",
+   "ing:chamomile",
    "claim:pores",
    "claim:hydrating",
    "claim:kp",
@@ -9354,7 +9562,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 0
@@ -9381,7 +9589,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
@@ -9403,6 +9612,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -9436,13 +9646,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -9450,6 +9670,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -9858,6 +10079,7 @@ const CTPRODUCTS = [
    "ing:urea",
    "ing:ceramides",
    "ing:shea-butter",
+   "ing:magnesium",
    "claim:oil-control",
    "claim:hydrating",
    "claim:barrier",
@@ -9918,17 +10140,17 @@ const CTPRODUCTS = [
   "capacityLine": "177 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + lactic acid",
   "featureLine": "Scrub / exfoliant · Fragrance-free · ₹630/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by L'Oréal Dermatological Beauty (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 9.8,
+   "skin": 10,
+   "trust": 10,
    "experience": 2.9
   },
   "fullSpec": {
@@ -9945,13 +10167,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua/​Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/​Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
+   "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#8 on list, strong evidence); dimethicone (#10 on list, moderate evidence); ceramide np (#12 on list, moderate evidence); ceramide ap (#13 on list, moderate evidence); ceramide eop (#14 on list, moderate evidence); salicylic acid (#17 on list, strong evidence); cholesterol (#21 on list, moderate evidence); lactic acid (#27 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI, salicylic acid #17 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — ceramide np #12 on INCI, ceramide ap #13 on INCI, ceramide eop #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ax6DZbi3L._AC_UL320_.jpg"
@@ -9987,7 +10210,11 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -9997,25 +10224,132 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "listing",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
    "inciSourceUrl": null,
    "inciSourceRegion": null,
    "inciMatchedTitle": null,
    "inciMatchScore": null,
-   "inciText": null,
+   "inciText": "Aqua/​Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/​Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "urea"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 26,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 27,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "urea",
+    "niacinamide",
+    "glycerin",
+    "dimethicone",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "sodium hyaluronate",
+    "cholesterol"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -10046,7 +10380,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 1.9
@@ -10073,7 +10407,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
@@ -10091,6 +10426,7 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:aha",
    "ing:olive",
+   "ing:chamomile",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -10107,6 +10443,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -10140,13 +10477,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -10154,6 +10501,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -10524,7 +10872,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 4.8
@@ -10551,7 +10899,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 0 ratings"
+   "buyerEvidence": "4.9★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aFhvKCHfL._AC_UL320_.jpg"
@@ -10568,6 +10917,7 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:aha",
    "ing:olive",
+   "ing:chamomile",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -10587,6 +10937,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -10620,13 +10971,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -10634,6 +10995,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -10923,7 +11285,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); salicylic acid (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); lactic acid (#6 on list, strong evidence); shea butter (#12 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #4 on INCI, niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512CLOW6g7L._AC_UL320_.jpg"
@@ -10951,6 +11314,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -10985,6 +11350,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10992,6 +11358,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -10999,6 +11366,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -11006,6 +11374,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -11013,6 +11382,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -11020,6 +11390,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -11027,6 +11398,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -11034,6 +11406,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -11954,6 +12327,8 @@ const CTPRODUCTS = [
    "claim:kp",
    "claim:long-lasting",
    "claim:dry-skin-relief",
+   "claim:ingrown",
+   "claim:cooling",
    "skin:dry",
    "free:paraben",
    "free:sulfate",
@@ -12076,6 +12451,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:kp",
    "claim:dry-skin-relief",
+   "claim:ingrown",
+   "claim:scars",
    "aud:unisex",
    "size:large",
    "rating:4.5",
@@ -12680,7 +13057,7 @@ const CTPRODUCTS = [
   ],
   "cons": [],
   "scores": {
-   "ingredients": 7.7,
+   "ingredients": 8.1,
    "skin": 10,
    "trust": 10,
    "experience": 1.9
@@ -12757,10 +13134,19 @@ const CTPRODUCTS = [
    "recognised": 0.93,
    "actives": [
     {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
      "name": "urea",
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -12768,6 +13154,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -12775,6 +13162,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -12858,6 +13246,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:kp",
    "claim:lightweight",
+   "claim:ingrown",
    "skin:dry",
    "skin:sensitive",
    "free:derm",
@@ -12874,116 +13263,6 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "skinvest-b0ctzwk22p",
-  "brand": "Skinvest",
-  "model": "Bomb Bum Body Cream 100gm + Bye Bye Bumps Exfoliating Mist 50ml Helps for Visibly Tightens…",
-  "price": 1874,
-  "capacityLine": "200 g (pack of 2)",
-  "materialLine": "salicylic acid (BHA) + caffeine",
-  "featureLine": "Scrub / exfoliant · ₹937/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "100 g × 2 pack",
-   "pricePer100": "₹937/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA), caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/616ptFFBw+L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CTZWK22P",
-  "buyStore": "Amazon",
-  "title": "Skinvest Bomb Bum Body Cream 100gm + Bye Bye Bumps Exfoliating Mist 50ml Helps for Visibly Tightens Skin, Reduces Stretch Marks, Repairs Strawberry Skin Bumps & Uneven Texture, For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:mist",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:collagen",
-   "ing:caffeine",
-   "ing:strawberry",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:kp",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -17295,6 +17574,7 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:vitamin-e",
    "ing:strawberry",
+   "ing:calendula",
    "claim:oil-control",
    "claim:soothing",
    "claim:kp",
@@ -18517,6 +18797,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:dry",
    "skin:all",
    "aud:women",
@@ -18682,7 +18963,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 0
@@ -18709,7 +18990,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
+   "buyerEvidence": "1★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
@@ -18732,6 +19014,7 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:low",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -18765,13 +19048,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -18779,6 +19072,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -20465,7 +20759,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 0
@@ -20492,7 +20786,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71aFhvKCHfL._AC_UL320_.jpg"
@@ -20515,6 +20810,7 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -20548,13 +20844,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -20562,6 +20868,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -20847,6 +21154,7 @@ const CTPRODUCTS = [
    "format:lotion",
    "ing:salicylic-acid-bha",
    "ing:sandalwood",
+   "ing:lavender",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -20960,6 +21268,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:exfoliating",
+   "claim:cooling",
    "skin:dry",
    "aud:women",
    "size:large",
@@ -21930,7 +22239,7 @@ const CTPRODUCTS = [
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 5,
+   "ingredients": 5.3,
    "skin": 4.9,
    "trust": 5.5,
    "experience": 1.9
@@ -21957,7 +22266,8 @@ const CTPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61V+cXv0ERL._AC_UL320_.jpg"
@@ -21979,6 +22289,7 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
    "inci:full",
    "inci:brand-site"
   ],
@@ -22012,13 +22323,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
+    },
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
     },
     {
      "name": "dimethicone",
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -22026,6 +22347,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     }
    ],
@@ -22218,6 +22540,7 @@ const CTPRODUCTS = [
    "ing:lactic-acid",
    "ing:shea-butter",
    "ing:strawberry",
+   "ing:calendula",
    "claim:brightening",
    "claim:hydrating",
    "claim:exfoliating",
@@ -22425,6 +22748,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:acne",
    "claim:kp",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -22470,6 +22794,233 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "bake-itm71874d2a9f6ed",
+  "brand": "BAKE",
+  "model": "10% AHA + 2% BHA Body Lotion SPF 30 for Bumpy, Rough & Strawberry Skin",
+  "price": 845,
+  "capacityLine": "400 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹211/100ml",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 6.9,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹211/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Water (Aqua), Aloe Barbadensis Leaf Juice, Lactic Acid, Glycerin, Olive Fruit Oil, Sesame Seed Oil, Shea Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Emulsifying Wax, Cetyl Alcohol, Stearic Acid, Zinc Oxide, Titanium Dioxide, Niacinamide, Salicylic Acid, Tea Tree Leaf Oil, Papaya Fruit, Glycyrrhiza Glabra (Licorice) Root Extract, Tocopherol, Citric Acid",
+   "evidenceActives": "lactic acid (#3 on list, strong evidence); glycerin (#4 on list, strong evidence); shea butter (#7 on list, moderate evidence); salicylic acid (#15 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #14 on INCI, salicylic acid #15 on INCI; Dark spots — niacinamide #14 on INCI, glycyrrhiza glabra root extract #18 on INCI; Irritation — aloe barbadensis leaf juice #2 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/a/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahphzh4sekusf2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/s/h/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahpunmfjtzkyd9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/t/l/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahpunmhamwtzrk.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/y/j/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahpunmzwuypvty.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/o/e/400-10-aha-2-bha-body-lotion-spf-30-for-bumpy-rough-strawberry-original-imahphzhytbebdcv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bake-10-aha-2-bha-body-lotion-spf-30-bumpy-rough-strawberry-skin/p/itm71874d2a9f6ed",
+  "buyStore": "Flipkart",
+  "title": "BAKE 10% AHA + 2% BHA Body Lotion SPF 30 for Bumpy, Rough & Strawberry Skin",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "spf:30",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water (Aqua), Aloe Barbadensis Leaf Juice, Lactic Acid, Glycerin, Olive Fruit Oil, Sesame Seed Oil, Shea Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Emulsifying Wax, Cetyl Alcohol, Stearic Acid, Zinc Oxide, Titanium Dioxide, Niacinamide, Salicylic Acid, Tea Tree Leaf Oil, Papaya Fruit, Glycyrrhiza Glabra (Licorice) Root Extract, Tocopherol, Citric Acid",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "simmondsia chinensis seed oil",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "bha"
+    },
+    {
+     "name": "glycyrrhiza glabra root extract",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 19,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "shea butter",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "thriveco-itm07988322db2d1",
   "brand": "ThriveCo",
   "model": "Smoothing Body Lotion for Dry, Rough & Bumpy skin, Moist …",
@@ -22512,7 +23063,8 @@ const CTPRODUCTS = [
    "evidenceActives": "dimethicone (#5 on list, moderate evidence); lactic acid (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 46 ratings"
+   "buyerEvidence": "4.7★ from 46 ratings",
+   "concernBasis": "Acne — niacinamide #15 on INCI; Dark spots — niacinamide #15 on INCI; Irritation — panthenol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/h/r/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze3yjhp99yz.jpeg?q=90",
@@ -22538,6 +23090,9 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -22570,6 +23125,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -22577,6 +23133,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -22584,6 +23141,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -22591,6 +23149,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -22598,6 +23157,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -22605,6 +23165,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -22694,6 +23255,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:exfoliating",
    "claim:kp",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -22900,6 +23462,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:dark-spots",
    "claim:kp",
+   "claim:ingrown",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -22986,7 +23549,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); glycolic acid (#3 on list, strong evidence); lactic acid (#4 on list, strong evidence); salicylic acid (#10 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "WishCare — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #9 on INCI, salicylic acid #10 on INCI; Dark spots — niacinamide #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51D5AEZPIBL._AC_UL320_.jpg"
@@ -23007,6 +23571,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -23041,6 +23607,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -23048,6 +23615,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -23055,6 +23623,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -23062,6 +23631,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -23069,6 +23639,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -23076,6 +23647,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "ha"
     }
    ],

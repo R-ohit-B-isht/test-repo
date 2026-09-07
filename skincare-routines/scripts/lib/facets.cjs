@@ -2,6 +2,10 @@
 // Tags are derived ONLY from the real listing text (title + specification blob);
 // a tag is never emitted unless the seller's listing actually says so.
 // CommonJS so the scrape generators in /home/ubuntu/pwtest can require() it too.
+// The one exception is the `target:*` skin-concern group, which concerns.cjs derives from the verified INCI and the
+// product type after scoring, never from the title.
+
+const { CONCERNS } = require('./concerns.cjs');
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
@@ -19,6 +23,7 @@ const GROUPS = {
   skin: { label: 'Skin type', hint: 'As stated in the listing', mode: 'or' },
   hair: { label: 'Hair type', hint: 'As stated in the listing', mode: 'or' },
   concern: { label: 'Hair concern', hint: "Seller's own claims, not tested", mode: 'or' },
+  target: { label: 'Skin concern', hint: 'From verified INCI actives or the product type — for matching, not proof it works', mode: 'or' },
   aud: { label: 'Audience', hint: 'Marketing audience', mode: 'or' },
   size: { label: 'Pack size', hint: 'From the stated quantity', mode: 'or' },
   rating: { label: 'Buyer rating', hint: 'Marketplace rating', mode: 'or' },
@@ -326,6 +331,7 @@ for (const [id, label] of HAIR_FORMATS) (LABELS.format ||= {})[id] = label;
 for (const [name] of HAIR_INGREDIENTS) (LABELS.ing ||= {})[slug(name)] = name;
 for (const [id, label] of HAIR_CONCERNS) (LABELS.concern ||= {})[id] = label;
 for (const [id, label] of HAIR_TYPES) (LABELS.hair ||= {})[id] = label;
+for (const [id, label] of CONCERNS) (LABELS.target ||= {})[id] = label;
 LABELS.area = { scalp: 'Scalp', lengths: 'Lengths & ends', both: 'Scalp + lengths', beard: 'Beard', unstated: 'Area not stated' };
 for (let i = 1; i <= 4; i++) (LABELS.pa ||= {})['+'.repeat(i)] = 'PA' + '+'.repeat(i);
 

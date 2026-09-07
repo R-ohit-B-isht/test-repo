@@ -1,6 +1,112 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-05.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
+ {
+  "id": "finzara-itmd3d52deacffac",
+  "brand": "Finzara",
+  "model": "SSEEOOULLL 1988 Eye Cream (50 g)",
+  "price": 270,
+  "capacityLine": "50 g",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel · Sulfate/SLS-free · ₹540/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹540/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Retinal Liposome, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/n/q/50-seoul-1988-moisturizing-cream-for-soft-smooth-fresh-looking-original-imahnwqzsbn6fgdq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/h/d/b/30-seoul-1988-eye-cream-anti-aging-eye-wrinkle-cream-for-men-original-imahmtpbpjasqnfb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/y/d/50-sseeooulll-1988-eye-cream-finzara-original-imahq5mfxncstgyg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/kwaanie-seoul-1988-eye-cream-k-retinal-liposome-4-fermented-bean-wrinkle-care-anti-aging-skin-elasticity/p/itmd3d52deacffac",
+  "buyStore": "Flipkart",
+  "title": "Finzara SSEEOOULLL 1988 Eye Cream (50 g)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:pack",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "skin:all",
+   "free:sulfate",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
  {
   "id": "active-wow-itmcaf0d00a7ac9f",
   "brand": "Active Wow",
@@ -44,7 +150,8 @@ const CTPRODUCTS = [
    "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); tocopherol (#8 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — ascorbic acid #2 on INCI, niacinamide #7 on INCI; Aging — ascorbic acid #2 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/v/t/10-vc-lutein-eye-essence-under-eye-skin-hydration-1-bottle-pack-original-imahz8t4kwq2an3n.jpeg?q=90",
@@ -80,6 +187,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -112,6 +223,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -119,6 +231,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -126,6 +239,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -133,6 +247,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -140,6 +255,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -147,6 +263,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -328,7 +445,8 @@ const CTPRODUCTS = [
    "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); niacinamide (#7 on list, strong evidence); tocopherol (#8 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — ascorbic acid #2 on INCI, niacinamide #7 on INCI; Aging — ascorbic acid #2 on INCI; Irritation — aloe barbadensis leaf extract #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/9/y/p/10-vc-lutein-eye-essence-for-bright-looking-under-eye-skin-1-original-imahz8tqhgzhbfb5.jpeg?q=90",
@@ -364,6 +482,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -396,6 +518,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -403,6 +526,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -410,6 +534,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -417,6 +542,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -424,6 +550,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -431,6 +558,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -756,6 +884,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -1429,7 +1558,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm338febf9e1f76",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "New Under Eye Serum, Retinol Face Serum & Vitamin C F …",
   "price": 256,
   "capacityLine": "30 ml",
@@ -1535,7 +1664,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm2d5db62ad14d3",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Retinol Face & Pink Lip Serum & Under Eye Serum & Hai …",
   "price": 394,
   "capacityLine": "60 ml (pack of 2)",
@@ -1599,6 +1728,7 @@ const CTPRODUCTS = [
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "aud:women",
@@ -1647,7 +1777,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm77c9be6bbf3c0",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Retinol Face Serum & Caffeine Lip & Under Eye Serum & …",
   "price": 394,
   "capacityLine": "60 ml (pack of 2)",
@@ -1760,7 +1890,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm876322c4ccb16",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Retinol Face Serum & Pink Lip Serum & Under Eye Serum …",
   "price": 317,
   "capacityLine": "30 ml",
@@ -1966,107 +2096,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.4★ from 5 ratings"
-  }
- },
- {
-  "id": "unbranded-itm00011eec9fd53",
-  "brand": "Unbranded",
-  "model": "7days natural Dark Circle Remover Dark Removal Serum� anti pimple …",
-  "price": 245,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.7
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (296 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "declaredManufacturer": "7Days Organic Pvt LTD (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "3.8★ from 296 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/w/y/9/30-dark-circle-remover-dark-removal-serum-7days-original-imah3r5kzqk7a8bz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/v/u/t/30-100-organic-dark-spot-removal-serum-7days-original-imahff58ksxgzyqv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/v/f/k/30-100-organic-dark-spot-removal-serum-7days-original-imahff58ptdwtqmx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-skin-treatment/p/f/4/30-100-organic-dark-spot-removal-serum-7days-original-imahff58k3ngbrgs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/i/u/e/30-dark-circle-remover-dark-removal-serum-7days-original-imah3r5kkfjkhz97.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/7days-natural-dark-circle-remover-removal-serum-anti-pimple-reduces-acne-blemishes-men-women/p/itm00011eec9fd53",
-  "buyStore": "Flipkart",
-  "title": "7days natural Dark Circle Remover Dark Removal Serum� anti pimple …",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "claim:acne",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 296 ratings"
   }
  },
  {
@@ -3055,6 +3084,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -3116,7 +3146,7 @@ const CTPRODUCTS = [
    "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
-   "ingredients": 3.6,
+   "ingredients": 4,
    "skin": 7.7,
    "trust": 7,
    "experience": 6.6
@@ -3195,10 +3225,19 @@ const CTPRODUCTS = [
    "recognised": 1,
    "actives": [
     {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
      "name": "petrolatum",
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -3206,6 +3245,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -3543,6 +3583,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -3550,6 +3591,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -3557,6 +3599,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -3564,6 +3607,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -3740,7 +3784,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); squalane (#7 on list, moderate evidence); panthenol (#8 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/j/t/30-seoul-1988-eye-cream-premium-korean-eye-care-formula-original-imahpheg4jue9hys.jpeg?q=90",
@@ -3773,6 +3818,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:odour",
+   "claim:stretch-marks",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -3781,6 +3828,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -3814,6 +3864,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -3821,6 +3872,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -3828,6 +3880,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -3835,6 +3888,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -3842,6 +3896,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -3849,6 +3904,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -3856,6 +3912,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -3996,7 +4053,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): parfum"
   ],
   "scores": {
-   "ingredients": 5.3,
+   "ingredients": 5.4,
    "skin": 7.7,
    "trust": 7,
    "experience": 6.7
@@ -4080,6 +4137,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -4087,13 +4145,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "retinoids"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
     },
     {
      "name": "sodium ascorbyl phosphate",
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -4101,6 +4169,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -4108,6 +4177,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -4281,7 +4351,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); niacinamide (#6 on list, strong evidence); squalane (#7 on list, moderate evidence); panthenol (#8 on list, moderate evidence); sodium hyaluronate (#9 on list, moderate evidence); tocopherol (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Irritation — panthenol #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/a/r/30-seoul-1988-eye-cream-therapy-korean-eye-formula-activewow-original-imahphehzwcmhnbx.jpeg?q=90",
@@ -4312,6 +4383,9 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:korean",
+   "claim:odour",
+   "claim:stretch-marks",
+   "claim:cooling",
    "skin:all",
    "free:paraben",
    "free:derm",
@@ -4320,6 +4394,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -4353,6 +4430,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4360,6 +4438,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -4367,6 +4446,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -4374,6 +4454,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -4381,6 +4462,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -4388,6 +4470,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -4395,6 +4478,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -4582,6 +4666,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:overnight",
    "skin:normal",
    "aud:women",
    "size:large",
@@ -5265,6 +5350,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -5272,6 +5358,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -5279,6 +5366,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -5286,6 +5374,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -5293,6 +5382,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -5300,6 +5390,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -5698,6 +5789,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -6337,6 +6429,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:dry",
    "skin:combination",
@@ -7835,6 +7928,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -7923,7 +8017,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Harshvin Kare Products (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 1,411 ratings"
+   "buyerEvidence": "4.1★ from 1,411 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/b/6/w/20-eyes-on-you-brightening-under-eye-cream-foxtale-original-imah8erbvzheytxd.jpeg?q=90",
@@ -7946,6 +8041,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -7980,6 +8077,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -7987,6 +8085,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -7994,6 +8093,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -8001,6 +8101,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -8008,6 +8109,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -8015,6 +8117,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -8022,6 +8125,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -8029,6 +8133,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -8036,6 +8141,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -8043,6 +8149,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "caffeine"
     }
    ],
@@ -8349,6 +8456,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -8666,6 +8774,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -8776,6 +8885,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -9520,6 +9630,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -9628,6 +9739,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -9738,6 +9850,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -9845,6 +9958,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -9952,6 +10066,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10060,6 +10175,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10169,6 +10285,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10278,6 +10395,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10387,6 +10505,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10495,6 +10614,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -10605,6 +10725,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -10713,6 +10834,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -10823,6 +10945,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -10931,6 +11054,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -11039,6 +11163,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -11145,6 +11270,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -11251,6 +11377,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -11358,6 +11485,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -11901,6 +12029,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -12967,6 +13096,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13077,6 +13207,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -13296,6 +13427,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -13508,6 +13640,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -13621,6 +13754,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -13732,6 +13866,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -13841,6 +13976,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -14377,6 +14513,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:spf-claim",
+   "claim:cooling",
    "skin:dry",
    "skin:combination",
    "skin:sensitive",
@@ -15241,6 +15378,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -15347,6 +15485,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -15599,6 +15738,107 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.5★ from 4 ratings"
+  }
+ },
+ {
+  "id": "jovees-itmf5jmgywzgsqmc",
+  "brand": "JOVEES",
+  "model": "24 Carat Gold Eye Contour Gel (20 g)",
+  "price": 284,
+  "capacityLine": "20 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹1420/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "20 g",
+   "pricePer100": "₹1420/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (212 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 212 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/2/s/s/20-24-carat-gold-eye-contour-gel-jovees-original-imah8g3mern87gd9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-gel/g/l/u/20-eye-contour-gel-24-carat-gold-jovees-original-imah8g3e9nwhtttd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/7/8/x/50-24-carat-eye-contour-gel-jovees-original-imahesvadmyzv9d2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/2/9/c/-original-imagvz2f3nnthmuz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/u/s/i/15-schat-under-eye-cream-essential-derma-original-imahpah7gq37nwar.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/jovees-24-carat-gold-eye-contour-gel/p/itmf5jmgywzgsqmc",
+  "buyStore": "Flipkart",
+  "title": "JOVEES 24 Carat Gold Eye Contour Gel (20 g)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "ing:gold",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Jovees Herbal Care India",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.jovees.com/"
+   },
+   "buyers": "3.9★ from 212 ratings"
   }
  },
  {
@@ -16771,6 +17011,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     }
    ],
@@ -17793,6 +18034,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "ing:saffron",
    "ing:rosehip",
+   "ing:chamomile",
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:ayurvedic",
@@ -18154,6 +18396,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -18161,6 +18404,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -18168,6 +18412,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -18175,6 +18420,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -18182,6 +18428,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -18189,6 +18436,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -18196,6 +18444,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -18203,6 +18452,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -18210,6 +18460,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -18217,6 +18468,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -18528,6 +18780,7 @@ const CTPRODUCTS = [
    "format:roll-on",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "free:vegan",
    "aud:women",
    "size:travel",
@@ -18852,6 +19105,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -19064,6 +19318,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19173,6 +19428,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19283,6 +19539,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19392,6 +19649,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19501,6 +19759,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19612,6 +19871,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -19721,6 +19981,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -20923,6 +21184,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -21032,6 +21294,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21141,6 +21404,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21250,6 +21514,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21359,6 +21624,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21468,6 +21734,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21577,6 +21844,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21685,6 +21953,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21794,6 +22063,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -21903,6 +22173,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22012,6 +22283,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22121,6 +22393,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22231,6 +22504,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22340,6 +22614,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22449,6 +22724,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22559,6 +22835,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22777,6 +23054,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22887,6 +23165,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -22996,6 +23275,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23107,6 +23387,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23218,6 +23499,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23326,6 +23608,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23437,6 +23720,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23547,6 +23831,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23658,6 +23943,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23767,6 +24053,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23878,6 +24165,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -23989,6 +24277,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -24098,6 +24387,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -24417,6 +24707,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -24524,6 +24815,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -25697,6 +25989,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "ing:saffron",
    "ing:rosehip",
+   "ing:chamomile",
    "claim:dark-circles",
    "claim:ayurvedic",
    "skin:all",
@@ -25805,6 +26098,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:oily",
    "skin:all",
    "aud:women",
@@ -25911,6 +26205,7 @@ const CTPRODUCTS = [
    "format:roll-on",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26123,6 +26418,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -26171,7 +26467,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itme925a6fddc744",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Under Eye Cream to Remove Dark Circles,Eye Puffiness …",
   "price": 380,
   "capacityLine": "45 g (pack of 3)",
@@ -26554,6 +26850,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:standard",
    "rating:4.0",
@@ -26871,6 +27168,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -27403,6 +27701,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -27655,6 +27954,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -27662,6 +27962,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -28608,6 +28909,7 @@ const CTPRODUCTS = [
    "format:roll-on",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29460,6 +29762,7 @@ const CTPRODUCTS = [
    "ing:resveratrol",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:overnight",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29563,6 +29866,7 @@ const CTPRODUCTS = [
    "format:cream",
    "format:kit",
    "ing:retinol",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -29774,6 +30078,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:overnight",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -29974,7 +30279,8 @@ const CTPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Honasa Consumer Pvt Ltd (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.1★ from 1,499 ratings"
+   "buyerEvidence": "4.1★ from 1,499 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Aging — retinol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kr9jafk0/eye-serum/e/l/b/5-caffeine-under-eye-serum-for-dark-circles-puffiness-the-derma-original-imag53huya4byrhp.jpeg?q=90",
@@ -29994,6 +30300,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -30028,6 +30337,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -30035,6 +30345,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -30042,6 +30353,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -30049,6 +30361,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -30056,6 +30369,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -30063,6 +30377,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -30070,6 +30385,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -30077,6 +30393,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -30488,6 +30805,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -30935,6 +31253,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -31462,6 +31781,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:overnight",
    "skin:all",
    "free:non-comedogenic",
    "aud:women",
@@ -31902,6 +32222,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -32015,6 +32336,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -32172,7 +32494,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm16ab49a609132",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Niacinamide Serum & Caffeine Lip & Under Eye Serum & …",
   "price": 398,
   "capacityLine": "90 g (pack of 2)",
@@ -32286,7 +32608,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmdd6e881a83faa",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Vitamin C20% Serum & Caffeine Lip Serum & Under Eye & …",
   "price": 391,
   "capacityLine": "30 ml",
@@ -32392,7 +32714,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm5c5228f982e46",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "24K Gold Face & Caffeine Lip & Under Eye Serum & Hair …",
   "price": 398,
   "capacityLine": "20 g",
@@ -32506,7 +32828,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm15238b559ceb9",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Face Glowing Serum & Caffeine Lip & Under Eye Serum & …",
   "price": 394,
   "capacityLine": "40 g (pack of 2)",
@@ -32621,7 +32943,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmaeb2e46d224b5",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Advance Vitamin C Booster & Caffeine Lip & Under Eye …",
   "price": 394,
   "capacityLine": "60 ml (pack of 2)",
@@ -32733,7 +33055,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itmf1304b64590cb",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Vitamin B3 Serum & Caffeine Lip & Under Eye Serum & H …",
   "price": 394,
   "capacityLine": "60 ml (pack of 2)",
@@ -33073,107 +33395,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sissy-itmcc61e68b1c540",
-  "brand": "SISSY",
-  "model": "CARE EYE,LASH & BROW SERUM (DARK CIRCLE/PUFFY EYE/FINE LINE …",
-  "price": 220,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹2200/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2200/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/f/y/g/10-eye-lash-brow-serum-dark-circle-puffy-eye-fine-line-lash-original-imaghj58czyys5ph.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/t/o/c/10-eye-lash-brow-serum-dark-circle-puffy-eye-fine-line-lash-original-imaghj58pstezwax.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/6/a/h/10-eye-lash-brow-serum-dark-circle-puffy-eye-fine-line-lash-original-imaghj585jx3hhu9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sissy-care-eye-lash-brow-serum-dark-circle-puffy-eye-fine-line-lash-eyebrow-growth/p/itmcc61e68b1c540",
-  "buyStore": "Flipkart",
-  "title": "SISSY CARE EYE,LASH & BROW SERUM (DARK CIRCLE/PUFFY EYE/FINE LINE …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:roll-on",
-   "format:kit",
-   "claim:dark-circles",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "alomie-itmf4e1f2262fd31",
   "brand": "alomie",
   "model": "Under Eye Serum for Dark Circles and Puffiness (30 ml)",
@@ -33236,6 +33457,7 @@ const CTPRODUCTS = [
    "ing:cucumber",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:makeup",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -33549,6 +33771,7 @@ const CTPRODUCTS = [
    "format:serum",
    "format:roll-on",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:flipkart",
@@ -33561,112 +33784,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sonavi-itm3f4c7656ea8ff",
-  "brand": "Sonavi",
-  "model": "Serum For Eye Dark Circle & Dark area - For Men & Women, D …",
-  "price": 135,
-  "capacityLine": "30 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹450/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹450/100g",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/s/h/4/30-serum-for-eye-dark-circle-dark-area-for-men-women-dark-circle-original-imah4fywgssafxkk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/4/n/w/30-under-eye-serum-for-remove-dark-circles-and-puffiness-for-original-imah4yzcfp3vunst.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/e/c/p/30-under-eye-serum-for-remove-dark-circles-and-puffiness-for-original-imah4yzcmbmvbfrf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/j/6/b/30-under-eye-serum-for-remove-dark-circles-and-puffiness-for-original-imah4yzcfhcfhn5b.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/w/9/r/30-dark-circle-remover-serum-for-all-skin-types-dark-circle-original-imah4f6s26az3we9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sonavi-serum-eye-dark-circle-area-men-women/p/itm3f4c7656ea8ff",
-  "buyStore": "Flipkart",
-  "title": "Sonavi Serum For Eye Dark Circle & Dark area - For Men & Women, D …",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false
@@ -33759,6 +33876,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinal",
    "ing:coffee",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
@@ -34123,212 +34241,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "intimify-itm5dc4af3602b62",
-  "brand": "INTIMIFY",
-  "model": "Dark Circle Remover Serum, Reduce Puffiness, Wrinkles & …",
-  "price": 268,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹2680/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.3
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2680/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4/5 (9 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 9 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/y/o/3/10-dark-circle-remover-serum-reduce-puffiness-wrinkles-fine-original-imah9ddtnjty2kpy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/b/p/6/10-under-eye-serum-for-dark-circles-fine-lines-intimify-original-imah8gkqgkmghyxh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/x/g/10-under-eye-serum-dark-circle-remover-for-women-men-intimify-original-imah4behzhtfajcz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/u/p/a/10-under-eye-serum-for-dark-circles-fine-lines-intimify-original-imah8gkqzzeshggz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/f/y/g/10-dark-circle-removal-serum-reduce-puffiness-around-the-eyes-original-imahmpke6fvgachk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/intimify-dark-circle-remover-serum-reduce-puffiness-wrinkles-fine-lines-men-women/p/itm5dc4af3602b62",
-  "buyStore": "Flipkart",
-  "title": "INTIMIFY Dark Circle Remover Serum, Reduce Puffiness, Wrinkles & …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 9 ratings"
-  }
- },
- {
-  "id": "intimify-itm9f181eeca01bd",
-  "brand": "INTIMIFY",
-  "model": "Dark Circles Removal Serum, Reduce Puffiness and Fine Li …",
-  "price": 254,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹2540/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.7
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2540/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4/5 (17 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Bearberry Ext Black Tea Ext Orchid Ext Red onion Ext Licorice Ext Retinol",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 17 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/g/5/k/10-dark-circles-removal-serum-reduce-puffiness-and-fine-lines-original-imah8j9rpg2yesdz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/r/u/i/10-under-eye-serum-for-fine-lines-puffiness-wrinkles-dark-original-imahdnfbq4jvhc3v.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/d/i/w/10-under-eye-serum-for-removing-dark-circles-repair-fine-lines-original-imahmpkeds9wtvsh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/l/u/3/30-coffee-under-eye-gel-serum-for-dark-circles-puffy-eyes-original-imahhf98tgy9xca8.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/a/m/p/-original-imahzndb99pmzmfv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/intimify-dark-circles-removal-serum-reduce-puffiness-fine-lines-men-women/p/itm9f181eeca01bd",
-  "buyStore": "Flipkart",
-  "title": "INTIMIFY Dark Circles Removal Serum, Reduce Puffiness and Fine Li …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Bearberry Ext Black Tea Ext Orchid Ext Red onion Ext Licorice Ext Retinol",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 17 ratings"
   }
  },
  {
@@ -34720,6 +34632,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -34830,6 +34743,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -34985,108 +34899,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sesderma-itm5c97ea7fed21c",
-  "brand": "sesderma",
-  "model": "K-Vit Anti-Dark Circle Serum Vitamin K Brightening Eye T …",
-  "price": 2599,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹8663/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹8663/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (89 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 89 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/u/o/t/30-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvfcn23zyg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/c/a/n/30-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvrrwgxgf6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/h/1/30-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvrajeaq5z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/v/v/q/30-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvamqkrz5f.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/w/y/f/30-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvfzgk3ct9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sesderma-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-treatment/p/itm5c97ea7fed21c",
-  "buyStore": "Flipkart",
-  "title": "sesderma K-Vit Anti-Dark Circle Serum Vitamin K Brightening Eye T …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:brightening",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 89 ratings"
   }
  },
  {
@@ -35617,108 +35429,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sesderma-itm31f00d9179a9a",
-  "brand": "sesderma",
-  "model": "K-Vit Anti-Dark Circle Serum Vitamin K Brightening Eye T …",
-  "price": 1449,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹14490/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹14490/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (89 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 89 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/w/f/m/10-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvfpumqm7h.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/n/k/x/10-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvuvwcyyeb.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/m/6/y/10-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvcmfhjp8y.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/q/c/10-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvr9hfuwcx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/a/y/g/10-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-original-imahmwyvzfaj6h6c.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sesderma-k-vit-anti-dark-circle-serum-vitamin-k-brightening-eye-treatment/p/itm31f00d9179a9a",
-  "buyStore": "Flipkart",
-  "title": "sesderma K-Vit Anti-Dark Circle Serum Vitamin K Brightening Eye T …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:brightening",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 89 ratings"
-  }
- },
- {
   "id": "mensport-itmb7d6e87c87a31",
   "brand": "Mensport",
   "model": "Under Eye Serum For Anti Wrinkle & Dark Spot Removal (30 …",
@@ -35779,6 +35489,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:barrier",
    "claim:dark-circles",
+   "claim:overnight",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -35821,216 +35532,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mensport-itm34bf357bf819b",
-  "brand": "Mensport",
-  "model": "Premium Under Eye Serum For Dark Circles (30 ML) Combo P …",
-  "price": 342,
-  "capacityLine": "90 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹380/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 3 pack",
-   "pricePer100": "₹380/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/klgx0280/eye-serum/6/z/2/90-premium-under-eye-serum-for-dark-circles-30-ml-combo-pack-of-original-imagyhazdxkzdf9z.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/klgx0280/eye-serum/v/g/y/90-premium-under-eye-serum-for-dark-circles-30-ml-combo-pack-of-original-imagyhaztgh5gp9f.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/klgx0280/eye-serum/x/5/i/90-premium-under-eye-serum-for-dark-circles-30-ml-combo-pack-of-original-imagyhaztjbzufhn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/klgx0280/eye-serum/e/5/7/90-premium-under-eye-serum-for-dark-circles-30-ml-combo-pack-of-original-imagyhazugxmuyy5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/klgx0280/eye-serum/3/z/p/90-premium-under-eye-serum-for-dark-circles-30-ml-combo-pack-of-original-imagyhazededqvrs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mensport-under-eye-serum-anti-wrinkle-dark-spot-removal-30ml-pack-3/p/itm34bf357bf819b",
-  "buyStore": "Flipkart",
-  "title": "Mensport Premium Under Eye Serum For Dark Circles (30 ML) Combo P …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:kit",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "intimify-itm16874ce99df25",
-  "brand": "INTIMIFY",
-  "model": "Dark Circle Removal Serum, reduce puffiness around the e …",
-  "price": 259,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹2590/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 5★ from 7 ratings"
-  ],
-  "cons": [
-   "Only 3 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 6.3
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹2590/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "5/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Ext Black Tea Ext Ext Red onion Ext Licorice Ext Retinol, Vitamin C, Vitamin B5,",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 7 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/f/y/g/10-dark-circle-removal-serum-reduce-puffiness-around-the-eyes-original-imahmpke6fvgachk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/d/x/d/10-under-eye-serum-for-removing-dark-circles-repair-fine-lines-original-imahmpkejj2zkaqz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/i/x/s/10-under-eye-serum-for-removing-dark-circles-repair-fine-lines-original-imahmpke9qawdqhg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/x/g/10-under-eye-serum-dark-circle-remover-for-women-men-intimify-original-imah4behzhtfajcz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/d/i/w/10-under-eye-serum-for-removing-dark-circles-repair-fine-lines-original-imahmpkeds9wtvsh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/intimify-dark-circle-removal-serum-reduce-puffiness-around-eyes/p/itm16874ce99df25",
-  "buyStore": "Flipkart",
-  "title": "INTIMIFY Dark Circle Removal Serum, reduce puffiness around the e …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Ext Black Tea Ext Ext Red onion Ext Licorice Ext Retinol, Vitamin C, Vitamin B5,",
-   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.67,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 7 ratings"
   }
  },
  {
@@ -36304,6 +35805,7 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:lightweight",
    "claim:ayurvedic",
+   "claim:makeup",
    "skin:all",
    "free:derm",
    "aud:women",
@@ -36412,6 +35914,7 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:retinal",
    "ing:caffeine",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:dark-circles",
    "skin:all",
@@ -36461,7 +35964,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm4486888b3c9f8",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Dark Knuckle Whitening & Caffeine Lip & Under Eye & N …",
   "price": 539,
   "capacityLine": "15 g",
@@ -36677,7 +36180,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "park-daniel-itm5c4eb70ee8261",
-  "brand": "PARK DANIEL",
+  "brand": "Park Daniel",
   "model": "Face & Body Whitening & Caffeine Lip & Under Eye & Na …",
   "price": 516,
   "capacityLine": "30 ml",
@@ -36962,6 +36465,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:korean",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:large",
@@ -37394,6 +36898,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -37506,6 +37011,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:odour",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -37610,6 +37117,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -37819,6 +37327,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "claim:anti-aging",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -38446,6 +37955,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "claim:anti-aging",
+   "claim:overnight",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -39579,6 +39089,7 @@ const CTPRODUCTS = [
    "format:roll-on",
    "ing:niacinamide",
    "ing:retinal",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:soothing",
@@ -40242,6 +39753,116 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "rosebrite-itm3d33d985551c2",
+  "brand": "RoseBrite",
+  "model": "Eye Contour Cream with Caffeine for Fine Lines & Hydrat …",
+  "price": 162,
+  "capacityLine": "15 g",
+  "materialLine": "niacinamide + hyaluronic acid + peptides",
+  "featureLine": "Cream / gel · ₹1080/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹1080/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "niacinamide, hyaluronic acid, peptides, caffeine (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Caffeine, Peptides, Niacinamide, Hyaluronic Acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/b/o/t/15-eye-contour-cream-with-caffeine-for-fine-lines-hydration-original-imahpe285pfh4ex6.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/k/5/l/15-under-eye-cream-with-peptides-for-youthful-radiant-looking-original-imahpe27pxsjkmyg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/h/o/f/15-caffeine-under-eye-cream-to-reduce-dark-circles-puffiness-and-original-imahpe27m9zhuh3v.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/z/o/h/15-under-eye-cream-with-peptides-for-youthful-radiant-looking-original-imahpe27jhzuhc5z.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-cream/m/a/n/15-caffeine-under-eye-cream-to-reduce-dark-circles-puffiness-and-original-imahpe277cjhdgat.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rosebrite-eye-contour-cream-caffeine-fine-lines-hydration/p/itm3d33d985551c2",
+  "buyStore": "Flipkart",
+  "title": "RoseBrite Eye Contour Cream with Caffeine for Fine Lines & Hydrat …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:caffeine",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:ayurvedic",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Caffeine, Peptides, Niacinamide, Hyaluronic Acid",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "rosebrite-itmf7e5af37a7416",
   "brand": "RoseBrite",
   "model": "Brightening Eye Cream with Caffeine for Dark Circles & …",
@@ -40634,6 +40255,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "skin:all",
    "free:vegan",
    "aud:women",
@@ -41008,110 +40630,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cosmofine-itmc843b538d3d09",
-  "brand": "cosmofine",
-  "model": "Dark Circle Serum Roll On Reduces Dark Circles, Fine Li …",
-  "price": 132,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹1320/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 5 ingredients named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.1
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹1320/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.7/5 (34 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Coffee, Green Tea, Kesar, Liquorice, Calendula",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 34 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/v/7/q/10-dark-circle-serum-roll-on-reduces-dark-circles-fine-line-original-imahegggcfsbgxgh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/z/f/i/10-under-eye-and-dark-circle-serum-roll-on-reduce-wrinkles-fine-original-imahaumb5hh6v4jf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/2/u/5/10-under-eye-and-dark-circle-serum-roll-on-reduce-wrinkles-fine-original-imahaumbxateqgcj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/c/l/y/10-under-eye-and-dark-circle-serum-roll-on-reduce-wrinkles-fine-original-imahaumbgfqgkkag.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/eye-serum/t/i/d/10-under-eye-and-dark-circle-serum-roll-on-reduce-wrinkles-fine-original-imahaumb3jgfayk9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/cosmofine-dark-circle-serum-roll-reduces-circles-fine-line-wrinkles-puffiness/p/itmc843b538d3d09",
-  "buyStore": "Flipkart",
-  "title": "cosmofine Dark Circle Serum Roll On Reduces Dark Circles, Fine Li …",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:roll-on",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Coffee, Green Tea, Kesar, Liquorice, Calendula",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.4,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 34 ratings"
   }
  },
  {
@@ -41930,6 +41448,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -42142,6 +41661,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "ing:green-tea",
    "ing:saffron",
+   "ing:calendula",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -42783,6 +42303,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:dark-circles",
+   "claim:scars",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -42826,6 +42347,2835 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "beauty-of-joseon-b0b45ll4dd",
+  "brand": "Beauty of Joseon",
+  "model": "Revive Eye Serum with Ginseng & Retinal (30m) | Anti-Aging, Wrinkle Care, Korean Eye Cream…",
+  "price": 1136,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol",
+  "featureLine": "Serum · ₹3787/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 8.2,
+   "skin": 9,
+   "trust": 7,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3787/100ml",
+   "format": "Serum",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
+   "inciMatchedName": "Revive Eye Serum : Ginseng + Retinal (name match 81%)",
+   "inciList": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); adenosine (#20 on list, moderate evidence); retinal (#28 on list, strong evidence); sodium hyaluronate (#31 on list, moderate evidence); tocopherol (#32 on list, moderate evidence); ceramide np (#35 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51PbZMgofCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715y9Z3krLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81zaGMQdDaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/712hAowSE-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71k9-06fhqL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B45LL4DD",
+  "buyStore": "Amazon",
+  "title": "Beauty of Joseon Revive Eye Serum with Ginseng & Retinal (30m) | Anti-Aging, Wrinkle Care, Korean Eye Cream for Dark Circles & Fine Lines",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:ginseng",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:korean",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Revive Eye Serum : Ginseng + Retinal",
+   "inciMatchScore": 0.81,
+   "inciText": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "cholesterol",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Govan (Beauty of Joseon)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://beautyofjoseon.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "k-secret-b0dggbydrz",
+  "brand": "K-SECRET",
+  "model": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, ski…",
+  "price": 1319,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel · ₹4397/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4397/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61wkxi21otL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DGGBYDRZ",
+  "buyStore": "Amazon",
+  "title": "K-SECRET SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "seoul-1988-b0hcz513t2",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticit…",
+  "price": 999,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel · ₹3330/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3330/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51xTa8CtE9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCZ513T2",
+  "buyStore": "Amazon",
+  "title": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "clasivity-b0hg6ynq4w",
+  "brand": "CLASIVITY",
+  "model": "Seoul 1988 Retinal Under Eye Cream with 4% Retinal Liposome & Fermented Bean Extract | Bri…",
+  "price": 199,
+  "capacityLine": "50 ml",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel · ₹398/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹398/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Oq-XE0ULL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG6YNQ4W",
+  "buyStore": "Amazon",
+  "title": "CLASIVITY Seoul 1988 Retinal Under Eye Cream with 4% Retinal Liposome & Fermented Bean Extract | Brightening Eye Care for Dark Circles, Fine Lines, Puffiness & Hydration | Men & Women, 50ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinal",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:dry-skin-relief",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "seoul-1988-b0h9yxmytm",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, Wrinkle Car…",
+  "price": 209,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51LWalynE4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9YXMYTM",
+  "buyStore": "Amazon",
+  "title": "Seoul 1988 Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, Wrinkle Care, For Mature Skin, Nighttime Skincare",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinal",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "skin:mature",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "seoul-1988-b0h7f3s4fm",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticit…",
+  "price": 1199,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel · ₹3997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3997/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51NtZ38PeOL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H7F3S4FM",
+  "buyStore": "Amazon",
+  "title": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "seoul-1988-b0hgbcp8ry",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream with Retinal Liposome 4% + Fermented Bean, 20ml | Anti-Ageing Formula, Korean Sk…",
+  "price": 349,
+  "capacityLine": "20 ml",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel · ₹1745/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹1745/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/516YTCdIPZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGBCP8RY",
+  "buyStore": "Amazon",
+  "title": "Seoul 1988 Eye Cream with Retinal Liposome 4% + Fermented Bean, 20ml | Anti-Ageing Formula, Korean Skincare, Under-Eye Treatment, Retinol Infused, Fermented Ingredients",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:dark-circles",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "seoul-1988-b0hcnqswpg",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticit…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel · ₹997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41IVcohOfYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCNQSWPG",
+  "buyStore": "Amazon",
+  "title": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "gelon-b0h9rrzxpk",
+  "brand": "GELON",
+  "model": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, ski…",
+  "price": 499,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rEG4htGUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9RRZXPK",
+  "buyStore": "Amazon",
+  "title": "GELON SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, /1.01 fl.oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Retinal Liposome 4%, Fermented Bean, Soybean Ferment, Bakuchiol, Vitamin E, 3 Peptides",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "hentic-b0h9qlxks4",
+  "brand": "HENTIC",
+  "model": "SEOUL 1988 Korean Retinal Eye Cream for Dark Circles & Puffy Eyes | Advanced Under Eye Rep…",
+  "price": 146,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9QLXKS4",
+  "buyStore": "Amazon",
+  "title": "HENTIC SEOUL 1988 Korean Retinal Eye Cream for Dark Circles & Puffy Eyes | Advanced Under Eye Repair with Retinal Liposome & Fermented Bean Extract | Fine Lines, Wrinkles & Hydrating Eye Care for Women & Men",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:retinal",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:oily",
+   "skin:combination",
+   "skin:all",
+   "skin:mature",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "brahmyogi-b0h41qdnbc",
+  "brand": "BRAHMYOGI",
+  "model": "30 ML Seoul 1988 Eye Cream Retinal Fermented Bean Wrinkle Repair Anti Aging Skin Elasticit…",
+  "price": 199,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + retinol",
+  "featureLine": "Cream / gel · ₹663/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹663/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, niacinamide, retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61k24qITxwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H41QDNBC",
+  "buyStore": "Amazon",
+  "title": "BRAHMYOGI 30 ML Seoul 1988 Eye Cream Retinal Fermented Bean Wrinkle Repair Anti Aging Skin Elasticity Pigmentation Brightening Retinol For Women Thirty Millimeter Eye Contour Treatment Tube Pack",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:pack",
+   "format:patch",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "ing:ginseng",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:dark-circles",
+   "claim:ayurvedic",
+   "skin:sensitive",
+   "skin:mature",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "trinestia-b0h6k2yg71",
+  "brand": "Trinestia",
+  "model": "Seoul 1988 Retinal Liposome 4% Eye Cream with Fermented Bean – Anti-Aging Under Eye Cream …",
+  "price": 229,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel · ₹763/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6.8,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹763/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water, Glycerin, Butylene Glycol, Retinal Liposome (4%), Fermented Soybean Extract, Niacinamide, Matrixyl 3000 (Palmitoyl Tetrapeptide-7, Palmitoyl Oligopeptide), Adenosine, Allantoin, Panthenol, Hyaluronic Acid, Ceramide NP, Shea Butter, Tocopherol (Vitamin E), Beta-Glucan, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Stearic Acid, Dimethicone, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#6 on list, strong evidence); adenosine (#9 on list, moderate evidence); panthenol (#11 on list, moderate evidence); hyaluronic acid (#12 on list, moderate evidence); ceramide np (#13 on list, moderate evidence); tocopherol (#15 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — adenosine #9 on INCI; Irritation — panthenol #11 on INCI, ceramide np #13 on INCI, beta-glucan #16 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41tNVhunnpL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6K2YG71",
+  "buyStore": "Amazon",
+  "title": "Trinestia Seoul 1988 Retinal Liposome 4% Eye Cream with Fermented Bean – Anti-Aging Under Eye Cream for Dark Circles, Fine Lines & Wrinkles – 30ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:pack",
+   "ing:retinal",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water, Glycerin, Butylene Glycol, Retinal Liposome (4%), Fermented Soybean Extract, Niacinamide, Matrixyl 3000 (Palmitoyl Tetrapeptide-7, Palmitoyl Oligopeptide), Adenosine, Allantoin, Panthenol, Hyaluronic Acid, Ceramide NP, Shea Butter, Tocopherol (Vitamin E), Beta-Glucan, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Stearic Acid, Dimethicone, Carbomer, Arginine, Disodium EDTA, Phenoxyethanol, Ethylhexylglycerin, Fragrance.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "niacinamide",
+    "panthenol",
+    "hyaluronic acid",
+    "ceramide np",
+    "shea butter",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "roxique-b0gmgrlg7b",
+  "brand": "Roxique",
+  "model": "Seoul 1988 Retinal Eye Cream Retinal Liposome and Fermented Bean Anti Aging Wrinkle Care B…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol + peptides",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51nwJqY0UpL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717gr8JjZCL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61M-4oeD2IL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61aFB7WUrZL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51HQU5F5KPL._AC_SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMGRLG7B",
+  "buyStore": "Amazon",
+  "title": "Roxique Seoul 1988 Retinal Eye Cream Retinal Liposome and Fermented Bean Anti Aging Wrinkle Care Brightening and Firming Eye Treatment Korean Skincare for Sensitive Skin,[ Pack of 1 ]",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:kit",
+   "ing:retinal",
+   "ing:peptides",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:korean",
+   "skin:sensitive",
+   "skin:all",
+   "free:hypoallergenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "seoul-1988-b0hh8qd557",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream Retinal Liposome 4% & Fermented Bean 30ml | Korean Anti-Aging Under Eye Treatmen…",
+  "price": 599,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + retinol",
+  "featureLine": "Cream / gel · ₹1997/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1997/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, niacinamide, retinol, bakuchiol, hyaluronic acid, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51xTa8CtE9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH8QD557",
+  "buyStore": "Amazon",
+  "title": "SEOUL 1988 Eye Cream Retinal Liposome 4% & Fermented Bean 30ml | Korean Anti-Aging Under Eye Treatment with Bakuchiol Peptides Niacinamide & Vitamin C | Wrinkle & Dark Circle Repair Cream, 1 Pc",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:hyaluronic-acid",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "ing:ginseng",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:dry-skin-relief",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "seoul-1988-b0hgf3sk3v",
+  "brand": "Seoul 1988",
+  "model": "Under Eye Cream with Retinal Liposome 4%, Fermented Bean, Hyaluronic Acid & Niacinamide | …",
+  "price": 209,
+  "capacityLine": "15 g",
+  "materialLine": "niacinamide + retinol + hyaluronic acid",
+  "featureLine": "Cream / gel · ₹1393/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "15 g",
+   "pricePer100": "₹1393/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "niacinamide, retinol, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Vg8F6QK7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGF3SK3V",
+  "buyStore": "Amazon",
+  "title": "SEOUL 1988 Under Eye Cream with Retinal Liposome 4%, Fermented Bean, Hyaluronic Acid & Niacinamide | Anti-Aging Eye Cream for Dark Circles, Puffiness & Fine Lines |",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:niacinamide",
+   "ing:retinal",
+   "ing:hyaluronic-acid",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:cooling",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "wrixty-b0h15ftkl5",
+  "brand": "Wrixty",
+  "model": "SEOUL 1988 Retinal Liposome 4% Eye Cream – Korean Fermented Bean Under Eye Cream for Wrink…",
+  "price": 242,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel · ₹807/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹807/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/21Qmgd5ZtPL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H15FTKL5",
+  "buyStore": "Amazon",
+  "title": "Wrixty SEOUL 1988 Retinal Liposome 4% Eye Cream – Korean Fermented Bean Under Eye Cream for Wrinkles, Dark Circles, Puffiness & Hydration – Firming Anti Aging Eye Care 30ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:retinal",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:cooling",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hentic-b0h9qg2k38",
+  "brand": "HENTIC",
+  "model": "SEOUL 1988 Korean Retinal Eye Cream | Intensive Under Eye Moisturizer for Dark Circles, Fi…",
+  "price": 276,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9QG2K38",
+  "buyStore": "Amazon",
+  "title": "HENTIC SEOUL 1988 Korean Retinal Eye Cream | Intensive Under Eye Moisturizer for Dark Circles, Fine Lines & Puffy Eyes | Retinal Liposome & Fermented Bean Extract | Daily Eye Care for Women & Men",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:retinal",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:oily",
+   "skin:combination",
+   "skin:mature",
+   "aud:women",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "drvrjak-b0hh3mjgdz",
+  "brand": "DRVRJAK",
+  "model": "Seoul 1988 Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, …",
+  "price": 499,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol + bakuchiol + peptides",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, bakuchiol, peptides, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51xTa8CtE9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH3MJGDZ",
+  "buyStore": "Amazon",
+  "title": "DRVRJAK Seoul 1988 Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, Wrinkle Care, For Mature Skin (pack of 1)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:kit",
+   "ing:retinol",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "skin:mature",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hentic-b0h9qhcrr5",
+  "brand": "HENTIC",
+  "model": "SEOUL 1988 Under Eye Cream with Retinal Liposome & Fermented Bean Extract | Korean Eye Cre…",
+  "price": 286,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol",
+  "featureLine": "Sunscreen",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9QHCRR5",
+  "buyStore": "Amazon",
+  "title": "HENTIC SEOUL 1988 Under Eye Cream with Retinal Liposome & Fermented Bean Extract | Korean Eye Cream for Dark Circles, Fine Lines, Crow's Feet & Puffiness | Lightweight Daily Eye Moisturizer for Women & Men",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:retinal",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:cooling",
+   "claim:makeup",
+   "skin:all",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "medicube-b0dwmsm6y9",
+  "brand": "Medicube",
+  "model": "Salmon DNA PDRN Pink Peptide Eye Serum with Niacinamide & 99% Pure Retinol – Reduces Dark …",
+  "price": 2189,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + retinol + peptides",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, retinol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61g9IyjgR0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ZV7buO6oL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71hmctfStwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71YlAS1NO3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lK-AQ2KSL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DWMSM6Y9",
+  "buyStore": "Amazon",
+  "title": "Medicube Salmon DNA PDRN Pink Peptide Eye Serum with Niacinamide & 99% Pure Retinol – Reduces Dark Circles, Fine Lines & Puffiness | Hydrating Korean Eye Cream for Firm & Bright Under Eye | 1.01 fl. oz.",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:peptides",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dark-circles",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:dry-skin-relief",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "purito-b0cst3l1bm",
+  "brand": "PURITO",
+  "model": "Centella Unscented Eye Cream, Korean Centella, for Sensitive Skin, Soothing, Facial Eye Cr…",
+  "price": 1445,
+  "capacityLine": "30 ml",
+  "materialLine": "centella/cica",
+  "featureLine": "Cream / gel · ₹4817/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); palmitoyl tetrapeptide-7 high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4817/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-eye-cream-unscented",
+   "inciMatchedName": "Wonder Releaf Centella Eye Cream Unscented (name match 100%)",
+   "inciList": "Water, Hydrogenated Poly(C6-14 Olefin), Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Centella Asiatica Extract(25,545ppm), Cetyl Alcohol, Dipropylene Glycol, Methyl Trimethicone, 1,2-Hexanediol, Dipentaerythrityl Hexa C5-9 Acid Esters, Pentaerythrityl Tetraisostearate, Potassium Cetyl Phosphate, Palmitoyl Dipeptide-10, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Hexapeptide-12, Sodium Hyaluronate, Asiaticoside, Madecassic Acid, Asiatic Acid, Madecassoside, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Caprylyl Glycol, Palmitic Acid, Panthenol, Stearic Acid, Cetearyl Glucoside, Carbomer, Tromethamine, Limnanthes Alba (Meadowfoam) Seed Oil, Argania Spinosa Kernel Oil, Ceramide NP, Macadamia Ternifolia Seed Oil, Adenosine, Disodium EDTA, Butyrospermum Parkii (Shea) Butter, Glucose, Myristic Acid, Arachidic Acid, Camellia Sinensis Leaf Extract",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); palmitoyl tetrapeptide-7 (#16 on list, moderate evidence); palmitoyl tripeptide-1 (#17 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence); panthenol (#29 on list, moderate evidence); ceramide np (#36 on list, moderate evidence); adenosine (#38 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Aging — palmitoyl tetrapeptide-7 #16 on INCI, palmitoyl tripeptide-1 #17 on INCI, adenosine #38 on INCI; Irritation — centella asiatica extract #7 on INCI, asiaticoside #20 on INCI, madecassoside #23 on INCI, panthenol #29 on INCI, ceramide np #36 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/510le2Dp1BL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/51MIR0oDmXL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61+BFmTbbkL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61fxwzLQzqL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617Xq5JLZdL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CST3L1BM",
+  "buyStore": "Amazon",
+  "title": "PURITO Centella Unscented Eye Cream, Korean Centella, for Sensitive Skin, Soothing, Facial Eye Cream for face, Dark Circles, Wrinkles, Puffiness, K-Beauty, Vegan & Cruelty-Free, 30ml 1fl.oz",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:centella-cica",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:dark-circles",
+   "claim:korean",
+   "skin:sensitive",
+   "free:fragrance",
+   "free:derm",
+   "free:hypoallergenic",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-eye-cream-unscented",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Wonder Releaf Centella Eye Cream Unscented",
+   "inciMatchScore": 1,
+   "inciText": "Water, Hydrogenated Poly(C6-14 Olefin), Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Centella Asiatica Extract(25,545ppm), Cetyl Alcohol, Dipropylene Glycol, Methyl Trimethicone, 1,2-Hexanediol, Dipentaerythrityl Hexa C5-9 Acid Esters, Pentaerythrityl Tetraisostearate, Potassium Cetyl Phosphate, Palmitoyl Dipeptide-10, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Hexapeptide-12, Sodium Hyaluronate, Asiaticoside, Madecassic Acid, Asiatic Acid, Madecassoside, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Caprylyl Glycol, Palmitic Acid, Panthenol, Stearic Acid, Cetearyl Glucoside, Carbomer, Tromethamine, Limnanthes Alba (Meadowfoam) Seed Oil, Argania Spinosa Kernel Oil, Ceramide NP, Macadamia Ternifolia Seed Oil, Adenosine, Disodium EDTA, Butyrospermum Parkii (Shea) Butter, Glucose, Myristic Acid, Arachidic Acid, Camellia Sinensis Leaf Extract",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 23,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 38,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 40,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 44,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "butylene glycol",
+    "glycerin",
+    "sodium hyaluronate",
+    "panthenol",
+    "ceramide np",
+    "butyrospermum parkii butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "purito-b0csszbtkm",
+  "brand": "PURITO",
+  "model": "Centella Eye Cream, Korean Centella, for Sensitive Skin, Soothing, Facial Eye Cream for fa…",
+  "price": 1445,
+  "capacityLine": "30 ml",
+  "materialLine": "centella/cica",
+  "featureLine": "Cream / gel · ₹4817/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); palmitoyl tetrapeptide-7 high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "EU-declared fragrance allergen: limonene, linalool",
+   "Essential oil / volatile sensitiser: citrus aurantium bergamia fruit oil, lavandula angustifolia oil",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 7,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4817/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-eye-cream",
+   "inciMatchedName": "Wonder Releaf Centella Eye Cream (name match 100%)",
+   "inciList": "Water, Hydrogenated Poly(C6-14 Olefin), Glycerin, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Cetyl Alcohol, 1,2-Hexanediol, Butylene Glycol, Dipropylene Glycol, Centella Asiatica Extract(16,650ppm), Methyl Trimethicone, Dipentaerythrityl Hexa C5-9 Acid Esters, Pentaerythrityl Tetraisostearate, Potassium Cetyl Phosphate, Palmitoyl Dipeptide-10, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Hexapeptide-12, Sodium Hyaluronate, Asiaticoside, Madecassic Acid, Asiatic Acid, Polyglyceryl-2 Stearate, Butyrospermum Parkii (Shea) Butter, Cetearyl Olivate, Glyceryl Stearate, Stearyl Alcohol, Limnanthes Alba (Meadowfoam) Seed Oil, Argania Spinosa Kernel Oil, Macadamia Ternifolia Seed Oil, Sorbitan Olivate, Caprylyl Glycol, Palmitic Acid, Panthenol, Stearic Acid, Acetyl Glucosamine, Ceramide NP, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Adenosine, Disodium EDTA, Myristic Acid, Arachidic Acid, Camellia Sinensis Leaf Extract, Pancratium Maritimum Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Lavandula Angustifolia (Lavender) Oil, Limonene, Linalool",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); palmitoyl tetrapeptide-7 (#16 on list, moderate evidence); palmitoyl tripeptide-1 (#17 on list, moderate evidence); sodium hyaluronate (#19 on list, moderate evidence); panthenol (#34 on list, moderate evidence); ceramide np (#37 on list, moderate evidence); adenosine (#41 on list, moderate evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: limonene, linalool (−1); Essential oil / volatile sensitiser: citrus aurantium bergamia fruit oil, lavandula angustifolia oil (−1)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Aging — palmitoyl tetrapeptide-7 #16 on INCI, palmitoyl tripeptide-1 #17 on INCI, adenosine #41 on INCI; Irritation — centella asiatica extract #10 on INCI, asiaticoside #20 on INCI, panthenol #34 on INCI, ceramide np #37 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QnQlNaDfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61jOIXrnqGL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Lwy7ijQeL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61GccyZiPJL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61evzcdVTcL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CSSZBTKM",
+  "buyStore": "Amazon",
+  "title": "PURITO Centella Eye Cream, Korean Centella, for Sensitive Skin, Soothing, Facial Eye Cream for face, Dark Circles, Wrinkles, Puffiness, K-Beauty, Vegan & Cruelty-Free, 30ml 1fl.oz",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:centella-cica",
+   "claim:anti-aging",
+   "claim:soothing",
+   "claim:dark-circles",
+   "claim:korean",
+   "skin:sensitive",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "PURITO official website (purito.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://purito.com/product/wonder-releaf-centella-eye-cream",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "Wonder Releaf Centella Eye Cream",
+   "inciMatchScore": 1,
+   "inciText": "Water, Hydrogenated Poly(C6-14 Olefin), Glycerin, Cetyl Ethylhexanoate, Caprylic/Capric Triglyceride, Cetyl Alcohol, 1,2-Hexanediol, Butylene Glycol, Dipropylene Glycol, Centella Asiatica Extract(16,650ppm), Methyl Trimethicone, Dipentaerythrityl Hexa C5-9 Acid Esters, Pentaerythrityl Tetraisostearate, Potassium Cetyl Phosphate, Palmitoyl Dipeptide-10, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Palmitoyl Hexapeptide-12, Sodium Hyaluronate, Asiaticoside, Madecassic Acid, Asiatic Acid, Polyglyceryl-2 Stearate, Butyrospermum Parkii (Shea) Butter, Cetearyl Olivate, Glyceryl Stearate, Stearyl Alcohol, Limnanthes Alba (Meadowfoam) Seed Oil, Argania Spinosa Kernel Oil, Macadamia Ternifolia Seed Oil, Sorbitan Olivate, Caprylyl Glycol, Palmitic Acid, Panthenol, Stearic Acid, Acetyl Glucosamine, Ceramide NP, Tromethamine, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Adenosine, Disodium EDTA, Myristic Acid, Arachidic Acid, Camellia Sinensis Leaf Extract, Pancratium Maritimum Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Lavandula Angustifolia (Lavender) Oil, Limonene, Linalool",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "palmitoyl tetrapeptide-7",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "palmitoyl tripeptide-1",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 19,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 24,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 29,
+     "core": false,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 34,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 37,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 41,
+     "core": true,
+     "trace": false,
+     "src": "peptides"
+    },
+    {
+     "name": "camellia sinensis leaf extract",
+     "grade": "B",
+     "position": 45,
+     "core": false,
+     "trace": true,
+     "src": "greenTea"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butylene glycol",
+    "sodium hyaluronate",
+    "butyrospermum parkii butter",
+    "panthenol",
+    "ceramide np"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool"
+     ],
+     "penalty": 1,
+     "src": "eu1223"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "citrus aurantium bergamia fruit oil",
+      "lavandula angustifolia oil"
+     ],
+     "penalty": 1,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -42927,102 +45277,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "garnier-b0brg4lw9b",
-  "brand": "Garnier",
-  "model": "Skin Naturals, Micellar Cleansing Water, 125ml & Garnier Hydra Bomb Eye Serum Mask, Orange…",
-  "price": 233,
-  "capacityLine": "6 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack · ₹3883/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Combo listing — formula unscored"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.8,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "6 g",
-   "pricePer100": "₹3883/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciList": "Unverified seller line: Micellar Cleansing Water - 695899 Aqua / Water, Hexylene Glycol, Glycerin, Poloxamer 184, Disodium Cocoamphodiacetate, Disodium Edta, Myrtrimonium Bromide. (Z280823/1). Hydra Bomb Mask - 968179 Aqua / Water, Propylene Glycol, Glycerin, Camellia Sinensis Leaf Extract, Citric Acid, Citrus Aurantium Dulcis Juice / Orange Juice, Dipotassium Glycyrrhizate, Glyceryl Acrylate/Acrylic Acid Copolymer, Hydr",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61a2lc5MIWL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BRG4LW9B",
-  "buyStore": "Amazon",
-  "title": "Garnier Skin Naturals, Micellar Cleansing Water, 125ml & Garnier Hydra Bomb Eye Serum Mask, Orange, 6 g",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:wash",
-   "format:micellar",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Amazon.in listing — Important information › Ingredients",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Micellar Cleansing Water - 695899 Aqua / Water, Hexylene Glycol, Glycerin, Poloxamer 184, Disodium Cocoamphodiacetate, Disodium Edta, Myrtrimonium Bromide. (Z280823/1). Hydra Bomb Mask - 968179 Aqua / Water, Propylene Glycol, Glycerin, Camellia Sinensis Leaf Extract, Citric Acid, Citrus Aurantium Dulcis Juice / Orange Juice, Dipotassium Glycyrrhizate, Glyceryl Acrylate/Acrylic Acid Copolymer, Hydr",
-   "inciNote": "Combo listing — the ingredient text covers several products, so no single formula can be scored",
-   "declarationConfidence": null,
-   "recognised": 0.97,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "L'Oréal",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "recluse-b0h9rr75wn",
   "brand": "RECLUSE",
   "model": "Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, An…",
@@ -43084,208 +45338,6 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "white-b0h5852bc3",
-  "brand": "White",
-  "model": "Rice Rejuvenating Serum Moisturizing Essence Reduces Wrinkles Dark Spots Dark Circle Suita…",
-  "price": 249,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "rice water",
-  "featureLine": "Essence",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Essence",
-   "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41XqbHR2sYL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5852BC3",
-  "buyStore": "Amazon",
-  "title": "White Rice Rejuvenating Serum Moisturizing Essence Reduces Wrinkles Dark Spots Dark Circle Suitable for Female Daily Care (1)",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:essence",
-   "ing:rice-water",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "white-b0h564fdhy",
-  "brand": "White",
-  "model": "Rice Rejuvenating Serum Moisturizing Essence Reduces Wrinkles Dark Spots Dark Circle Suita…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "rice water",
-  "featureLine": "Essence",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Essence",
-   "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ont0PkF1L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H564FDHY",
-  "buyStore": "Amazon",
-  "title": "White Rice Rejuvenating Serum Moisturizing Essence Reduces Wrinkles Dark Spots Dark Circle Suitable for Female Daily Care (1)",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:essence",
-   "ing:rice-water",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:unisex",
    "rating:none",
    "store:amazon",
    "inci:none"
@@ -43394,311 +45446,6 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "conscious-chemist-b08ddc596p",
-  "brand": "Conscious Chemist",
-  "model": "® Dull Skin, Dark Circles & Fine Lines Treatment 10% Vitamin C Face Serum | For Glowing Sk…",
-  "price": 263,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C + PHA",
-  "featureLine": "Serum · ₹877/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹877/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, PHA (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51FHyiCKRVL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08DDC596P",
-  "buyStore": "Amazon",
-  "title": "Conscious Chemist® Dull Skin, Dark Circles & Fine Lines Treatment 10% Vitamin C Face Serum | For Glowing Skin | Tested for Oily Skin With Ferulic Acid, Ethyl Ascorbic Acid & PHA | All Skin Types | For Men & Women | 30Ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:pha",
-   "ing:ferulic-acid",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "skin:oily",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Conscious Chemist",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://consciouschemist.com/"
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "dr-alies-professional-b091cjf5v6",
-  "brand": "Dr. Alies Professional",
-  "model": "Dr. Alies - Professional Vitamin C Serum | Brightening Skin, Anti-Aging, and Skin Repair -…",
-  "price": 199,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹663/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71RiSy65P7L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B091CJF5V6",
-  "buyStore": "Amazon",
-  "title": "Dr. Alies - Professional Vitamin C Serum | Brightening Skin, Anti-Aging, and Skin Repair - Supercharged Face Serum | Dark Circles, Fine Lines & Sun Damage Correction | 30 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:barrier",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dv1cb9nl",
-  "brand": "Unbranded",
-  "model": "Skin Whitening Vitamin C Serum for Soother & Brighten Skin, Face Pigmentation, Radiant Ski…",
-  "price": 289,
-  "capacityLine": "15 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹1927/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹1927/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/91-ocSx7trL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DV1CB9NL",
-  "buyStore": "Amazon",
-  "title": "Skin Whitening Vitamin C Serum for Soother & Brighten Skin, Face Pigmentation, Radiant Skin, Dark Circle, Anti Blemishes & Anti Aging serum | Fairness & Wrinkle Reducer - 15 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:soothing",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -43899,211 +45646,6 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h2ns22qt",
-  "brand": "Unbranded",
-  "model": "Skin Brightening Serum & Under Eye Gel Combo | With Alpha Arbutin | Ethyl Ascorbic Acid | …",
-  "price": 1299,
-  "capacityLine": "15 g",
-  "materialLine": "vitamin C + hyaluronic acid + alpha arbutin",
-  "featureLine": "Serum · ₹8660/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 g",
-   "pricePer100": "₹8660/100g",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, hyaluronic acid, alpha arbutin (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71gqpRriOLL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2NS22QT",
-  "buyStore": "Amazon",
-  "title": "Skin Brightening Serum & Under Eye Gel Combo | With Alpha Arbutin | Ethyl Ascorbic Acid | Hyaluronic Acid | Elderflower | Chicory Root | Reduces Dark Circles | De-puffs | Firms and Brightnes | 30ml+15gm",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:hyaluronic-acid",
-   "ing:alpha-arbutin",
-   "claim:brightening",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "edith-b0f5b5msh2",
-  "brand": "Edith",
-  "model": "Naturals Niacid Face Serum - 10% Niacinamide,skin Brightening Serum, Anti-Aging, Skin Repa…",
-  "price": 399,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "niacinamide",
-  "featureLine": "Serum · ₹399/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹399/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41-UaG0SIFL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F5B5MSH2",
-  "buyStore": "Amazon",
-  "title": "Edith Naturals Niacid Face Serum - 10% Niacinamide,skin Brightening Serum, Anti-Aging, Skin Repair, Supercharged Face Serum, Dark Circle, Fine Line & Sun Damage Corrector |, 50 ml, Pack of 2",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:kit",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:barrier",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
    "derm": false,
    "men": false,
    "women": false,
@@ -44392,6 +45934,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:hyaluronic-acid",
    "ing:caffeine",
+   "ing:argireline",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -44482,7 +46025,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#11 on list, strong evidence); glycerin (#15 on list, strong evidence); retinol (#19 on list, strong evidence); panthenol (#29 on list, moderate evidence); sodium hyaluronate (#32 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "3.8★ from 0 ratings"
+   "buyerEvidence": "3.8★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #11 on INCI; Dark spots — niacinamide #11 on INCI; Aging — retinol #19 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51pvXtPEjzS._AC_UL320_.jpg"
@@ -44500,6 +46044,9 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -44534,6 +46081,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -44541,6 +46089,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -44548,6 +46097,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -44555,6 +46105,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -44562,6 +46113,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -44569,6 +46121,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -44576,6 +46129,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -44583,6 +46137,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -44764,6 +46319,7 @@ const CTPRODUCTS = [
    "ing:retinol",
    "ing:retinal",
    "ing:vitamin-b5-panthenol",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -44809,174 +46365,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "beauty-of-joseon-b0b45ll4dd",
-  "brand": "Beauty of Joseon",
-  "model": "Revive Eye Serum with Ginseng & Retinal (30m) | Anti-Aging, Wrinkle Care, Korean Eye Cream…",
-  "price": 1207,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "retinol",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
-   "No fragrance / flagged irritant on the INCI list"
-  ],
-  "cons": [],
-  "scores": {
-   "ingredients": 8.2,
-   "skin": 9,
-   "trust": 7,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
-   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
-   "inciMatchedName": "Revive Eye Serum : Ginseng + Retinal (name match 81%)",
-   "inciList": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
-   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); adenosine (#20 on list, moderate evidence); retinal (#28 on list, strong evidence); sodium hyaluronate (#31 on list, moderate evidence); tocopherol (#32 on list, moderate evidence); ceramide np (#35 on list, moderate evidence)",
-   "safetyFlags": "No flagged irritant / allergen on the INCI list",
-   "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51PbZMgofCL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B45LL4DD",
-  "buyStore": "Amazon",
-  "title": "Beauty of Joseon Revive Eye Serum with Ginseng & Retinal (30m) | Anti-Aging, Wrinkle Care, Korean Eye Cream for Dark Circles & Fine Lines",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "ing:retinal",
-   "ing:ginseng",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:korean",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Revive Eye Serum : Ginseng + Retinal",
-   "inciMatchScore": 0.81,
-   "inciText": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.9,
-   "recognised": 0.97,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 2,
-     "core": true,
-     "src": "glycerin"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 7,
-     "core": true,
-     "src": "niacinamide"
-    },
-    {
-     "name": "adenosine",
-     "grade": "B",
-     "position": 20,
-     "core": true,
-     "src": "peptides"
-    },
-    {
-     "name": "cholesterol",
-     "grade": "B",
-     "position": 21,
-     "core": false,
-     "src": "ceramide"
-    },
-    {
-     "name": "retinal",
-     "grade": "A",
-     "position": 28,
-     "core": true,
-     "src": "retinoids"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 31,
-     "core": true,
-     "src": "ha"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 32,
-     "core": true,
-     "src": "vitc"
-    },
-    {
-     "name": "ceramide np",
-     "grade": "B",
-     "position": 35,
-     "core": true,
-     "src": "ceramide"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "niacinamide",
-    "butylene glycol",
-    "cholesterol",
-    "sodium hyaluronate",
-    "ceramide np"
-   ],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Govan (Beauty of Joseon)",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://beautyofjoseon.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -45446,6 +46834,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "free:vegan",
    "aud:unisex",
    "rating:none",
@@ -46920,6 +48309,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -46927,6 +48317,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -46934,6 +48325,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -46941,6 +48333,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -46948,6 +48341,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -46955,6 +48349,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -46962,6 +48357,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "pigment"
     },
     {
@@ -46969,6 +48365,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -46976,6 +48373,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 33,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -46983,6 +48381,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -47107,109 +48506,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "dermistry-b0cn2w4h9j",
-  "brand": "Dermistry",
-  "model": "Anti Ageing 5% Collagen 0.5% Retinol Skin Firming Tightening Moisturizer Night Repair Face…",
-  "price": 375,
-  "capacityLine": "50 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹750/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹750/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.9/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+Uy3Gh8-L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CN2W4H9J",
-  "buyStore": "Amazon",
-  "title": "Dermistry Anti Ageing 5% Collagen 0.5% Retinol Skin Firming Tightening Moisturizer Night Repair Face Cream Reduces Aging Wrinkles Dark Circles Improves Elasticity for Dry & Oily Skin Men Women 50ML",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinol",
-   "ing:collagen",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:dark-circles",
-   "skin:oily",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -49955,107 +51251,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hcz513t2",
-  "brand": "Seoul",
-  "model": "1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elas…",
-  "price": 999,
-  "capacityLine": "30 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹3330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹3330/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51eASGkZX9L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCZ513T2",
-  "buyStore": "Amazon",
-  "title": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinol",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "neutrogena-b0dd3v41db",
   "brand": "Neutrogena",
   "model": "Visible Repair Retinol Day & Night Eye Cream | Boosts Collagen for Anti-Ageing | Reduces D…",
@@ -50361,110 +51556,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermistry-b0fj8f33md",
-  "brand": "Dermistry",
-  "model": "2% Retinol 2% Hyaluronic Acid Face Serum and Anti Aging Retinol Collagen SPF 30 Day Cream …",
-  "price": 848,
-  "capacityLine": "80 ml",
-  "materialLine": "retinol + hyaluronic acid",
-  "featureLine": "Sunscreen · SPF 30 · ₹1060/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹1060/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "retinol, hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim, SPF 30",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ZYrH2A86L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ8F33MD",
-  "buyStore": "Amazon",
-  "title": "Dermistry 2% Retinol 2% Hyaluronic Acid Face Serum and Anti Aging Retinol Collagen SPF 30 Day Cream Reduces Ageing Wrinkles Fine Lines Dark Circles Improves Elasticity Men Women Dry & Oily Skin 80ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "spf:30",
-   "ing:retinol",
-   "ing:hyaluronic-acid",
-   "ing:collagen",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:spf-claim",
-   "skin:oily",
-   "aud:women",
-   "size:standard",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
   "id": "unbranded-b0ghj5c3z1",
   "brand": "Unbranded",
   "model": "Centella Probio-Cica Bakuchiol Eye Cream 0.68 fl.oz, 20ml, Korean Eye Cream with Bakuchiol…",
@@ -50626,6 +51717,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -50927,6 +52019,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:scars",
    "aud:unisex",
    "size:xl",
    "rating:4.0",
@@ -50969,312 +52062,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "bake-b0dpfv9xdw",
-  "brand": "Bake",
-  "model": "Aha + Bha Serum Sheet Mask for Glowing Skin, Dark Circles, Spots & Pigmentation, Tan Remov…",
-  "price": 149,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Sheet mask · Paraben-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sheet mask",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61OWZZl94kL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DPFV9XDW",
-  "buyStore": "Amazon",
-  "title": "Bake Aha + Bha Serum Sheet Mask for Glowing Skin, Dark Circles, Spots & Pigmentation, Tan Removal | Paraben Free, 100% Biodegradable (20.00 g, AHA + BHA)",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:sheet-mask",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:dark-circles",
-   "free:paraben",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "khadi-natural-b09jn4rhw4",
-  "brand": "Khadi Natural",
-  "model": "Herbal Strawberry Face Gel Paraban And Sulphat Free Pure Natural Gel - Ideal for Skin, Fac…",
-  "price": 206,
-  "capacityLine": "180 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹114/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "180 g",
-   "pricePer100": "₹114/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41lvUa5Bq1L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09JN4RHW4",
-  "buyStore": "Amazon",
-  "title": "Khadi Natural Herbal Strawberry Face Gel Paraban And Sulphat Free Pure Natural Gel - Ideal for Skin, Face, Acne Scars, Hair Care, Moisturizer & Dark Circles180 GRAM",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "ing:strawberry",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0grhyd7kn",
-  "brand": "Unbranded",
-  "model": "Day and Night Men Face Cream with Collagen Retinol and Vitamin E Moisturizing Skin Care Cr…",
-  "price": 219,
-  "capacityLine": "50 g",
-  "materialLine": "retinol + vitamin E",
-  "featureLine": "Cream / gel · ₹438/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹438/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61UTyc9c1AL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRHYD7KN",
-  "buyStore": "Amazon",
-  "title": "Day and Night Men Face Cream with Collagen Retinol and Vitamin E Moisturizing Skin Care Cream, Cream for Pigmentation & Dark Spots, Reduces Wrinkles & Dark Circles - 50 g (Pack 3)",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:pack",
-   "ing:retinol",
-   "ing:collagen",
-   "ing:vitamin-e",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:men",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -51583,314 +52370,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0h1dyxvsn",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Cream Day Cream 50g | Saffron Face Cream for Dark Spots, Pimples, Dark Circles &…",
-  "price": 270,
-  "capacityLine": "50 g",
-  "materialLine": "saffron + kumkumadi",
-  "featureLine": "Cream / gel · ₹540/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹540/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "saffron, kumkumadi (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71FIo2W9S7L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1DYXVSN",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Cream Day Cream 50g | Saffron Face Cream for Dark Spots, Pimples, Dark Circles & Stretch Marks | Natural Ayurvedic Skin Brightening & Moisturizing Cream for Women & Men",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:saffron",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "fade-b0969xpptv",
-  "brand": "Fade",
-  "model": "out Advance Brightening Day Cream with SPF20 Moisturiser Face Cream for Dark Spots and Hyp…",
-  "price": 699,
-  "capacityLine": "75 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Sunscreen · SPF 20 · ₹932/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "75 ml",
-   "pricePer100": "₹932/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, SPF 20",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71tXbj2l1FL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0969XPPTV",
-  "buyStore": "Amazon",
-  "title": "Fade out Advance Brightening Day Cream with SPF20 Moisturiser Face Cream for Dark Spots and Hyperpigmentation, Dark Circles, Dryness, 75ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "spf:15",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:spf-claim",
-   "claim:dry-skin-relief",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "dermistry-b0cn3dv1ys",
-  "brand": "Dermistry",
-  "model": "Anti Aging Retinol Collagen SPF 30 Skin Firming Lifting Moisturizer Day Face Cream Reduces…",
-  "price": 375,
-  "capacityLine": "50 ml",
-  "materialLine": "retinol",
-  "featureLine": "Sunscreen · SPF 30 · ₹750/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹750/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim, SPF 30",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61g2I-H8w2L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CN3DV1YS",
-  "buyStore": "Amazon",
-  "title": "Dermistry Anti Aging Retinol Collagen SPF 30 Skin Firming Lifting Moisturizer Day Face Cream Reduces Ageing Wrinkles Dark Circles Fine Lines Improves Elasticity Tightening Dry Oily Skin Men Women 50ML",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "spf:30",
-   "ing:retinol",
-   "ing:collagen",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:spf-claim",
-   "skin:oily",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
   "id": "garnier-b07r5y9dcx",
   "brand": "Garnier",
   "model": "Skin Naturals, Eye Mask, Hydrating & Revitalising, Hydra Bomb Eye Serum Mask, 1 pc, 6g",
@@ -51983,102 +52462,6 @@ const CTPRODUCTS = [
     "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "reusable-b0gnsd65mc",
-  "brand": "Reusable",
-  "model": "Ice Gel Face Mask – Hot & Cold Therapy Full Face Pack for Puffy Eyes, Dark Circles, Headac…",
-  "price": 289,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Mask / pack",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71kcXjdl3FL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GNSD65MC",
-  "buyStore": "Amazon",
-  "title": "Reusable Ice Gel Face Mask – Hot & Cold Therapy Full Face Pack for Puffy Eyes, Dark Circles, Headache Relief & Skin Care, Cooling Gel Facial Mask for Men & Women, Reusable Flexible Gel Ice Pack",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:pack",
-   "claim:dark-circles",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -52431,6 +52814,8 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:brightening",
    "claim:anti-aging",
+   "claim:stretch-marks",
+   "claim:overnight",
    "aud:unisex",
    "rating:3.5",
    "store:amazon",
@@ -52525,6 +52910,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "ing:peptides",
+   "ing:argireline",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:women",
@@ -52734,6 +53120,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -52874,6 +53261,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -53144,6 +53532,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:standard",
    "rating:4.0",
@@ -53348,6 +53737,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -53652,6 +54042,7 @@ const CTPRODUCTS = [
    "ing:calamine",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -53854,6 +54245,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -53899,104 +54291,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "jubilation-b0bqbyxz4q",
-  "brand": "jubilation",
-  "model": "New Eyebliss Under Eye Cream, 15G Vitamin C 20% Face Serum 30 Ml",
-  "price": 380,
-  "capacityLine": "15 g",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹2533/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "15 g",
-   "pricePer100": "₹2533/100g",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51kKLrEIPuL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BQBYXZ4Q",
-  "buyStore": "Amazon",
-  "title": "jubilation New Eyebliss Under Eye Cream, 15G Vitamin C 20% Face Serum 30 Ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
   "id": "plum-b0h6qkygrg",
   "brand": "Plum",
   "model": "Rice Water & Niacinamide 3% Under-Eye Crème 15g | With Peptides Ceramides & Caffeine",
@@ -54038,7 +54332,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#3 on list, strong evidence); glycerin (#7 on list, strong evidence); caffeine (#8 on list, moderate evidence); squalane (#18 on list, moderate evidence); palmitoyl tripeptide-1 (#25 on list, moderate evidence); palmitoyl tetrapeptide-7 (#26 on list, moderate evidence); ceramide eop (#37 on list, moderate evidence); ceramide np (#39 on list, moderate evidence); ceramide ap (#41 on list, moderate evidence); sodium hyaluronate (#45 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
+   "buyerEvidence": "5★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — niacinamide #3 on INCI, alpha-arbutin #17 on INCI; Aging — palmitoyl tripeptide-1 #25 on INCI, palmitoyl tetrapeptide-7 #26 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C7sxvgNRL._AC_UL320_.jpg"
@@ -54059,6 +54354,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -54093,6 +54391,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -54100,6 +54399,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -54107,6 +54407,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -54114,6 +54415,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -54121,6 +54423,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -54128,6 +54431,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -54135,6 +54439,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -54142,6 +54447,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -54149,6 +54455,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -54156,6 +54463,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -54163,6 +54471,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 39,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -54170,6 +54479,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 41,
      "core": true,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -54177,6 +54487,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 42,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -54184,6 +54495,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 45,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -54191,6 +54503,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 46,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -54198,6 +54511,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 49,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -54628,107 +54942,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "eucerin-b0c93m37rd",
-  "brand": "Eucerin",
-  "model": "Anti-Pigment Eye Corrector Serum-Thiamidol, Reduces Dark Circles & instantly brighten eyes…",
-  "price": 2035,
-  "capacityLine": "15 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹13567/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Beiersdorf (Eucerin dermo-cosmetics) (dermatology / pharma maker)"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹13567/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf (Eucerin dermo-cosmetics) — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41P1C6i8gnL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C93M37RD",
-  "buyStore": "Amazon",
-  "title": "Eucerin Anti-Pigment Eye Corrector Serum-Thiamidol, Reduces Dark Circles & instantly brighten eyes 15ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:thiamidol",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf (Eucerin dermo-cosmetics)",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.beiersdorf.com/brands/eucerin"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
   "id": "foxtale-b0df77x99g",
   "brand": "Foxtale",
   "model": "Brightening Under Eye Cream|Vitamin C, Caffeine, And Hyaluronic Acid|Reduces Dark Circles …",
@@ -54770,7 +54983,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#8 on list, strong evidence); sodium hyaluronate (#16 on list, moderate evidence); squalane (#18 on list, moderate evidence); tocopherol (#19 on list, moderate evidence); panthenol (#20 on list, moderate evidence); caffeine (#21 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4★ from 0 ratings"
+   "buyerEvidence": "4★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/410rDO1gbFL._AC_UL320_.jpg"
@@ -54791,6 +55005,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -54825,6 +55041,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -54832,6 +55049,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -54839,6 +55057,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -54846,6 +55065,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -54853,6 +55073,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -54860,6 +55081,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -54867,6 +55089,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -54874,6 +55097,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -54881,6 +55105,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -54888,6 +55113,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "caffeine"
     }
    ],
@@ -55026,7 +55252,7 @@ const CTPRODUCTS = [
    "Added fragrance (parfum): parfum"
   ],
   "scores": {
-   "ingredients": 5.3,
+   "ingredients": 5.4,
    "skin": 7.7,
    "trust": 7,
    "experience": 1.3
@@ -55107,6 +55333,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -55114,13 +55341,23 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "retinoids"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 18,
+     "core": false,
+     "trace": true,
+     "src": "squalane"
     },
     {
      "name": "sodium ascorbyl phosphate",
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -55128,6 +55365,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -55135,6 +55373,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -55317,6 +55556,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:hyaluronic-acid",
    "ing:peptides",
+   "ing:matrixyl",
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
@@ -55421,6 +55661,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "free:vegan",
    "aud:women",
    "size:travel",
@@ -56405,6 +56646,7 @@ const CTPRODUCTS = [
    "format:balm",
    "ing:rice-water",
    "ing:olive",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:barrier",
@@ -57044,107 +57286,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hg6ynq4w",
-  "brand": "Seoul",
-  "model": "1988 Retinal Under Eye Cream with 4% Retinal Liposome & Fermented Bean Extract | Brighteni…",
-  "price": 199,
-  "capacityLine": "50 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹398/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹398/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51Oq-XE0ULL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HG6YNQ4W",
-  "buyStore": "Amazon",
-  "title": "Seoul 1988 Retinal Under Eye Cream with 4% Retinal Liposome & Fermented Bean Extract | Brightening Eye Care for Dark Circles, Fine Lines, Puffiness & Hydration | Men & Women, 50ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "mcaffeine-b0c2byfhf9",
   "brand": "Mcaffeine",
   "model": "Green Tea Under Eye Cream to Reduce Fine Lines, Wrinkles & Dark Circles | 3% Caffeine, 1.5…",
@@ -57201,6 +57342,7 @@ const CTPRODUCTS = [
    "ing:green-tea",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -57602,6 +57744,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -57801,6 +57944,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:caffeine",
    "ing:coffee",
+   "ing:sugar",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:unisex",
@@ -58247,107 +58391,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0cr44xxkg",
-  "brand": "Unbranded",
-  "model": "Under Eye Cream, Brighten, hydrate|,anti-aging the solution | Wrinkles and dark circles | …",
-  "price": 499,
-  "capacityLine": "60 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹832/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g × 2 pack",
-   "pricePer100": "₹832/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51OuQrqBvsL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CR44XXKG",
-  "buyStore": "Amazon",
-  "title": "Under Eye Cream, Brighten, hydrate|,anti-aging the solution | Wrinkles and dark circles | for bright eyes.combo (pack of 2)-30+30gm",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:kit",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0h4qg4hcq",
   "brand": "Unbranded",
   "model": "Under Eye Cream for Dark Circles & Puffy Eyes, 50gm | Kojic Acid, Alpha Arbutin & Niacinam…",
@@ -58406,6 +58449,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -58702,6 +58746,7 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:low",
    "store:amazon",
@@ -59403,6 +59448,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -59645,9 +59691,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0h9qlp57b",
-  "brand": "Seoul",
-  "model": "1988 Korean Eye Repair Cream with Retinal Liposome | Advanced Under Eye Cream for Dark Cir…",
+  "id": "seoul-1988-b0h9qlp57b",
+  "brand": "Seoul 1988",
+  "model": "Korean Eye Repair Cream with Retinal Liposome | Advanced Under Eye Cream for Dark Circles,…",
   "price": 284,
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol",
@@ -59804,6 +59850,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -61110,6 +61157,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -61211,6 +61259,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -61457,108 +61506,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0h83smpss",
-  "brand": "Unbranded",
-  "model": "Eye Cream Retinal Liposome Fine Lines And Skin Texture Care Serum Fermented Bean Anti Agin…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "retinol",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51K647KpFVL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H83SMPSS",
-  "buyStore": "Amazon",
-  "title": "Eye Cream Retinal Liposome Fine Lines And Skin Texture Care Serum Fermented Bean Anti Aging Wrinkle Care Skin Elasticity Pigmentation Brightening Under Eye Dark Circle",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:exfoliating",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0hdm2qnp2",
   "brand": "Unbranded",
   "model": "1988 K Retinal Eye Cream with 4% Retinal Liposome & Fermented Bean Extract | Under Eye Car…",
@@ -61717,6 +61664,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -62766,9 +62714,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hh4cqgvw",
-  "brand": "Seoul",
-  "model": "1988 Eye Cream for Dark Circles & Puffiness | Hydrating Under Eye Cream for Fine Lines & D…",
+  "id": "seoul-1988-b0hh4cqgvw",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream for Dark Circles & Puffiness | Hydrating Under Eye Cream for Fine Lines & Dry Sk…",
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -63119,6 +63067,7 @@ const CTPRODUCTS = [
    "ing:retinal",
    "ing:peptides",
    "ing:caffeine",
+   "ing:copper-peptide",
    "claim:anti-aging",
    "claim:dark-circles",
    "free:derm",
@@ -63164,105 +63113,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "seoul-b0h6k2yg71",
-  "brand": "Seoul",
-  "model": "1988 Retinal Liposome 4% Eye Cream with Fermented Bean – Anti-Aging Under Eye Cream for Da…",
-  "price": 229,
-  "capacityLine": "30 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹763/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹763/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41tNVhunnpL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6K2YG71",
-  "buyStore": "Amazon",
-  "title": "Seoul 1988 Retinal Liposome 4% Eye Cream with Fermented Bean – Anti-Aging Under Eye Cream for Dark Circles, Fine Lines & Wrinkles – 30ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinal",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -63465,107 +63315,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0h15ftkl5",
-  "brand": "Seoul",
-  "model": "1988 Retinal Liposome 4% Eye Cream – Korean Fermented Bean Under Eye Cream for Wrinkles, D…",
-  "price": 242,
-  "capacityLine": "30 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹807/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹807/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/21Qmgd5ZtPL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H15FTKL5",
-  "buyStore": "Amazon",
-  "title": "SEOUL 1988 Retinal Liposome 4% Eye Cream – Korean Fermented Bean Under Eye Cream for Wrinkles, Dark Circles, Puffiness & Hydration – Firming Anti Aging Eye Care 30ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinal",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "claim:korean",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0hfp7tc3n",
   "brand": "Unbranded",
   "model": "Retinol Eye Cream for Dark Circles & Wrinkles – Anti-Aging Under Eye Cream for Fine Lines,…",
@@ -63629,6 +63378,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:exfoliating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -63729,6 +63479,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -63933,6 +63684,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -64034,6 +63786,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -64735,6 +64488,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "ing:matrixyl",
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
@@ -65042,11 +64796,13 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "ing:matrixyl",
    "claim:oil-control",
    "claim:hydrating",
    "claim:exfoliating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "rating:none",
@@ -65749,6 +65505,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "ing:matrixyl",
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
@@ -65796,108 +65553,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0h9yxmytm",
-  "brand": "Seoul",
-  "model": "1988 Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, Wrinkl…",
-  "price": 209,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51LWalynE4L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H9YXMYTM",
-  "buyStore": "Amazon",
-  "title": "Seoul 1988 Eye Cream with Retinal Liposome 4% + Fermented Bean | Anti-Aging, Brightening, Wrinkle Care, For Mature Skin, Nighttime Skincare",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:anti-aging",
-   "skin:mature",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "seoul-b0hc2h24g8",
-  "brand": "Seoul",
-  "model": "1988 Eye Cream for Dark Circles & Puffiness | Hydrating Under Eye Cream for Fine Lines & D…",
+  "id": "seoul-1988-b0hc2h24g8",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream for Dark Circles & Puffiness | Hydrating Under Eye Cream for Fine Lines & Dry Sk…",
   "price": 245,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -66660,6 +66318,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -66957,6 +66616,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -67098,9 +66758,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hdcjyw1r",
-  "brand": "Seoul",
-  "model": "1988 Eye Cream with Retinal Liposome 4% + Fermented Bean, Under Eye Moisturizer for Fine L…",
+  "id": "seoul-1988-b0hdcjyw1r",
+  "brand": "Seoul 1988",
+  "model": "Eye Cream with Retinal Liposome 4% + Fermented Bean, Under Eye Moisturizer for Fine Lines …",
   "price": 249,
   "capacityLine": "30 ml",
   "materialLine": "retinol",
@@ -67250,6 +66910,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:kit",
+   "ing:matrixyl",
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
@@ -67294,111 +66955,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "seoul-b0gmgrlg7b",
-  "brand": "Seoul",
-  "model": "1988 Retinal Eye Cream Retinal Liposome and Fermented Bean Anti Aging Wrinkle Care Brighte…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51nwJqY0UpL._AC_SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/717gr8JjZCL._AC_SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61M-4oeD2IL._AC_SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61aFB7WUrZL._AC_SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51HQU5F5KPL._AC_SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GMGRLG7B",
-  "buyStore": "Amazon",
-  "title": "Seoul 1988 Retinal Eye Cream Retinal Liposome and Fermented Bean Anti Aging Wrinkle Care Brightening and Firming Eye Treatment Korean Skincare for Sensitive Skin,[ Pack of 1 ]",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:kit",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:korean",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -67756,6 +67312,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -68291,106 +67848,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "k-secret-b0dggbydrz",
-  "brand": "K-SECRET",
-  "model": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, ski…",
-  "price": 1289,
-  "capacityLine": "30 ml",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · ₹4297/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4297/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61wkxi21otL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DGGBYDRZ",
-  "buyStore": "Amazon",
-  "title": "K-SECRET SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean, wrinkle care, anti-aging, skin elasticity, pigmentation, brightening, retinol, 30ml/1.01 fl.oz.",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinol",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
   "id": "seoulskin-b0glymcv4j",
   "brand": "Seoulskin",
   "model": "under eye cream | dark circles removal for women and men | Under Eye Gel to Reduce Dark Ci…",
@@ -68447,6 +67904,7 @@ const CTPRODUCTS = [
    "ing:alpha-arbutin",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -69147,6 +68605,8 @@ const CTPRODUCTS = [
    "format:roll-on",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -69346,6 +68806,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -70221,7 +69682,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#6 on list, strong evidence); glycerin (#8 on list, strong evidence); caffeine (#17 on list, moderate evidence); tocopheryl acetate (#21 on list, moderate evidence); hyaluronic acid (#25 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
+   "buyerEvidence": "3.7★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61zV-vigorL._AC_UL320_.jpg"
@@ -70241,6 +69703,8 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:3.5",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -70275,6 +69739,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -70282,6 +69747,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -70289,6 +69755,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -70296,6 +69763,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -70303,6 +69771,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -70310,6 +69779,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -70317,6 +69787,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": true,
+     "trace": true,
      "src": "ha"
     }
    ],
@@ -70689,6 +70160,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "ing:rice-water",
    "ing:green-tea",
+   "ing:lavender",
    "claim:anti-aging",
    "claim:dark-circles",
    "aud:women",
@@ -70831,107 +70303,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "seoul-b0h9qlxks4",
-  "brand": "Seoul",
-  "model": "1988 Korean Retinal Eye Cream for Dark Circles & Puffy Eyes | Advanced Under Eye Repair wi…",
-  "price": 146,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51KpP8RXrUL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H9QLXKS4",
-  "buyStore": "Amazon",
-  "title": "SEOUL 1988 Korean Retinal Eye Cream for Dark Circles & Puffy Eyes | Advanced Under Eye Repair with Retinal Liposome & Fermented Bean Extract | Fine Lines, Wrinkles & Hydrating Eye Care for Women & Men",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:retinal",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:dark-circles",
-   "claim:korean",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -71137,9 +70508,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0h9l5zl1f",
-  "brand": "Seoul",
-  "model": "1988 Under Eye Cream for Dark Circles, Puffiness & Fine Lines | Korean Skincare with Hyalu…",
+  "id": "seoul-1988-b0h9l5zl1f",
+  "brand": "Seoul 1988",
+  "model": "Under Eye Cream for Dark Circles, Puffiness & Fine Lines | Korean Skincare with Hyaluronic…",
   "price": 239,
   "capacityLine": "15 g",
   "materialLine": "niacinamide + hyaluronic acid",
@@ -72184,6 +71555,8 @@ const CTPRODUCTS = [
    "format:kit",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -73069,6 +72442,7 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:whitening-claim",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -73462,6 +72836,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -73559,6 +72934,7 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "ing:almond",
+   "ing:apricot",
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:ayurvedic",
@@ -73661,6 +73037,7 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "aud:unisex",
    "size:travel",
@@ -74065,6 +73442,7 @@ const CTPRODUCTS = [
    "format:cream",
    "claim:whitening-claim",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -74251,7 +73629,8 @@ const CTPRODUCTS = [
    "evidenceActives": "glycerin (#3 on list, strong evidence); niacinamide (#5 on list, strong evidence); adenosine (#6 on list, moderate evidence); sodium hyaluronate (#8 on list, moderate evidence); hydrolyzed hyaluronic acid (#9 on list, moderate evidence); palmitoyl pentapeptide-4 (#12 on list, moderate evidence); acetyl hexapeptide-8 (#14 on list, moderate evidence); copper tripeptide-1 (#15 on list, moderate evidence); ceramide np (#27 on list, moderate evidence); tocopherol (#37 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #5 on INCI; Dark spots — niacinamide #5 on INCI; Aging — adenosine #6 on INCI, palmitoyl pentapeptide-4 #12 on INCI, acetyl hexapeptide-8 #14 on INCI, copper tripeptide-1 #15 on INCI; Irritation — centella asiatica extract #23 on INCI, ceramide np #27 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61geVDBoMpL._AC_UL320_.jpg"
@@ -74274,6 +73653,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -74308,6 +73691,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -74315,6 +73699,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -74322,6 +73707,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -74329,6 +73715,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74336,6 +73723,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74343,6 +73731,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -74350,6 +73739,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -74357,6 +73747,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -74364,6 +73755,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "peptides"
     },
     {
@@ -74371,6 +73763,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -74378,6 +73771,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -74385,6 +73779,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -74392,6 +73787,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 27,
      "core": true,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -74399,6 +73795,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -74908,9 +74305,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hczg3wbv",
-  "brand": "Seoul",
-  "model": "1988 Under Eye Cream for Dark Circles, Puffiness & Fine Lines | Korean Skincare with Hyalu…",
+  "id": "seoul-1988-b0hczg3wbv",
+  "brand": "Seoul 1988",
+  "model": "Under Eye Cream for Dark Circles, Puffiness & Fine Lines | Korean Skincare with Hyaluronic…",
   "price": 199,
   "capacityLine": "15 g",
   "materialLine": "niacinamide + hyaluronic acid",
@@ -75060,6 +74457,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:dark-circles",
    "skin:all",
@@ -75260,6 +74658,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:dark-circles",
    "skin:all",
@@ -75418,16 +74817,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol",
   "featureLine": "Cream / gel · ₹6330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Some By Mi official website (en.somebymi.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 2.9
   },
   "fullSpec": {
@@ -75444,13 +74845,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Some By Mi official website (en.somebymi.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceUrl": "https://en.somebymi.com/product/retinol-intense-advanced-triple-action-eye-cream-30ml/265",
+   "inciMatchedName": "RETINOL INTENSE ADVANCED TRIPLE ACTION EYE CREAM [30ml] (name match 92%)",
+   "inciList": "Water, Glycerin, Caprylic/Capric Triglyceride, Dimethicone, Polysorbate 60, Niacinamide, Methylpropanediol, Cetyl Alcohol, Polymethylsilsesquioxane, Centella Asiatica Extract, Dioscorea Japonica Root Extract, Piper Methysticum Leaf/Root/Stem Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Panax Ginseng Berry Extract, Artemisia Capillaris Extract, Ganoderma Lucidum (Mushroom) Stem Extract, Chlorella Vulgaris Extract, Glycine Soja (Soybean) Seed Extract, Nymphaea Alba Flower Extract, Elaeis Guineensis (Palm) Oil, Hydrogenated Lecithin, Sodium Hyaluronate, 1,2-Hexanediol, Dimethicone/Vinyl Dimethicone Crosspolymer, Panthenol, BHT, Cyclopentasiloxane, Steareth-21, PEG-10 Dimethicone/Vinyl Dimethicone Crosspolymer, Polyacrylamide, Steareth-2, Isohexadecane, Carbomer, Hydroxyacetophenone, C13-14 Isoparaffin, Tromethamine, Palmitic Acid, Polyquaternium-51, Stearic Acid, Polysorbate 20, Retinol(0.1%), Ethylhexylglycerin, Glyceryl Caprylate, Tocopheryl Acetate, Polyglyceryl-10 Myristate, PEG-30 Dipolyhydroxystearate, Hydroxyethylcellulose, Glycosyl Trehalose, Beta-Glucan, Glyceryl Polymethacrylate, Laureth-7, Butylene Glycol, Disodium EDTA, Hydrogenated Starch Hydrolysate, Adenosine, Raffinose, Dipotassium Glycyrrhizate, Lecithin, Tocopherol, Pentylene Glycol, BHA, Myristic Acid, Propanediol, Dipropylene Glycol, Disodium Phosphate, Caprylyl Glycol, Collagen, Madecassic Acid, Biosaccharide Gum-1, Asiaticoside, Sodium Palmitoyl Proline, Leuconostoc/Radish Root Ferment Filtrate, Asiatic Acid, Glutathione, Retinal, Madecassoside, Sodium Phosphate, Acetyl Hexapeptide-8, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tetrahydropiperine, Phloretin, Arginine, Fragrance",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#6 on list, strong evidence); sodium hyaluronate (#22 on list, moderate evidence); panthenol (#25 on list, moderate evidence); retinol (#40 on list, strong evidence); tocopheryl acetate (#43 on list, moderate evidence); adenosine (#54 on list, moderate evidence); tocopherol (#58 on list, moderate evidence); retinal (#74 on list, strong evidence); acetyl hexapeptide-8 (#77 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — niacinamide #6 on INCI; Aging — retinol #40 on INCI; Irritation — centella asiatica extract #10 on INCI, panthenol #25 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZdWTukF0L._AC_UL320_.jpg"
@@ -75471,7 +74875,12 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -75480,27 +74889,182 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Some By Mi official website (en.somebymi.com, KR site — the Indian site publishes no INCI for this product; regional formulas can differ) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://en.somebymi.com/product/retinol-intense-advanced-triple-action-eye-cream-30ml/265",
+   "inciSourceRegion": "KR",
+   "inciMatchedTitle": "RETINOL INTENSE ADVANCED TRIPLE ACTION EYE CREAM [30ml]",
+   "inciMatchScore": 0.92,
+   "inciText": "Water, Glycerin, Caprylic/Capric Triglyceride, Dimethicone, Polysorbate 60, Niacinamide, Methylpropanediol, Cetyl Alcohol, Polymethylsilsesquioxane, Centella Asiatica Extract, Dioscorea Japonica Root Extract, Piper Methysticum Leaf/Root/Stem Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Panax Ginseng Berry Extract, Artemisia Capillaris Extract, Ganoderma Lucidum (Mushroom) Stem Extract, Chlorella Vulgaris Extract, Glycine Soja (Soybean) Seed Extract, Nymphaea Alba Flower Extract, Elaeis Guineensis (Palm) Oil, Hydrogenated Lecithin, Sodium Hyaluronate, 1,2-Hexanediol, Dimethicone/Vinyl Dimethicone Crosspolymer, Panthenol, BHT, Cyclopentasiloxane, Steareth-21, PEG-10 Dimethicone/Vinyl Dimethicone Crosspolymer, Polyacrylamide, Steareth-2, Isohexadecane, Carbomer, Hydroxyacetophenone, C13-14 Isoparaffin, Tromethamine, Palmitic Acid, Polyquaternium-51, Stearic Acid, Polysorbate 20, Retinol(0.1%), Ethylhexylglycerin, Glyceryl Caprylate, Tocopheryl Acetate, Polyglyceryl-10 Myristate, PEG-30 Dipolyhydroxystearate, Hydroxyethylcellulose, Glycosyl Trehalose, Beta-Glucan, Glyceryl Polymethacrylate, Laureth-7, Butylene Glycol, Disodium EDTA, Hydrogenated Starch Hydrolysate, Adenosine, Raffinose, Dipotassium Glycyrrhizate, Lecithin, Tocopherol, Pentylene Glycol, BHA, Myristic Acid, Propanediol, Dipropylene Glycol, Disodium Phosphate, Caprylyl Glycol, Collagen, Madecassic Acid, Biosaccharide Gum-1, Asiaticoside, Sodium Palmitoyl Proline, Leuconostoc/Radish Root Ferment Filtrate, Asiatic Acid, Glutathione, Retinal, Madecassoside, Sodium Phosphate, Acetyl Hexapeptide-8, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tetrahydropiperine, Phloretin, Arginine, Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "centella asiatica extract",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 22,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "retinol",
+     "grade": "A",
+     "position": 40,
+     "core": true,
+     "trace": false,
+     "src": "retinoids"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 43,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "beta-glucan",
+     "grade": "B",
+     "position": 48,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 54,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "dipotassium glycyrrhizate",
+     "grade": "B",
+     "position": 56,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 58,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "asiaticoside",
+     "grade": "B",
+     "position": 69,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "glutathione",
+     "grade": "C",
+     "position": 73,
+     "core": false,
+     "trace": true,
+     "src": "pigment"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 74,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "madecassoside",
+     "grade": "B",
+     "position": 75,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    },
+    {
+     "name": "acetyl hexapeptide-8",
+     "grade": "B",
+     "position": 77,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone",
+    "niacinamide",
+    "sodium hyaluronate",
+    "panthenol",
+    "butylene glycol",
+    "propanediol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -75667,6 +75231,7 @@ const CTPRODUCTS = [
    "ing:lemon",
    "claim:brightening",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:3.5",
@@ -76775,6 +76340,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -76820,9 +76386,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hg4dmd6j",
-  "brand": "Seoul",
-  "model": "1988 Retinal Eye Cream, 30ml | Fine Lines, Wrinkles & Dark Circles, Korean Anti-Aging, Soy…",
+  "id": "seoul-1988-b0hg4dmd6j",
+  "brand": "Seoul 1988",
+  "model": "Retinal Eye Cream, 30ml | Fine Lines, Wrinkles & Dark Circles, Korean Anti-Aging, Soybean …",
   "price": 199,
   "capacityLine": "30 ml",
   "materialLine": "retinol",
@@ -77171,6 +76737,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -77216,9 +76783,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "seoul-b0hddk6488",
-  "brand": "Seoul",
-  "model": "1988 Retinal Eye Cream – 4% Retinal Liposome + Fermented Bean Complex – Anti-Aging Eye Cre…",
+  "id": "seoul-1988-b0hddk6488",
+  "brand": "Seoul 1988",
+  "model": "Retinal Eye Cream – 4% Retinal Liposome + Fermented Bean Complex – Anti-Aging Eye Cream fo…",
   "price": 299,
   "capacityLine": "10 g",
   "materialLine": "retinol",
@@ -77368,6 +76935,7 @@ const CTPRODUCTS = [
    "format:cream",
    "ing:vitamin-c",
    "ing:niacinamide",
+   "ing:calendula",
    "claim:brightening",
    "claim:anti-aging",
    "claim:hydrating",
@@ -77971,6 +77539,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -78070,6 +77639,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:low",
    "store:amazon",
@@ -78169,6 +77739,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -78364,6 +77935,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:stretch-marks",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -78806,105 +78378,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "wow-b0glfc6vnw",
-  "brand": "Wow",
-  "model": "Skin Science 2% Caffeine Advanced Face Serum | Caffeine + Green Tea + Aloe Vera | De‑Puffi…",
-  "price": 422,
-  "capacityLine": "30 ml",
-  "materialLine": "caffeine + green tea + aloe vera",
-  "featureLine": "Serum · ₹1407/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1407/100ml",
-   "format": "Serum",
-   "keyIngredients": "caffeine, green tea, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Body Cupid — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/7183Wh4dt5L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GLFC6VNW",
-  "buyStore": "Amazon",
-  "title": "WOW Skin Science 2% Caffeine Advanced Face Serum | Caffeine + Green Tea + Aloe Vera | De‑Puffing, Dark Circle & Tired Skin Relief | Energising Under‑Eye & Face Serum | Lightweight & Fast Absorbing | 30 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:caffeine",
-   "ing:green-tea",
-   "ing:aloe-vera",
-   "claim:dark-circles",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Body Cupid",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.buywow.in/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
   "id": "mcaffeine-b0cr44h3pc",
   "brand": "Mcaffeine",
   "model": "Coffee Hydrogel Under Eye Patches for Dark Circles | Cooling Under Eye Patch Mask with Caf…",
@@ -78959,6 +78432,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -79354,6 +78828,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:4.0",
    "store:amazon",
@@ -79739,7 +79214,8 @@ const CTPRODUCTS = [
    "evidenceActives": "caffeine (#1 on list, moderate evidence); retinyl palmitate (#2 on list, limited evidence); hyaluronic acid (#3 on list, moderate evidence); tocopheryl acetate (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Dark spots — alpha-arbutin #4 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71OCc+IS0uL._AC_UL320_.jpg"
@@ -79758,6 +79234,7 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -79792,6 +79269,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -79799,6 +79277,7 @@ const CTPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -79806,6 +79285,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -79813,6 +79293,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -79820,6 +79301,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -79992,6 +79474,7 @@ const CTPRODUCTS = [
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:caffeine",
+   "ing:matrixyl",
    "claim:anti-aging",
    "claim:dark-circles",
    "skin:all",
@@ -80497,6 +79980,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:caffeine",
    "claim:dark-circles",
+   "claim:overnight",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -80597,6 +80081,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "claim:brightening",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -81104,6 +80589,7 @@ const CTPRODUCTS = [
    "ing:licorice",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:overnight",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -81204,6 +80690,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -81306,6 +80793,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -81816,6 +81304,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -82014,6 +81503,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "claim:brightening",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -82318,6 +81808,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -82418,6 +81909,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -82529,107 +82021,6 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "zenius-b0g14ltqyg",
-  "brand": "Zenius",
-  "model": "U Eye Whitening Roll On Serum with Silymarin and Caffeine, Dark Circles and Puffiness Trea…",
-  "price": 649,
-  "capacityLine": "15 ml",
-  "materialLine": "caffeine",
-  "featureLine": "Serum · ₹4327/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "15 ml",
-   "pricePer100": "₹4327/100ml",
-   "format": "Serum",
-   "keyIngredients": "caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41-QRaenFOL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G14LTQYG",
-  "buyStore": "Amazon",
-  "title": "Zenius U Eye Whitening Roll On Serum with Silymarin and Caffeine, Dark Circles and Puffiness Treatment, All Skin Types, 15ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:roll-on",
-   "ing:caffeine",
-   "claim:whitening-claim",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -82928,6 +82319,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -83029,6 +82421,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -83428,6 +82821,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -83528,6 +82922,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -84041,6 +83436,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -84244,6 +83640,7 @@ const CTPRODUCTS = [
    "ing:centella-cica",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -84344,6 +83741,7 @@ const CTPRODUCTS = [
    "claim:dark-spots",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -84543,6 +83941,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -84685,106 +84084,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "double-b0fzj7tcn4",
-  "brand": "Double",
-  "model": "Eyelid Glue 3ml and Eye Serum 30ml Combo | Instant Eye Lift Adhesive and Caffeine Eye Seru…",
-  "price": 923,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "caffeine",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ry6TF6D3L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FZJ7TCN4",
-  "buyStore": "Amazon",
-  "title": "Double Eyelid Glue 3ml and Eye Serum 30ml Combo | Instant Eye Lift Adhesive and Caffeine Eye Serum | Brightening, Firming and Anti-Aging Eye Care | Reduces Dark Circles, Puffiness and Wrinkles",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:kit",
-   "ing:caffeine",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -85154,6 +84453,7 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:cooling",
    "free:vegan",
    "aud:unisex",
    "size:travel",
@@ -85165,111 +84465,6 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dermistry-b0fhb1q3sw",
-  "brand": "Dermistry",
-  "model": "Pure 0.6% Retinol 5% Caffeine Under Eye Serum For Anti Aging Wrinkles Dark Circles Ageing …",
-  "price": 628,
-  "capacityLine": "80 ml",
-  "materialLine": "retinol + caffeine",
-  "featureLine": "Sunscreen · SPF 50 · ₹785/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹785/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "retinol, caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61AP6de5ekL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FHB1Q3SW",
-  "buyStore": "Amazon",
-  "title": "Dermistry Pure 0.6% Retinol 5% Caffeine Under Eye Serum For Anti Aging Wrinkles Dark Circles Ageing Puffiness & Ultra Lite Oil Free Water Based Sunscreen SPF 50 For Oily Dry & Combination Skin 80 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "spf:50",
-   "ing:retinol",
-   "ing:caffeine",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:combination",
-   "free:oil-free",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
    "derm": false,
    "men": false,
    "women": false,
@@ -85511,111 +84706,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermistry-b0gsvfc5nn",
-  "brand": "Dermistry",
-  "model": "10% Collagen + 5% Niacinamide Anti Aging Moisturizer Face Cream & 0.6% Retinol + 5% Caffei…",
-  "price": 938,
-  "capacityLine": "80 ml",
-  "materialLine": "niacinamide + retinol + caffeine",
-  "featureLine": "Serum · ₹1173/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "80 ml",
-   "pricePer100": "₹1173/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide, retinol, caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51pHOD62GTL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GSVFC5NN",
-  "buyStore": "Amazon",
-  "title": "Dermistry 10% Collagen + 5% Niacinamide Anti Aging Moisturizer Face Cream & 0.6% Retinol + 5% Caffeine Under Eye Serum for Dark Circles Puffiness Puffy Eyes Wrinkles Men Women All Skin Types 80ml",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:retinol",
-   "ing:collagen",
-   "ing:caffeine",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "volamena-b0cdl5g9bw",
   "brand": "Volamena",
   "model": "Under Eye Serum Roll on with Coffee Extract & Licorice 10 ml",
@@ -85677,6 +84767,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -85817,105 +84908,6 @@ const CTPRODUCTS = [
     "label": "Maker not verified",
     "pts": 3.5,
     "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "minimalist-b0hgf2fx4c",
-  "brand": "Minimalist",
-  "model": "Brightening & Eye Care Duo: Vitamin C serum + Retinal under eye cream for radiant skin and…",
-  "price": 853,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C + retinol",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51HSIWI284L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HGF2FX4C",
-  "buyStore": "Amazon",
-  "title": "Minimalist Brightening & Eye Care Duo: Vitamin C serum + Retinal under eye cream for radiant skin and refreshed-looking eyes.",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:retinal",
-   "claim:brightening",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
    },
    "buyers": "No buyer ratings yet"
   }
@@ -86076,6 +85068,7 @@ const CTPRODUCTS = [
    "ing:ceramides",
    "ing:caffeine",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -86377,6 +85370,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:soothing",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:none",
    "store:amazon",
@@ -86418,103 +85412,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "relove-b0bmm3nq5k",
-  "brand": "Relove",
-  "model": "By Revolution Energising 5% Caffeine Serum Reduce Dark Circles, Pigmentation and Puffiness",
-  "price": 458,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "caffeine",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "1.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41VAzM7IXML._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BMM3NQ5K",
-  "buyStore": "Amazon",
-  "title": "Relove By Revolution Energising 5% Caffeine Serum Reduce Dark Circles, Pigmentation and Puffiness",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:caffeine",
-   "claim:dark-spots",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1.6★ from 0 ratings"
   }
  },
  {
@@ -86584,6 +85481,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "claim:dark-circles",
    "claim:lightweight",
+   "claim:cooling",
+   "claim:makeup",
    "skin:dry",
    "aud:women",
    "rating:none",
@@ -86988,6 +85887,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "size:travel",
    "rating:none",
@@ -87088,6 +85988,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -87735,105 +86636,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "cd-b0fh6m1qsh",
-  "brand": "CD",
-  "model": "COSMO DESIGNS Caffeine Solution 3% + EGCG Puffiness | Signs of Aging | Dark Circles Face S…",
-  "price": 799,
-  "capacityLine": "30 ml",
-  "materialLine": "caffeine",
-  "featureLine": "Serum · ₹2663/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹2663/100ml",
-   "format": "Serum",
-   "keyIngredients": "caffeine (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61sLIWmDZEL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FH6M1QSH",
-  "buyStore": "Amazon",
-  "title": "CD COSMO DESIGNS Caffeine Solution 3% + EGCG Puffiness | Signs of Aging | Dark Circles Face Serum All skin types 30ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:caffeine",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "eyeluminate-b0gqjgm9h9",
   "brand": "EyeLuminate",
   "model": "Under Eye Gel for Dark Circles Removal | 0.2% Retinol, 1% Alpha Arbutin & Caffeine | Reduc…",
@@ -88402,6 +87204,7 @@ const CTPRODUCTS = [
    "ing:caffeine",
    "ing:saffron",
    "ing:rose",
+   "ing:chamomile",
    "claim:brightening",
    "claim:dark-circles",
    "aud:unisex",
@@ -88504,6 +87307,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
@@ -89045,106 +87849,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0gg9wdbj1",
-  "brand": "Unbranded",
-  "model": "Eye Care Roll On 10ml & Magic Glow Roll On 10ml Combo – Dark Circles, Puffiness, Hydration…",
-  "price": 629,
-  "capacityLine": "10 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹6290/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹6290/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71iGe4d19GL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GG9WDBJ1",
-  "buyStore": "Amazon",
-  "title": "Eye Care Roll On 10ml & Magic Glow Roll On 10ml Combo – Dark Circles, Puffiness, Hydration & Brightening Serum for Daily Skin Glow",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:roll-on",
-   "format:kit",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
   "id": "bhu-b08lcg3x1z",
   "brand": "bhu",
   "model": "botanicals Eyes Don't Lie - Under Eye Roll On (With Hyaluronic Acid, Rosehip Seed Oil & Ca…",
@@ -89243,106 +87947,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "luteti-b0hdnvwgzl",
-  "brand": "Luteti",
-  "model": "Under Eye Cream & Serum with 360° Massage Roller Ball,Eye Cream for Dark Circles and Puffy…",
-  "price": 399,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51q+xtqL0FL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDNVWGZL",
-  "buyStore": "Amazon",
-  "title": "Luteti Under Eye Cream & Serum with 360° Massage Roller Ball,Eye Cream for Dark Circles and Puffy Eyes,Anti-Wrinkle Dark Eye Circle Treatment & Eyebag Remover,Hydrating Under Eye Roller for Dry Skin",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:serum",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "skin:dry",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -89565,16 +88169,18 @@ const CTPRODUCTS = [
   "capacityLine": "24 ml",
   "materialLine": "kojic acid",
   "featureLine": "Serum · ₹8329/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (SkinInspired official website (skininspired.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.2,
+   "skin": 7,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -89591,13 +88197,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceUrl": "https://skininspired.in/products/irevive-under-eye-serum",
+   "inciMatchedName": "iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness (name match 93%)",
+   "inciList": "Chamber 1 - Encapsulated kojic acid miliglobules - 15%, Glycerin, Carbomer/Acrylates copolymer, Allantoin, Phenoxyethanol + Ethylhexylglycerin, Hyaluronic acid, Ceramide complex (Aqua, Polyglyceryl-3 methylglucose distearate, Isononylisononanoate, Neopentyl glycol diheptanoate, Glycerin, Butylene glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP)",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); hyaluronic acid (#6 on list, moderate evidence); ceramide eop (#13 on list, moderate evidence); ceramide np (#14 on list, moderate evidence); ceramide ap (#17 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
+   "buyerEvidence": "4.6★ from 0 ratings",
+   "concernBasis": "Irritation — ceramide eop #13 on INCI, ceramide np #14 on INCI, ceramide ap #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ysUWJw55L._AC_UL320_.jpg"
@@ -89609,6 +88218,7 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "ing:kojic-acid",
+   "ing:matrixyl",
    "claim:brightening",
    "claim:dark-spots",
    "claim:anti-aging",
@@ -89617,7 +88227,10 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "target:irritation",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": true,
@@ -89626,25 +88239,81 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "SkinInspired official website (skininspired.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://skininspired.in/products/irevive-under-eye-serum",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "iREVIVE Under Eye Serum (24ml) | For Dark Circles, Fine Lines & Puffiness",
+   "inciMatchScore": 0.93,
+   "inciText": "Chamber 1 - Encapsulated kojic acid miliglobules - 15%, Glycerin, Carbomer/Acrylates copolymer, Allantoin, Phenoxyethanol + Ethylhexylglycerin, Hyaluronic acid, Ceramide complex (Aqua, Polyglyceryl-3 methylglucose distearate, Isononylisononanoate, Neopentyl glycol diheptanoate, Glycerin, Butylene glycol, Ceramide EOP, Ceramide NP, Hydroxyacetophenone, 1, 2-Hexanediol, Ceramide AP)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "panthenol"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 17,
+     "core": true,
+     "trace": false,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "hyaluronic acid",
+    "butylene glycol",
+    "ceramide eop",
+    "ceramide np",
+    "ceramide ap"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -90411,6 +89080,7 @@ const CTPRODUCTS = [
    "ing:coffee",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -90765,16 +89435,18 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Serum · ₹7990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); niacinamide high on the INCI list (strong evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
    "No buyer ratings yet"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 8.2,
+   "skin": 9,
+   "trust": 7,
    "experience": 0
   },
   "fullSpec": {
@@ -90791,13 +89463,16 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
+   "inciMatchedName": "Revive Eye Serum : Ginseng + Retinal (name match 100%)",
+   "inciList": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
+   "evidenceActives": "glycerin (#2 on list, strong evidence); niacinamide (#7 on list, strong evidence); adenosine (#20 on list, moderate evidence); retinal (#28 on list, strong evidence); sodium hyaluronate (#31 on list, moderate evidence); tocopherol (#32 on list, moderate evidence); ceramide np (#35 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mgFgjoWZL._AC_UL320_.jpg"
@@ -90812,7 +89487,11 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "target:acne",
+   "target:dark-spots",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance"
   ],
   "filters": {
    "actives": false,
@@ -90821,25 +89500,97 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Beauty of Joseon official website (beautyofjoseon.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://beautyofjoseon.com/products/revive-eye-serum-ginseng-retinal-duo",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Revive Eye Serum : Ginseng + Retinal",
+   "inciMatchScore": 1,
+   "inciText": "Water, Glycerin, Dipropylene Glycol, Caprylic/Capric Triglyceride, 1,2-Hexanediol, Butylene Glycol Dicaprylate/Dicaprate, Niacinamide, Pentaerythrityl Tetraethylhexanoate, Cetearyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Butylene Glycol, Hydrogenated Lecithin, Panax Ginseng Root Extract, Carbomer, Glyceryl Stearate, Tromethamine, Macadamia Ternifolia Seed Oil, Ethylhexylglycerin, Adenosine, Cholesterol, Dextrin, Polyglyceryl-10 Oleate, Theobroma Cacao (Cocoa) Extract, Disodium EDTA, Brassica Campestris (Rapeseed) Sterols, Phytosteryl/Behenyl/Octyldodecyl Lauroyl Glutamate, Retinal, Silica, Aluminum/Magnesium Hydroxide Stearate, Sodium Hyaluronate, Tocopherol, Potassium Cetyl Phosphate, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, Ceramide NP, Palmitoyl Tripeptide-5",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "adenosine",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "trace": true,
+     "src": "peptides"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "retinal",
+     "grade": "A",
+     "position": 28,
+     "core": true,
+     "trace": true,
+     "src": "retinoids"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": true,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 32,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 35,
+     "core": true,
+     "trace": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "niacinamide",
+    "butylene glycol",
+    "cholesterol",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -91322,6 +90073,7 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "claim:lightweight",
    "claim:korean",
+   "claim:cooling",
    "free:alcohol",
    "aud:women",
    "size:travel",
@@ -91518,6 +90270,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:barrier",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:4.5",
    "store:amazon",
@@ -91618,6 +90371,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:barrier",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -92427,6 +91181,7 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:barrier",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:women",
    "rating:none",
    "store:amazon",
@@ -92525,6 +91280,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:cooling",
    "aud:unisex",
    "rating:4.0",
    "store:amazon",
@@ -92566,105 +91322,6 @@ const CTPRODUCTS = [
     "url": "https://www.mcaffeine.com/"
    },
    "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "bright-b0ckt7xdqz",
-  "brand": "Bright",
-  "model": "Eyes, Beautiful Skin: Dark Circles Serum and Wrinkles Removal Gel - Ultimate Skincare Duo …",
-  "price": 479,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · ₹1597/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1597/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TZN35Z19L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CKT7XDQZ",
-  "buyStore": "Amazon",
-  "title": "Bright Eyes, Beautiful Skin: Dark Circles Serum and Wrinkles Removal Gel - Ultimate Skincare Duo | Anti-Wrinkle Under Eye Bright Serum | for All Skin Types | Men & Women | 30ml",
-  "tags": [
-   "scope:face",
-   "format:gel",
-   "format:serum",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -93168,105 +91825,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "unbranded-b0fbjmjn82",
-  "brand": "Unbranded",
-  "model": "Face Oil for Glowing Skin | Helps in Dark Circles Removal | Helps Reduce Dark Spots & Pigm…",
-  "price": 1190,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹2380/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹2380/100ml",
-   "format": "Oil",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/619RtZ650-L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FBJMJN82",
-  "buyStore": "Amazon",
-  "title": "Face Oil for Glowing Skin | Helps in Dark Circles Removal | Helps Reduce Dark Spots & Pigmentation | Helps Reduce Fine Lines & Wrinkles | For Both Men & Women | 50 ml",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.9★ from 0 ratings"
-  }
- },
- {
   "id": "soulflower-b0drtgjnzb",
   "brand": "Soulflower",
   "model": "Rosehip Oil for Wrinkles, Fine Lines, Scars, Stretch Marks, Under Eyes, and Curly Hair | 1…",
@@ -93320,6 +91878,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.0",
@@ -93362,107 +91922,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0czxgx9x8",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Face Oil - Anti-Aging & Skin Brightening Ayurvedic Oil with Saffron & 26+ Super …",
-  "price": 739,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "saffron + kumkumadi",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "keyIngredients": "saffron, kumkumadi (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/617cEBZU9zL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CZXGX9X8",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Face Oil - Anti-Aging & Skin Brightening Ayurvedic Oil with Saffron & 26+ Super Herbs | Promotes Natural Glow, Fades Pigmentation & Dark Circles | 100% Natural",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "ing:saffron",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -93521,6 +91980,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "size:standard",
    "rating:none",
@@ -93919,6 +92380,7 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:acne",
    "claim:dark-circles",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -94230,6 +92692,7 @@ const CTPRODUCTS = [
    "claim:soothing",
    "claim:exfoliating",
    "claim:dark-circles",
+   "claim:stretch-marks",
    "free:non-comedogenic",
    "aud:unisex",
    "size:travel",
@@ -94527,6 +92990,8 @@ const CTPRODUCTS = [
    "ing:rosehip",
    "claim:anti-aging",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -94728,6 +93193,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -94823,6 +93290,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:oil",
+   "ing:calendula",
    "claim:anti-aging",
    "claim:hydrating",
    "claim:dark-circles",
@@ -94868,109 +93336,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0d7tjfgpq",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Face Oil Ayurvedic Blend For Vibrant & Glowing Skin | Anti-Aging, Dark Circles, …",
-  "price": 199,
-  "capacityLine": "10 ml",
-  "materialLine": "kumkumadi",
-  "featureLine": "Oil · ₹1990/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "10 ml",
-   "pricePer100": "₹1990/100ml",
-   "format": "Oil",
-   "keyIngredients": "kumkumadi (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Pz7o6LS9L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D7TJFGPQ",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Face Oil Ayurvedic Blend For Vibrant & Glowing Skin | Anti-Aging, Dark Circles, Pigmentation, Improves Skin Texture & Hydrate Skin | Kumkumadi Tailam | 10ML",
-  "tags": [
-   "scope:face",
-   "format:oil",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:dark-circles",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -95077,6 +93442,111 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nuskhe-itma44c2ded355a7",
+  "brand": "Nuskhe",
+  "model": "By Paras Ayurvedic Pigmentation Papaya Anti Blemish Cream for Visibly Reduces Pigmentation…",
+  "price": 387,
+  "capacityLine": "100 g",
+  "materialLine": "papaya",
+  "featureLine": "Cream / gel · ₹387/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6.3
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹387/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "papaya (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (8,215 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Papaya Extract, Neem oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Nature's Boon Ayurvedic Pharmacy (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "3.8★ from 8,215 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/v/x/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmahaxzxkutb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/w/n/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmahngkjyjht.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/q/g/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmagdg6yxce3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/q/e/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmahghj2k47f.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/x/p/100-ayurvedic-pigmentation-papaya-anti-blemish-cream-for-visibly-original-imahqmagpqhk5d92.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nuskhe-paras-ayurvedic-pigmentation-papaya-anti-blemish-cream-visibly-reduces-pigmentation-patchy-skin-dark-circle-treatment-unisex-100-gram/p/itma44c2ded355a7",
+  "buyStore": "Flipkart",
+  "title": "Nuskhe By Paras Ayurvedic Pigmentation Papaya Anti Blemish Cream for Visibly Reduces Pigmentation, Patchy Skin and Dark Circle Treatment - Unisex -100 Gram",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:papaya",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:dark-circles",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Papaya Extract, Neem oil",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 8,215 ratings"
+  }
+ },
+ {
   "id": "manarya-itmf9ca820b0f65f",
   "brand": "Manarya",
   "model": "Sun's Heart 3% Tranexamic Acid Under Eye Serum For Melasm …",
@@ -95179,124 +93649,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "4.7★ from 3 ratings"
-  }
- },
- {
-  "id": "manarya-itm332a59b7f1ec6",
-  "brand": "Manarya",
-  "model": "Dark Circle Remover Dark Removal Serum For Men & Women (3 …",
-  "price": 315,
-  "capacityLine": "30 ml",
-  "materialLine": "glycolic acid + hyaluronic acid + caffeine",
-  "featureLine": "Wash / cleanser · Paraben-free · ₹1050/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1050/100ml",
-   "format": "Wash / cleanser",
-   "keyIngredients": "glycolic acid, hyaluronic acid, caffeine, rice water, green tea, tea tree, aloe vera, licorice, witch hazel (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Glycolic, Glycerin, Vitamin B5, Hyaluronic, Caffeine, Witch Hazel, Licorice, Rice Water, Chamomile, Tea Tree, Green Tea, Aloe Vera, Gotu Kola",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/c/3/q/30-dark-circle-remover-dark-removal-serum-for-men-women-manarya-original-imahjgnzps6hubwb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/manarya-sun-s-heart-1-glycolic-acid-face-serum-glowing-skin-gentle-exfoliation/p/itm332a59b7f1ec6",
-  "buyStore": "Flipkart",
-  "title": "Manarya Dark Circle Remover Dark Removal Serum For Men & Women (3 …",
-  "tags": [
-   "scope:body",
-   "format:serum",
-   "format:pack",
-   "format:wash",
-   "ing:glycolic-acid",
-   "ing:hyaluronic-acid",
-   "ing:caffeine",
-   "ing:rice-water",
-   "ing:green-tea",
-   "ing:tea-tree",
-   "ing:aloe-vera",
-   "ing:licorice",
-   "ing:vitamin-b5-panthenol",
-   "ing:witch-hazel",
-   "ing:glycerin",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:dark-circles",
-   "skin:all",
-   "free:paraben",
-   "free:sulfate",
-   "free:vegan",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Glycolic, Glycerin, Vitamin B5, Hyaluronic, Caffeine, Witch Hazel, Licorice, Rice Water, Chamomile, Tea Tree, Green Tea, Aloe Vera, Gotu Kola",
-   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 0.54,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -95774,6 +94126,8 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:dark-circles",
    "claim:ayurvedic",
+   "claim:stretch-marks",
+   "claim:scars",
    "aud:unisex",
    "size:travel",
    "rating:3.5",
@@ -95816,310 +94170,6 @@ const CTPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dstr6x9c",
-  "brand": "Unbranded",
-  "model": "Skin Brightening Serum, Anti-Aging, Skin Repair, Supercharged Face Serum, Dark Circle",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61JlTz9Gt9L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSTR6X9C",
-  "buyStore": "Amazon",
-  "title": "Skin Brightening Serum, Anti-Aging, Skin Repair, Supercharged Face Serum, Dark Circle",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:barrier",
-   "claim:dark-circles",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b09fpp7bjy",
-  "brand": "Unbranded",
-  "model": "Vitamin C Serum 20% - Skin Clearing Serum Pigmentation, Fairness - Brightening, Anti-Aging…",
-  "price": 175,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹583/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹583/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/7155wAR97uL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FPP7BJY",
-  "buyStore": "Amazon",
-  "title": "Vitamin C Serum 20% - Skin Clearing Serum Pigmentation, Fairness - Brightening, Anti-Aging Skin Repair, Supercharged Face Serum, Dark Circle, Fine Line & Sun Damage Corrector 30 ML",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:barrier",
-   "claim:dark-circles",
-   "skin:mature",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b08rwp2792",
-  "brand": "Unbranded",
-  "model": "Vitamin C Serum for Face Glowing- Age Defying - Skin Whitening - Pigmentation - Radiant - …",
-  "price": 249,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹830/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹830/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71rUbMvdLkL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08RWP2792",
-  "buyStore": "Amazon",
-  "title": "Vitamin C Serum for Face Glowing- Age Defying - Skin Whitening - Pigmentation - Radiant - Anti Ageing - Dark Circle Removal - 30 ml - (Vitamin C Serum - 60ML)",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -96279,6 +94329,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:scars",
    "aud:women",
    "size:standard",
    "rating:none",
@@ -96380,6 +94431,7 @@ const CTPRODUCTS = [
    "claim:acne",
    "claim:hydrating",
    "claim:dark-circles",
+   "claim:scars",
    "aud:women",
    "size:travel",
    "rating:4.5",
@@ -96871,7 +94923,8 @@ const CTPRODUCTS = [
    "evidenceActives": "niacinamide (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); sodium hyaluronate (#11 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal — Global FMCG or beauty group",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI; Dark spots — niacinamide #2 on INCI, ascorbyl glucoside #6 on INCI; Aging — ascorbyl glucoside #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41GYfdZdqlL._AC_UL320_.jpg"
@@ -96889,6 +94942,9 @@ const CTPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -96923,6 +94979,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -96930,6 +94987,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -96937,6 +94995,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -96944,6 +95003,7 @@ const CTPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -96951,6 +95011,7 @@ const CTPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "ha"
     }
    ],
@@ -96970,108 +95031,6 @@ const CTPRODUCTS = [
     "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
    },
    "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dnf8mtq5",
-  "brand": "Unbranded",
-  "model": "2% Kojic Face Serum with Glycolic Acid for Pigmentation & Dark Spots | For Dark Circles, T…",
-  "price": 225,
-  "capacityLine": "30 ml",
-  "materialLine": "glycolic acid + kojic acid",
-  "featureLine": "Serum · ₹750/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹750/100ml",
-   "format": "Serum",
-   "keyIngredients": "glycolic acid, kojic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51XUUF0WGbL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DNF8MTQ5",
-  "buyStore": "Amazon",
-  "title": "2% Kojic Face Serum with Glycolic Acid for Pigmentation & Dark Spots | For Dark Circles, Tan Removal & Sun Damaged Skin | Skin Brightening & Glowing | 30ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:glycolic-acid",
-   "ing:kojic-acid",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:dark-circles",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

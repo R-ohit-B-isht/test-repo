@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -313,6 +313,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -1093,6 +1094,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -3788,113 +3790,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "feelhigh-itmc11cb4a084a1e",
-  "brand": "feelhigh",
-  "model": "Face & Body Charcoal Scrub & Hair spa Cream -Skin care Products",
-  "price": 185,
-  "capacityLine": "500 ml",
-  "materialLine": "Coffee + Charcoal + Papaya",
-  "featureLine": "Scrub · ₹37/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹37/100ml",
-   "format": "Scrub",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Coffee, Charcoal, Papaya (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Not stated in listing",
-   "hairType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (minoxidil, ketoconazole 2%, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: CHARCOAL SCRUB ENRICHED WITH CHARCOAL EXTRACT",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/l/a/r/face-body-charcoal-scrub-hair-spa-cream-skin-care-products-2-original-imah4v4h3b6rsg5t.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/d/a/p/500-cosmetics-charcoal-scrub-feelhigh-original-imah4kz7pgt4tyy6.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/f/p/7/face-body-aloe-vera-gel-and-hair-spa-cream-skin-care-products-2-original-imah4srm5bwehajg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/c/z/multani-mitti-powder-aloe-vera-gel-rose-water-5-brush-set-of-original-imahk4fgmeyzwugj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/s/m/r/derma-roller-0-5mm-for-hair-growth-white-silicone-scalp-massager-original-imahfurpt5fcv3gp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/feelhigh-face-body-charcoal-scrub-hair-spa-cream-skin-care-products/p/itmc11cb4a084a1e",
-  "buyStore": "Flipkart",
-  "title": "feelhigh Face & Body Charcoal Scrub & Hair spa Cream -Skin care Products",
-  "tags": [
-   "area:unstated",
-   "format:gel",
-   "format:cream",
-   "format:scrub",
-   "format:kit",
-   "format:hair-mask",
-   "ing:coffee",
-   "ing:charcoal",
-   "ing:papaya",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "CHARCOAL SCRUB ENRICHED WITH CHARCOAL EXTRACT",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "akasa-itm61f8d1c9af35d",
   "brand": "Akasa",
   "model": "ESPERO ANTI DANDRUFF HAIR SCRUB WITH CHARCOAL SCRUB BEADS 3%, JOJOBA SEED OIL 2%",
@@ -5085,6 +4980,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -5092,6 +4988,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -5109,123 +5006,6 @@ const NXPRODUCTS = [
     "url": "https://consciouschemist.com/"
    },
    "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "thriveco-b0f18g8gh5",
-  "brand": "ThriveCo",
-  "model": "AHA BHA PHA Exfoliating Scalp Scrub + Scalp Vitalizing Serum Combats Inflammation, Gives H…",
-  "price": 1079,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + AHA + PHA",
-  "featureLine": "Scalp scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scalp scrub",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), AHA, PHA, Peptides, Copper peptide (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Oily scalp / greasiness, Hair growth (claim), Damage repair, Dryness / hydration, Scalp health, Absorbs oil / between washes (seller claim — not clinical proof)",
-   "hairType": "Dry hair, Damaged hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51f1Is6DWWL._SL1001_.jpg",
-   "https://m.media-amazon.com/images/I/61bh5DU8qSL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61TlD4wdxAL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71Zc0h7lCTL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61l3xJNrL3L._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F18G8GH5",
-  "buyStore": "Amazon",
-  "title": "ThriveCo AHA BHA PHA Exfoliating Scalp Scrub + Scalp Vitalizing Serum Combats Inflammation, Gives Hydration, Prevents Hair Breakage, Makes Hair Stronger, Promotes Hair Growth |Men & Women",
-  "tags": [
-   "area:scalp",
-   "format:serum",
-   "format:oil",
-   "format:scrub",
-   "format:leave-in",
-   "format:scalp-scrub",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "ing:pha",
-   "ing:peptides",
-   "ing:copper-peptide",
-   "concern:dandruff",
-   "concern:scalp-buildup",
-   "concern:oily-scalp",
-   "concern:hair-growth",
-   "concern:damage-repair",
-   "concern:dryness",
-   "concern:scalp-health",
-   "concern:oil-absorbing",
-   "hair:dry",
-   "hair:damaged",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -6542,6 +6322,217 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "kama-ayurveda-b0fmffxb9c",
+  "brand": "Kama Ayurveda",
+  "model": "BRINGARAS PURIFYING SCALP SCRUB 200 ML | Eliminates Buildup | For Scalp & Mind Refreshment",
+  "price": 3195,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scalp scrub · ₹1598/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹1598/100ml",
+   "format": "Scalp scrub",
+   "appliesTo": "Scalp (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Scalp build-up / clarifying (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Puig (majority owner) — Global FMCG or beauty group",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51P9lX3NOLL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61yUvnPIsOL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61jptkrZqxL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71OArcoGM1L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61MyBFB6e6L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMFFXB9C",
+  "buyStore": "Amazon",
+  "title": "BRINGARAS PURIFYING SCALP SCRUB 200 ML | Eliminates Buildup | For Scalp & Mind Refreshment",
+  "tags": [
+   "area:scalp",
+   "format:scrub",
+   "format:scalp-scrub",
+   "concern:scalp-buildup",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Puig (majority owner)",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.puig.com/en/brands/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "elvaay-b0dhqdv854",
+  "brand": "Elvaay",
+  "model": "Organic Wild Turmeric Powder, Scalp Scrub Massage, Hair Mask for Frizzy Hair, Dandruff Tre…",
+  "price": 219,
+  "capacityLine": "100 g",
+  "materialLine": "Turmeric",
+  "featureLine": "Scalp scrub · ₹219/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹219/100g",
+   "format": "Scalp scrub",
+   "appliesTo": "Scalp + lengths (per listing)",
+   "keyIngredients": "Turmeric (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Frizz control, Odour / fragrance / freshness (seller claim — not clinical proof)",
+   "hairType": "Not stated in listing",
+   "regulated": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61xYedfzLlL._SL1201_.jpg",
+   "https://m.media-amazon.com/images/I/619rT9tKoJL._SL1201_.jpg",
+   "https://m.media-amazon.com/images/I/61AptO+AQTL._SL1201_.jpg",
+   "https://m.media-amazon.com/images/I/61SoJXcPwjL._SL1201_.jpg",
+   "https://m.media-amazon.com/images/I/61+0MioDAUL._SL1201_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DHQDV854",
+  "buyStore": "Amazon",
+  "title": "Organic Wild Turmeric Powder, Scalp Scrub Massage, Hair Mask for Frizzy Hair, Dandruff Treatment, 100g",
+  "tags": [
+   "area:both",
+   "format:essence",
+   "format:scrub",
+   "format:powder",
+   "format:wash",
+   "format:hair-mask",
+   "format:scalp-scrub",
+   "ing:turmeric",
+   "concern:dandruff",
+   "concern:scalp-buildup",
+   "concern:frizz",
+   "concern:odour",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "moxie-beauty-b0ftsyk917",
   "brand": "MOXIE BEAUTY",
   "model": "Dandruff Detox Pre-Wash | AHA-BHA Scalp Exfoliator & Anti Dandruff Scalp Exfoliating Treat…",
@@ -6764,6 +6755,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -6771,6 +6763,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "hairCosmetics"
     },
     {
@@ -6778,6 +6771,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -6785,6 +6779,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     },
     {
@@ -6792,6 +6787,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 39,
      "core": true,
+     "trace": true,
      "src": "hairCleansing"
     },
     {
@@ -6799,6 +6795,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 42,
      "core": true,
+     "trace": true,
      "src": "hairCleansing"
     },
     {
@@ -6806,6 +6803,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 44,
      "core": true,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -6813,6 +6811,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 46,
      "core": false,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -9354,6 +9353,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -9361,6 +9361,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -10476,124 +10477,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "bald-is-bold-b0dsg9phyf",
-  "brand": "BALD IS BOLD",
-  "model": "Daily Exfoliating Cleanser & Scrub For Bald & Bold Heads | Shaved Head & Bald Head Care | …",
-  "price": 599,
-  "capacityLine": "100 ml",
-  "materialLine": "Niacinamide + Salicylic acid (BHA) + Hyaluronic acid",
-  "featureLine": "Scrub · ₹599/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹599/100ml",
-   "format": "Scrub",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Hyaluronic acid, Honey, Jojoba, Avocado, Apricot, Rosemary (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Oily scalp / greasiness, Thinning / density, Dryness / hydration, Smoothing / straightening (seller claim — not clinical proof)",
-   "hairType": "Fine / thin hair",
-   "regulated": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61K+yoQWT8L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71+r5bruu1L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71zk6YIWo+L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/610P41FaOnL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/718ZLz3rSfL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSG9PHYF",
-  "buyStore": "Amazon",
-  "title": "BALD IS BOLD Daily Exfoliating Cleanser & Scrub For Bald & Bold Heads | Shaved Head & Bald Head Care | Anti-Acne, Anti-Aging, Hydrating Formula | Deep Cleansing for Scalp, Face & Neck | Removes Oil, Dirt & Dead Skin | Preps for Smooth Shave | Infused with Salicylic Acid, Niacinamide, Hyaluronic Acid, Apricot Seed, Honey, Jojoba, Rosemary, & Avocado. 100ml",
-  "tags": [
-   "area:scalp",
-   "format:oil",
-   "format:scrub",
-   "format:wash",
-   "format:scalp-scrub",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:hyaluronic-acid",
-   "ing:honey",
-   "ing:jojoba",
-   "ing:avocado",
-   "ing:apricot",
-   "ing:rosemary",
-   "concern:dandruff",
-   "concern:scalp-buildup",
-   "concern:oily-scalp",
-   "concern:thinning",
-   "concern:dryness",
-   "concern:smoothing",
-   "hair:fine",
-   "free:ph-balanced",
-   "aud:men",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
   "id": "conscious-chemist-b0hb4zm7g7",
   "brand": "Conscious Chemist",
   "model": "Anti-Dandruff Scalp Exfoliator 50ml | Pre-Wash Scalp Treatment for Flakes & Itchy Scalp | …",
@@ -10700,6 +10583,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "dandruff"
     },
     {
@@ -10707,6 +10591,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "hairCosmetics"
     }
    ],
@@ -11033,206 +10918,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "bringaras-b0fmffxb9c",
-  "brand": "BRINGARAS",
-  "model": "PURIFYING SCALP SCRUB 200 ML | Eliminates Buildup | For Scalp & Mind Refreshment",
-  "price": 2875,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scalp scrub · ₹1438/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹1438/100ml",
-   "format": "Scalp scrub",
-   "appliesTo": "Scalp (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Scalp build-up / clarifying (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51P9lX3NOLL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FMFFXB9C",
-  "buyStore": "Amazon",
-  "title": "BRINGARAS PURIFYING SCALP SCRUB 200 ML | Eliminates Buildup | For Scalp & Mind Refreshment",
-  "tags": [
-   "area:scalp",
-   "format:scrub",
-   "format:scalp-scrub",
-   "concern:scalp-buildup",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dhqdv854",
-  "brand": "Unbranded",
-  "model": "Organic Wild Turmeric Powder, Scalp Scrub Massage, Hair Mask for Frizzy Hair, Dandruff Tre…",
-  "price": 219,
-  "capacityLine": "100 g",
-  "materialLine": "Turmeric",
-  "featureLine": "Scalp scrub · ₹219/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹219/100g",
-   "format": "Scalp scrub",
-   "appliesTo": "Scalp + lengths (per listing)",
-   "keyIngredients": "Turmeric (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "hairConcern": "Dandruff / flakes, Scalp build-up / clarifying, Frizz control (seller claim — not clinical proof)",
-   "hairType": "Not stated in listing",
-   "regulated": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61xYedfzLlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DHQDV854",
-  "buyStore": "Amazon",
-  "title": "Organic Wild Turmeric Powder, Scalp Scrub Massage, Hair Mask for Frizzy Hair, Dandruff Treatment, 100g",
-  "tags": [
-   "area:both",
-   "format:scrub",
-   "format:powder",
-   "format:hair-mask",
-   "format:scalp-scrub",
-   "ing:turmeric",
-   "concern:dandruff",
-   "concern:scalp-buildup",
-   "concern:frizz",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];

@@ -1,9 +1,9 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
   "id": "nivea-itm1594c8796d620",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Body Milk + Shea Butter ) Deep Moisture Serum",
   "price": 189,
   "capacityLine": "150 ml",
@@ -230,6 +230,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -237,6 +238,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -244,6 +246,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -251,6 +254,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -388,6 +392,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -451,7 +456,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopherol (#16 on list, moderate evidence); simmondsia chinensis seed oil (#17 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 8 ratings"
+   "buyerEvidence": "4.4★ from 8 ratings",
+   "concernBasis": "Acne — niacinamide #8 on INCI; Dark spots — niacinamide #8 on INCI, sodium ascorbyl phosphate #20 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/t/s/m/100-anti-aging-face-cleanser-papaya-jojoba-oil-for-youthful-original-imahcwfukmvgrxvz.jpeg?q=90",
@@ -482,6 +488,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -513,6 +522,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -520,6 +530,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -527,6 +538,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -534,6 +546,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "caffeine"
     },
     {
@@ -541,6 +554,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -548,6 +562,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -555,6 +570,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -562,6 +578,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -569,6 +586,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -1376,6 +1394,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1383,6 +1402,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1390,6 +1410,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1397,6 +1418,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1404,6 +1426,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -1606,7 +1629,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "L'Oréal Dermatological Beauty — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — panthenol #5 on INCI, madecassoside #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/s/r/40-cicaplast-baume-b5-face-body-balm-nourishing-moisturizing-original-imahp2yhrh2pspvh.jpeg?q=90",
@@ -1640,6 +1664,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance",
    "inci:pharma-maker"
@@ -1673,6 +1698,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1680,6 +1706,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1687,6 +1714,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -1694,6 +1722,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1701,6 +1730,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -1708,6 +1738,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -1833,6 +1864,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -1840,6 +1872,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -1847,6 +1880,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -1854,6 +1888,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -4546,6 +4581,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -4553,6 +4589,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -4560,6 +4597,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "aadScrub"
     },
     {
@@ -4567,6 +4605,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -7189,6 +7228,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -7196,6 +7236,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -7203,6 +7244,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -7541,6 +7583,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -7548,6 +7591,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -7555,6 +7599,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -7562,6 +7607,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -7569,6 +7615,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -17031,6 +17078,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -17038,6 +17086,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -17045,6 +17094,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -17052,6 +17102,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -17511,6 +17562,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -17518,6 +17570,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -17525,6 +17578,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -17532,6 +17586,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -19270,7 +19325,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#4 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/g/j/550-kronoklay-body-butter-550ml-deep-moisturizing-nourishing-for-original-imahmanhfjfdzbun.jpeg?q=90",
@@ -19303,6 +19359,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -19334,6 +19391,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -19341,6 +19399,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -19348,6 +19407,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -19841,6 +19901,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -19848,6 +19909,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -19855,6 +19917,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -19862,6 +19925,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -19869,6 +19933,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -19876,6 +19941,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -20589,6 +20655,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -20596,6 +20663,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -20603,6 +20671,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -20610,6 +20679,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -20617,6 +20687,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -20856,6 +20927,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -21415,6 +21487,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -21422,6 +21495,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -21429,6 +21503,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -21436,6 +21511,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -21443,6 +21519,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -22380,6 +22457,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -27236,7 +27314,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#3 on list, moderate evidence); cocoa butter (#4 on list, limited evidence); prunus amygdalus dulcis oil (#6 on list, moderate evidence); cocos nucifera oil (#7 on list, limited evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 133 ratings"
+   "buyerEvidence": "4.5★ from 133 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/9/100-coffee-body-butter-with-vitamin-e-oil-for-intense-original-imahmazs4gfzmnwe.jpeg?q=90",
@@ -27271,6 +27350,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -27303,6 +27383,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -27310,6 +27391,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -27317,6 +27399,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -27324,6 +27407,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -27331,6 +27415,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -30164,6 +30249,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -30300,6 +30386,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -33884,6 +33971,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -41816,6 +41904,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -41823,6 +41912,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -41830,6 +41920,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -47367,7 +47458,8 @@ const NXPRODUCTS = [
    "evidenceActives": "rosa canina fruit oil (#17 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 29 ratings"
+   "buyerEvidence": "4.2★ from 29 ratings",
+   "concernBasis": "Acne — salicylic acid #6 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/o/e/e/300-exfoliating-shower-oil-with-salicylic-lactic-acid-for-body-original-imahm4cgfyharahd.jpeg?q=90",
@@ -47399,6 +47491,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "filters": {
@@ -47430,6 +47523,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -47437,6 +47531,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -47444,6 +47539,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -47451,6 +47547,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -49177,6 +49274,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -49184,6 +49282,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -49191,6 +49290,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -52577,6 +52677,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -57406,6 +57507,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -57413,6 +57515,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -57420,6 +57523,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -57427,6 +57531,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -57434,6 +57539,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -57567,6 +57673,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -58153,6 +58260,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -58160,6 +58268,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -58398,6 +58507,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -58405,6 +58515,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -58412,6 +58523,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -58419,6 +58531,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -58550,6 +58663,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -58557,6 +58671,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -58564,6 +58679,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -58571,6 +58687,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -59633,6 +59750,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -60486,7 +60604,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Naturis Cosmetics Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "5★ from 4 ratings"
+   "buyerEvidence": "5★ from 4 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #12 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/w/n/100-shea-butter-almond-oil-with-aloe-vera-deep-moisturizing-body-original-imahmtzhhkembphm.jpeg?q=90",
@@ -60511,6 +60630,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -60542,6 +60662,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -60549,6 +60670,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -60556,6 +60678,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -60563,6 +60686,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -60570,6 +60694,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -60577,6 +60702,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -60584,6 +60710,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -60591,6 +60718,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -60968,6 +61096,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -61637,6 +61766,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -61644,6 +61774,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -61651,6 +61782,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -61658,6 +61790,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -61892,6 +62025,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -61899,6 +62033,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -61906,6 +62041,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -61913,6 +62049,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -62267,6 +62404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -62274,6 +62412,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -62281,6 +62420,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -62288,6 +62428,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -62426,6 +62567,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -62433,6 +62575,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -63262,7 +63405,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#4 on list, moderate evidence); tocopheryl acetate (#20 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−2); Formaldehyde-releasing preservative: dmdm hydantoin (−1.5)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.3★ from 669 ratings"
+   "buyerEvidence": "4.3★ from 669 ratings",
+   "concernBasis": "Irritation — ceramide eos #23 on INCI, ceramide ns #24 on INCI, ceramide np #25 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/s/30-hand-cream-floral-garden-with-ceramides-shea-butter-vitamin-e-original-imahhkyfpuf7gvpe.jpeg?q=90",
@@ -63290,6 +63434,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -63322,6 +63467,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -63329,6 +63475,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -63336,6 +63483,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -63343,6 +63491,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -63350,6 +63499,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -63357,6 +63507,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     },
     {
@@ -63364,6 +63515,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "ceramide"
     }
    ],
@@ -65936,6 +66088,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -68536,6 +68689,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -72855,6 +73009,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -72862,6 +73017,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -72869,6 +73025,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -73412,6 +73569,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -73419,6 +73577,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -73426,6 +73585,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -77643,121 +77803,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "kaiasha-itmbb689965d3f2e",
-  "brand": "KAIASHA",
-  "model": "This natural body moisturizer honey and almond MASSAGE oil",
-  "price": 78,
-  "capacityLine": "200 g",
-  "materialLine": "Vitamin C + Rose + Honey",
-  "featureLine": "Oil · Paraben-free · ₹39/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹39/100g",
-   "format": "Oil",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C, Rose, Honey, Almond (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Honey & Almonds Body Oil",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/0/n/z/200-this-natural-body-moisturizer-honey-and-almond-massage-oil-original-imah4gzucdgtewsy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/t/w/n/200-nourishing-body-oil-with-vitamin-e-honey-almonds-multi-original-imah4gzdrfxfrfzf.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/q/u/c/200-honey-almonds-body-oil-skin-for-dry-to-very-dry-skin-kaiasha-original-imah4gzgqyypahv5.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/m/i/n/200-honey-almond-body-oil-for-naturally-healthy-glowing-skin-original-imah4c9yfhgbzhme.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/m/c/e/200-body-oil-with-vitamin-e-honey-and-almond-oil-sunscreen-original-imah4ccjgshxye6a.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/kaiasha-natural-body-moisturizer-honey-almond-massage-oil/p/itmbb689965d3f2e",
-  "buyStore": "Flipkart",
-  "title": "KAIASHA This natural body moisturizer honey and almond MASSAGE oil",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "ing:vitamin-c",
-   "ing:rose",
-   "ing:honey",
-   "ing:almond",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:cooling",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "free:paraben",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Honey & Almonds Body Oil",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "kaiasha-itma2fe1870e1eba",
   "brand": "KAIASHA",
   "model": "Honey & Almond Face & Body Oil Moisturizer",
@@ -81494,6 +81539,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -83159,6 +83205,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -83615,6 +83662,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -83970,6 +84018,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -83977,6 +84026,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -83984,6 +84034,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -83991,6 +84042,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -86824,7 +86876,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, moderate evidence); shea butter (#2 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/y/u/100-vanilla-whip-nourishing-body-butter-lotion-enn-cream-original-imagwm6jf6uvy5uf.jpeg?q=90",
@@ -86868,6 +86921,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -86900,6 +86954,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -86907,6 +86962,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -86914,6 +86970,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -87161,6 +87218,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -87168,6 +87226,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -87175,6 +87234,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -87182,6 +87242,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -99281,6 +99342,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -99518,6 +99580,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -100426,6 +100489,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -100433,6 +100497,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -100440,6 +100505,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100447,6 +100513,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -100454,6 +100521,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -100461,6 +100529,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -100468,6 +100537,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -100475,6 +100545,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 39,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -100482,6 +100553,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 47,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -100489,6 +100561,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 49,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -100496,6 +100569,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 50,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -100503,6 +100577,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 52,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -100510,6 +100585,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 53,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -100517,6 +100593,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 56,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -108445,6 +108522,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -108452,6 +108530,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -108459,6 +108538,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -108466,6 +108546,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -117841,7 +117922,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.8★ from 10 ratings"
+   "buyerEvidence": "4.8★ from 10 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/a/v/30-daily-moment-vegan-hand-cream-midnight-street-the-face-shop-original-imagsuuapgec2szp.jpeg?q=90",
@@ -117866,6 +117948,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -117898,6 +117981,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -117905,6 +117989,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -117912,6 +117997,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -117919,6 +118005,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -117926,6 +118013,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -118174,6 +118262,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -118181,6 +118270,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -118188,6 +118278,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -118195,6 +118286,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -118202,6 +118294,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     }
    ],
@@ -118993,6 +119086,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -119000,6 +119094,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -119007,6 +119102,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -119014,6 +119110,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -119021,6 +119118,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -119028,6 +119126,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -119221,7 +119320,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#12 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/u/550-midnight-berries-hand-lotion-550ml-aloe-shea-butter-deep-original-imahm9krcbfmbusw.jpeg?q=90",
@@ -119253,6 +119353,7 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -119284,6 +119385,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -119291,6 +119393,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -119298,6 +119401,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -120218,6 +120322,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -120225,6 +120330,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -120232,6 +120338,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -120239,6 +120346,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -120246,6 +120354,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -120253,6 +120362,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -121411,6 +121521,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -121418,6 +121529,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -121425,6 +121537,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -121432,6 +121545,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121439,6 +121553,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -121446,6 +121561,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -121453,6 +121569,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -121629,13 +121746,14 @@ const NXPRODUCTS = [
    "madeIn": "Not stated in listing",
    "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
    "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
-   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-01-sunrise-bedroom",
-   "inciMatchedName": "Daily Moment Vegan Hand Cream - 01 Sunrise Bedroom 30ml (name match 100%)",
+   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-03-noon-park",
+   "inciMatchedName": "Daily Moment Vegan Hand Cream - 03 Noon Park 30ml (name match 100%)",
    "inciList": "Purified Water, Shea Butter, Propanediol, Glycerin, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate Se, Glyceryl Stearate, Caprylic/Capric Triglyceride, Denatured Alcohol, Beta-Glucan, Hydrol Rised Hyaluronic Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexyl Glycerin, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Methyl Glucose Sesquistearate, Ammonium Acryloyldimethyltaurate/Vpicopolymer, Sorbitan Isostearate, Trisodium Edit, Silica, Fragrance, Linalool, Coumarin",
    "evidenceActives": "shea butter (#2 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/z/x/30-daily-moment-vegan-hand-cream-noon-park-the-face-shop-cream-original-imagsutme7uabhvz.jpeg?q=90",
@@ -121666,6 +121784,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -121683,9 +121802,9 @@ const NXPRODUCTS = [
    "inci": "full",
    "inciSource": "The Face Shop official website (thefaceshop.in) — product page › Ingredients",
    "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-01-sunrise-bedroom",
+   "inciSourceUrl": "https://thefaceshop.in/products/daily-moment-vegan-hand-cream-03-noon-park",
    "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Daily Moment Vegan Hand Cream - 01 Sunrise Bedroom 30ml",
+   "inciMatchedTitle": "Daily Moment Vegan Hand Cream - 03 Noon Park 30ml",
    "inciMatchScore": 1,
    "inciText": "Purified Water, Shea Butter, Propanediol, Glycerin, Dimethicone, Cetearyl Alcohol, Glyceryl Stearate Se, Glyceryl Stearate, Caprylic/Capric Triglyceride, Denatured Alcohol, Beta-Glucan, Hydrol Rised Hyaluronic Acid, Tocopherol, 1,2-Hexanediol, Caprylyl Glycol, Ethylhexyl Glycerin, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Methyl Glucose Sesquistearate, Ammonium Acryloyldimethyltaurate/Vpicopolymer, Sorbitan Isostearate, Trisodium Edit, Silica, Fragrance, Linalool, Coumarin",
    "inciUnverified": null,
@@ -121698,6 +121817,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -121705,6 +121825,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121712,6 +121833,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -121719,6 +121841,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -121726,6 +121849,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -123498,6 +123622,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -123505,6 +123630,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -123512,6 +123638,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -123519,6 +123646,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -124073,6 +124201,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -124080,6 +124209,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -124087,6 +124217,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -124094,6 +124225,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -124101,6 +124233,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -124108,6 +124241,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -124479,6 +124613,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -124486,6 +124621,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -124493,6 +124629,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -124500,6 +124637,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -126016,7 +126154,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, moderate evidence); simmondsia chinensis seed oil (#4 on list, moderate evidence); argania spinosa kernel oil (#7 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 17 ratings"
+   "buyerEvidence": "4.1★ from 17 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/l/1/x/100-anti-stretch-marks-remover-removal-cream-bio-oil-after-original-imahf7d4hdppfpjn.jpeg?q=90",
@@ -126056,6 +126195,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -126088,6 +126228,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126095,6 +126236,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126102,6 +126244,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126109,6 +126252,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -126728,7 +126872,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, moderate evidence); cocos nucifera oil (#2 on list, limited evidence); simmondsia chinensis seed oil (#4 on list, moderate evidence); tocopherol (#5 on list, moderate evidence); rosa canina fruit oil (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 5 ratings"
+   "buyerEvidence": "5★ from 5 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/w/2/150-0-pregnancy-stretch-mark-oil-skin-elasticity-moisturizing-original-imahzgsqmef2ztcd.jpeg?q=90",
@@ -126764,6 +126909,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -126796,6 +126942,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126803,6 +126950,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126810,6 +126958,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126817,6 +126966,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -126824,6 +126974,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126831,6 +126982,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -128703,6 +128855,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -128710,6 +128863,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -128717,6 +128871,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -128724,6 +128879,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -129311,6 +129467,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -129318,6 +129475,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -129553,6 +129711,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -129560,6 +129719,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -129567,6 +129727,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -129574,6 +129735,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -129581,6 +129743,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -136140,7 +136303,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, moderate evidence); cocos nucifera oil (#2 on list, limited evidence); simmondsia chinensis seed oil (#4 on list, moderate evidence); tocopherol (#5 on list, moderate evidence); rosa canina fruit oil (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/e/7/o/150-0-stretch-mark-oil-for-women-natural-skin-nourishing-body-original-imahzky9rsk8ggkj.jpeg?q=90",
@@ -136175,6 +136339,7 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -136207,6 +136372,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -136214,6 +136380,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -136221,6 +136388,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -136228,6 +136396,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -136235,6 +136404,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -136242,6 +136412,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -137847,7 +138018,8 @@ const NXPRODUCTS = [
    "evidenceActives": "prunus amygdalus dulcis oil (#1 on list, moderate evidence); cocos nucifera oil (#2 on list, limited evidence); simmondsia chinensis seed oil (#4 on list, moderate evidence); tocopherol (#5 on list, moderate evidence); rosa canina fruit oil (#6 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/x/p/r/50-stretch-mark-oil-l-for-women-moms-nourishes-skin-helps-original-imahzhrqugjhgzyh.jpeg?q=90",
@@ -137881,6 +138053,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -137913,6 +138086,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137920,6 +138094,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137927,6 +138102,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137934,6 +138110,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -137941,6 +138118,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -137948,6 +138126,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -138523,6 +138702,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -138530,6 +138710,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -138537,6 +138718,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -138544,6 +138726,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -139002,6 +139185,366 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.3★ from 21 ratings"
+  }
+ },
+ {
+  "id": "soul-stories-itm7c922d28cd8ea",
+  "brand": "Soul Stories",
+  "model": "Calendula Blossom Luxury Bath Oil – Skin Soothing & Deep Hydration Blend",
+  "price": 1293,
+  "capacityLine": "150 ml",
+  "materialLine": "Rose + Lemon + Calendula",
+  "featureLine": "Oil · ₹862/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹862/100ml",
+   "format": "Oil",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Rose, Lemon, Calendula (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/d/q/f/150-calendula-blossom-luxury-bath-oil-skin-soothing-deep-original-imahhdkufegqngmc.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/j/x/i/150-calendula-blossom-luxury-bath-oil-skin-soothing-deep-original-imahhdkueqh3zxeg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/1/e/6/150-calendula-blossom-luxury-bath-oil-skin-soothing-deep-original-imahhdku62jbtykf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/a/r/3/150-calendula-blossom-luxury-bath-oil-skin-soothing-deep-original-imahhdkuumtye6ny.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/bath-essential-oil/q/l/s/150-calendula-blossom-luxury-bath-oil-skin-soothing-deep-original-imahhdkudzku8msy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/soul-stories-calendula-blossom-luxury-bath-oil-skin-soothing-deep-hydration-blend/p/itm7c922d28cd8ea",
+  "buyStore": "Flipkart",
+  "title": "Soul Stories Calendula Blossom Luxury Bath Oil – Skin Soothing & Deep Hydration Blend",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:rose",
+   "ing:lemon",
+   "ing:calendula",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "prowl-itm323192a25fd17",
+  "brand": "PROWL",
+  "model": "By Tiger Shroff 10% Niacinamide + 2% Zinc PCA Serum for Men | Reduce Dark Spot & Oil Contr…",
+  "price": 183,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Niacinamide + Zinc",
+  "featureLine": "Serum",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Specifications › Composition): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.5★ from 202 ratings"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 3.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 6.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Niacinamide, Zinc (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Oil control / matte / non-greasy (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (202 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Aqua (Water), Niacinamide (Vit. B3), Propanediol, Glycerin, Zinc PCA, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Disodium EDTA, Xanthan Gum, Parfum",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): parfum (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "Chian Bio Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.5★ from 202 ratings",
+   "concernBasis": "Acne — niacinamide #2 on INCI, zinc pca #5 on INCI; Dark spots — niacinamide #2 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/r/10-by-tiger-shroff-10-niacinamide-2-zinc-pca-serum-for-men-original-imahmndcsw8zqzhm.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/y/8/f/10-by-tiger-shroff-10-niacinamide-2-zinc-pca-serum-for-men-original-imahmndckgp6zgek.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/w/o/10-by-tiger-shroff-10-niacinamide-2-zinc-pca-serum-for-men-original-imahmndc2fkggjgv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/icons/original-KMTHKMZJAHC3Z9UG_1.jpg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/q/y/10-by-tiger-shroff-2-salicylic-acid-serum-for-men-reduce-acne-original-imahhpqxvd36vajj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/prowl-tiger-shroff-10-niacinamide-2-zinc-pca-serum-men-reduce-dark-spot-oil-control-face-serums-all-dry-oily-skin/p/itm323192a25fd17",
+  "buyStore": "Flipkart",
+  "title": "PROWL By Tiger Shroff 10% Niacinamide + 2% Zinc PCA Serum for Men | Reduce Dark Spot & Oil Control | Face Serums for All Dry Oily Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:zinc",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "skin:oily",
+   "aud:men",
+   "rating:4.5",
+   "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua (Water), Niacinamide (Vit. B3), Propanediol, Glycerin, Zinc PCA, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Disodium EDTA, Xanthan Gum, Parfum",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "zinc pca",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "niacinamide",
+    "propanediol",
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 202 ratings"
+  }
+ },
+ {
+  "id": "modicare-itmbe8b45b2a13df",
+  "brand": "Modicare",
+  "model": "Puff%Schloka Body Butter (Shea Butter & Aimond Oil(100ml)",
+  "price": 242,
+  "capacityLine": "100 ml",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹242/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.5★ from 40 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.8
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹242/100ml",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.5/5 (40 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 40 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/g/100-puff-schloka-body-butter-shea-butter-aimond-oil-100ml-original-imah66w7vjbfzrcj.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/o/f/100-body-butter-with-shea-butter-almond-oil-schloka-cream-original-imagvpa357qccksh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/i/e/50-schloka-day-cream-almond-lavender-50ml-modicare-cream-original-imah5xvdydyhj6g2.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/kalecnk0/moisturizer-cream/p/9/r/100-body-butter-with-shea-butter-almond-oil-pack-of-1-schloka-original-imafs4khjyywaqnz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/dish-cleaning-gel/c/u/9/modicare-modicare-schloka-fairness-cream-50g-can-1-silver-dip-original-imah2qrygzcyyfst.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/modicare-puff-schloka-body-butter-shea-aimond-oil-100ml/p/itmbe8b45b2a13df",
+  "buyStore": "Flipkart",
+  "title": "Modicare Puff%Schloka Body Butter (Shea Butter & Aimond Oil(100ml)",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 40 ratings"
   }
  },
  {
@@ -140939,7 +141482,8 @@ const NXPRODUCTS = [
    "evidenceActives": "butyrospermum parkii butter (#8 on list, moderate evidence); prunus amygdalus dulcis oil (#10 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: hexyl cinnamal, limonene, linalool, benzyl benzoate (−2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #15 on INCI; Aging — ascorbic acid #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/510siTQivNL._SL1000_.jpg",
@@ -140964,6 +141508,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -140996,6 +141542,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -141003,6 +141550,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -141010,6 +141558,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -141017,6 +141566,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -141024,6 +141574,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -141031,6 +141582,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -141038,6 +141590,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -141183,6 +141736,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -141190,6 +141744,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -141197,6 +141752,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -141204,6 +141760,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -141211,6 +141768,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -141218,6 +141776,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -141225,6 +141784,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -142135,6 +142695,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -142142,6 +142703,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -142149,6 +142711,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -142156,6 +142719,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -142163,6 +142727,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -144509,6 +145074,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -144516,6 +145082,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -144523,6 +145090,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -144530,6 +145098,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -144537,6 +145106,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -156008,7 +156578,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41s5xMHR1QL._SL1080_.jpg",
@@ -156033,6 +156604,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -156065,6 +156637,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -156072,6 +156645,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -156079,6 +156653,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -156086,6 +156661,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -156093,6 +156669,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -159598,7 +160175,8 @@ const NXPRODUCTS = [
    "evidenceActives": "paraffinum liquidum (#1 on list, moderate evidence); butyrospermum parkii butter (#10 on list, moderate evidence); helianthus annuus seed oil (#24 on list, moderate evidence); tocopheryl acetate (#28 on list, moderate evidence); tocopherol (#32 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: farnesol, limonene, linalool (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, lavandula angustifolia oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #29 on INCI; Dark spots — niacinamide #29 on INCI; Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fd2HKuyLL._SL1500_.jpg",
@@ -159636,6 +160214,9 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -159668,6 +160249,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159675,6 +160257,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -159682,6 +160265,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159689,6 +160273,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -159696,6 +160281,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -159703,6 +160289,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -159710,6 +160297,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -159717,6 +160305,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -159724,6 +160313,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -159731,6 +160321,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -159738,6 +160329,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -159745,6 +160337,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -159752,6 +160345,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -159759,6 +160353,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -160543,6 +161138,2835 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "saka-organics-b0drsnhcfn",
+  "brand": "Saka Organics",
+  "model": "Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells …",
+  "price": 344,
+  "capacityLine": "100 g",
+  "materialLine": "Coffee + Turmeric + Neem",
+  "featureLine": "Scrub · ₹344/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹344/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Turmeric, Neem, Coconut, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Coffee Grounds (25.0%), Coconut Oil (25.0%), Cocoa Butter (25.0%), Brown Sugar (25.0%)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61q548pJpNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61449iCpP0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61L2VfvX7uL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81NbaaaZS3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71mXNDMTuQL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DRSNHCFN",
+  "buyStore": "Amazon",
+  "title": "Saka Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells For Smoother, Softer, And Refreshed Skin | Body Scrub For Woman | Body Scrub For Men",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:scrub",
+   "ing:coffee",
+   "ing:turmeric",
+   "ing:neem",
+   "ing:coconut",
+   "ing:sugar",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:men",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Coffee Grounds (25.0%), Coconut Oil (25.0%), Cocoa Butter (25.0%), Brown Sugar (25.0%)",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nabhi-b0h87q63v7",
+  "brand": "Nabhi",
+  "model": "Oil Ayurvedic Herbal Navel Care | Daily Wellness Body Oil | Lightweight Fast Absorbing For…",
+  "price": 239,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: ayurvedic nabhi oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61mVylntpML._SL1148_.jpg",
+   "https://m.media-amazon.com/images/I/614rKuNmKvL._SL1028_.jpg",
+   "https://m.media-amazon.com/images/I/61p1aKRKfnL._SL1022_.jpg",
+   "https://m.media-amazon.com/images/I/71+C8N4g6PL._SL1076_.jpg",
+   "https://m.media-amazon.com/images/I/61mii8RgajL._SL1032_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H87Q63V7",
+  "buyStore": "Amazon",
+  "title": "Nabhi Oil Ayurvedic Herbal Navel Care | Daily Wellness Body Oil | Lightweight Fast Absorbing Formula for Hydration Relaxation & Self Care for Men & Women",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "ayurvedic nabhi oil",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ubji-b0h65sgvrk",
+  "brand": "UBJI",
+  "model": "Massage Oil, Relaxing Body Oil for Soothing Massage, Liquid Form C 73",
+  "price": 149,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614HP69L4YL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/616OuAV7LKL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61N9jnAQL3L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61G-bF4g1LL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/51qB5QFc9KL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H65SGVRK",
+  "buyStore": "Amazon",
+  "title": "Massage Oil, Relaxing Body Oil for Soothing Massage, Liquid Form C 73",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "meetiply-b0hbbk78cd",
+  "brand": "MEETIPLY",
+  "model": "Weight Management Nabhi Oil for Men & Women 30ml | Herbal Belly Button Oil | Ayurvedic Bot…",
+  "price": 399,
+  "capacityLine": "30 ml",
+  "materialLine": "Turmeric + Lemon",
+  "featureLine": "Oil · ₹1330/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1330/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Turmeric, Lemon (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71cz15eAeUL._SL1190_.jpg",
+   "https://m.media-amazon.com/images/I/71LI7XxNJOL._SL1376_.jpg",
+   "https://m.media-amazon.com/images/I/71sVbWnkI1L._SL1376_.jpg",
+   "https://m.media-amazon.com/images/I/61AICxBV9zL._SL1376_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBBK78CD",
+  "buyStore": "Amazon",
+  "title": "Weight Management Nabhi Oil for Men & Women 30ml | Herbal Belly Button Oil | Ayurvedic Botanical Formula with Ginger, Turmeric & Lemon Oils | Nourishing Nabhi Massage Oil for Daily Self-Care & Wellness Routine",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:turmeric",
+   "ing:lemon",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "skin:oily",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-body-shop-b000hghhd0",
+  "brand": "The Body Shop",
+  "model": "Strawberry Softening Body Butter, 200ml",
+  "price": 598,
+  "capacityLine": "200 ml",
+  "materialLine": "Strawberry",
+  "featureLine": "Body butter · ₹299/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "tocopherol high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: alpha-isomethyl ionone"
+  ],
+  "scores": {
+   "ingredients": 4.4,
+   "skin": 6.3,
+   "trust": 7,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹299/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Normal skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Glycerin, Cetearyl, Alcohol, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Polyglyceryl-3 Distearate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Triethyl Citrate, Glyceryl Stearate, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Dimethicone, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil, Sodium Stearoyl Glutamate, Fragaria Ananassa Seed Oil/Fragaria Ananassa (Strawberry) Seed Oil, Glyceryl Stearate Citrate, Xanthan Gum, Tocopherol, Citric Acid, Alpha-Isomethyl Ionone, CI 14700/Red 4.",
+   "evidenceActives": "tocopherol (#21 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: alpha-isomethyl ionone (−0.5); Drying alcohol high in the list: alcohol (−1)",
+   "maker": "The Body Shop International — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81p-IgeAjDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81pnJrA3nfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-YB6-wKlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81FEvrZIKlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IufAekKOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B000HGHHD0",
+  "buyStore": "Amazon",
+  "title": "The Body Shop Strawberry Softening Body Butter, 200ml",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:strawberry",
+   "claim:hydrating",
+   "claim:odour",
+   "skin:normal",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua/Water/Eau, Butyrospermum Parkii Butter/Butyrospermum Parkii (Shea) Butter, Glycerin, Cetearyl, Alcohol, Theobroma Cacao Seed Butter/Theobroma Cacao (Cocoa) Seed Butter, Polyglyceryl-3 Distearate, Helianthus Annuus Seed Oil/Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Triethyl Citrate, Glyceryl Stearate, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Dimethicone, Sesamum Indicum Seed Oil/Sesamum Indicum (Sesame) Seed Oil, Sodium Stearoyl Glutamate, Fragaria Ananassa Seed Oil/Fragaria Ananassa (Strawberry) Seed Oil, Glyceryl Stearate Citrate, Xanthan Gum, Tocopherol, Citric Acid, Alpha-Isomethyl Ionone, CI 14700/Red 4.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "triethyl citrate",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "deodorants"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 21,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "alpha-isomethyl ionone"
+     ],
+     "penalty": 0.5,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol"
+     ],
+     "penalty": 1,
+     "src": "alcohol"
+    }
+   ],
+   "maker": {
+    "parent": "The Body Shop International",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.thebodyshop.com/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nuerma-science-b0br1qhtd1",
+  "brand": "Nuerma Science",
+  "model": "Ayurvedic Kumkumadi (Kesar) Body Butter For Intense Moisturization and Radiant Skin Glow e…",
+  "price": 199,
+  "capacityLine": "200 g",
+  "materialLine": "Vitamin C + Aloe vera + Turmeric",
+  "featureLine": "Body butter · ₹100/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence); cocoa butter high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹100/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Aloe vera, Turmeric, Saffron, Sandalwood, Kumkumadi, Almond, Shea butter, Cocoa butter, Licorice, Vitamin E, Coconut, Calendula (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Broad spectrum UVA/UVB, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Mulethi Extract, Turmeric Extract, Saffron Extract, Lotus Extract, Sandalwood, Shea Butter, Cocoa Butter, Vitamin E Oil, Almond Oil, Coconut Oil, Aloe Vera and Calendula Oil",
+   "evidenceActives": "shea butter (#6 on list, moderate evidence); cocoa butter (#7 on list, limited evidence); prunus amygdalus dulcis oil (#9 on list, moderate evidence); cocos nucifera oil (#10 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf juice #11 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616ME9HkNmL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71q3X8t8N1L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61lFTSbUOXL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/613Q0JQFoxL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71q2wkbkQNL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BR1QHTD1",
+  "buyStore": "Amazon",
+  "title": "Nuerma Science Ayurvedic Kumkumadi (Kesar) Body Butter For Intense Moisturization and Radiant Skin Glow enriched with Vitamin E Oil, Shea Cocoa Butter, Mulethi Extract & Aloe Vera- 200 GM",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:vitamin-c",
+   "ing:aloe-vera",
+   "ing:turmeric",
+   "ing:saffron",
+   "ing:sandalwood",
+   "ing:kumkumadi",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:licorice",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:calendula",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Mulethi Extract, Turmeric Extract, Saffron Extract, Lotus Extract, Sandalwood, Shea Butter, Cocoa Butter, Vitamin E Oil, Almond Oil, Coconut Oil, Aloe Vera and Calendula Oil",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "aloe barbadensis leaf juice",
+     "grade": "B",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nivea-b01gq1ew3c",
+  "brand": "NIVEA",
+  "model": "Cocoa Nourish 200ml Body Lotion with Deep Moisture Serum| 48 H Moisturization | With Cocoa…",
+  "price": 201,
+  "capacityLine": "200 ml",
+  "materialLine": "Cocoa butter + Coconut",
+  "featureLine": "Body butter · ₹101/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹101/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Beiersdorf — Global FMCG or beauty group",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51iIjod36PL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61SCKxEKZVL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51UcUNEAw+L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61pRYh2DM7L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61kPNdowsaL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01GQ1EW3C",
+  "buyStore": "Amazon",
+  "title": "NIVEA Cocoa Nourish 200ml Body Lotion with Deep Moisture Serum| 48 H Moisturization | With Cocoa Butter & Coconut Oil | Non Greasy & Healthy Looking Skin |For Very Dry Skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "free:derm",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Beiersdorf",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.beiersdorf.com/brands/nivea"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "embryolisse-b08q6glmpt",
+  "brand": "Embryolisse",
+  "model": "Lait Crème Sensitive Moisturizer. Hypoallergenic Face & Body Cream for All Skin Types With…",
+  "price": 2515,
+  "capacityLine": "100 ml",
+  "materialLine": "Aloe vera + Shea butter",
+  "featureLine": "Body butter · Fragrance-free · ₹2515/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2515/100ml",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Aloe vera, Shea butter (named on listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: INGREDIENTS: AQUA (WATER). CAPRYLIC/CAPRIC TRIGLYCERIDE. GLYCERIN. OCTYLDODECANOL. POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE. BUTYROSPERMUM PARKII (SHEA) BUTTER. CERA ALBA (BEESWAX). JOJOBA ESTERS. HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX. GLYCERYL STEARATE. XANTHAN GUM. 1,2-HEXANEDIOL. CAPRYLYL GLYCOL. SODIUM HYDROXIDE. ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER. POLYGLYCERIN-3. ACACIA DECURRENS FL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+Mgary5OL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81P0zn8gz+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81r-+VjeiNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WWP40r5HL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81EhjlRiQlL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08Q6GLMPT",
+  "buyStore": "Amazon",
+  "title": "Embryolisse Lait Crème Sensitive Moisturizer. Hypoallergenic Face & Body Cream for All Skin Types With Aloe Vera & Shea Butter. Fragrance-Free & Suitable for Sensitive Skin, 100 ml",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:balm",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:sensitive",
+   "skin:all",
+   "free:fragrance",
+   "free:hypoallergenic",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "INGREDIENTS: AQUA (WATER). CAPRYLIC/CAPRIC TRIGLYCERIDE. GLYCERIN. OCTYLDODECANOL. POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE. BUTYROSPERMUM PARKII (SHEA) BUTTER. CERA ALBA (BEESWAX). JOJOBA ESTERS. HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX. GLYCERYL STEARATE. XANTHAN GUM. 1,2-HEXANEDIOL. CAPRYLYL GLYCOL. SODIUM HYDROXIDE. ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER. POLYGLYCERIN-3. ACACIA DECURRENS FL",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fraileno-b0gn8fxhbc",
+  "brand": "FRAILENO",
+  "model": "Luxury Body Massage Oil for Date Night Spa Mood, Vitamin C Glow & Non Greasy Softness 200m…",
+  "price": 179,
+  "capacityLine": "200 ml",
+  "materialLine": "Vitamin C",
+  "featureLine": "Oil · ₹90/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹90/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "2.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71mzVNjbRVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Fw3gdwFeL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71Buk+7-6iL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GN8FXHBC",
+  "buyStore": "Amazon",
+  "title": "Luxury Body Massage Oil for Date Night Spa Mood, Vitamin C Glow & Non Greasy Softness 200ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "smyan-b08pc3gl94",
+  "brand": "Smyan",
+  "model": "Body Massage Oil (Rose, 50 ml (Pack of 1))",
+  "price": 415,
+  "capacityLine": "50 ml",
+  "materialLine": "Rose",
+  "featureLine": "Oil · ₹830/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹830/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61xpeTWFSQL.jpg",
+   "https://m.media-amazon.com/images/I/41RPpUdngKL.jpg",
+   "https://m.media-amazon.com/images/I/51y4VsAKpyL.jpg",
+   "https://m.media-amazon.com/images/I/511sZdnf2pL.jpg",
+   "https://m.media-amazon.com/images/I/51w7K92jN9L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08PC3GL94",
+  "buyStore": "Amazon",
+  "title": "Body Massage Oil (Rose, 50 ml (Pack of 1))",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "ing:rose",
+   "claim:hydrating",
+   "claim:soothing",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "meetiply-b0h2q6mf9r",
+  "brand": "MEETIPLY",
+  "model": "Smoke Pain Relief & Massage Oil – Fast Soothing Herbal Body Oil for Muscle & Joint Comfort…",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Soothing / calming, Exfoliating, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31+m+yRyZsL.jpg",
+   "https://m.media-amazon.com/images/I/51YIx-BOxpL.jpg",
+   "https://m.media-amazon.com/images/I/51ndE0dj+FL.jpg",
+   "https://m.media-amazon.com/images/I/51783w4pP5L.jpg",
+   "https://m.media-amazon.com/images/I/51p+vf3ru8L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2Q6MF9R",
+  "buyStore": "Amazon",
+  "title": "Smoke Pain Relief & Massage Oil – Fast Soothing Herbal Body Oil for Muscle & Joint Comfort – Deep Penetrating Non-Greasy Massage Oil for Back, Neck, Knee & Shoulder Relaxation (Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ubji-b0h45zb8jj",
+  "brand": "UBJI",
+  "model": "Massage Oil, Relaxing Body Oil for Soothing Skin Care 32 A 30ml",
+  "price": 377,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹1257/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1257/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BTAM5xYBL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61QJr-n9fdL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/51hIZE4gYlL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61zh9JfIeGL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61S2PEjcBpL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H45ZB8JJ",
+  "buyStore": "Amazon",
+  "title": "Massage Oil, Relaxing Body Oil for Soothing Skin Care 32 A 30ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "teja-organics-b0djy6wrg6",
+  "brand": "TEJA ORGANICS",
+  "model": "Abhyangana Oil by Teja Organics I 200ml I Bath Oil",
+  "price": 265,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹133/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹133/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614CdA8MpyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vqdj-D5hL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81WBS2e5g+L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DJY6WRG6",
+  "buyStore": "Amazon",
+  "title": "Abhyangana Oil by Teja Organics I 200ml I Bath Oil",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "spa-ceylon-b0czx93grt",
+  "brand": "SPA CEYLON",
+  "model": "Aloe Vera and Pandanus Massage and Bath Oil | Natural Therapy Blend | Soothing Body Ritual…",
+  "price": 1319,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Aloe vera + Sandalwood + Coconut",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Sandalwood, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61CAkNmOyZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61RWbqUGJtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71D3O+JyRlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/715I9wDkfGL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81bu3WQpldL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CZX93GRT",
+  "buyStore": "Amazon",
+  "title": "Spa Ceylon Aloe Vera and Pandanus Massage and Bath Oil | Natural Therapy Blend | Soothing Body Ritual | Ayurveda",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:oil",
+   "ing:aloe-vera",
+   "ing:sandalwood",
+   "ing:coconut",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "r-o-c-k-s-i-d-e-b0dsp552b1",
+  "brand": "R O C K S I D E",
+  "model": "ROCKSIDE Herbal Patchouli Bath Oil for Natural Skin, Moisturizing & Nourishing Shower Oil …",
+  "price": 550,
+  "capacityLine": "210 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹262/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "210 ml",
+   "pricePer100": "₹262/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/717gjFPUdJL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DSP552B1",
+  "buyStore": "Amazon",
+  "title": "ROCKSIDE Herbal Patchouli Bath Oil for Natural Skin, Moisturizing & Nourishing Shower Oil for Body (Pack Of 1, 210ML)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "top-quality-store-b0cgln2dkm",
+  "brand": "Top Quality Store",
+  "model": "Kumkumadi Oil For Skin Lightening & Glowing Skin (30ml)",
+  "price": 170,
+  "capacityLine": "30 ml",
+  "materialLine": "Kumkumadi",
+  "featureLine": "Oil · ₹567/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹567/100ml",
+   "format": "Oil",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Kumkumadi (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Whitening / fairness (claim) (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61QZjchS-xL._SL1192_.jpg",
+   "https://m.media-amazon.com/images/I/619+vlshirL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/618i1-ZKHFL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61O3ZS9051L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61deSO7iPmL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CGLN2DKM",
+  "buyStore": "Amazon",
+  "title": "Kumkumadi Oil For Skin Lightening & Glowing Skin (30ml)",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:kumkumadi",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "free:vegan",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "petal-fresh-b07cffw5tm",
+  "brand": "PETAL FRESH",
+  "model": "Pure Firming Pomegranate & Grapefruit Body Butter - 237 ml | Organic Coconut Oil, Argan Oi…",
+  "price": 835,
+  "capacityLine": "237 ml",
+  "materialLine": "Collagen + Shea butter + Argan oil",
+  "featureLine": "Body butter · ₹352/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "237 ml",
+   "pricePer100": "₹352/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Shea butter, Argan oil, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hshLmOgUL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71jlahkhx+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71NPH5sH6EL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/917qaqEvSIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71I-xLqk+uL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07CFFW5TM",
+  "buyStore": "Amazon",
+  "title": "Petal Fresh Pure Firming Pomegranate & Grapefruit Body Butter - 237 ml | Organic Coconut Oil, Argan Oil, Shea Butter | Promotes Collagen | Natural Ingredients, Vegan and Cruelty Free",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:collagen",
+   "ing:shea-butter",
+   "ing:argan-oil",
+   "ing:coconut",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "free:vegan",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "prominent-b0fj1h1qmh",
+  "brand": "Prominent",
+  "model": "Body Lotion Shea Butter 50 ml | Deep Moisturizing Formula | Nourishing Shea Butter Enriche…",
+  "price": 145,
+  "capacityLine": "50 ml",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹290/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹290/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51bj3SYXUEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51gUqBANF4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/510BroP2j5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lbFXlFm1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61I8-n9-YxL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJ1H1QMH",
+  "buyStore": "Amazon",
+  "title": "Prominent Body Lotion Shea Butter 50 ml | Deep Moisturizing Formula | Nourishing Shea Butter Enriched | Non Greasy Lightweight Texture | Suitable For All Skin Types",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:shea-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bioever-b0f8vk3j3l",
+  "brand": "Bioever",
+  "model": "Body lotion - 270ML (Pack Of 2) | Nourishing | Hydrating & Soft Supple | Healthy Skin with…",
+  "price": 399,
+  "capacityLine": "540 ml (pack of 2)",
+  "materialLine": "Niacinamide + Centella / cica + Shea butter",
+  "featureLine": "Body butter · ₹74/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "270 ml × 2 pack",
+   "pricePer100": "₹74/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Centella / cica, Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Niacinamide. Shea butter. Cica",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512syWmh2GL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71lV2O+-dlL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61dFDc6TH6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61QuW0JI2sL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61-sDHx4BnL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F8VK3J3L",
+  "buyStore": "Amazon",
+  "title": "Body lotion - 270ML (Pack Of 2) | Nourishing | Hydrating & Soft Supple | Healthy Skin with Niacinamide |Cica And Shea Butter | Hydrating, Moisturising",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:centella-cica",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Niacinamide. Shea butter. Cica",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mamaearth-b0dqjqrwpj",
+  "brand": "Mamaearth",
+  "model": "Cocoa Rich Moisturizing Cream with Cocoa Butter & Vit E for Deep Nourishment 50g | For Fac…",
+  "price": 119,
+  "capacityLine": "50 g",
+  "materialLine": "Cocoa butter + Vitamin E + Mineral oil",
+  "featureLine": "Body butter · ₹238/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); theobroma cacao seed butter high on the INCI list (limited evidence)"
+  ],
+  "cons": [
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 8.5,
+   "trust": 8,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹238/100g",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Cocoa butter, Vitamin E, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, 24h / 48h / 72h (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Glycerin, Capric/Caprylic Triglycerides, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol, Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate (Vitamin E), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris Sterols, Sodium Hydroxide & Sodium Gluconate.",
+   "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence); theobroma cacao seed butter (#15 on list, limited evidence); tocopheryl acetate (#18 on list, moderate evidence)",
+   "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41Vhx40I4TL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/514CpxalKfL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61h3+a0a0hL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61j7Rlci-9L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/612EOLox3lL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQJQRWPJ",
+  "buyStore": "Amazon",
+  "title": "Mamaearth Cocoa Rich Moisturizing Cream with Cocoa Butter & Vit E for Deep Nourishment 50g | For Face, Hand & Body | 24H Long-lasting Moisturization | Non-Greasy & Quick Absorbing | All Skin Types",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "ing:mineral-oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Glycerin, Capric/Caprylic Triglycerides, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol, Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate (Vitamin E), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris Sterols, Sodium Hydroxide & Sodium Gluconate.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.98,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 15,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 18,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 23,
+     "core": false,
+     "trace": true,
+     "src": "urea"
+    },
+    {
+     "name": "citric acid",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "trace": true,
+     "src": "aha"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 27,
+     "core": false,
+     "trace": true,
+     "src": "aadScrub"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 30,
+     "core": false,
+     "trace": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 31,
+     "core": false,
+     "trace": true,
+     "src": "ha"
+    },
+    {
+     "name": "bisabolol",
+     "grade": "B",
+     "position": 37,
+     "core": false,
+     "trace": true,
+     "src": "centella"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "propanediol",
+    "urea",
+    "sodium pca",
+    "sodium hyaluronate"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0bsxkqqpc",
+  "brand": "Unbranded",
+  "model": "Natural Raw Cocoa Butter (250grm)",
+  "price": 345,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Cocoa butter",
+  "featureLine": "Body butter",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocoa butter high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 2.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Face (per listing)",
+   "keyIngredients": "Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "cocoa butter",
+   "evidenceActives": "cocoa butter (#1 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51f-C11t-aL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BSXKQQPC",
+  "buyStore": "Amazon",
+  "title": "Natural Raw Cocoa Butter (250grm)",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "ing:cocoa-butter",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "cocoa butter",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "cocoa butter",
+     "grade": "C",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bee-one-b0hbc92thr",
+  "brand": "BEE ONE",
+  "model": "Cocoa Butter Cream 900ml | Deep Moisturizing Body Cream | Nourishes Dry Skin | Improves Sk…",
+  "price": 299,
+  "capacityLine": "900 ml",
+  "materialLine": "Cocoa butter",
+  "featureLine": "Body butter · ₹33/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "900 ml",
+   "pricePer100": "₹33/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71PbNT+7+nL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71S1OJCVZIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714FfeJn3KL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ZYDgl5vLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71cnsvH2tHL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBC92THR",
+  "buyStore": "Amazon",
+  "title": "Bee One Cocoa Butter Cream 900ml | Deep Moisturizing Body Cream | Nourishes Dry Skin | Improves Skin Softness & Elasticity | Suitable for Daily Use",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "ing:cocoa-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:cooling",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "buttermax-b0g6l2ldn6",
+  "brand": "Buttermax",
+  "model": "Body Butter Cream 200 gm : Pack of 2",
+  "price": 1350,
+  "capacityLine": "400 g (pack of 2)",
+  "materialLine": "Collagen + Aloe vera + Shea butter",
+  "featureLine": "Body butter · ₹338/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 g × 2 pack",
+   "pricePer100": "₹338/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Aloe vera, Shea butter, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Combination skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea butter, Kokum butter, Cocoa butter, Aloe vera extract, Tocopheryl acetate, Squalene, essential oils",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DGygspy9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61F5KSRwpjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71JQDUgJDVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Y6n-c0FRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TWkMpD2nL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6L2LDN6",
+  "buyStore": "Amazon",
+  "title": "Body Butter Cream 200 gm : Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "format:kit",
+   "ing:collagen",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "skin:combination",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea butter, Kokum butter, Cocoa butter, Aloe vera extract, Tocopheryl acetate, Squalene, essential oils",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "enn-b094f9h1sy",
+  "brand": "ENN",
+  "model": "Beauty Vanilla Whip Nourishing Body Butter,48 Hrs Moisturization & Restore Skin Barrier Wi…",
+  "price": 379,
+  "capacityLine": "100 g",
+  "materialLine": "Niacinamide + Almond",
+  "featureLine": "Body butter · ₹379/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "prunus amygdalus dulcis oil high on the INCI list (moderate evidence); shea butter high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): perfume",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹379/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Almond (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Dimethicone, Beeswax, Aqua, Stearic Acid, Cetearyl Alcohol, Ceteareth-20, Glyceryl Sterate, Cetostearyl Alcohol, Paraffinum, Liquidum, Glycerin, DMDM, Olive Oil, Almond Oil, Aloe Vera Extract, Shea Butter, Disodium EDTA, Borex, Tween 80, Perfume, Phenoxyethanol, Hydroethyl Urea",
+   "evidenceActives": "prunus amygdalus dulcis oil (#14 on list, moderate evidence); shea butter (#16 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #15 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61dwjD5Nf1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61hLL4cAv-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SOa8iGXPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61pTu+PR+yL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81L40DGAD4L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B094F9H1SY",
+  "buyStore": "Amazon",
+  "title": "ENN Beauty Vanilla Whip Nourishing Body Butter,48 Hrs Moisturization & Restore Skin Barrier With Vanilla Extract,5% Niacinamide & Almond Oil For Soft & Supple Skin,Reduce Fine Lines & Wrinkles-100Gm",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:almond",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Dimethicone, Beeswax, Aqua, Stearic Acid, Cetearyl Alcohol, Ceteareth-20, Glyceryl Sterate, Cetostearyl Alcohol, Paraffinum, Liquidum, Glycerin, DMDM, Olive Oil, Almond Oil, Aloe Vera Extract, Shea Butter, Disodium EDTA, Borex, Tween 80, Perfume, Phenoxyethanol, Hydroethyl Urea",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.82,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 1,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 15,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 16,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -164672,7 +168096,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b01h6oypu8",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Cocoa Butter Body Cream with Deep Nourishing Serum,439.4 g (Pack of 1)",
   "price": 1541,
   "capacityLine": "Quantity not stated",
@@ -165042,7 +168466,8 @@ const NXPRODUCTS = [
    "evidenceActives": "argania spinosa kernel oil (#11 on list, moderate evidence); butyrospermum parkii butter (#13 on list, moderate evidence); theobroma cacao seed butter (#15 on list, limited evidence); squalane (#18 on list, moderate evidence); tocopheryl acetate (#28 on list, moderate evidence); tocopherol (#31 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: alpha-isomethyl ionone, linalool (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Irritation — panthenol #30 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/515iISTvjxL._SL1500_.jpg",
@@ -165067,6 +168492,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -165099,6 +168525,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -165106,6 +168533,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -165113,6 +168541,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -165120,6 +168549,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -165127,6 +168557,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -165134,6 +168565,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -165141,6 +168573,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -165148,6 +168581,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -165155,6 +168589,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -165162,6 +168597,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -165169,6 +168605,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -179477,6 +182914,2876 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "suparna-trikha-b0ggcjbc9s",
+  "brand": "Suparna Trikha",
+  "model": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, S…",
+  "price": 652,
+  "capacityLine": "300 g",
+  "materialLine": "Rice water + Sandalwood + Coconut",
+  "featureLine": "Scrub · ₹217/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹217/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rice water, Sandalwood, Coconut, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Hydrating / moisturizing, Rough / bumpy skin (KP), Ingrown hair / razor bumps (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Yhnws6UKL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61bIKtpIXqL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61M4Mo7imGL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/615ffQ8nssL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/615UWYqx9vL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGCJBC9S",
+  "buyStore": "Amazon",
+  "title": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, Sesame & Coconut Oils | Detoxifies, Smooths & Hydrates Skin - 300g",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:scrub",
+   "ing:rice-water",
+   "ing:sandalwood",
+   "ing:coconut",
+   "ing:sea-salt",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:kp",
+   "claim:ingrown",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nains-herbals-b0bry2lmrg",
+  "brand": "NAINS HERBALS",
+  "model": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | De…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "Sandalwood + Rose + Walnut",
+  "featureLine": "Scrub · ₹299/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Sandalwood, Rose, Walnut, Almond, Shea butter, Vitamin E, Glycerin, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Ayurvedic / herbal, Scars / marks, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71pkoIwnIdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61xCc3sJNHL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61HjCA9ePdL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61nlkYUgmpL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61eXtZsczTL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BRY2LMRG",
+  "buyStore": "Amazon",
+  "title": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | Dead Skin Tan Removal, Brightening, Dry Dull Skin | Men & Women | 100g",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "format:powder",
+   "format:patch",
+   "ing:sandalwood",
+   "ing:rose",
+   "ing:walnut",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "ing:olive",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:scars",
+   "claim:cooling",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "keya-seth-aromatherapy-device-of-drop-b0821h1929",
+  "brand": "KEYA SETH AROMATHERAPY, DEVICE OF DROP",
+  "model": "Keya Seth Aromatherapy Skin Defence Orange Body Oil Skin Lightening, Rejuvenating Non-Stic…",
+  "price": 399,
+  "capacityLine": "400 ml",
+  "materialLine": "Vitamin C + Collagen + Sandalwood",
+  "featureLine": "Oil · ₹100/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Collagen, Sandalwood (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Whitening / fairness (claim), Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Mature skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: OA potent blend of Orange & Sandalwood essential oils, Carrot Seed oil, Wheatgerm oil & Sunflower oil.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51gltZT+i8L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61f1tKvAbkL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61w9fwKOdoL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71GxCGJjHHL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71Le9Eq+NnL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0821H1929",
+  "buyStore": "Amazon",
+  "title": "Keya Seth Aromatherapy Skin Defence Orange Body Oil Skin Lightening, Rejuvenating Non-Sticky for Daily Use After Bath, Massage Oil Enriched with Orange & Vitamin C (400 ml (Pack of 1))",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:collagen",
+   "ing:sandalwood",
+   "claim:whitening-claim",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "skin:mature",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "OA potent blend of Orange & Sandalwood essential oils, Carrot Seed oil, Wheatgerm oil & Sunflower oil.",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kerala-ayurveda-b07r3tv8m3",
+  "brand": "KERALA ayurveda",
+  "model": "Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint …",
+  "price": 220,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹110/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹110/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: \"Tila Taila Sesamum indicum Ol. Ol. 100.00 ml Godugdha Milk Lq. 600.00 ml Balaa Sida cordifolia Rt. Dct. 174.00 g Yava Hordeum vulgare Sd. Dct. 7.68 g Kola Zizyphus mauritiana Fr. Dct. 7.68 g Kulattha Vigna unquiculata Sd. Dct. 7.68 g Bilva Aegle marmelos Rt./St. Bk. Dct. 7.68 g Syonaka Oroxylum indicum Rt./St. Bk. Dct. 7.68 g Gambhari Gmelina arbora Rt./St. Bk. Dct. 7.68 g Patala Stereospermum su",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ui+ZQLDTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61Pl7REbWCL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71UUX1DcR8L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61oJK8UW7pL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71QTMfqbDyL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07R3TV8M3",
+  "buyStore": "Amazon",
+  "title": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint aches & stiffness for mobility. Moisturizes skin & reduces stretch mark appearance",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "claim:stretch-marks",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "\"Tila Taila Sesamum indicum Ol. Ol. 100.00 ml Godugdha Milk Lq. 600.00 ml Balaa Sida cordifolia Rt. Dct. 174.00 g Yava Hordeum vulgare Sd. Dct. 7.68 g Kola Zizyphus mauritiana Fr. Dct. 7.68 g Kulattha Vigna unquiculata Sd. Dct. 7.68 g Bilva Aegle marmelos Rt./St. Bk. Dct. 7.68 g Syonaka Oroxylum indicum Rt./St. Bk. Dct. 7.68 g Gambhari Gmelina arbora Rt./St. Bk. Dct. 7.68 g Patala Stereospermum su",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ubji-b0h3l3jpxg",
+  "brand": "UBJI",
+  "model": "Massage Oil, Relaxing Body Oil for Soothing Skin Care A 30ml",
+  "price": 177,
+  "capacityLine": "30 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹590/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹590/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/415-qwUTHDL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61QJr-n9fdL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/51hIZE4gYlL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61zh9JfIeGL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61S2PEjcBpL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3L3JPXG",
+  "buyStore": "Amazon",
+  "title": "Massage Oil, Relaxing Body Oil for Soothing Skin Care A 30ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "himalaya-b00nokrpd8",
+  "brand": "Himalaya",
+  "model": "Baby Massage Oil 500ml | All-round growth | Strong Bones & Muscles | Ashwagandha, Country …",
+  "price": 363,
+  "capacityLine": "1000 ml (pack of 2)",
+  "materialLine": "Aloe vera + Vitamin E + Mineral oil",
+  "featureLine": "Oil · ₹36/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.3,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "500 ml × 2 pack",
+   "pricePer100": "₹36/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Aloe vera, Vitamin E, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Olive Oil, Winter Cherry",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61tVKJowJaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71m0st9RuxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71oZF6RIKYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71J6aIm-lcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81VBtG2CzSL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00NOKRPD8",
+  "buyStore": "Amazon",
+  "title": "Himalaya Baby Massage Oil 500ml | All-round growth | Strong Bones & Muscles | Ashwagandha, Country Mallow & Aloe Vera | No.1 Dr. Recommended Brand| Vitamin E | 99% NOI | Mineral oil free",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "ing:mineral-oil",
+   "claim:pores",
+   "free:mineral-oil",
+   "free:oil-free",
+   "free:derm",
+   "free:hypoallergenic",
+   "aud:kids",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Olive Oil, Winter Cherry",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Himalaya Wellness",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://himalayawellness.in/pages/about-us"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-body-shop-b0g591p99b",
+  "brand": "The Body Shop",
+  "model": "Dewberry Body Butter 200ml Intensive Moisturiser for Dry Skin, Fruity and Floral Scent wit…",
+  "price": 1356,
+  "capacityLine": "200 ml",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹678/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹678/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Shea Butter",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "The Body Shop International — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81BPs7FoqVL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81UvHbADOeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71o52wv14sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81AbdOYFy1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wPUdAB3aL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G591P99B",
+  "buyStore": "Amazon",
+  "title": "The Body Shop Dewberry Body Butter 200ml Intensive Moisturiser for Dry Skin, Fruity and Floral Scent with Community Fair Trade Shea Butter, 96-Hour Deep Hydration",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Shea Butter",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "The Body Shop International",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.thebodyshop.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "b-bath-b0g47wyw1w",
+  "brand": "B.Bath",
+  "model": "Golden Hour Whipped Body Butter 100g | Radiant Hydration with Shea Butter & 6 Botanical Oi…",
+  "price": 749,
+  "capacityLine": "100 g",
+  "materialLine": "Shea butter + Vitamin E + Argan oil",
+  "featureLine": "Body butter · ₹749/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹749/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Vitamin E, Argan oil, Jojoba, Coconut, Avocado, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter, Jojoba Oil, Argan Oil, Avocado Oil, Grape Seed Oil, Fractionated Coconut Oil, Vitamin E, IFRA-Compliant Fragrance, Geogard® ECT*, Natural Golden Mica",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rVKsnJheL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61-BgsdJUAL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617qKj3Y4FL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/613UWUMALwL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61q079E3xSL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G47WYW1W",
+  "buyStore": "Amazon",
+  "title": "Golden Hour Whipped Body Butter 100g | Radiant Hydration with Shea Butter & 6 Botanical Oils | Natural Glow | Non-Greasy | Dermatologist Tested | Dry to Very Dry Skin",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:argan-oil",
+   "ing:jojoba",
+   "ing:coconut",
+   "ing:avocado",
+   "ing:mineral-oil",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:sensitive",
+   "free:derm",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter, Jojoba Oil, Argan Oil, Avocado Oil, Grape Seed Oil, Fractionated Coconut Oil, Vitamin E, IFRA-Compliant Fragrance, Geogard® ECT*, Natural Golden Mica",
+   "inciNote": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.9,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "veli-luxury-b0h7wyqpjz",
+  "brand": "VELI LUXURY",
+  "model": "Body Lotion for Women & Men 200ml (1 PCS) Hydrating Moisturizing Body Lotion with Vitamin …",
+  "price": 323,
+  "capacityLine": "200 ml",
+  "materialLine": "Niacinamide + Honey + Shea butter",
+  "featureLine": "Body butter · ₹162/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹162/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Honey, Shea butter, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Lightweight / fast-absorbing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71nn26HZtSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/816sg7dY1JL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81aDYKzQSML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81gnkXh-bTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81oFN-TIZxL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H7WYQPJZ",
+  "buyStore": "Amazon",
+  "title": "Body Lotion for Women & Men 200ml (1 PCS) Hydrating Moisturizing Body Lotion with Vitamin E, Olive Oil, Shea Butter & Honey | Non-Greasy Long Lasting Perfume Body Moisturizer For Dry Skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:honey",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "judex-b0gtv7xs9t",
+  "brand": "JUDEX",
+  "model": "Blue Breeze Aromatherapy Bath Oil 50 ml | Water Soluble Bathing Oil with Refreshing Aqua F…",
+  "price": 282,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Rose",
+  "featureLine": "Oil · Alcohol-free · ₹282/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹282/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rose (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Soothing / calming, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: rose",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41590cTJDZL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/81sXHpC2c-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ols6BnRHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71XIRn+qMsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81CrW13R7qL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTV7XS9T",
+  "buyStore": "Amazon",
+  "title": "Judex Blue Breeze Aromatherapy Bath Oil 50 ml | Water Soluble Bathing Oil with Refreshing Aqua Fragrance | Spa & Self-Care Experience for Men & Women",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "ing:rose",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:cooling",
+   "skin:all",
+   "free:alcohol",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "rose",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "oldgoa-b0bpbw5vlm",
+  "brand": "OLDGOA",
+  "model": "After Bath Body Oil For Women | Daily Use, Massage & Glowing Skin | For All Skin Types | F…",
+  "price": 200,
+  "capacityLine": "50 ml",
+  "materialLine": "Lavender",
+  "featureLine": "Oil · ₹400/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹400/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Acne / pimples, Hydrating / moisturizing, Soothing / calming, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: French Lavender & Coconut",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Eetzr3+wL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lfsbXc+kL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71K+K+IPQsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/711htUsia6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719FoVcqmqL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BPBW5VLM",
+  "buyStore": "Amazon",
+  "title": "After Bath Body Oil For Women | Daily Use, Massage & Glowing Skin | For All Skin Types | For Men & Women | French Lavender | 50 ML",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "ing:lavender",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:stretch-marks",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "French Lavender & Coconut",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "jovees-b0056lbfs4",
+  "brand": "Jovees",
+  "model": "Herbal Shea Butter Moisturiser | With Shea Butter & Fruit Extracts | Reduces Skin Inflamma…",
+  "price": 252,
+  "capacityLine": "100 g",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · Paraben-free · ₹252/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "shea butter high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 4.1,
+   "skin": 9,
+   "trust": 7,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹252/100g",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Shea butter",
+   "evidenceActives": "shea butter (#1 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51REX95qpQL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Pp4uWRC+L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/614is6q3z7L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61m2sEa0tLL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51aaLAf7AVL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0056LBFS4",
+  "buyStore": "Amazon",
+  "title": "Jovees Herbal Shea Butter Moisturiser | With Shea Butter & Fruit Extracts | Reduces Skin Inflammation & Restores Hydration | For Normal & Dry Skin 100g",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:shea-butter",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "skin:dry",
+   "free:paraben",
+   "free:alcohol",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Shea butter",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "shea butter",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "shea butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Jovees Herbal Care India",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.jovees.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-herbal-blend-b0d2lgkrmv",
+  "brand": "The Herbal Blend",
+  "model": "Body Butter for Women Dry Skin Enriched with Sandalwood Oil Almond Oil Shea Butter Spanish…",
+  "price": 2500,
+  "capacityLine": "50 g",
+  "materialLine": "Saffron + Sandalwood + Almond",
+  "featureLine": "Body butter · ₹5000/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹5000/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Saffron, Sandalwood, Almond, Shea butter, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71bH2J3ZyeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aH9C9OtiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71c5E0ZCl0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wuDpLHNUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71LWescCqcL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D2LGKRMV",
+  "buyStore": "Amazon",
+  "title": "Body Butter for Women Dry Skin Enriched with Sandalwood Oil Almond Oil Shea Butter Spanish Saffron and Mango Body Butter for Smooth and Shinny Skin(Pack5)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:saffron",
+   "ing:sandalwood",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "timb-b0h452yjmg",
+  "brand": "Timb.",
+  "model": "Timb Avocado & Saffron Body Butter | Shea Butter with Vit E | Deep Moisturizer for Dry Ski…",
+  "price": 479,
+  "capacityLine": "50 g",
+  "materialLine": "Saffron + Shea butter + Vitamin E",
+  "featureLine": "Body butter · ₹958/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹958/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Saffron, Shea butter, Vitamin E, Avocado (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ve3HQNC1L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ZjPBXJJsL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617d0esCuvL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61nPPOu93PL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61yM-jRTh4L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H452YJMG",
+  "buyStore": "Amazon",
+  "title": "Timb Avocado & Saffron Body Butter | Shea Butter with Vit E | Deep Moisturizer for Dry Skin | Non‑Sticky, Quick‑Absorbing | 50g x 2",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "format:patch",
+   "ing:saffron",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:avocado",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "palmer-s-b00jins6qa",
+  "brand": "Palmer's",
+  "model": "Cocoa Butter Formula with Vitamin E Heals and Softens Rough Dry Skin, 250ml",
+  "price": 473,
+  "capacityLine": "250 ml",
+  "materialLine": "Cocoa butter + Vitamin E",
+  "featureLine": "Body butter · ₹189/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "cocos nucifera oil high on the INCI list (limited evidence); mineral oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
+   "Well-reviewed: 4.4★ from 0 ratings"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹189/100ml",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water (Aqua), Theobroma Cacao (Cocoa) Extract, Glyceryl Stearate, Petrolatum, Propylene Glycol, Cocos Nucifera (Coconut) Oil, Glycerin, Mineral Oil (Paraffinum Liquidum), Theobroma Cacao (Cocoa) Seed Butter, Elaeis Guineensis (Palm) Oil, Cetyl Alcohol, Dimethicone, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, PEG-8 Stearate, Hydroxyethylcellulose, Phenoxyethanol, Behentrimonium Methosulfate, Benzoic Acid, Stearalkonium Chloride, Butylene Glycol, Sorbic Acid, Sodium Acetate, Stearyl Alcohol, Isopropyl Alcohol",
+   "evidenceActives": "cocos nucifera oil (#6 on list, limited evidence); mineral oil (#8 on list, moderate evidence); theobroma cacao seed butter (#9 on list, limited evidence); tocopherol (#13 on list, moderate evidence); helianthus annuus seed oil (#14 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Q-ZHqbUdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61BrtHSuttL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71hNpTBr5cL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IeK36xAIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71J5ZYyYuIL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00JINS6QA",
+  "buyStore": "Amazon",
+  "title": "Palmer's Cocoa Butter Formula with Vitamin E Heals and Softens Rough Dry Skin, 250ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "claim:stretch-marks",
+   "claim:scars",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water (Aqua), Theobroma Cacao (Cocoa) Extract, Glyceryl Stearate, Petrolatum, Propylene Glycol, Cocos Nucifera (Coconut) Oil, Glycerin, Mineral Oil (Paraffinum Liquidum), Theobroma Cacao (Cocoa) Seed Butter, Elaeis Guineensis (Palm) Oil, Cetyl Alcohol, Dimethicone, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, PEG-8 Stearate, Hydroxyethylcellulose, Phenoxyethanol, Behentrimonium Methosulfate, Benzoic Acid, Stearalkonium Chloride, Butylene Glycol, Sorbic Acid, Sodium Acetate, Stearyl Alcohol, Isopropyl Alcohol",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "petrolatum",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "cocos nucifera oil",
+     "grade": "C",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "mineral oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "petrolatum",
+    "glycerin",
+    "dimethicone",
+    "butylene glycol"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "naturalis-b0gkq5s3kw",
+  "brand": "Naturalis",
+  "model": "Cocoa Butter | 200 g Unrefined Rich Body Coco Butter for Aromatherapy and Daily Skincare",
+  "price": 1004,
+  "capacityLine": "200 g",
+  "materialLine": "Cocoa butter + Coconut",
+  "featureLine": "Body butter · ₹502/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹502/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Cocoa butter, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71ZhrRkcipL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71kRiqGVuwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-V0k2JwyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714q3I6+11L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/717ynx5tNwL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKQ5S3KW",
+  "buyStore": "Amazon",
+  "title": "Naturalis Cocoa Butter | 200 g Unrefined Rich Body Coco Butter for Aromatherapy and Daily Skincare",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:stretch-marks",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "keya-seth-aromatherapy-device-of-drop-b0gwdfw6gy",
+  "brand": "KEYA SETH AROMATHERAPY, DEVICE OF DROP",
+  "model": "KEYA SETH AROMATHERAPY Almond Body Oil - Anti-Acne, Deep Moisturizing, Soothing, Skin Nour…",
+  "price": 279,
+  "capacityLine": "400 ml",
+  "materialLine": "Almond + Vitamin E",
+  "featureLine": "Oil · ₹70/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹70/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Combination skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SpAIwWklL._SL1009_.jpg",
+   "https://m.media-amazon.com/images/I/51egNkC6TjL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71iIp4uK1aL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWDFW6GY",
+  "buyStore": "Amazon",
+  "title": "KEYA SETH AROMATHERAPY Almond Body Oil - Anti-Acne, Deep Moisturizing, Soothing, Skin Nourishment; Non-Sticky, Quick-Absorbing 400ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:patch",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:combination",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "aromatico-b0dglbx9hm",
+  "brand": "Aromatico",
+  "model": "Citrus Fresh Body Oil for Men - 200ml |Dry Skin-Deep Hydration Formula for Nourished Skin …",
+  "price": 301,
+  "capacityLine": "200 ml",
+  "materialLine": "Honey + Almond + Vitamin E",
+  "featureLine": "Oil · ₹151/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (moderate evidence); prunus amygdalus dulcis oil high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.4,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹151/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Honey, Almond, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Sunflower oil, Avocado oil, Almond oil, Grapeseed oil, olive oil, vitamin E, orange oil",
+   "evidenceActives": "helianthus annuus seed oil (#1 on list, moderate evidence); prunus amygdalus dulcis oil (#3 on list, moderate evidence); tocopherol (#6 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61h8TXlLWUL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71IHKf2jp1L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71xvXLHlJQL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/617RFEEUcwL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61NtgF6C8XL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DGLBX9HM",
+  "buyStore": "Amazon",
+  "title": "AROMATICO Citrus Fresh Body Oil for Men - 200ml |Dry Skin-Deep Hydration Formula for Nourished Skin in the Winters | Non-Sticky Texture, for Daily Use after Bath | Fresh & Energising Fragrance",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:oil",
+   "ing:honey",
+   "ing:almond",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:brightening",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:men",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Sunflower oil, Avocado oil, Almond oil, Grapeseed oil, olive oil, vitamin E, orange oil",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fraileno-b0gng322wm",
+  "brand": "FRAILENO",
+  "model": "Lightweight Body Oil for Massage Rituals, Deep Hydration and Soft Skin Shine All Day 200ml",
+  "price": 199,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹100/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-7eo61+kL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61zjIVwUGbL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/61bviO-ZaaL._SL1064_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GNG322WM",
+  "buyStore": "Amazon",
+  "title": "Lightweight Body Oil for Massage Rituals, Deep Hydration and Soft Skin Shine All Day 200ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "keya-seth-aromatherapy-device-of-drop-b0gwdh1m1w",
+  "brand": "KEYA SETH AROMATHERAPY, DEVICE OF DROP",
+  "model": "KEYA SETH AROMATHERAPY Tea Tree Body Oil - Moisturising, Anti Acne, Cleansing, Soothing & …",
+  "price": 329,
+  "capacityLine": "400 ml",
+  "materialLine": "Tea tree",
+  "featureLine": "Wash / cleanser · ₹82/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹82/100ml",
+   "format": "Wash / cleanser",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Tea tree (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61gvb4oo83L._SL1012_.jpg",
+   "https://m.media-amazon.com/images/I/510cthVF1xL._SL1072_.jpg",
+   "https://m.media-amazon.com/images/I/61CUFygVetL._SL1064_.jpg",
+   "https://m.media-amazon.com/images/I/71iIp4uK1aL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWDH1M1W",
+  "buyStore": "Amazon",
+  "title": "KEYA SETH AROMATHERAPY Tea Tree Body Oil - Moisturising, Anti Acne, Cleansing, Soothing & Purifies Skin; Non-Sticky, Quick-Absorbing 400ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:wash",
+   "ing:tea-tree",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "natural-n-nutrient-b0fl7ybt4d",
+  "brand": "NATURAL N NUTRIENT",
+  "model": "Body Butter 100g with Shea Butter Almond Oil Aloe Vera Deep Moisturizing Cream for Dry Ver…",
+  "price": 385,
+  "capacityLine": "100 g",
+  "materialLine": "Aloe vera + Almond + Shea butter",
+  "featureLine": "Body butter · Paraben-free · ₹385/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹385/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Almond, Shea butter (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating, Lightweight / fast-absorbing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61oPlfKdiaL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81L6UsQ6ngL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71JhjINmvRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71-Z2-ADiDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lVLI3MvsL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL7YBT4D",
+  "buyStore": "Amazon",
+  "title": "Body Butter 100g with Shea Butter Almond Oil Aloe Vera Deep Moisturizing Cream for Dry Very Dry Skin 48 Hour Hydration Non Greasy Skin Nourishing Cream Paraben Free Vegan Body Moisturizer for Soft Smooth Glowing Skin",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "boghani-gems-b0gx6dc3ql",
+  "brand": "Boghani Gems",
+  "model": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Trea…",
+  "price": 220,
+  "capacityLine": "40 g",
+  "materialLine": "Urea + Aloe vera + Shea butter",
+  "featureLine": "Stick · ₹550/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "40 g",
+   "pricePer100": "₹550/100g",
+   "format": "Stick",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Urea, Aloe vera, Shea butter, Vitamin E, Coconut, Avocado (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61X7NzydnlL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61NIS0JyrIL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/71Fey32eqgL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/616SjNdA4ZL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61HZrsJEQ2L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX6DC3QL",
+  "buyStore": "Amazon",
+  "title": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment with Shea Butter & Coconut Oil, Moisturizes and Hydrates the Dry & Dead Skin- Peach Scent 40g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:stick",
+   "format:oil",
+   "format:balm",
+   "ing:urea",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:avocado",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lunaris-b0g2h64698",
+  "brand": "Lunaris",
+  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
+  "price": 199,
+  "capacityLine": "50 ml",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹398/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹398/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71+8GwFx6BL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Qvpthxd9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81VfycrnbdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ChvPROcoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wXm6AOcoL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
+  "buyStore": "Amazon",
+  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:kids",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "actiwowrx-b0fnn37q1z",
+  "brand": "ActiwowRx",
+  "model": "Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pr…",
+  "price": 159,
+  "capacityLine": "30 ml",
+  "materialLine": "Collagen + Rosehip + Shea butter",
+  "featureLine": "Body butter · ₹530/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹530/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Rosehip, Shea butter, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing, Dry / very dry skin relief, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-9vOkWR-L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNN37Q1Z",
+  "buyStore": "Amazon",
+  "title": "ActiwowRx Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pregnancy Latic Acid & Shea Butter | One-a-Day | Prevent",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:collagen",
+   "ing:rosehip",
+   "ing:shea-butter",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:stretch-marks",
+   "claim:scars",
+   "aud:kids",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "unbranded-b0gc5xhx64",
+  "brand": "Unbranded",
+  "model": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal O…",
+  "price": 180,
+  "capacityLine": "30 ml",
+  "materialLine": "Vitamin C + Collagen + Almond",
+  "featureLine": "Oil · ₹600/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹600/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Collagen, Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61m-LZ4yD1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jrqeItpUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/818WPGw470L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81DGxgFmJnL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GC5XHX64",
+  "buyStore": "Amazon",
+  "title": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal Oil for Women | Boosts Skin Elasticity, Prevents Stretching from Weight Changes",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:vitamin-c",
+   "ing:collagen",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:stretch-marks",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
   "id": "rayzil-b0czky4tw6",
   "brand": "Rayzil",
   "model": "Pimple Cream with Almond Oil - Acne Treatment for Clear, Healthy Skin - Gentle Formula wit…",
@@ -180483,7 +186790,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "venusia-b08p8q9m9m",
-  "brand": "Venusia",
+  "brand": "VENUSIA",
   "model": "Dr. Reddy's Venusia Max Intensive Moisturizing Lotion for Normal to Dry skin |Body lotion …",
   "price": 741,
   "capacityLine": "300 g",
@@ -185370,7 +191677,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00nw7nttw",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Cocoa Nourish 400ml Body Lotion with Deep Moisture Serum| 72 H Moisturization | With Cocoa…",
   "price": 269,
   "capacityLine": "400 ml",
@@ -190344,7 +196651,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00e96n6o8",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Soft Moisturizing Cream, Lightweight Non-Sticky Daily Moisturizer with 72Hr Hydration, Vit…",
   "price": 349,
   "capacityLine": "300 ml",
@@ -191510,7 +197817,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b0h5kcp22f",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Cocoa Nourish Body Lotion for Men & Women with Cocoa Butter, Hyaluronic Acid & Vitamin E M…",
   "price": 849,
   "capacityLine": "600 ml",
@@ -193161,7 +199468,8 @@ const NXPRODUCTS = [
    "evidenceActives": "helianthus annuus seed oil (#3 on list, moderate evidence); simmondsia chinensis seed oil (#11 on list, moderate evidence); tocopheryl acetate (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41MNaLo58DL._SL1100_.jpg",
@@ -193194,6 +199502,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -193226,6 +199536,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -193233,6 +199544,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -193240,6 +199552,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -193247,6 +199560,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -193254,6 +199568,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     }
    ],
@@ -195412,6 +201727,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -195419,6 +201735,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -195426,6 +201743,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -195433,6 +201751,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -195440,6 +201759,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -195447,6 +201767,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -195584,7 +201905,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b07phtmmvp",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Soft Light Moisturizer 100ml | Berry Blossom | For Face, Hand & Body, Instant Hydration | …",
   "price": 159,
   "capacityLine": "100 ml",
@@ -195687,6 +202008,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -195694,6 +202016,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -195701,6 +202024,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -195708,6 +202032,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -199467,6 +205792,3390 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "mcaffeine-b0bdls3wy9",
+  "brand": "mcaffeine",
+  "model": "Body Butter for Dry Skin for both Women and Men | Shea Butter Moisturizer with Cocoa Butte…",
+  "price": 223,
+  "capacityLine": "100 g",
+  "materialLine": "Caffeine + Coffee + Shea butter",
+  "featureLine": "Body butter · ₹223/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5.3,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹223/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Caffeine, Coffee, Shea butter, Cocoa butter, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, 24h / 48h / 72h (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Cocoa Butter, Caramel, Argan Oil, Caffeine",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Pep Technologies — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51AEJvsliaL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/616oX0RuH5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51CpHGPcukL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/611wEJ6+M3L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61JkzHZMhFL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BDLS3WY9",
+  "buyStore": "Amazon",
+  "title": "mCaffeine Body Butter for Dry Skin for both Women and Men | Shea Butter Moisturizer with Cocoa Butter & Caffeine | Body Cream for 72Hrs Moisturization | Non-Sticky for All Skin Types (100gm)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "ing:caffeine",
+   "ing:coffee",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:mineral-oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cocoa Butter, Caramel, Argan Oil, Caffeine",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Pep Technologies",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.mcaffeine.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "baidyanath-b01mfgfput",
+  "brand": "Baidyanath",
+  "model": "Oli Oil | Herbal Body Oil with Italian Olive Oil, Almond Oil, Neem, Sandalwood & Sesame Oi…",
+  "price": 233,
+  "capacityLine": "500 ml",
+  "materialLine": "Turmeric + Sandalwood + Neem",
+  "featureLine": "Oil · ₹47/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹47/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Turmeric, Sandalwood, Neem, Almond, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Olive oil, neem oil (azadirachta indica), sesame oil (sesamum indicum), arachis oilalmond oil (prunus amygdelus), perfume light liquid parafin, kalka materials: daru haridra (berberis aristata), manjith (rubia cordifolia), haldi (curcuma longum), lodhra (symplocos racemosa), sandal wood (santalum album), lanoline, karpoor, butylated hydroxy anisole.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51+PAnkkYGL._SL1088_.jpg",
+   "https://m.media-amazon.com/images/I/619dKO6gLRL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/618hPyQhDEL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61I47N9XaRL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61hngbnWHGL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B01MFGFPUT",
+  "buyStore": "Amazon",
+  "title": "Baidyanath Oli Oil | Herbal Body Oil with Italian Olive Oil, Almond Oil, Neem, Sandalwood & Sesame Oils, Haldi & 5 Herbs | With Vit E & Antioxidants | Nourishes Dry Skin, Non-Sticky & Fast Absorbing | 500ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:turmeric",
+   "ing:sandalwood",
+   "ing:neem",
+   "ing:almond",
+   "ing:olive",
+   "claim:brightening",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Olive oil, neem oil (azadirachta indica), sesame oil (sesamum indicum), arachis oilalmond oil (prunus amygdelus), perfume light liquid parafin, kalka materials: daru haridra (berberis aristata), manjith (rubia cordifolia), haldi (curcuma longum), lodhra (symplocos racemosa), sandal wood (santalum album), lanoline, karpoor, butylated hydroxy anisole.",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.46,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "keo-karpin-b07qvjwtnf",
+  "brand": "Keo Karpin",
+  "model": "Ayurvedic Body Oil | Non-Sticky, Sandal Fragranced Herbal Body Oil, Enriched With Olive Oi…",
+  "price": 232,
+  "capacityLine": "500 ml",
+  "materialLine": "Turmeric + Neem + Olive",
+  "featureLine": "Oil · ₹46/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹46/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Turmeric, Neem, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Olive oil, Neem, Haldi, Sandal",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71lwvO5aOIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61EDBgfCRWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61L+LGJuu6L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/81Hf96mkHYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71wP4FJnBpL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07QVJWTNF",
+  "buyStore": "Amazon",
+  "title": "Keo Karpin Ayurvedic Body Oil | Non-Sticky, Sandal Fragranced Herbal Body Oil, Enriched With Olive Oil, Neem And Haldi | 500ml |",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:turmeric",
+   "ing:neem",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "skin:oily",
+   "skin:dry",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Olive oil, Neem, Haldi, Sandal",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.25,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "plum-b0frn27gm2",
+  "brand": "Plum",
+  "model": "BodyLovin' Marshmallow Melt Body Butter | Shea Butter & Brazil Nut Oil for Deep Moisturiza…",
+  "price": 467,
+  "capacityLine": "180 g",
+  "materialLine": "Shea butter + Cocoa butter",
+  "featureLine": "Body butter · ₹259/100g",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance"
+  ],
+  "scores": {
+   "ingredients": 6.5,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹259/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceUrl": "https://plumgoodness.com/products/marshmallow-melt-body-butter-by-plum-bodylovin",
+   "inciMatchedName": "Marshmallow Melt Body Butter by BodyLovin' (name match 100%)",
+   "inciList": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Fragrance, Stearic Acid, Bertholletia Excelsa (Brazil Nut) Seed Oil, Tocopherol, Niacinamide, Phenoxyethanol, Triethanolamine, Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+   "evidenceActives": "helianthus annuus seed oil (#2 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#10 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51dGVD-6UiL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61gz-gFZPYL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61uEd4AzkZL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61-tvdetIeL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61C74MtfTDL._SL1001_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FRN27GM2",
+  "buyStore": "Amazon",
+  "title": "Plum BodyLovin' Marshmallow Melt Body Butter | Shea Butter & Brazil Nut Oil for Deep Moisturization | Non-Greasy & Lightweight | Buttery Soft, Smooth & Moisturised Skin | For Dry To Very Dry Skin | Cozy Cocoa Fragrance | 180gm",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://plumgoodness.com/products/marshmallow-melt-body-butter-by-plum-bodylovin",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Marshmallow Melt Body Butter by BodyLovin'",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Fragrance, Stearic Acid, Bertholletia Excelsa (Brazil Nut) Seed Oil, Tocopherol, Niacinamide, Phenoxyethanol, Triethanolamine, Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": true,
+     "src": "vitc"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 11,
+     "core": false,
+     "trace": true,
+     "src": "niacinamide"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "the-body-shop-b0gs76hhg7",
+  "brand": "The Body Shop",
+  "model": "White Tea & Elderflower Body Butter 200ml",
+  "price": 1610,
+  "capacityLine": "200 ml",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹805/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹805/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "The Body Shop International — Indian D2C brand with its own product company",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71u+KRTiZqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81w+11xLvSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71J2XRxvpjL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GS76HHG7",
+  "buyStore": "Amazon",
+  "title": "The Body Shop White Tea & Elderflower Body Butter 200ml",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:shea-butter",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "The Body Shop International",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.thebodyshop.com/"
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "mel-botanicals-b0h11nglds",
+  "brand": "Mel Botanicals",
+  "model": "Velvet Roast Body Butter | Enriched with Vanilla, Coffee Oil & Shea Butter | Deep Hydratio…",
+  "price": 460,
+  "capacityLine": "90 g",
+  "materialLine": "Coffee + Shea butter",
+  "featureLine": "Body butter · ₹511/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "90 g",
+   "pricePer100": "₹511/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Combination skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Jojoba Oil, Coconut oil, Shea Butter, Mango Butter, Arrowroot Powder, Vitamin E, Geranium and Patchouli Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61mhsao5KwL._SL1152_.jpg",
+   "https://m.media-amazon.com/images/I/61-yt15jZUL._SL1278_.jpg",
+   "https://m.media-amazon.com/images/I/71oZfN37+gL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/710++Ci8NJL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61cAuBbS4SL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H11NGLDS",
+  "buyStore": "Amazon",
+  "title": "Velvet Roast Body Butter | Enriched with Vanilla, Coffee Oil & Shea Butter | Deep Hydration, Lightweight | No synthetic fragrances, Non-greasy | Suitable for Dry, Combination Skin, 90gm",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:coffee",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:dry",
+   "skin:combination",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Jojoba Oil, Coconut oil, Shea Butter, Mango Butter, Arrowroot Powder, Vitamin E, Geranium and Patchouli Oil",
+   "inciNote": "Ingredients are named by trade names (“Vitamin C”, “Aloe Vera”), not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.88,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "hibiscus-monkey-b09c1274s6",
+  "brand": "Hibiscus Monkey",
+  "model": "Cuddles, Elbow & Knee Balm | Reduces Discoloration, Deeply Moisturizes Dry and Rough Skin …",
+  "price": 484,
+  "capacityLine": "50 g",
+  "materialLine": "Collagen + Shea butter + Vitamin E",
+  "featureLine": "Body butter · Paraben-free · ₹968/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No water phase or preservative declared — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹968/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Collagen, Shea butter, Vitamin E, Coconut, Milk, Mineral oil (named on listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Formaldehyde-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Combination skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Cocos nucifera (Coconut), Vitellaria paradoxa (Shea) butter, Cetearyl olivate (and) Sorbitan olivate, Cera alba, Glyceryl caprylate (and) Glyceryl undecylenate, Citrus limon (Lemon) essential oil, Tocopherol",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61C2SNiH04L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71P4BXxg24L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71l+i506xoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81n3LviL7pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81fSPsJnbXL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09C1274S6",
+  "buyStore": "Amazon",
+  "title": "Hibiscus Monkey Cuddles, Elbow & Knee Balm | Reduces Discoloration, Deeply Moisturizes Dry and Rough Skin | Shea butter, Coconut Milk Oil, Vitamin E | Natural, Chemical Free | 50g",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:collagen",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:milk",
+   "ing:mineral-oil",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "skin:combination",
+   "free:paraben",
+   "free:sulfate",
+   "free:toxin-free",
+   "free:formaldehyde",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Cocos nucifera (Coconut), Vitellaria paradoxa (Shea) butter, Cetearyl olivate (and) Sorbitan olivate, Cera alba, Glyceryl caprylate (and) Glyceryl undecylenate, Citrus limon (Lemon) essential oil, Tocopherol",
+   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sunny-b0b1j8513j",
+  "brand": "Sunny",
+  "model": "Cocoa Butter Body Lotion | An Excellent Moisturizer | Almond oil Improve Moisture Absorpti…",
+  "price": 231,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Almond + Cocoa butter + Calendula",
+  "featureLine": "Body butter · ₹116/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹116/100ml",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Almond, Cocoa butter, Calendula (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Dark circles / puffiness (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ZGgqugYSL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61iivHlfjxL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61bOVxoxsIL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B1J8513J",
+  "buyStore": "Amazon",
+  "title": "Sunny Cocoa Butter Body Lotion | An Excellent Moisturizer | Almond oil Improve Moisture Absorption in Skin | Rejuvenates Skin and Lightens Undereye Dark Circles | For All Skin Type 100ml (Pack of 2)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:calendula",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:dark-circles",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "venusia-b0b9ggx8z8",
+  "brand": "VENUSIA",
+  "model": "Dr. Reddy's Baby Intensive Moisturizing Cream | Safe, Hydrating and Gentle | Goodness of S…",
+  "price": 331,
+  "capacityLine": "75 g",
+  "materialLine": "Aloe vera + Shea butter + Cocoa butter",
+  "featureLine": "Cream · ₹441/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Made by Dr. Reddy's Laboratories (dermatology / pharma maker)",
+   "Well-reviewed: 4.4★ from 0 ratings"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance"
+  ],
+  "scores": {
+   "ingredients": 4.5,
+   "skin": 8.5,
+   "trust": 10,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹441/100g",
+   "format": "Cream",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Aloe vera, Shea butter, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Another way to buy ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "SHEA BUTTER¸ALOE BUTTER, MANGO BUTTER¸COCOA BUTTER, PURIFIED WATER, PROPYLENE GLYCOL, EMULSIFYING WAX, CYCLOMETHICONE, GLYCERIN,, CETANOL, STEARIC ACID, DIMETHICONE, PHENOXY ETHANOL, DISODIUM EDETATE, ZINC OXIDE, FRAGRANCE",
+   "evidenceActives": "No category-relevant evidence-backed active on the INCI list",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Dr. Reddy's Laboratories — Dermatology / pharmaceutical manufacturer",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41BXFg5qTTL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/619-LbmK5iL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/612k4xnWSfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61JCQEcu32L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61KZ4sksYAL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B9GGX8Z8",
+  "buyStore": "Amazon",
+  "title": "VENUSIA Dr. Reddy's Baby Intensive Moisturizing Cream | Safe, Hydrating and Gentle | Goodness of Shea, Aloe, Cocoa and Mango Butters | Soothes Baby Skin | 75g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "claim:soothing",
+   "skin:dry",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:pharma-maker"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": true
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "SHEA BUTTER¸ALOE BUTTER, MANGO BUTTER¸COCOA BUTTER, PURIFIED WATER, PROPYLENE GLYCOL, EMULSIFYING WAX, CYCLOMETHICONE, GLYCERIN,, CETANOL, STEARIC ACID, DIMETHICONE, PHENOXY ETHANOL, DISODIUM EDETATE, ZINC OXIDE, FRAGRANCE",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 7,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 10,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 13,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Dr. Reddy's Laboratories",
+    "kind": "pharma",
+    "label": "Dermatology / pharmaceutical manufacturer",
+    "pts": 8,
+    "url": "https://www.drreddys.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ceraquil-b0hhhqnzds",
+  "brand": "CERAQUIL",
+  "model": "Intensive Moisturizing Cream 100g | 24Hr Hydration for Dry & Very Dry Skin, Face & Body Mo…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "Aloe vera + Almond + Cocoa butter",
+  "featureLine": "Body butter · ₹299/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Aloe vera, Almond, Cocoa butter, Vitamin E, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (seller claim — not scored)",
+   "benefit": "Hydrating / moisturizing, Barrier repair, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Z+RL57-kL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71PKSNjyoiL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71FWOjAEQmL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71t95Fb490L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71NaKeCQoaL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHHQNZDS",
+  "buyStore": "Amazon",
+  "title": "Intensive Moisturizing Cream 100g | 24Hr Hydration for Dry & Very Dry Skin, Face & Body Moisturizer, Mango Butter, Cocoa Butter, Vitamin E & Almond Oil",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "free:non-comedogenic",
+   "free:ph-balanced",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sheny-soft-b0dzhtgmxd",
+  "brand": "sheny soft",
+  "model": "Sexy Body Massage Oil Pack Of 1",
+  "price": 141,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C + Collagen",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Collagen (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71jAf-gY7pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jAE5AtpHL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DZHTGMXD",
+  "buyStore": "Amazon",
+  "title": "Sexy Body Massage Oil Pack Of 1",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "aiskriti-b0c7l8l5hv",
+  "brand": "Aiskriti",
+  "model": "Ayurvedic Back Pain Relief Oil 200 ml | Herbal Massage Oil for Lower Back, Joint & Muscle …",
+  "price": 1299,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹650/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹650/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81RTJeoPzEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/817lJTXwbfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Fup1GvGZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71bRwZ4TB0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CHY2RIraL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C7L8L5HV",
+  "buyStore": "Amazon",
+  "title": "Ayurvedic Back Pain Relief Oil 200 ml | Herbal Massage Oil for Lower Back, Joint & Muscle Pain | Helps Ease Sciatica Discomfort, Inflammation & Stiffness",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "khadi-pure-gramodyog-b07z854h8g",
+  "brand": "Khadi Pure Gramodyog",
+  "model": "Khadi Pure Herbal Bath Oil, 210 ml",
+  "price": 249,
+  "capacityLine": "210 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹119/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "210 ml",
+   "pricePer100": "₹119/100ml",
+   "format": "Oil",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TwMWJoFFL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61qb46ikw4L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07Z854H8G",
+  "buyStore": "Amazon",
+  "title": "Khadi Pure Herbal Bath Oil, 210 ml",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Khadi Natural Healthcare",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://khadinatural.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "indianlife-b09ftqj7dm",
+  "brand": "INDIANLIFE",
+  "model": "The Best Pure Smell Fragrance Oil Orange- Aqua-Cinnamon -Papaya For Spa Relax Luxury Bath …",
+  "price": 460,
+  "capacityLine": "40 ml",
+  "materialLine": "Papaya",
+  "featureLine": "Oil · ₹1150/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹1150/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Papaya (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71LbuO978eL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/4189C6-WZiS._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61j5VNDiMCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/510l5PUju8L._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09FTQJ7DM",
+  "buyStore": "Amazon",
+  "title": "The Best Pure Smell Fragrance Oil Orange- Aqua-Cinnamon -Papaya For Spa Relax Luxury Bath Oil (40 Ml)",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "format:oil",
+   "ing:papaya",
+   "claim:odour",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "earth-matters-b0dn61g4bv",
+  "brand": "Earth Matters",
+  "model": "Orange & Geranium Harmony Bath & Body Oil | 100% Natural & Chemical-Free | Non-Greasy, Fas…",
+  "price": 665,
+  "capacityLine": "100 ml",
+  "materialLine": "Papaya + Almond + Jojoba",
+  "featureLine": "Oil · ₹665/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹665/100ml",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Papaya, Almond, Jojoba, Watermelon (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71oSyJmVFoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81oTuOpelbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qFrCmokcL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/615WW3ZujfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71W-05qdkBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DN61G4BV",
+  "buyStore": "Amazon",
+  "title": "Earth Matters Orange & Geranium Harmony Bath & Body Oil | 100% Natural & Chemical-Free | Non-Greasy, Fast Absorbing Daily Use Oil | Uplifting Massage & Aromatherapy – 100ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:papaya",
+   "ing:almond",
+   "ing:jojoba",
+   "ing:watermelon",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:oily",
+   "skin:all",
+   "free:toxin-free",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "fraileno-b0gmpqjptp",
+  "brand": "FRAILENO",
+  "model": "Coffee-Infused Body Oil for Smooth, Firm & Glowing Skin",
+  "price": 149,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coffee + Almond + Vitamin E",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Almond, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61jUQZRXMXL._SL1268_.jpg",
+   "https://m.media-amazon.com/images/I/61KvAE0h6CL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMPQJPTP",
+  "buyStore": "Amazon",
+  "title": "Coffee-Infused Body Oil for Smooth, Firm & Glowing Skin",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "ing:coffee",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "caraway-b0gw3jsb8r",
+  "brand": "CARAWAY",
+  "model": "® 100% Raw Shea Butter Organic Body Cream for Dry to Very Dry Skin | Long Lasting Moisturi…",
+  "price": 445,
+  "capacityLine": "100 g",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹445/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹445/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: 100% Raw Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61QuqtTM4qL._SL1402_.jpg",
+   "https://m.media-amazon.com/images/I/71B4-+bIDBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81sCM6RTqQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81Q6WV+iLWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81nSOK84TOL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GW3JSB8R",
+  "buyStore": "Amazon",
+  "title": "CARAWAY® 100% Raw Shea Butter Organic Body Cream for Dry to Very Dry Skin | Long Lasting Moisturizer | Non-Sticky All Season Formula | 100 g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "ing:shea-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "100% Raw Shea Butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sk-organic-b07mz4h8pj",
+  "brand": "SK ORGANIC",
+  "model": "raw unrefined shea butter 250 gm for dry skin",
+  "price": 417,
+  "capacityLine": "250 g",
+  "materialLine": "Shea butter",
+  "featureLine": "Body butter · ₹167/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹167/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Pure Shea butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71U2aJSr8tL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71GteLaORZL._SL1350_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07MZ4H8PJ",
+  "buyStore": "Amazon",
+  "title": "sk organic raw unrefined shea butter 250 gm for dry skin",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Pure Shea butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vedic-naturals-b09myxmgy5",
+  "brand": "Vedic Naturals",
+  "model": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin…",
+  "price": 499,
+  "capacityLine": "200 g",
+  "materialLine": "Shea butter + Vitamin E + Glycerin",
+  "featureLine": "Body butter · ₹250/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "butyrospermum parkii butter high on the INCI list (moderate evidence); tocopheryl acetate high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.2,
+   "skin": 7,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹250/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Vitamin E, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, 24h / 48h / 72h, Stretch marks (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua, Stearic Acid, Hydroxypropyl Starch Phosphate, Triethanolamine, Glycerine, Cetostearyl Alcohol, Triethylene Glycol, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate (Vitamin-E), Candelilla Wax And Natural Fragrance Oil.",
+   "evidenceActives": "butyrospermum parkii butter (#8 on list, moderate evidence); tocopheryl acetate (#9 on list, moderate evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71hOgVosn0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zrc3hNdQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FVRUbgUnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710O+eG3BiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71H1vg92d9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09MYXMGY5",
+  "buyStore": "Amazon",
+  "title": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin & All Day Moisture Lock | For All Skin Types & Healing Stretch Marks | 100% Organic",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:body-wax",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "claim:stretch-marks",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Aqua, Stearic Acid, Hydroxypropyl Starch Phosphate, Triethanolamine, Glycerine, Cetostearyl Alcohol, Triethylene Glycol, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate (Vitamin-E), Candelilla Wax And Natural Fragrance Oil.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "palmer-s-b004t17pvi",
+  "brand": "Palmer's",
+  "model": "Cocoa Butter Formula Skin Therpy Oil, 60ml",
+  "price": 499,
+  "capacityLine": "60 ml",
+  "materialLine": "Cocoa butter + Mineral oil",
+  "featureLine": "Body butter · ₹832/100ml",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "theobroma cacao seed butter high on the INCI list (limited evidence); argania spinosa kernel oil high on the INCI list (moderate evidence)",
+   "Well-reviewed: 4.3★ from 0 ratings"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 5.3,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹832/100ml",
+   "format": "Body butter",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Cocoa butter, Mineral oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Anti-aging / wrinkles, Stretch marks, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.3/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Canola Oil, Isopropyl Myristate, Cetearyl Ethylhexanoate, Sesamum Indicum (Sesame) Seed Oil, Theobroma Cacao (Cocoa) Seed Butter, Argania Spinosa Kernel Oil, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Dimethicone, Rosa Canina Fruit Oil, Fragrance (Parfum)",
+   "evidenceActives": "theobroma cacao seed butter (#5 on list, limited evidence); argania spinosa kernel oil (#6 on list, moderate evidence); tocopherol (#7 on list, moderate evidence); helianthus annuus seed oil (#8 on list, moderate evidence); rosa canina fruit oil (#10 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/719yYkFzDsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71tt4Xr+RFL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Tndy-ogXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81+OCxSsJXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/91acGrphHdL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B004T17PVI",
+  "buyStore": "Amazon",
+  "title": "Palmer's Cocoa Butter Formula Skin Therpy Oil, 60ml",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:cocoa-butter",
+   "ing:mineral-oil",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:stretch-marks",
+   "claim:scars",
+   "free:derm",
+   "free:hypoallergenic",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Canola Oil, Isopropyl Myristate, Cetearyl Ethylhexanoate, Sesamum Indicum (Sesame) Seed Oil, Theobroma Cacao (Cocoa) Seed Butter, Argania Spinosa Kernel Oil, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil, Dimethicone, Rosa Canina Fruit Oil, Fragrance (Parfum)",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "striae"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "rosa canina fruit oil",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "ourcares-b0d4jygj6v",
+  "brand": "Ourcares",
+  "model": "Cocoa Glow Whipped Body Butter, 200 g. Cocoa & Shea Butter for Glowing Soft Skin",
+  "price": 299,
+  "capacityLine": "200 g",
+  "materialLine": "Shea butter + Cocoa butter",
+  "featureLine": "Body butter · ₹150/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹150/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea & Cocoa Butter - Cocoa butter retains moisture, nourishes and protects skin with long lasting hydration, leaving skin soft and smooth due to its intense emollient property. The Vitamin E in Cocoa Butter known to protect skin by its antioxidant property.",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pvMILZLCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71vAGNBEY4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71fDLOLqfzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71BvONrqHZL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61dxHGaJXWL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D4JYGJ6V",
+  "buyStore": "Amazon",
+  "title": "Cocoa Glow Whipped Body Butter, 200 g. Cocoa & Shea Butter for Glowing Soft Skin",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea & Cocoa Butter - Cocoa butter retains moisture, nourishes and protects skin with long lasting hydration, leaving skin soft and smooth due to its intense emollient property. The Vitamin E in Cocoa Butter known to protect skin by its antioxidant property.",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.4,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0hdt22237",
+  "brand": "Unbranded",
+  "model": "Generic After Sun Body Butter with Shea Butter, Coconut Oil & Avocado Oil | 12HR Hydrating…",
+  "price": 399,
+  "capacityLine": "100 g",
+  "materialLine": "Shea butter + Coconut + Avocado",
+  "featureLine": "Body butter · ₹399/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹399/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Coconut, Avocado (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51nSSsUHGqL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61qGgyfDvxL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/619ZiBk0yHL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51uU1PXnPVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/615hFm0hkXL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDT22237",
+  "buyStore": "Amazon",
+  "title": "Generic After Sun Body Butter with Shea Butter, Coconut Oil & Avocado Oil | 12HR Hydrating Soothing Body Moisturizer (100g / 3.52 oz)",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:coconut",
+   "ing:avocado",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bella-vita-luxury-b0ctmsf6yv",
+  "brand": "Bella Vita Luxury",
+  "model": "Senorita Woman Perfume Body Lotion for Nourishing, Hydrating, Soft, Supple,Healthy Skin wi…",
+  "price": 225,
+  "capacityLine": "200 ml",
+  "materialLine": "Shea butter + Argan oil",
+  "featureLine": "Body butter · ₹113/100ml",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "helianthus annuus seed oil high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance"
+  ],
+  "scores": {
+   "ingredients": 5.9,
+   "skin": 7.7,
+   "trust": 7,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹113/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Argan oil (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/senorita-woman-perfume-body-lotion-200ml-iocl",
+   "inciMatchedName": "SENORITA Woman Perfume Body Lotion - 200ml (IOCL) (name match 100%)",
+   "inciList": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Glyceryl Monostearate, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin and Phenoxyethanol, Carbomer, Cetyl Alcohol, Triethanolamine, Argania Spinosa (Argan) Kernel Oil, Disodium EDTA and Titanium Dioxide",
+   "evidenceActives": "helianthus annuus seed oil (#5 on list, moderate evidence); butyrospermum parkii butter (#8 on list, moderate evidence); argania spinosa kernel oil (#14 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51r7uck0CDL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61oZvEEYb+L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61zm3a6PFrL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61fXOaVhlQL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51lPp5kPE4L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CTMSF6YV",
+  "buyStore": "Amazon",
+  "title": "Bella Vita Luxury Senorita Woman Perfume Body Lotion for Nourishing, Hydrating, Soft, Supple,Healthy Skin with Argan Oil and Shea Butter 200 Ml",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:argan-oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:odour",
+   "claim:cooling",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:full",
+   "inci:brand-site"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "brand-site",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bellavitaorganic.com/products/senorita-woman-perfume-body-lotion-200ml-iocl",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "SENORITA Woman Perfume Body Lotion - 200ml (IOCL)",
+   "inciMatchScore": 1,
+   "inciText": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Glyceryl Monostearate, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin and Phenoxyethanol, Carbomer, Cetyl Alcohol, Triethanolamine, Argania Spinosa (Argan) Kernel Oil, Disodium EDTA and Titanium Dioxide",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": false,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "helianthus annuus seed oil",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 8,
+     "core": true,
+     "trace": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "argania spinosa kernel oil",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "trace": true,
+     "src": "squalane"
+    },
+    {
+     "name": "titanium dioxide",
+     "grade": "A",
+     "position": 16,
+     "core": false,
+     "trace": true,
+     "src": "sunFilters"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": "Bella Vita Organic",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://bellavitaorganic.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "little-rituals-b0dvgtsdj6",
+  "brand": "Little Rituals",
+  "model": "Baby BIO BODY BUTTER - NOURISH+ PROTECT Formulated with best plant botanical -PUMPKIN & SH…",
+  "price": 1220,
+  "capacityLine": "200 g",
+  "materialLine": "Almond + Shea butter + Vitamin E",
+  "featureLine": "Body butter · ₹610/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹610/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Almond, Shea butter, Vitamin E, Sea buckthorn, Mineral oil, Lanolin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Ayurvedic / herbal (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/511UI5NPUlL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/6170Ou47lQL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71oh+jrFplL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61JJxpz5nvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Zl3GWMFAL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DVGTSDJ6",
+  "buyStore": "Amazon",
+  "title": "Little Rituals Baby BIO BODY BUTTER - NOURISH+ PROTECT Formulated with best plant botanical -PUMPKIN & SHEA BUTTER, SEABUCKTHORN OIL. Natural, Organic, Dermat tested, SWISS Technology (200 gm)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:sea-buckthorn",
+   "ing:mineral-oil",
+   "ing:lanolin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "skin:sensitive",
+   "aud:kids",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "personal-touch-skincare-b0cttxn99j",
+  "brand": "PERSONAL TOUCH SKINCARE",
+  "model": "Personal Touch Intenseal Shea Butter Balm | 92% Pure Shea Butter | Deep Moisturizing Body …",
+  "price": 499,
+  "capacityLine": "50 ml",
+  "materialLine": "Almond + Shea butter + Vitamin E",
+  "featureLine": "Body butter · ₹998/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹998/100ml",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Almond, Shea butter, Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: BUTYROSPERMUM PARKII (SHEA) BUTTER, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, TOCOPHERYL ACETATE, FRAGRANCE, BHT",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/619iyi7qQPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81h8mrpKFCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/815d0bmww3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71L1TRk4UYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81PudOLQK8L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CTTXN99J",
+  "buyStore": "Amazon",
+  "title": "Personal Touch Intenseal Shea Butter Balm | 92% Pure Shea Butter | Deep Moisturizing Body Balm for Intense Dry & Very Dry Skin | With Almond Oil & Vitamin E | Non-Greasy | 50 ml",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "BUTYROSPERMUM PARKII (SHEA) BUTTER, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, TOCOPHERYL ACETATE, FRAGRANCE, BHT",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "minature-b0cn3fggdc",
+  "brand": "minature",
+  "model": "Mi Nature Body Butter 50g (1.7oz) | Enriched with Lavender Oil | Non-Greasy Moisturizer fo…",
+  "price": 439,
+  "capacityLine": "50 g",
+  "materialLine": "Lavender",
+  "featureLine": "Body butter · ₹878/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹878/100g",
+   "format": "Body butter",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51m73w17XCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71Zi5+3xlxL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61M0VoAub4L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/616Nu-wha+L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61MKznDGOtL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CN3FGGDC",
+  "buyStore": "Amazon",
+  "title": "Mi Nature Body Butter 50g (1.7oz) | Enriched with Lavender Oil | Non-Greasy Moisturizer for Soft Smooth Skin | Lightweight Formula | Jar Pack",
+  "tags": [
+   "scope:body",
+   "format:essence",
+   "format:oil",
+   "format:balm",
+   "format:pack",
+   "ing:lavender",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "parisar-pharma-b0f1tynz86",
+  "brand": "PARISAR PHARMA",
+  "model": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2%…",
+  "price": 379,
+  "capacityLine": "100 ml (pack of 2)",
+  "materialLine": "Lactic acid + Urea + Vitamin E",
+  "featureLine": "Roll-on · ₹379/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 2 pack",
+   "pricePer100": "₹379/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Dry / very dry skin relief, Cracked heels / rough feet (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Xu3fdXf9L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/616ZrObPoSL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61BguykbSsL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61lJ7ZWDbtL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61gsbn6wv9L._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
+  "buyStore": "Amazon",
+  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:patch",
+   "format:roll-on",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "ing:olive",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cracked-heels",
+   "skin:dry",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "rexona-b0fqcjk4td",
+  "brand": "Rexona",
+  "model": "Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odo…",
+  "price": 179,
+  "capacityLine": "50 ml",
+  "materialLine": "Shea butter + Glycerin",
+  "featureLine": "Roll-on · ₹358/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹358/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Shea butter, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, 24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51RIihwL8uL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51cgh0UJDYL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51Ff5k8GNcL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61XuyUjqmuL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61jwv1Dn0bL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQCJK4TD",
+  "buyStore": "Amazon",
+  "title": "Rexona Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odour Protection| Limited Edition Pack - ICC Women’s Cricket World Cup India 2025 |50 ML",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:pack",
+   "format:roll-on",
+   "ing:shea-butter",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:antiperspirant",
+   "claim:odour",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "lilo-naturals-b0gx9t8vwf",
+  "brand": "Lilo Naturals",
+  "model": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Bu…",
+  "price": 380,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Rose + Clay + Almond",
+  "featureLine": "Body butter · Aluminium-free",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Body butter",
+   "appliesTo": "Not stated in listing",
+   "keyIngredients": "Rose, Clay, Almond, Shea butter, Jojoba, Magnesium (named on listing)",
+   "freeFrom": "Aluminium-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+zj9xbKYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61p3c7PhaQL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/613PAmSnL5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61JiUCqwhbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716K4NZKH3L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX9T8VWF",
+  "buyStore": "Amazon",
+  "title": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Butter, Mango Butter, Jojoba & Almond Oil | Magnesium & Kaolin Clay | Sensitive Skin Safe | For Men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:clay-mask",
+   "ing:rose",
+   "ing:clay",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:jojoba",
+   "ing:magnesium",
+   "claim:hydrating",
+   "claim:odour",
+   "skin:sensitive",
+   "free:sensitive-safe",
+   "free:aluminium",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
   "id": "foxtale-b0bw9mxx3v",
   "brand": "FoxTale",
   "model": "Nourishing Ceramide Moisturizer for Dry Skin, 120Hr Hydration,50ml | Niacinamide, Kokum Bu…",
@@ -199509,7 +209218,8 @@ const NXPRODUCTS = [
    "evidenceActives": "tocopherol (#30 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #7 on INCI; Dark spots — niacinamide #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51gJ+0PY82L._SL1080_.jpg",
@@ -199544,6 +209254,8 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -199577,6 +209289,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -199584,6 +209297,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -199591,6 +209305,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -199598,6 +209313,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -199605,6 +209321,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -199612,6 +209329,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -199619,6 +209337,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -199626,6 +209345,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -199633,6 +209353,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -199640,6 +209361,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -199647,6 +209369,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     },
     {
@@ -199654,6 +209377,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 36,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -200580,6 +210304,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -200587,6 +210312,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -200594,6 +210320,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -200601,6 +210328,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -200608,6 +210336,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -200615,6 +210344,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -200622,6 +210352,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -200629,6 +210360,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -200636,6 +210368,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -200897,6 +210630,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -200904,6 +210638,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -200911,6 +210646,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -203888,6 +213624,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -203895,6 +213632,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -203902,6 +213640,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -203909,6 +213648,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -203916,6 +213656,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     }
    ],
@@ -205908,6 +215649,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -205915,6 +215657,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -205922,6 +215665,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -205929,6 +215673,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -205936,6 +215681,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -205943,6 +215689,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -205950,6 +215697,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -210367,7 +220115,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00bky9i62",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Shea Smooth 400ml Body Lotion | 72 H Moisturization | With Deep Moisture Serum & Shea Butt…",
   "price": 288,
   "capacityLine": "400 ml",
@@ -211560,6 +221308,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -211567,6 +221316,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -211574,6 +221324,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -211581,6 +221332,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "striae"
     },
     {
@@ -211588,6 +221340,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -211595,6 +221348,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -212715,7 +222469,8 @@ const NXPRODUCTS = [
    "evidenceActives": "rosa canina fruit oil (#16 on list, moderate evidence); simmondsia chinensis seed oil (#17 on list, moderate evidence); helianthus annuus seed oil (#20 on list, moderate evidence); tocopheryl acetate (#26 on list, moderate evidence); tocopherol (#29 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/518cjuqaGjL._SL1000_.jpg",
@@ -212749,6 +222504,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -212782,6 +222538,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -212789,6 +222546,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -212796,6 +222554,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -212803,6 +222562,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -212810,6 +222570,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -212817,6 +222578,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -212824,6 +222586,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -212831,6 +222594,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -212838,6 +222602,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -212845,6 +222610,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -212852,6 +222618,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -212859,6 +222626,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -212866,6 +222634,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 32,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -215724,7 +225493,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41qUg7JBm9L._SL1080_.jpg",
@@ -215752,6 +225522,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -215784,6 +225555,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -215791,6 +225563,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -215798,6 +225571,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -215805,6 +225579,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -215812,6 +225587,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -218414,7 +228190,8 @@ const NXPRODUCTS = [
    "evidenceActives": "paraffinum liquidum (#1 on list, moderate evidence); butyrospermum parkii butter (#10 on list, moderate evidence); helianthus annuus seed oil (#24 on list, moderate evidence); tocopheryl acetate (#28 on list, moderate evidence); tocopherol (#32 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−1.5); EU-declared fragrance allergen: farnesol, limonene, linalool (−1.5); Essential oil / volatile sensitiser: rosmarinus officinalis leaf oil, lavandula angustifolia oil (−1)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #29 on INCI; Dark spots — niacinamide #29 on INCI; Irritation — bisabolol #23 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C8nWAJD3L._SL1500_.jpg",
@@ -218446,6 +228223,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -218478,6 +228258,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -218485,6 +228266,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -218492,6 +228274,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -218499,6 +228282,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "urea"
     },
     {
@@ -218506,6 +228290,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -218513,6 +228298,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -218520,6 +228306,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -218527,6 +228314,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -218534,6 +228322,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -218541,6 +228330,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -218548,6 +228338,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -218555,6 +228346,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 28,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -218562,6 +228354,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -218569,6 +228362,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 32,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -219626,7 +229420,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00frdaaua",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Soft Moisturizing Cream, Lightweight Non-Sticky Daily Moisturizer with 72Hr Hydration, Vit…",
   "price": 294,
   "capacityLine": "200 ml",
@@ -223523,6 +233317,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -223530,6 +233325,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -223537,6 +233333,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -223544,6 +233341,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -223551,6 +233349,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     }
    ],
@@ -227277,6 +237076,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -227284,6 +237084,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 8,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -227291,6 +237092,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -227298,6 +237100,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -227305,6 +237108,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -230492,6 +240296,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -230499,6 +240304,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -230506,6 +240312,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -230513,6 +240320,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -230520,6 +240328,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "urea"
     },
     {
@@ -230527,6 +240336,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -230534,6 +240344,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "aadScrub"
     },
     {
@@ -230541,6 +240352,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 30,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -230548,6 +240360,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 31,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -230555,6 +240368,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 37,
      "core": false,
+     "trace": true,
      "src": "centella"
     }
    ],
@@ -235410,7 +245224,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00kip2fza",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Soft Moisturizing Cream, Lightweight Non-Sticky Daily Moisturizer with 72Hr Hydration, Vit…",
   "price": 108,
   "capacityLine": "50 ml",
@@ -238757,7 +248571,8 @@ const NXPRODUCTS = [
    "evidenceActives": "helianthus annuus seed oil (#2 on list, moderate evidence); theobroma cacao seed butter (#7 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Acne — salicylic acid #8 on INCI; Irritation — aloe barbadensis leaf juice #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/414xWGELN8L._SL1500_.jpg",
@@ -238790,6 +248605,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -238821,6 +248638,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -238828,6 +248646,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -238835,6 +248654,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -238842,6 +248662,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -238849,6 +248670,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -238856,6 +248678,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "greenTea"
     }
    ],
@@ -242473,6 +252296,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "striae"
     },
     {
@@ -242480,6 +252304,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -242487,6 +252312,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -242494,6 +252320,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -242501,6 +252328,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -242508,6 +252336,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -242969,6 +252798,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -242976,6 +252806,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -242983,6 +252814,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -245062,6 +254894,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -245069,6 +254902,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -245076,6 +254910,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "squalane"
     }
    ],
@@ -248120,122 +257955,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "sonark-s-nisargaherbs-b0bjd8729v",
-  "brand": "SONARK'S NISARGAHERBS",
-  "model": "SONARK'S NISARGA HERBS Turmeric & Sweet Orange Body Oil (100ml) – Rejuvenating & Hydrating…",
-  "price": 393,
-  "capacityLine": "100 ml",
-  "materialLine": "Collagen + Turmeric",
-  "featureLine": "Oil · ₹393/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹393/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Collagen, Turmeric (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Dark spots / pigmentation, Anti-aging / wrinkles, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, Sensitive skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61MapiqJzRL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/716M0oZ+ZhL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71cnswtMnPL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71JczYQa1TL._SL1254_.jpg",
-   "https://m.media-amazon.com/images/I/71Dc3d1N0yL._SL1254_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BJD8729V",
-  "buyStore": "Amazon",
-  "title": "SONARK'S NISARGA HERBS Turmeric & Sweet Orange Body Oil (100ml) – Rejuvenating & Hydrating Natural Moisturizer for Oily & Sensitive Skin – Promotes Even Tone, Collagen Support & Healthy Glow",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:collagen",
-   "ing:turmeric",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "claim:ayurvedic",
-   "skin:oily",
-   "skin:combination",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
   "id": "sheny-soft-b0dzhtmzsp",
   "brand": "sheny soft",
   "model": "Body Oil, After Bath oil for Daily Use. Glowing Skin & Deep Hydration for Dry Skin.",
@@ -249214,7 +258933,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00mei235g",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Shea Smooth 200ml Body Lotion | 72 H Moisturization | With Deep Moisture Serum & Shea Butt…",
   "price": 246,
   "capacityLine": "200 ml",
@@ -251409,7 +261128,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "nivea-b00ij72qwq",
-  "brand": "Nivea",
+  "brand": "NIVEA",
   "model": "Nourishing Body Milk 400ml Body Lotion with Hyaluronic Acid | 72Hr Hydration | Deep Moistu…",
   "price": 260,
   "capacityLine": "400 ml",
@@ -253655,6 +263374,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -253662,6 +263382,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -253669,6 +263390,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -253676,6 +263398,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 30,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -253683,6 +263406,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -253690,6 +263414,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 35,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -253697,6 +263422,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 38,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -253704,6 +263430,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 47,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -253711,6 +263438,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 49,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -253718,6 +263446,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 50,
      "core": false,
+     "trace": true,
      "src": "ceramide"
     },
     {
@@ -253725,6 +263454,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 51,
      "core": false,
+     "trace": true,
      "src": "greenTea"
     },
     {
@@ -253732,6 +263462,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 52,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -253739,6 +263470,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 55,
      "core": false,
+     "trace": true,
      "src": "pigment"
     }
    ],
@@ -255023,7 +264755,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#2 on list, moderate evidence); tocopherol (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); EU-declared fragrance allergen: linalool, coumarin (−1)",
    "maker": "LG Household & Health Care — Global FMCG or beauty group",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — beta-glucan #11 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41qUg7JBm9L._SL1080_.jpg",
@@ -255051,6 +264784,7 @@ const NXPRODUCTS = [
    "size:travel",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -255083,6 +264817,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -255090,6 +264825,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -255097,6 +264833,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -255104,6 +264841,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -255111,6 +264849,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -258558,8016 +268297,6 @@ const NXPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "saka-b0drsnhcfn",
-  "brand": "Saka",
-  "model": "Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Sk…",
-  "price": 363,
-  "capacityLine": "100 g",
-  "materialLine": "Coffee + Coconut + Sugar",
-  "featureLine": "Scrub · ₹363/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹363/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee, Coconut, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61q548pJpNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DRSNHCFN",
-  "buyStore": "Amazon",
-  "title": "Saka Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells For Smoother, Softer, And Refreshed Skin | Body Scrub For Woman | Body Scrub For Men",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:scrub",
-   "ing:coffee",
-   "ing:coconut",
-   "ing:sugar",
-   "claim:exfoliating",
-   "claim:cooling",
-   "aud:men",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0ggcjbc9s",
-  "brand": "Unbranded",
-  "model": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, S…",
-  "price": 652,
-  "capacityLine": "300 g",
-  "materialLine": "Sandalwood + Coconut + Sea salt",
-  "featureLine": "Scrub · ₹217/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹217/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Sandalwood, Coconut, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Yhnws6UKL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GGCJBC9S",
-  "buyStore": "Amazon",
-  "title": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, Sesame & Coconut Oils | Detoxifies, Smooths & Hydrates Skin - 300g",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:scrub",
-   "ing:sandalwood",
-   "ing:coconut",
-   "ing:sea-salt",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0bry2lmrg",
-  "brand": "Unbranded",
-  "model": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | De…",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "Sandalwood + Rose + Walnut",
-  "featureLine": "Scrub · ₹299/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Sandalwood, Rose, Walnut, Shea butter, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71pkoIwnIdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BRY2LMRG",
-  "buyStore": "Amazon",
-  "title": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | Dead Skin Tan Removal, Brightening, Dry Dull Skin | Men & Women | 100g",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "format:balm",
-   "format:scrub",
-   "ing:sandalwood",
-   "ing:rose",
-   "ing:walnut",
-   "ing:shea-butter",
-   "ing:olive",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "mcaffeine-b0bdls3wy9",
-  "brand": "mcaffeine",
-  "model": "Body Butter for Dry Skin for both Women and Men | Shea Butter Moisturizer with Cocoa Butte…",
-  "price": 223,
-  "capacityLine": "100 g",
-  "materialLine": "Caffeine + Shea butter + Cocoa butter",
-  "featureLine": "Body butter · ₹223/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹223/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Caffeine, Shea butter, Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, 24h / 48h / 72h (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51AEJvsliaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BDLS3WY9",
-  "buyStore": "Amazon",
-  "title": "mCaffeine Body Butter for Dry Skin for both Women and Men | Shea Butter Moisturizer with Cocoa Butter & Caffeine | Body Cream for 72Hrs Moisturization | Non-Sticky for All Skin Types (100gm)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:caffeine",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:dry",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "baidyanath-b01mfgfput",
-  "brand": "Baidyanath",
-  "model": "Oli Oil | Herbal Body Oil with Italian Olive Oil, Almond Oil, Neem, Sandalwood & Sesame Oi…",
-  "price": 208,
-  "capacityLine": "500 ml",
-  "materialLine": "Turmeric + Sandalwood + Neem",
-  "featureLine": "Oil · ₹42/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹42/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Turmeric, Sandalwood, Neem, Almond, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51+PAnkkYGL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01MFGFPUT",
-  "buyStore": "Amazon",
-  "title": "Baidyanath Oli Oil | Herbal Body Oil with Italian Olive Oil, Almond Oil, Neem, Sandalwood & Sesame Oils, Haldi & 5 Herbs | With Vit E & Antioxidants | Nourishes Dry Skin, Non-Sticky & Fast Absorbing | 500ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:turmeric",
-   "ing:sandalwood",
-   "ing:neem",
-   "ing:almond",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:ayurvedic",
-   "skin:dry",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "keo-b07qvjwtnf",
-  "brand": "Keo",
-  "model": "Karpin Ayurvedic Body Oil | Non-Sticky, Sandal Fragranced Herbal Body Oil, Enriched With O…",
-  "price": 232,
-  "capacityLine": "500 ml",
-  "materialLine": "Turmeric + Neem + Olive",
-  "featureLine": "Oil · ₹46/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹46/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Turmeric, Neem, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71lwvO5aOIL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07QVJWTNF",
-  "buyStore": "Amazon",
-  "title": "Keo Karpin Ayurvedic Body Oil | Non-Sticky, Sandal Fragranced Herbal Body Oil, Enriched With Olive Oil, Neem And Haldi | 500ml |",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:turmeric",
-   "ing:neem",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "keya-seth-b0821h1929",
-  "brand": "Keya Seth",
-  "model": "Aromatherapy Skin Defence Orange Body Oil Skin Lightening, Rejuvenating Non-Sticky for Dai…",
-  "price": 399,
-  "capacityLine": "400 ml",
-  "materialLine": "Vitamin C",
-  "featureLine": "Oil · ₹100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹100/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Whitening / fairness (claim), Oil control / matte / non-greasy (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51gltZT+i8L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0821H1929",
-  "buyStore": "Amazon",
-  "title": "Keya Seth Aromatherapy Skin Defence Orange Body Oil Skin Lightening, Rejuvenating Non-Sticky for Daily Use After Bath, Massage Oil Enriched with Orange & Vitamin C (400 ml (Pack of 1))",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:kit",
-   "ing:vitamin-c",
-   "claim:whitening-claim",
-   "claim:oil-control",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b07r3tv8m3",
-  "brand": "Unbranded",
-  "model": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscl…",
-  "price": 220,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹110/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹110/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ui+ZQLDTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07R3TV8M3",
-  "buyStore": "Amazon",
-  "title": "KERALA ayurveda Dhanawantaram Thailam Full Body Massage Oil, 200 ml | Relaxes body & muscles, eases joint aches & stiffness for mobility. Moisturizes skin & reduces stretch mark appearance",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "claim:stretch-marks",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h3l3jpxg",
-  "brand": "Unbranded",
-  "model": "Massage Oil, Relaxing Body Oil for Soothing Skin Care A 30ml",
-  "price": 177,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹590/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹590/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/415-qwUTHDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3L3JPXG",
-  "buyStore": "Amazon",
-  "title": "Massage Oil, Relaxing Body Oil for Soothing Skin Care A 30ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:soothing",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "nabhi-b0h87q63v7",
-  "brand": "Nabhi",
-  "model": "Oil Ayurvedic Herbal Navel Care | Daily Wellness Body Oil | Lightweight Fast Absorbing For…",
-  "price": 239,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61mVylntpML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H87Q63V7",
-  "buyStore": "Amazon",
-  "title": "Nabhi Oil Ayurvedic Herbal Navel Care | Daily Wellness Body Oil | Lightweight Fast Absorbing Formula for Hydration Relaxation & Self Care for Men & Women",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:ayurvedic",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h65sgvrk",
-  "brand": "Unbranded",
-  "model": "Massage Oil, Relaxing Body Oil for Soothing Massage, Liquid Form C 73",
-  "price": 149,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614HP69L4YL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H65SGVRK",
-  "buyStore": "Amazon",
-  "title": "Massage Oil, Relaxing Body Oil for Soothing Massage, Liquid Form C 73",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:soothing",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "himalaya-baby-b00nokrpd8",
-  "brand": "Himalaya Baby",
-  "model": "Massage Oil 500ml | All-round growth | Strong Bones & Muscles | Ashwagandha, Country Mallo…",
-  "price": 363,
-  "capacityLine": "500 ml",
-  "materialLine": "Aloe vera + Vitamin E",
-  "featureLine": "Oil · ₹73/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹73/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aloe vera, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Himalaya Wellness — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61tVKJowJaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00NOKRPD8",
-  "buyStore": "Amazon",
-  "title": "Himalaya Baby Massage Oil 500ml | All-round growth | Strong Bones & Muscles | Ashwagandha, Country Mallow & Aloe Vera | No.1 Dr. Recommended Brand| Vitamin E | 99% NOI | Mineral oil free",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:aloe-vera",
-   "ing:vitamin-e",
-   "free:mineral-oil",
-   "free:oil-free",
-   "aud:kids",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Himalaya Wellness",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://himalayawellness.in/pages/about-us"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "weight-b0hbbk78cd",
-  "brand": "Weight",
-  "model": "Management Nabhi Oil for Men & Women 30ml | Herbal Belly Button Oil | Ayurvedic Botanical …",
-  "price": 399,
-  "capacityLine": "30 ml",
-  "materialLine": "Turmeric + Lemon",
-  "featureLine": "Oil · ₹1330/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1330/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Turmeric, Lemon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61DIEuQEC1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBBK78CD",
-  "buyStore": "Amazon",
-  "title": "Weight Management Nabhi Oil for Men & Women 30ml | Herbal Belly Button Oil | Ayurvedic Botanical Formula with Ginger, Turmeric & Lemon Oils | Nourishing Nabhi Massage Oil for Daily Self-Care & Wellness Routine",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:turmeric",
-   "ing:lemon",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "the-body-shop-b000hghhd0",
-  "brand": "The Body Shop",
-  "model": "Strawberry Softening Body Butter, 200ml",
-  "price": 717,
-  "capacityLine": "200 ml",
-  "materialLine": "Strawberry",
-  "featureLine": "Body butter · ₹359/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹359/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Strawberry (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "The Body Shop International — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81p-IgeAjDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B000HGHHD0",
-  "buyStore": "Amazon",
-  "title": "The Body Shop Strawberry Softening Body Butter, 200ml",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:strawberry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "The Body Shop International",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.thebodyshop.com/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "plum-b0frn27gm2",
-  "brand": "Plum",
-  "model": "BodyLovin' Marshmallow Melt Body Butter | Shea Butter & Brazil Nut Oil for Deep Moisturiza…",
-  "price": 467,
-  "capacityLine": "180 g",
-  "materialLine": "Shea butter + Cocoa butter",
-  "featureLine": "Body butter · ₹259/100g",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Plum official website (plumgoodness.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "helianthus annuus seed oil high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
-  ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
-  "scores": {
-   "ingredients": 6.5,
-   "skin": 7.7,
-   "trust": 7,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "180 g",
-   "pricePer100": "₹259/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
-   "inciSourceUrl": "https://plumgoodness.com/products/marshmallow-melt-body-butter-by-plum-bodylovin",
-   "inciMatchedName": "Marshmallow Melt Body Butter by BodyLovin' (name match 100%)",
-   "inciList": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Fragrance, Stearic Acid, Bertholletia Excelsa (Brazil Nut) Seed Oil, Tocopherol, Niacinamide, Phenoxyethanol, Triethanolamine, Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
-   "evidenceActives": "helianthus annuus seed oil (#2 on list, moderate evidence); butyrospermum parkii butter (#6 on list, moderate evidence); tocopherol (#10 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
-   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51dGVD-6UiL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FRN27GM2",
-  "buyStore": "Amazon",
-  "title": "Plum BodyLovin' Marshmallow Melt Body Butter | Shea Butter & Brazil Nut Oil for Deep Moisturization | Non-Greasy & Lightweight | Buttery Soft, Smooth & Moisturised Skin | For Dry To Very Dry Skin | Cozy Cocoa Fragrance | 180gm",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Plum official website (plumgoodness.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://plumgoodness.com/products/marshmallow-melt-body-butter-by-plum-bodylovin",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Marshmallow Melt Body Butter by BodyLovin'",
-   "inciMatchScore": 1,
-   "inciText": "Aqua, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Butyrospermum Parkii (Shea) Butter, Fragrance, Stearic Acid, Bertholletia Excelsa (Brazil Nut) Seed Oil, Tocopherol, Niacinamide, Phenoxyethanol, Triethanolamine, Ethylhexylglycerin, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.9,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "helianthus annuus seed oil",
-     "grade": "B",
-     "position": 2,
-     "core": true,
-     "src": "squalane"
-    },
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 5,
-     "core": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 6,
-     "core": true,
-     "src": "petrolatum"
-    },
-    {
-     "name": "tocopherol",
-     "grade": "B",
-     "position": 10,
-     "core": true,
-     "src": "vitc"
-    },
-    {
-     "name": "niacinamide",
-     "grade": "A",
-     "position": 11,
-     "core": false,
-     "src": "niacinamide"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butyrospermum parkii butter",
-    "niacinamide"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": "Pureplay Skin Sciences",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://plumgoodness.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "nuerma-b0br1qhtd1",
-  "brand": "Nuerma",
-  "model": "Science Ayurvedic Kumkumadi (Kesar) Body Butter For Intense Moisturization and Radiant Ski…",
-  "price": 199,
-  "capacityLine": "200 g",
-  "materialLine": "Aloe vera + Saffron + Kumkumadi",
-  "featureLine": "Body butter · ₹100/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹100/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Saffron, Kumkumadi, Shea butter, Cocoa butter, Licorice, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/616ME9HkNmL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BR1QHTD1",
-  "buyStore": "Amazon",
-  "title": "Nuerma Science Ayurvedic Kumkumadi (Kesar) Body Butter For Intense Moisturization and Radiant Skin Glow enriched with Vitamin E Oil, Shea Cocoa Butter, Mulethi Extract & Aloe Vera- 200 GM",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:aloe-vera",
-   "ing:saffron",
-   "ing:kumkumadi",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:licorice",
-   "ing:vitamin-e",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "the-body-shop-b0g591p99b",
-  "brand": "The Body Shop",
-  "model": "Dewberry Body Butter 200ml Intensive Moisturiser for Dry Skin, Fruity and Floral Scent wit…",
-  "price": 1017,
-  "capacityLine": "200 ml",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹509/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹509/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "The Body Shop International — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81BPs7FoqVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G591P99B",
-  "buyStore": "Amazon",
-  "title": "The Body Shop Dewberry Body Butter 200ml Intensive Moisturiser for Dry Skin, Fruity and Floral Scent with Community Fair Trade Shea Butter, 96-Hour Deep Hydration",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "The Body Shop International",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.thebodyshop.com/"
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "the-body-shop-b0gs76hhg7",
-  "brand": "The Body Shop",
-  "model": "White Tea & Elderflower Body Butter 200ml",
-  "price": 1610,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body butter · ₹805/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹805/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "The Body Shop International — Indian D2C brand with its own product company",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71u+KRTiZqL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GS76HHG7",
-  "buyStore": "Amazon",
-  "title": "The Body Shop White Tea & Elderflower Body Butter 200ml",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "The Body Shop International",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.thebodyshop.com/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h11nglds",
-  "brand": "Unbranded",
-  "model": "Velvet Roast Body Butter | Enriched with Vanilla, Coffee Oil & Shea Butter | Deep Hydratio…",
-  "price": 446,
-  "capacityLine": "90 g",
-  "materialLine": "Coffee + Shea butter",
-  "featureLine": "Body butter · ₹496/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "90 g",
-   "pricePer100": "₹496/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee, Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Dry skin, Combination skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61mhsao5KwL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H11NGLDS",
-  "buyStore": "Amazon",
-  "title": "Velvet Roast Body Butter | Enriched with Vanilla, Coffee Oil & Shea Butter | Deep Hydration, Lightweight | No synthetic fragrances, Non-greasy | Suitable for Dry, Combination Skin, 90gm",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:coffee",
-   "ing:shea-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "skin:combination",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0g47wyw1w",
-  "brand": "Unbranded",
-  "model": "Golden Hour Whipped Body Butter 100g | Radiant Hydration with Shea Butter & 6 Botanical Oi…",
-  "price": 749,
-  "capacityLine": "100 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹749/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹749/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61rVKsnJheL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G47WYW1W",
-  "buyStore": "Amazon",
-  "title": "Golden Hour Whipped Body Butter 100g | Radiant Hydration with Shea Butter & 6 Botanical Oils | Natural Glow | Non-Greasy | Dermatologist Tested | Dry to Very Dry Skin",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "free:derm",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b09c1274s6",
-  "brand": "Unbranded",
-  "model": "Hibiscus Monkey Cuddles, Elbow & Knee Balm | Reduces Discoloration, Deeply Moisturizes Dry…",
-  "price": 484,
-  "capacityLine": "50 g",
-  "materialLine": "Shea butter + Vitamin E + Coconut",
-  "featureLine": "Body butter · ₹968/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹968/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Vitamin E, Coconut, Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61C2SNiH04L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09C1274S6",
-  "buyStore": "Amazon",
-  "title": "Hibiscus Monkey Cuddles, Elbow & Knee Balm | Reduces Discoloration, Deeply Moisturizes Dry and Rough Skin | Shea butter, Coconut Milk Oil, Vitamin E | Natural, Chemical Free | 50g",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:coconut",
-   "ing:milk",
-   "claim:hydrating",
-   "free:toxin-free",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "sunny-b0b1j8513j",
-  "brand": "Sunny",
-  "model": "Cocoa Butter Body Lotion | An Excellent Moisturizer | Almond oil Improve Moisture Absorpti…",
-  "price": 231,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "Almond + Cocoa butter",
-  "featureLine": "Body butter · ₹116/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹116/100ml",
-   "format": "Body butter",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Almond, Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Dark circles / puffiness (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ZGgqugYSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B1J8513J",
-  "buyStore": "Amazon",
-  "title": "Sunny Cocoa Butter Body Lotion | An Excellent Moisturizer | Almond oil Improve Moisture Absorption in Skin | Rejuvenates Skin and Lightens Undereye Dark Circles | For All Skin Type 100ml (Pack of 2)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "claim:hydrating",
-   "claim:dark-circles",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "nivea-b01gq1ew3c",
-  "brand": "Nivea",
-  "model": "Cocoa Nourish 200ml Body Lotion with Deep Moisture Serum| 48 H Moisturization | With Cocoa…",
-  "price": 201,
-  "capacityLine": "200 ml",
-  "materialLine": "Cocoa butter + Coconut",
-  "featureLine": "Body butter · ₹101/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹101/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Cocoa butter, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Beiersdorf — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51iIjod36PL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01GQ1EW3C",
-  "buyStore": "Amazon",
-  "title": "NIVEA Cocoa Nourish 200ml Body Lotion with Deep Moisture Serum| 48 H Moisturization | With Cocoa Butter & Coconut Oil | Non Greasy & Healthy Looking Skin |For Very Dry Skin",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:balm",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Beiersdorf",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.beiersdorf.com/brands/nivea"
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "embryolisse-b08q6glmpt",
-  "brand": "Embryolisse",
-  "model": "Lait Crème Sensitive Moisturizer. Hypoallergenic Face & Body Cream for All Skin Types With…",
-  "price": 2515,
-  "capacityLine": "100 ml",
-  "materialLine": "Aloe vera + Shea butter",
-  "featureLine": "Body butter · Fragrance-free · ₹2515/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹2515/100ml",
-   "format": "Body butter",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Aloe vera, Shea butter (named on listing)",
-   "freeFrom": "Fragrance-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+Mgary5OL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08Q6GLMPT",
-  "buyStore": "Amazon",
-  "title": "Embryolisse Lait Crème Sensitive Moisturizer. Hypoallergenic Face & Body Cream for All Skin Types With Aloe Vera & Shea Butter. Fragrance-Free & Suitable for Sensitive Skin, 100 ml",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:balm",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "skin:sensitive",
-   "skin:all",
-   "free:fragrance",
-   "free:hypoallergenic",
-   "free:sensitive-safe",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "venusia-b0b9ggx8z8",
-  "brand": "Venusia",
-  "model": "Dr. Reddy's Baby Intensive Moisturizing Cream | Safe, Hydrating and Gentle | Goodness of S…",
-  "price": 331,
-  "capacityLine": "75 g",
-  "materialLine": "Aloe vera + Shea butter + Cocoa butter",
-  "featureLine": "Cream · ₹441/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Made by Dr. Reddy's Laboratories (dermatology / pharma maker)",
-   "Well-reviewed: 4.5★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "75 g",
-   "pricePer100": "₹441/100g",
-   "format": "Cream",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Aloe vera, Shea butter, Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Another way to buy ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Dr. Reddy's Laboratories — Dermatology / pharmaceutical manufacturer",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41BXFg5qTTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0B9GGX8Z8",
-  "buyStore": "Amazon",
-  "title": "VENUSIA Dr. Reddy's Baby Intensive Moisturizing Cream | Safe, Hydrating and Gentle | Goodness of Shea, Aloe, Cocoa and Mango Butters | Soothes Baby Skin | 75g",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "ing:aloe-vera",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:hydrating",
-   "claim:soothing",
-   "aud:kids",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none",
-   "inci:pharma-maker"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": true
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Dr. Reddy's Laboratories",
-    "kind": "pharma",
-    "label": "Dermatology / pharmaceutical manufacturer",
-    "pts": 8,
-    "url": "https://www.drreddys.com/"
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hhhqnzds",
-  "brand": "Unbranded",
-  "model": "Intensive Moisturizing Cream 100g | 24Hr Hydration for Dry & Very Dry Skin, Face & Body Mo…",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "Almond + Cocoa butter + Vitamin E",
-  "featureLine": "Body butter · ₹299/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Body butter",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Almond, Cocoa butter, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Z+RL57-kL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HHHQNZDS",
-  "buyStore": "Amazon",
-  "title": "Intensive Moisturizing Cream 100g | 24Hr Hydration for Dry & Very Dry Skin, Face & Body Moisturizer, Mango Butter, Cocoa Butter, Vitamin E & Almond Oil",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h7wyqpjz",
-  "brand": "Unbranded",
-  "model": "Body Lotion for Women & Men 200ml (1 PCS) Hydrating Moisturizing Body Lotion with Vitamin …",
-  "price": 323,
-  "capacityLine": "200 ml",
-  "materialLine": "Honey + Shea butter + Vitamin E",
-  "featureLine": "Body butter · ₹162/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹162/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Honey, Shea butter, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71nn26HZtSL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H7WYQPJZ",
-  "buyStore": "Amazon",
-  "title": "Body Lotion for Women & Men 200ml (1 PCS) Hydrating Moisturizing Body Lotion with Vitamin E, Olive Oil, Shea Butter & Honey | Non-Greasy Long Lasting Perfume Body Moisturizer For Dry Skin",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:honey",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gn8fxhbc",
-  "brand": "Unbranded",
-  "model": "Luxury Body Massage Oil for Date Night Spa Mood, Vitamin C Glow & Non Greasy Softness 200m…",
-  "price": 179,
-  "capacityLine": "200 ml",
-  "materialLine": "Vitamin C",
-  "featureLine": "Oil · ₹90/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹90/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin C (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Oil control / matte / non-greasy (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "2.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71mzVNjbRVL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN8FXHBC",
-  "buyStore": "Amazon",
-  "title": "Luxury Body Massage Oil for Date Night Spa Mood, Vitamin C Glow & Non Greasy Softness 200ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:oil-control",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b08pc3gl94",
-  "brand": "Unbranded",
-  "model": "Body Massage Oil (Rose, 50 ml (Pack of 1))",
-  "price": 415,
-  "capacityLine": "50 ml",
-  "materialLine": "Rose",
-  "featureLine": "Oil · ₹830/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹830/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Rose (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61xpeTWFSQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08PC3GL94",
-  "buyStore": "Amazon",
-  "title": "Body Massage Oil (Rose, 50 ml (Pack of 1))",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:kit",
-   "ing:rose",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "smoke-b0h2q6mf9r",
-  "brand": "Smoke",
-  "model": "Pain Relief & Massage Oil – Fast Soothing Herbal Body Oil for Muscle & Joint Comfort – Dee…",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/31+m+yRyZsL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2Q6MF9R",
-  "buyStore": "Amazon",
-  "title": "Smoke Pain Relief & Massage Oil – Fast Soothing Herbal Body Oil for Muscle & Joint Comfort – Deep Penetrating Non-Greasy Massage Oil for Back, Neck, Knee & Shoulder Relaxation (Pack of 1)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:kit",
-   "claim:oil-control",
-   "claim:soothing",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "sexy-b0dzhtgmxd",
-  "brand": "Sexy",
-  "model": "Body Massage Oil Pack Of 1",
-  "price": 141,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71jAf-gY7pL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DZHTGMXD",
-  "buyStore": "Amazon",
-  "title": "Sexy Body Massage Oil Pack Of 1",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:kit",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h45zb8jj",
-  "brand": "Unbranded",
-  "model": "Massage Oil, Relaxing Body Oil for Soothing Skin Care 32 A 30ml",
-  "price": 377,
-  "capacityLine": "30 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹1257/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹1257/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61BTAM5xYBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H45ZB8JJ",
-  "buyStore": "Amazon",
-  "title": "Massage Oil, Relaxing Body Oil for Soothing Skin Care 32 A 30ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:soothing",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0c7l8l5hv",
-  "brand": "Unbranded",
-  "model": "Ayurvedic Back Pain Relief Oil 200 ml | Herbal Massage Oil for Lower Back, Joint & Muscle …",
-  "price": 1299,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹650/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹650/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/81RTJeoPzEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C7L8L5HV",
-  "buyStore": "Amazon",
-  "title": "Ayurvedic Back Pain Relief Oil 200 ml | Herbal Massage Oil for Lower Back, Joint & Muscle Pain | Helps Ease Sciatica Discomfort, Inflammation & Stiffness",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "judex-b0gtv7xs9t",
-  "brand": "Judex",
-  "model": "Blue Breeze Aromatherapy Bath Oil 50 ml | Water Soluble Bathing Oil with Refreshing Aqua F…",
-  "price": 282,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹564/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹564/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41590cTJDZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTV7XS9T",
-  "buyStore": "Amazon",
-  "title": "Judex Blue Breeze Aromatherapy Bath Oil 50 ml | Water Soluble Bathing Oil with Refreshing Aqua Fragrance | Spa & Self-Care Experience for Men & Women",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:cooling",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "khadi-b07z854h8g",
-  "brand": "Khadi",
-  "model": "Pure Herbal Bath Oil, 210 ml",
-  "price": 249,
-  "capacityLine": "210 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹119/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "210 ml",
-   "pricePer100": "₹119/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "2.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Khadi Natural Healthcare — Indian D2C brand with its own product company",
-   "buyerEvidence": "2.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61TwMWJoFFL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07Z854H8G",
-  "buyStore": "Amazon",
-  "title": "Khadi Pure Herbal Bath Oil, 210 ml",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:large",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Khadi Natural Healthcare",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://khadinatural.com/"
-   },
-   "buyers": "2.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0bpbw5vlm",
-  "brand": "Unbranded",
-  "model": "After Bath Body Oil For Women | Daily Use, Massage & Glowing Skin | For All Skin Types | F…",
-  "price": 200,
-  "capacityLine": "50 ml",
-  "materialLine": "Lavender",
-  "featureLine": "Oil · ₹400/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹400/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Eetzr3+wL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BPBW5VLM",
-  "buyStore": "Amazon",
-  "title": "After Bath Body Oil For Women | Daily Use, Massage & Glowing Skin | For All Skin Types | For Men & Women | French Lavender | 50 ML",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:lavender",
-   "claim:brightening",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b09ftqj7dm",
-  "brand": "Unbranded",
-  "model": "The Best Pure Smell Fragrance Oil Orange- Aqua-Cinnamon -Papaya For Spa Relax Luxury Bath …",
-  "price": 460,
-  "capacityLine": "40 ml",
-  "materialLine": "Papaya",
-  "featureLine": "Oil · ₹1150/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 ml",
-   "pricePer100": "₹1150/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Papaya (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71LbuO978eL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09FTQJ7DM",
-  "buyStore": "Amazon",
-  "title": "The Best Pure Smell Fragrance Oil Orange- Aqua-Cinnamon -Papaya For Spa Relax Luxury Bath Oil (40 Ml)",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:papaya",
-   "claim:odour",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "abhyangana-b0djy6wrg6",
-  "brand": "Abhyangana",
-  "model": "Oil by Teja Organics I 200ml I Bath Oil",
-  "price": 265,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹133/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹133/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614CdA8MpyL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DJY6WRG6",
-  "buyStore": "Amazon",
-  "title": "Abhyangana Oil by Teja Organics I 200ml I Bath Oil",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dn61g4bv",
-  "brand": "Unbranded",
-  "model": "Earth Matters Orange & Geranium Harmony Bath & Body Oil | 100% Natural & Chemical-Free | N…",
-  "price": 665,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹665/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹665/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles, Oil control / matte / non-greasy, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71oSyJmVFoL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DN61G4BV",
-  "buyStore": "Amazon",
-  "title": "Earth Matters Orange & Geranium Harmony Bath & Body Oil | 100% Natural & Chemical-Free | Non-Greasy, Fast Absorbing Daily Use Oil | Uplifting Massage & Aromatherapy – 100ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:anti-aging",
-   "claim:oil-control",
-   "claim:lightweight",
-   "free:toxin-free",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0czx93grt",
-  "brand": "Unbranded",
-  "model": "Spa Ceylon Aloe Vera and Pandanus Massage and Bath Oil | Natural Therapy Blend | Soothing …",
-  "price": 1319,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Aloe vera",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Soothing / calming, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61CAkNmOyZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CZX93GRT",
-  "buyStore": "Amazon",
-  "title": "Spa Ceylon Aloe Vera and Pandanus Massage and Bath Oil | Natural Therapy Blend | Soothing Body Ritual | Ayurveda",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:aloe-vera",
-   "claim:soothing",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "rockside-b0dsp552b1",
-  "brand": "ROCKSIDE",
-  "model": "Herbal Patchouli Bath Oil for Natural Skin, Moisturizing & Nourishing Shower Oil for Body …",
-  "price": 550,
-  "capacityLine": "210 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹262/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "210 ml",
-   "pricePer100": "₹262/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/717gjFPUdJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DSP552B1",
-  "buyStore": "Amazon",
-  "title": "ROCKSIDE Herbal Patchouli Bath Oil for Natural Skin, Moisturizing & Nourishing Shower Oil for Body (Pack Of 1, 210ML)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:kit",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coffee-infused-b0gmpqjptp",
-  "brand": "Coffee-Infused",
-  "model": "Body Oil for Smooth, Firm & Glowing Skin",
-  "price": 149,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coffee",
-  "featureLine": "Oil",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61jUQZRXMXL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GMPQJPTP",
-  "buyStore": "Amazon",
-  "title": "Coffee-Infused Body Oil for Smooth, Firm & Glowing Skin",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:coffee",
-   "claim:brightening",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0cgln2dkm",
-  "brand": "Unbranded",
-  "model": "Kumkumadi Oil For Skin Lightening & Glowing Skin (30ml)",
-  "price": 170,
-  "capacityLine": "30 ml",
-  "materialLine": "Kumkumadi",
-  "featureLine": "Oil · ₹567/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹567/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Kumkumadi (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Whitening / fairness (claim) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61QZjchS-xL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CGLN2DKM",
-  "buyStore": "Amazon",
-  "title": "Kumkumadi Oil For Skin Lightening & Glowing Skin (30ml)",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:kumkumadi",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "caraway-b0gw3jsb8r",
-  "brand": "CARAWAY®",
-  "model": "100% Raw Shea Butter Organic Body Cream for Dry to Very Dry Skin | Long Lasting Moisturize…",
-  "price": 445,
-  "capacityLine": "100 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹445/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹445/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61QuqtTM4qL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GW3JSB8R",
-  "buyStore": "Amazon",
-  "title": "CARAWAY® 100% Raw Shea Butter Organic Body Cream for Dry to Very Dry Skin | Long Lasting Moisturizer | Non-Sticky All Season Formula | 100 g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "jovees-b0056lbfs4",
-  "brand": "Jovees",
-  "model": "Herbal Shea Butter Moisturiser | With Shea Butter & Fruit Extracts | Reduces Skin Inflamma…",
-  "price": 252,
-  "capacityLine": "100 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹252/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹252/100g",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51REX95qpQL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0056LBFS4",
-  "buyStore": "Amazon",
-  "title": "Jovees Herbal Shea Butter Moisturiser | With Shea Butter & Fruit Extracts | Reduces Skin Inflammation & Restores Hydration | For Normal & Dry Skin 100g",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Jovees Herbal Care India",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.jovees.com/"
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "sk-b07mz4h8pj",
-  "brand": "sk",
-  "model": "organic raw unrefined shea butter 250 gm for dry skin",
-  "price": 417,
-  "capacityLine": "250 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹167/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "250 g",
-   "pricePer100": "₹167/100g",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71U2aJSr8tL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07MZ4H8PJ",
-  "buyStore": "Amazon",
-  "title": "sk organic raw unrefined shea butter 250 gm for dry skin",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "ing:shea-butter",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b09myxmgy5",
-  "brand": "Unbranded",
-  "model": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin…",
-  "price": 499,
-  "capacityLine": "200 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹250/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹250/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71hOgVosn0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B09MYXMGY5",
-  "buyStore": "Amazon",
-  "title": "Body Butter Enriched With Shea Butter & Vitamin-E - 200gm | Deep Moisturizing For Dry Skin & All Day Moisture Lock | For All Skin Types & Healing Stretch Marks | 100% Organic",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:stretch-marks",
-   "skin:dry",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0d2lgkrmv",
-  "brand": "Unbranded",
-  "model": "Body Butter for Women Dry Skin Enriched with Sandalwood Oil Almond Oil Shea Butter Spanish…",
-  "price": 2500,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Saffron + Sandalwood + Almond",
-  "featureLine": "Body butter",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Saffron, Sandalwood, Almond, Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Dry skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71bH2J3ZyeL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D2LGKRMV",
-  "buyStore": "Amazon",
-  "title": "Body Butter for Women Dry Skin Enriched with Sandalwood Oil Almond Oil Shea Butter Spanish Saffron and Mango Body Butter for Smooth and Shinny Skin(Pack5)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:saffron",
-   "ing:sandalwood",
-   "ing:almond",
-   "ing:shea-butter",
-   "skin:dry",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b07cffw5tm",
-  "brand": "Unbranded",
-  "model": "Petal Fresh Pure Firming Pomegranate & Grapefruit Body Butter - 237 ml | Organic Coconut O…",
-  "price": 835,
-  "capacityLine": "237 ml",
-  "materialLine": "Collagen + Shea butter + Argan oil",
-  "featureLine": "Body butter · ₹352/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "237 ml",
-   "pricePer100": "₹352/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Collagen, Shea butter, Argan oil, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61hshLmOgUL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B07CFFW5TM",
-  "buyStore": "Amazon",
-  "title": "Petal Fresh Pure Firming Pomegranate & Grapefruit Body Butter - 237 ml | Organic Coconut Oil, Argan Oil, Shea Butter | Promotes Collagen | Natural Ingredients, Vegan and Cruelty Free",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:collagen",
-   "ing:shea-butter",
-   "ing:argan-oil",
-   "ing:coconut",
-   "claim:anti-aging",
-   "free:vegan",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h452yjmg",
-  "brand": "Unbranded",
-  "model": "Timb Avocado & Saffron Body Butter | Shea Butter with Vit E | Deep Moisturizer for Dry Ski…",
-  "price": 479,
-  "capacityLine": "50 g",
-  "materialLine": "Saffron + Shea butter + Avocado",
-  "featureLine": "Body butter · ₹958/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹958/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Saffron, Shea butter, Avocado (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ve3HQNC1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H452YJMG",
-  "buyStore": "Amazon",
-  "title": "Timb Avocado & Saffron Body Butter | Shea Butter with Vit E | Deep Moisturizer for Dry Skin | Non‑Sticky, Quick‑Absorbing | 50g x 2",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:saffron",
-   "ing:shea-butter",
-   "ing:avocado",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "prominent-b0fj1h1qmh",
-  "brand": "Prominent",
-  "model": "Body Lotion Shea Butter 50 ml | Deep Moisturizing Formula | Nourishing Shea Butter Enriche…",
-  "price": 145,
-  "capacityLine": "50 ml",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹290/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹290/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51bj3SYXUEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FJ1H1QMH",
-  "buyStore": "Amazon",
-  "title": "Prominent Body Lotion Shea Butter 50 ml | Deep Moisturizing Formula | Nourishing Shea Butter Enriched | Non Greasy Lightweight Texture | Suitable For All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0f8vk3j3l",
-  "brand": "Unbranded",
-  "model": "Body lotion - 270ML (Pack Of 2) | Nourishing | Hydrating & Soft Supple | Healthy Skin with…",
-  "price": 399,
-  "capacityLine": "540 ml (pack of 2)",
-  "materialLine": "Niacinamide + Centella / cica + Shea butter",
-  "featureLine": "Body butter · ₹74/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "270 ml × 2 pack",
-   "pricePer100": "₹74/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Centella / cica, Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/512syWmh2GL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F8VK3J3L",
-  "buyStore": "Amazon",
-  "title": "Body lotion - 270ML (Pack Of 2) | Nourishing | Hydrating & Soft Supple | Healthy Skin with Niacinamide |Cica And Shea Butter | Hydrating, Moisturising",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:balm",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:centella-cica",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "mamaearth-b0dqjqrwpj",
-  "brand": "Mamaearth",
-  "model": "Cocoa Rich Moisturizing Cream with Cocoa Butter & Vit E for Deep Nourishment 50g | For Fac…",
-  "price": 119,
-  "capacityLine": "50 g",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹238/100g",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Mamaearth official website (mamaearth.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "butyrospermum parkii butter high on the INCI list (moderate evidence); theobroma cacao seed butter high on the INCI list (limited evidence)"
-  ],
-  "cons": [
-   "Formaldehyde-releasing preservative: imidazolidinyl urea"
-  ],
-  "scores": {
-   "ingredients": 6.5,
-   "skin": 8.5,
-   "trust": 8,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹238/100g",
-   "format": "Body butter",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing, 24h / 48h / 72h (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
-   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-cream-with-cocoa-butter-vitamin-e-for-deep-nourishment-50-g",
-   "inciMatchedName": "Cocoa Rich Moisturizing Cream with Cocoa Butter & Vitamin E for Deep Nourishment - 50 g (name match 88%)",
-   "inciList": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol (Zemea), Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris (Rapeseed) Sterols, Sodium Hydroxide, Sodium Gluconate",
-   "evidenceActives": "butyrospermum parkii butter (#6 on list, moderate evidence); theobroma cacao seed butter (#15 on list, limited evidence); tocopheryl acetate (#18 on list, moderate evidence)",
-   "safetyFlags": "Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
-   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41Vhx40I4TL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DQJQRWPJ",
-  "buyStore": "Amazon",
-  "title": "Mamaearth Cocoa Rich Moisturizing Cream with Cocoa Butter & Vit E for Deep Nourishment 50g | For Face, Hand & Body | 24H Long-lasting Moisturization | Non-Greasy & Quick Absorbing | All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:balm",
-   "ing:cocoa-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site",
-   "inci:no-fragrance"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Mamaearth official website (mamaearth.in) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://mamaearth.in/products/cocoa-rich-moisturizing-cream-with-cocoa-butter-vitamin-e-for-deep-nourishment-50-g",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "Cocoa Rich Moisturizing Cream with Cocoa Butter & Vitamin E for Deep Nourishment - 50 g",
-   "inciMatchScore": 0.88,
-   "inciText": "Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Theobroma Cacao (Cocoa) Extract, Isopropyl Myristate, Butyrospermum Parkii (Shea) Butter, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, C15-19 Alkane, Lauryl Glucoside, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera Extract, Propanediol (Zemea), Stearic Acid, Theobroma Cacao Seed Butter, Phenoxyethanol, Ethylhexylglycerin, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Cetearyl Ethylhexanoate, Pentylene Glycol, Fructose, Urea, Citric Acid, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate (Hyaluronic Acid), Hydrogenated Ethylhexyl Olivate, Hydrogenated Olive Oil Unsaponifiables, IFRA Certified Allergen Free Fragrance, Imidazolidinyl Urea, Hexyldecanol, Bisabolol, Cetylhydroxyproline Palmitamide, Brassica Campestris (Rapeseed) Sterols, Sodium Hydroxide, Sodium Gluconate",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 1,
-   "recognised": 0.98,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 2,
-     "core": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 6,
-     "core": true,
-     "src": "petrolatum"
-    },
-    {
-     "name": "theobroma cacao seed butter",
-     "grade": "C",
-     "position": 15,
-     "core": true,
-     "src": "striae"
-    },
-    {
-     "name": "tocopheryl acetate",
-     "grade": "B",
-     "position": 18,
-     "core": true,
-     "src": "vitc"
-    },
-    {
-     "name": "urea",
-     "grade": "A",
-     "position": 23,
-     "core": false,
-     "src": "urea"
-    },
-    {
-     "name": "citric acid",
-     "grade": "C",
-     "position": 24,
-     "core": false,
-     "src": "aha"
-    },
-    {
-     "name": "sodium chloride",
-     "grade": "C",
-     "position": 27,
-     "core": false,
-     "src": "aadScrub"
-    },
-    {
-     "name": "allantoin",
-     "grade": "C",
-     "position": 30,
-     "core": false,
-     "src": "panthenol"
-    },
-    {
-     "name": "sodium hyaluronate",
-     "grade": "B",
-     "position": 31,
-     "core": false,
-     "src": "ha"
-    },
-    {
-     "name": "bisabolol",
-     "grade": "B",
-     "position": 37,
-     "core": false,
-     "src": "centella"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butyrospermum parkii butter",
-    "propanediol",
-    "urea",
-    "sodium pca",
-    "sodium hyaluronate"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "formaldehydeReleaser",
-     "label": "Formaldehyde-releasing preservative",
-     "names": [
-      "imidazolidinyl urea"
-     ],
-     "penalty": 1.5,
-     "src": "eu2019_831"
-    }
-   ],
-   "maker": {
-    "parent": "Honasa Consumer (listed)",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://honasa.in/brands"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "palmer-s-b004t17pvi",
-  "brand": "Palmer's",
-  "model": "Cocoa Butter Formula Skin Therpy Oil, 60ml",
-  "price": 499,
-  "capacityLine": "60 ml",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹832/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.9
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹832/100ml",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.3/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/719yYkFzDsL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B004T17PVI",
-  "buyStore": "Amazon",
-  "title": "Palmer's Cocoa Butter Formula Skin Therpy Oil, 60ml",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "format:balm",
-   "ing:cocoa-butter",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0bsxkqqpc",
-  "brand": "Unbranded",
-  "model": "Natural Raw Cocoa Butter (250grm)",
-  "price": 345,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51f-C11t-aL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BSXKQQPC",
-  "buyStore": "Amazon",
-  "title": "Natural Raw Cocoa Butter (250grm)",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "ing:cocoa-butter",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "palmer-s-b00jins6qa",
-  "brand": "Palmer's",
-  "model": "Cocoa Butter Formula with Vitamin E Heals and Softens Rough Dry Skin, 250ml",
-  "price": 473,
-  "capacityLine": "250 ml",
-  "materialLine": "Cocoa butter + Vitamin E",
-  "featureLine": "Body butter · ₹189/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.4★ from 0 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹189/100ml",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Cocoa butter, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Q-ZHqbUdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00JINS6QA",
-  "buyStore": "Amazon",
-  "title": "Palmer's Cocoa Butter Formula with Vitamin E Heals and Softens Rough Dry Skin, 250ml",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "skin:dry",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0d4jygj6v",
-  "brand": "Unbranded",
-  "model": "Cocoa Glow Whipped Body Butter, 200 g. Cocoa & Shea Butter for Glowing Soft Skin",
-  "price": 299,
-  "capacityLine": "200 g",
-  "materialLine": "Shea butter + Cocoa butter",
-  "featureLine": "Body butter · ₹150/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹150/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51pvMILZLCL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0D4JYGJ6V",
-  "buyStore": "Amazon",
-  "title": "Cocoa Glow Whipped Body Butter, 200 g. Cocoa & Shea Butter for Glowing Soft Skin",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:brightening",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hbc92thr",
-  "brand": "Unbranded",
-  "model": "Bee One Cocoa Butter Cream 900ml | Deep Moisturizing Body Cream | Nourishes Dry Skin | Imp…",
-  "price": 299,
-  "capacityLine": "900 ml",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹33/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "900 ml",
-   "pricePer100": "₹33/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71PbNT+7+nL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBC92THR",
-  "buyStore": "Amazon",
-  "title": "Bee One Cocoa Butter Cream 900ml | Deep Moisturizing Body Cream | Nourishes Dry Skin | Improves Skin Softness & Elasticity | Suitable for Daily Use",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "ing:cocoa-butter",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gkq5s3kw",
-  "brand": "Unbranded",
-  "model": "Naturalis Cocoa Butter | 200 g Unrefined Rich Body Coco Butter for Aromatherapy and Daily …",
-  "price": 1004,
-  "capacityLine": "200 g",
-  "materialLine": "Cocoa butter",
-  "featureLine": "Body butter · ₹502/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹502/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Cocoa butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71ZhrRkcipL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GKQ5S3KW",
-  "buyStore": "Amazon",
-  "title": "Naturalis Cocoa Butter | 200 g Unrefined Rich Body Coco Butter for Aromatherapy and Daily Skincare",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "ing:cocoa-butter",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "keya-seth-b0gwdfw6gy",
-  "brand": "Keya Seth",
-  "model": "AROMATHERAPY Almond Body Oil - Anti-Acne, Deep Moisturizing, Soothing, Skin Nourishment; N…",
-  "price": 279,
-  "capacityLine": "400 ml",
-  "materialLine": "Almond",
-  "featureLine": "Oil · ₹70/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹70/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51fIhJNO5KL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GWDFW6GY",
-  "buyStore": "Amazon",
-  "title": "KEYA SETH AROMATHERAPY Almond Body Oil - Anti-Acne, Deep Moisturizing, Soothing, Skin Nourishment; Non-Sticky, Quick-Absorbing 400ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "ing:almond",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "aromatico-b0dglbx9hm",
-  "brand": "Aromatico",
-  "model": "Citrus Fresh Body Oil for Men - 200ml |Dry Skin-Deep Hydration Formula for Nourished Skin …",
-  "price": 301,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹151/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹151/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Marketed for men",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61h8TXlLWUL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DGLBX9HM",
-  "buyStore": "Amazon",
-  "title": "AROMATICO Citrus Fresh Body Oil for Men - 200ml |Dry Skin-Deep Hydration Formula for Nourished Skin in the Winters | Non-Sticky Texture, for Daily Use after Bath | Fresh & Energising Fragrance",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:men",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "lightweight-b0gng322wm",
-  "brand": "Lightweight",
-  "model": "Body Oil for Massage Rituals, Deep Hydration and Soft Skin Shine All Day 200ml",
-  "price": 199,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹100/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹100/100ml",
-   "format": "Oil",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51-7eo61+kL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GNG322WM",
-  "buyStore": "Amazon",
-  "title": "Lightweight Body Oil for Massage Rituals, Deep Hydration and Soft Skin Shine All Day 200ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "claim:hydrating",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0hdt22237",
-  "brand": "Unbranded",
-  "model": "Generic After Sun Body Butter with Shea Butter, Coconut Oil & Avocado Oil | 12HR Hydrating…",
-  "price": 399,
-  "capacityLine": "100 g",
-  "materialLine": "Shea butter + Coconut + Avocado",
-  "featureLine": "Body butter · ₹399/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹399/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Coconut, Avocado (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Soothing / calming (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51nSSsUHGqL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDT22237",
-  "buyStore": "Amazon",
-  "title": "Generic After Sun Body Butter with Shea Butter, Coconut Oil & Avocado Oil | 12HR Hydrating Soothing Body Moisturizer (100g / 3.52 oz)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:coconut",
-   "ing:avocado",
-   "claim:hydrating",
-   "claim:soothing",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "bella-vita-luxury-b0ctmsf6yv",
-  "brand": "Bella Vita Luxury",
-  "model": "Senorita Woman Perfume Body Lotion for Nourishing, Hydrating, Soft, Supple,Healthy Skin wi…",
-  "price": 225,
-  "capacityLine": "200 ml",
-  "materialLine": "Shea butter + Argan oil",
-  "featureLine": "Body butter · ₹113/100ml",
-  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "helianthus annuus seed oil high on the INCI list (moderate evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)"
-  ],
-  "cons": [
-   "Added fragrance (parfum): fragrance"
-  ],
-  "scores": {
-   "ingredients": 5.9,
-   "skin": 7.7,
-   "trust": 7,
-   "experience": 0.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹113/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Argan oil (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
-   "inciSource": "Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients",
-   "inciSourceUrl": "https://bellavitaorganic.com/products/senorita-woman-perfume-body-lotion-200ml-iocl",
-   "inciMatchedName": "SENORITA Woman Perfume Body Lotion - 200ml (IOCL) (name match 100%)",
-   "inciList": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Glyceryl Monostearate, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin and Phenoxyethanol, Carbomer, Cetyl Alcohol, Triethanolamine, Argania Spinosa (Argan) Kernel Oil, Disodium EDTA and Titanium Dioxide",
-   "evidenceActives": "helianthus annuus seed oil (#5 on list, moderate evidence); butyrospermum parkii butter (#8 on list, moderate evidence); argania spinosa kernel oil (#14 on list, moderate evidence)",
-   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
-   "maker": "Bella Vita Organic — Indian D2C brand with its own product company",
-   "buyerEvidence": "3.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51r7uck0CDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CTMSF6YV",
-  "buyStore": "Amazon",
-  "title": "Bella Vita Luxury Senorita Woman Perfume Body Lotion for Nourishing, Hydrating, Soft, Supple,Healthy Skin with Argan Oil and Shea Butter 200 Ml",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:argan-oil",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:full",
-   "inci:brand-site"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "full",
-   "inciSrc": "brand-site",
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "full",
-   "inciSource": "Bella Vita Luxury official website (bellavitaorganic.com) — product page › Ingredients",
-   "inciSourceKind": "brand-site",
-   "inciSourceUrl": "https://bellavitaorganic.com/products/senorita-woman-perfume-body-lotion-200ml-iocl",
-   "inciSourceRegion": "IN",
-   "inciMatchedTitle": "SENORITA Woman Perfume Body Lotion - 200ml (IOCL)",
-   "inciMatchScore": 1,
-   "inciText": "Aqua, Caprylic/Capric Triglyceride, Glycerin, Stearic Acid, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Glyceryl Monostearate, Butyrospermum Parkii (Shea) Butter, Ethylhexylglycerin and Phenoxyethanol, Carbomer, Cetyl Alcohol, Triethanolamine, Argania Spinosa (Argan) Kernel Oil, Disodium EDTA and Titanium Dioxide",
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": 0.9,
-   "recognised": 1,
-   "actives": [
-    {
-     "name": "glycerin",
-     "grade": "A",
-     "position": 3,
-     "core": false,
-     "src": "glycerin"
-    },
-    {
-     "name": "helianthus annuus seed oil",
-     "grade": "B",
-     "position": 5,
-     "core": true,
-     "src": "squalane"
-    },
-    {
-     "name": "butyrospermum parkii butter",
-     "grade": "B",
-     "position": 8,
-     "core": true,
-     "src": "petrolatum"
-    },
-    {
-     "name": "argania spinosa kernel oil",
-     "grade": "B",
-     "position": 14,
-     "core": true,
-     "src": "squalane"
-    },
-    {
-     "name": "titanium dioxide",
-     "grade": "A",
-     "position": 16,
-     "core": false,
-     "src": "sunFilters"
-    }
-   ],
-   "support": [
-    "glycerin",
-    "butyrospermum parkii butter"
-   ],
-   "formulaNotes": [],
-   "flags": [
-    {
-     "id": "fragrance",
-     "label": "Added fragrance (parfum)",
-     "names": [
-      "fragrance"
-     ],
-     "penalty": 1.5,
-     "src": "acdsFragrance"
-    }
-   ],
-   "maker": {
-    "parent": "Bella Vita Organic",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://bellavitaorganic.com/"
-   },
-   "buyers": "3.6★ from 0 ratings"
-  }
- },
- {
-  "id": "keya-seth-b0gwdh1m1w",
-  "brand": "Keya Seth",
-  "model": "AROMATHERAPY Tea Tree Body Oil - Moisturising, Anti Acne, Cleansing, Soothing & Purifies S…",
-  "price": 329,
-  "capacityLine": "400 ml",
-  "materialLine": "Tea tree",
-  "featureLine": "Wash / cleanser · ₹82/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.3
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹82/100ml",
-   "format": "Wash / cleanser",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Tea tree (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Oil control / matte / non-greasy, Hydrating / moisturizing, Soothing / calming, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.8★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51vHpGApIiL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GWDH1M1W",
-  "buyStore": "Amazon",
-  "title": "KEYA SETH AROMATHERAPY Tea Tree Body Oil - Moisturising, Anti Acne, Cleansing, Soothing & Purifies Skin; Non-Sticky, Quick-Absorbing 400ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:wash",
-   "ing:tea-tree",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.8★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0dvgtsdj6",
-  "brand": "Unbranded",
-  "model": "Little Rituals Baby BIO BODY BUTTER - NOURISH+ PROTECT Formulated with best plant botanica…",
-  "price": 1220,
-  "capacityLine": "200 g",
-  "materialLine": "Shea butter + Sea buckthorn",
-  "featureLine": "Body butter · ₹610/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹610/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Sea buckthorn (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/511UI5NPUlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DVGTSDJ6",
-  "buyStore": "Amazon",
-  "title": "Little Rituals Baby BIO BODY BUTTER - NOURISH+ PROTECT Formulated with best plant botanical -PUMPKIN & SHEA BUTTER, SEABUCKTHORN OIL. Natural, Organic, Dermat tested, SWISS Technology (200 gm)",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:sea-buckthorn",
-   "claim:hydrating",
-   "aud:kids",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0cttxn99j",
-  "brand": "Unbranded",
-  "model": "Personal Touch Intenseal Shea Butter Balm | 92% Pure Shea Butter | Deep Moisturizing Body …",
-  "price": 475,
-  "capacityLine": "50 ml",
-  "materialLine": "Almond + Shea butter + Vitamin E",
-  "featureLine": "Body butter · ₹950/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹950/100ml",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Almond, Shea butter, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/619iyi7qQPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CTTXN99J",
-  "buyStore": "Amazon",
-  "title": "Personal Touch Intenseal Shea Butter Balm | 92% Pure Shea Butter | Deep Moisturizing Body Balm for Intense Dry & Very Dry Skin | With Almond Oil & Vitamin E | Non-Greasy | 50 ml",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0fl7ybt4d",
-  "brand": "Unbranded",
-  "model": "Body Butter 100g with Shea Butter Almond Oil Aloe Vera Deep Moisturizing Cream for Dry Ver…",
-  "price": 385,
-  "capacityLine": "100 g",
-  "materialLine": "Aloe vera + Almond + Shea butter",
-  "featureLine": "Body butter · Paraben-free · ₹385/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹385/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Aloe vera, Almond, Shea butter (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Oil control / matte / non-greasy, Hydrating / moisturizing, 24h / 48h / 72h, Dry / very dry skin relief (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61oPlfKdiaL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FL7YBT4D",
-  "buyStore": "Amazon",
-  "title": "Body Butter 100g with Shea Butter Almond Oil Aloe Vera Deep Moisturizing Cream for Dry Very Dry Skin 48 Hour Hydration Non Greasy Skin Nourishing Cream Paraben Free Vegan Body Moisturizer for Soft Smooth Glowing Skin",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:shea-butter",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "free:paraben",
-   "free:vegan",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0g6l2ldn6",
-  "brand": "Unbranded",
-  "model": "Body Butter Cream 200 gm : Pack of 2",
-  "price": 1350,
-  "capacityLine": "400 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body butter · ₹338/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g × 2 pack",
-   "pricePer100": "₹338/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DGygspy9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G6L2LDN6",
-  "buyStore": "Amazon",
-  "title": "Body Butter Cream 200 gm : Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:balm",
-   "format:kit",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "mi-b0cn3fggdc",
-  "brand": "Mi",
-  "model": "Nature Body Butter 50g (1.7oz) | Enriched with Lavender Oil | Non-Greasy Moisturizer for S…",
-  "price": 439,
-  "capacityLine": "50 g",
-  "materialLine": "Lavender",
-  "featureLine": "Body butter · ₹878/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹878/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Lightweight / fast-absorbing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51m73w17XCL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CN3FGGDC",
-  "buyStore": "Amazon",
-  "title": "Mi Nature Body Butter 50g (1.7oz) | Enriched with Lavender Oil | Non-Greasy Moisturizer for Soft Smooth Skin | Lightweight Formula | Jar Pack",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "format:pack",
-   "ing:lavender",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "enn-b094f9h1sy",
-  "brand": "ENN",
-  "model": "Beauty Vanilla Whip Nourishing Body Butter,48 Hrs Moisturization & Restore Skin Barrier Wi…",
-  "price": 379,
-  "capacityLine": "100 g",
-  "materialLine": "Niacinamide + Almond",
-  "featureLine": "Body butter · ₹379/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹379/100g",
-   "format": "Body butter",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Barrier repair, 24h / 48h / 72h (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61dwjD5Nf1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B094F9H1SY",
-  "buyStore": "Amazon",
-  "title": "ENN Beauty Vanilla Whip Nourishing Body Butter,48 Hrs Moisturization & Restore Skin Barrier With Vanilla Extract,5% Niacinamide & Almond Oil For Soft & Supple Skin,Reduce Fine Lines & Wrinkles-100Gm",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:balm",
-   "ing:niacinamide",
-   "ing:almond",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:long-lasting",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "boghani-b0gx6dc3ql",
-  "brand": "Boghani",
-  "model": "Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment wi…",
-  "price": 220,
-  "capacityLine": "40 g",
-  "materialLine": "Shea butter + Coconut",
-  "featureLine": "Stick · ₹550/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "40 g",
-   "pricePer100": "₹550/100g",
-   "format": "Stick",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61X7NzydnlL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX6DC3QL",
-  "buyStore": "Amazon",
-  "title": "Boghani Crack Heel Repair Stick Foot Hand Cream Stick, Heel Balm for Dry Cracked Feet Treatment with Shea Butter & Coconut Oil, Moisturizes and Hydrates the Dry & Dead Skin- Peach Scent 40g",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:stick",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:coconut",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "lunaris-b0g2h64698",
-  "brand": "Lunaris",
-  "model": "20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With…",
-  "price": 199,
-  "capacityLine": "50 ml",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹398/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹398/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Oil control / matte / non-greasy, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71+8GwFx6BL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G2H64698",
-  "buyStore": "Amazon",
-  "title": "Lunaris 20% Urea Foot Cream Roll On - 50ml | For Dry, Cracked Or Calloused Foot Skin Repair | With 2% Lactic Acid, Olive Oil & Vitamin E | Helps Moisturise & Exfoliates Dead Skin | Non Greasy",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "parisar-b0f1tynz86",
-  "brand": "Parisar",
-  "model": "Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic …",
-  "price": 379,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Lactic acid + Urea + Vitamin E",
-  "featureLine": "Roll-on · ₹379/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹379/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Urea, Vitamin E, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Barrier repair, Exfoliating, Cracked heels / rough feet (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Xu3fdXf9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F1TYNZ86",
-  "buyStore": "Amazon",
-  "title": "Parisar Foot Roll On 50ml (Pack of 2) - 20% Urea Foot Cream for Dry & Cracked Feet with 2% Lactic Acid, Olive Oil & Vitamin E | Crack Heel Repair Cream | Urea Foot Roll On for Dead Skin Removal",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:oil",
-   "format:roll-on",
-   "format:kit",
-   "ing:lactic-acid",
-   "ing:urea",
-   "ing:vitamin-e",
-   "ing:olive",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:cracked-heels",
-   "skin:dry",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "rexona-b0fqcjk4td",
-  "brand": "Rexona",
-  "model": "Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odo…",
-  "price": 164,
-  "capacityLine": "50 ml",
-  "materialLine": "Shea butter + Glycerin",
-  "featureLine": "Roll-on · ₹328/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹328/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter, Glycerin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "24h / 48h / 72h, Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51RIihwL8uL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FQCJK4TD",
-  "buyStore": "Amazon",
-  "title": "Rexona Lotus Flower & Shea Butter Antiperspirant Roll-On | for Women | 12-HSA & Glycerin| 72H Odour Protection| Limited Edition Pack - ICC Women’s Cricket World Cup India 2025 |50 ML",
-  "tags": [
-   "scope:unstated",
-   "format:balm",
-   "format:pack",
-   "format:roll-on",
-   "ing:shea-butter",
-   "ing:glycerin",
-   "claim:long-lasting",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gx9t8vwf",
-  "brand": "Unbranded",
-  "model": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Bu…",
-  "price": 380,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Clay + Almond + Shea butter",
-  "featureLine": "Body butter · Aluminium-free",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Clay, Almond, Shea butter, Jojoba, Magnesium (named on listing)",
-   "freeFrom": "Aluminium-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61+zj9xbKYL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX9T8VWF",
-  "buyStore": "Amazon",
-  "title": "Natural Deodorant Cream - 12 Hour Odor Protection | Aluminum-Free | Floral Bloom | Shea Butter, Mango Butter, Jojoba & Almond Oil | Magnesium & Kaolin Clay | Sensitive Skin Safe | For Men & Women",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "format:oil",
-   "format:balm",
-   "format:clay-mask",
-   "ing:clay",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:jojoba",
-   "ing:magnesium",
-   "claim:odour",
-   "skin:sensitive",
-   "free:sensitive-safe",
-   "free:aluminium",
-   "aud:women",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "actiwowrx-b0fnn37q1z",
-  "brand": "ActiwowRx",
-  "model": "Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pr…",
-  "price": 159,
-  "capacityLine": "30 ml",
-  "materialLine": "Shea butter",
-  "featureLine": "Body butter · ₹530/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹530/100ml",
-   "format": "Body butter",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51-9vOkWR-L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FNN37Q1Z",
-  "buyStore": "Amazon",
-  "title": "ActiwowRx Stretch Mark Oil 30ml – Scar & Stretch Mark Treatment with Natural Oils Removal Oil For Pregnancy Latic Acid & Shea Butter | One-a-Day | Prevent",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:stretch-marks",
-   "claim:scars",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0gc5xhx64",
-  "brand": "Unbranded",
-  "model": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal O…",
-  "price": 180,
-  "capacityLine": "30 ml",
-  "materialLine": "Almond",
-  "featureLine": "Oil · ₹600/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹600/100ml",
-   "format": "Oil",
-   "appliesTo": "Not stated in listing",
-   "keyIngredients": "Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Stretch marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61m-LZ4yD1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GC5XHX64",
-  "buyStore": "Amazon",
-  "title": "Stretch Mark Oil 30ml with Orange & Almond Oil | Natural Pregnancy Stretch Marks Removal Oil for Women | Boosts Skin Elasticity, Prevents Stretching from Weight Changes",
-  "tags": [
-   "scope:unstated",
-   "format:oil",
-   "ing:almond",
-   "claim:stretch-marks",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
    "inci": "none",
    "inciSrc": null,
    "pharma": false

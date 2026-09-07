@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-06.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-07.
 // Unknown fields are honestly marked, never invented.
 const NXPRODUCTS = [
  {
@@ -1243,7 +1243,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
    "declaredManufacturer": "Unilever House, B D Sawant Marg, Chakala, Andheri East, Mumbai - 400099, Maharashtra (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.2★ from 845 ratings"
+   "buyerEvidence": "4.2★ from 845 ratings",
+   "concernBasis": "Irritation — colloidal oatmeal #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/j/m/-enriched-transparent-original-imahktay29g6dc6h.png?q=90",
@@ -1267,6 +1268,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -1299,6 +1301,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "oat"
     },
     {
@@ -1306,6 +1309,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -10391,6 +10395,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -10398,6 +10403,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -10405,6 +10411,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "aadScrub"
     },
     {
@@ -10412,6 +10419,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 29,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -19306,6 +19314,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -22475,6 +22484,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -22482,6 +22492,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -22489,6 +22500,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -22496,6 +22508,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -22503,6 +22516,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -22510,6 +22524,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -22517,6 +22532,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -26318,6 +26334,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -26325,6 +26342,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -26332,6 +26350,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -26339,6 +26358,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -26346,6 +26366,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -26353,6 +26374,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -26360,6 +26382,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -26367,6 +26390,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "oat"
     },
     {
@@ -26374,6 +26398,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -26381,6 +26406,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -27692,7 +27718,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#2 on list, limited evidence); kaolin (#10 on list, limited evidence); glycerin (#14 on list, strong evidence); prunus armeniaca seed powder (#15 on list, limited evidence); prunus amygdalus dulcis oil (#20 on list, moderate evidence); lactic acid (#28 on list, strong evidence); mandelic acid (#29 on list, moderate evidence); glycolic acid (#30 on list, strong evidence); salicylic acid (#31 on list, strong evidence); shea butter (#35 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl alcohol (−0.3)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #22 on INCI; Dark spots — niacinamide #22 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/h/3/o/200-urban-shield-body-scrub-200g-exfoliates-brightens-hydrates-original-imahehftakkhtt3w.jpeg?q=90",
@@ -27731,6 +27758,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full"
   ],
   "filters": {
@@ -27762,6 +27791,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -27769,6 +27799,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -27776,6 +27807,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -27783,6 +27815,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -27790,6 +27823,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -27797,6 +27831,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -27804,6 +27839,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 22,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -27811,6 +27847,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -27818,6 +27855,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "ha"
     },
     {
@@ -27825,6 +27863,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -27832,6 +27871,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 29,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -27839,6 +27879,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 30,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -27846,6 +27887,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 31,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -27853,6 +27895,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 34,
      "core": false,
+     "trace": true,
      "src": "caffeine"
     },
     {
@@ -27860,6 +27903,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 35,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     }
    ],
@@ -33280,111 +33324,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "vigini-itm745fffd3f4872",
-  "brand": "Vigini",
-  "model": "Skin Whitening Lightening De Tan Removal Body Polishing Cream & Coffee Scrub",
-  "price": 500,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub · ₹125/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹125/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Whitening / fairness (claim) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/2/r/o/100-skin-whitening-brightening-body-polishing-exfoliating-original-imah9uzzjn8zdnc7.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/3/l/v/100-skin-whitening-brightening-body-polishing-exfoliating-original-imah9uzzbzquyhwh.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/l/b/q/100-natural-actives-body-whitening-lightening-skin-brightening-original-imah9vfydranzphw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/6/r/100-natural-actives-body-whitening-lightening-skin-brightening-original-imah9vfyr6tpcgak.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/q/b/y/100-de-tan-facial-scrub-200-ml-pack-of-1-shills-original-imahzh4pvq3d5fyc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vigini-skin-whitening-lightening-de-tan-removal-body-polishing-cream-coffee-scrub/p/itm745fffd3f4872",
-  "buyStore": "Flipkart",
-  "title": "Vigini Skin Whitening Lightening De Tan Removal Body Polishing Cream & Coffee Scrub",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:scrub",
-   "format:kit",
-   "ing:coffee",
-   "claim:de-tan",
-   "claim:whitening-claim",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "dr-rashel-itm7c1f78ca5fde2",
   "brand": "Dr. Rashel",
   "model": "DR.RASHEL White Skin Scrub For Face & Body with Arbutin & Niacinamide | Radiance Care Scru…",
@@ -34098,7 +34037,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#8 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citral, citronellol, coumarine, geraniol, linalool (−1.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.7★ from 59 ratings"
+   "buyerEvidence": "4.7★ from 59 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/l/d/y/200-hula-hoop-foaming-10-de-tan-body-scrub-for-removing-tan-dead-original-imahhufpqvvpyg6e.jpeg?q=90",
@@ -34126,6 +34066,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -34158,6 +34100,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -34165,6 +34108,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -34172,6 +34116,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -34179,6 +34124,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -34186,6 +34132,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -34193,6 +34140,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -34200,6 +34148,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -34207,6 +34156,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -34214,6 +34164,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -35122,7 +35073,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#8 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citral, citronellol, coumarine, geraniol, linalool (−1.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 17 ratings"
+   "buyerEvidence": "4.4★ from 17 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/2/w/t/75-hula-hoop-foaming-10-de-tan-body-scrub-for-removing-tan-dead-original-imahn93v27bh8rpa.jpeg?q=90",
@@ -35144,6 +35096,8 @@ const NXPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -35176,6 +35130,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -35183,6 +35138,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -35190,6 +35146,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -35197,6 +35154,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -35204,6 +35162,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -35211,6 +35170,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -35218,6 +35178,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -35225,6 +35186,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -35232,6 +35194,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -40658,7 +40621,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: citral, citronellol, coumarine, geraniol, linalool (−1.5)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Kriya Industries India Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.4★ from 140 ratings"
+   "buyerEvidence": "4.4★ from 140 ratings",
+   "concernBasis": "Acne — niacinamide #13 on INCI; Dark spots — niacinamide #13 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/a/g/o/200-hula-hoop-exfoliation-body-wash-smoothes-skin-fades-tan-original-imahjhjpxjhghhye.jpeg?q=90",
@@ -40678,6 +40642,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:brand-site"
   ],
@@ -40710,6 +40676,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -40717,6 +40684,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -40724,6 +40692,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -40731,6 +40700,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "sunFilters"
     },
     {
@@ -40738,6 +40708,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -40745,6 +40716,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -40752,6 +40724,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 17,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -40759,6 +40732,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -40766,6 +40740,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -41033,6 +41008,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -41040,6 +41016,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -41047,6 +41024,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -41054,6 +41032,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "greenTea"
     },
     {
@@ -41061,6 +41040,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 18,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     }
    ],
@@ -43411,7 +43391,8 @@ const NXPRODUCTS = [
    "evidenceActives": "shea butter (#4 on list, moderate evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — niacinamide #3 on INCI; Dark spots — kojic acid #2 on INCI, niacinamide #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/0/l/7/400-cocoa-smoothie-body-scrub-with-ceramide-exfoliates-brightens-original-imahhy7ygnjzzeg9.jpeg?q=90",
@@ -43453,6 +43434,8 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -43485,6 +43468,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 2,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -43492,6 +43476,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -43499,6 +43484,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -43506,6 +43492,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "striae"
     }
    ],
@@ -60376,7 +60363,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itmba1f522543f80",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Glow White Skin Perfector Whitening Body Scrub with Niacinamide, Hyaluronic Acid Scrub",
   "price": 646,
   "capacityLine": "150 g (pack of 2)",
@@ -70235,114 +70222,6 @@ const NXPRODUCTS = [
     "url": "https://www.mcaffeine.com/"
    },
    "buyers": "4.4★ from 21 ratings"
-  }
- },
- {
-  "id": "mcaffeine-itma4919ca9e74af",
-  "brand": "mCaffeine",
-  "model": "Coffee Body Scrub & Almond Body Wash|De Tan Exfoliation & Tan Removal",
-  "price": 401,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Caffeine + Coffee + Almond",
-  "featureLine": "Scrub",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 2,092 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 7.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Caffeine, Coffee, Almond (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (2,092 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pep Technologies — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.3★ from 2,092 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/4/f/n/coffee-body-scrub-almond-body-wash-de-tan-exfoliation-tan-original-imahfnj8cxsazgqg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/h/s/z/-original-imagpeakmrnawqwg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/0/w/9/100-exfoliating-coffee-body-scrub-for-men-women-tan-removal-original-imahygzcdgjnqfry.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/o/7/l/400-coffee-almond-body-wash-for-d-tan-glowing-skin-refreshing-original-imahyf4r3ujezhjs.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/e/w/t/smooth-glowing-skin-essentials-2-cmb385-mcaffeine-original-imagztdfcfcz6raa.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/mcaffeine-coffee-body-scrub-almond-wash-de-tan-exfoliation-removal/p/itma4919ca9e74af",
-  "buyStore": "Flipkart",
-  "title": "mCaffeine Coffee Body Scrub & Almond Body Wash|De Tan Exfoliation & Tan Removal",
-  "tags": [
-   "scope:body",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:caffeine",
-   "ing:coffee",
-   "ing:almond",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pep Technologies",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://www.mcaffeine.com/"
-   },
-   "buyers": "4.3★ from 2,092 ratings"
   }
  },
  {
@@ -82430,126 +82309,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "bejoy-itmaef565e26a5d7",
-  "brand": "Bejoy",
-  "model": "100% Pure & Natural Ubtan Body scrub & Charcoal Peel of Mask-110ml Pack of 2",
-  "price": 291,
-  "capacityLine": "220 ml (pack of 2)",
-  "materialLine": "Vitamin C + Niacinamide + Salicylic acid (BHA)",
-  "featureLine": "Scrub · ₹132/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "110 ml × 2 pack",
-   "pricePer100": "₹132/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C, Niacinamide, Salicylic acid (BHA), Glycolic acid, Charcoal, Ubtan (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Acne / pimples, Ayurvedic / herbal, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/knqd3m80/combo-kit/l/v/y/100-pure-natural-ubtan-body-scrub-charcoal-peel-of-mask-110ml-original-imag2cggfwamuzhv.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kmi2g7k0/combo-kit/f/5/c/100-pure-natural-walnut-oil-vitamin-c-face-serum-60ml-pack-of-2-original-imagfdz9a2u2hhff.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/p/i/guava-glow-regime-with-10-vitamin-c-face-mini-serum-juicy-mini-original-imahbhybphzvsz98.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/0/u/y/jamun-mini-cleanser-10-niacinamide-jamun-face-serum-for-acne-original-imahpy4hsbahknph.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/c/y/y/50-guava-juicy-mini-cleanser-for-skin-brightening-with-vitamin-c-original-imahbj2yjftfhhzy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bejoy-100-pure-natural-ubtan-body-scrub-charcoal-peel-mask-110ml-pack-2/p/itmaef565e26a5d7",
-  "buyStore": "Flipkart",
-  "title": "Bejoy 100% Pure & Natural Ubtan Body scrub & Charcoal Peel of Mask-110ml Pack of 2",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:serum",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:wash",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:charcoal",
-   "ing:ubtan",
-   "claim:brightening",
-   "claim:acne",
-   "claim:ayurvedic",
-   "claim:scars",
-   "free:ph-balanced",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "bejoy-itm3045b4433c3b8",
   "brand": "Bejoy",
   "model": "100% Pure & Natural Ubtan Body Scrub & Seasame Oil-150ml Pack of 2",
@@ -84484,7 +84243,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itm3c5a07ccebc3a",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Turmeric & Ginger De-Tan Face & Body Scrub Remove Blackheads, Dead Skin Scrub",
   "price": 499,
   "capacityLine": "300 g (pack of 2)",
@@ -84960,120 +84719,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "oraya-itm98ea0c907eea5",
-  "brand": "Oraya",
-  "model": "Ubtan Face Pack Powder - Face & Body Scrub For Removing Skin Tan, Glowing, Shinier & Radia…",
-  "price": 163,
-  "capacityLine": "100 g",
-  "materialLine": "Ubtan",
-  "featureLine": "Scrub · Paraben-free · ₹163/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.6★ from 16 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹163/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Ubtan (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Anti-aging / wrinkles, Oil control / matte / non-greasy, Hydrating / moisturizing, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.6/5 (16 ratings, Flipkart)",
-   "madeIn": "india",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 16 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/u/u/b/100-multani-mitti-papaya-face-pack-powder-banjaras-original-imahyvzhsefgrzzm.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/a/l/800-multani-800gm-powder-for-hair-hair-powder-sidhaveena-original-imahzygz5unejmhq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/k0flmkw0/face-pack/t/q/f/100-organics-100-natural-hibiscus-powder-100-gms-powder-vadhika-original-imafk8hxjz7jtvpw.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/d/q/y/250-cucumber-face-pack-250-gm-cream-dermalayer-original-imahhuhgskbzv9kk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/p/n/l/100-rose-petals-powder-for-skin-hair-soft-refreshed-naturally-original-imahp2yyvf63uxgg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/oraya-ubtan-face-pack-powder-body-scrub-removing-skin-tan-glowing-shinier-radiant/p/itm98ea0c907eea5",
-  "buyStore": "Flipkart",
-  "title": "Oraya Ubtan Face Pack Powder - Face & Body Scrub For Removing Skin Tan, Glowing, Shinier & Radiant Skin",
-  "tags": [
-   "scope:both",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:powder",
-   "format:wash",
-   "ing:ubtan",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 16 ratings"
-  }
- },
- {
   "id": "wiffy-itmb479b70782d40",
   "brand": "Wiffy",
   "model": "FACE & BODY SCRUB Brightening, Hydrating Scrub",
@@ -85367,115 +85012,6 @@ const NXPRODUCTS = [
   "filters": {
    "freefrom": true,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sign-gold-itm39e8d03440a76",
-  "brand": "sign gold",
-  "model": "Ubtan Face Pack Powder (Face & Body Scrub For Removing Skin Tan, Glowing, Shinier & Radian…",
-  "price": 270,
-  "capacityLine": "300 g",
-  "materialLine": "Ubtan + Gold",
-  "featureLine": "Scrub · Paraben-free · ₹90/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹90/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Ubtan, Gold (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "India",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/kxf0jgw0/face-pack/t/9/l/300-ubtan-face-pack-powder-face-body-scrub-for-removing-skin-tan-original-imag9vzhxpbhfa5n.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/p/i/t/200-bio-organic-indigo-red-henna-hair-coloring-kit-200-g-original-imahh59xpkqssypx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/g/o/r/200-organic-multani-mitti-powder-powder-sign-gold-original-imahj3gy4gewxht9.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/r/q/o/100-premium-multani-mitti-powder-100g-for-face-hair-care-natural-original-imahp3y4sqhqg7yj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/c/d/r/500-100-natural-chandan-sandalwood-face-pack-powder-500-g-powder-original-imahh7nuwsdpeyrp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sign-gold-ubtan-face-pack-powder-face-body-scrub-removing-skin-tan-glowing-shinier-radiant-skin-300-g/p/itm39e8d03440a76",
-  "buyStore": "Flipkart",
-  "title": "sign gold Ubtan Face Pack Powder (Face & Body Scrub For Removing Skin Tan, Glowing, Shinier & Radiant Skin) (300 g)",
-  "tags": [
-   "scope:both",
-   "format:pack",
-   "format:scrub",
-   "format:powder",
-   "ing:ubtan",
-   "ing:gold",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:paraben",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
    "derm": false,
    "men": false,
    "women": true,
@@ -86098,127 +85634,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "2★ from 2 ratings"
-  }
- },
- {
-  "id": "sign-gold-itm946fd57d0ed3d",
-  "brand": "sign gold",
-  "model": "Ubtan Face Pack Powder - Face & Body Scrub",
-  "price": 148,
-  "capacityLine": "100 g",
-  "materialLine": "Ubtan + Gold",
-  "featureLine": "Scrub · Paraben-free · ₹148/100g",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "Only 1 ingredient named — formula unscored",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹148/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Ubtan, Gold (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Oil control / matte / non-greasy, Exfoliating, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4/5 (20 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciList": "Unverified seller line: Ubtan Powder",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 20 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/a/n/o/100-organic-ubtan-face-pack-powder-set-of-1-100-g-powder-sign-original-imahh5bzmggffw69.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/p/i/t/200-bio-organic-indigo-red-henna-hair-coloring-kit-200-g-original-imahh59xpkqssypx.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l0jwbrk0/face-pack/p/j/c/100-bio-organic-multani-mitti-powder-healing-clay-powder-sign-original-imagcb8zhz99u8xg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l0tweq80/face-pack/z/a/8/100-facial-ubtan-essentials-face-body-scrub-powder-powder-sign-original-imagcj9r6d5pergt.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l0wrafk0/face-pack/4/l/t/100-ubtan-powder-for-shining-face-powder-sign-gold-original-imagchpvtgmrexng.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sign-gold-ubtan-face-pack-powder-body-scrub/p/itm946fd57d0ed3d",
-  "buyStore": "Flipkart",
-  "title": "sign gold Ubtan Face Pack Powder - Face & Body Scrub",
-  "tags": [
-   "scope:both",
-   "format:peel-off",
-   "format:pack",
-   "format:scrub",
-   "format:peel",
-   "format:powder",
-   "format:wash",
-   "ing:ubtan",
-   "ing:gold",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "claim:ayurvedic",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "free:paraben",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:partial"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "partial",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Composition field",
-   "inciSourceKind": "listing",
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": "Ubtan Powder",
-   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 20 ratings"
   }
  },
  {
@@ -89308,6 +88723,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89315,6 +88731,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -89322,6 +88739,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -89396,7 +88814,8 @@ const NXPRODUCTS = [
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Sririshiya Naturals , Arekere MICO Layout, Bengaluru, Karnataka 560076 (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.7★ from 12 ratings"
+   "buyerEvidence": "4.7★ from 12 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/v/l/n/200-dead-sea-mud-face-body-scrub-lactic-acid-body-polish-walnut-original-imahmaqkjuurevyt.jpeg?q=90",
@@ -89418,6 +88837,7 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -89450,6 +88870,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -89457,6 +88878,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -89464,6 +88886,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -89471,6 +88894,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -89478,6 +88902,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -92716,7 +92141,8 @@ const NXPRODUCTS = [
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, limonene, geraniol, citral (−1.2); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7)",
    "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
    "declaredManufacturer": "Archeesh Laboratories (as printed on the Flipkart listing — not scored)",
-   "buyerEvidence": "4.3★ from 13,848 ratings"
+   "buyerEvidence": "4.3★ from 13,848 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/y/8/f/250-hula-hoop-exfoliating-body-wash-exfoliates-smoothens-1-original-imahpwtzjvh5jhtd.jpeg?q=90",
@@ -92737,6 +92163,7 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "filters": {
@@ -92768,6 +92195,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -92775,6 +92203,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -92782,6 +92211,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -92789,6 +92219,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -92796,6 +92227,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -92803,6 +92235,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -93169,6 +92602,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -93176,6 +92610,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -93183,6 +92618,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -93190,6 +92626,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -93197,6 +92634,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -93280,7 +92718,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#5 on list, strong evidence); salicylic acid (#7 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, limonene, geraniol, citral (−1.2); Harsh anionic surfactant (SLS/ALS): ammonium lauryl sulfate (−0.7)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 20 ratings"
+   "buyerEvidence": "4.7★ from 20 ratings",
+   "concernBasis": "Acne — salicylic acid #7 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/n/o/f/250-exfoliating-body-wash-exfoliates-smoothens-1-hula-hoop-original-imahzfx3jytq9ged.jpeg?q=90",
@@ -93307,6 +92746,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
    "inci:full"
   ],
   "filters": {
@@ -93338,6 +92778,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -93345,6 +92786,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -93352,6 +92794,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -93359,6 +92802,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -93366,6 +92810,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -93373,6 +92818,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 25,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -93987,6 +93433,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -93994,6 +93441,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -94001,6 +93449,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -94008,6 +93457,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -94015,6 +93465,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -94427,7 +93878,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#9 on list, strong evidence); lactic acid (#10 on list, strong evidence); salicylic acid (#11 on list, strong evidence); sodium chloride (#19 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #11 on INCI, niacinamide #14 on INCI; Dark spots — niacinamide #14 on INCI; Irritation — panthenol #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/6/e/v/250-daily-exfoliating-body-wash-shower-gel-1-moolveda-original-imahn78nk9fjtt6a.jpeg?q=90",
@@ -94460,6 +93912,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -94491,6 +93946,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -94498,6 +93954,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -94505,6 +93962,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -94512,6 +93970,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -94519,6 +93978,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -94526,6 +93986,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -94533,6 +93994,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -94540,6 +94002,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "aadScrub"
     }
    ],
@@ -94722,7 +94185,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence); sodium chloride (#10 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/q/h/n/250-exfoliating-body-wash-with-7-aha-bha-refreshes-softens-skin-original-imahz9syzmz9fsxq.jpeg?q=90",
@@ -94759,6 +94223,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -94790,6 +94257,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -94797,6 +94265,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -94804,6 +94273,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -94811,6 +94281,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -94818,6 +94289,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -94825,6 +94297,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -94832,6 +94305,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -94839,6 +94313,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -95097,6 +94572,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -95104,6 +94580,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -95111,6 +94588,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -95118,6 +94596,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -95125,6 +94604,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -95408,6 +94888,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -95415,6 +94896,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -95422,6 +94904,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -95429,6 +94912,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -95436,6 +94920,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -95599,6 +95084,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -95606,6 +95092,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -95613,6 +95100,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -95620,6 +95108,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -95627,6 +95116,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -95778,6 +95268,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -95785,6 +95276,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -95792,6 +95284,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -95799,6 +95292,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -95806,6 +95300,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -95888,7 +95383,8 @@ const NXPRODUCTS = [
    "evidenceActives": "lactic acid (#2 on list, strong evidence); salicylic acid (#3 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #3 on INCI, niacinamide #4 on INCI; Dark spots — niacinamide #4 on INCI, alpha-arbutin #5 on INCI, ascorbic acid #6 on INCI; Aging — ascorbic acid #6 on INCI; Irritation — aloe barbadensis leaf extract #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/m/h/w/500-0-daily-exfoliating-body-wash-1-rucira-original-imahphedzdgkyhfe.jpeg?q=90",
@@ -95919,6 +95415,10 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:no-fragrance"
   ],
@@ -95951,6 +95451,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -95958,6 +95459,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -95965,6 +95467,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -95972,6 +95475,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -95979,6 +95483,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -95986,6 +95491,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -95993,6 +95499,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": false,
      "src": "ha"
     },
     {
@@ -96000,6 +95507,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "centella"
     }
    ],
@@ -96180,7 +95688,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence); sodium chloride (#10 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
+   "buyerEvidence": "No buyer ratings yet",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/w/z/i/250-exfoliating-body-wash-7-aha-bha-vitamin-e-250-ml-12-natuvera-original-imahz9ywf33zpgam.jpeg?q=90",
@@ -96216,6 +95725,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:none",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -96247,6 +95759,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -96254,6 +95767,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -96261,6 +95775,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -96268,6 +95783,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -96275,6 +95791,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -96282,6 +95799,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -96289,6 +95807,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -96296,6 +95815,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -100481,6 +100001,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -100488,6 +100009,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -100495,6 +100017,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -100502,6 +100025,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -100509,6 +100033,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -101009,6 +100534,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -101016,6 +100542,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -101023,6 +100550,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -101030,6 +100558,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -101037,6 +100566,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -101227,7 +100757,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#4 on list, strong evidence); glycolic acid (#5 on list, strong evidence); salicylic acid (#6 on list, strong evidence); sodium chloride (#10 on list, limited evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 2 ratings"
+   "buyerEvidence": "5★ from 2 ratings",
+   "concernBasis": "Acne — salicylic acid #6 on INCI, niacinamide #9 on INCI; Dark spots — niacinamide #9 on INCI; Irritation — aloe barbadensis leaf extract #8 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/j/o/y/250-exfoliating-body-wash-with-7-aha-bha-vitamin-e-250-ml-1-original-imahz9ygmhahy6vc.jpeg?q=90",
@@ -101258,6 +100789,9 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:flipkart",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full"
   ],
   "filters": {
@@ -101289,6 +100823,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 4,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -101296,6 +100831,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -101303,6 +100839,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "bha"
     },
     {
@@ -101310,6 +100847,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -101317,6 +100855,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -101324,6 +100863,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -101331,6 +100871,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -101338,6 +100879,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "aha"
     }
    ],
@@ -101807,6 +101349,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 3,
      "core": true,
+     "trace": true,
      "src": "glycerin"
     },
     {
@@ -101814,6 +101357,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -101821,6 +101365,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 10,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -101828,6 +101373,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -101835,6 +101381,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -115434,217 +114981,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "odeon-itm2fd63caa9baca",
-  "brand": "ODEON",
-  "model": "Turmeric & Yogurt Body Scrub (300ml) + TURMERIC FACE WASH 50 ML",
-  "price": 458,
-  "capacityLine": "300 ml",
-  "materialLine": "Turmeric",
-  "featureLine": "Scrub · ₹153/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 20 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.7
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹153/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Turmeric (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (20 ratings, Flipkart)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 20 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/l/g/turmeric-yogurt-body-scrub-300ml-turmeric-face-wash-50-ml-2-m-original-imagu6jhyn7gxmhg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/o/o/b/turmeric-yogurt-body-scrub-300ml-turmeric-face-wash-50-ml-2-m-original-imagu6jhgamswazy.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/g/w/p/turmeric-yogurt-body-scrub-300ml-turmeric-face-wash-50-ml-2-m-original-imagu6jhqezdyfgr.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l1l1rww0/scrub/x/h/d/350-free-neem-face-wash-50ml-with-turmeric-and-yogurt-face-and-original-imagd4adguppgyzn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/e/f/turmeric-yogurt-body-scrub-100ml-face-scrub-for-natural-skin-original-imagu6keb3eruyzx.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/odeon-turmeric-yogurt-body-scrub-300ml-face-wash-50-ml/p/itm2fd63caa9baca",
-  "buyStore": "Flipkart",
-  "title": "ODEON Turmeric & Yogurt Body Scrub (300ml) + TURMERIC FACE WASH 50 ML",
-  "tags": [
-   "scope:both",
-   "format:pack",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:turmeric",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 20 ratings"
-  }
- },
- {
-  "id": "odeon-itme562607dec5c7",
-  "brand": "ODEON",
-  "model": "Turmeric & Yogurt Face & Body Scrub 300ml + neem face wash 0ml",
-  "price": 232,
-  "capacityLine": "300 ml",
-  "materialLine": "Turmeric + Neem",
-  "featureLine": "Scrub · ₹77/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [
-   "Well-reviewed: 4.3★ from 18 ratings"
-  ],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 4.7
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹77/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Turmeric, Neem (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.3/5 (18 ratings, Flipkart)",
-   "madeIn": "INDIA",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 18 ratings"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/l1l1rww0/scrub/x/h/d/350-free-neem-face-wash-50ml-with-turmeric-and-yogurt-face-and-original-imagd4adguppgyzn.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/kv9urgw0/scrub/4/v/h/300-turmeric-yogurt-face-and-body-scrub-300ml-brightening-original-imag87dmzqwtr3fp.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/l1l1rww0/scrub/s/y/n/350-free-neem-face-wash-50ml-with-charcoal-tea-tree-face-body-original-imagd48qugxrcfbk.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/t/l/g/turmeric-yogurt-body-scrub-300ml-turmeric-face-wash-50-ml-2-m-original-imagu6jhyn7gxmhg.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/i/e/f/turmeric-yogurt-body-scrub-100ml-face-scrub-for-natural-skin-original-imagu6keb3eruyzx.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/odeon-turmeric-yogurt-face-body-scrub-300ml-neem-wash-0ml/p/itme562607dec5c7",
-  "buyStore": "Flipkart",
-  "title": "ODEON Turmeric & Yogurt Face & Body Scrub 300ml + neem face wash 0ml",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "ing:turmeric",
-   "ing:neem",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.3★ from 18 ratings"
-  }
- },
- {
   "id": "oriflame-itm94af236614948",
   "brand": "Oriflame",
   "model": "LOVE NATURE FOREST BERRIES DELIGHTS EXFOLIATING BODY SCRUB JAM (200 ml)",
@@ -116790,114 +116126,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "scrub-naturals-itm220630fce45c5",
-  "brand": "SCRUB NATURALS",
-  "model": "Luxury Unisex Body Mist Gift Box| Midnight, Aimraa, Mistique, Desire, Addict Body Mist - F…",
-  "price": 445,
-  "capacityLine": "100 ml (pack of 2)",
-  "materialLine": "Lemon",
-  "featureLine": "Scrub · ₹445/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 ml × 2 pack",
-   "pricePer100": "₹445/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lemon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Antiperspirant / sweat control, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/p/t/t/50-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-original-imahazcdvwjp5uhz.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/s/m/h/50-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-original-imahazcdftjrpmhj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/w/j/x/50-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-original-imahazcdeyhardkq.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/4/g/b/50-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-original-imahazcdubpnpfwj.jpeg?q=90",
-   "https://rukminim2.flixcart.com/image/612/612/xif0q/deodorant/y/1/b/50-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-original-imahazcdyq8ykarh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/scrub-naturals-luxury-unisex-body-mist-gift-box-midnight-aimraa-mistique-desire-addict-men-women/p/itm220630fce45c5",
-  "buyStore": "Flipkart",
-  "title": "SCRUB NATURALS Luxury Unisex Body Mist Gift Box| Midnight, Aimraa, Mistique, Desire, Addict Body Mist - For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:pack",
-   "format:scrub",
-   "format:roll-on",
-   "format:kit",
-   "format:aerosol",
-   "ing:lemon",
-   "claim:antiperspirant",
-   "claim:odour",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "blestaaa-essentialss-itm821bb0ef1cb49",
   "brand": "blestaaa essentialss",
   "model": "D-Tan Roll On with AHA BHA Gently Exfoliates and Hydrates Underarms Deodorant Roll-on - Fo…",
@@ -117676,7 +116904,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itmb29fd29d9a862",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Botanix Clarifying Tea Tree Face & Body Scrub Youthful Glow,Reduces Tan,Dullness Scrub",
   "price": 410,
   "capacityLine": "75 g",
@@ -117885,6 +117113,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -117892,6 +117121,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -117899,6 +117129,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 7,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     }
    ],
@@ -118373,7 +117604,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "cosmo-itm31b86ad0fcb99",
-  "brand": "Cosmo",
+  "brand": "COSMO",
   "model": "Botanix Apple Cider Vinegar Face & Body Scrub with Vitamin E + Licoric-Exfoliate Scrub",
   "price": 410,
   "capacityLine": "40 g (pack of 2)",
@@ -121305,6 +120536,338 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "unbranded-itm60fe04d71d92e",
+  "brand": "Unbranded",
+  "model": "CENTELLA Body wash shower gel| Gentle Daily exfoliating| Body wash| Brightening & Refresh:…",
+  "price": 998,
+  "capacityLine": "2000 ml (pack of 2)",
+  "materialLine": "Coffee + Centella / cica + Charcoal",
+  "featureLine": "Scrub · ₹50/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "1000 ml × 2 pack",
+   "pricePer100": "₹50/100ml",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Centella / cica, Charcoal, Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Naturals Herbals",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/6/c/x/10-body-wash-shower-gel-gentle-daily-exfoliating-body-wash-original-imahgxzgmfge5srw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/p/r/h/10-body-wash-shower-gel-gentle-daily-exfoliating-body-wash-original-imahgxzgfehvzvbq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/s/3/q/10-body-wash-shower-gel-gentle-daily-exfoliating-body-wash-original-imahgxzg8zzcyxrz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/y/u/m/10-body-wash-shower-gel-gentle-daily-exfoliating-body-wash-original-imahgxzg8nhemapw.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/u/3/i/10-body-wash-shower-gel-gentle-daily-exfoliating-body-wash-original-imahgxzgcf9fffnb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/centella-body-wash-shower-gel-gentle-daily-exfoliating-wash-brightening-refresh/p/itm60fe04d71d92e",
+  "buyStore": "Flipkart",
+  "title": "CENTELLA Body wash shower gel| Gentle Daily exfoliating| Body wash| Brightening & Refresh: Buy CENTELLA Body wash shower gel| Gentle Daily exfoliating| Body wash| Brightening & Refresh at Low",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:wash",
+   "format:kit",
+   "ing:coffee",
+   "ing:centella-cica",
+   "ing:charcoal",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "skin:all",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Naturals Herbals",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
+  "id": "the-soumi-s-can-product-itmeda872846db66",
+  "brand": "The Soumi's Can Product",
+  "model": "POMEGRANATE SCRUBBER FACE & BODY (350GM) & VITAMIN C SERUM (50ML)",
+  "price": 348,
+  "capacityLine": "350 g",
+  "materialLine": "Vitamin C",
+  "featureLine": "Serum · ₹99/100g",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "Well-reviewed: 4.5★ from 342 ratings"
+  ],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 7.1
+  },
+  "fullSpec": {
+   "quantity": "350 g",
+   "pricePer100": "₹99/100g",
+   "format": "Serum",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (342 ratings, Flipkart)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 342 ratings"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/combo-kit/d/m/h/pomegranate-scrubber-face-body-350gm-vitamin-c-serum-50ml-2-original-imahz4rwrypqpqjg.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/u/h/5/400-pomegranate-scrubber-face-body-the-soumi-s-can-product-original-imahnzuaxtdxbgty.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/p/s/e/pomegranate-scrubber-face-body-400gm-vitamin-c-serum-50ml-original-imahfwutwnv9wax5.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/z/y/m/400-pomegranate-scrubber-face-body-the-soumi-s-can-product-original-imahnzub7dkwbqj3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/b/z/o/pomegranate-scrubber-face-body-400gm-vitamin-c-serum-50ml-original-imahfwut88ahzgzk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/soumi-s-can-product-pomegranate-scrubber-face-body-350gm-vitamin-c-serum-50ml/p/itmeda872846db66",
+  "buyStore": "Flipkart",
+  "title": "The Soumi's Can Product POMEGRANATE SCRUBBER FACE & BODY (350GM) & VITAMIN C SERUM (50ML)",
+  "tags": [
+   "scope:both",
+   "format:serum",
+   "format:pack",
+   "format:kit",
+   "ing:vitamin-c",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 342 ratings"
+  }
+ },
+ {
+  "id": "dr-melaxin-itmd39bd979a0b7c",
+  "brand": "Dr.Melaxin",
+  "model": "Glow Rice Ampoule Peeling Solution | Gentle Exfoliation for Face & Body Care",
+  "price": 930,
+  "capacityLine": "80 ml",
+  "materialLine": "Rice water",
+  "featureLine": "Scrub · Paraben-free · ₹1163/100ml",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "80 ml",
+   "pricePer100": "₹1163/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Rice water (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "regulated": "Contains / references a drug-grade active (adapalene, tretinoin, clindamycin, IP/USP) — follow label directions; not a cosmetic claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract: Helps support smooth and bright-looking skin Cellulose: Provides gentle exfoliation by lifting dead skin residue Glycerin & Betaine: Help maintain skin moisture Panthenol & Allantoin: Known for skin-conditioning benefits Sodium Hyaluronate: Helps keep skin hydrated",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/8/i/x/80-glow-rice-ampoule-peeling-solution-gentle-exfoliation-for-original-imahmavj24zg2v2u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/j/r/q/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqxuzfzhew.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/b/f/n/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqcge4a58n.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/s/0/r/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqhbwfgxhq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/9/u/80-glow-rice-daily-peeling-ampoule-gentle-exfoliating-care-for-original-imahmatqy2kzkgrf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-melaxin-glow-rice-ampoule-peeling-solution-gentle-exfoliation-face-body-care/p/itmd39bd979a0b7c",
+  "buyStore": "Flipkart",
+  "title": "Dr.Melaxin Glow Rice Ampoule Peeling Solution | Gentle Exfoliation for Face & Body Care",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:serum",
+   "format:ampoule",
+   "format:pack",
+   "format:peel",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:scars",
+   "skin:all",
+   "free:paraben",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Rice Extract: Helps support smooth and bright-looking skin Cellulose: Provides gentle exfoliation by lifting dead skin residue Glycerin & Betaine: Help maintain skin moisture Panthenol & Allantoin: Known for skin-conditioning benefits Sodium Hyaluronate: Helps keep skin hydrated",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "bake-b0dkkj37r3",
   "brand": "BAKE",
   "model": "10% Lactic Acid Body Lotion with Azelaic Acid | Smooths Rough & Bumpy Skin, Exfoliates Ski…",
@@ -121750,6 +121313,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -121757,6 +121321,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -121764,6 +121329,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": true,
      "src": "caffeine"
     },
     {
@@ -121771,6 +121337,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -121778,6 +121345,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -121785,6 +121353,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     }
    ],
@@ -126322,7 +125891,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#8 on list, moderate evidence); prunus amygdalus dulcis oil (#10 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: hexyl cinnamal, limonene, linalool, benzyl benzoate (−1.2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #15 on INCI; Aging — ascorbic acid #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/510siTQivNL._SL1000_.jpg",
@@ -126347,6 +125917,8 @@ const NXPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -126379,6 +125951,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -126386,6 +125959,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -126393,6 +125967,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -126400,6 +125975,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -126407,6 +125983,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -126414,6 +125991,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -126421,6 +125999,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 27,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -126666,6 +126245,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -126673,6 +126253,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -126680,6 +126261,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -126687,6 +126269,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -126694,6 +126277,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -126701,6 +126285,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -126708,6 +126293,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "vitc"
     }
    ],
@@ -127832,114 +127418,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "plum-b0c5d978cf",
-  "brand": "Plum",
-  "model": "BodyLovin' Vanilla Vibes Sugar Body Scrub and Body Mist | Perfume for Women | 150 ml",
-  "price": 913,
-  "capacityLine": "150 ml",
-  "materialLine": "Shea butter + Sugar",
-  "featureLine": "Scrub · ₹609/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹609/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61G6EvWDjxL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51HL4bE+zJL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61VT-t55yzL._SL1101_.jpg",
-   "https://m.media-amazon.com/images/I/51KQf0ojCOL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61kDmKDc7RL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0C5D978CF",
-  "buyStore": "Amazon",
-  "title": "Plum BodyLovin' Vanilla Vibes Sugar Body Scrub and Body Mist | Perfume for Women | 150 ml",
-  "tags": [
-   "scope:body",
-   "format:mist",
-   "format:oil",
-   "format:balm",
-   "format:scrub",
-   "ing:shea-butter",
-   "ing:sugar",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:odour",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Pureplay Skin Sciences",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://plumgoodness.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "leal-b09zlndzwy",
   "brand": "Leal",
   "model": "Cosmetics Whipped Face & Body Scrub - 200gm (Tropical Escape) | Exfoliator 2 in 1 Green Te…",
@@ -128247,113 +127725,6 @@ const NXPRODUCTS = [
     "url": "https://www.forestessentialsindia.com/"
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "dove-b0chy6lylf",
-  "brand": "Dove",
-  "model": "Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds, 298gm & Dov…",
-  "price": 861,
-  "capacityLine": "298 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Scrub · ₹289/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "298 g",
-   "pricePer100": "₹289/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Cb3WoRfHL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71IparxKDYL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81WRGZkWn5L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81iJ21S0bqL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/419w4PBH11L._SL1000_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CHY6LYLF",
-  "buyStore": "Amazon",
-  "title": "Dove Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds, 298gm & Dove Deeply Nourishing Body Wash, With Moisturisers For Softer, Smoother Skin, For All Skin Type, 800 ml",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:balm",
-   "format:scrub",
-   "format:wash",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:dry",
-   "skin:all",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -133593,7 +132964,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#1 on list, strong evidence); prunus amygdalus dulcis oil (#9 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: linalool, limonene, hexyl cinnamal, butylphenyl methylpropional, geraniol (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #17 on INCI; Aging — ascorbic acid #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Ra-FXLexL._SL1500_.jpg",
@@ -133614,6 +132986,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -133646,6 +133020,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -133653,6 +133028,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -133660,6 +133036,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -133667,6 +133044,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 18,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -133706,6 +133084,1646 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b08t4fljqz",
+  "brand": "Dove",
+  "model": "Exfoliating Body Polish Scrub For Dry Skin With Brown Sugar & Coconut Butter, Gently Exfol…",
+  "price": 584,
+  "capacityLine": "298 g",
+  "materialLine": "Coconut + Sugar",
+  "featureLine": "Scrub · ₹196/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sodium chloride high on the INCI list (limited evidence)",
+   "No fragrance / flagged irritant on the INCI list"
+  ],
+  "cons": [],
+  "scores": {
+   "ingredients": 3.5,
+   "skin": 10,
+   "trust": 8.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "298 g",
+   "pricePer100": "₹196/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coconut, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Water (Eau),Isethionate, Stearic Acid, Hydrated Silica, Sodium Stearate, Cocamidopropyl Betaine, Acid, Sodium Fragrance (Parfum), Colloidal Oatmeal, Calendula Officinalis Flower Extract, Sodium Isethionate, Cetearyl Alcohol, Sodium Chloride, Synthetic Wax, Sodium Laurate, Sodium Benzoate, Hydroxyacetophenone, Tetrasodium Edta, Tetrasodium Etidronate, Caprylic/capric Triglyceride, Kaolin or (00) Titanium Dioxide 77891), Blue I 42090), 5 19140), Red 33 17200), Iron Oxides 77492)/ Iron Oxides 77491 | Iron Oxides 77499).",
+   "evidenceActives": "sodium chloride (#13 on list, limited evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.5★ from 0 ratings",
+   "concernBasis": "Irritation — colloidal oatmeal #9 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51M6BsarCuL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08T4FLJQZ",
+  "buyStore": "Amazon",
+  "title": "Dove Exfoliating Body Polish Scrub For Dry Skin With Brown Sugar & Coconut Butter, Gently Exfoliates & Moisturizes For Instant Soft & Smooth Skin, Natural Ingredients, No Sulfate, Coconut Scent, 298g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:coconut",
+   "ing:sugar",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "free:ph-balanced",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "target:irritation",
+   "inci:full",
+   "inci:no-fragrance"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Water (Eau),Isethionate, Stearic Acid, Hydrated Silica, Sodium Stearate, Cocamidopropyl Betaine, Acid, Sodium Fragrance (Parfum), Colloidal Oatmeal, Calendula Officinalis Flower Extract, Sodium Isethionate, Cetearyl Alcohol, Sodium Chloride, Synthetic Wax, Sodium Laurate, Sodium Benzoate, Hydroxyacetophenone, Tetrasodium Edta, Tetrasodium Etidronate, Caprylic/capric Triglyceride, Kaolin or (00) Titanium Dioxide 77891), Blue I 42090), 5 19140), Red 33 17200), Iron Oxides 77492)/ Iron Oxides 77491 | Iron Oxides 77499).",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 1,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "colloidal oatmeal",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "oat"
+    },
+    {
+     "name": "sodium chloride",
+     "grade": "C",
+     "position": 13,
+     "core": true,
+     "trace": false,
+     "src": "aadScrub"
+    }
+   ],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "foxtale-b0gmprhml6",
+  "brand": "FoxTale",
+  "model": "Hula Hoop Exfoliating Body Scrub For Smooth & Even Skin, 75 g",
+  "price": 314,
+  "capacityLine": "75 g",
+  "materialLine": "Lactic acid + Glycerin + Sea salt",
+  "featureLine": "Scrub · ₹419/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 3.8
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹419/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Lactic acid, Glycerin, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Ingrown hair / razor bumps (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.6★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61o+M924qIL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/614ZDlaOdNL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61syHNfoPML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/617V5xQmJVL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61JMnQ0SdsL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMPRHML6",
+  "buyStore": "Amazon",
+  "title": "Hula Hoop Exfoliating Body Scrub For Smooth & Even Skin, 75 g",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:glycerin",
+   "ing:sea-salt",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ingrown",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Foxtale Consumer",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://foxtale.in/"
+   },
+   "buyers": "4.6★ from 0 ratings"
+  }
+ },
+ {
+  "id": "thriveco-b0ffh5mylq",
+  "brand": "ThriveCo",
+  "model": "Exfoliating Body Wash | Prevents Body Acne, Tan & Dead Skin Removal | With Lactic, Salicyl…",
+  "price": 199,
+  "capacityLine": "236 ml",
+  "materialLine": "Salicylic acid (BHA) + Lactic acid + Vitamin E",
+  "featureLine": "Scrub · ₹84/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "236 ml",
+   "pricePer100": "₹84/100ml",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), Lactic acid, Vitamin E, Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Exfoliating, Rough / bumpy skin (KP) (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616wJ9wJiRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714dt6BrxHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7114KVbNjEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/713U9O1JX9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71SvAsZWsjL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FFH5MYLQ",
+  "buyStore": "Amazon",
+  "title": "Thriveco Exfoliating Body Wash | Prevents Body Acne, Tan & Dead Skin Removal | With Lactic, Salicylic Acid, Vitamin E & Diacnemide® | Daily Use Shower Gel | For Men & Women | 236ml",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:oil",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:vitamin-e",
+   "ing:strawberry",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "body-bae-b0gx1wbxtq",
+  "brand": "BODY BAE",
+  "model": "Coffee Body Scrub 100g – Deep Exfoliating Coffee Scrub for Tan Removal, Dead Skin & Blackh…",
+  "price": 699,
+  "capacityLine": "100 g",
+  "materialLine": "Coffee",
+  "featureLine": "Scrub · ₹699/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹699/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Pores / blackheads, Soothing / calming, Exfoliating, Dry / very dry skin relief (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71OmcMQS3VL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81b7LdGujzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81C4hYm5c4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71o4hEXShzL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81K-X+iT+HL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX1WBXTQ",
+  "buyStore": "Amazon",
+  "title": "Body BAE Coffee Body Scrub 100g – Deep Exfoliating Coffee Scrub for Tan Removal, Dead Skin & Blackheads | Natural Glow & Smooth Skin | For All Skin Types",
+  "tags": [
+   "scope:body",
+   "format:pack",
+   "format:scrub",
+   "ing:coffee",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:oily",
+   "skin:combination",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sheny-b0h88bn4zt",
+  "brand": "Sheny",
+  "model": "Coffee Face Body Scrub for Gentle Exfoliation and Skin Renewal",
+  "price": 185,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coffee",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Coffee (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71gvsvk+6aL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lSLy+sTpL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61trWO3nbVL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51qucMAH9bL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H88BN4ZT",
+  "buyStore": "Amazon",
+  "title": "Coffee Face Body Scrub for Gentle Exfoliation and Skin Renewal",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "format:wash",
+   "ing:coffee",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "wild-oak-b0h5rd75zf",
+  "brand": "Wild Oak",
+  "model": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyalu…",
+  "price": 399,
+  "capacityLine": "300 g",
+  "materialLine": "Vitamin C + Hyaluronic acid + Ceramides",
+  "featureLine": "Scrub · Paraben-free · ₹133/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "sucrose high on the INCI list (limited evidence); glycerin high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "EU-declared fragrance allergen: limonene, linalool",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 6,
+   "skin": 5.6,
+   "trust": 5.5,
+   "experience": 1.6
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹133/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin C, Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Rose, Almond, Shea butter, Avocado, Sugar (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Hydrating / moisturizing, Barrier repair, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Sucrose, Glycerin, Silica, Caprylyl Glycol, Polysorbate 20, Butyrospermum Parkii (Shea) Butter, Hydrolyzed Collagen, Ceramides, Hyaluronic Acid, Peptides, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Kojic Acid, Oenothera Biennis (Evening Primrose) Oil, Citrus Aurantium Dulcis (Orange) Oil, Ascorbic Acid (Vitamin C), Leuconostoc/Radish Root Ferment Filtrate, Macadamia Ternifolia Seed Oil, Retinyl Palmitate (Vitamin A), Phenoxyethanol, Sorbic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Benzoate, Fragrance (Parfum), Aqua (Water), Color.",
+   "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#6 on list, moderate evidence); prunus amygdalus dulcis oil (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, benzyl benzoate (−1.2)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 0 ratings",
+   "concernBasis": "Dark spots — kojic acid #14 on INCI, ascorbic acid #17 on INCI; Aging — ascorbic acid #17 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71d35QCqq0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5RD75ZF",
+  "buyStore": "Amazon",
+  "title": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | Helps Removes Tan & Smooth Rough Skin | Lasting Deo Fragrance",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "format:aerosol",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:kojic-acid",
+   "ing:rose",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:avocado",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "free:paraben",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "target:dark-spots",
+   "target:aging",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Sucrose, Glycerin, Silica, Caprylyl Glycol, Polysorbate 20, Butyrospermum Parkii (Shea) Butter, Hydrolyzed Collagen, Ceramides, Hyaluronic Acid, Peptides, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Persea Gratissima (Avocado) Oil, Carthamus Tinctorius (Safflower) Seed Oil, Kojic Acid, Oenothera Biennis (Evening Primrose) Oil, Citrus Aurantium Dulcis (Orange) Oil, Ascorbic Acid (Vitamin C), Leuconostoc/Radish Root Ferment Filtrate, Macadamia Ternifolia Seed Oil, Retinyl Palmitate (Vitamin A), Phenoxyethanol, Sorbic Acid, Limonene, Linalool, Benzyl Salicylate, Benzyl Benzoate, Fragrance (Parfum), Aqua (Water), Color.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "sucrose",
+     "grade": "C",
+     "position": 1,
+     "core": true,
+     "trace": false,
+     "src": "aadScrub"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 9,
+     "core": false,
+     "trace": false,
+     "src": "ha"
+    },
+    {
+     "name": "prunus amygdalus dulcis oil",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "trace": false,
+     "src": "squalane"
+    },
+    {
+     "name": "kojic acid",
+     "grade": "B",
+     "position": 14,
+     "core": false,
+     "trace": false,
+     "src": "pigment"
+    },
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 17,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    },
+    {
+     "name": "retinyl palmitate",
+     "grade": "C",
+     "position": 20,
+     "core": false,
+     "trace": false,
+     "src": "retinoids"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "hyaluronic acid"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl salicylate",
+      "benzyl benzoate"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 0 ratings"
+  }
+ },
+ {
+  "id": "saka-organics-b0drsnhcfn",
+  "brand": "Saka Organics",
+  "model": "Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells …",
+  "price": 344,
+  "capacityLine": "100 g",
+  "materialLine": "Coffee + Turmeric + Neem",
+  "featureLine": "Scrub · ₹344/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹344/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Turmeric, Neem, Coconut, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Coffee Grounds (25.0%), Coconut Oil (25.0%), Cocoa Butter (25.0%), Brown Sugar (25.0%)",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61q548pJpNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61449iCpP0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61L2VfvX7uL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81NbaaaZS3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71mXNDMTuQL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DRSNHCFN",
+  "buyStore": "Amazon",
+  "title": "Saka Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells For Smoother, Softer, And Refreshed Skin | Body Scrub For Woman | Body Scrub For Men",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:scrub",
+   "ing:coffee",
+   "ing:turmeric",
+   "ing:neem",
+   "ing:coconut",
+   "ing:sugar",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:men",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Coffee Grounds (25.0%), Coconut Oil (25.0%), Cocoa Butter (25.0%), Brown Sugar (25.0%)",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sanctus-b0cfxnk7b6",
+  "brand": "SANCTUS",
+  "model": "Insta Glow Sugar Face & Body Scrub- Reduces Dead Skin, Tan & Scars | Improves Skin Tone Wi…",
+  "price": 325,
+  "capacityLine": "100 g",
+  "materialLine": "Licorice + Sugar",
+  "featureLine": "Scrub · ₹325/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹325/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Licorice, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Exfoliating, Scars / marks (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: natural",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BZZxrmSkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71BirBsa5TL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IZ-dYN5cL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71UFIYMS72L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81AZeVbHbNL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CFXNK7B6",
+  "buyStore": "Amazon",
+  "title": "Insta Glow Sugar Face & Body Scrub- Reduces Dead Skin, Tan & Scars | Improves Skin Tone With Boswellia Ext., Patchouli Oil & Licorice Ext. – 100gm",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:scrub",
+   "ing:licorice",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:scars",
+   "free:toxin-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:low",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "natural",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cd-cosmo-designs-b0g8gg6ty1",
+  "brand": "CD COSMO DESIGNS",
+  "model": "Cosmo Body Slush Sugar Scrub – Lemonade 450g | Exfoliating & Moisturizing Body Scrub with …",
+  "price": 1499,
+  "capacityLine": "450 g",
+  "materialLine": "Sugar",
+  "featureLine": "Scrub · ₹333/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "450 g",
+   "pricePer100": "₹333/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61OFY-htkDL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61dlaKIy0yL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/611xxOOHcSL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61EJklZaV5L._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71GOEf1zEkL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G8GG6TY1",
+  "buyStore": "Amazon",
+  "title": "Cosmo Body Slush Sugar Scrub – Lemonade 450g | Exfoliating & Moisturizing Body Scrub with Natural Sugar Crystals | Removes Dead Skin, Softens & Smoothens Skin | Refreshing Citrus Lemonade Fragrance for Luxurious Skincare",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:patch",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "size:xl",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "luxzeria-b0h158y87s",
+  "brand": "Luxzeria",
+  "model": "Brightening and Renewing Face Sugar Scrub with Vitamin C and Orange Extract, Sulfate and P…",
+  "price": 800,
+  "capacityLine": "150 g",
+  "materialLine": "Vitamin C + Hyaluronic acid + Ceramides",
+  "featureLine": "Scrub · Paraben-free · ₹533/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹533/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C, Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Glycerin, Jojoba, Strawberry, Sugar (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Hydrating / moisturizing, Soothing / calming, Exfoliating, Rough / bumpy skin (KP), Makeup-related (setting / priming / removing) (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61H0JWEJSDL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H158Y87S",
+  "buyStore": "Amazon",
+  "title": "Brightening and Renewing Face Sugar Scrub with Vitamin C and Orange Extract, Sulfate and Paraben Free, 150 gm Sugar Body Scrub | 300g | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | De-Tan & Brightens Dark Areas | Smooths Strawberry Legs & Arms | Hydrates & Exfoliates",
+  "tags": [
+   "scope:both",
+   "format:balm",
+   "format:scrub",
+   "format:powder",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:peptides",
+   "ing:collagen",
+   "ing:kojic-acid",
+   "ing:glycerin",
+   "ing:jojoba",
+   "ing:strawberry",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:makeup",
+   "skin:all",
+   "free:paraben",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "cd-cosmo-designs-b0ftz2gjsg",
+  "brand": "CD COSMO DESIGNS",
+  "model": "Cosmo Strawberry Shea Sugar Scrub 450g, Exfoliating & Nourishing Body Scrub, Brightening &…",
+  "price": 1199,
+  "capacityLine": "450 g",
+  "materialLine": "Shea butter + Strawberry + Sugar",
+  "featureLine": "Scrub · ₹266/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "450 g",
+   "pricePer100": "₹266/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Shea butter, Strawberry, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ixxRh4btL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71+ZlqIGlPL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FTZ2GJSG",
+  "buyStore": "Amazon",
+  "title": "Cosmo Strawberry Shea Sugar Scrub 450g, Exfoliating & Nourishing Body Scrub, Brightening & Hydrating, Face & Body Care, Natural Ingredient, Dead & Deep Skin Cleanser, All Skin Types, Scrub For Unisex",
+  "tags": [
+   "scope:both",
+   "format:balm",
+   "format:scrub",
+   "format:wash",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "colorstock-b0dttncprr",
+  "brand": "COLORSTOCK",
+  "model": "Knee & Feet Brightening Scrub | Body Scrub to Remove Dead Skin 100 grams Pack of 2",
+  "price": 314,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "Aloe vera + Shea butter",
+  "featureLine": "Scrub · ₹157/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹157/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Aloe vera, Shea butter (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Dry / very dry skin relief, Ingrown hair / razor bumps (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/514x12HDKEL._SL1009_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DTTNCPRR",
+  "buyStore": "Amazon",
+  "title": "Knee & Feet Brightening Scrub | Body Scrub to Remove Dead Skin 100 grams Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:balm",
+   "format:scrub",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:ingrown",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0chy9xts4",
+  "brand": "Dove",
+  "model": "Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes …",
+  "price": 1198,
+  "capacityLine": "298 g",
+  "materialLine": "Colloidal oatmeal + Shea butter + Calendula",
+  "featureLine": "Scrub · Sulfate/SLS-free · ₹402/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "298 g",
+   "pricePer100": "₹402/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Colloidal oatmeal, Shea butter, Calendula (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, Sensitive skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61qZhAQUWmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IparxKDYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81WRGZkWn5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81iJ21S0bqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51PPUKh-FiL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CHY9XTS4",
+  "buyStore": "Amazon",
+  "title": "Dove Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes & Conditions Soft Skin | Sulphate Free, 298gm & Dove Exfoliating Body Polish Scrub 298g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "ing:colloidal-oatmeal",
+   "ing:shea-butter",
+   "ing:calendula",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:dry",
+   "skin:sensitive",
+   "free:sulfate",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0chy5qpbv",
+  "brand": "Dove",
+  "model": "Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes …",
+  "price": 1175,
+  "capacityLine": "298 g",
+  "materialLine": "Almond + Shea butter",
+  "featureLine": "Scrub · Sulfate/SLS-free · ₹394/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "298 g",
+   "pricePer100": "₹394/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Almond, Shea butter (named on listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Shea Butter,Pomegranate",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71--gn69LIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71IparxKDYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81WRGZkWn5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81iJ21S0bqL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71BN7hELO6L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CHY5QPBV",
+  "buyStore": "Amazon",
+  "title": "Dove Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes & Conditions Soft Skin | Sulphate Free, 298gm & Dove Exfoliating Body Polish Scrub For Dry Skin 298g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:balm",
+   "format:scrub",
+   "ing:almond",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:dry",
+   "free:sulfate",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Shea Butter,Pomegranate",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -134519,7 +135537,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence); juglans regia shell powder (#6 on list, limited evidence)",
    "safetyFlags": "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
    "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #3 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41RYPwZhDvL._SL1100_.jpg",
@@ -134548,6 +135567,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -134581,6 +135601,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -134588,6 +135609,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 3,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -134595,6 +135617,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     }
    ],
@@ -136304,7 +137327,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#2 on list, strong evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.3★ from 0 ratings"
+   "buyerEvidence": "4.3★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #1 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KsEewuOtL._SL1500_.jpg",
@@ -136334,6 +137358,7 @@ const NXPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -136366,6 +137391,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 1,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -136373,6 +137399,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -136380,6 +137407,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -139030,7 +140058,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); lactic acid (#7 on list, strong evidence); butyrospermum parkii butter (#8 on list, moderate evidence); prunus amygdalus dulcis oil (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: limonene, linalool (−0.6)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
+   "buyerEvidence": "4.4★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #5 on INCI; Aging — ascorbic acid #5 on INCI; Irritation — aloe barbadensis leaf juice #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61G87FVoAQL._SL1500_.jpg",
@@ -139056,6 +140085,9 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
+   "target:irritation",
    "inci:full",
    "inci:brand-site"
   ],
@@ -139088,6 +140120,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -139095,6 +140128,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -139102,6 +140136,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -139109,6 +140144,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -139116,6 +140152,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -139123,6 +140160,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -139130,6 +140168,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -139137,6 +140176,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 19,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -139448,7 +140488,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); cocos nucifera oil (#6 on list, limited evidence); butyrospermum parkii butter (#8 on list, moderate evidence); prunus amygdalus dulcis oil (#11 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8); EU-declared fragrance allergen: benzyl salicylate, limonene, linalool, butylphenyl methylpropional, hexyl cinnamal (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #16 on INCI; Aging — ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71p2j4yF+gL._SL1500_.jpg",
@@ -139470,6 +140511,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -139502,6 +140545,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -139509,6 +140553,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -139516,6 +140561,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -139523,6 +140569,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -139530,6 +140577,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 11,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -139537,6 +140585,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     },
     {
@@ -139544,6 +140593,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     }
    ],
@@ -139632,7 +140682,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#8 on list, moderate evidence); prunus amygdalus dulcis oil (#10 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: linalool, hexyl cinnamal, limonene, geraniol, benzyl benzoate (−1.5)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #15 on INCI; Aging — ascorbic acid #15 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Y5dglxZ2L._SL1500_.jpg",
@@ -139659,6 +140710,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -139691,6 +140744,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -139698,6 +140752,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -139705,6 +140760,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -139712,6 +140768,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 10,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -139719,6 +140776,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -139726,6 +140784,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -144407,126 +145466,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "be-bodywise-b0h1s8fnx1",
-  "brand": "Be Bodywise",
-  "model": "5% AHA BHA Detan Exfoliating Body Wash(250ml) & 10% AHA BHA Body Bathing Scrub(300g) | Red…",
-  "price": 668,
-  "capacityLine": "300 g",
-  "materialLine": "Salicylic acid (BHA) + Glycolic acid + Lactic acid",
-  "featureLine": "Scrub · ₹223/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹223/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Glycolic acid, Lactic acid, AHA, Shea butter, Strawberry (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (seller claim — not scored)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Rough / bumpy skin (KP), Ingrown hair / razor bumps (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/714jyW3HBiL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/51xd+esJmxL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61oynJ2XODL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/81Ms7uxVicL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71qGp2ZnPxL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1S8FNX1",
-  "buyStore": "Amazon",
-  "title": "Be Bodywise 5% AHA BHA Detan Exfoliating Body Wash(250ml) & 10% AHA BHA Body Bathing Scrub(300g) | Reduces Strawberry Skin, Tan & Body Acne | Lactic Acid, Glycolic Acid & Shea Butter | All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:balm",
-   "format:scrub",
-   "format:patch",
-   "format:wash",
-   "format:kit",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:aha",
-   "ing:shea-butter",
-   "ing:strawberry",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:kp",
-   "claim:ingrown",
-   "skin:all",
-   "free:derm",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Chemist at Play / Bodywise",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://chemistatplay.com/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "psggo-mart-b0hddkwhpz",
   "brand": "PSGGO MART",
   "model": "Orange Body Scrub Cream for Women & Men | Exfoliating Body Polish with Natural Orange Extr…",
@@ -146139,6 +147078,1855 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "barley-feel-the-nature-b0gzv99zbp",
+  "brand": "Barley feel the nature...",
+  "model": "Barley Diamond Face & Body scrub For Men And Women (380 Ml) | Anti Aging & Detoxxifying Sc…",
+  "price": 179,
+  "capacityLine": "380 ml",
+  "materialLine": "Glycerin",
+  "featureLine": "Scrub · ₹47/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "380 ml",
+   "pricePer100": "₹47/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging / wrinkles, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Sodium Lactate, Sunflower Oil, Coconut Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71sIQNpwxBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71dUC4SLguL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/618PjMCMDiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71xqwOs04KL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/71bzLGkiu7L._SL1440_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZV99ZBP",
+  "buyStore": "Amazon",
+  "title": "Barley Diamond Face & Body scrub For Men And Women (380 Ml) | Anti Aging & Detoxxifying Scrub |Suitable For Deep Exfoliation & Removing Dead Skin",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "ing:glycerin",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Sodium Lactate, Sunflower Oil, Coconut Oil",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-rashel-b0f1963ymr",
+  "brand": "Dr. Rashel",
+  "model": "Aloe Vera Face & Body Scrub – Deep Cleansing & Hydrating Exfoliator for Smooth, Radiant Sk…",
+  "price": 98,
+  "capacityLine": "45 ml",
+  "materialLine": "Aloe vera",
+  "featureLine": "Scrub · ₹218/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "45 ml",
+   "pricePer100": "₹218/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Aloe vera (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Aloevera Extract,Micro Walnut Granules",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/715Y0Dn7sjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71N3yHpuDyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71N1+l4xoWL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ZMHgCXZ-L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71F4TFZ61kL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F1963YMR",
+  "buyStore": "Amazon",
+  "title": "DR.RASHEL Aloe Vera Face & Body Scrub – Deep Cleansing & Hydrating Exfoliator for Smooth, Radiant Skin – Removes Dead Skin & Impurities – Suitable for All Skin Types – 45ML",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "format:wash",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Aloevera Extract,Micro Walnut Granules",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0gl8nxqdy",
+  "brand": "Unbranded",
+  "model": "Dream Beauty Scrub 800g - Deep Exfoliating Face & Body Scrub for Rapid Tan Removal & Radia…",
+  "price": 494,
+  "capacityLine": "800 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹62/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "800 g",
+   "pricePer100": "₹62/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Barrier repair, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51L6Uh8h6VL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61cifcn9UDL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61VKrBJj0LL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/517nZkyR+RL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51cImxdP2xL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GL8NXQDY",
+  "buyStore": "Amazon",
+  "title": "Dream Beauty Scrub 800g - Deep Exfoliating Face & Body Scrub for Rapid Tan Removal & Radiant Glow - Available in Flavour (Aloevera)",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:pack",
+   "format:scrub",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:odour",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-rashel-b0fmrkqk7h",
+  "brand": "Dr. Rashel",
+  "model": "De-Tan Scrub For Face & Body | Revitalizing Tan Removal | Cleanser For Deep Exfoliation | …",
+  "price": 450,
+  "capacityLine": "1140 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · Paraben-free · ₹39/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
+  },
+  "fullSpec": {
+   "quantity": "380 ml × 3 pack",
+   "pricePer100": "₹39/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.7/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71kVJIuF73L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71T1sz6YDbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61XbB9ZmNgL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/615-gB1ohfL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71jhX9RFb7L._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMRKQK7H",
+  "buyStore": "Amazon",
+  "title": "DR.RASHEL De-Tan Scrub For Face & Body | Revitalizing Tan Removal | Cleanser For Deep Exfoliation | Dead Skin Remover | Blackhead Remover | 380 Ml | Pack of 3",
+  "tags": [
+   "scope:both",
+   "format:pack",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:sulfate",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
+  }
+ },
+ {
+  "id": "unbranded-b0h4zhwsjr",
+  "brand": "Unbranded",
+  "model": "Orange Enzyme Exfoliating Gel for Face & Body | Vitamin C Deep Cleansing Scrub | Dead Skin…",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51aEoh0s7YL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61krB+bsrCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ZlLMQ3FEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71VT2-FbryL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61cfIg2qBqL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4ZHWSJR",
+  "buyStore": "Amazon",
+  "title": "Orange Enzyme Exfoliating Gel for Face & Body | Vitamin C Deep Cleansing Scrub | Dead Skin Remover | Brightening & Pore Cleansing",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:wash",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "7-days-b0bglrh549",
+  "brand": "7 DAYS",
+  "model": "7DAYSNATURAL Coffee Body Scrub for Smooth & Refreshed Skin - 100 g",
+  "price": 194,
+  "capacityLine": "100 g",
+  "materialLine": "Coffee",
+  "featureLine": "Scrub · ₹194/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹194/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Dry / very dry skin relief, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Sensitive skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Coffee Body Scrub for Glowing Skin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61lcB1+Ky5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61-hY9V81-L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61YWUkg3NiL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61kAL4fc+wL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61WDFuR4eCL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BGLRH549",
+  "buyStore": "Amazon",
+  "title": "7DAYSNATURAL Coffee Body Scrub for Smooth & Refreshed Skin - 100 g",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:patch",
+   "ing:coffee",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "skin:oily",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Coffee Body Scrub for Glowing Skin",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "yana-b0h2pyztdg",
+  "brand": "Yana",
+  "model": "Bella coffee body scrub",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coffee + Sugar",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71581X8jZTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71iHMcS9aTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61kIh+PnI-L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71pgps0lOfL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71sOr9McRXL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2PYZTDG",
+  "buyStore": "Amazon",
+  "title": "Bella coffee body scrub",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "ing:coffee",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "yana-b0h1h8lfft",
+  "brand": "Yana",
+  "model": "Bella Bum Coffee Sugar Exfoliate Scrub | Body Scrub Cream for Women Tan Removal",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coffee + Sugar",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71581X8jZTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71iHMcS9aTL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61kIh+PnI-L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71pgps0lOfL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71sOr9McRXL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1H8LFFT",
+  "buyStore": "Amazon",
+  "title": "Bella Bum Coffee Sugar Exfoliate Scrub | Body Scrub Cream for Women Tan Removal",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:scrub",
+   "ing:coffee",
+   "ing:sugar",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "saziro-b0h4mfcjc8",
+  "brand": "Saziro",
+  "model": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoli…",
+  "price": 179,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Vitamin C",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61vO9K6ekAL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/71UrpHAjcIL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/71WXoyMFs8L._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61n0WBBXZOL._SL1280_.jpg",
+   "https://m.media-amazon.com/images/I/61A7CEkj8SL._SL1280_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4MFCJC8",
+  "buyStore": "Amazon",
+  "title": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | Dead Skin Remover | Brightening & Pore Cleansing Scrub for All Skin Types",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Vitamin C",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "kitchnup-b0h1cxcqhq",
+  "brand": "KITCHNUP",
+  "model": "Orange Enzyme Exfoliating Gel for Face & Body with Vitamin C, Glycerin & Plant Extracts - …",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Vitamin C + Glycerin",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Vitamin C, Glycerin (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Pores / blackheads, Oil control / matte / non-greasy, Hydrating / moisturizing, Exfoliating, Lightweight / fast-absorbing, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Dry skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61dFXnGJ4vL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61X90tk2A8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71c12bpFgBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+xzUu-g0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71T0hgMTCWL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1CXCQHQ",
+  "buyStore": "Amazon",
+  "title": "Orange Enzyme Exfoliating Gel for Face & Body with Vitamin C, Glycerin & Plant Extracts - Deep Cleansing Dead Skin Remover Scrub | Brightening Pore Cleanser for Men & Women All Skin Types (2 PCS)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:oil",
+   "format:scrub",
+   "format:peel",
+   "format:wash",
+   "ing:vitamin-c",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:cooling",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "yc-b0fdqsn2cs",
+  "brand": "YC",
+  "model": "Shower Salt Scrub with Milk | Exfoliating Body Scrub for Dark Spots & Bright Skin | 450g",
+  "price": 414,
+  "capacityLine": "450 g",
+  "materialLine": "Milk",
+  "featureLine": "Scrub · ₹92/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "450 g",
+   "pricePer100": "₹92/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Pores / blackheads, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Milk Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61I0ewywCtL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61oibqBe1mL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/710QYAPrH6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61VQ+VAVUNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61eAW6Qxx9L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FDQSN2CS",
+  "buyStore": "Amazon",
+  "title": "YC Shower Salt Scrub with Milk | Exfoliating Body Scrub for Dark Spots & Bright Skin | 450g",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:wash",
+   "ing:milk",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Milk Extract",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "suparna-trikha-b0ggcjbc9s",
+  "brand": "Suparna Trikha",
+  "model": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, S…",
+  "price": 652,
+  "capacityLine": "300 g",
+  "materialLine": "Rice water + Sandalwood + Coconut",
+  "featureLine": "Scrub · ₹217/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹217/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Rice water, Sandalwood, Coconut, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Hydrating / moisturizing, Rough / bumpy skin (KP), Ingrown hair / razor bumps (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Yhnws6UKL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61bIKtpIXqL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61M4Mo7imGL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/615ffQ8nssL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/615UWYqx9vL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGCJBC9S",
+  "buyStore": "Amazon",
+  "title": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, Sesame & Coconut Oils | Detoxifies, Smooths & Hydrates Skin - 300g",
+  "tags": [
+   "scope:body",
+   "format:oil",
+   "format:scrub",
+   "ing:rice-water",
+   "ing:sandalwood",
+   "ing:coconut",
+   "ing:sea-salt",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:kp",
+   "claim:ingrown",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "nains-herbals-b0bry2lmrg",
+  "brand": "NAINS HERBALS",
+  "model": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | De…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "Sandalwood + Rose + Walnut",
+  "featureLine": "Scrub · ₹299/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.3
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Sandalwood, Rose, Walnut, Almond, Shea butter, Vitamin E, Glycerin, Olive (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Barrier repair, Soothing / calming, Exfoliating, Ayurvedic / herbal, Scars / marks, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71pkoIwnIdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61xCc3sJNHL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61HjCA9ePdL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61nlkYUgmpL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61eXtZsczTL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BRY2LMRG",
+  "buyStore": "Amazon",
+  "title": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | Dead Skin Tan Removal, Brightening, Dry Dull Skin | Men & Women | 100g",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:balm",
+   "format:scrub",
+   "format:powder",
+   "format:patch",
+   "ing:sandalwood",
+   "ing:rose",
+   "ing:walnut",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "ing:olive",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "claim:scars",
+   "claim:cooling",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "coco-crush-b0cvvxrr9v",
+  "brand": "Coco Crush",
+  "model": "Exfoliating Body Scrub For Lightening & Brightening Skin | For Men & Women | Bathing Scrub…",
+  "price": 155,
+  "capacityLine": "50 g",
+  "materialLine": "Coconut + Lavender",
+  "featureLine": "Scrub · ₹310/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹310/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coconut, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Whitening / fairness (claim), Hydrating / moisturizing, Soothing / calming, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Combination skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Lavender Essential Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610cpJCLRkL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61ffFcPUgDL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61BmOEqf2VL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61K8+AvgzEL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61DCy-JjacL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CVVXRR9V",
+  "buyStore": "Amazon",
+  "title": "COCO CRUSH Exfoliating Body Scrub For Lightening & Brightening Skin | For Men & Women | Bathing Scrub with Coconut & Lavender | Removes Dirt & Dead Skin from Neck, Knees, Elbows, & Arms (50g)",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "ing:coconut",
+   "ing:lavender",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "skin:combination",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Milled Coconut, Virgin Coconut Oil, Coconut Milk Powder, Lavender Essential Oil",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.75,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dove-b0dntzmkpr",
+  "brand": "Dove",
+  "model": "Exfoliating Body Scrub for Smooth Radiant Skin Deep Nourishing Gentle Body Polish with Moi…",
+  "price": 1490,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71w2I7P8W9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81teZdYRu9L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81UJPC8JkBL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/714UDyxBeML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81QX68uQ2uL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DNTZMKPR",
+  "buyStore": "Amazon",
+  "title": "Dove Exfoliating Body Scrub for Smooth Radiant Skin Deep Nourishing Gentle Body Polish with Moisturizing Care Vanilla Scent 15 Oz",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Unilever / Hindustan Unilever",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.hul.co.in/brands/"
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sirona-b0bhwq9cqv",
+  "brand": "Sirona",
+  "model": "Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfol…",
+  "price": 256,
+  "capacityLine": "50 ml",
+  "materialLine": "Niacinamide + Hyaluronic acid + Lemon",
+  "featureLine": "Roll-on · Alcohol-free · ₹512/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹512/100ml",
+   "format": "Roll-on",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Niacinamide, Hyaluronic acid, Lemon (named on listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Dark spots / pigmentation, Hydrating / moisturizing, Soothing / calming, Exfoliating, 24h / 48h / 72h, Odour control / freshness, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Sensitive skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61fLkDyhWPL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Zq5VNtIwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61tNYrc3QbL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/619kugRbN4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vZMQhGLhL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BHWQ9CQV",
+  "buyStore": "Amazon",
+  "title": "Sirona Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfoliates Underarm | Sensitive Skin | Aqua Fragrance | Alcohol Free",
+  "tags": [
+   "scope:body",
+   "format:roll-on",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:lemon",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "claim:odour",
+   "claim:cooling",
+   "skin:sensitive",
+   "free:alcohol",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Sirona Hygiene",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://thesirona.com/"
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "club-bollywood-b0dy1jbxxf",
+  "brand": "CLUB BOLLYWOOD",
+  "model": "BNF®5xGinger Bath Scrub Salts 30G Exfoliates, Moisturizes, and Nourishes Skin 1Pcs|Health …",
+  "price": 1081,
+  "capacityLine": "30 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹3603/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹3603/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61mAc4iPsYL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61i5dyHmeUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Z+9eN8ETL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/719gBtFk31L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71RWwIDJg5L._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DY1JBXXF",
+  "buyStore": "Amazon",
+  "title": "BNF®5xGinger Bath Scrub Salts 30G Exfoliates, Moisturizes, and Nourishes Skin 1Pcs|Health & Beauty | Bath & Body | Bath Salts",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:wash",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
+  }
+ },
+ {
   "id": "inmyo-b0h2b6lxpr",
   "brand": "INMYO",
   "model": "Inti Glow Brightening Roll-On for Women 40ml|Azelaic Acid, Alpha & Beta Arbutin|Brightenin…",
@@ -146805,114 +149593,6 @@ const NXPRODUCTS = [
     "url": "https://www.forestessentialsindia.com/"
    },
    "buyers": "4.8★ from 0 ratings"
-  }
- },
- {
-  "id": "dr-rashel-b08m4b4c82",
-  "brand": "Dr. Rashel",
-  "model": "Beauty Elixirs Activated Charcoal Scrub for Face & Body Deep Exfoliating Cleanser for Dead…",
-  "price": 192,
-  "capacityLine": "380 ml",
-  "materialLine": "Charcoal + Walnut",
-  "featureLine": "Scrub · ₹51/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "380 ml",
-   "pricePer100": "₹51/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Charcoal, Walnut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Pores / blackheads, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Oily skin, Combination skin, All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61U737l86UL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/61dkYkZvHkL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61FTDTSJ8TL._SL1000_.jpg",
-   "https://m.media-amazon.com/images/I/61BxAW1jMsL._SL1001_.jpg",
-   "https://m.media-amazon.com/images/I/61oPvgkvU9L._SL1001_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08M4B4C82",
-  "buyStore": "Amazon",
-  "title": "DR.RASHEL Beauty Elixirs Activated Charcoal Scrub for Face & Body Deep Exfoliating Cleanser for Dead Skin, Tan and Blackhead Removal All Skin Types 380 ml",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "ing:charcoal",
-   "ing:walnut",
-   "claim:pores",
-   "claim:exfoliating",
-   "claim:cooling",
-   "skin:oily",
-   "skin:combination",
-   "skin:all",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -154560,7 +157240,8 @@ const NXPRODUCTS = [
    "evidenceActives": "glycerin (#5 on list, strong evidence); glycolic acid (#13 on list, strong evidence)",
    "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
+   "buyerEvidence": "4.1★ from 0 ratings",
+   "concernBasis": "Acne — niacinamide #6 on INCI; Dark spots — glycyrrhiza glabra root extract #4 on INCI, niacinamide #6 on INCI; Irritation — centella asiatica extract #9 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/414YXxA3XpL._SL1000_.jpg",
@@ -154599,6 +157280,9 @@ const NXPRODUCTS = [
    "aud:women",
    "rating:4.0",
    "store:amazon",
+   "target:acne",
+   "target:dark-spots",
+   "target:irritation",
    "inci:full",
    "inci:brand-site",
    "inci:no-fragrance"
@@ -154632,6 +157316,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 4,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -154639,6 +157324,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -154646,6 +157332,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "niacinamide"
     },
     {
@@ -154653,6 +157340,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": false,
+     "trace": false,
      "src": "centella"
     },
     {
@@ -154660,6 +157348,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "aha"
     },
     {
@@ -154667,6 +157356,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 21,
      "core": false,
+     "trace": false,
      "src": "pigment"
     },
     {
@@ -154674,6 +157364,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": false,
      "src": "panthenol"
     },
     {
@@ -154681,6 +157372,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 26,
      "core": false,
+     "trace": false,
      "src": "aha"
     }
    ],
@@ -156318,106 +159010,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "soap-glory-b01n3zgl8e",
-  "brand": "Soap & Glory",
-  "model": "Soap And Glory Scrub Of Your Life Smoothing Body Scrub 200ml by",
-  "price": 1249,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹625/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹625/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51BrmAEjZ1L._SL1280_.jpg",
-   "https://m.media-amazon.com/images/I/71ClkbJNw+L._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81v4ENvScFL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/81orlyK+sML._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71L3c+daa-L._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B01N3ZGL8E",
-  "buyStore": "Amazon",
-  "title": "Soap And Glory Scrub Of Your Life Smoothing Body Scrub 200ml by",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:bar",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
   "id": "escasso-b0h1mn2jw4",
   "brand": "ESCASSO",
   "model": "Radiance Polish Body Scrub, with Walnut & Saffron, Exfoliates Dead Skin, Enhances Glow, 20…",
@@ -157827,6 +160419,1819 @@ const NXPRODUCTS = [
   }
  },
  {
+  "id": "freeskin-b0gznzfmg6",
+  "brand": "freeskin",
+  "model": "Blueberry Face & Body Scrub 225ml | Antioxidant-Rich Exfoliating Scrub for Glowing, Smooth…",
+  "price": 199,
+  "capacityLine": "225 ml",
+  "materialLine": "Hyaluronic acid + Honey + Charcoal",
+  "featureLine": "Scrub · ₹88/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "225 ml",
+   "pricePer100": "₹88/100ml",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Hyaluronic acid, Honey, Charcoal, Milk (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61VBWKMc88L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZNZFMG6",
+  "buyStore": "Amazon",
+  "title": "Freeskin Blueberry Face & Body Scrub 225ml | Antioxidant-Rich Exfoliating Scrub for Glowing, Smooth Skin | Deep Cleansing & Dead Skin Removal | Suitable for All Skin Types",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:scrub",
+   "format:wash",
+   "ing:hyaluronic-acid",
+   "ing:honey",
+   "ing:charcoal",
+   "ing:milk",
+   "claim:brightening",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sheny-b0h881mb4z",
+  "brand": "Sheny",
+  "model": "Natural Coffee Scrub for Face and Body with Gentle Exfoliation",
+  "price": 172,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Coffee",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Coffee (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Pores / blackheads, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61KtWZsBtRL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71Tg1HLTfsL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lSLy+sTpL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H881MB4Z",
+  "buyStore": "Amazon",
+  "title": "Natural Coffee Scrub for Face and Body with Gentle Exfoliation",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "format:wash",
+   "ing:coffee",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "misriyaa-by-earthborn-rituals-b0hdp4fjnj",
+  "brand": "MISRIYAA BY EARTHBORN RITUALS",
+  "model": "Lavender Foaming Sugar Scrub | Body Polish with Vitamin E | Exfoliating & Moisturizing Bod…",
+  "price": 499,
+  "capacityLine": "150 g",
+  "materialLine": "Vitamin E + Sugar + Lavender",
+  "featureLine": "Scrub · ₹333/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 3.2
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹333/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E, Sugar, Lavender (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Sugar. Lavender Extract. Vitamin E",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71ooZupbuqL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDP4FJNJ",
+  "buyStore": "Amazon",
+  "title": "Lavender Foaming Sugar Scrub | Body Polish with Vitamin E | Exfoliating & Moisturizing Body Scrub | Handmade Natural Sugar Scrub | Gentle Daily Skincare 150g",
+  "tags": [
+   "scope:body",
+   "format:foam",
+   "format:pack",
+   "format:scrub",
+   "format:wash",
+   "ing:vitamin-e",
+   "ing:sugar",
+   "ing:lavender",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Sugar. Lavender Extract. Vitamin E",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sundara-b0hdpkt6hs",
+  "brand": "Sundara",
+  "model": "Mango Bonita Whipped Sugar Scrub for Face & Body | Exfoliating & Moisturizing Scrub | 250 …",
+  "price": 399,
+  "capacityLine": "250 g",
+  "materialLine": "Shea butter + Vitamin E + Sugar",
+  "featureLine": "Scrub · ₹160/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹160/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Shea butter, Vitamin E, Sugar (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71yG9bZWgJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDPKT6HS",
+  "buyStore": "Amazon",
+  "title": "Mango Bonita Whipped Sugar Scrub for Face & Body | Exfoliating & Moisturizing Scrub | 250 g",
+  "tags": [
+   "scope:both",
+   "format:balm",
+   "format:scrub",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:sugar",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "vanilla-b0gv4djf4s",
+  "brand": "Vanilla",
+  "model": "Body Polish Scrub for Smooth & Glowing Skin | Deep Exfoliating Body Scrub | Removes Dead S…",
+  "price": 719,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹1438/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1438/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Hydrating / moisturizing, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41oNRH9wZML._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71fCixPF1EL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71-1U-Rk6nL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71TsutekEcL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71GJEuCwYXL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GV4DJF4S",
+  "buyStore": "Amazon",
+  "title": "Vanilla Body Polish Scrub for Smooth & Glowing Skin | Deep Exfoliating Body Scrub | Removes Dead Skin & Tan | Hydrating Skin Care (50 g)",
+  "tags": [
+   "scope:body",
+   "format:pack",
+   "format:scrub",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "sheeba-b08q7vydrb",
+  "brand": "SHEEBA",
+  "model": "Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
+  "price": 346,
+  "capacityLine": "750 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹46/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
+  },
+  "fullSpec": {
+   "quantity": "750 ml",
+   "pricePer100": "₹46/100ml",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61yAb3b7xAL._SL1173_.jpg",
+   "https://m.media-amazon.com/images/I/61tybP+Dn0L._SL1176_.jpg",
+   "https://m.media-amazon.com/images/I/71+zBV9qEgL._SL1197_.jpg",
+   "https://m.media-amazon.com/images/I/717oWwFo2UL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/71w38YnSD7L._SL1192_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08Q7VYDRB",
+  "buyStore": "Amazon",
+  "title": "SHEEBA Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
+  "tags": [
+   "scope:body",
+   "format:foam",
+   "claim:brightening",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
+  }
+ },
+ {
+  "id": "groommm-b0gn894c16",
+  "brand": "GROOMMM",
+  "model": "Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish …",
+  "price": 299,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Body wax · ₹120/100ml",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Body wax",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51OCJUjkjtL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/71H+SsoTa8L._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61y6FbgP3HL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61QshUYoMcL._SL1100_.jpg",
+   "https://m.media-amazon.com/images/I/61xUqT5MBRL._SL1100_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GN894C16",
+  "buyStore": "Amazon",
+  "title": "Groommm Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish for Exterior Paint Protection | Enhances Shine & Finish | Compatible with Car Wax & Ceramic Coating",
+  "tags": [
+   "scope:body",
+   "format:body-wax",
+   "aud:unisex",
+   "size:large",
+   "rating:3.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
+  }
+ },
+ {
+  "id": "bodyherbals-b00uorox9s",
+  "brand": "BodyHerbals",
+  "model": "Radiance Body Polisher Scrub (200 gms) For Tan Removal & Instant Glow | Enriched With Natu…",
+  "price": 569,
+  "capacityLine": "200 g",
+  "materialLine": "Honey + Lavender",
+  "featureLine": "Scrub · Paraben-free · ₹285/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹285/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Honey, Lavender (named on listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Anti-aging / wrinkles, Soothing / calming, Ayurvedic / herbal, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Orange, Honey, Grapefruit, Seabuckthorn leaf extract and Coconut",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71LxGk-iFxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71q0uQA5IvL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81c7ks0CgRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71fKyfUYEdL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FHwItH7YL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00UOROX9S",
+  "buyStore": "Amazon",
+  "title": "BodyHerbals Radiance Body Polisher Scrub (200 gms) For Tan Removal & Instant Glow | Enriched With Natural Orange & Honey | 100% Vegan & Paraben Free | For Men & Women | All Skin Types",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:honey",
+   "ing:lavender",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:anti-aging",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "claim:cooling",
+   "skin:all",
+   "free:paraben",
+   "free:vegan",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Orange, Honey, Grapefruit, Seabuckthorn leaf extract and Coconut",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.6,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "amirate-b0gtdy9mw1",
+  "brand": "AMIRATE",
+  "model": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoli…",
+  "price": 197,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.3,
+   "skin": 6.4,
+   "trust": 5.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Soothing / calming, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "3.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Orange Extract,Aqua (Water),Glycerin,Aloe Vera Extract,Vitamin E,Carbomer,Triethanolamine,Fragrance,etc;",
+   "evidenceActives": "glycerin (#3 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 0 ratings",
+   "concernBasis": "Irritation — aloe barbadensis leaf extract #4 on INCI (matching only — not proof it works)"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-xHWGgUxL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/7144ID9SnfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71lHjfIHosL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ytOmAApeL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71X4g-cUubL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTDY9MW1",
+  "buyStore": "Amazon",
+  "title": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | Dead Skin Remover | Brightening & Pore Cleansing Scrub for All Skin Types",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:women",
+   "rating:low",
+   "store:amazon",
+   "target:irritation",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Orange Extract,Aqua (Water),Glycerin,Aloe Vera Extract,Vitamin E,Carbomer,Triethanolamine,Fragrance,etc;",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 4,
+     "core": false,
+     "trace": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 5,
+     "core": false,
+     "trace": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "brown-butters-b0dvh56bgj",
+  "brand": "Brown Butters",
+  "model": "Cookie Dough Tan Removal Body Scrub for Women – De Tan Scrub with Glycolic Acid for Smooth…",
+  "price": 339,
+  "capacityLine": "300 g",
+  "materialLine": "Glycolic acid + Walnut + Strawberry",
+  "featureLine": "Scrub · ₹113/100g",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); glycolic acid high on the INCI list (strong evidence)"
+  ],
+  "cons": [
+   "Added fragrance (parfum): fragrance",
+   "Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 4.5,
+   "skin": 5.3,
+   "trust": 5.5,
+   "experience": 3.5
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹113/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Glycolic acid, Walnut, Strawberry (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "De-tan / tan removal, Hydrating / moisturizing, Soothing / calming, Exfoliating, Rough / bumpy skin (KP), Ingrown hair / razor bumps, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Purified Water, Paraffinum Liquidum, Glycerin, Glyceryl Stearate (And) PEG-100 Stearate, Cetyl Alcohol, Cetearyl Alcohol (And) Ceteareth-20, Glyceryl Stearate, Walnut Particles, Decyl Glucoside, Fragrance, Carbomer, Phenoxyethanol, Triethanolamine, DMDM Hydantoin (And) Methylchloroisothiazolinone (And) Methylisothiazolinone, Xanthan Gum, Butylated Hydroxy, Toluene, Theobroma Cacao (Cocoa) Seed Butter, Disodium EDTA, Glycolic Acid, Permitted Color",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); glycolic acid (#23 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); Isothiazolinone preservative (MI/MCI): methylchloroisothiazolinone, methylisothiazolinone (−0.8); Formaldehyde-releasing preservative: dmdm hydantoin (−0.8)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Bsz8bTQRL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71A+9m9e0IL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71DKUtpZ7pL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71esN0KDV8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71My65y2frL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DVH56BGJ",
+  "buyStore": "Amazon",
+  "title": "Cookie Dough Tan Removal Body Scrub for Women – De Tan Scrub with Glycolic Acid for Smooth Bright Skin, Exfoliating Body Scrub that Softens Bumps, Fades Tan & Moisturizes (300 gm)",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "ing:glycolic-acid",
+   "ing:walnut",
+   "ing:strawberry",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:ingrown",
+   "claim:cooling",
+   "free:vegan",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:full"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "full",
+   "inciSrc": "listing",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": "Purified Water, Paraffinum Liquidum, Glycerin, Glyceryl Stearate (And) PEG-100 Stearate, Cetyl Alcohol, Cetearyl Alcohol (And) Ceteareth-20, Glyceryl Stearate, Walnut Particles, Decyl Glucoside, Fragrance, Carbomer, Phenoxyethanol, Triethanolamine, DMDM Hydantoin (And) Methylchloroisothiazolinone (And) Methylisothiazolinone, Xanthan Gum, Butylated Hydroxy, Toluene, Theobroma Cacao (Cocoa) Seed Butter, Disodium EDTA, Glycolic Acid, Permitted Color",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "paraffinum liquidum",
+     "grade": "B",
+     "position": 2,
+     "core": false,
+     "trace": false,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "trace": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "theobroma cacao seed butter",
+     "grade": "C",
+     "position": 21,
+     "core": false,
+     "trace": true,
+     "src": "striae"
+    },
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 23,
+     "core": true,
+     "trace": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "mi",
+     "label": "Isothiazolinone preservative (MI/MCI)",
+     "names": [
+      "methylchloroisothiazolinone",
+      "methylisothiazolinone"
+     ],
+     "penalty": 0.8,
+     "src": "sccsMi"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "dmdm hydantoin"
+     ],
+     "penalty": 0.8,
+     "src": "eu2019_831"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-algar-b0h6lmp7ns",
+  "brand": "Dr. Algar",
+  "model": "Dr. Algar 10% AHA BHA Body Scrub – Exfoliating & Cleansing Scrub for Tan Removal, Skin Bri…",
+  "price": 299,
+  "capacityLine": "200 g",
+  "materialLine": "Salicylic acid (BHA) + AHA",
+  "featureLine": "Scrub · ₹150/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹150/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Salicylic acid (BHA), AHA (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Pores / blackheads, Oil control / matte / non-greasy, Exfoliating, Overnight / while you sleep (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61p3f3Mhi1L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Rsl5LyPyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71xWoUT3+eL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71TYKjnmBhL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61HU3IwDTjL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6LMP7NS",
+  "buyStore": "Amazon",
+  "title": "Dr. Algar 10% AHA BHA Body Scrub – Exfoliating & Cleansing Scrub for Tan Removal, Skin Brightening & Dead Skin Cell Removal | Day & Night Use | 200g / 6.76 fl oz",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:patch",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:overnight",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
+  }
+ },
+ {
+  "id": "eduvanta-b0h58wxd9p",
+  "brand": "EduVanta",
+  "model": "Orange Enzymes Exfoliating Gel 74g | Dead Skin Remover Face & Body Scrub | Deep Pore Clean…",
+  "price": 194,
+  "capacityLine": "74 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub · ₹262/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
+  },
+  "fullSpec": {
+   "quantity": "74 g",
+   "pricePer100": "₹262/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Pores / blackheads, Soothing / calming, Exfoliating, Lightweight / fast-absorbing, Dry / very dry skin relief, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Combination skin, Sensitive skin, All skin types",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "rating": "3.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41alsfP3XLL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/51iZcAKaajL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/613LdZbVo3L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61qxmT6C2vL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/6112Cj-jfKL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H58WXD9P",
+  "buyStore": "Amazon",
+  "title": "Orange Enzymes Exfoliating Gel 74g | Dead Skin Remover Face & Body Scrub | Deep Pore Cleansing & Brightening Gel | Gentle Exfoliator for Tan Removal, Blackheads & Smooth Glowing",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "claim:cooling",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "free:sensitive-safe",
+   "aud:unisex",
+   "size:standard",
+   "rating:low",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.2★ from 0 ratings"
+  }
+ },
+ {
+  "id": "allay-essences-b0fr54xcmr",
+  "brand": "ALLAY ESSENCES",
+  "model": "Allay Salt Cleanser | Rejuvenating Body Scrub with Essential Oils & Healing Flower Essence…",
+  "price": 1179,
+  "capacityLine": "500 g",
+  "materialLine": "Vitamin E",
+  "featureLine": "Scrub · ₹236/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "500 g",
+   "pricePer100": "₹236/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Vitamin E (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51GD0zLUxTL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71jX-DD3X6L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61kye+WRQIL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FR54XCMR",
+  "buyStore": "Amazon",
+  "title": "Allay Salt Cleanser | Rejuvenating Body Scrub with Essential Oils & Healing Flower Essences | 500 g",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:wash",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
+  }
+ },
+ {
+  "id": "swosh-b0brq7whdz",
+  "brand": "SWOSH",
+  "model": "100% Vegan Exfoliate Face Body Scrub For bathing, Skin Exfoliating, Tan Removal 75g(Pack O…",
+  "price": 189,
+  "capacityLine": "150 g (pack of 2)",
+  "materialLine": "Coffee + Walnut + Coconut",
+  "featureLine": "Scrub · ₹126/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "75 g × 2 pack",
+   "pricePer100": "₹126/100g",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Coffee, Walnut, Coconut (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Whitening / fairness (claim), Anti-aging / wrinkles, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Oily skin, Dry skin, Combination skin, Sensitive skin, Normal skin, All skin types",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Unverified seller line: Walnut Shell, Coffee Beans(Extracts), Rock Salt and Coconut",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Sn+ygvXnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61b1SlmgvIL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61fHcxYMp-L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61TogH1IjwL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61AlneS7VqL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BRQ7WHDZ",
+  "buyStore": "Amazon",
+  "title": "SWOSH 100% Vegan Exfoliate Face Body Scrub For bathing, Skin Exfoliating, Tan Removal 75g(Pack Of 2) | Coffee Scrub For Body & Face Whitening | Natural Coffee, Walnut, Coconut Oil & Rock Salt - 150 g (75 g)",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:scrub",
+   "format:kit",
+   "ing:coffee",
+   "ing:walnut",
+   "ing:coconut",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "free:vegan",
+   "free:sensitive-safe",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:partial"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "partial",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": "Walnut Shell, Coffee Beans(Extracts), Rock Salt and Coconut",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "arabica-b0gxbpxc3g",
+  "brand": "Arabica",
+  "model": "Coffee Body Scrub Powder | 150g | Arabica Coffee, Brown Sugar, Cinnamon & Sea Salt | Natur…",
+  "price": 390,
+  "capacityLine": "150 g",
+  "materialLine": "Coffee + Sugar + Sea salt",
+  "featureLine": "Scrub · ₹260/100g",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹260/100g",
+   "format": "Scrub",
+   "appliesTo": "Body (per listing)",
+   "keyIngredients": "Coffee, Sugar, Sea salt (named on listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
+   "skinType": "Not stated in listing",
+   "audience": "Marketed for men",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61q9bRN-qhL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXBPXC3G",
+  "buyStore": "Amazon",
+  "title": "Arabica Coffee Body Scrub Powder | 150g | Arabica Coffee, Brown Sugar, Cinnamon & Sea Salt | Natural Exfoliator for Tan Removal, Dead Skin & Smooth Skin | No Preservatives | Skin Polishing Scrub | For Male Female",
+  "tags": [
+   "scope:body",
+   "format:scrub",
+   "format:powder",
+   "ing:coffee",
+   "ing:sugar",
+   "ing:sea-salt",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "aud:men",
+   "size:large",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": true,
+   "women": false,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
+  }
+ },
+ {
+  "id": "dr-sasaki-complete-skin-care-b0cbv42bl1",
+  "brand": "DR.SASAKI COMPLETE SKIN CARE",
+  "model": "Dr.Sasaki De Tan Scrub for Women |Skin Exfoliator and Whitehead Remover Scrub for Tan Remo…",
+  "price": 268,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
+  ],
+  "scores": {
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub",
+   "appliesTo": "Face + body (per listing)",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening / glow, De-tan / tan removal, Pores / blackheads, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
+   "skinType": "Oily skin",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71J08bAN0ML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71VAWswjqjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Yrq5BojnL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/716Nn4k4mwL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vbh2mKtsL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CBV42BL1",
+  "buyStore": "Amazon",
+  "title": "Dr.Sasaki De Tan Scrub for Women |Skin Exfoliator and Whitehead Remover Scrub for Tan Removal | Face and Body Scrub Helps Cleaning Pores and Smooth, Healthy Skin | Pack of 1",
+  "tags": [
+   "scope:both",
+   "format:pack",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:cooling",
+   "skin:oily",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon",
+   "inci:none"
+  ],
+  "filters": {
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true,
+   "inci": "none",
+   "inciSrc": null,
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
+  }
+ },
+ {
   "id": "savlon-b0gxz5ctdw",
   "brand": "Savlon",
   "model": "Acne Science Exfoliating Face & Body Acne Wash 250ml | Antibacterial Formula with 1% Salic…",
@@ -158901,6 +163306,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -158908,6 +163314,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -158915,6 +163322,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 11,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -158922,6 +163330,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 12,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -158929,6 +163338,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -158936,6 +163346,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 18,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -158943,6 +163354,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -158950,6 +163362,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 22,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -158957,6 +163370,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -159967,6 +164381,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -159974,6 +164389,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -159981,6 +164397,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "niacinamide"
     },
     {
@@ -159988,6 +164405,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 13,
      "core": true,
+     "trace": true,
      "src": "bha"
     },
     {
@@ -159995,6 +164413,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": true,
+     "trace": true,
      "src": "aha"
     },
     {
@@ -160002,6 +164421,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": true,
+     "trace": true,
      "src": "aadScrub"
     },
     {
@@ -160009,6 +164429,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "panthenol"
     },
     {
@@ -160016,6 +164437,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 21,
      "core": false,
+     "trace": true,
      "src": "squalane"
     }
    ],
@@ -161483,6 +165905,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 5,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -161490,6 +165913,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 6,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -161497,6 +165921,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     }
    ],
@@ -162957,7 +167382,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); prunus amygdalus dulcis oil (#8 on list, moderate evidence); butyrospermum parkii butter (#14 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, benzyl benzoate (−1.2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.8★ from 0 ratings"
+   "buyerEvidence": "4.8★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #17 on INCI; Aging — ascorbic acid #17 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/711iy+aPHoL._SL1500_.jpg",
@@ -162984,6 +167410,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -163016,6 +167444,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -163023,6 +167452,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -163030,6 +167460,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 8,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -163037,6 +167468,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 14,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -163044,6 +167476,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -163051,6 +167484,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 20,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     }
    ],
@@ -172124,119 +176558,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "plix-the-plant-fix-b0h1hyfrg6",
-  "brand": "PLIX - THE PLANT FIX",
-  "model": "Plix Pineapple Sunscreen SPF 50 PA++++ & Peaches & Lemon Detan Body Scrub | De-Tan, Bright…",
-  "price": 609,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Glycolic acid + Alpha arbutin + Lemon",
-  "featureLine": "Sunscreen · SPF 50",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid, Alpha arbutin, Lemon (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Exfoliating, Broad spectrum UVA/UVB, SPF included (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "sunProtection": "SPF 50 · PA++++ (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51tJuEdFkqL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61S1E0ueZ0L._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61Xqd67jqYL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61lSnNx0OTL._SL1080_.jpg",
-   "https://m.media-amazon.com/images/I/61ykoBao6DL._SL1080_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1HYFRG6",
-  "buyStore": "Amazon",
-  "title": "Plix Pineapple Sunscreen SPF 50 PA++++ & Peaches & Lemon Detan Body Scrub | De-Tan, Brighten & Protect | For All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:patch",
-   "format:wash",
-   "spf:50",
-   "pa:++++",
-   "ing:glycolic-acid",
-   "ing:alpha-arbutin",
-   "ing:lemon",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:unisex",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
   "id": "mokshkaya-b0h62r5k7j",
   "brand": "MOKSHKAYA",
   "model": "Dr Melaxin Peel shot Instant Tan Removal exfoliating kojic acid turmeric spray for Smooth …",
@@ -175427,7 +179748,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#7 on list, moderate evidence); prunus amygdalus dulcis oil (#9 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): fragrance (−0.8); EU-declared fragrance allergen: benzyl salicylate, hexyl cinnamal, linalool, limonene (−1.2)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #14 on INCI; Aging — ascorbic acid #14 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GIQSMirWL._SL1500_.jpg",
@@ -175454,6 +179776,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -175486,6 +179810,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -175493,6 +179818,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -175500,6 +179826,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -175507,6 +179834,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 9,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -175514,6 +179842,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 14,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -175521,6 +179850,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 15,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -185004,6 +189334,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -185011,6 +189342,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -185018,6 +189350,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 12,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -185025,6 +189358,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -185032,6 +189366,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 19,
      "core": true,
+     "trace": true,
      "src": "squalane"
     },
     {
@@ -185039,6 +189374,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 20,
      "core": true,
+     "trace": true,
      "src": "petrolatum"
     },
     {
@@ -185046,6 +189382,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 23,
      "core": false,
+     "trace": true,
      "src": "retinoids"
     },
     {
@@ -185053,6 +189390,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 24,
      "core": false,
+     "trace": true,
      "src": "oat"
     },
     {
@@ -185060,6 +189398,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 26,
      "core": false,
+     "trace": true,
      "src": "vitc"
     },
     {
@@ -185067,6 +189406,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 28,
      "core": false,
+     "trace": true,
      "src": "sunFilters"
     }
    ],
@@ -187400,7 +191740,8 @@ const NXPRODUCTS = [
    "evidenceActives": "sucrose (#1 on list, limited evidence); glycerin (#2 on list, strong evidence); butyrospermum parkii butter (#7 on list, moderate evidence); prunus amygdalus dulcis oil (#13 on list, moderate evidence)",
    "safetyFlags": "Added fragrance (parfum): parfum (−0.8)",
    "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.7★ from 0 ratings"
+   "buyerEvidence": "4.7★ from 0 ratings",
+   "concernBasis": "Dark spots — ascorbic acid #16 on INCI; Aging — ascorbic acid #16 on INCI (matching only — not proof it works)"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kwKYlsx5L._SL1328_.jpg",
@@ -187421,6 +191762,8 @@ const NXPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:amazon",
+   "target:dark-spots",
+   "target:aging",
    "inci:full",
    "inci:brand-site"
   ],
@@ -187453,6 +191796,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 1,
      "core": true,
+     "trace": false,
      "src": "aadScrub"
     },
     {
@@ -187460,6 +191804,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 2,
      "core": true,
+     "trace": false,
      "src": "glycerin"
     },
     {
@@ -187467,6 +191812,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 5,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -187474,6 +191820,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 6,
      "core": false,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -187481,6 +191828,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 7,
      "core": true,
+     "trace": false,
      "src": "petrolatum"
     },
     {
@@ -187488,6 +191836,7 @@ const NXPRODUCTS = [
      "grade": "B",
      "position": 13,
      "core": true,
+     "trace": false,
      "src": "squalane"
     },
     {
@@ -187495,6 +191844,7 @@ const NXPRODUCTS = [
      "grade": "A",
      "position": 16,
      "core": false,
+     "trace": false,
      "src": "vitc"
     },
     {
@@ -187502,6 +191852,7 @@ const NXPRODUCTS = [
      "grade": "C",
      "position": 17,
      "core": false,
+     "trace": false,
      "src": "retinoids"
     }
    ],
@@ -189122,7 +193473,7 @@ const NXPRODUCTS = [
  },
  {
   "id": "groommm-b0gn8fpjnd",
-  "brand": "Groommm",
+  "brand": "GROOMMM",
   "model": "Exterior Body Polish 250ml With 350gsm Cloth For Car, Motorbike & Scooty | Provide Long La…",
   "price": 399,
   "capacityLine": "250 ml",
@@ -190086,119 +194437,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "foxtale-b0gh1rkt41",
-  "brand": "FoxTale",
-  "model": "Hula Hoop Exfoliating Body Wash + Body Scrub by Foxtale | Body Wash with 2% Salicylic Acid…",
-  "price": 744,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Salicylic acid (BHA) + Lactic acid + Zinc",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Lactic acid, Zinc, Jojoba, Strawberry, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Rough / bumpy skin (KP), Ingrown hair / razor bumps (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51pyjaT4f8L._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61sNvyt7XCL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61AQDVCMg5L._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61jEe-UPpvL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61pem3L3owL._SL1081_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GH1RKT41",
-  "buyStore": "Amazon",
-  "title": "Hula Hoop Exfoliating Body Wash + Body Scrub by Foxtale | Body Wash with 2% Salicylic Acid & Zinc PCA| Body Scrub with 2% Lactic Acid, Dead Sea Salt, & Perlite | For Smooth Skin | For Men & Women",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:lactic-acid",
-   "ing:zinc",
-   "ing:jojoba",
-   "ing:strawberry",
-   "ing:sea-salt",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:kp",
-   "claim:ingrown",
-   "aud:women",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -192141,237 +196379,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "foxtale-b0gh72kwty",
-  "brand": "FoxTale",
-  "model": "Hula Hoop Exfoliating Body Scrub + Brightening Body Lotion by Foxtale | Body Scrub with 2%…",
-  "price": 768,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide + Lactic acid + Kojic acid",
-  "featureLine": "Sunscreen · SPF 30",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Lactic acid, Kojic acid, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Pores / blackheads, Barrier repair, Exfoliating, SPF included (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/516jCKgX7ZL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61LZBsIEMmL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61KRjNuXBML._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/713EbBD2xSL._SL1500_.jpg",
-   "https://m.media-amazon.com/images/I/71T2aDVCnmL._SL1500_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GH72KWTY",
-  "buyStore": "Amazon",
-  "title": "Hula Hoop Exfoliating Body Scrub + Brightening Body Lotion by Foxtale | Body Scrub with 2% Lactic Acid, Dead Sea Salt, & Perlite| Body Lotion with Kojic Acid, Niacinamide, & SPF 30 | For Smooth & Glowing Skin",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:scrub",
-   "spf:30",
-   "ing:niacinamide",
-   "ing:lactic-acid",
-   "ing:kojic-acid",
-   "ing:sea-salt",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:pores",
-   "claim:barrier",
-   "claim:exfoliating",
-   "claim:spf-claim",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "foxtale-b0gh6pw7ws",
-  "brand": "FoxTale",
-  "model": "Hula Hoop Exfoliating Body Wash + Exfoliating Body Scrub + Brightening Body Lotion by Foxt…",
-  "price": 1047,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Niacinamide + Salicylic acid (BHA) + Lactic acid",
-  "featureLine": "Sunscreen · SPF 30",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Sunscreen",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Niacinamide, Salicylic acid (BHA), Lactic acid, Kojic acid, Zinc, Jojoba, Strawberry, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Dark spots / pigmentation, Acne / pimples, Pores / blackheads, Hydrating / moisturizing, Exfoliating, Rough / bumpy skin (KP), SPF included, Ingrown hair / razor bumps (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "sunProtection": "SPF 30 (as labelled)",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page read (title, price, bullets) but Amazon did not serve its Important information › Ingredients block — INCI unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51MwFzmDdkL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/6126GD99jWL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/61kzSAhw2PL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/51V6o3sHqNL._SL1081_.jpg",
-   "https://m.media-amazon.com/images/I/611rfZw8nFL._SL1081_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GH6PW7WS",
-  "buyStore": "Amazon",
-  "title": "Hula Hoop Exfoliating Body Wash + Exfoliating Body Scrub + Brightening Body Lotion by Foxtale | Body Wash with 2% Salicylic Acid & Zinc PCA| Body Scrub with 2% Lactic Acid, Dead Sea Salt, & Perlite | Body Lotion with Kojic Acid, Niacinamide, & SPF 30 | For Smooth & Glowing Skin",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "spf:30",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:lactic-acid",
-   "ing:kojic-acid",
-   "ing:zinc",
-   "ing:jojoba",
-   "ing:strawberry",
-   "ing:sea-salt",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:acne",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:kp",
-   "claim:spf-claim",
-   "claim:ingrown",
-   "aud:unisex",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -194956,799 +198963,6 @@ const NXPRODUCTS = [
   }
  },
  {
-  "id": "dove-b08t4fljqz",
-  "brand": "Dove",
-  "model": "Exfoliating Body Polish Scrub For Dry Skin With Brown Sugar & Coconut Butter, Gently Exfol…",
-  "price": 584,
-  "capacityLine": "298 g",
-  "materialLine": "Coconut + Sugar",
-  "featureLine": "Scrub · ₹196/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "298 g",
-   "pricePer100": "₹196/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coconut, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51M6BsarCuL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08T4FLJQZ",
-  "buyStore": "Amazon",
-  "title": "Dove Exfoliating Body Polish Scrub For Dry Skin With Brown Sugar & Coconut Butter, Gently Exfoliates & Moisturizes For Instant Soft & Smooth Skin, Natural Ingredients, No Sulfate, Coconut Scent, 298g",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "format:scrub",
-   "ing:coconut",
-   "ing:sugar",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:dry",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "freeskin-b0gznzfmg6",
-  "brand": "freeskin",
-  "model": "Blueberry Face & Body Scrub 225ml | Antioxidant-Rich Exfoliating Scrub for Glowing, Smooth…",
-  "price": 199,
-  "capacityLine": "225 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹88/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "225 ml",
-   "pricePer100": "₹88/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61VBWKMc88L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZNZFMG6",
-  "buyStore": "Amazon",
-  "title": "Freeskin Blueberry Face & Body Scrub 225ml | Antioxidant-Rich Exfoliating Scrub for Glowing, Smooth Skin | Deep Cleansing & Dead Skin Removal | Suitable for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "claim:brightening",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "size:large",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "hula-b0gmprhml6",
-  "brand": "Hula",
-  "model": "Hoop Exfoliating Body Scrub For Smooth & Even Skin, 75 g",
-  "price": 331,
-  "capacityLine": "75 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹441/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.8
-  },
-  "fullSpec": {
-   "quantity": "75 g",
-   "pricePer100": "₹441/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.6★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61o+M924qIL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GMPRHML6",
-  "buyStore": "Amazon",
-  "title": "Hula Hoop Exfoliating Body Scrub For Smooth & Even Skin, 75 g",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.6★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gzv99zbp",
-  "brand": "Unbranded",
-  "model": "Barley Diamond Face & Body scrub For Men And Women (380 Ml) | Anti Aging & Detoxxifying Sc…",
-  "price": 179,
-  "capacityLine": "380 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹47/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "380 ml",
-   "pricePer100": "₹47/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Anti-aging / wrinkles, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71sIQNpwxBL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZV99ZBP",
-  "buyStore": "Amazon",
-  "title": "Barley Diamond Face & Body scrub For Men And Women (380 Ml) | Anti Aging & Detoxxifying Scrub |Suitable For Deep Exfoliation & Removing Dead Skin",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "claim:anti-aging",
-   "claim:exfoliating",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-rashel-b0f1963ymr",
-  "brand": "Dr. Rashel",
-  "model": "DR.RASHEL Aloe Vera Face & Body Scrub – Deep Cleansing & Hydrating Exfoliator for Smooth, …",
-  "price": 98,
-  "capacityLine": "45 ml",
-  "materialLine": "Aloe vera",
-  "featureLine": "Scrub · ₹218/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "45 ml",
-   "pricePer100": "₹218/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Aloe vera (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/715Y0Dn7sjL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F1963YMR",
-  "buyStore": "Amazon",
-  "title": "DR.RASHEL Aloe Vera Face & Body Scrub – Deep Cleansing & Hydrating Exfoliator for Smooth, Radiant Skin – Removes Dead Skin & Impurities – Suitable for All Skin Types – 45ML",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gl8nxqdy",
-  "brand": "Unbranded",
-  "model": "Dream Beauty Scrub 800g - Deep Exfoliating Face & Body Scrub for Rapid Tan Removal & Radia…",
-  "price": 494,
-  "capacityLine": "800 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹62/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "800 g",
-   "pricePer100": "₹62/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51L6Uh8h6VL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GL8NXQDY",
-  "buyStore": "Amazon",
-  "title": "Dream Beauty Scrub 800g - Deep Exfoliating Face & Body Scrub for Rapid Tan Removal & Radiant Glow - Available in Flavour (Aloevera)",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-rashel-b0fmrkqk7h",
-  "brand": "Dr. Rashel",
-  "model": "DR.RASHEL De-Tan Scrub For Face & Body | Revitalizing Tan Removal | Cleanser For Deep Exfo…",
-  "price": 450,
-  "capacityLine": "1140 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹39/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "380 ml × 3 pack",
-   "pricePer100": "₹39/100ml",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71kVJIuF73L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FMRKQK7H",
-  "buyStore": "Amazon",
-  "title": "DR.RASHEL De-Tan Scrub For Face & Body | Revitalizing Tan Removal | Cleanser For Deep Exfoliation | Dead Skin Remover | Blackhead Remover | 380 Ml | Pack of 3",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "format:kit",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0h4zhwsjr",
-  "brand": "Unbranded",
-  "model": "Orange Enzyme Exfoliating Gel for Face & Body | Vitamin C Deep Cleansing Scrub | Dead Skin…",
-  "price": 199,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Vitamin C",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51aEoh0s7YL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4ZHWSJR",
-  "buyStore": "Amazon",
-  "title": "Orange Enzyme Exfoliating Gel for Face & Body | Vitamin C Deep Cleansing Scrub | Dead Skin Remover | Brightening & Pore Cleansing",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:wash",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
   "id": "unbranded-b0fl2mf7lk",
   "brand": "Unbranded",
   "model": "Skin Zone Dr Glow Glutathione Body Scrub With L-Glutathione – 100g | Exfoliates & Revives …",
@@ -195844,4012 +199058,6 @@ const NXPRODUCTS = [
     "url": null
    },
    "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "thriveco-b0ffh5mylq",
-  "brand": "ThriveCo",
-  "model": "Exfoliating Body Wash | Prevents Body Acne, Tan & Dead Skin Removal | With Lactic, Salicyl…",
-  "price": 199,
-  "capacityLine": "236 ml",
-  "materialLine": "Salicylic acid (BHA) + Lactic acid + Vitamin E",
-  "featureLine": "Scrub · ₹84/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.6
-  },
-  "fullSpec": {
-   "quantity": "236 ml",
-   "pricePer100": "₹84/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), Lactic acid, Vitamin E (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne / pimples, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.9★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/616wJ9wJiRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FFH5MYLQ",
-  "buyStore": "Amazon",
-  "title": "Thriveco Exfoliating Body Wash | Prevents Body Acne, Tan & Dead Skin Removal | With Lactic, Salicylic Acid, Vitamin E & Diacnemide® | Daily Use Shower Gel | For Men & Women | 236ml",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:lactic-acid",
-   "ing:vitamin-e",
-   "claim:acne",
-   "claim:exfoliating",
-   "aud:women",
-   "size:large",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.9★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gx1wbxtq",
-  "brand": "Unbranded",
-  "model": "Body BAE Coffee Body Scrub 100g – Deep Exfoliating Coffee Scrub for Tan Removal, Dead Skin…",
-  "price": 699,
-  "capacityLine": "100 g",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub · ₹699/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹699/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71OmcMQS3VL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GX1WBXTQ",
-  "buyStore": "Amazon",
-  "title": "Body BAE Coffee Body Scrub 100g – Deep Exfoliating Coffee Scrub for Tan Removal, Dead Skin & Blackheads | Natural Glow & Smooth Skin | For All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:coffee",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0bglrh549",
-  "brand": "Unbranded",
-  "model": "7DAYSNATURAL Coffee Body Scrub for Smooth & Refreshed Skin - 100 g",
-  "price": 194,
-  "capacityLine": "100 g",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub · ₹194/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹194/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61lcB1+Ky5L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BGLRH549",
-  "buyStore": "Amazon",
-  "title": "7DAYSNATURAL Coffee Body Scrub for Smooth & Refreshed Skin - 100 g",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:coffee",
-   "claim:cooling",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "bella-b0h2pyztdg",
-  "brand": "Bella",
-  "model": "coffee body scrub",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71581X8jZTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2PYZTDG",
-  "buyStore": "Amazon",
-  "title": "Bella coffee body scrub",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:coffee",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h88bn4zt",
-  "brand": "Unbranded",
-  "model": "Coffee Face Body Scrub for Gentle Exfoliation and Skin Renewal",
-  "price": 185,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71gvsvk+6aL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H88BN4ZT",
-  "buyStore": "Amazon",
-  "title": "Coffee Face Body Scrub for Gentle Exfoliation and Skin Renewal",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "ing:coffee",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h881mb4z",
-  "brand": "Unbranded",
-  "model": "Natural Coffee Scrub for Face and Body with Gentle Exfoliation",
-  "price": 172,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coffee",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Coffee (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61KtWZsBtRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H881MB4Z",
-  "buyStore": "Amazon",
-  "title": "Natural Coffee Scrub for Face and Body with Gentle Exfoliation",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "ing:coffee",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "wildoak-b0h5rd75zf",
-  "brand": "WildOak",
-  "model": "Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Ac…",
-  "price": 399,
-  "capacityLine": "300 g",
-  "materialLine": "Hyaluronic acid + Ceramides + Peptides",
-  "featureLine": "Scrub · ₹133/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹133/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71d35QCqq0L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H5RD75ZF",
-  "buyStore": "Amazon",
-  "title": "WildOak Perfume Sugar Body Scrub | 300g | Exfoliates, DeTan & Hydrates | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | Helps Removes Tan & Smooth Rough Skin | Lasting Deo Fragrance",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:aerosol",
-   "ing:hyaluronic-acid",
-   "ing:ceramides",
-   "ing:peptides",
-   "ing:collagen",
-   "ing:kojic-acid",
-   "ing:sugar",
-   "claim:de-tan",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.7★ from 0 ratings"
-  }
- },
- {
-  "id": "saka-b0drsnhcfn",
-  "brand": "Saka",
-  "model": "Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Sk…",
-  "price": 363,
-  "capacityLine": "100 g",
-  "materialLine": "Coffee + Coconut + Sugar",
-  "featureLine": "Scrub · ₹363/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.2
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹363/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee, Coconut, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61q548pJpNL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DRSNHCFN",
-  "buyStore": "Amazon",
-  "title": "Saka Organics Coffee Body Scrub With Brown Sugar & Coconut Oil 100G | Gently Exfoliates Dead Skin Cells For Smoother, Softer, And Refreshed Skin | Body Scrub For Woman | Body Scrub For Men",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:scrub",
-   "ing:coffee",
-   "ing:coconut",
-   "ing:sugar",
-   "claim:exfoliating",
-   "claim:cooling",
-   "aud:men",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.4★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0hdp4fjnj",
-  "brand": "Unbranded",
-  "model": "Lavender Foaming Sugar Scrub | Body Polish with Vitamin E | Exfoliating & Moisturizing Bod…",
-  "price": 499,
-  "capacityLine": "150 g",
-  "materialLine": "Vitamin E + Sugar + Lavender",
-  "featureLine": "Scrub · ₹333/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 g",
-   "pricePer100": "₹333/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Vitamin E, Sugar, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71ooZupbuqL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDP4FJNJ",
-  "buyStore": "Amazon",
-  "title": "Lavender Foaming Sugar Scrub | Body Polish with Vitamin E | Exfoliating & Moisturizing Body Scrub | Handmade Natural Sugar Scrub | Gentle Daily Skincare 150g",
-  "tags": [
-   "scope:body",
-   "format:foam",
-   "format:scrub",
-   "ing:vitamin-e",
-   "ing:sugar",
-   "ing:lavender",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "insta-b0cfxnk7b6",
-  "brand": "Insta",
-  "model": "Glow Sugar Face & Body Scrub- Reduces Dead Skin, Tan & Scars | Improves Skin Tone With Bos…",
-  "price": 325,
-  "capacityLine": "100 g",
-  "materialLine": "Licorice + Sugar",
-  "featureLine": "Scrub · ₹325/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹325/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Licorice, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating, Scars / marks (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61BZZxrmSkL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CFXNK7B6",
-  "buyStore": "Amazon",
-  "title": "Insta Glow Sugar Face & Body Scrub- Reduces Dead Skin, Tan & Scars | Improves Skin Tone With Boswellia Ext., Patchouli Oil & Licorice Ext. – 100gm",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "format:scrub",
-   "ing:licorice",
-   "ing:sugar",
-   "claim:brightening",
-   "claim:exfoliating",
-   "claim:scars",
-   "aud:unisex",
-   "size:standard",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3★ from 0 ratings"
-  }
- },
- {
-  "id": "mango-b0hdpkt6hs",
-  "brand": "Mango",
-  "model": "Bonita Whipped Sugar Scrub for Face & Body | Exfoliating & Moisturizing Scrub | 250 g",
-  "price": 399,
-  "capacityLine": "250 g",
-  "materialLine": "Sugar",
-  "featureLine": "Scrub · ₹160/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 g",
-   "pricePer100": "₹160/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71yG9bZWgJL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HDPKT6HS",
-  "buyStore": "Amazon",
-  "title": "Mango Bonita Whipped Sugar Scrub for Face & Body | Exfoliating & Moisturizing Scrub | 250 g",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "ing:sugar",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cosmo-b0g8gg6ty1",
-  "brand": "Cosmo",
-  "model": "Body Slush Sugar Scrub – Lemonade 450g | Exfoliating & Moisturizing Body Scrub with Natura…",
-  "price": 1499,
-  "capacityLine": "450 g",
-  "materialLine": "Sugar",
-  "featureLine": "Scrub · ₹333/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "450 g",
-   "pricePer100": "₹333/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating, Cooling / refreshing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61OFY-htkDL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0G8GG6TY1",
-  "buyStore": "Amazon",
-  "title": "Cosmo Body Slush Sugar Scrub – Lemonade 450g | Exfoliating & Moisturizing Body Scrub with Natural Sugar Crystals | Removes Dead Skin, Softens & Smoothens Skin | Refreshing Citrus Lemonade Fragrance for Luxurious Skincare",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:sugar",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:cooling",
-   "aud:unisex",
-   "size:xl",
-   "rating:low",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "CavinKare",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.cavinkare.com/brands/"
-   },
-   "buyers": "1★ from 0 ratings"
-  }
- },
- {
-  "id": "bella-b0h1h8lfft",
-  "brand": "Bella",
-  "model": "Bum Coffee Sugar Exfoliate Scrub | Body Scrub Cream for Women Tan Removal",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Coffee + Sugar",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71581X8jZTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1H8LFFT",
-  "buyStore": "Amazon",
-  "title": "Bella Bum Coffee Sugar Exfoliate Scrub | Body Scrub Cream for Women Tan Removal",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:scrub",
-   "ing:coffee",
-   "ing:sugar",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h158y87s",
-  "brand": "Unbranded",
-  "model": "Brightening and Renewing Face Sugar Scrub with Vitamin C and Orange Extract, Sulfate and P…",
-  "price": 800,
-  "capacityLine": "150 g",
-  "materialLine": "Vitamin C + Hyaluronic acid + Ceramides",
-  "featureLine": "Scrub · Paraben-free · ₹533/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 g",
-   "pricePer100": "₹533/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C, Hyaluronic acid, Ceramides, Peptides, Collagen, Kojic acid, Strawberry, Sugar (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Hydrating / moisturizing, Exfoliating, Rough / bumpy skin (KP) (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/517+4+cz9wL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H158Y87S",
-  "buyStore": "Amazon",
-  "title": "Brightening and Renewing Face Sugar Scrub with Vitamin C and Orange Extract, Sulfate and Paraben Free, 150 gm Sugar Body Scrub | 300g | Kojic Acid, Hyaluronic Acid, Ceramides, Collagen & Peptides | De-Tan & Brightens Dark Areas | Smooths Strawberry Legs & Arms | Hydrates & Exfoliates",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "ing:vitamin-c",
-   "ing:hyaluronic-acid",
-   "ing:ceramides",
-   "ing:peptides",
-   "ing:collagen",
-   "ing:kojic-acid",
-   "ing:strawberry",
-   "ing:sugar",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:kp",
-   "free:paraben",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "vanilla-b0gv4djf4s",
-  "brand": "Vanilla",
-  "model": "Body Polish Scrub for Smooth & Glowing Skin | Deep Exfoliating Body Scrub | Removes Dead S…",
-  "price": 719,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹1438/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1438/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41oNRH9wZML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GV4DJF4S",
-  "buyStore": "Amazon",
-  "title": "Vanilla Body Polish Scrub for Smooth & Glowing Skin | Deep Exfoliating Body Scrub | Removes Dead Skin & Tan | Hydrating Skin Care (50 g)",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "sheeba-b08q7vydrb",
-  "brand": "SHEEBA",
-  "model": "Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
-  "price": 346,
-  "capacityLine": "750 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹46/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "750 ml",
-   "pricePer100": "₹46/100ml",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61yAb3b7xAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B08Q7VYDRB",
-  "buyStore": "Amazon",
-  "title": "SHEEBA Bike Scooter Scooty Motor Cycle Complete Body Polish Shiner (750 ml)",
-  "tags": [
-   "scope:body",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "groommm-b0gn894c16",
-  "brand": "Groommm",
-  "model": "Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish …",
-  "price": 299,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Body wax · ₹120/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹120/100ml",
-   "format": "Body wax",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51OCJUjkjtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GN894C16",
-  "buyStore": "Amazon",
-  "title": "Groommm Car Polish 250ml for All Vehicles | Provide Glossy Shine for Dull Paint | Car Body Polish for Exterior Paint Protection | Enhances Shine & Finish | Compatible with Car Wax & Ceramic Coating",
-  "tags": [
-   "scope:body",
-   "format:body-wax",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "bodyherbals-b00uorox9s",
-  "brand": "BodyHerbals",
-  "model": "Radiance Body Polisher Scrub (200 gms) For Tan Removal & Instant Glow | Enriched With Natu…",
-  "price": 569,
-  "capacityLine": "200 g",
-  "materialLine": "Honey",
-  "featureLine": "Scrub · Paraben-free · ₹285/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 2.6
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹285/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Honey (named on listing)",
-   "freeFrom": "Paraben-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Ayurvedic / herbal (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.2★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71LxGk-iFxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B00UOROX9S",
-  "buyStore": "Amazon",
-  "title": "BodyHerbals Radiance Body Polisher Scrub (200 gms) For Tan Removal & Instant Glow | Enriched With Natural Orange & Honey | 100% Vegan & Paraben Free | For Men & Women | All Skin Types",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:honey",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:ayurvedic",
-   "skin:all",
-   "free:paraben",
-   "free:vegan",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.2★ from 0 ratings"
-  }
- },
- {
-  "id": "unbranded-b0gtdy9mw1",
-  "brand": "Unbranded",
-  "model": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoli…",
-  "price": 197,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61-xHWGgUxL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTDY9MW1",
-  "buyStore": "Amazon",
-  "title": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | Dead Skin Remover | Brightening & Pore Cleansing Scrub for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:wash",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "cookie-b0dvh56bgj",
-  "brand": "Cookie",
-  "model": "Dough Tan Removal Body Scrub for Women – De Tan Scrub with Glycolic Acid for Smooth Bright…",
-  "price": 339,
-  "capacityLine": "300 g",
-  "materialLine": "Glycolic acid",
-  "featureLine": "Scrub · ₹113/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹113/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Glycolic acid (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Bsz8bTQRL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DVH56BGJ",
-  "buyStore": "Amazon",
-  "title": "Cookie Dough Tan Removal Body Scrub for Women – De Tan Scrub with Glycolic Acid for Smooth Bright Skin, Exfoliating Body Scrub that Softens Bumps, Fades Tan & Moisturizes (300 gm)",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:glycolic-acid",
-   "claim:de-tan",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "dr-algar-b0h6lmp7ns",
-  "brand": "Dr. Algar",
-  "model": "10% AHA BHA Body Scrub – Exfoliating & Cleansing Scrub for Tan Removal, Skin Brightening &…",
-  "price": 299,
-  "capacityLine": "200 g",
-  "materialLine": "Salicylic acid (BHA) + AHA",
-  "featureLine": "Scrub · ₹150/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹150/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Salicylic acid (BHA), AHA (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61p3f3Mhi1L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6LMP7NS",
-  "buyStore": "Amazon",
-  "title": "Dr. Algar 10% AHA BHA Body Scrub – Exfoliating & Cleansing Scrub for Tan Removal, Skin Brightening & Dead Skin Cell Removal | Day & Night Use | 200g / 6.76 fl oz",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h4mfcjc8",
-  "brand": "Unbranded",
-  "model": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoli…",
-  "price": 179,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61vO9K6ekAL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H4MFCJC8",
-  "buyStore": "Amazon",
-  "title": "Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | Dead Skin Remover | Brightening & Pore Cleansing Scrub for All Skin Types",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:wash",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h58wxd9p",
-  "brand": "Unbranded",
-  "model": "Orange Enzymes Exfoliating Gel 74g | Dead Skin Remover Face & Body Scrub | Deep Pore Clean…",
-  "price": 194,
-  "capacityLine": "74 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹262/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "74 g",
-   "pricePer100": "₹262/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41alsfP3XLL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H58WXD9P",
-  "buyStore": "Amazon",
-  "title": "Orange Enzymes Exfoliating Gel 74g | Dead Skin Remover Face & Body Scrub | Deep Pore Cleansing & Brightening Gel | Gentle Exfoliator for Tan Removal, Blackheads & Smooth Glowing",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:wash",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0h1cxcqhq",
-  "brand": "Unbranded",
-  "model": "Orange Enzyme Exfoliating Gel for Face & Body with Vitamin C, Glycerin & Plant Extracts - …",
-  "price": 299,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Vitamin C + Glycerin",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Vitamin C, Glycerin (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61dFXnGJ4vL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H1CXCQHQ",
-  "buyStore": "Amazon",
-  "title": "Orange Enzyme Exfoliating Gel for Face & Body with Vitamin C, Glycerin & Plant Extracts - Deep Cleansing Dead Skin Remover Scrub | Brightening Pore Cleanser for Men & Women All Skin Types (2 PCS)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:wash",
-   "ing:vitamin-c",
-   "ing:glycerin",
-   "claim:brightening",
-   "claim:pores",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "yc-b0fdqsn2cs",
-  "brand": "YC",
-  "model": "Shower Salt Scrub with Milk | Exfoliating Body Scrub for Dark Spots & Bright Skin | 450g",
-  "price": 414,
-  "capacityLine": "450 g",
-  "materialLine": "Milk",
-  "featureLine": "Scrub · ₹92/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "450 g",
-   "pricePer100": "₹92/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Milk (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Dark spots / pigmentation, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61I0ewywCtL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FDQSN2CS",
-  "buyStore": "Amazon",
-  "title": "YC Shower Salt Scrub with Milk | Exfoliating Body Scrub for Dark Spots & Bright Skin | 450g",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:milk",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0ggcjbc9s",
-  "brand": "Unbranded",
-  "model": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, S…",
-  "price": 652,
-  "capacityLine": "300 g",
-  "materialLine": "Sandalwood + Coconut + Sea salt",
-  "featureLine": "Scrub · ₹217/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "300 g",
-   "pricePer100": "₹217/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Sandalwood, Coconut, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61Yhnws6UKL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GGCJBC9S",
-  "buyStore": "Amazon",
-  "title": "Sandalwood Sea Salt Body Scrub | Tranquil Spa Polish with Pure Sandalwood Oil, Sea Salt, Sesame & Coconut Oils | Detoxifies, Smooths & Hydrates Skin - 300g",
-  "tags": [
-   "scope:body",
-   "format:oil",
-   "format:scrub",
-   "ing:sandalwood",
-   "ing:coconut",
-   "ing:sea-salt",
-   "claim:hydrating",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "allay-b0fr54xcmr",
-  "brand": "Allay",
-  "model": "Salt Cleanser | Rejuvenating Body Scrub with Essential Oils & Healing Flower Essences | 50…",
-  "price": 1179,
-  "capacityLine": "500 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹236/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "500 g",
-   "pricePer100": "₹236/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51GD0zLUxTL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FR54XCMR",
-  "buyStore": "Amazon",
-  "title": "Allay Salt Cleanser | Rejuvenating Body Scrub with Essential Oils & Healing Flower Essences | 500 g",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:wash",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "swosh-b0brq7whdz",
-  "brand": "SWOSH",
-  "model": "100% Vegan Exfoliate Face Body Scrub For bathing, Skin Exfoliating, Tan Removal 75g(Pack O…",
-  "price": 189,
-  "capacityLine": "150 g (pack of 2)",
-  "materialLine": "Coffee + Walnut + Coconut",
-  "featureLine": "Scrub · ₹126/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "75 g × 2 pack",
-   "pricePer100": "₹126/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Coffee, Walnut, Coconut (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Whitening / fairness (claim), Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71Sn+ygvXnL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BRQ7WHDZ",
-  "buyStore": "Amazon",
-  "title": "SWOSH 100% Vegan Exfoliate Face Body Scrub For bathing, Skin Exfoliating, Tan Removal 75g(Pack Of 2) | Coffee Scrub For Body & Face Whitening | Natural Coffee, Walnut, Coconut Oil & Rock Salt - 150 g (75 g)",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "format:scrub",
-   "format:kit",
-   "ing:coffee",
-   "ing:walnut",
-   "ing:coconut",
-   "claim:de-tan",
-   "claim:whitening-claim",
-   "claim:exfoliating",
-   "free:vegan",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "foxtale-b0gj47st95",
-  "brand": "FoxTale",
-  "model": "Skin Radiance Mask + Hula Hoop Exfoliating Body Scrub | Exfoliating Body Scrub with 2% Lac…",
-  "price": 835,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Lactic acid + Sea salt",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Lactic acid, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Foxtale Consumer — Indian D2C brand with its own product company",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51EC-RM2UZL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GJ47ST95",
-  "buyStore": "Amazon",
-  "title": "Foxtale Skin Radiance Mask + Hula Hoop Exfoliating Body Scrub | Exfoliating Body Scrub with 2% Lactic Acid, Dead Sea Salt, & Perlite | | For Smooth & Glowing Skin | Suitable for Men & Women",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:lactic-acid",
-   "ing:sea-salt",
-   "claim:brightening",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Foxtale Consumer",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://foxtale.in/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "arabica-b0gxbpxc3g",
-  "brand": "Arabica",
-  "model": "Coffee Body Scrub Powder | 150g | Arabica Coffee, Brown Sugar, Cinnamon & Sea Salt | Natur…",
-  "price": 390,
-  "capacityLine": "150 g",
-  "materialLine": "Coffee + Sugar + Sea salt",
-  "featureLine": "Scrub · ₹260/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "150 g",
-   "pricePer100": "₹260/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coffee, Sugar, Sea salt (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for men",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61q9bRN-qhL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXBPXC3G",
-  "buyStore": "Amazon",
-  "title": "Arabica Coffee Body Scrub Powder | 150g | Arabica Coffee, Brown Sugar, Cinnamon & Sea Salt | Natural Exfoliator for Tan Removal, Dead Skin & Smooth Skin | No Preservatives | Skin Polishing Scrub | For Male Female",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:powder",
-   "ing:coffee",
-   "ing:sugar",
-   "ing:sea-salt",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:men",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": true,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "unbranded-b0bry2lmrg",
-  "brand": "Unbranded",
-  "model": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | De…",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "Sandalwood + Rose + Walnut",
-  "featureLine": "Scrub · ₹299/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0.3
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Sandalwood, Rose, Walnut, Shea butter, Olive (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, De-tan / tan removal, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "3.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71pkoIwnIdL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BRY2LMRG",
-  "buyStore": "Amazon",
-  "title": "Rose Rakhtchandan Walnut Face Body Scrub For Glowing Skin with Shea Butter, Olive Oil | Dead Skin Tan Removal, Brightening, Dry Dull Skin | Men & Women | 100g",
-  "tags": [
-   "scope:both",
-   "format:oil",
-   "format:balm",
-   "format:scrub",
-   "ing:sandalwood",
-   "ing:rose",
-   "ing:walnut",
-   "ing:shea-butter",
-   "ing:olive",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:exfoliating",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "3.5★ from 0 ratings"
-  }
- },
- {
-  "id": "cosmo-b0ftz2gjsg",
-  "brand": "Cosmo",
-  "model": "Strawberry Shea Sugar Scrub 450g, Exfoliating & Nourishing Body Scrub, Brightening & Hydra…",
-  "price": 1199,
-  "capacityLine": "450 g",
-  "materialLine": "Shea butter + Strawberry + Sugar",
-  "featureLine": "Scrub · ₹266/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
-   "experience": 3.5
-  },
-  "fullSpec": {
-   "quantity": "450 g",
-   "pricePer100": "₹266/100g",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Shea butter, Strawberry, Sugar (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "All skin types",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "CavinKare — Established / listed Indian FMCG house",
-   "buyerEvidence": "4.5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ixxRh4btL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FTZ2GJSG",
-  "buyStore": "Amazon",
-  "title": "Cosmo Strawberry Shea Sugar Scrub 450g, Exfoliating & Nourishing Body Scrub, Brightening & Hydrating, Face & Body Care, Natural Ingredient, Dead & Deep Skin Cleanser, All Skin Types, Scrub For Unisex",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:wash",
-   "ing:shea-butter",
-   "ing:strawberry",
-   "ing:sugar",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "CavinKare",
-    "kind": "india",
-    "label": "Established / listed Indian FMCG house",
-    "pts": 6,
-    "url": "https://www.cavinkare.com/brands/"
-   },
-   "buyers": "4.5★ from 0 ratings"
-  }
- },
- {
-  "id": "knee-b0dttncprr",
-  "brand": "Knee",
-  "model": "& Feet Brightening Scrub | Body Scrub to Remove Dead Skin 100 grams Pack of 2",
-  "price": 314,
-  "capacityLine": "200 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹157/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "100 g × 2 pack",
-   "pricePer100": "₹157/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/514x12HDKEL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DTTNCPRR",
-  "buyStore": "Amazon",
-  "title": "Knee & Feet Brightening Scrub | Body Scrub to Remove Dead Skin 100 grams Pack of 2",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "format:kit",
-   "claim:brightening",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "coco-b0cvvxrr9v",
-  "brand": "COCO",
-  "model": "CRUSH Exfoliating Body Scrub For Lightening & Brightening Skin | For Men & Women | Bathing…",
-  "price": 155,
-  "capacityLine": "50 g",
-  "materialLine": "Coconut + Lavender",
-  "featureLine": "Scrub · ₹310/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 1.9
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹310/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Coconut, Lavender (named on listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Whitening / fairness (claim), Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "4★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/610cpJCLRkL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CVVXRR9V",
-  "buyStore": "Amazon",
-  "title": "COCO CRUSH Exfoliating Body Scrub For Lightening & Brightening Skin | For Men & Women | Bathing Scrub with Coconut & Lavender | Removes Dirt & Dead Skin from Neck, Knees, Elbows, & Arms (50g)",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "ing:coconut",
-   "ing:lavender",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:exfoliating",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "4★ from 0 ratings"
-  }
- },
- {
-  "id": "dove-b0chy9xts4",
-  "brand": "Dove",
-  "model": "Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes …",
-  "price": 986,
-  "capacityLine": "298 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Scrub · Sulfate/SLS-free · ₹331/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "298 g",
-   "pricePer100": "₹331/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61qZhAQUWmL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CHY9XTS4",
-  "buyStore": "Amazon",
-  "title": "Dove Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes & Conditions Soft Skin | Sulphate Free, 298gm & Dove Exfoliating Body Polish Scrub 298g",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "format:scrub",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:sulfate",
-   "aud:unisex",
-   "size:xl",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dove-b0chy5qpbv",
-  "brand": "Dove",
-  "model": "Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes …",
-  "price": 1135,
-  "capacityLine": "298 g",
-  "materialLine": "Shea butter",
-  "featureLine": "Scrub · Sulfate/SLS-free · ₹381/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "298 g",
-   "pricePer100": "₹381/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Shea butter (named on listing)",
-   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Dry skin",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "5★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71--gn69LIL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CHY5QPBV",
-  "buyStore": "Amazon",
-  "title": "Dove Body Polish Exfoliating Scrub, Moisturizing Shea Butter and Pomegranate Seeds | Nourishes & Conditions Soft Skin | Sulphate Free, 298gm & Dove Exfoliating Body Polish Scrub For Dry Skin 298g",
-  "tags": [
-   "scope:body",
-   "format:balm",
-   "format:scrub",
-   "ing:shea-butter",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:dry",
-   "free:sulfate",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "5★ from 0 ratings"
-  }
- },
- {
-  "id": "dove-b0dntzmkpr",
-  "brand": "Dove",
-  "model": "Exfoliating Body Scrub for Smooth Radiant Skin Deep Nourishing Gentle Body Polish with Moi…",
-  "price": 1490,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Unilever / Hindustan Unilever — Global FMCG or beauty group",
-   "buyerEvidence": "4.7★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71w2I7P8W9L.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DNTZMKPR",
-  "buyStore": "Amazon",
-  "title": "Dove Exfoliating Body Scrub for Smooth Radiant Skin Deep Nourishing Gentle Body Polish with Moisturizing Care Vanilla Scent 15 Oz",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Unilever / Hindustan Unilever",
-    "kind": "global",
-    "label": "Global FMCG or beauty group",
-    "pts": 6.5,
-    "url": "https://www.hul.co.in/brands/"
-   },
-   "buyers": "4.7★ from 0 ratings"
-  }
- },
- {
-  "id": "sirona-b0bhwq9cqv",
-  "brand": "Sirona",
-  "model": "Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfol…",
-  "price": 256,
-  "capacityLine": "50 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Roll-on · Alcohol-free · ₹512/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
-   "experience": 2.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹512/100ml",
-   "format": "Roll-on",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Alcohol-free (seller claim — not scored)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening / glow, Exfoliating, Odour control / freshness (seller claim — not clinical proof)",
-   "skinType": "Sensitive skin",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Sirona Hygiene — Indian D2C brand with its own product company",
-   "buyerEvidence": "4.1★ from 0 ratings"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61fLkDyhWPL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0BHWQ9CQV",
-  "buyStore": "Amazon",
-  "title": "Sirona Underarm Roll On Deodorant for Women | 50 ml | Prevents Body Odour, Brightens Skin & Exfoliates Underarm | Sensitive Skin | Aqua Fragrance | Alcohol Free",
-  "tags": [
-   "scope:body",
-   "format:roll-on",
-   "claim:brightening",
-   "claim:exfoliating",
-   "claim:odour",
-   "skin:sensitive",
-   "free:alcohol",
-   "free:sensitive-safe",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": "Sirona Hygiene",
-    "kind": "d2c",
-    "label": "Indian D2C brand with its own product company",
-    "pts": 5,
-    "url": "https://thesirona.com/"
-   },
-   "buyers": "4.1★ from 0 ratings"
-  }
- },
- {
-  "id": "bnf-5xginger-b0dy1jbxxf",
-  "brand": "BNF®5xGinger",
-  "model": "Bath Scrub Salts 30G Exfoliates, Moisturizes, and Nourishes Skin 1Pcs|Health & Beauty | Ba…",
-  "price": 1074,
-  "capacityLine": "30 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub · ₹3580/100g",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹3580/100g",
-   "format": "Scrub",
-   "appliesTo": "Body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating / moisturizing, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/41LlZY1d-NL.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0DY1JBXXF",
-  "buyStore": "Amazon",
-  "title": "BNF®5xGinger Bath Scrub Salts 30G Exfoliates, Moisturizes, and Nourishes Skin 1Pcs|Health & Beauty | Bath & Body | Bath Salts",
-  "tags": [
-   "scope:body",
-   "format:scrub",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:travel",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
-  }
- },
- {
-  "id": "dr-sasaki-b0cbv42bl1",
-  "brand": "Dr.Sasaki",
-  "model": "De Tan Scrub for Women |Skin Exfoliator and Whitehead Remover Scrub for Tan Removal | Face…",
-  "price": 268,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
-  "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
-  ],
-  "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
-   "experience": 0
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub",
-   "appliesTo": "Face + body (per listing)",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "De-tan / tan removal, Pores / blackheads, Exfoliating (seller claim — not clinical proof)",
-   "skinType": "Not stated in listing",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing",
-   "inciStatus": "Amazon product page not read (bot-walled / search-result data only) — ingredient block unchecked, so formula and safety are unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
-   "maker": "Maker not verified (no parent company found)",
-   "buyerEvidence": "No buyer ratings yet"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71J08bAN0ML.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0CBV42BL1",
-  "buyStore": "Amazon",
-  "title": "Dr.Sasaki De Tan Scrub for Women |Skin Exfoliator and Whitehead Remover Scrub for Tan Removal | Face and Body Scrub Helps Cleaning Pores and Smooth, Healthy Skin | Pack of 1",
-  "tags": [
-   "scope:both",
-   "format:scrub",
-   "format:kit",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:none",
-   "store:amazon",
-   "inci:none"
-  ],
-  "filters": {
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true,
-   "inci": "none",
-   "inciSrc": null,
-   "pharma": false
-  },
-  "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
-   "inciUnverified": null,
-   "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
-   "formulaNotes": [],
-   "flags": [],
-   "maker": {
-    "parent": null,
-    "kind": "unknown",
-    "label": "Maker not verified",
-    "pts": 3.5,
-    "url": null
-   },
-   "buyers": "No buyer ratings yet"
   }
  }
 ];
