@@ -10,6 +10,7 @@ import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountSources } from './render/sources.js';
 import { mountGallery } from './render/gallery.js';
+import { mountDaySheet } from './render/daySheet.js';
 import { mountTheme } from './chrome/theme.js';
 import { mountClock, mountProgress, mountRail, mountReveal } from './chrome/status.js';
 import { mountShortcuts } from './chrome/shortcuts.js';
@@ -24,6 +25,7 @@ mountBudget(store);
 mountChecklist(store);
 mountSources();
 mountGallery();
+mountDaySheet(store);
 
 store.subscribe((state) => {
   renderRoute(state);

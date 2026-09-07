@@ -52,7 +52,7 @@ function pill(a) {
   const x = Math.min(Math.max(pt.x, w / 2 + 2), W - w / 2 - 2);
   const icons = [...new Set(a.picks.map((p) => p.icon))].slice(0, ICON_MAX);
   const row = icons.map((ic, i) => `<use href="#i-${ic}" x="${pt.x - (icons.length * 9) / 2 + i * 9}" y="${pt.y + 7}" width="8" height="8"/>`).join('');
-  return `<g class="map__day" aria-label="Day ${label.slice(1)} at ${esc(where(a.at))}">
+  return `<g class="map__day" role="button" tabindex="0" data-daysheet="${a.ns[0]}" aria-label="Open day ${label.slice(1)} at ${esc(where(a.at))}">
     <rect x="${x - w / 2}" y="${pt.y - 20}" width="${w}" height="12" rx="6"/>
     <text x="${x}" y="${pt.y - 11.5}" text-anchor="middle">${label}</text>
     <g class="map__acts">${row}</g>

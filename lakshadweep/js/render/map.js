@@ -87,7 +87,7 @@ export function routeMap(plan) {
   const showLens = islands.some((p) => CLUSTER.has(p));
   const summary = plan.legs.map((l) => `${l.from} to ${l.to} by ${l.mode}`).join('; ');
 
-  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of the islands on this route: ${esc(summary)}. Day numbers mark each stop.">
+  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="group" aria-label="Map of the islands on this route: ${esc(summary)}. Day numbers mark each stop.">
     ${graticule()}
     ${legs.map(legPath).join('')}
     ${edgeNode()}

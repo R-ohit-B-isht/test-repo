@@ -1,0 +1,98 @@
+/* Day sheet: <dialog> with the day's tiles grouped Travel · See & do · Eat · Stay. */
+
+.sheet {
+  width: min(56rem, calc(100vw - 2 * var(--s2)));
+  max-height: calc(100vh - 2 * var(--s2));
+  padding: 0;
+  overflow: auto;
+  scrollbar-width: thin;
+}
+.sheet__head {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  gap: var(--s2);
+  align-items: center;
+  padding: var(--s2) var(--s2) var(--s1);
+  background: var(--paper);
+  border-bottom: var(--hair);
+}
+.sheet__n { font: italic 400 1.75rem/1 var(--serif); }
+.sheet__where { display: grid; gap: 2px; min-width: 0; }
+.sheet__where b { font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sheet__where time { color: var(--mist); font-size: var(--fs-label); line-height: 1rem; letter-spacing: 0.06em; }
+.sheet__mode { display: grid; place-items: center; width: 2.5rem; height: 2.5rem; border: var(--hair); border-radius: 50%; }
+.sheet__mode .ic { width: 1.25rem; height: 1.25rem; }
+.sheet__title { padding: var(--s2) var(--s2) 0; font: 400 1.5rem/1.75rem var(--serif); letter-spacing: -0.01em; text-wrap: balance; }
+.sheet__body { display: grid; gap: var(--s3); padding: var(--s2); }
+.sheet__cat { display: grid; gap: var(--s1); }
+.sheet__cat > .label { display: flex; gap: var(--s1); align-items: baseline; }
+.sheet__cat > .label small { font-size: inherit; letter-spacing: 0; opacity: 0.7; }
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 10rem), 1fr));
+  gap: 0.25rem;
+  align-items: start;
+}
+.tile {
+  position: relative;
+  display: grid;
+  width: 100%;
+  padding: 0;
+  text-align: left;
+  border: var(--hair);
+  background: var(--card);
+  overflow: hidden;
+  transition: border-color var(--dur-fast) var(--ease-out);
+}
+button.tile:hover, button.tile:focus-visible { border-color: var(--ink); }
+button.tile:hover .tile__photo { transform: scale(1.03); }
+.tile__photo { display: block; width: 100%; aspect-ratio: 3 / 2; height: auto; object-fit: cover; transition: transform var(--dur-reveal) var(--ease-out); }
+.tile__ic { display: grid; place-items: center; height: 3.5rem; background: var(--faint); color: var(--forest); }
+.tile__ic .ic { width: 1.5rem; height: 1.5rem; }
+.tile__n {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.35rem;
+  display: inline-flex;
+  gap: 0.2rem;
+  align-items: center;
+  padding: 0.1rem 0.4rem;
+  color: var(--paper);
+  background: color-mix(in srgb, var(--ink) 78%, transparent);
+  font: 500 var(--fs-label)/1rem var(--mono);
+  border-radius: 999px;
+}
+.tile__n .ic { width: 0.75rem; height: 0.75rem; }
+.tile__text { display: grid; gap: 2px; align-content: start; padding: var(--s1); font-size: var(--fs-label); line-height: 1rem; }
+.tile__slot { font: 500 var(--fs-label)/1rem var(--mono); letter-spacing: 0.18em; color: var(--mist); }
+.tile__name { font: 400 var(--fs-body)/1.25rem var(--serif); color: var(--ink); }
+.tile__sub, .tile__note { color: var(--mist); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.tile__tag { color: var(--forest); font-weight: 500; letter-spacing: 0.04em; }
+
+.sheet__foot {
+  position: sticky;
+  bottom: 0;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: var(--s2);
+  align-items: center;
+  padding: var(--s1) var(--s2);
+  background: var(--paper);
+  border-top: var(--hair);
+}
+.sheet__spend { display: grid; justify-items: center; font-variant-numeric: tabular-nums; }
+.sheet__spend small { color: var(--mist); font-size: var(--fs-label); line-height: 1rem; letter-spacing: 0.12em; text-transform: uppercase; }
+.sheet__spend b { font: 400 1.25rem/1.5rem var(--serif); }
+.sheet__step { display: inline-flex; gap: 0.25rem; align-items: center; min-height: 2.5rem; padding: 0 var(--s1); color: var(--mist); }
+.sheet__step:hover, .sheet__step:focus-visible { color: var(--ink); }
+.sheet__step:disabled { opacity: 0.3; cursor: default; }
+.sheet__step .ic { width: 1rem; height: 1rem; }
+
+@media (max-width: 599px) {
+  .sheet { width: 100vw; max-width: 100vw; max-height: 100vh; height: 100vh; margin: 0; border: 0; }
+  .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

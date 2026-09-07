@@ -138,7 +138,9 @@
 .map__node--lens.is-off text { fill: var(--mist); }
 .map__node--lens.is-ghost circle { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }
 .map__node--edge path { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
-.map__day rect { fill: var(--ink); }
+.map__day { cursor: pointer; outline: none; }
+.map__day rect { fill: var(--ink); stroke: var(--forest); stroke-width: 0; transition: stroke-width var(--dur-fast) var(--ease-out); }
+.map__day:hover rect, .map__day:focus-visible rect { stroke-width: 1.5; }
 .map__day text { fill: var(--paper); font-size: 7.5px; letter-spacing: 0.06em; }
 .map__acts use { stroke: var(--forest); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
 .map__ghost { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }

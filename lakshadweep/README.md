@@ -29,8 +29,9 @@ for f in $(find js -name '*.js'); do node --check "$f"; done
 - `js/budget.js` — pure budget arithmetic, bucketed into transport / stay / food / local / picks.
 - `js/store.js` — observable localStorage-backed state (Observer pattern).
 - `js/icons.js` — one SVG sprite, referenced by id (Flyweight).
-- `js/render/` — one renderer per section: hero, route map (+ day pills, pick icons, off-route ghosts), strategy cards, picks, day cards, ledger, checklist, sources, photo gallery (`<dialog>`).
+- `js/render/` — one renderer per section: hero, route map (+ day pills, pick icons, off-route ghosts), strategy cards, picks, day cards (`itinerary.js` + `dayMedia.js`), ledger, checklist, sources, photo gallery (`gallery.js`, `<dialog>`), day sheet (`daySheet.js` + `daySheetModel.js`, `<dialog>`).
+- Day sheet: tap a day card header or a map D-pill to open a popup grid for that day — Travel (route legs with fare/status), See & do (picks + fixed bits), Eat (B/L/D from `EATS`), Stay (`STAYS`). Tiles use the exact item photos where they exist and an icon otherwise; photo tiles open the gallery on top. `←`/`→` step days, `Esc` closes, focus returns to the opener; it re-renders on any store change so toggles stay in sync.
 - `js/chrome/` — theme, clock, progress, rail, shortcuts.
-- `img/` — photographs of the exact islands, landmarks and activities (Wikimedia Commons CC BY / BY-SA, one NASA public-domain image), several per item, mapped in `js/data/photos.js` (`ITEM_PHOTOS`) and credited in the Sources section. Items with no genuine photo show "No exact photo found" rather than a stand-in.
+- `img/` — photographs of the exact islands, landmarks and activities (Wikimedia Commons CC BY / BY-SA, one NASA public-domain image), several per item, mapped in `js/data/photos.js` (`ITEM_PHOTOS`; records split into `photos/trip.js` and `photos/items.js`) and credited in the Sources section. Items with no genuine photo show "No exact photo found" rather than a stand-in.
 
 Fare statuses: `seen` (read for that exact date), `nearby` (read for another date), `tariff` (official rate, sailing date TBC), `estimate`, `unavailable`. Observed Aug–Sep 2026 from the linked sources, not live fares.
