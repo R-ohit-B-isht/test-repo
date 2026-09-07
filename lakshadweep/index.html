@@ -77,6 +77,8 @@
         <span class="eyebrow">02 · Days</span>
         <h2 class="h2" id="days-title"><span id="days-count"></span> days, drawn out</h2>
       </header>
+      <div class="picks" id="picks" aria-label="Places and experiences to add"></div>
+      <p class="picks__note" id="picks-note" role="status"></p>
       <ol class="daynav" id="day-nav" aria-label="Jump to day"></ol>
       <ol class="days" id="day-list"></ol>
     </section>
@@ -101,10 +103,10 @@
             <input type="range" id="homestay-rate" min="2500" max="5000" step="100" />
             <output for="homestay-rate" id="homestay-rate-out" class="range__out"></output>
           </div>
-          <fieldset class="field">
-            <legend class="label">Add water sports <span class="label__hint">off by default</span></legend>
-            <div class="toggles" id="activity-toggles"></div>
-          </fieldset>
+          <div class="field">
+            <span class="label">Picks <span class="label__hint">from section 02</span></span>
+            <p class="field__sum" id="picks-summary"></p>
+          </div>
         </form>
         <div class="ledger" id="ledger" aria-live="polite"></div>
       </div>

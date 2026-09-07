@@ -1,43 +1,24 @@
-// Trip constants, optional activities, booking checklist, design credits.
+// Trip constants, booking checklist, design credits. Coordinates live in geo.js,
+// places and activities in catalogue.js.
 
 export const TRIP = {
   title: 'Lakshadweep',
   start: '2026-10-06',
   permitLeadDays: 14,
   quotedRoundTrip: 40000,
-  observedWindow: 'Aug–Sep 2026',
+  observedWindow: '6–7 Sep 2026',
   origin: 'Delhi (DEL)',
 };
-
-// Real coordinates, used to draw the map to scale. `side` = which side the label sits on.
-export const PLACES = {
-  Delhi: { lat: 28.56, lon: 77.1, code: 'DEL', side: 'w' },
-  Kochi: { lat: 10.15, lon: 76.4, code: 'COK', side: 'e' },
-  Agatti: { lat: 10.82, lon: 72.18, code: 'AGX', side: 'w' },
-  Bangaram: { lat: 10.94, lon: 72.28, side: 'e' },
-  Kavaratti: { lat: 10.57, lon: 72.64, side: 'e' },
-  Minicoy: { lat: 8.28, lon: 73.05, side: 'e' },
-  Kalpeni: { lat: 10.08, lon: 73.63, side: 'e' },
-};
-
-// Paid extras. All off by default: the headline number is the essential trip.
-export const ACTIVITIES = [
-  { id: 'snorkel', label: 'Snorkel boat', key: 'snorkel', icon: 'snorkel', where: 'Agatti' },
-  { id: 'kayak', label: 'Kayak', key: 'kayak', icon: 'kayak', where: 'Agatti' },
-  { id: 'bangaram', label: 'Bangaram day boat', key: 'bangaramBoat', icon: 'boat', where: 'Bangaram + Thinnakara' },
-  { id: 'scuba', label: 'Discover Scuba', key: 'scuba', icon: 'dive', where: 'Agatti' },
-  { id: 'glassBottom', label: 'Glass-bottom boat', key: 'glassBottom', icon: 'glass', where: 'Kavaratti' },
-];
 
 // Booking steps. `before` = days before departure; `for` = strategy ids (omit for all).
 export const CHECKLIST = [
   { id: 'train', before: 60, for: ['train-sail'], icon: 'train', text: 'Kerala Express 12626 New Delhi → Ernakulam on IRCTC. Booking opens 60 days out.', link: 'keralaexpress' },
   { id: 'samudram', before: 45, for: ['samudram'], icon: 'ship', text: 'Samudram cruise (Gold) through SPORTS. Dates are fixed by their sailing calendar.', link: 'samudram' },
-  { id: 'ship', before: 21, for: ['train-sail', 'sail-both', 'fly-sail'], icon: 'ship', text: 'Ship tickets at lakport.utl.gov.in. Sailing dates set everything else.', link: 'shipbooking' },
-  { id: 'stay', before: 19, for: ['train-sail', 'sail-both', 'fly-sail', 'fly-both'], icon: 'home', text: 'Homestays: Agatti + Kavaratti nights. Ask for breakfast + dinner included.', link: 'homestays' },
+  { id: 'ship', before: 21, for: ['train-sail', 'sail-both', 'fly-sail'], icon: 'ship', text: 'Watch lakshadweep.irctc.co.in: October sailings publish late and bookings open ~6 days before. Sailing dates set everything else.', link: 'irctcAlerts' },
+  { id: 'stay', before: 19, for: ['train-sail', 'sail-both', 'fly-sail', 'fly-both'], icon: 'home', text: 'Homestays: Agatti (Al Fouz / Hira) + Kavaratti (Sithsyan). Ask for meals and the boat trips.', link: 'homestays' },
   { id: 'permit', before: 14, icon: 'permit', text: 'ePermit: list every island you touch. No sponsor, no PCC. ₹250 each.', link: 'epermit' },
-  { id: 'agx', before: 12, for: ['fly-sail', 'fly-both'], icon: 'plane', text: 'FLY91 Kochi ⇄ Agatti. Low fare buckets go first.', link: 'fly91tariff' },
-  { id: 'del', before: 12, icon: 'plane', text: 'Delhi ⇄ Kochi flights. Tue/Thu are cheapest; skip the 2 Oct long weekend.', link: 'happyfares' },
+  { id: 'agx', before: 12, for: ['fly-sail', 'fly-both'], icon: 'plane', text: 'Kochi ⇄ Agatti: IndiGo or FLY91. 8–11 Oct had ₹8,001 FLY91 fares; 15 Oct return was sold out.', link: 'fly91booking' },
+  { id: 'del', before: 12, icon: 'plane', text: 'Delhi ⇄ Kochi: ₹10,716 out on 6 Oct, ₹10,794 back on 15 Oct when checked. Fares move daily.', link: 'gflightsDelCok' },
   { id: 'zostel', before: 5, icon: 'bunk', text: 'Zostel Fort Kochi dorm beds for the Kochi nights.', link: 'zostel' },
   { id: 'pack', before: 1, icon: 'bag', text: 'Pack: permit printouts ×3, cash (ATMs only in Kavaratti), reef-safe sunscreen, seasickness tablets, shawl.' },
 ];

@@ -1,36 +1,14 @@
 // To-scale route map (equirectangular, real coordinates) with a zoom lens for
-// the island cluster. Pure function of legs → SVG string.
-import { PLACES } from '../data/trip.js';
+// the island cluster. Pure function of plan → SVG string. Day pills and
+// activity icons come from mapDays.js.
+import { PLACES } from '../data/geo.js';
 import { esc } from '../dom.js';
+import { W, H, K, LAT0, LON0, LENS, CLUSTER, proj, lens, curve } from './mapProj.js';
+import { dayLayer, ghostLayer } from './mapDays.js';
 
-const W = 260, H = 560, K = 25.5, LON0 = 69.6, LAT0 = 29.7;
-const LENS = { cx: 78, cy: 300, r: 72, k: 110, lon: 72.41, lat: 10.75 };
-const CLUSTER = new Set(['Agatti', 'Bangaram', 'Kavaratti']);
 const DASH = { plane: '', ship: '7 5', boat: '2 4', train: '1 3' };
 // Long overland legs bow east (over land, away from the lens); sea legs bow west.
 const BOW = { plane: [-0.55, 1.25], train: [-0.55, 1.25] };
-
-const proj = (name) => {
-  const p = PLACES[name];
-  return { x: (p.lon - LON0) * K, y: (LAT0 - p.lat) * K };
-};
-const lens = (name) => {
-  const p = PLACES[name];
-  return { x: LENS.cx + (p.lon - LENS.lon) * LENS.k, y: LENS.cy - (p.lat - LENS.lat) * LENS.k };
-};
-
-// Quadratic arc a→b, bowing perpendicular by `bow`. Badge sits at t=0.5, or offset along
-// short legs so the out/back badges of a there-and-back pair don't stack.
-function curve(a, b, bow) {
-  const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2;
-  const dx = b.x - a.x, dy = b.y - a.y;
-  const len = Math.hypot(dx, dy) || 1;
-  const cx = mx - dy * 0.18 * bow, cy = my + dx * 0.18 * bow;
-  const t = len < 140 ? 0.62 : 0.5;
-  const u = 1 - t;
-  const mid = { x: u * u * a.x + 2 * u * t * cx + t * t * b.x, y: u * u * a.y + 2 * u * t * cy + t * t * b.y };
-  return { d: `M${a.x} ${a.y}Q${cx} ${cy} ${b.x} ${b.y}`, mid };
-}
 
 function legPath(leg, i, n, scope) {
   const at = scope === 'lens' ? lens : proj;
@@ -69,17 +47,10 @@ function graticule() {
   return g;
 }
 
-export function routeMap(legs) {
-  const places = new Set(legs.flatMap((l) => [l.from, l.to, ...(l.via || [])]));
-  const mainLegs = legs.filter((l) => !(CLUSTER.has(l.from) && CLUSTER.has(l.to)));
-  const lensLegs = legs.filter((l) => CLUSTER.has(l.from) && CLUSTER.has(l.to));
+function lensLayer(inLens, lensLegs) {
   const cluster = proj('Agatti');
-  const inLens = [...places].filter((p) => CLUSTER.has(p));
-  const showLens = inLens.length > 0;
-
-  const mainNodes = [...places].filter((p) => !CLUSTER.has(p)).map((p) => node(p, proj(p)));
-  const clusterNode = showLens ? `<g class="map__node"><circle cx="${cluster.x}" cy="${cluster.y}" r="3.5"/></g>` : '';
-  const lensSvg = showLens ? `
+  return `
+    <g class="map__node"><circle cx="${cluster.x}" cy="${cluster.y}" r="3.5"/></g>
     <g class="map__lens">
       <line class="map__lensline" x1="${cluster.x}" y1="${cluster.y}" x2="${LENS.cx + LENS.r * 0.7}" y2="${LENS.cy + LENS.r * 0.7}"/>
       <circle class="map__lensbg" cx="${LENS.cx}" cy="${LENS.cy}" r="${LENS.r}"/>
@@ -90,12 +61,25 @@ export function routeMap(legs) {
       </g>
       ${inLens.map((p) => node(p, lens(p), 'map__node--lens')).join('')}
       <text class="map__gridlbl" x="${LENS.cx}" y="${LENS.cy + LENS.r + 12}" text-anchor="middle">island cluster ×4</text>
-    </g>` : '';
+    </g>`;
+}
 
-  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of the route: ${esc(legs.map((l) => `${l.from} to ${l.to} by ${l.mode}`).join('; '))}">
+export function routeMap(plan) {
+  const { legs } = plan;
+  const places = new Set(legs.flatMap((l) => [l.from, l.to, ...(l.via || [])]));
+  const mainLegs = legs.filter((l) => !(CLUSTER.has(l.from) && CLUSTER.has(l.to)));
+  const lensLegs = legs.filter((l) => CLUSTER.has(l.from) && CLUSTER.has(l.to));
+  const inLens = [...places].filter((p) => CLUSTER.has(p));
+  const showLens = inLens.length > 0;
+  const mainNodes = [...places].filter((p) => !CLUSTER.has(p)).map((p) => node(p, proj(p)));
+  const summary = legs.map((l) => `${l.from} to ${l.to} by ${l.mode}`).join('; ');
+
+  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of the route: ${esc(summary)}. Day numbers mark each stop.">
     ${graticule()}
     ${mainLegs.map((l, i) => legPath(l, i, mainLegs.length, 'main')).join('')}
-    ${mainNodes.join('')}${clusterNode}
-    ${lensSvg}
+    ${mainNodes.join('')}
+    ${showLens ? lensLayer(inLens, lensLegs) : ''}
+    ${dayLayer(plan, showLens)}
+    ${ghostLayer(plan, places)}
   </svg>`;
 }

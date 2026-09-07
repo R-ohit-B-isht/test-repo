@@ -1,12 +1,15 @@
 // Section 02: icon-led day cards derived from the selected strategy's blocks.
+// Card shells render once per strategy; the plan list, meals and spend chips
+// re-render on every state change (picks move between days).
 import { PRICES } from '../data/prices.js';
 import { PHOTOS } from '../data/photos.js';
+import { STAYS, STAY_CONF } from '../data/stays.js';
+import { EATS } from '../data/eats.js';
+import { REACH, PACKAGE_FREE } from '../data/catalogue.js';
 import { buildPlan } from '../plan.js';
 import { dayTotal, itemCost, fmt } from '../budget.js';
 import { html, raw, $, $$, fmtDate } from '../dom.js';
 import { icon } from '../icons.js';
-
-const short = (key) => PRICES[key].short;
 
 function figure(id) {
   if (!id) return '';
@@ -14,22 +17,40 @@ function figure(id) {
   return html`<img class="day__photo" src="${p.src}" alt="${p.alt}" width="960" height="640" loading="lazy" decoding="async">`;
 }
 
-const ACTIVITY_ICON = { snorkel: 'snorkel', kayak: 'kayak', bangaram: 'boat', scuba: 'dive', glassBottom: 'glass' };
+function pickTag(item, day) {
+  if (day.pkg && item.key && PACKAGE_FREE.has(item.key)) return 'in package';
+  if (item.reach !== 'base') return REACH[item.reach].label;
+  return item.key ? '' : 'free';
+}
+
+function planList(day) {
+  const fixed = day.fixed.map((f) => html`<li class="dp">${raw(icon(f.ic))}<span>${f.t}</span></li>`);
+  const picks = day.picks.map((p) => html`<li class="dp dp--pick">${raw(icon(p.icon))}<span>${p.name}</span><small>${pickTag(p, day)}</small></li>`);
+  return [...fixed, ...picks].join('');
+}
+
+function meals(day) {
+  return ['b', 'l', 'd'].map((slot) => {
+    const e = EATS[day.meals[slot]];
+    return html`<li class="dm ${e.incl ? 'dm--incl' : ''}" title="${e.sub}"><b>${slot.toUpperCase()}</b><span>${e.name}</span></li>`;
+  }).join('');
+}
 
 function spendChips(day, state) {
-  const chips = day.spend.map((item) => {
+  const chips = day.items.map((item) => {
+    const p = PRICES[item.key];
+    if (p.status === 'unavailable') return html`<li class="dc dc--off">${raw(icon('rupee'))}<span>${p.short}: quote</span></li>`;
     const cost = itemCost(item, state);
-    if (item.optional && !state.activities[item.optional]) {
-      return html`<li class="dc dc--off">${raw(icon(ACTIVITY_ICON[item.optional]))}<span>+ ${short(item.key)}</span></li>`;
-    }
     if (cost <= 0) return '';
-    return html`<li class="dc">${item.optional ? raw(icon(ACTIVITY_ICON[item.optional])) : ''}<span>${short(item.key)}</span><b>${fmt(cost)}</b></li>`;
+    const label = item.qty > 1 ? `${item.qty} × ${p.short}` : p.short;
+    return html`<li class="dc ${item.pick ? 'dc--pick' : ''}"><span>${label}</span><b>${fmt(cost)}</b></li>`;
   });
-  return chips.join('') || html`<li class="dc dc--none">Included in the cruise fare</li>`;
+  return chips.join('') || html`<li class="dc dc--none">All in the package</li>`;
 }
 
 function dayCard(day) {
   const pad = String(day.n).padStart(2, '0');
+  const stay = STAYS[day.stay];
   return html`
     <li class="day reveal" id="day-${day.n}" data-day="${day.n}" data-mode="${day.icon}" style="--stagger:${(day.n % 3) * 40}ms">
       <header class="day__head">
@@ -39,9 +60,10 @@ function dayCard(day) {
       </header>
       ${raw(figure(day.photo))}
       <h3 class="day__title">${day.title}</h3>
-      <ol class="day__plan">${raw(day.plan.map((p) => html`<li>${p}</li>`).join(''))}</ol>
+      <ol class="day__plan" data-day-plan></ol>
+      <ul class="day__meals" aria-label="Meals" data-day-meals></ul>
       <footer class="day__foot">
-        <span class="day__sleep">${raw(icon(day.sleepIcon))}<span>${day.sleep}</span></span>
+        <span class="day__sleep" title="${STAY_CONF[stay.conf]}">${raw(icon(stay.icon))}<span>${stay.name}<small>${stay.sub}</small></span></span>
         <details class="day__spend"><summary><span>Spend</span><b data-day-total></b></summary><ul class="day__chips" data-day-chips></ul></details>
       </footer>
     </li>`;
@@ -63,6 +85,8 @@ export function renderItinerary(state) {
   }
   for (const day of plan.days) {
     const el = $(`#day-${day.n}`);
+    $('[data-day-plan]', el).innerHTML = planList(day);
+    $('[data-day-meals]', el).innerHTML = meals(day);
     $('[data-day-total]', el).textContent = fmt(dayTotal(day, state));
     $('[data-day-chips]', el).innerHTML = spendChips(day, state);
   }

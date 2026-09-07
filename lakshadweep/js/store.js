@@ -1,33 +1,36 @@
 // Tiny observable store with localStorage persistence.
-// v2 key: v1 state (all activities on, fly-sail) is deliberately not migrated —
-// the budget-first defaults are the point of the second pass.
+// v3 key: v2's five-activity `activities` map became `picks` over the whole
+// catalogue; old state is not migrated (defaults changed with the fare re-check).
+import { DEFAULT_PICKS } from './data/catalogue.js';
 
-const STORAGE_KEY = 'lakshadweep-ledger:v2';
+const STORAGE_KEY = 'lakshadweep-ledger:v3';
 
 export const DEFAULT_STATE = {
   strategy: 'sail-both',
-  shipClass: 'second',
+  shipClass: 'bunk',
   trainClass: 'sleeper',
   travellers: 2,
   homestayRate: 3000,
-  activities: { scuba: false, bangaram: false, snorkel: false, kayak: false, glassBottom: false },
+  picks: { ...DEFAULT_PICKS },
   checked: {},
   theme: 'auto',
 };
 
+const fresh = () => ({ ...DEFAULT_STATE, picks: { ...DEFAULT_PICKS }, checked: {} });
+
 function load() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return { ...DEFAULT_STATE };
+    if (!raw) return fresh();
     const saved = JSON.parse(raw);
     return {
-      ...DEFAULT_STATE,
+      ...fresh(),
       ...saved,
-      activities: { ...DEFAULT_STATE.activities, ...(saved.activities || {}) },
+      picks: { ...DEFAULT_PICKS, ...(saved.picks || {}) },
       checked: { ...(saved.checked || {}) },
     };
   } catch {
-    return { ...DEFAULT_STATE };
+    return fresh();
   }
 }
 
@@ -51,7 +54,7 @@ export function createStore() {
       listeners.forEach((fn) => fn(state));
     },
     reset() {
-      state = { ...DEFAULT_STATE, activities: { ...DEFAULT_STATE.activities }, checked: {} };
+      state = fresh();
       persist();
       listeners.forEach((fn) => fn(state));
     },

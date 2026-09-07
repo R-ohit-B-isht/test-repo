@@ -21,14 +21,16 @@ for f in $(find js -name '*.js'); do node --check "$f"; done
 
 ## Layout
 
-- `js/data/` — source of truth: trip dates and places, researched prices with source links, itinerary day blocks, photo credits.
+- `js/data/` — source of truth: trip dates, geo coordinates, dated prices with status + source links, day blocks per route, named stays and eats, the picks catalogue (islands, landmarks, experiences), photo credits.
 - `js/strategies.js` — the five route variants; each lists its day blocks and transport legs (Strategy pattern).
-- `js/plan.js` — builds the dated plan for the selected strategy (Facade).
-- `js/budget.js` — pure budget arithmetic, bucketed into transport / stay / food / local / extras.
+- `js/fares.js` — resolves ship / train class and lodging fares from state.
+- `js/plan.js` — builds the dated plan for the selected strategy (Facade); marks fares read for a different date as `nearby`.
+- `js/grouping.js` — route-aware placement of selected picks: reachable base per day, max four per day, unreachable picks kept visible with a reason.
+- `js/budget.js` — pure budget arithmetic, bucketed into transport / stay / food / local / picks.
 - `js/store.js` — observable localStorage-backed state (Observer pattern).
 - `js/icons.js` — one SVG sprite, referenced by id (Flyweight).
-- `js/render/` — one renderer per section: hero, route map + strategy cards, day cards, ledger, checklist, sources.
+- `js/render/` — one renderer per section: hero, route map (+ day pills, pick icons, off-route ghosts), strategy cards, picks, day cards, ledger, checklist, sources.
 - `js/chrome/` — theme, clock, progress, rail, shortcuts.
 - `img/` — Wikimedia Commons photographs (CC BY / BY-SA), credited in the Sources section.
 
-Prices are estimates observed Aug–Sep 2026 from the linked sources, not live fares.
+Fare statuses: `seen` (read for that exact date), `nearby` (read for another date), `tariff` (official rate, sailing date TBC), `estimate`, `unavailable`. Observed Aug–Sep 2026 from the linked sources, not live fares.

@@ -1,9 +1,10 @@
 // Section 01: strategy comparison cards, journey strip, class pickers.
 import { SOURCES } from '../data/sources.js';
+import { FARE_STATUS } from '../data/prices.js';
 import { TRIP } from '../data/trip.js';
 import { STRATEGIES, SHIP_CLASSES, TRAIN_CLASSES } from '../strategies.js';
 import { compareStrategies, cheapest, fmt, fmtK } from '../budget.js';
-import { html, raw, $ } from '../dom.js';
+import { html, raw, $, fmtDate } from '../dom.js';
 import { icon } from '../icons.js';
 import { bindRadios, syncChecked } from './segmented.js';
 
@@ -25,18 +26,23 @@ function legNode(name, i) {
   return html`<li class="jn" style="--i:${i}"><span class="jn__dot"></span><span class="jn__name">${name}</span></li>`;
 }
 
+const price = (p) => (p.status === 'unavailable' ? 'price n/a' : fmt(p.amount));
+
 function legEdge(leg, i) {
-  const src = SOURCES[leg.price.source];
+  const p = leg.price;
+  const src = SOURCES[p.source];
   const to = leg.via ? `${leg.via.join(' · ')}` : '';
+  const status = FARE_STATUS[p.status];
+  const when = leg.date ? fmtDate(leg.date) + (p.tbc ? ' TBC' : '') : '';
   return html`
-    <li class="je" style="--i:${i}" data-mode="${leg.icon}">
+    <li class="je" style="--i:${i}" data-mode="${leg.icon}" data-status="${p.status}">
       <span class="je__line" aria-hidden="true"></span>
       <span class="je__icon">${raw(icon(leg.icon))}</span>
       <span class="je__mode">${leg.mode}${to ? raw(html`<br />${to}`) : ''}</span>
-      <span class="je__price">${fmt(leg.price.amount)}</span>
-      <span class="je__hours">${leg.hours >= 24 ? `${Math.round(leg.hours / 24)} d` : `${leg.hours} h`}</span>
-      <details class="je__more"><summary aria-label="Fare details for ${leg.from} to ${leg.to}">i</summary>
-        <span>${leg.price.range} · <a href="${src.url}" target="_blank" rel="noopener">source</a></span></details>
+      <span class="je__price">${price(p)}</span>
+      <span class="je__hours">${when}${when ? ' · ' : ''}${leg.hours >= 24 ? `${Math.round(leg.hours / 24)} d` : `${leg.hours} h`}</span>
+      <details class="je__more"><summary aria-label="Fare details for ${leg.from} to ${leg.to}" title="${status.hint}">${status.label}</summary>
+        <span>${p.label}${p.date ? ` · ${fmtDate(p.date)}` : ''} · ${p.range} · ${p.unit} · <a href="${src.url}" target="_blank" rel="noopener">source</a></span></details>
     </li>`;
 }
 

@@ -5,6 +5,7 @@ import { $ } from './dom.js';
 import { renderHero } from './render/hero.js';
 import { mountRoute, renderRoute, nextStrategy } from './render/route.js';
 import { renderItinerary } from './render/itinerary.js';
+import { mountPicks, renderPicks } from './render/picks.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountSources } from './render/sources.js';
@@ -17,6 +18,7 @@ const store = createStore();
 
 $('#sprite').innerHTML = iconSprite();
 mountRoute(store);
+mountPicks(store);
 mountBudget(store);
 mountChecklist(store);
 mountSources();
@@ -24,6 +26,7 @@ mountSources();
 store.subscribe((state) => {
   renderRoute(state);
   renderHero(state);
+  renderPicks(state);
   renderItinerary(state);
   renderBudget(state);
   renderChecklist(state);

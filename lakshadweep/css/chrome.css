@@ -168,8 +168,8 @@
   overflow: auto;
   white-space: pre-wrap;
   word-break: break-all;
-  font-size: 0.6875rem;
-  line-height: 0.875rem;
+  font-size: var(--fs-label);
+  line-height: 1rem;
   border-top: 0.5px solid #191919;
   padding-top: var(--s1);
 }

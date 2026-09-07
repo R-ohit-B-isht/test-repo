@@ -1,6 +1,4 @@
 // Section 03: controls, stacked cost bar, bucket rows, essential / all-in totals.
-import { ACTIVITIES } from '../data/trip.js';
-import { PRICES } from '../data/prices.js';
 import { computeBudget, fmt } from '../budget.js';
 import { html, raw, $, $$ } from '../dom.js';
 import { icon } from '../icons.js';
@@ -11,18 +9,6 @@ export function mountBudget(store) {
     store.set((s) => ({ travellers: Math.min(6, Math.max(1, s.travellers + Number(btn.dataset.step))) }));
   }));
   $('#homestay-rate').addEventListener('input', (e) => store.set({ homestayRate: Number(e.target.value) }));
-
-  $('#activity-toggles').innerHTML = ACTIVITIES.map((a) => html`
-    <button type="button" class="toggle" data-activity="${a.id}" aria-pressed="false">
-      ${raw(icon(a.icon))}
-      <span class="toggle__name">${a.label}<small>${a.where}</small></span>
-      <span class="toggle__price">${fmt(PRICES[a.key].amount)}</span>
-    </button>`).join('');
-  $('#activity-toggles').addEventListener('click', (e) => {
-    const btn = e.target.closest('[data-activity]');
-    if (!btn) return;
-    store.set((s) => ({ activities: { ...s.activities, [btn.dataset.activity]: !s.activities[btn.dataset.activity] } }));
-  });
 }
 
 function stack(b) {
@@ -45,13 +31,8 @@ export function renderBudget(state) {
   $('#travellers').textContent = state.travellers;
   $('#homestay-rate').value = state.homestayRate;
   $('#homestay-rate-out').textContent = `${fmt(state.homestayRate)} / room / night`;
-  const onRoute = new Set(b.plan.days.flatMap((d) => d.spend.filter((i) => i.optional).map((i) => i.optional)));
-  $$('[data-activity]').forEach((btn) => {
-    const here = onRoute.has(btn.dataset.activity);
-    btn.disabled = !here;
-    btn.title = here ? '' : 'Not on this route';
-    btn.setAttribute('aria-pressed', String(here && Boolean(state.activities[btn.dataset.activity])));
-  });
+  const paid = b.plan.days.reduce((n, d) => n + d.picks.filter((p) => p.key).length, 0);
+  $('#picks-summary').innerHTML = html`<strong>${b.plan.placedCount}</strong> things on the plan · ${paid} paid${b.unpriced.length ? raw(html` · <em>${b.unpriced.length} priced locally, not counted</em>`) : ''} · <a href="#picks">change picks ↑</a>`;
 
   const onlyEssentials = b.extras === 0;
   $('#ledger').innerHTML = html`
@@ -64,7 +45,7 @@ export function renderBudget(state) {
       </div>
       ${onlyEssentials ? '' : raw(html`
       <div class="ledger__total is-final">
-        <dt>With water sports</dt>
+        <dt>With your picks</dt>
         <dd data-total>${fmt(b.perPerson)}</dd>
       </div>`)}
       <div class="ledger__group">
@@ -72,7 +53,7 @@ export function renderBudget(state) {
         <dd>${fmt(b.group)}</dd>
       </div>
     </dl>
-    <p class="ledger__note">${b.strategy.name} · ${b.plan.length} days · rooms and boats split across the party · optional sports ${onlyEssentials ? 'switched off' : 'included above'}.</p>`;
+    <p class="ledger__note">${b.strategy.name} · ${b.plan.length} days · rooms and boats split across the party · three meals a day unless the fare includes them · paid picks ${onlyEssentials ? 'none' : 'included above'}.</p>`;
 
   const dd = $('[data-total]');
   dd.dataset.prev = String(prevTotal ?? b.perPerson);

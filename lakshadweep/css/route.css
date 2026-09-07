@@ -67,16 +67,22 @@
 .je__hours { grid-area: hours; color: var(--mist); font-size: var(--fs-label); line-height: 1rem; text-align: right; }
 .je__more { grid-area: more; font-size: var(--fs-label); line-height: 1rem; color: var(--mist); }
 .je__more summary {
-  display: inline-grid;
-  place-items: center;
-  width: 1.25rem;
+  display: inline-flex;
+  align-items: center;
   height: 1.25rem;
+  padding: 0 var(--s1);
   border: var(--hair);
-  border-radius: 50%;
+  border-radius: 999px;
   cursor: pointer;
   list-style: none;
-  font: italic 400 0.875rem/1 var(--serif);
+  font-size: var(--fs-label);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
+.je[data-status='seen'] .je__more summary { border-color: var(--forest); color: var(--forest); }
+.je[data-status='nearby'] .je__more summary { border-color: var(--forest); color: var(--forest); border-style: dashed; }
+.je[data-status='estimate'] .je__more summary, .je[data-status='unavailable'] .je__more summary { border-style: dashed; }
+.je[data-status='unavailable'] .je__price { color: var(--mist); font-style: italic; }
 .je__more summary::-webkit-details-marker { display: none; }
 .je__more[open] summary { background: var(--ink); color: var(--paper); }
 .je__more span { display: block; margin-top: 0.25rem; max-width: 34rem; }
@@ -127,4 +133,8 @@
 .map__lensbg { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
 .map__lensline { stroke: var(--ink); stroke-width: 0.5; stroke-dasharray: 2 2; }
 .map__isle { fill: var(--lagoon); stroke: var(--forest); stroke-width: 0.5; }
-.map__node--lens text { font-size: 8px; }
+.map__node--lens text { font-size: 9px; }
+.map__day rect { fill: var(--ink); }
+.map__day text { fill: var(--paper); font-size: 7.5px; letter-spacing: 0.06em; }
+.map__acts use { stroke: var(--forest); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.map__ghost { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }

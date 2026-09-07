@@ -14,21 +14,21 @@
 }
 
 /* Segmented control */
-.segmented { display: inline-grid; grid-auto-flow: column; border: var(--hair); }
+.segmented { display: inline-grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); max-width: 100%; border: var(--hair); }
 .seg {
   display: grid;
   gap: 0.125rem;
   padding: var(--s1) var(--s2);
   border-right: var(--hair);
   text-align: left;
-  min-width: 8rem;
+  min-width: 0;
   transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
 }
 .seg:last-child { border-right: 0; }
 .seg:hover { background: var(--faint); }
 .seg:active { transform: scale(0.97); }
 .seg[aria-checked='true'] { background: var(--ink); color: var(--paper); }
-.seg__name { font: italic 400 1.25rem/1.5rem var(--serif); }
+.seg__name { font: italic 400 1.25rem/1.5rem var(--serif); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .seg__price { font-size: var(--fs-label); line-height: 1rem; opacity: 0.75; }
 
 /* Fields */
@@ -73,23 +73,36 @@ input[type='range']::-moz-range-thumb { width: 1rem; height: 1rem; border-radius
 input[type='range']:active::-webkit-slider-thumb { transform: scale(0.9); }
 .range__out { font-variant-numeric: tabular-nums; }
 
-/* Activity toggles: icon · name · price · dot */
-.toggles { display: grid; border-top: var(--hair); max-width: 24rem; }
-.toggle {
+/* Catalogue picks: icon · name/hint · where it lands · price · dot */
+.picks { display: grid; margin-bottom: var(--s2); }
+.picks__group .fold__sum > span:first-child { color: var(--ink); font: inherit; margin: 0; }
+.picks__hint { color: var(--mist); font: 400 var(--fs-label)/1rem var(--mono); margin-left: var(--s1); }
+.picks__count { color: var(--forest); font-size: var(--fs-label); letter-spacing: 0.04em; text-transform: uppercase; white-space: nowrap; }
+.picks__grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); gap: 0 var(--s3); padding-bottom: var(--s2); }
+.pick {
   display: grid;
-  grid-template-columns: 1.25rem 1fr auto 0.75rem;
-  gap: var(--s2);
+  grid-template-columns: 1.25rem minmax(0, 1fr) auto 0.75rem;
+  gap: var(--s1);
   align-items: center;
   width: 100%;
+  min-height: 3rem;
   padding: var(--s1) 0;
   border-bottom: var(--hair);
   text-align: left;
   transition: color var(--dur-fast) var(--ease-out);
 }
-.toggle__name { display: grid; line-height: 1.25rem; }
-.toggle__name small { font-size: var(--fs-label); line-height: 1rem; color: var(--mist); }
-.toggle__price { font-variant-numeric: tabular-nums; }
-.toggle::after {
+.pick .ic { width: 1.25rem; height: 1.25rem; }
+.pick__name { display: grid; line-height: 1.25rem; min-width: 0; }
+.pick__name > * { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.pick__name small { font-size: var(--fs-label); line-height: 1rem; color: var(--mist); }
+.pick__meta { display: grid; justify-items: end; }
+.pick__tag { font-size: var(--fs-label); line-height: 1rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--mist); text-align: right; white-space: nowrap; }
+.pick__tag:empty { display: none; }
+.pick[data-state='day'] .pick__tag { color: var(--forest); }
+.pick[data-state='skip'] .pick__tag { color: var(--coral); }
+.pick__price { font-variant-numeric: tabular-nums; font-size: var(--fs-label); line-height: 1rem; }
+.pick__price:empty { display: none; }
+.pick::after {
   content: '';
   width: 0.75rem;
   height: 0.75rem;
@@ -98,10 +111,14 @@ input[type='range']:active::-webkit-slider-thumb { transform: scale(0.9); }
   background: var(--lagoon);
   transition: background-color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
 }
-.toggle[aria-pressed='false'] { color: var(--mist); }
-.toggle[aria-pressed='false']::after { background: transparent; }
-.toggle:active::after { transform: scale(0.85); }
-.toggle:disabled { cursor: not-allowed; opacity: 0.4; }
+.pick[aria-pressed='false'] { color: var(--mist); }
+.pick[aria-pressed='false']::after { background: transparent; }
+.pick[data-state='skip']::after { background: transparent; border-style: dashed; border-color: var(--coral); }
+.pick:active::after { transform: scale(0.85); }
+.picks__note { color: var(--mist); font-size: var(--fs-label); line-height: 1rem; margin-bottom: var(--s3); }
+.field__sum { color: var(--mist); }
+.field__sum strong { color: var(--ink); font-weight: 400; }
+.field__sum em { font-style: normal; color: var(--coral); }
 
 /* Progressive disclosure */
 .fold { border-top: var(--hair); }
