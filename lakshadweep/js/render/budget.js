@@ -1,17 +1,44 @@
-// Section 04: controls (travellers, homestay rate, picks summary) on the left,
-// the sticky ledger card (stacked bar, dotted-leader lines, totals) on the right.
+// Section 04: controls (travellers, homestay rate, days-out list, Cheaper /
+// Splurge presets) on the left, the sticky ledger card (stacked bar,
+// dotted-leader lines, totals) on the right.
 import { computeBudget, fmt } from '../budget.js';
+import { CATALOGUE } from '../data/catalogue.js';
+import { PRICES } from '../data/prices.js';
 import { html, raw, $ } from '../dom.js';
 import { icon } from '../icons.js';
 import { animateNumber } from '../chrome/counter.js';
+import { pickTag } from './dayPlan.js';
+
+const PAID = CATALOGUE.filter((c) => c.key).map((c) => c.id);
+
+// Cheaper: drop every paid pick, cheapest ship class and room. Splurge: tick all paid fun.
+const PRESETS = {
+  cheaper: (s) => ({ shipClass: 'bunk', homestayRate: 2500, picks: { ...s.picks, ...Object.fromEntries(PAID.map((id) => [id, false])) } }),
+  splurge: (s) => ({ picks: { ...s.picks, ...Object.fromEntries(PAID.map((id) => [id, true])) } }),
+};
 
 export function mountBudget(store) {
   $('#controls').addEventListener('click', (e) => {
+    const preset = e.target.closest('[data-preset]');
+    if (preset) return store.set(PRESETS[preset.dataset.preset]);
     const btn = e.target.closest('[data-step]');
     if (!btn) return;
     store.set((s) => ({ travellers: Math.min(6, Math.max(1, s.travellers + Number(btn.dataset.step))) }));
   });
   $('#homestay-rate').addEventListener('input', (e) => store.set({ homestayRate: Number(e.target.value) }));
+}
+
+const outTag = (day, p) => (
+  !day.pkg && PRICES[p.key].status !== 'unavailable' ? fmt(PRICES[p.key].amount) : pickTag(p, day)
+);
+
+const outRow = (day, p) => html`
+  <li><b>D${day.n}</b>${raw(icon(p.icon))}<span>${p.name}</span><small>${outTag(day, p)}</small></li>`;
+
+function daysOut(plan) {
+  const rows = plan.days.flatMap((d) => d.picks.filter((p) => p.key).map((p) => outRow(d, p)));
+  if (!rows.length) return html`<li class="is-empty">${raw(icon('sun'))}<span>No paid fun ticked — beaches and strolls only</span></li>`;
+  return rows.join('');
 }
 
 const seg = (k, total) => html`<i data-bucket="${k.id}" style="flex-grow:${k.amount / total}" title="${k.label} ${fmt(k.amount)}"></i>`;
@@ -38,6 +65,9 @@ export function renderBudget(state) {
 
   const paid = b.plan.days.reduce((n, d) => n + d.picks.filter((p) => p.key).length, 0);
   $('#picks-summary').innerHTML = html`<strong>${b.plan.placedCount}</strong> on the plan · <strong>${paid}</strong> paid${b.unpriced.length ? raw(html` · <em>${b.unpriced.length} priced locally</em>`) : ''} <a href="#picks">change ↑</a>`;
+  $('#days-out').innerHTML = daysOut(b.plan);
+  $('[data-preset="cheaper"]').disabled = paid === 0 && state.shipClass === 'bunk' && state.homestayRate === 2500;
+  $('[data-preset="splurge"]').disabled = PAID.every((id) => state.picks[id]);
 
   const total = b.perPerson || 1;
   const onlyEssentials = b.extras === 0;

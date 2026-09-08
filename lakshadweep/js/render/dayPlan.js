@@ -9,7 +9,7 @@ import { fmt } from '../budget.js';
 import { html, raw } from '../dom.js';
 import { icon } from '../icons.js';
 
-function pickTag(item, day) {
+export function pickTag(item, day) {
   if (day.pkg && item.key && PACKAGE_FREE.has(item.key)) return 'in package';
   if (item.reach !== 'base') return REACH[item.reach].label;
   if (!item.key) return 'free';
@@ -38,7 +38,7 @@ export function doList(day) {
 }
 
 const nearChip = (p) => html`<li><span class="near" title="${extraTag(p)}">${raw(icon(p.icon))}${p.name}</span></li>`;
-const addChip = (c) => html`<li><button type="button" class="near near--add" data-add="${c.id}" title="${c.hint}">${raw(icon('plus'))}${c.name}${c.key && PRICES[c.key].status !== 'unavailable' ? raw(html`<b>${fmt(PRICES[c.key].amount)}</b>`) : ''}</button></li>`;
+const addChip = (c) => html`<li><button type="button" class="near near--add" data-add="${c.id}" title="${c.hint}" aria-label="Add ${c.name} to this day">${raw(icon('plus'))}${c.name}${c.key && PRICES[c.key].status !== 'unavailable' ? raw(html`<b>${fmt(PRICES[c.key].amount)}</b>`) : ''}</button></li>`;
 
 export function nearby(day, picks) {
   const extras = day.picks.filter(isExtra);

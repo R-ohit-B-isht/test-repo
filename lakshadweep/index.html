@@ -147,8 +147,13 @@
             </div>
             
             <div class="card">
-              <span class="eyebrow">Picks</span>
+              <span class="eyebrow">Days out · from your picks</span>
               <p class="field-sum" id="picks-summary"></p>
+              <ul class="days-out" id="days-out" aria-label="Paid picks by day"></ul>
+              <div class="preset-row">
+                <button type="button" class="btn btn-ghost" data-preset="cheaper"><svg class="ic" aria-hidden="true"><use href="#i-bag"/></svg>Cheaper</button>
+                <button type="button" class="btn btn-ghost" data-preset="splurge"><svg class="ic" aria-hidden="true"><use href="#i-snorkel"/></svg>Splurge</button>
+              </div>
             </div>
           </form>
           <div class="card total-card" id="ledger" aria-live="polite"></div>
